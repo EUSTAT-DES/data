@@ -1,0 +1,127 @@
+other_info: Bestelako informazioa
+computation_calculations: Kalkuluak
+computation_definitions: Definizioak
+computation_units: Neurri-unitatea
+goal_meta_link: NBEko metadatuetarako esteka
+indicator: Adierazlearen zenbakia
+indicator_definition: Adierazle mundialaren deskribapena
+indicator_name: adierazlearen izena
+indicator_sort_order: Adierazlea bistaratzeko agindua (helburua)
+national_data_update_url: Azken aldiz eguneratutako datuak
+national_geographical_coverage: Estaldura geografikoa
+national_indicator_available: Adierazle erabilgarria
+national_indicator_description: Adierazlearen deskribapena
+national_metadata_update_url: Azken aldiz eguneratutako metadatuak
+source_contact_1: Harremanetarako xehetasunak
+source_contact_2: Harremanetarako xehetasunak
+source_contact_3: Harremanetarako xehetasunak
+source_contact_4: Harremanetarako xehetasunak
+source_contact_5: Harremanetarako xehetasunak
+source_contact_6: Harremanetarako xehetasunak
+source_earliest_available_1: Datu erabilgarri zaharrenak
+source_earliest_available_2: Datu erabilgarri zaharrenak
+source_earliest_available_3: Datu erabilgarri zaharrenak
+source_earliest_available_4: Datu erabilgarri zaharrenak
+source_earliest_available_5: Datu erabilgarri zaharrenak
+source_earliest_available_6: Datu erabilgarri zaharrenak
+source_geographical_coverage_1: Estaldura geografikoa
+source_geographical_coverage_2: Estaldura geografikoa
+source_geographical_coverage_3: Estaldura geografikoa
+source_geographical_coverage_4: Estaldura geografikoa
+source_geographical_coverage_5: Estaldura geografikoa
+source_geographical_coverage_6: Estaldura geografikoa
+source_next_release_1: Hurrengo argitalpena
+source_next_release_2: Hurrengo argitalpena
+source_next_release_3: Hurrengo argitalpena
+source_next_release_4: Hurrengo argitalpena
+source_next_release_5: Hurrengo argitalpena
+source_next_release_6: Hurrengo argitalpena
+source_organisation_1: Erakundea
+source_organisation_2: Erakundea
+source_organisation_3: Erakundea
+source_organisation_4: Erakundea
+source_organisation_5: Erakundea
+source_organisation_6: Erakundea
+source_other_info_1: Bestelako informazioa
+source_other_info_2: Bestelako informazioa
+source_other_info_3: Bestelako informazioa
+source_other_info_4: Bestelako informazioa
+source_other_info_5: Bestelako informazioa
+source_other_info_6: Bestelako informazioa
+source_periodicity_1: Aldizkakotasuna
+source_periodicity_2: Aldizkakotasuna
+source_periodicity_3: Aldizkakotasuna
+source_periodicity_4: Aldizkakotasuna
+source_periodicity_5: Aldizkakotasuna
+source_periodicity_6: Aldizkakotasuna
+source_release_date_1: Argitalpen-data
+source_release_date_2: Argitalpen-data
+source_release_date_3: Argitalpen-data
+source_release_date_4: Argitalpen-data
+source_release_date_5: Argitalpen-data
+source_release_date_6: Argitalpen-data
+source_statistical_classification_1: Sailkapen estatistikoa
+source_statistical_classification_2: Sailkapen estatistikoa
+source_statistical_classification_3: Sailkapen estatistikoa
+source_statistical_classification_4: Sailkapen estatistikoa
+source_statistical_classification_5: Sailkapen estatistikoa
+source_statistical_classification_6: Sailkapen estatistikoa
+source_url_1: Datu-iturrirako esteka
+source_url_2: Datu-iturrirako esteka
+source_url_3: Datu-iturrirako esteka
+source_url_4: Datu-iturrirako esteka
+source_url_5: Datu-iturrirako esteka
+source_url_6: Datu-iturrirako esteka
+target: Helmugaren izena
+target_id: Helmugaren zenbakia
+un_custodian_agency: NBEko Zaintza Agentzia
+un_designated_tier: NBEk izendatutako maila
+quality_assurance: Kalitate-bermea
+international_comparability: Nazioarteko datuekin alderagarritasuna
+comments_limitations: Iruzkinak eta mugak
+rationale_interpretation: Arrazionaltasuna eta interpretazioa
+rational_interpretation: Arrazionaltasuna eta interpretazioa
+copyright: Egile eskubideak
+OTHER_DOC: Erreferentziak eta dokumentazioa
+COMPARABILITY: Nazioarteko arauen alderagarritasuna
+COVERAGE: Datuen erabilgarritasuna eta banakapena
+QUALITY_ASSMNT: Kalitatearen ebaluazioa
+QUALITY_ASSURE: Kalitate-asegurua
+QUALITY_MGMNT: Kalitatearen kudeaketa
+DOC_METHOD: Herrialdeen eskura dauden metodoak eta orientabideak, datuak nazio-mailan lortzeko
+REG_AGG: Lurralde-agregazioak
+IMPUTATION: Galdutako balioen tratamendua (i) herrialde mailan eta (ii) lurralde mailan
+ADJUSTMENT: Doikuntzak
+DATA_VALIDATION: Balidazioa
+DATA_KONP: Kalkulu-metodoa
+REC_USE_LIM: Iruzkinak eta mugak
+RATIONALE: Justifikazioa
+OTHER_METHOD: Beste kontsiderazio metodologiko batzuk
+INST_MANDATE: Agintaldi instituzionala
+COMPILING_ORG: Datu-konpiladoreak
+DATA_SOURCE: Datu-hornitzaileak
+REL_CAL_POLICY: Datuak argitaratzeko egutegia
+FREQ_COLL: Datuak biltzeko egutegia
+COLL_METHOD: Datuak biltzeko metodoa
+SOURCE_TYPE: Datu-iturriak
+SRC_TYPE_COLL_METHOD: Datu-iturri mota eta biltzeko metodoa
+CLASS_SYSTEM: Sailkapenak
+UNIT_MEASURE: Neurri-unitatea
+STAT_CONC_DEF: Definizioa eta kontzeptuak
+IND_DEF_CON_CLASS: Definizioa, kontzeptuak eta sailkapenak
+CONTACT_EMAIL: Harremanetarako posta elektronikoa
+CONTACT_MAIL: Harremanetarako helbide elektronikoa
+CONTACT_PHONE: Harremanetarako telefonoa
+CONTACT_FUNCT: Harremanetarako pertsonaren funtzioa
+ORGANISATION_UNIT: Kontaktuak antolatzeko unitatea
+CONTACT_NAME: Harremanetarako pertsona (k)
+CONTACT_ORGANISATION: Antolaketa
+CONTACT: Datu-erreportaria
+SDG_CUSTODIAN_AGENCIES: Mundu mailako jarraipenaz arduratzen diren nazioarteko erakundeak
+SDG_RELATED_INDICATORS: Erlazionatutako adierazleak
+META_LAST_UPDATE: Metadatuak eguneratzea
+SDG_SERIES_DESCR: Serieak
+SDG_INDICATOR: Adierazlea
+SDG_TARGET: Helmuga
+SDG_GOAL: Helburua
+SDG_INDICATOR_INFO: Adierazlearen informazioa

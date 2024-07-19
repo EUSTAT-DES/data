@@ -1,0 +1,42 @@
+cookie_settings: Cookieen konfigurazioa
+all_required_notice: Funtsezko cookie batzuk erabiltzen ditugu zerbitzu honek funtziona dezan. Beti piztuta egon behar dute.
+all_required_ok: OK
+acceptAll: Onartu dena
+acceptSelected: Onartu autatua
+close: Itxi
+consentModal_description: Hemen alda dezakezu zein cookie erabili nahi dituzun
+consentModal_title: Cookien konfigurazioa
+consentNotice_changeDescription: Gune honetan erabiltzen diren cookieak aldatu egin dira azken aldiz bisitatu zinenetik.
+consentNotice_description: Funtsezko cookie batzuk erabiltzen ditugu zerbitzu honek funtziona dezan. Era berean, {purposes} erabili nahi genuke, ulertu ahal izateko nola erabiltzen duzun zerbitzua eta hobekuntzak egiteko.
+consentNotice_learnMore: Ikusi cookieak
+consentNotice_testing: Testatzen!
+contextualConsent_acceptAlways: Beti
+contextualConsent_acceptOnce: 'Bai'
+contextualConsent_description: {title} -k hornitutako kanpoko edukiak kargatu nahi dituzu?
+decline: Baztertu cookie gehigarriak
+ok: Onartu cookie gehiago.
+poweredBy: Klaro!rekin egina
+privacyPolicy_name: pribatutasun politika
+privacyPolicy_text: Gehiago jakiteko, irakurri gure pribatutasun politika.
+purposeItem_service: zerbitzua
+purposeItem_services: zerbitzuak
+purposes_functional_description: Funtsezko cookieek zure informazioa ziurtatuta mantentzen dute, eta zure lehentasunak eta web orria erabiltzen duzun bitartean egiten dituzun aukeraketak gogoratzen dituzte. Beti egon behar dute.
+purposes_functional_title: Funtsezko cookieak
+purposes_performance_description: Zerbitzu hauek informazio pertsonala prozesatzen dute webgune honek eskaintzen duen zerbitzua optimizatzeko.
+purposes_performance_title: Errendimenduaren optimizazioa
+purposes_analytics_description: Zerbitzu hauek webgunearen erabilerari buruzko informazioa biltzen dute. Datu hauek web orria hobetzen laguntzeko erabiltzen ditugu.
+purposes_analytics_title: Cookie analitikoak
+save: Gorde
+service_disableAll_description: Erabili etengailu hau zerbitzu guztiak gaitzeko edo desaktibatzeko.
+service_disableAll_title: Zerbitzu guztiak gaitu edo desgaitu
+service_optOut_description: Zerbitzu hauek akatsez kargatuta daude (baina aukera dezakezu)
+service_optOut_title: (opt-out)
+service_purpose: xedea
+service_purposes: helburuak
+service_required_description: Zerbitzu hau beti behar da.
+service_required_title: (beti beharrezkoa)
+contrast_description: Irisgarritasun-zerbitzuen egoera aktiboa mantentzen du
+contrast_title: Irisgarritasun modua
+google_analytics_description: Orrialde-bisitei buruzko informazioa biltzen du, Google Analytics erabiliz.
+google_analytics_title: Google Analytics
+cookie_settings_description: Gorde zure cookie baimen konfigurazioa
