@@ -94,7 +94,7 @@ reporting_status_extra_fields: []
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
 map_layers:
-  - geojson_file: data/Territorio.geojson
+  - geojson_file: data/maps/Territorio.geojson
     name_property: Nombre
     id_property: GeoCode
     id_column: GeoCode
