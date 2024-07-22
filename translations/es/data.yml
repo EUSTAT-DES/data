@@ -1,109 +1,107 @@
 # GENERAL
-Year: Urtea
-Value: Balioa
-Euskadi: Euskal AE
-Vasco: Euskal AEko
-Series: Seriea
-Units: Unitatea
-Unit: Unitatea
+Year: 'Año'
+Value: Valor
+Euskadi: 'C.A. de Euskadi'
+Vasco: 'de la C.A. de Euskadi'
+Series: Serie
+Units: Unidad
+Unit: Unidad
 # VARIABLES
-Territorio: Lurraldea
-Comarca: Eskualdea
-Municipio: Udalerria
-Sexo: Sexua
-Umbral: Pobreziaren atalasea
-Energia: Energia iturri berriztagarria
-TER: Energia iturri berriztagarria
-Ingreso: Diru-sarrerak
-Producto: Produktua
+Territorio: Territorio
+Comarca: Comarca
+Municipio: Municipio
+Sexo: Sexo
+Umbral: Umbral de la pobreza
+TER: Fuente de energía renovable
+Ingreso: Ingresos
+Producto: Producto
 # SERIES
-EN_MAT_DOMCMPT: Barne-kontsumo materiala balio absolututan
-EN_MAT_DOMCMPG: Barne-kontsumo materiala BPGaren arabera
-EN_MAT_DOMCMPC: Barne-kontsumo materiala per capita
-I21:  2021=100 Indizea
-PCH_A: Urte arteko aldakuntza tasa
+EN_MAT_DOMCMPT: Consumo material interno en términos absolutos
+EN_MAT_DOMCMPG: Consumo material interno por PIB
+EN_MAT_DOMCMPC: Consumo material interno per cápita
+I21: Índice 2021=100
+PCH_A: Tasa de variación interanual
 # VALORES
-M: Gizona
-F: Emakumea
-ECOICOP_011: Ogia
-ECOICOP_0111: Ogia eta zerealak
-TRT_FV: Fotovoltaikoa
-TRT_HYDROPOWER: Hidroelektrikoa
-TRT_MULTIPLE: Energia iturri berriztagarri guztiak
-TRT_SOLARTHERMAL: Eguzki-energia termikoa
-TRT_WIND: Eolikoa
-IMP_RENT: Diru-sarrerak alokairua egotzita
-REG: Autonomikoa
-NAC: Nazionala
+M: Hombre
+F: Mujer
+ECOICOP_011: Pan
+ECOICOP_0111: Pan y cereales
+TRT_FV: Fotovoltaica
+TRT_HYDROPOWER: Hidroeléctrica
+TRT_MULTIPLE: Todas las fuentes de energía renovable
+TRT_SOLARTHERMAL: Solar térmica
+TRT_WIND: Eólica
+IMP_RENT: Ingresos con alquiler imputado
+REG: Autonómico
+NAC: Nacional
 # UNIDADES
-Units: Unitateak
-CON_USD: "Dolar amerikar konstanteak"
-HA: "Hektareak"
-IX: "Indizea"
-KG_CO2_PER_GDP_CON_PPP_USD: "CO2 baliokidearen kg 1 PPP USD konstanteko (BPG)"
-KG_OE_PER_GDP_CON_PPP_USD: "Petrolio baliokidearen kg 1.000 PPP USD konstanteko (BPG)"
-KG: "Kilogramoak"
-KG_PER_CON_USD: "Kilogramoak USD konstanteko"
-KM: "Kilometroak"
-KM2: "Kilometro karratuak"
-LITRES_PURE_ALCOHOL: "Alkohol puruaren litroak"
-CUR_LCU: "Tokiko moneta"
-LCU_PPP_USD: "Tokiko moneta USD bakoitzeko (PPP)"
-MJ_PER_GDP_CON_PPP_USD: "Megajouleak PPP USD konstanteko (BPG)"
-T: "Tonelada metrikoak"
-GPERM3: "Mikrogramoak metro kubiko bakoitzeko"
-NUMBER: "Zenbakia"
-PER_USD_GDP_PPP: "1 PPP USD bakoitzeko (BPG)"
-PER_1000_LIVE_BIRTHS: "1.000 jaiotza bakoitzeko"
-PER_1000_POP: "1.000 biztanle bakoitzeko"
-PER_1000_USD: "1.000 USD bakoitzeko"
-PER_1000_UNINFECTED_POP: "1.000 infekzio gabeko biztanle bakoitzeko"
-PER_100_LIVE_BIRTHS: "100 jaiotza bakoitzeko"
-PER_100_POP: "100 biztanle bakoitzeko"
-PER_100000_EMP: "100.000 langile bakoitzeko"
-PER_100000_FTE: "100.000 lanaldi osoko langile bakoitzeko"
-PER_100000_LIVE_BIRTHS: "100.000 jaiotza bakoitzeko"
-PER_100000_PRSN_INSR: "100.000 aseguratutako pertsona bakoitzeko"
-PER_100000_POP: "100.000 biztanle bakoitzeko"
-PER_100000_WKRS_EMP: "100.000 enplegatu bakoitzeko"
-PER_100000_WKRS_EXPD: "100.000 arriskupeko langile bakoitzeko"
-PER_1000000_POP: "Miloi bat biztanle bakoitzeko"
-PT: "Ehunekoa"
-PROB: "Probabilitatea"
-RO: "Ratioa"
-T_KM: "Tonelada bakoitzeko kilometroak"
-T_PER_HA: "Tonelada bakoitzeko hektarea"
-USD: "Dolar amerikarrak"
-PV_USD: "Egonkorreko balioa USD"
-USD_PER_M3: "Dolar amerikarrak metro kubiko bakoitzeko"
-PER_10000_POP: "10.000 biztanle bakoitzeko"
-P_KM: "Bidaiari bakoitzeko kilometroa"
-M_M3_PER_YR: "Miloi metro kubiko urteko"
-BOOL: "Boolearren edo bitarren neurria"
-KG_C_KM2_PER_DAY: "kg karbono alga biomasa bakoitzeko km² ur biltegi eremuko egunean"
-KG_OE_PER_GDP_USD: "kg petrolio baliokidea 1.000 USD bakoitzeko BPG"
+CON_USD: "Dólares americanos constantes"
+HA: "Hectáreas"
+IX: "Índice"
+KG_CO2_PER_GDP_CON_PPP_USD: "Kg de CO2 equivalente por 1 USD constantes de PPA (PIB)"
+KG_OE_PER_GDP_CON_PPP_USD: "Kg de petróleo equivalente por 1.000 USD constante de PPA (PIB)"
+KG: "Kilogramos"
+KG_PER_CON_USD: "Kilogramos por USD constantes"
+KM: "Kilómetros"
+KM2: "Kilómetros cuadrados"
+LITRES_PURE_ALCOHOL: "Litros de alcohol puro"
+CUR_LCU: "Moneda local"
+LCU_PPP_USD: "Moneda local por USD (PPA)"
+MJ_PER_GDP_CON_PPP_USD: "Megajulios por USD constante de PPA (PIB)"
+T: "Toneladas métricas"
+GPERM3: "Microgramos por metro cúbico"
+NUMBER: "Número"
+PER_USD_GDP_PPP: "Por 1 USD de PPA (PIB)"
+PER_1000_LIVE_BIRTHS: "Por 1.000 nacidos vivos"
+PER_1000_POP: "Por 1.000 habitantes"
+PER_1000_USD: "Por 1.000 USD"
+PER_1000_UNINFECTED_POP: "Por 1.000 habitantes no infectados"
+PER_100_LIVE_BIRTHS: "Por 100 nacidos vivos"
+PER_100_POP: "Por 100 habitantes"
+PER_100000_EMP: "Por 100.000 empleados"
+PER_100000_FTE: "Por 100.000 empleados a tiempo completo"
+PER_100000_LIVE_BIRTHS: "Por 100.000 nacidos vivos"
+PER_100000_PRSN_INSR: "Por 100.000 personas aseguradas"
+PER_100000_POP: "Por 100.000 habitantes"
+PER_100000_WKRS_EMP: "Por 100.000 trabajadores empleados"
+PER_100000_WKRS_EXPD: "Por 100.000 trabajadores expuestos a riesgos"
+PER_1000000_POP: "Por millón de habitantes"
+PT: "Porcentaje"
+PROB: "Probabilidad"
+RO: "Ratio"
+T_KM: "Toneladas por kilómetros"
+T_PER_HA: "Toneladas por hectárea"
+USD: "Dólares americanos"
+PV_USD: "Dólares americanos en valor presente neto"
+USD_PER_M3: "Dólares americanos por metro cúbico"
+PER_10000_POP: "Por 10.000 habitantes"
+P_KM: "Pasajero por kilómetro"
+M_M3_PER_YR: "Millones de metro cúbicos por año"
+BOOL: "Medida booleana o binaria"
+KG_C_KM2_PER_DAY: "kilogramos de carbono de la biomasa de algas por km2. del área de la cuenca hidrográfica por día"
+KG_OE_PER_GDP_USD: "kg equivalente de petróleo por USD 1.000 PIB"
 PH: "pH"
-SCORE: "Puntuazioa"
-TEU: "Hogei oin baliokide unitateak (TEU)"
-W_PER_CAPITA: "Watt per capita"
-KG_CO2_PER_GDP_EUR: "CO2 baliokidearen kg euro bakoitzeko BPG"
-T_CO2_PER_CAPITA: "CO2 baliokidearen tonak per capita"
-MN: "Minutuak"
-KG_PER_CAPITA_DAY: "Kg per capita eguneko"
-KG_PER_CAPITA: "Kg per capita"
-EUR: "Euroak"
-OVERNIGHT_STAY: "Gaualdiak"
-BOOL_YES_NO: "Logika (1=Bai, 0=Ez)"
-T_OE_PER_1000000_EUR: "Petrolio baliokidearen tonak miloi euro bakoitzeko"
-EUR_1000000: "Miloi euro"
-PER_100000: "100.000 bakoitzeko"
-LICENCES: "Lizentziak"
-ORGANISATIONS: "Erakundeak"
-PER_1000: "1.000 bakoitzeko"
-KT: "Kilotonalda"
-PER_1000_T: "1.000 tonako"
-KG_PER_GDP_1000_EUR:  "kg BPGko 1.000 euroko"
-T_PER_CAPITA: tonak per capita
+SCORE: "Puntuación"
+TEU: "Unidades equivalentes a veinte pies (TEU)"
+W_PER_CAPITA: "Watts per cápita"
+KG_CO2_PER_GDP_EUR: "Kg de CO2 equivalente por euro de PIB"
+T_CO2_PER_CAPITA: "Toneladas de CO2 equivalente per cápita"
+MN: "Minutos"
+KG_PER_CAPITA_DAY: "Kg per cápita diario"
+KG_PER_CAPITA: "Kg per cápita"
+EUR: "Euros"
+OVERNIGHT_STAY: "Pernoctaciones"
+BOOL_YES_NO: "Lógica (1=Sí, 0=No)"
+T_OE_PER_1000000_EUR: "Toneladas equivalentes de petróleo por millón de euros"
+EUR_1000000: "Millones de euros"
+PER_100000: "Por 100.000"
+LICENCES: "Licencias"
+ORGANISATIONS: "Organizaciones"
+PER_1000: "Por 1.000"
+KT: "Kilotoneladas"
+PER_1000_T: "Por 1.000 toneladas"
+KG_PER_GDP_1000_EUR:  "kg por cada 1.000 euros del PIB"
+T_PER_CAPITA: toneladas per capita
 # GEOCODE
 ES211: "Araba/Álava"
 ES213: "Bizkaia"
