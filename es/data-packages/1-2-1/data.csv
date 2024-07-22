@@ -1,1 +1,64 @@
-Year,Value
+Year,Sexo,Territorio,Umbral de la pobreza,Ingresos,GeoCode,Units,Value
+2018,Mujer,Araba/Álava,Autonómico,,Araba/Álava,Porcentaje,17.14
+2020,Mujer,Araba/Álava,Autonómico,,Araba/Álava,Porcentaje,18.85
+2022,Mujer,Araba/Álava,Autonómico,,Araba/Álava,Porcentaje,15.4
+2018,Hombre,Araba/Álava,Autonómico,,Araba/Álava,Porcentaje,11.86
+2020,Hombre,Araba/Álava,Autonómico,,Araba/Álava,Porcentaje,16.24
+2022,Hombre,Araba/Álava,Autonómico,,Araba/Álava,Porcentaje,12.7
+2018,,Araba/Álava,Autonómico,,Araba/Álava,Porcentaje,14.59
+2020,,Araba/Álava,Autonómico,,Araba/Álava,Porcentaje,17.59
+2022,,Araba/Álava,Autonómico,,Araba/Álava,Porcentaje,14.1
+2018,Mujer,Gipuzkoa,Autonómico,,Gipuzkoa,Porcentaje,13.93
+2020,Mujer,Gipuzkoa,Autonómico,,Gipuzkoa,Porcentaje,16.24
+2022,Mujer,Gipuzkoa,Autonómico,,Gipuzkoa,Porcentaje,13.4
+2018,Hombre,Gipuzkoa,Autonómico,,Gipuzkoa,Porcentaje,10.39
+2020,Hombre,Gipuzkoa,Autonómico,,Gipuzkoa,Porcentaje,13.27
+2022,Hombre,Gipuzkoa,Autonómico,,Gipuzkoa,Porcentaje,12.0
+2018,,Gipuzkoa,Autonómico,,Gipuzkoa,Porcentaje,12.25
+2020,,Gipuzkoa,Autonómico,,Gipuzkoa,Porcentaje,14.77
+2022,,Gipuzkoa,Autonómico,,Gipuzkoa,Porcentaje,12.7
+2018,Mujer,Bizkaia,Autonómico,,Bizkaia,Porcentaje,21.66
+2020,Mujer,Bizkaia,Autonómico,,Bizkaia,Porcentaje,17.35
+2022,Mujer,Bizkaia,Autonómico,,Bizkaia,Porcentaje,18.7
+2018,Hombre,Bizkaia,Autonómico,,Bizkaia,Porcentaje,18.05
+2020,Hombre,Bizkaia,Autonómico,,Bizkaia,Porcentaje,15.68
+2022,Hombre,Bizkaia,Autonómico,,Bizkaia,Porcentaje,16.3
+2018,,Bizkaia,Autonómico,,Bizkaia,Porcentaje,19.93
+2020,,Bizkaia,Autonómico,,Bizkaia,Porcentaje,17.35
+2022,,Bizkaia,Autonómico,,Bizkaia,Porcentaje,17.5
+2008,Mujer,,Autonómico,,ES21,Porcentaje,16.6
+2012,Mujer,,Autonómico,,ES21,Porcentaje,16.9
+2014,Mujer,,Autonómico,,ES21,Porcentaje,18.4
+2016,Mujer,,Autonómico,,ES21,Porcentaje,16.8
+2018,Mujer,,Autonómico,,ES21,Porcentaje,18.4
+2020,Mujer,,Autonómico,,ES21,Porcentaje,18.0
+2022,Mujer,,Autonómico,,ES21,Porcentaje,16.5
+2008,Hombre,,Autonómico,,ES21,Porcentaje,11.7
+2012,Hombre,,Autonómico,,ES21,Porcentaje,13.6
+2014,Hombre,,Autonómico,,ES21,Porcentaje,16.0
+2016,Hombre,,Autonómico,,ES21,Porcentaje,14.12
+2018,Hombre,,Autonómico,,ES21,Porcentaje,14.63
+2020,Hombre,,Autonómico,,ES21,Porcentaje,14.95
+2022,Hombre,,Autonómico,,ES21,Porcentaje,14.3
+2008,,,Nacional,Ingresos con alquiler imputado,ES21,Porcentaje,4.52
+2012,,,Nacional,Ingresos con alquiler imputado,ES21,Porcentaje,7.14
+2016,,,Nacional,Ingresos con alquiler imputado,ES21,Porcentaje,7.65
+2020,,,Nacional,Ingresos con alquiler imputado,ES21,Porcentaje,8.61
+2008,,,Nacional,,ES21,Porcentaje,8.77
+2012,,,Nacional,,ES21,Porcentaje,8.8
+2014,,,Nacional,,ES21,Porcentaje,10.34
+2016,,,Nacional,,ES21,Porcentaje,8.96
+2018,,,Nacional,,ES21,Porcentaje,10.16
+2020,,,Nacional,,ES21,Porcentaje,9.84
+2022,,,Nacional,,ES21,Porcentaje,10.61
+2008,,,Autonómico,Ingresos con alquiler imputado,ES21,Porcentaje,10.33
+2012,,,Autonómico,Ingresos con alquiler imputado,ES21,Porcentaje,12.5
+2016,,,Autonómico,Ingresos con alquiler imputado,ES21,Porcentaje,14.29
+2020,,,Autonómico,Ingresos con alquiler imputado,ES21,Porcentaje,16.37
+2008,,,Autonómico,,ES21,Porcentaje,14.3
+2012,,,Autonómico,,ES21,Porcentaje,15.3
+2014,,,Autonómico,,ES21,Porcentaje,17.3
+2016,,,Autonómico,,ES21,Porcentaje,15.5
+2018,,,Autonómico,,ES21,Porcentaje,16.6
+2020,,,Autonómico,,ES21,Porcentaje,16.5
+2022,,,Autonómico,,ES21,Porcentaje,15.5
