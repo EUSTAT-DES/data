@@ -100,7 +100,18 @@ map_layers:
     id_column: GeoCode
     output_subfolder: regions/
     filename_prefix: indicator_
-
+  - geojson_file: data/maps/Comarca.geojson
+    name_property: Nombre
+    id_property: GeoCode
+    id_column: GeoCode
+    output_subfolder: Comarca/
+    filename_prefix: indicator_
+  - geojson_file: data/maps/Municipio.geojson
+    name_property: Nombre
+    id_property: GeoCode
+    id_column: GeoCode
+    output_subfolder: Municipio/
+    filename_prefix: indicator_
 # Documentation settings
 # ----------------------
 # This controls the automatic documentation that is created for your build.
