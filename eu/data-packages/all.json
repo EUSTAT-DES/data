@@ -54,18 +54,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Emakumea",
-                "Gizona",
-                ""
-              ]
-            },
-            "title": "Sexua"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -77,6 +65,29 @@
               ]
             },
             "title": "Lurraldea"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gizona",
+                "Emakumea",
+                ""
+              ]
+            },
+            "title": "Sexua"
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y_GE16",
+                ""
+              ]
+            },
+            "title": "Edad"
           },
           {
             "name": "Umbral",
@@ -100,11 +111,6 @@
               ]
             },
             "title": "Diru-sarrerak"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Units",

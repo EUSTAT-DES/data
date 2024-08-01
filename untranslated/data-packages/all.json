@@ -50,17 +50,6 @@
             "type": "integer"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -68,6 +57,27 @@
                 "ES211",
                 "ES212",
                 "ES213",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y_GE16",
                 ""
               ]
             }
@@ -92,10 +102,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
           },
           {
             "name": "Units",

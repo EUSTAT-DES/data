@@ -1,64 +1,71 @@
-Year,Sex,Province,Poverty treshold,Income,GeoCode,Units,Value
-2018,Female,Araba/Álava,Basque Country,,Araba/Álava,Percentage,17.14
-2020,Female,Araba/Álava,Basque Country,,Araba/Álava,Percentage,18.85
-2022,Female,Araba/Álava,Basque Country,,Araba/Álava,Percentage,15.4
-2018,Male,Araba/Álava,Basque Country,,Araba/Álava,Percentage,11.86
-2020,Male,Araba/Álava,Basque Country,,Araba/Álava,Percentage,16.24
-2022,Male,Araba/Álava,Basque Country,,Araba/Álava,Percentage,12.7
-2018,,Araba/Álava,Basque Country,,Araba/Álava,Percentage,14.59
-2020,,Araba/Álava,Basque Country,,Araba/Álava,Percentage,17.59
-2022,,Araba/Álava,Basque Country,,Araba/Álava,Percentage,14.1
-2018,Female,Gipuzkoa,Basque Country,,Gipuzkoa,Percentage,13.93
-2020,Female,Gipuzkoa,Basque Country,,Gipuzkoa,Percentage,16.24
-2022,Female,Gipuzkoa,Basque Country,,Gipuzkoa,Percentage,13.4
-2018,Male,Gipuzkoa,Basque Country,,Gipuzkoa,Percentage,10.39
-2020,Male,Gipuzkoa,Basque Country,,Gipuzkoa,Percentage,13.27
-2022,Male,Gipuzkoa,Basque Country,,Gipuzkoa,Percentage,12.0
-2018,,Gipuzkoa,Basque Country,,Gipuzkoa,Percentage,12.25
-2020,,Gipuzkoa,Basque Country,,Gipuzkoa,Percentage,14.77
-2022,,Gipuzkoa,Basque Country,,Gipuzkoa,Percentage,12.7
-2018,Female,Bizkaia,Basque Country,,Bizkaia,Percentage,21.66
-2020,Female,Bizkaia,Basque Country,,Bizkaia,Percentage,17.35
-2022,Female,Bizkaia,Basque Country,,Bizkaia,Percentage,18.7
-2018,Male,Bizkaia,Basque Country,,Bizkaia,Percentage,18.05
-2020,Male,Bizkaia,Basque Country,,Bizkaia,Percentage,15.68
-2022,Male,Bizkaia,Basque Country,,Bizkaia,Percentage,16.3
-2018,,Bizkaia,Basque Country,,Bizkaia,Percentage,19.93
-2020,,Bizkaia,Basque Country,,Bizkaia,Percentage,17.35
-2022,,Bizkaia,Basque Country,,Bizkaia,Percentage,17.5
-2008,Female,,Basque Country,,ES21,Percentage,16.6
-2012,Female,,Basque Country,,ES21,Percentage,16.9
-2014,Female,,Basque Country,,ES21,Percentage,18.4
-2016,Female,,Basque Country,,ES21,Percentage,16.8
-2018,Female,,Basque Country,,ES21,Percentage,18.4
-2020,Female,,Basque Country,,ES21,Percentage,18.0
-2022,Female,,Basque Country,,ES21,Percentage,16.5
-2008,Male,,Basque Country,,ES21,Percentage,11.7
-2012,Male,,Basque Country,,ES21,Percentage,13.6
-2014,Male,,Basque Country,,ES21,Percentage,16.0
-2016,Male,,Basque Country,,ES21,Percentage,14.12
-2018,Male,,Basque Country,,ES21,Percentage,14.63
-2020,Male,,Basque Country,,ES21,Percentage,14.95
-2022,Male,,Basque Country,,ES21,Percentage,14.3
-2008,,,National,Income with imputed rental,ES21,Percentage,4.52
-2012,,,National,Income with imputed rental,ES21,Percentage,7.14
-2016,,,National,Income with imputed rental,ES21,Percentage,7.65
-2020,,,National,Income with imputed rental,ES21,Percentage,8.61
-2008,,,National,,ES21,Percentage,8.77
-2012,,,National,,ES21,Percentage,8.8
-2014,,,National,,ES21,Percentage,10.34
-2016,,,National,,ES21,Percentage,8.96
-2018,,,National,,ES21,Percentage,10.16
-2020,,,National,,ES21,Percentage,9.84
-2022,,,National,,ES21,Percentage,10.61
-2008,,,Basque Country,Income with imputed rental,ES21,Percentage,10.33
-2012,,,Basque Country,Income with imputed rental,ES21,Percentage,12.5
-2016,,,Basque Country,Income with imputed rental,ES21,Percentage,14.29
-2020,,,Basque Country,Income with imputed rental,ES21,Percentage,16.37
-2008,,,Basque Country,,ES21,Percentage,14.3
-2012,,,Basque Country,,ES21,Percentage,15.3
-2014,,,Basque Country,,ES21,Percentage,17.3
-2016,,,Basque Country,,ES21,Percentage,15.5
-2018,,,Basque Country,,ES21,Percentage,16.6
-2020,,,Basque Country,,ES21,Percentage,16.5
-2022,,,Basque Country,,ES21,Percentage,15.5
+Year,Province,Sex,Edad,Poverty treshold,Income,Units,Value
+2018,Araba/Álava,Male,Y_GE16,Basque Country,,Percentage,11.9
+2020,Araba/Álava,Male,Y_GE16,Basque Country,,Percentage,16.2
+2022,Araba/Álava,Male,Y_GE16,Basque Country,,Percentage,12.7
+2018,Araba/Álava,Female,Y_GE16,Basque Country,,Percentage,17.1
+2020,Araba/Álava,Female,Y_GE16,Basque Country,,Percentage,18.9
+2022,Araba/Álava,Female,Y_GE16,Basque Country,,Percentage,15.4
+2018,Araba/Álava,,Y_GE16,Basque Country,,Percentage,14.6
+2020,Araba/Álava,,Y_GE16,Basque Country,,Percentage,17.6
+2022,Araba/Álava,,Y_GE16,Basque Country,,Percentage,14.1
+2018,Gipuzkoa,Male,Y_GE16,Basque Country,,Percentage,10.4
+2020,Gipuzkoa,Male,Y_GE16,Basque Country,,Percentage,13.3
+2022,Gipuzkoa,Male,Y_GE16,Basque Country,,Percentage,12.0
+2018,Gipuzkoa,Female,Y_GE16,Basque Country,,Percentage,13.9
+2020,Gipuzkoa,Female,Y_GE16,Basque Country,,Percentage,16.2
+2022,Gipuzkoa,Female,Y_GE16,Basque Country,,Percentage,13.4
+2018,Gipuzkoa,,Y_GE16,Basque Country,,Percentage,12.2
+2020,Gipuzkoa,,Y_GE16,Basque Country,,Percentage,14.8
+2022,Gipuzkoa,,Y_GE16,Basque Country,,Percentage,12.7
+2018,Bizkaia,Male,Y_GE16,Basque Country,,Percentage,18.0
+2020,Bizkaia,Male,Y_GE16,Basque Country,,Percentage,15.7
+2022,Bizkaia,Male,Y_GE16,Basque Country,,Percentage,16.3
+2018,Bizkaia,Female,Y_GE16,Basque Country,,Percentage,21.7
+2020,Bizkaia,Female,Y_GE16,Basque Country,,Percentage,17.4
+2022,Bizkaia,Female,Y_GE16,Basque Country,,Percentage,18.7
+2018,Bizkaia,,Y_GE16,Basque Country,,Percentage,19.9
+2020,Bizkaia,,Y_GE16,Basque Country,,Percentage,17.4
+2022,Bizkaia,,Y_GE16,Basque Country,,Percentage,17.5
+2008,,Male,Y_GE16,Basque Country,,Percentage,11.7
+2012,,Male,Y_GE16,Basque Country,,Percentage,13.6
+2014,,Male,Y_GE16,Basque Country,,Percentage,16.0
+2016,,Male,Y_GE16,Basque Country,,Percentage,14.1
+2018,,Male,Y_GE16,Basque Country,,Percentage,14.6
+2020,,Male,Y_GE16,Basque Country,,Percentage,15.0
+2022,,Male,Y_GE16,Basque Country,,Percentage,14.3
+2008,,Female,Y_GE16,Basque Country,,Percentage,16.6
+2012,,Female,Y_GE16,Basque Country,,Percentage,16.9
+2014,,Female,Y_GE16,Basque Country,,Percentage,18.4
+2016,,Female,Y_GE16,Basque Country,,Percentage,16.8
+2018,,Female,Y_GE16,Basque Country,,Percentage,18.4
+2020,,Female,Y_GE16,Basque Country,,Percentage,18.0
+2022,,Female,Y_GE16,Basque Country,,Percentage,16.5
+2008,,,Y_GE16,Basque Country,,Percentage,14.3
+2012,,,Y_GE16,Basque Country,,Percentage,15.3
+2014,,,Y_GE16,Basque Country,,Percentage,17.3
+2016,,,Y_GE16,Basque Country,,Percentage,15.5
+2018,,,Y_GE16,Basque Country,,Percentage,16.6
+2020,,,Y_GE16,Basque Country,,Percentage,16.5
+2022,,,Y_GE16,Basque Country,,Percentage,15.5
+2008,,,,National,Income with imputed rental,Percentage,4.5
+2012,,,,National,Income with imputed rental,Percentage,7.1
+2016,,,,National,Income with imputed rental,Percentage,7.7
+2020,,,,National,Income with imputed rental,Percentage,8.6
+2008,,,,National,,Percentage,8.8
+2012,,,,National,,Percentage,8.8
+2014,,,,National,,Percentage,10.3
+2016,,,,National,,Percentage,9.0
+2018,,,,National,,Percentage,10.2
+2020,,,,National,,Percentage,9.8
+2022,,,,National,,Percentage,10.6
+2008,,,,Basque Country,Income with imputed rental,Percentage,10.3
+2012,,,,Basque Country,Income with imputed rental,Percentage,12.5
+2016,,,,Basque Country,Income with imputed rental,Percentage,14.3
+2020,,,,Basque Country,Income with imputed rental,Percentage,16.4
+2008,,,,Basque Country,,Percentage,14.8
+2012,,,,Basque Country,,Percentage,15.4
+2014,,,,Basque Country,,Percentage,18.5
+2016,,,,Basque Country,,Percentage,16.4
+2018,,,,Basque Country,,Percentage,17.7
+2020,,,,Basque Country,,Percentage,17.8
+2022,,,,Basque Country,,Percentage,16.5

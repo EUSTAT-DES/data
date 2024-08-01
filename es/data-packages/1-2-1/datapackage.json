@@ -16,18 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mujer",
-                "Hombre",
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -39,6 +27,29 @@
               ]
             },
             "title": "Territorio"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hombre",
+                "Mujer",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y_GE16",
+                ""
+              ]
+            },
+            "title": "Edad"
           },
           {
             "name": "Umbral",
@@ -62,11 +73,6 @@
               ]
             },
             "title": "Ingresos"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Units",

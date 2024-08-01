@@ -16,18 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -39,6 +27,29 @@
               ]
             },
             "title": "Province"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y_GE16",
+                ""
+              ]
+            },
+            "title": "Edad"
           },
           {
             "name": "Umbral",
@@ -62,11 +73,6 @@
               ]
             },
             "title": "Income"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Units",
