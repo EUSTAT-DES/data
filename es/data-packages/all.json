@@ -83,7 +83,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y_GE16",
+                "16 años y más",
                 ""
               ]
             },
