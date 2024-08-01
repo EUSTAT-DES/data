@@ -1,0 +1,38 @@
+fields:
+  - name: Value
+    type: number
+  - name: Year
+    type: integer
+  - name: Sexo
+    type: string
+    constraints:
+      enum:
+        - ""
+        - F
+        - M 
+  - name: Edad
+    type: string
+    constraints:
+      enum:
+        - ""
+        - Y_GE16     
+  - name: Territorio
+    type: string
+    constraints:
+      enum:
+        - ""
+        - ES211
+        - ES213
+        - ES212
+  - name: Umbral
+    type: string
+    constraints:
+      enum:
+        - REG
+        - NAC
+  - name: Ingresos
+    type: string
+    constraints:
+      enum:
+        - ""
+        - IMP_RENT
