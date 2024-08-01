@@ -1,6 +1,3 @@
-# GENERAL
-Euskadi: "Basque Country"
-Vasco: "Basque"
 # VARIABLES
 Territorio: Province
 Comarca: County
@@ -20,6 +17,7 @@ PCH_A: Year on year variation rate
 # VALORES
 M: Male
 F: Female
+Y_GE16: 16 and over
 ECOICOP_011: Bread
 ECOICOP_0111: Bread and cereals 
 TRT_FV: Photovoltaic
