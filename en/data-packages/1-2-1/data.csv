@@ -1,1 +1,71 @@
-Year,Value
+Year,Sex,Edad,Poverty treshold,Income,Province,Units,Value
+2018,Male,16 and over,Basque Country,,Araba/Álava,Percentage,11.9
+2020,Male,16 and over,Basque Country,,Araba/Álava,Percentage,16.2
+2022,Male,16 and over,Basque Country,,Araba/Álava,Percentage,12.7
+2018,Female,16 and over,Basque Country,,Araba/Álava,Percentage,17.1
+2020,Female,16 and over,Basque Country,,Araba/Álava,Percentage,18.9
+2022,Female,16 and over,Basque Country,,Araba/Álava,Percentage,15.4
+2018,,16 and over,Basque Country,,Araba/Álava,Percentage,14.6
+2020,,16 and over,Basque Country,,Araba/Álava,Percentage,17.6
+2022,,16 and over,Basque Country,,Araba/Álava,Percentage,14.1
+2018,Male,16 and over,Basque Country,,Gipuzkoa,Percentage,10.4
+2020,Male,16 and over,Basque Country,,Gipuzkoa,Percentage,13.3
+2022,Male,16 and over,Basque Country,,Gipuzkoa,Percentage,12.0
+2018,Female,16 and over,Basque Country,,Gipuzkoa,Percentage,13.9
+2020,Female,16 and over,Basque Country,,Gipuzkoa,Percentage,16.2
+2022,Female,16 and over,Basque Country,,Gipuzkoa,Percentage,13.4
+2018,,16 and over,Basque Country,,Gipuzkoa,Percentage,12.2
+2020,,16 and over,Basque Country,,Gipuzkoa,Percentage,14.8
+2022,,16 and over,Basque Country,,Gipuzkoa,Percentage,12.7
+2018,Male,16 and over,Basque Country,,Bizkaia,Percentage,18.0
+2020,Male,16 and over,Basque Country,,Bizkaia,Percentage,15.7
+2022,Male,16 and over,Basque Country,,Bizkaia,Percentage,16.3
+2018,Female,16 and over,Basque Country,,Bizkaia,Percentage,21.7
+2020,Female,16 and over,Basque Country,,Bizkaia,Percentage,17.4
+2022,Female,16 and over,Basque Country,,Bizkaia,Percentage,18.7
+2018,,16 and over,Basque Country,,Bizkaia,Percentage,19.9
+2020,,16 and over,Basque Country,,Bizkaia,Percentage,17.4
+2022,,16 and over,Basque Country,,Bizkaia,Percentage,17.5
+2008,Male,16 and over,Basque Country,,,Percentage,11.7
+2012,Male,16 and over,Basque Country,,,Percentage,13.6
+2014,Male,16 and over,Basque Country,,,Percentage,16.0
+2016,Male,16 and over,Basque Country,,,Percentage,14.1
+2018,Male,16 and over,Basque Country,,,Percentage,14.6
+2020,Male,16 and over,Basque Country,,,Percentage,15.0
+2022,Male,16 and over,Basque Country,,,Percentage,14.3
+2008,Female,16 and over,Basque Country,,,Percentage,16.6
+2012,Female,16 and over,Basque Country,,,Percentage,16.9
+2014,Female,16 and over,Basque Country,,,Percentage,18.4
+2016,Female,16 and over,Basque Country,,,Percentage,16.8
+2018,Female,16 and over,Basque Country,,,Percentage,18.4
+2020,Female,16 and over,Basque Country,,,Percentage,18.0
+2022,Female,16 and over,Basque Country,,,Percentage,16.5
+2008,,16 and over,Basque Country,,,Percentage,14.3
+2012,,16 and over,Basque Country,,,Percentage,15.3
+2014,,16 and over,Basque Country,,,Percentage,17.3
+2016,,16 and over,Basque Country,,,Percentage,15.5
+2018,,16 and over,Basque Country,,,Percentage,16.6
+2020,,16 and over,Basque Country,,,Percentage,16.5
+2022,,16 and over,Basque Country,,,Percentage,15.5
+2008,,,National,Income with imputed rental,,Percentage,4.5
+2012,,,National,Income with imputed rental,,Percentage,7.1
+2016,,,National,Income with imputed rental,,Percentage,7.7
+2020,,,National,Income with imputed rental,,Percentage,8.6
+2008,,,National,,,Percentage,8.8
+2012,,,National,,,Percentage,8.8
+2014,,,National,,,Percentage,10.3
+2016,,,National,,,Percentage,9.0
+2018,,,National,,,Percentage,10.2
+2020,,,National,,,Percentage,9.8
+2022,,,National,,,Percentage,10.6
+2008,,,Basque Country,Income with imputed rental,,Percentage,10.3
+2012,,,Basque Country,Income with imputed rental,,Percentage,12.5
+2016,,,Basque Country,Income with imputed rental,,Percentage,14.3
+2020,,,Basque Country,Income with imputed rental,,Percentage,16.4
+2008,,,Basque Country,,,Percentage,14.8
+2012,,,Basque Country,,,Percentage,15.4
+2014,,,Basque Country,,,Percentage,18.5
+2016,,,Basque Country,,,Percentage,16.4
+2018,,,Basque Country,,,Percentage,17.7
+2020,,,Basque Country,,,Percentage,17.8
+2022,,,Basque Country,,,Percentage,16.5

@@ -12,8 +12,78 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 and over",
+                ""
+              ]
+            },
+            "title": "Edad"
+          },
+          {
+            "name": "Umbral",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Basque Country",
+                "National",
+                ""
+              ]
+            },
+            "title": "Poverty treshold"
+          },
+          {
+            "name": "Ingreso",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Income with imputed rental",
+                ""
+              ]
+            },
+            "title": "Income"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Gipuzkoa",
+                "Bizkaia",
+                ""
+              ]
+            },
+            "title": "Province"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

@@ -12,8 +12,78 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hombre",
+                "Mujer",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 años y más",
+                ""
+              ]
+            },
+            "title": "Edad"
+          },
+          {
+            "name": "Umbral",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Autonómico",
+                "Nacional",
+                ""
+              ]
+            },
+            "title": "Umbral de la pobreza"
+          },
+          {
+            "name": "Ingreso",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ingresos con alquiler imputado",
+                ""
+              ]
+            },
+            "title": "Ingresos"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Gipuzkoa",
+                "Bizkaia",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",
