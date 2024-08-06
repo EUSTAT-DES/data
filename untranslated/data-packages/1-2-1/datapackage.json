@@ -12,71 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Territorio",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ES211",
-                "ES212",
-                "ES213",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y_GE16",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Umbral",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "REG",
-                "NAC",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Ingreso",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IMP_RENT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
