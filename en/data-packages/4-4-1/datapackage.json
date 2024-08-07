@@ -32,26 +32,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ICTCPT",
-                "ICTPST",
-                "ICTSSHT",
-                "ICTPRGM",
-                "ICTTRFF",
-                "ICTSFWR",
-                "ICTPRVCY",
+                "Copy or move files or folders",
+                "Create presentations or documents that integrate text, images, tables or graphs",
+                "Use spreadsheets",
+                "Program in a programming language",
+                "Transfer files between the computer and other devices (digital cameras, mobile phones, mp3 or mp4)",
+                "Download or install software or apps",
+                "Change the settings of any software, including the operating system and security programs",
                 ""
               ]
             },
-            "title": "Habilidad_IT"
+            "title": "ICT skills"
           },
           {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y16T74",
-                "Y16T24",
-                "Y25T74",
+                "16 to 74",
+                "16 to 24",
+                "25 to 74",
                 ""
               ]
             },
