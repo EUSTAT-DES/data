@@ -34,26 +34,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ICTCPT",
-                "ICTPST",
-                "ICTSSHT",
-                "ICTPRGM",
-                "ICTTRFF",
-                "ICTSFWR",
-                "ICTPRVCY",
+                "Fitxategiak edo karpetak kopiatu edo mugitu",
+                "Testua, irudiak, taulak edo grafikoak osatzen dituzten aurkezpenak edo dokumentuak sortzea",
+                "Kalkulu-orriak erabiltzea",
+                "Programazio-lengoaia batean programatzea",
+                "Fitxategiak ordenagailuaren eta beste gailu batzuen artean transferitzea (kamera digitalak, telefono mugikorrak, mp3 edo mp4)",
+                "Deskargatu edo instalatu software edo app-ak",
+                "Edozein softwareren konfigurazioa aldatzea, sistema eragilea eta segurtasun-programak barne",
                 ""
               ]
             },
-            "title": "Habilidad_IT"
+            "title": "Trebetasun informatikoa"
           },
           {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y16T74",
-                "Y16T24",
-                "Y25T74",
+                "16tik 74ra",
+                "16tik 24ra",
+                "25tik 74ra",
                 ""
               ]
             },
@@ -114,7 +114,7 @@
               "enum": [
                 "Gizona",
                 "Emakumea",
-                "_T",
+                "Guztira",
                 ""
               ]
             },
@@ -125,8 +125,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 urte eta gehiago",
-                "_T",
+                "16tik gora",
+                "Guztira",
                 ""
               ]
             },
@@ -137,7 +137,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AUT",
+                "Autonomikoa",
                 "Nazionala",
                 ""
               ]
