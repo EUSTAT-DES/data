@@ -34,6 +34,7 @@ TRT_SOLARTHERMAL: Solar térmica
 TRT_WIND: Eólica
 IMP_RENT: Ingresos con alquiler imputado
 REG: Autonómico
+AUT: Autonómico
 NAC: Nacional
 # UNIDADES
 CON_USD: "Dólares americanos constantes"
