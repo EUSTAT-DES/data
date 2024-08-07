@@ -179,8 +179,8 @@ prose:
 #           label: Other methodological considerations (global)
 #           translation_key: metadata_fields.OTHER_METHOD
 #           scope: global
-     - name: RATIONALE__GLOBAL
-       field:
+      - name: RATIONALE__GLOBAL
+        field:
            element: text
            label: Rationale (global)
            translation_key: metadata_fields.RATIONALE
