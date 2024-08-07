@@ -4,12 +4,12 @@ prose:
   metadata:
     meta:
       ######### Global Metadata #########
-#      - name: SDG_INDICATOR_INFO__GLOBAL
-#        field:
-#            element: text
-#            label: Indicator information (global)
-#            translation_key: metadata_fields.SDG_INDICATOR_INFO
-#            scope: global
+      - name: SDG_INDICATOR_INFO__GLOBAL
+        field:
+            element: text
+            label: Indicator information (global)
+            translation_key: metadata_fields.SDG_INDICATOR_INFO
+            scope: global
 #      - name: SDG_GOAL__GLOBAL
 #        field:
 #            element: text
@@ -179,12 +179,12 @@ prose:
 #           label: Other methodological considerations (global)
 #           translation_key: metadata_fields.OTHER_METHOD
 #           scope: global
-#     - name: RATIONALE__GLOBAL
-#       field:
-#           element: text
-#           label: Rationale (global)
-#           translation_key: metadata_fields.RATIONALE
-#           scope: global
+     - name: RATIONALE__GLOBAL
+       field:
+           element: text
+           label: Rationale (global)
+           translation_key: metadata_fields.RATIONALE
+           scope: global
 #     - name: REC_USE_LIM__GLOBAL
 #       field:
 #           element: text
@@ -491,7 +491,7 @@ prose:
             element: text
             label: Comparability/deviation from international standards
             translation_key: metadata_fields.COMPARABILITY
-            scope: national
+            scope: global
       - name: OTHER_DOC
         field:
             element: text
