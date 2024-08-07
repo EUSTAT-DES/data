@@ -34,26 +34,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ICTCPT",
-                "ICTPST",
-                "ICTSSHT",
-                "ICTPRGM",
-                "ICTTRFF",
-                "ICTSFWR",
-                "ICTPRVCY",
+                "Copiar o mover ficheros o carpetas",
+                "Crear presentaciones o documentos que integren texto, imágenes, tablas o gráficos",
+                "Usar hojas de cálculo",
+                "Programar en un lenguaje de programación",
+                "Transferir ficheros entre el ordenador y otros dispositivos (cámaras digitales, teléfonos móviles, mp3 o mp4)",
+                "Descargar o instalar software o apps",
+                "Cambiar la configuración de cualquier software, incluídos el sistema operativo y los programas de seguridad",
                 ""
               ]
             },
-            "title": "Habilidad_IT"
+            "title": "Habilidades informáticas"
           },
           {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y16T74",
-                "Y16T24",
-                "Y25T74",
+                "16 a 74 años",
+                "16 a 24 años",
+                "25 a 74 años",
                 ""
               ]
             },
@@ -114,7 +114,7 @@
               "enum": [
                 "Hombre",
                 "Mujer",
-                "_T",
+                "Total",
                 ""
               ]
             },
@@ -126,7 +126,7 @@
             "constraints": {
               "enum": [
                 "16 años y más",
-                "_T",
+                "Total",
                 ""
               ]
             },

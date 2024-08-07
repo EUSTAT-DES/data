@@ -22,7 +22,7 @@
               "enum": [
                 "Hombre",
                 "Mujer",
-                "_T",
+                "Total",
                 ""
               ]
             },
@@ -34,7 +34,7 @@
             "constraints": {
               "enum": [
                 "16 años y más",
-                "_T",
+                "Total",
                 ""
               ]
             },
