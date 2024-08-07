@@ -8,6 +8,7 @@ Energia: Renewable energy type
 TER: Renewable energy type
 Ingreso: Income
 Producto: Product
+Habilidad_IT: ICT skills
 # SERIES
 EN_MAT_DOMCMPT: Domestic material consumption
 EN_MAT_DOMCMPG: Domestic material consumption per GDP
@@ -17,7 +18,18 @@ PCH_A: Year on year variation rate
 # VALORES
 M: Male
 F: Female
+_T: Total
+Y16T24: 16 to 24 
+Y25T74: 25 to 74 
+Y16T74: 16 to 74 
 Y_GE16: 16 and over
+ICTCPT: Copy or move files or folders
+ICTPST: Create presentations or documents that integrate text, images, tables or graphs
+ICTSSHT: Use spreadsheets
+ICTPRGM: Program in a programming language
+ICTTRFF: Transfer files between the computer and other devices (digital cameras, mobile phones, mp3 or mp4)
+ICTSFWR: Download or install software or apps
+ICTPRVCY: Change the settings of any software, including the operating system and security programs
 ECOICOP_011: Bread
 ECOICOP_0111: Bread and cereals 
 TRT_FV: Photovoltaic
@@ -26,8 +38,10 @@ TRT_MULTIPLE: All renewable energy types
 TRT_SOLARTHERMAL: Solar thermal
 TRT_WIND: Wind power
 IMP_RENT: Income with imputed rental
+AUT: Autonomic
 REG: Basque Country
 NAC: National
+
 # UNIDADES
 CON_USD: "Constant US Dollars"
 HA: "Hectares"
