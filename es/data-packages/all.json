@@ -783,7 +783,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AUT",
+                "Autonómico",
                 "Nacional",
                 ""
               ]
