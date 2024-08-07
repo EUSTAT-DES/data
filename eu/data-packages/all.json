@@ -833,6 +833,97 @@
       "title": "Proportion of population living below the national poverty line, by sex and age"
     },
     {
+      "path": "4-4-1/data.csv",
+      "name": "4-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Urtea"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "1",
+                ""
+              ]
+            },
+            "title": "Sexua"
+          },
+          {
+            "name": "Habilidad_IT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ICTCPT",
+                "ICTPST",
+                "ICTSSHT",
+                "ICTPRGM",
+                "ICTTRFF",
+                "ICTSFWR",
+                "ICTPRVCY",
+                "ICT_TOT",
+                ""
+              ]
+            },
+            "title": "Habilidad_IT"
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y16T74",
+                "Y16T24",
+                "Y25T74",
+                ""
+              ]
+            },
+            "title": "Adina"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Gipuzkoa",
+                "Bizkaia",
+                ""
+              ]
+            },
+            "title": "Lurraldea"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ehunekoa",
+                ""
+              ]
+            },
+            "title": "Unitateak"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Balioa"
+          }
+        ]
+      },
+      "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
+    },
+    {
       "path": "5-3-2/data.csv",
       "name": "5-3-2",
       "profile": "tabular-data-resource",
@@ -6135,30 +6226,6 @@
         ]
       },
       "title": "Malaria incidence per 1,000 population"
-    },
-    {
-      "path": "4-4-1/data.csv",
-      "name": "4-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Urtea"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Balioa"
-          }
-        ]
-      },
-      "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
     },
     {
       "path": "8-7-1/data.csv",
