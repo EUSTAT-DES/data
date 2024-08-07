@@ -17,6 +17,7 @@ Energia: Energia iturri berriztagarria
 TER: Energia iturri berriztagarria
 Ingreso: Diru-sarrerak
 Producto: Produktua
+Habilidad_IT: Trebetasun informatikoa
 # SERIES
 EN_MAT_DOMCMPT: Barne-kontsumo materiala balio absolututan
 EN_MAT_DOMCMPG: Barne-kontsumo materiala BPGaren arabera
@@ -26,7 +27,18 @@ PCH_A: Urte arteko aldakuntza tasa
 # VALORES
 M: Gizona
 F: Emakumea
-Y_GE16: 16 urte eta gehiago
+_T: Guztira
+Y16T24: 16tik 24ra
+Y25T74: 25tik 74ra
+Y16T74: 16tik 74ra
+Y_GE16: 16tik gora
+ICTCPT: Fitxategiak edo karpetak kopiatu edo mugitu
+ICTPST: Testua, irudiak, taulak edo grafikoak osatzen dituzten aurkezpenak edo dokumentuak sortzea
+ICTSSHT: Kalkulu-orriak erabiltzea
+ICTPRGM: Programazio-lengoaia batean programatzea
+ICTTRFF: Fitxategiak ordenagailuaren eta beste gailu batzuen artean transferitzea (kamera digitalak, telefono mugikorrak, mp3 edo mp4)
+ICTSFWR: Deskargatu edo instalatu software edo app-ak
+ICTPRVCY: Edozein softwareren konfigurazioa aldatzea, sistema eragilea eta segurtasun-programak barne
 ECOICOP_011: Ogia
 ECOICOP_0111: Ogia eta zerealak
 TRT_FV: Fotovoltaikoa
@@ -35,8 +47,10 @@ TRT_MULTIPLE: Energia iturri berriztagarri guztiak
 TRT_SOLARTHERMAL: Eguzki-energia termikoa
 TRT_WIND: Eolikoa
 IMP_RENT: Diru-sarrerak alokairua egotzita
+AUT: Autonomikoa
 REG: Autonomikoa
 NAC: Nazionala
+
 # UNIDADES
 Units: Unitateak
 CON_USD: "Dolar amerikar konstanteak"
