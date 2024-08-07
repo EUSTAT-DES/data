@@ -15,6 +15,7 @@ Umbral: Umbral de la pobreza
 TER: Fuente de energía renovable
 Ingreso: Ingresos
 Producto: Producto
+Habilidad_IT: Habilidades informáticas
 # SERIES
 EN_MAT_DOMCMPT: Consumo material interno en términos absolutos
 EN_MAT_DOMCMPG: Consumo material interno por PIB
@@ -24,7 +25,18 @@ PCH_A: Tasa de variación interanual
 # VALORES
 M: Hombre
 F: Mujer
+_T: Total
+Y16T24: 16 a 24 años
+Y25T74: 25 a 74 años
+Y16T74: 16 a 74 años
 Y_GE16: 16 años y más
+ICTCPT: Copiar o mover ficheros o carpetas
+ICTPST: Crear presentaciones o documentos que integren texto, imágenes, tablas o gráficos
+ICTSSHT: Usar hojas de cálculo
+ICTPRGM: Programar en un lenguaje de programación
+ICTTRFF: Transferir ficheros entre el ordenador y otros dispositivos (cámaras digitales, teléfonos móviles, mp3 o mp4)
+ICTSFWR: Descargar o instalar software o apps
+ICTPRVCY: Cambiar la configuración de cualquier software, incluídos el sistema operativo y los programas de seguridad
 ECOICOP_011: Pan
 ECOICOP_0111: Pan y cereales
 TRT_FV: Fotovoltaica
