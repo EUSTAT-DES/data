@@ -33,14 +33,14 @@ INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: ''
-DATA_COMP: meta.1-2-1-formula
+DATA_COMP: $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
 QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
-COVERAGE: ''
-COMPARABILITY: ''
+COVERAGE: <iframe width="800" height="600" src="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.1.1&seriesCode=SI_POV_DAY1&areaCode=1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=4&table=ALLAGE%20%7C%20ALLAREA%20%7C%20BOTHSEX" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+COMPARABILITY: <a href="https://unstats.un.org/sdgs/dataportal/analytics/SeriesChart?indicators=1.1.1&seriesCode=SI_POV_DAY1&areaCode=1,202,14,17,18,11,747,15" target="_blank">Abrir Chart en nueva ventana</a>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
