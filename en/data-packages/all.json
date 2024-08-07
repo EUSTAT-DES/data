@@ -760,6 +760,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "_T",
                 ""
               ]
             },
@@ -771,6 +772,7 @@
             "constraints": {
               "enum": [
                 "16 and over",
+                "_T",
                 ""
               ]
             },
@@ -781,7 +783,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Basque Country",
+                "AUT",
                 "National",
                 ""
               ]

@@ -21,6 +21,7 @@
               "enum": [
                 "M",
                 "F",
+                "_T",
                 ""
               ]
             }
@@ -31,6 +32,7 @@
             "constraints": {
               "enum": [
                 "Y_GE16",
+                "_T",
                 ""
               ]
             }
@@ -40,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "REG",
+                "AUT",
                 "NAC",
                 ""
               ]

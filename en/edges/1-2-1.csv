@@ -1,5 +1,5 @@
 From,To
-Edad,Sex
-Poverty treshold,Edad
-Edad,Province
+Sex,Edad
+Edad,Poverty treshold
 Poverty treshold,Income
+Poverty treshold,Province
