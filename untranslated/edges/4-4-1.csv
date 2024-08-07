@@ -1,4 +1,4 @@
 From,To
-Sexo,Habilidad_IT
-Habilidad_IT,Edad
+Edad,Sexo
+Edad,Habilidad_IT
 Edad,Territorio

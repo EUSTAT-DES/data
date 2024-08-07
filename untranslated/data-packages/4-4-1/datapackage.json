@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "1",
+                "1.0",
+                "2.0",
                 ""
               ]
             }
@@ -37,7 +37,6 @@
                 "ICTTRFF",
                 "ICTSFWR",
                 "ICTPRVCY",
-                "ICT_TOT",
                 ""
               ]
             }
