@@ -18,18 +18,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1.0",
-                "2.0",
-                ""
-              ]
-            },
-            "title": "Sexua"
-          },
-          {
             "name": "Habilidad_IT",
             "type": "string",
             "constraints": {
@@ -41,17 +29,29 @@
                 "Fitxategiak ordenagailuaren eta beste gailu batzuen artean transferitzea (kamera digitalak, telefono mugikorrak, mp3 edo mp4)",
                 "Deskargatu edo instalatu software edo app-ak",
                 "Edozein softwareren konfigurazioa aldatzea, sistema eragilea eta segurtasun-programak barne",
+                "ICT",
                 ""
               ]
             },
             "title": "Trebetasun informatikoa"
           },
           {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gizona",
+                "Emakumea",
+                ""
+              ]
+            },
+            "title": "Sexua"
+          },
+          {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
-                "16tik 74ra",
                 "16tik 24ra",
                 "25tik 74ra",
                 ""

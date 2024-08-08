@@ -17,17 +17,6 @@
             "type": "integer"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1.0",
-                "2.0",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Habilidad_IT",
             "type": "string",
             "constraints": {
@@ -39,6 +28,18 @@
                 "ICTTRFF",
                 "ICTSFWR",
                 "ICTPRVCY",
+                "ICT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
                 ""
               ]
             }
@@ -48,7 +49,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y16T74",
                 "Y16T24",
                 "Y25T74",
                 ""

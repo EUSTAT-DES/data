@@ -16,18 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1.0",
-                "2.0",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "Habilidad_IT",
             "type": "string",
             "constraints": {
@@ -39,17 +27,29 @@
                 "Transfer files between the computer and other devices (digital cameras, mobile phones, mp3 or mp4)",
                 "Download or install software or apps",
                 "Change the settings of any software, including the operating system and security programs",
+                "ICT",
                 ""
               ]
             },
             "title": "ICT skills"
           },
           {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to 74",
                 "16 to 24",
                 "25 to 74",
                 ""
