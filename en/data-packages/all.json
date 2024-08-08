@@ -114,7 +114,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "Total",
                 ""
               ]
             },
@@ -126,7 +125,6 @@
             "constraints": {
               "enum": [
                 "16 and over",
-                "Total",
                 ""
               ]
             },

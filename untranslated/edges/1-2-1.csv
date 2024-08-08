@@ -1,5 +1,5 @@
 From,To
-Sexo,Edad
-Edad,Umbral
+Edad,Sexo
+Umbral,Edad
+Edad,Territorio
 Umbral,Ingreso
-Umbral,Territorio

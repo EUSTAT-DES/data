@@ -114,7 +114,6 @@
               "enum": [
                 "Gizona",
                 "Emakumea",
-                "Guztira",
                 ""
               ]
             },
@@ -126,7 +125,6 @@
             "constraints": {
               "enum": [
                 "16tik gora",
-                "Guztira",
                 ""
               ]
             },

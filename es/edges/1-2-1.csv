@@ -1,5 +1,5 @@
 From,To
-Sexo,Edad
-Edad,Umbral de la pobreza
+Edad,Sexo
+Umbral de la pobreza,Edad
+Edad,Territorio
 Umbral de la pobreza,Ingresos
-Umbral de la pobreza,Territorio

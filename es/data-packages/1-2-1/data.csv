@@ -5,27 +5,27 @@ Year,Sexo,Edad,Umbral de la pobreza,Ingresos,Territorio,Units,Value
 2018,Mujer,16 años y más,Autonómico,,Araba/Álava,Porcentaje,17.1
 2020,Mujer,16 años y más,Autonómico,,Araba/Álava,Porcentaje,18.9
 2022,Mujer,16 años y más,Autonómico,,Araba/Álava,Porcentaje,15.4
-2018,Total,16 años y más,Autonómico,,Araba/Álava,Porcentaje,14.6
-2020,Total,16 años y más,Autonómico,,Araba/Álava,Porcentaje,17.6
-2022,Total,16 años y más,Autonómico,,Araba/Álava,Porcentaje,14.1
+2018,,16 años y más,Autonómico,,Araba/Álava,Porcentaje,14.6
+2020,,16 años y más,Autonómico,,Araba/Álava,Porcentaje,17.6
+2022,,16 años y más,Autonómico,,Araba/Álava,Porcentaje,14.1
 2018,Hombre,16 años y más,Autonómico,,Gipuzkoa,Porcentaje,10.4
 2020,Hombre,16 años y más,Autonómico,,Gipuzkoa,Porcentaje,13.3
 2022,Hombre,16 años y más,Autonómico,,Gipuzkoa,Porcentaje,12.0
 2018,Mujer,16 años y más,Autonómico,,Gipuzkoa,Porcentaje,13.9
 2020,Mujer,16 años y más,Autonómico,,Gipuzkoa,Porcentaje,16.2
 2022,Mujer,16 años y más,Autonómico,,Gipuzkoa,Porcentaje,13.4
-2018,Total,16 años y más,Autonómico,,Gipuzkoa,Porcentaje,12.2
-2020,Total,16 años y más,Autonómico,,Gipuzkoa,Porcentaje,14.8
-2022,Total,16 años y más,Autonómico,,Gipuzkoa,Porcentaje,12.7
+2018,,16 años y más,Autonómico,,Gipuzkoa,Porcentaje,12.2
+2020,,16 años y más,Autonómico,,Gipuzkoa,Porcentaje,14.8
+2022,,16 años y más,Autonómico,,Gipuzkoa,Porcentaje,12.7
 2018,Hombre,16 años y más,Autonómico,,Bizkaia,Porcentaje,18.0
 2020,Hombre,16 años y más,Autonómico,,Bizkaia,Porcentaje,15.7
 2022,Hombre,16 años y más,Autonómico,,Bizkaia,Porcentaje,16.3
 2018,Mujer,16 años y más,Autonómico,,Bizkaia,Porcentaje,21.7
 2020,Mujer,16 años y más,Autonómico,,Bizkaia,Porcentaje,17.4
 2022,Mujer,16 años y más,Autonómico,,Bizkaia,Porcentaje,18.7
-2018,Total,16 años y más,Autonómico,,Bizkaia,Porcentaje,19.9
-2020,Total,16 años y más,Autonómico,,Bizkaia,Porcentaje,17.4
-2022,Total,16 años y más,Autonómico,,Bizkaia,Porcentaje,17.5
+2018,,16 años y más,Autonómico,,Bizkaia,Porcentaje,19.9
+2020,,16 años y más,Autonómico,,Bizkaia,Porcentaje,17.4
+2022,,16 años y más,Autonómico,,Bizkaia,Porcentaje,17.5
 2008,Hombre,16 años y más,Autonómico,,,Porcentaje,11.7
 2012,Hombre,16 años y más,Autonómico,,,Porcentaje,13.6
 2014,Hombre,16 años y más,Autonómico,,,Porcentaje,16.0
@@ -40,32 +40,32 @@ Year,Sexo,Edad,Umbral de la pobreza,Ingresos,Territorio,Units,Value
 2018,Mujer,16 años y más,Autonómico,,,Porcentaje,18.4
 2020,Mujer,16 años y más,Autonómico,,,Porcentaje,18.0
 2022,Mujer,16 años y más,Autonómico,,,Porcentaje,16.5
-2008,Total,16 años y más,Autonómico,,,Porcentaje,14.3
-2012,Total,16 años y más,Autonómico,,,Porcentaje,15.3
-2014,Total,16 años y más,Autonómico,,,Porcentaje,17.3
-2016,Total,16 años y más,Autonómico,,,Porcentaje,15.5
-2018,Total,16 años y más,Autonómico,,,Porcentaje,16.6
-2020,Total,16 años y más,Autonómico,,,Porcentaje,16.5
-2022,Total,16 años y más,Autonómico,,,Porcentaje,15.5
-2008,Total,Total,Autonómico,Ingresos con alquiler imputado,,Porcentaje,10.3
-2012,Total,Total,Autonómico,Ingresos con alquiler imputado,,Porcentaje,12.5
-2016,Total,Total,Autonómico,Ingresos con alquiler imputado,,Porcentaje,14.3
-2020,Total,Total,Autonómico,Ingresos con alquiler imputado,,Porcentaje,16.4
-2008,Total,Total,Autonómico,,,Porcentaje,14.8
-2012,Total,Total,Autonómico,,,Porcentaje,15.4
-2014,Total,Total,Autonómico,,,Porcentaje,18.5
-2016,Total,Total,Autonómico,,,Porcentaje,16.4
-2018,Total,Total,Autonómico,,,Porcentaje,17.7
-2020,Total,Total,Autonómico,,,Porcentaje,17.8
-2022,Total,Total,Autonómico,,,Porcentaje,16.5
-2008,Total,Total,Nacional,Ingresos con alquiler imputado,,Porcentaje,4.5
-2012,Total,Total,Nacional,Ingresos con alquiler imputado,,Porcentaje,7.1
-2016,Total,Total,Nacional,Ingresos con alquiler imputado,,Porcentaje,7.7
-2020,Total,Total,Nacional,Ingresos con alquiler imputado,,Porcentaje,8.6
-2008,Total,Total,Nacional,,,Porcentaje,8.8
-2012,Total,Total,Nacional,,,Porcentaje,8.8
-2014,Total,Total,Nacional,,,Porcentaje,10.3
-2016,Total,Total,Nacional,,,Porcentaje,9.0
-2018,Total,Total,Nacional,,,Porcentaje,10.2
-2020,Total,Total,Nacional,,,Porcentaje,9.8
-2022,Total,Total,Nacional,,,Porcentaje,10.6
+2008,,16 años y más,Autonómico,,,Porcentaje,14.3
+2012,,16 años y más,Autonómico,,,Porcentaje,15.3
+2014,,16 años y más,Autonómico,,,Porcentaje,17.3
+2016,,16 años y más,Autonómico,,,Porcentaje,15.5
+2018,,16 años y más,Autonómico,,,Porcentaje,16.6
+2020,,16 años y más,Autonómico,,,Porcentaje,16.5
+2022,,16 años y más,Autonómico,,,Porcentaje,15.5
+2008,,,Autonómico,Ingresos con alquiler imputado,,Porcentaje,10.3
+2012,,,Autonómico,Ingresos con alquiler imputado,,Porcentaje,12.5
+2016,,,Autonómico,Ingresos con alquiler imputado,,Porcentaje,14.3
+2020,,,Autonómico,Ingresos con alquiler imputado,,Porcentaje,16.4
+2008,,,Autonómico,,,Porcentaje,14.8
+2012,,,Autonómico,,,Porcentaje,15.4
+2014,,,Autonómico,,,Porcentaje,18.5
+2016,,,Autonómico,,,Porcentaje,16.4
+2018,,,Autonómico,,,Porcentaje,17.7
+2020,,,Autonómico,,,Porcentaje,17.8
+2022,,,Autonómico,,,Porcentaje,16.5
+2008,,,Nacional,Ingresos con alquiler imputado,,Porcentaje,4.5
+2012,,,Nacional,Ingresos con alquiler imputado,,Porcentaje,7.1
+2016,,,Nacional,Ingresos con alquiler imputado,,Porcentaje,7.7
+2020,,,Nacional,Ingresos con alquiler imputado,,Porcentaje,8.6
+2008,,,Nacional,,,Porcentaje,8.8
+2012,,,Nacional,,,Porcentaje,8.8
+2014,,,Nacional,,,Porcentaje,10.3
+2016,,,Nacional,,,Porcentaje,9.0
+2018,,,Nacional,,,Porcentaje,10.2
+2020,,,Nacional,,,Porcentaje,9.8
+2022,,,Nacional,,,Porcentaje,10.6
