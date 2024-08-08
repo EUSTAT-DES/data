@@ -53,12 +53,6 @@ prose:
           label: "Observaciones"
           translation_key: metadata_fields.observaciones
           scope: national
-      - name: "oceca"
-        field:
-          element: checkbox
-          label: "Coordinado con Ocecas"
-          translation_key: metadata_fields.oceca
-          scope: national
       - name: "texto_oceca"
         field:
           element: text
@@ -101,30 +95,30 @@ prose:
           
     
       ######### Global Metadata #########
-      - name: SDG_INDICATOR_INFO__GLOBAL
-        field:
-            element: text
-            label: Indicator information (global)
-            translation_key: metadata_fields.SDG_INDICATOR_INFO
-            scope: global
+ #      - name: SDG_INDICATOR_INFO__GLOBAL
+ #        field:
+ #            element: text
+ #            label: Indicator information (global)
+ #            translation_key: metadata_fields.SDG_INDICATOR_INFO
+ #            scope: global
 #      - name: SDG_GOAL__GLOBAL
 #        field:
 #            element: text
 #            label: Goal (global)
 #            translation_key: metadata_fields.SDG_GOAL
 #            scope: global
-      - name: SDG_INDICATOR__GLOBAL
-        field:
-            element: text
-            label: Indicator (global)
-            translation_key: metadata_fields.SDG_INDICATOR
-            scope: global
-      - name: SDG_TARGET__GLOBAL
-        field:
-            element: text
-            label: Target (global)
-            translation_key: metadata_fields.SDG_TARGET
-            scope: global
+#      - name: SDG_INDICATOR__GLOBAL
+#        field:
+#            element: text
+#            label: Indicator (global)
+#            translation_key: metadata_fields.SDG_INDICATOR
+#            scope: global
+#      - name: SDG_TARGET__GLOBAL
+#        field:
+#            element: text
+#            label: Target (global)
+#            translation_key: metadata_fields.SDG_TARGET
+#            scope: global
 #      - name: SDG_SERIES_DESCR__GLOBAL
 #        field:
 #            element: text
@@ -144,12 +138,12 @@ prose:
             label: International organisations(s) responsible for global monitoring (global)
             translation_key: metadata_fields.SDG_CUSTODIAN_AGENCIES
             scope: global
-      - name: SDG_RELATED_INDICATORS__GLOBAL
-        field:
-            element: text
-            label: Related indicators (global)
-            translation_key: metadata_fields.SDG_RELATED_INDICATORS
-            scope: global
+#       - name: SDG_RELATED_INDICATORS__GLOBAL
+#         field:
+#             element: text
+#             label: Related indicators (global)
+#             translation_key: metadata_fields.SDG_RELATED_INDICATORS
+#             scope: global
 #      - name: CONTACT__GLOBAL
 #        field:
 #            element: text
