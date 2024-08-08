@@ -4,29 +4,51 @@ copyright: ''
 data_footnote: ''
 data_non_statistical: false
 data_notice_class: ''
-data_notice_heading: ''
-data_notice_text: ''
+data_notice_heading: Progreso
+data_notice_text: >-
+  El análisis del progreso solo considera los datos a nivel autonómico para el
+  total de la población objetivo (16 a 75 años)
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Habilidad_IT
+    value: ICT
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
+footer_fields: []
 graph_annotations: []
 graph_limits: []
+graph_series_breaks: []
 graph_stacked_disaggregation: ''
+graph_target_lines: []
 graph_title: global_indicators.4-4-1-title
 graph_titles: []
 graph_type: line
+indicator_available: ''
 indicator_name: global_indicators.4-4-1-title
-indicator_number: '4.4.1'
+indicator_number: 4.4.1
+indicator_tabs:
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
+placeholder: ''
 precision: []
+progress_status: approaching_target
+proxy: ''
+proxy_series: []
+publications: []
+related_indicators: []
 reporting_status: complete
 sort: ''
+sources: []
 standalone: false
 tags: []
+x_axis_label: ''
