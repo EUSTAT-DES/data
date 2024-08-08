@@ -1,3 +1,22 @@
+ # Metadatos Eustat  
+nombre: Nombre del indicador disponible
+objetivo_global: Objetivo
+meta_global: Meta
+indicador_onu_global: Indicador
+definicion: Definición
+formula: Fórmula teórica
+periodicidad: Periodicidad
+observaciones: Observaciones
+oceca: Indicador OCECA
+texto_oceca: Texto OCECA
+descripcion_global: Descripción
+justificacion_global: Justificación
+indicator_meta_link: Enlace a los metadatos de la ONU   
+dato_global: Datos internacionales
+comparabilidad: Nota sobre la comparabilidad
+
+ # A partir de aquí, metadatos open SDG
+
 other_info: Otra información
 computation_calculations: Cálculos
 computation_definitions: Definiciones
