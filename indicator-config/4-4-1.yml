@@ -4,10 +4,8 @@ copyright: ''
 data_footnote: ''
 data_non_statistical: false
 data_notice_class: ''
-data_notice_heading: Progreso
-data_notice_text: >-
-  El análisis del progreso solo considera los datos a nivel autonómico para el
-  total de la población objetivo (16 a 75 años)
+data_notice_heading: ''
+data_notice_text: '' 
 data_show_map: false
 data_start_values:
   - field: Habilidad_IT
