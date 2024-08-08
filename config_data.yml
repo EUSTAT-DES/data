@@ -125,9 +125,9 @@ docs_intro: This is a list of examples of endpoints and output that are
   on the available output.
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
-#docs_indicator_url: https://my-github-org/my-site-repository/[id]
+docs_indicator_url: https://eustat-des.github.io/site/[id]
 # This can be uncommented to show translation columns in the disaggregation report.
-#docs_translate_disaggregations: true
+docs_translate_disaggregations: true
 # This can be uncommented to show additional columns in the disaggregation report.
 # This is mainly intended to show units of measurement and series, which are not
 # normally considered "disaggregation".
@@ -138,6 +138,8 @@ docs_intro: This is a list of examples of endpoints and output that are
 docs_metadata_fields:
     - key: reporting_status
       label: Reporting status
+    - key: progress_status
+      label: Progress status
     - key: SDG_CUSTODIAN_AGENCIES__GLOBAL
       label: UN custodian agency
     - key: data_non_statistical
