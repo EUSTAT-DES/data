@@ -1,4 +1,22 @@
-# A label describing information - any other metadata about a particular indicator - not covered by more specific labels
+ # Metadatos Eustat  
+nombre: Available indicator name
+objetivo_global: Goal
+meta_global: Target
+indicador_onu_global: Indicator
+definicion: Definition
+formula: Theoretical formula
+periodicidad: Frequency
+observaciones: Observations
+oceca: OCECA indicator
+texto_oceca: OCECA text
+descripcion_global: Description
+justificacion_global: Rationale
+indicator_meta_link: Link to UN metadata   
+dato_global: International data
+comparabilidad: Note on comparability
+
+ # A partir de aquí, metadatos open SDG
+
 other_info: Other information
 # A label describing information - any calculations that were used in the production of a dataset
 computation_calculations: Calculations
