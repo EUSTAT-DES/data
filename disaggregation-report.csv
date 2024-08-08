@@ -1,9 +1,9 @@
-Disaggregation,Number of indicators,Number of values
-Comarca,2,20
-Edad,2,4
-Habilidad_IT,1,8
-Ingreso,1,1
-Municipio,2,251
-Sexo,3,3
-Territorio,4,3
-Umbral,1,2
+Disaggregation,es,eu,en,Number of indicators,Number of values
+Comarca,Comarca,Eskualdea,County,2,20
+Edad,Edad,Adina,Edad,2,4
+Habilidad_IT,Habilidades informáticas,Trebetasun informatikoa,ICT skills,1,8
+Ingreso,Ingresos,Diru-sarrerak,Income,1,1
+Municipio,Municipio,Udalerria,Municipality,2,251
+Sexo,Sexo,Sexua,Sex,3,3
+Territorio,Territorio,Lurraldea,Province,4,3
+Umbral,Umbral de la pobreza,Pobreziaren atalasea,Poverty treshold,1,2
