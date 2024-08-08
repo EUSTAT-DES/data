@@ -1,0 +1,151 @@
+ # Metadatos Eustat  
+nombre: Nombre del indicador disponible
+objetivo_global: Objetivo
+meta_global: Meta
+indicador_onu_global: Indicador
+definicion: Definición
+formula: Fórmula teórica
+periodicidad: Periodicidad
+observaciones: Observaciones
+oceca: Indicador OCECA
+texto_oceca: Texto OCECA
+descripcion_global: Descripción
+justificacion_global: Justificación
+indicator_meta_link: Enlace a los metadatos de la ONU   
+dato_global: Datos internacionales
+comparabilidad: Nota sobre la comparabilidad
+
+ # A partir de aquí, metadatos open SDG
+
+other_info: Otra información
+computation_calculations: Cálculos
+computation_definitions: Definiciones
+computation_units: Unidad de medida
+goal_meta_link: Enlace a los metadatos de la ONU
+indicator: Número del indicador
+indicator_definition: Descripción del indicador global
+indicator_name: Nombre del indicador
+indicator_sort_order: Orden de visualización del indicador (dentro de la página de
+  Objetivo)
+national_data_update_url: Datos actualizados por última vez
+national_geographical_coverage: Cobertura geográfica
+national_indicator_available: Indicador disponible
+national_indicator_description: Descripción del indicador
+national_metadata_update_url: Metadatos actualizados por última vez
+source_contact_1: Detalles de contacto
+source_contact_2: Detalles de contacto
+source_contact_3: Detalles de contacto
+source_contact_4: Detalles de contacto
+source_contact_5: Detalles de contacto
+source_contact_6: Detalles de contacto
+source_earliest_available_1: Los datos disponibles más antiguos
+source_earliest_available_2: Los datos disponibles más antiguos
+source_earliest_available_3: Los datos disponibles más antiguos
+source_earliest_available_4: Los datos disponibles más antiguos
+source_earliest_available_5: Los datos disponibles más antiguos
+source_earliest_available_6: Los datos disponibles más antiguos
+source_geographical_coverage_1: Cobertura geográfica
+source_geographical_coverage_2: Cobertura geográfica
+source_geographical_coverage_3: Cobertura geográfica
+source_geographical_coverage_4: Cobertura geográfica
+source_geographical_coverage_5: Cobertura geográfica
+source_geographical_coverage_6: Cobertura geográfica
+source_next_release_1: Siguiente lanzamiento
+source_next_release_2: Siguiente lanzamiento
+source_next_release_3: Siguiente lanzamiento
+source_next_release_4: Siguiente lanzamiento
+source_next_release_5: Siguiente lanzamiento
+source_next_release_6: Siguiente lanzamiento
+source_organisation_1: Organización
+source_organisation_2: Organización
+source_organisation_3: Organización
+source_organisation_4: Organización
+source_organisation_5: Organización
+source_organisation_6: Organización
+source_other_info_1: Otra información
+source_other_info_2: Otra información
+source_other_info_3: Otra información
+source_other_info_4: Otra información
+source_other_info_5: Otra información
+source_other_info_6: Otra información
+source_periodicity_1: Periodicidad
+source_periodicity_2: Periodicidad
+source_periodicity_3: Periodicidad
+source_periodicity_4: Periodicidad
+source_periodicity_5: Periodicidad
+source_periodicity_6: Periodicidad
+source_release_date_1: Fecha de lanzamiento
+source_release_date_2: Fecha de lanzamiento
+source_release_date_3: Fecha de lanzamiento
+source_release_date_4: Fecha de lanzamiento
+source_release_date_5: Fecha de lanzamiento
+source_release_date_6: Fecha de lanzamiento
+source_statistical_classification_1: Clasificación estadística
+source_statistical_classification_2: Clasificación estadística
+source_statistical_classification_3: Clasificación estadística
+source_statistical_classification_4: Clasificación estadística
+source_statistical_classification_5: Clasificación estadística
+source_statistical_classification_6: Clasificación estadística
+source_url_1: Enlace a la fuente de datos
+source_url_2: Enlace a la fuente de datos
+source_url_3: Enlace a la fuente de datos
+source_url_4: Enlace a la fuente de datos
+source_url_5: Enlace a la fuente de datos
+source_url_6: Enlace a la fuente de datos
+target: Nombre del objetivo
+target_id: Número meta
+un_custodian_agency: Agencia de custodia de la ONU
+un_designated_tier: Nivel designado por la ONU
+quality_assurance: Seguro de calidad
+international_comparability: Comparabilidad con datos / estándares internacionales
+comments_limitations: Comentarios y limitaciones
+rationale_interpretation: Racionalidad e interpretación
+rational_interpretation: Racionalidad e interpretación
+copyright: Derechos de autor
+OTHER_DOC: Referencias y documentación
+COMPARABILITY: Comparabilidad/desviación de las normas internacionales
+COVERAGE: Disponibilidad y desglose de datos
+QUALITY_ASSMNT: Evaluación de la calidad
+QUALITY_ASSURE: Seguro de calidad
+QUALITY_MGMNT: Gestión de la calidad
+DOC_METHOD: Métodos y orientaciones a disposición de los países para la recopilación
+  de los datos a nivel nacional
+REG_AGG: Agregaciones regionales
+IMPUTATION: Tratamiento de los valores perdidos (i) a nivel de país y (ii) a nivel
+  regional
+ADJUSTMENT: Ajustes
+DATA_VALIDATION: Validación
+DATA_COMP: Método de cálculo
+REC_USE_LIM: Comentarios y limitaciones
+RATIONALE: Justificación
+OTHER_METHOD: Otras consideraciones metodológicas
+INST_MANDATE: Mandato institucional
+COMPILING_ORG: Compiladores de datos
+DATA_SOURCE: Proveedores de datos
+REL_CAL_POLICY: Calendario de publicación de datos
+FREQ_COLL: Calendario de recopilación de datos
+COLL_METHOD: Método de recogida de datos
+SOURCE_TYPE: Fuentes de datos
+SRC_TYPE_COLL_METHOD: Tipo de fuente de datos y método de recogida
+CLASS_SYSTEM: Clasificaciones
+UNIT_MEASURE: Unidad de medida
+STAT_CONC_DEF: Definición y conceptos
+IND_DEF_CON_CLASS: Definición, conceptos y clasificaciones
+CONTACT_EMAIL: Correo electrónico de contacto
+CONTACT_MAIL: Correo electrónico de contacto
+CONTACT_PHONE: Teléfono de contacto
+CONTACT_FUNCT: Función de la persona de contacto
+ORGANISATION_UNIT: Unidad de organización de contactos
+CONTACT_NAME: Persona(s) de contacto
+CONTACT_ORGANISATION: Organización
+CONTACT: Reportero de datos
+SDG_CUSTODIAN_AGENCIES: Organizaciones internacionales responsables del seguimiento
+  global
+SDG_RELATED_INDICATORS: Indicadores relacionados
+META_LAST_UPDATE: Actualización de metadatos
+SDG_SERIES_DESCR: Series
+SDG_INDICATOR: Indicador
+SDG_TARGET: Meta
+SDG_GOAL: Objetivo
+SDG_INDICATOR_INFO: Información del indicador
+OCECA: OCECA

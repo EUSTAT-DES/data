@@ -3,6 +3,103 @@
 prose:
   metadata:
     meta:
+
+      ######### Indicador EUSTAT #########
+      - name: "nombre"
+        field:
+          element: text
+          label: "Nombre"
+          translation_key: metadata_fields.nombre
+          scope: national
+      - name: "indicador_onu_global"
+        field:
+          element: text
+          label: "Indicador Naciones Unidas"
+          translation_key: metadata_fields.indicador_onu_global
+          scope: national
+      - name: "meta_global"
+        field:
+          element: text
+          label: "Meta"
+          translation_key: metadata_fields.meta_global
+          scope: national
+      - name: "objetivo_global"
+        field:
+          element: text
+          label: "Objetivo"
+          translation_key: metadata_fields.objetivo_global
+          scope: national
+      - name: "definicion"
+        field:
+          element: text
+          label: "Definición"
+          translation_key: metadata_fields.definicion
+          scope: national
+      - name: "formula"
+        field:
+          element: text
+          label: "Fórmula Teórica"
+          translation_key: metadata_fields.formula
+          scope: national
+      - name: "periodicidad"
+        field:
+          element: text
+          label: "Periodicidad"
+          translation_key: metadata_fields.periodicidad
+          scope: national
+      - name: "observaciones"
+        field:
+          element: text
+          label: "Observaciones"
+          translation_key: metadata_fields.observaciones
+          scope: national
+      - name: "oceca"
+        field:
+          element: checkbox
+          label: "Coordinado con Ocecas"
+          translation_key: metadata_fields.oceca
+          scope: national
+      - name: "texto_oceca"
+        field:
+          element: text
+          label: "Texto OCECA"
+          translation_key: metadata_fields.texto_oceca
+          scope: national      
+
+      - name: "descripcion_global"
+        field:
+          element: text
+          label: "Descripción"
+          translation_key: metadata_fields.descripcion_global
+          scope: global
+      - name: "justificacion_global"
+        field:
+          element: text
+          label: "Justificación"
+          translation_key: metadata_fields.justificacion_global
+          scope: global
+      - name: "indicator_meta_link"
+        field:
+          element: text
+          label: "Enlace a los metadatos"
+          translation_key: metadata_fields.indicator_meta_link
+          scope: global
+      - name: "dato_global"
+        field:
+          element: text
+          label: "Comparación internacional"
+          translation_key: metadata_fields.dato_global
+          scope: global
+      - name: "comparabilidad"
+        field:
+          element: text
+          label: "Notas sobre la comparabilidad"
+          translation_key: metadata_fields.comparabilidad
+          scope: global
+
+
+          
+    
       ######### Global Metadata #########
       - name: SDG_INDICATOR_INFO__GLOBAL
         field:
@@ -179,12 +276,12 @@ prose:
 #           label: Other methodological considerations (global)
 #           translation_key: metadata_fields.OTHER_METHOD
 #           scope: global
-      - name: RATIONALE__GLOBAL
-        field:
-           element: text
-           label: Rationale (global)
-           translation_key: metadata_fields.RATIONALE
-           scope: global
+#      - name: RATIONALE__GLOBAL
+#        field:
+#           element: text
+#           label: Rationale (global)
+#           translation_key: metadata_fields.RATIONALE
+#           scope: global
 #     - name: REC_USE_LIM__GLOBAL
 #       field:
 #           element: text

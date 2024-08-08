@@ -1,3 +1,22 @@
+ # Metadatos Eustat  
+nombre: Eskuragarri dagoen adierazlearen izena
+objetivo_global: Helburua
+meta_global: Helmuga
+indicador_onu_global: Adierazlea
+definicion: Definizioa
+formula: Formula teorikoa
+periodicidad: Aldizkakotasuna
+observaciones: Oharra
+oceca: OCECA adierazlea
+texto_oceca: OCECA testua
+descripcion_global: Deskribapena
+justificacion_global: Justifikazioa
+indicator_meta_link: NBEko metadatuetarako esteka   
+dato_global: Nazioarteko datuak
+comparabilidad: Alderagarritasunari buruzko oharra
+
+ # A partir de aquí, metadatos open SDG
+
 other_info: Bestelako informazioa
 computation_calculations: Kalkuluak
 computation_definitions: Definizioak
