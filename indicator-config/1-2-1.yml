@@ -28,7 +28,7 @@ graph_target_lines:
     unit: ''
     label_content: indicator.annotation_2030_target
     value: 9.25
-graph_title: global_indicators.1-2-1-title
+graph_title: meta.1-2-1-titulo
 graph_titles: []
 graph_type: line
 indicator_available: ''
@@ -54,7 +54,7 @@ reporting_status: complete
 sort: ''
 sources:
   - organisation: fuente.gv_igualdad
-    periodicity: fuente.FREQ_B
+    periodicity: meta.FREQ_B
     url: fuente.gv_igualdad_url
     url_text: fuente.gv_igualdad
     logo: 'https://www.eustat.eus/cwImages/2015/euskadieus.png'
