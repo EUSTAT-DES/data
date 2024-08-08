@@ -1,47 +1,27 @@
-﻿SDG_INDICATOR__GLOBAL: ''
-SDG_TARGET__GLOBAL: ''
-META_LAST_UPDATE__GLOBAL: ''
-SDG_CUSTODIAN_AGENCIES__GLOBAL: ''
-SDG_RELATED_INDICATORS__GLOBAL: ''
-SDG_INDICATOR_INFO: meta.1-2-1-descripcion
-SDG_GOAL: global_goals.1-title
-SDG_TARGET: global_targets.1-2-title
-SDG_INDICATOR: global_indicators.1-2-1-title
-SDG_SERIES_DESCR: ''
-META_LAST_UPDATE: ''
-SDG_RELATED_INDICATORS: global_indicators.1-1-1-title
-CONTACT: ''
-CONTACT_ORGANISATION: ''
-CONTACT_NAME: ''
-ORGANISATION_UNIT: ''
-CONTACT_FUNCT: ''
-CONTACT_PHONE: ''
-CONTACT_MAIL: ''
-CONTACT_EMAIL: ''
-IND_DEF_CON_CLASS: meta.1-2-1-conceptos
-STAT_CONC_DEF: ''
-UNIT_MEASURE: ''
-CLASS_SYSTEM: ''
-SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: ''
-COLL_METHOD: ''
-FREQ_COLL: ''
-REL_CAL_POLICY: ''
-DATA_SOURCE: fuente.gv_igualdad
-COMPILING_ORG: ''
-INST_MANDATE: ''
-OTHER_METHOD: ''
-RATIONALE: ''
-REC_USE_LIM: ''
-DATA_COMP: 
-DATA_VALIDATION: ''
-DOC_METHOD: ''
-QUALITY_MGMNT: ''
-QUALITY_ASSURE: ''
-QUALITY_ASSMNT: ''
-COVERAGE: 
-COMPARABILITY: <iframe width="600" height="600" src="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.1.1&seriesCode=SI_POV_DAY1&areaCode=1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=4&table=ALLAGE%20%7C%20ALLAREA%20%7C%20BOTHSEX" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-OTHER_DOC: <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.1.1&seriesCode=SI_POV_DAY1&areaCode=1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=4&table=ALLAGE%20%7C%20ALLAREA%20%7C%20BOTHSEX" target="_blank">UNSTAT, 1.2.1</a>
+
+ # Metadatos nacionales (Ficha metodológica)  
+ 
+nombre: meta.1-2-1-titulo
+objetivo_global: global_goals.1-title
+meta_global: global_targets.1-2-title
+indicador_onu_global: global_indicators.1-2-1-title
+
+definicion: meta.1-2-1-definicion 
+formula: meta.1-2-1-formula
+periodicidad: meta.FREQ_A
+observaciones: meta.1-2-1-observaciones
+
+oceca: true
+texto_oceca: meta.1-2-1-oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+descripcion_global: meta.1-2-1-descripcion 
+justificacion_global: meta.1-2-1-justificacion
+goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-01.pdf    
+dato_global: meta.1-2-1-datos 
+comparabilidad: meta.1-2-1-comparabilidad
+
 national_data_updated_date: ''
 national_metadata_updated_date: ''
-un_designated_tier: ''
