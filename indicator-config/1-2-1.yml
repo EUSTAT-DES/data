@@ -53,10 +53,10 @@ related_indicators: []
 reporting_status: complete
 sort: ''
 sources:
-  - organisation: fuente.gv_igualdad
+  - organisation: fuente.gv_bienestar
     periodicity: meta.FREQ_B
-    url: fuente.gv_igualdad_url
-    url_text: fuente.gv_igualdad
+    url: fuente.epds_url
+    url_text: fuente.epds
     logo: 'https://www.eustat.eus/cwImages/2015/euskadieus.png'
 standalone: false
 tags: []
