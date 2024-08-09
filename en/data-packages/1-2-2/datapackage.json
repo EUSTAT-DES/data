@@ -12,8 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Pobreza",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NAHC",
+                "NMPI",
+                "SMSD",
+                "VLWI",
+                ""
+              ]
+            },
+            "title": "Pobreza"
+          },
+          {
+            "name": "Umbral",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Autonomic",
+                "National",
+                ""
+              ]
+            },
+            "title": "Poverty treshold"
+          },
+          {
+            "name": "Unidad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

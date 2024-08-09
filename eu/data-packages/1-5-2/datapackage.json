@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Urtea"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Gipuzkoa",
+                "Bizkaia",
+                ""
+              ]
+            },
+            "title": "Lurraldea"
+          },
+          {
+            "name": "Unidad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ehunekoa",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

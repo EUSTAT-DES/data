@@ -1,9 +1,18 @@
 Disaggregation,es,eu,en,Number of indicators,Number of values
-Comarca,Comarca,Eskualdea,County,2,20
-Edad,Edad,Adina,Edad,2,3
+Administracion,Administracion,Administracion,Administracion,1,3
+Cobertura,Cobertura,Cobertura,Cobertura,1,5
+Comarca,Comarca,Eskualdea,County,7,40
+Discapacidad,Discapacidad,Discapacidad,Discapacidad,1,1
+Edad,Edad,Adina,Edad,1,2
 Habilidad_IT,Habilidades informáticas,Trebetasun informatikoa,ICT skills,1,8
 Ingreso,Ingresos,Diru-sarrerak,Income,1,1
-Municipio,Municipio,Udalerria,Municipality,2,251
+Municipio,Municipio,Udalerria,Municipality,7,252
+Pobreza,Pobreza,Pobreza,Pobreza,1,4
+Residencia,Residencia,Residencia,Residencia,1,1
+Serie,Serie,Serie,Serie,1,5
+ServBasico,ServBasico,ServBasico,ServBasico,1,2
+ServEsencial,ServEsencial,ServEsencial,ServEsencial,1,4
 Sexo,Sexo,Sexua,Sex,3,2
-Territorio,Territorio,Lurraldea,Province,4,3
-Umbral,Umbral de la pobreza,Pobreziaren atalasea,Poverty treshold,1,2
+Territorio,Territorio,Lurraldea,Province,9,3
+Umbral,Umbral de la pobreza,Pobreziaren atalasea,Poverty treshold,2,2
+Unidad,Unidad,Unidad,Unidad,9,5

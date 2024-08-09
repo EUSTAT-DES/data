@@ -16,29 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hombre",
-                "Mujer",
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16 años y más",
-                ""
-              ]
-            },
-            "title": "Edad"
-          },
-          {
             "name": "Umbral",
             "type": "string",
             "constraints": {
@@ -62,20 +39,7 @@
             "title": "Ingresos"
           },
           {
-            "name": "Territorio",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Araba/Álava",
-                "Gipuzkoa",
-                "Bizkaia",
-                ""
-              ]
-            },
-            "title": "Territorio"
-          },
-          {
-            "name": "Units",
+            "name": "Unidad",
             "type": "string",
             "constraints": {
               "enum": [

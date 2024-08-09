@@ -12,7 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Pobreza",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NAHC",
+                "NMPI",
+                "SMSD",
+                "VLWI",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Umbral",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AUT",
+                "NAC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unidad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,8 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Urtea"
+          },
+          {
+            "name": "Pobreza",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NAHC",
+                "NMPI",
+                "SMSD",
+                "VLWI",
+                ""
+              ]
+            },
+            "title": "Pobreza"
+          },
+          {
+            "name": "Umbral",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Autonomikoa",
+                "Nazionala",
+                ""
+              ]
+            },
+            "title": "Pobreziaren atalasea"
+          },
+          {
+            "name": "Unidad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ehunekoa",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

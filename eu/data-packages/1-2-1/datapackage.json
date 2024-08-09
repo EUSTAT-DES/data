@@ -16,29 +16,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Gizona",
-                "Emakumea",
-                ""
-              ]
-            },
-            "title": "Sexua"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16tik gora",
-                ""
-              ]
-            },
-            "title": "Adina"
-          },
-          {
             "name": "Umbral",
             "type": "string",
             "constraints": {
@@ -62,20 +39,7 @@
             "title": "Diru-sarrerak"
           },
           {
-            "name": "Territorio",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Araba/Álava",
-                "Gipuzkoa",
-                "Bizkaia",
-                ""
-              ]
-            },
-            "title": "Lurraldea"
-          },
-          {
-            "name": "Units",
+            "name": "Unidad",
             "type": "string",
             "constraints": {
               "enum": [
@@ -83,7 +47,7 @@
                 ""
               ]
             },
-            "title": "Unitateak"
+            "title": "Unidad"
           },
           {
             "name": "Value",

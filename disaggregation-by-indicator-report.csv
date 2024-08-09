@@ -1,5 +1,12 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-2-1,"Sexo, Edad, Territorio, Umbral, Ingreso",5
-#1-5-1,"Sexo, Territorio, Comarca, Municipio",4
+#1-2-1,"Unidad, Umbral, Ingreso",3
+#1-2-2,"Unidad, Umbral, Pobreza",3
+#1-3-1,"Sexo, Territorio, Comarca, Municipio, Unidad, Serie, Cobertura, Residencia, Discapacidad",9
+#1-3-E1,"Territorio, Comarca, Municipio, Unidad",4
+#1-3-E2,"Territorio, Comarca, Municipio, Unidad",4
+#1-4-1,"Territorio, Comarca, Municipio, Unidad, ServBasico",5
+#1-5-1,"Sexo, Territorio, Comarca, Municipio, Unidad",5
+#1-5-2,"Territorio, Unidad",2
+#1-a-2,"Territorio, Comarca, Municipio, Unidad, ServEsencial, Administracion",6
 #2-a-1,"Territorio, Comarca, Municipio",3
 #4-4-1,"Habilidad_IT, Sexo, Edad, Territorio",4

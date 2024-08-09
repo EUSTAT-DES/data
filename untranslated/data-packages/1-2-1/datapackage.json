@@ -15,27 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y_GE16",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Umbral",
             "type": "string",
             "constraints": {
@@ -57,19 +36,7 @@
             }
           },
           {
-            "name": "Territorio",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ES211",
-                "ES212",
-                "ES213",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
+            "name": "Unidad",
             "type": "string",
             "constraints": {
               "enum": [

@@ -1,4 +1,4 @@
-Year,Sex,Province,County,Municipality,Units,GeoCode,Value
+Year,Sex,Province,County,Municipality,Unidad,GeoCode,Value
 2010,Male,Araba/Álava,,,"Per 100,000 people",Araba/Álava,0.0
 2011,Male,Araba/Álava,,,"Per 100,000 people",Araba/Álava,0.0
 2012,Male,Araba/Álava,,,"Per 100,000 people",Araba/Álava,0.0
@@ -311,45 +311,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Asparrena,"Per 100,000 people",Asparrena,0.0
 2021,,,,Asparrena,"Per 100,000 people",Asparrena,0.0
 2022,,,,Asparrena,"Per 100,000 people",Asparrena,0.0
-2010,Male,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2011,Male,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2012,Male,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2013,Male,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2014,Male,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2015,Male,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2016,Male,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2017,Male,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2018,Male,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2019,Male,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2020,Male,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2021,Male,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2022,Male,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2010,Female,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2011,Female,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2012,Female,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2013,Female,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2014,Female,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2015,Female,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2016,Female,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2017,Female,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2018,Female,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2019,Female,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2020,Female,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2021,Female,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2022,Female,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2010,,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2011,,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2012,,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2013,,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2014,,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2015,,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2016,,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2017,,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2018,,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2019,,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2020,,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2021,,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
-2022,,,Añana (comarca),,"Per 100,000 people",Añana (comarca),0.0
+2010,Male,,ES0101,,"Per 100,000 people",ES0101,0.0
+2011,Male,,ES0101,,"Per 100,000 people",ES0101,0.0
+2012,Male,,ES0101,,"Per 100,000 people",ES0101,0.0
+2013,Male,,ES0101,,"Per 100,000 people",ES0101,0.0
+2014,Male,,ES0101,,"Per 100,000 people",ES0101,0.0
+2015,Male,,ES0101,,"Per 100,000 people",ES0101,0.0
+2016,Male,,ES0101,,"Per 100,000 people",ES0101,0.0
+2017,Male,,ES0101,,"Per 100,000 people",ES0101,0.0
+2018,Male,,ES0101,,"Per 100,000 people",ES0101,0.0
+2019,Male,,ES0101,,"Per 100,000 people",ES0101,0.0
+2020,Male,,ES0101,,"Per 100,000 people",ES0101,0.0
+2021,Male,,ES0101,,"Per 100,000 people",ES0101,0.0
+2022,Male,,ES0101,,"Per 100,000 people",ES0101,0.0
+2010,Female,,ES0101,,"Per 100,000 people",ES0101,0.0
+2011,Female,,ES0101,,"Per 100,000 people",ES0101,0.0
+2012,Female,,ES0101,,"Per 100,000 people",ES0101,0.0
+2013,Female,,ES0101,,"Per 100,000 people",ES0101,0.0
+2014,Female,,ES0101,,"Per 100,000 people",ES0101,0.0
+2015,Female,,ES0101,,"Per 100,000 people",ES0101,0.0
+2016,Female,,ES0101,,"Per 100,000 people",ES0101,0.0
+2017,Female,,ES0101,,"Per 100,000 people",ES0101,0.0
+2018,Female,,ES0101,,"Per 100,000 people",ES0101,0.0
+2019,Female,,ES0101,,"Per 100,000 people",ES0101,0.0
+2020,Female,,ES0101,,"Per 100,000 people",ES0101,0.0
+2021,Female,,ES0101,,"Per 100,000 people",ES0101,0.0
+2022,Female,,ES0101,,"Per 100,000 people",ES0101,0.0
+2010,,,ES0101,,"Per 100,000 people",ES0101,0.0
+2011,,,ES0101,,"Per 100,000 people",ES0101,0.0
+2012,,,ES0101,,"Per 100,000 people",ES0101,0.0
+2013,,,ES0101,,"Per 100,000 people",ES0101,0.0
+2014,,,ES0101,,"Per 100,000 people",ES0101,0.0
+2015,,,ES0101,,"Per 100,000 people",ES0101,0.0
+2016,,,ES0101,,"Per 100,000 people",ES0101,0.0
+2017,,,ES0101,,"Per 100,000 people",ES0101,0.0
+2018,,,ES0101,,"Per 100,000 people",ES0101,0.0
+2019,,,ES0101,,"Per 100,000 people",ES0101,0.0
+2020,,,ES0101,,"Per 100,000 people",ES0101,0.0
+2021,,,ES0101,,"Per 100,000 people",ES0101,0.0
+2022,,,ES0101,,"Per 100,000 people",ES0101,0.0
 2010,Male,,,Ayala/Aiara,"Per 100,000 people",Ayala/Aiara,0.0
 2011,Male,,,Ayala/Aiara,"Per 100,000 people",Ayala/Aiara,0.0
 2012,Male,,,Ayala/Aiara,"Per 100,000 people",Ayala/Aiara,0.0
@@ -662,45 +662,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Kripan,"Per 100,000 people",Kripan,0.0
 2021,,,,Kripan,"Per 100,000 people",Kripan,0.0
 2022,,,,Kripan,"Per 100,000 people",Kripan,0.0
-2010,Male,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2011,Male,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2012,Male,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2013,Male,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2014,Male,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.79
-2015,Male,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2016,Male,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2017,Male,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2018,Male,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2019,Male,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.77
-2020,Male,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2021,Male,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2022,Male,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.77
-2010,Female,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2011,Female,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2012,Female,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2013,Female,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2014,Female,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2015,Female,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2016,Female,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.76
-2017,Female,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2018,Female,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2019,Female,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2020,Female,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2021,Female,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2022,Female,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2010,,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2011,,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2012,,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2013,,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2014,,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.39
-2015,,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2016,,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.39
-2017,,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2018,,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2019,,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.38
-2020,,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2021,,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.0
-2022,,,Arabako Lautada / Llanada Alavesa,,"Per 100,000 people",Arabako Lautada / Llanada Alavesa,0.37
+2010,Male,,ES0102,,"Per 100,000 people",ES0102,0.0
+2011,Male,,ES0102,,"Per 100,000 people",ES0102,0.0
+2012,Male,,ES0102,,"Per 100,000 people",ES0102,0.0
+2013,Male,,ES0102,,"Per 100,000 people",ES0102,0.0
+2014,Male,,ES0102,,"Per 100,000 people",ES0102,0.79
+2015,Male,,ES0102,,"Per 100,000 people",ES0102,0.0
+2016,Male,,ES0102,,"Per 100,000 people",ES0102,0.0
+2017,Male,,ES0102,,"Per 100,000 people",ES0102,0.0
+2018,Male,,ES0102,,"Per 100,000 people",ES0102,0.0
+2019,Male,,ES0102,,"Per 100,000 people",ES0102,0.77
+2020,Male,,ES0102,,"Per 100,000 people",ES0102,0.0
+2021,Male,,ES0102,,"Per 100,000 people",ES0102,0.0
+2022,Male,,ES0102,,"Per 100,000 people",ES0102,0.77
+2010,Female,,ES0102,,"Per 100,000 people",ES0102,0.0
+2011,Female,,ES0102,,"Per 100,000 people",ES0102,0.0
+2012,Female,,ES0102,,"Per 100,000 people",ES0102,0.0
+2013,Female,,ES0102,,"Per 100,000 people",ES0102,0.0
+2014,Female,,ES0102,,"Per 100,000 people",ES0102,0.0
+2015,Female,,ES0102,,"Per 100,000 people",ES0102,0.0
+2016,Female,,ES0102,,"Per 100,000 people",ES0102,0.76
+2017,Female,,ES0102,,"Per 100,000 people",ES0102,0.0
+2018,Female,,ES0102,,"Per 100,000 people",ES0102,0.0
+2019,Female,,ES0102,,"Per 100,000 people",ES0102,0.0
+2020,Female,,ES0102,,"Per 100,000 people",ES0102,0.0
+2021,Female,,ES0102,,"Per 100,000 people",ES0102,0.0
+2022,Female,,ES0102,,"Per 100,000 people",ES0102,0.0
+2010,,,ES0102,,"Per 100,000 people",ES0102,0.0
+2011,,,ES0102,,"Per 100,000 people",ES0102,0.0
+2012,,,ES0102,,"Per 100,000 people",ES0102,0.0
+2013,,,ES0102,,"Per 100,000 people",ES0102,0.0
+2014,,,ES0102,,"Per 100,000 people",ES0102,0.39
+2015,,,ES0102,,"Per 100,000 people",ES0102,0.0
+2016,,,ES0102,,"Per 100,000 people",ES0102,0.39
+2017,,,ES0102,,"Per 100,000 people",ES0102,0.0
+2018,,,ES0102,,"Per 100,000 people",ES0102,0.0
+2019,,,ES0102,,"Per 100,000 people",ES0102,0.38
+2020,,,ES0102,,"Per 100,000 people",ES0102,0.0
+2021,,,ES0102,,"Per 100,000 people",ES0102,0.0
+2022,,,ES0102,,"Per 100,000 people",ES0102,0.37
 2010,Male,,,Kuartango,"Per 100,000 people",Kuartango,0.0
 2011,Male,,,Kuartango,"Per 100,000 people",Kuartango,0.0
 2012,Male,,,Kuartango,"Per 100,000 people",Kuartango,0.0
@@ -935,45 +935,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Labastida/Bastida,"Per 100,000 people",Labastida/Bastida,0.0
 2021,,,,Labastida/Bastida,"Per 100,000 people",Labastida/Bastida,0.0
 2022,,,,Labastida/Bastida,"Per 100,000 people",Labastida/Bastida,0.0
-2010,Male,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2011,Male,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2012,Male,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2013,Male,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2014,Male,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2015,Male,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2016,Male,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2017,Male,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2018,Male,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2019,Male,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2020,Male,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2021,Male,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2022,Male,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2010,Female,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2011,Female,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2012,Female,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2013,Female,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2014,Female,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2015,Female,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2016,Female,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2017,Female,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2018,Female,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2019,Female,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2020,Female,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2021,Female,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2022,Female,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2010,,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2011,,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2012,,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2013,,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2014,,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2015,,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2016,,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2017,,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2018,,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2019,,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2020,,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2021,,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
-2022,,,Arabako Mendialdea / Montaña Alavesa,,"Per 100,000 people",Arabako Mendialdea / Montaña Alavesa,0.0
+2010,Male,,ES0103,,"Per 100,000 people",ES0103,0.0
+2011,Male,,ES0103,,"Per 100,000 people",ES0103,0.0
+2012,Male,,ES0103,,"Per 100,000 people",ES0103,0.0
+2013,Male,,ES0103,,"Per 100,000 people",ES0103,0.0
+2014,Male,,ES0103,,"Per 100,000 people",ES0103,0.0
+2015,Male,,ES0103,,"Per 100,000 people",ES0103,0.0
+2016,Male,,ES0103,,"Per 100,000 people",ES0103,0.0
+2017,Male,,ES0103,,"Per 100,000 people",ES0103,0.0
+2018,Male,,ES0103,,"Per 100,000 people",ES0103,0.0
+2019,Male,,ES0103,,"Per 100,000 people",ES0103,0.0
+2020,Male,,ES0103,,"Per 100,000 people",ES0103,0.0
+2021,Male,,ES0103,,"Per 100,000 people",ES0103,0.0
+2022,Male,,ES0103,,"Per 100,000 people",ES0103,0.0
+2010,Female,,ES0103,,"Per 100,000 people",ES0103,0.0
+2011,Female,,ES0103,,"Per 100,000 people",ES0103,0.0
+2012,Female,,ES0103,,"Per 100,000 people",ES0103,0.0
+2013,Female,,ES0103,,"Per 100,000 people",ES0103,0.0
+2014,Female,,ES0103,,"Per 100,000 people",ES0103,0.0
+2015,Female,,ES0103,,"Per 100,000 people",ES0103,0.0
+2016,Female,,ES0103,,"Per 100,000 people",ES0103,0.0
+2017,Female,,ES0103,,"Per 100,000 people",ES0103,0.0
+2018,Female,,ES0103,,"Per 100,000 people",ES0103,0.0
+2019,Female,,ES0103,,"Per 100,000 people",ES0103,0.0
+2020,Female,,ES0103,,"Per 100,000 people",ES0103,0.0
+2021,Female,,ES0103,,"Per 100,000 people",ES0103,0.0
+2022,Female,,ES0103,,"Per 100,000 people",ES0103,0.0
+2010,,,ES0103,,"Per 100,000 people",ES0103,0.0
+2011,,,ES0103,,"Per 100,000 people",ES0103,0.0
+2012,,,ES0103,,"Per 100,000 people",ES0103,0.0
+2013,,,ES0103,,"Per 100,000 people",ES0103,0.0
+2014,,,ES0103,,"Per 100,000 people",ES0103,0.0
+2015,,,ES0103,,"Per 100,000 people",ES0103,0.0
+2016,,,ES0103,,"Per 100,000 people",ES0103,0.0
+2017,,,ES0103,,"Per 100,000 people",ES0103,0.0
+2018,,,ES0103,,"Per 100,000 people",ES0103,0.0
+2019,,,ES0103,,"Per 100,000 people",ES0103,0.0
+2020,,,ES0103,,"Per 100,000 people",ES0103,0.0
+2021,,,ES0103,,"Per 100,000 people",ES0103,0.0
+2022,,,ES0103,,"Per 100,000 people",ES0103,0.0
 2010,Male,,,Lagrán,"Per 100,000 people",Lagrán,0.0
 2011,Male,,,Lagrán,"Per 100,000 people",Lagrán,0.0
 2012,Male,,,Lagrán,"Per 100,000 people",Lagrán,0.0
@@ -1286,45 +1286,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Moreda de Álava/Moreda Araba,"Per 100,000 people",Moreda de Álava/Moreda Araba,0.0
 2021,,,,Moreda de Álava/Moreda Araba,"Per 100,000 people",Moreda de Álava/Moreda Araba,0.0
 2022,,,,Moreda de Álava/Moreda Araba,"Per 100,000 people",Moreda de Álava/Moreda Araba,0.0
-2010,Male,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2011,Male,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2012,Male,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2013,Male,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2014,Male,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2015,Male,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2016,Male,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2017,Male,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2018,Male,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2019,Male,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2020,Male,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2021,Male,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2022,Male,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2010,Female,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2011,Female,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2012,Female,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2013,Female,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2014,Female,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2015,Female,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2016,Female,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2017,Female,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2018,Female,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2019,Female,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2020,Female,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2021,Female,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2022,Female,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2010,,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2011,,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2012,,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2013,,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2014,,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2015,,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2016,,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2017,,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2018,,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2019,,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2020,,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2021,,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
-2022,,,Arabako Errioxa / Rioja Alavesa,,"Per 100,000 people",Arabako Errioxa / Rioja Alavesa,0.0
+2010,Male,,ES0104,,"Per 100,000 people",ES0104,0.0
+2011,Male,,ES0104,,"Per 100,000 people",ES0104,0.0
+2012,Male,,ES0104,,"Per 100,000 people",ES0104,0.0
+2013,Male,,ES0104,,"Per 100,000 people",ES0104,0.0
+2014,Male,,ES0104,,"Per 100,000 people",ES0104,0.0
+2015,Male,,ES0104,,"Per 100,000 people",ES0104,0.0
+2016,Male,,ES0104,,"Per 100,000 people",ES0104,0.0
+2017,Male,,ES0104,,"Per 100,000 people",ES0104,0.0
+2018,Male,,ES0104,,"Per 100,000 people",ES0104,0.0
+2019,Male,,ES0104,,"Per 100,000 people",ES0104,0.0
+2020,Male,,ES0104,,"Per 100,000 people",ES0104,0.0
+2021,Male,,ES0104,,"Per 100,000 people",ES0104,0.0
+2022,Male,,ES0104,,"Per 100,000 people",ES0104,0.0
+2010,Female,,ES0104,,"Per 100,000 people",ES0104,0.0
+2011,Female,,ES0104,,"Per 100,000 people",ES0104,0.0
+2012,Female,,ES0104,,"Per 100,000 people",ES0104,0.0
+2013,Female,,ES0104,,"Per 100,000 people",ES0104,0.0
+2014,Female,,ES0104,,"Per 100,000 people",ES0104,0.0
+2015,Female,,ES0104,,"Per 100,000 people",ES0104,0.0
+2016,Female,,ES0104,,"Per 100,000 people",ES0104,0.0
+2017,Female,,ES0104,,"Per 100,000 people",ES0104,0.0
+2018,Female,,ES0104,,"Per 100,000 people",ES0104,0.0
+2019,Female,,ES0104,,"Per 100,000 people",ES0104,0.0
+2020,Female,,ES0104,,"Per 100,000 people",ES0104,0.0
+2021,Female,,ES0104,,"Per 100,000 people",ES0104,0.0
+2022,Female,,ES0104,,"Per 100,000 people",ES0104,0.0
+2010,,,ES0104,,"Per 100,000 people",ES0104,0.0
+2011,,,ES0104,,"Per 100,000 people",ES0104,0.0
+2012,,,ES0104,,"Per 100,000 people",ES0104,0.0
+2013,,,ES0104,,"Per 100,000 people",ES0104,0.0
+2014,,,ES0104,,"Per 100,000 people",ES0104,0.0
+2015,,,ES0104,,"Per 100,000 people",ES0104,0.0
+2016,,,ES0104,,"Per 100,000 people",ES0104,0.0
+2017,,,ES0104,,"Per 100,000 people",ES0104,0.0
+2018,,,ES0104,,"Per 100,000 people",ES0104,0.0
+2019,,,ES0104,,"Per 100,000 people",ES0104,0.0
+2020,,,ES0104,,"Per 100,000 people",ES0104,0.0
+2021,,,ES0104,,"Per 100,000 people",ES0104,0.0
+2022,,,ES0104,,"Per 100,000 people",ES0104,0.0
 2010,Male,,,Navaridas,"Per 100,000 people",Navaridas,0.0
 2011,Male,,,Navaridas,"Per 100,000 people",Navaridas,0.0
 2012,Male,,,Navaridas,"Per 100,000 people",Navaridas,0.0
@@ -1598,45 +1598,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Añana,"Per 100,000 people",Añana,0.0
 2021,,,,Añana,"Per 100,000 people",Añana,0.0
 2022,,,,Añana,"Per 100,000 people",Añana,0.0
-2010,Male,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2011,Male,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2012,Male,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2013,Male,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2014,Male,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2015,Male,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2016,Male,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2017,Male,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2018,Male,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2019,Male,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2020,Male,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2021,Male,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2022,Male,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2010,Female,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2011,Female,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2012,Female,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2013,Female,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2014,Female,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2015,Female,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2016,Female,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2017,Female,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2018,Female,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2019,Female,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2020,Female,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2021,Female,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2022,Female,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2010,,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2011,,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2012,,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2013,,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2014,,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2015,,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2016,,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2017,,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2018,,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2019,,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2020,,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2021,,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
-2022,,,Gorbeialdea / Estribaciones del Gorbea,,"Per 100,000 people",Gorbeialdea / Estribaciones del Gorbea,0.0
+2010,Male,,ES0105,,"Per 100,000 people",ES0105,0.0
+2011,Male,,ES0105,,"Per 100,000 people",ES0105,0.0
+2012,Male,,ES0105,,"Per 100,000 people",ES0105,0.0
+2013,Male,,ES0105,,"Per 100,000 people",ES0105,0.0
+2014,Male,,ES0105,,"Per 100,000 people",ES0105,0.0
+2015,Male,,ES0105,,"Per 100,000 people",ES0105,0.0
+2016,Male,,ES0105,,"Per 100,000 people",ES0105,0.0
+2017,Male,,ES0105,,"Per 100,000 people",ES0105,0.0
+2018,Male,,ES0105,,"Per 100,000 people",ES0105,0.0
+2019,Male,,ES0105,,"Per 100,000 people",ES0105,0.0
+2020,Male,,ES0105,,"Per 100,000 people",ES0105,0.0
+2021,Male,,ES0105,,"Per 100,000 people",ES0105,0.0
+2022,Male,,ES0105,,"Per 100,000 people",ES0105,0.0
+2010,Female,,ES0105,,"Per 100,000 people",ES0105,0.0
+2011,Female,,ES0105,,"Per 100,000 people",ES0105,0.0
+2012,Female,,ES0105,,"Per 100,000 people",ES0105,0.0
+2013,Female,,ES0105,,"Per 100,000 people",ES0105,0.0
+2014,Female,,ES0105,,"Per 100,000 people",ES0105,0.0
+2015,Female,,ES0105,,"Per 100,000 people",ES0105,0.0
+2016,Female,,ES0105,,"Per 100,000 people",ES0105,0.0
+2017,Female,,ES0105,,"Per 100,000 people",ES0105,0.0
+2018,Female,,ES0105,,"Per 100,000 people",ES0105,0.0
+2019,Female,,ES0105,,"Per 100,000 people",ES0105,0.0
+2020,Female,,ES0105,,"Per 100,000 people",ES0105,0.0
+2021,Female,,ES0105,,"Per 100,000 people",ES0105,0.0
+2022,Female,,ES0105,,"Per 100,000 people",ES0105,0.0
+2010,,,ES0105,,"Per 100,000 people",ES0105,0.0
+2011,,,ES0105,,"Per 100,000 people",ES0105,0.0
+2012,,,ES0105,,"Per 100,000 people",ES0105,0.0
+2013,,,ES0105,,"Per 100,000 people",ES0105,0.0
+2014,,,ES0105,,"Per 100,000 people",ES0105,0.0
+2015,,,ES0105,,"Per 100,000 people",ES0105,0.0
+2016,,,ES0105,,"Per 100,000 people",ES0105,0.0
+2017,,,ES0105,,"Per 100,000 people",ES0105,0.0
+2018,,,ES0105,,"Per 100,000 people",ES0105,0.0
+2019,,,ES0105,,"Per 100,000 people",ES0105,0.0
+2020,,,ES0105,,"Per 100,000 people",ES0105,0.0
+2021,,,ES0105,,"Per 100,000 people",ES0105,0.0
+2022,,,ES0105,,"Per 100,000 people",ES0105,0.0
 2010,Male,,,Agurain/Salvatierra,"Per 100,000 people",Agurain/Salvatierra,0.0
 2011,Male,,,Agurain/Salvatierra,"Per 100,000 people",Agurain/Salvatierra,0.0
 2012,Male,,,Agurain/Salvatierra,"Per 100,000 people",Agurain/Salvatierra,0.0
@@ -1988,45 +1988,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Vitoria-Gasteiz,"Per 100,000 people",Vitoria-Gasteiz,0.0
 2021,,,,Vitoria-Gasteiz,"Per 100,000 people",Vitoria-Gasteiz,0.0
 2022,,,,Vitoria-Gasteiz,"Per 100,000 people",Vitoria-Gasteiz,0.4
-2010,Male,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2011,Male,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2012,Male,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2013,Male,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2014,Male,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2015,Male,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2016,Male,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2017,Male,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2018,Male,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2019,Male,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2020,Male,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2021,Male,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2022,Male,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2010,Female,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2011,Female,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2012,Female,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2013,Female,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2014,Female,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2015,Female,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2016,Female,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2017,Female,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2018,Female,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2019,Female,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2020,Female,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2021,Female,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2022,Female,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2010,,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2011,,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2012,,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2013,,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2014,,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2015,,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2016,,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2017,,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2018,,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2019,,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2020,,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2021,,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
-2022,,,Arabako Kantaurialdea / Cantábrica Alavesa,,"Per 100,000 people",Arabako Kantaurialdea / Cantábrica Alavesa,0.0
+2010,Male,,ES0106,,"Per 100,000 people",ES0106,0.0
+2011,Male,,ES0106,,"Per 100,000 people",ES0106,0.0
+2012,Male,,ES0106,,"Per 100,000 people",ES0106,0.0
+2013,Male,,ES0106,,"Per 100,000 people",ES0106,0.0
+2014,Male,,ES0106,,"Per 100,000 people",ES0106,0.0
+2015,Male,,ES0106,,"Per 100,000 people",ES0106,0.0
+2016,Male,,ES0106,,"Per 100,000 people",ES0106,0.0
+2017,Male,,ES0106,,"Per 100,000 people",ES0106,0.0
+2018,Male,,ES0106,,"Per 100,000 people",ES0106,0.0
+2019,Male,,ES0106,,"Per 100,000 people",ES0106,0.0
+2020,Male,,ES0106,,"Per 100,000 people",ES0106,0.0
+2021,Male,,ES0106,,"Per 100,000 people",ES0106,0.0
+2022,Male,,ES0106,,"Per 100,000 people",ES0106,0.0
+2010,Female,,ES0106,,"Per 100,000 people",ES0106,0.0
+2011,Female,,ES0106,,"Per 100,000 people",ES0106,0.0
+2012,Female,,ES0106,,"Per 100,000 people",ES0106,0.0
+2013,Female,,ES0106,,"Per 100,000 people",ES0106,0.0
+2014,Female,,ES0106,,"Per 100,000 people",ES0106,0.0
+2015,Female,,ES0106,,"Per 100,000 people",ES0106,0.0
+2016,Female,,ES0106,,"Per 100,000 people",ES0106,0.0
+2017,Female,,ES0106,,"Per 100,000 people",ES0106,0.0
+2018,Female,,ES0106,,"Per 100,000 people",ES0106,0.0
+2019,Female,,ES0106,,"Per 100,000 people",ES0106,0.0
+2020,Female,,ES0106,,"Per 100,000 people",ES0106,0.0
+2021,Female,,ES0106,,"Per 100,000 people",ES0106,0.0
+2022,Female,,ES0106,,"Per 100,000 people",ES0106,0.0
+2010,,,ES0106,,"Per 100,000 people",ES0106,0.0
+2011,,,ES0106,,"Per 100,000 people",ES0106,0.0
+2012,,,ES0106,,"Per 100,000 people",ES0106,0.0
+2013,,,ES0106,,"Per 100,000 people",ES0106,0.0
+2014,,,ES0106,,"Per 100,000 people",ES0106,0.0
+2015,,,ES0106,,"Per 100,000 people",ES0106,0.0
+2016,,,ES0106,,"Per 100,000 people",ES0106,0.0
+2017,,,ES0106,,"Per 100,000 people",ES0106,0.0
+2018,,,ES0106,,"Per 100,000 people",ES0106,0.0
+2019,,,ES0106,,"Per 100,000 people",ES0106,0.0
+2020,,,ES0106,,"Per 100,000 people",ES0106,0.0
+2021,,,ES0106,,"Per 100,000 people",ES0106,0.0
+2022,,,ES0106,,"Per 100,000 people",ES0106,0.0
 2010,Male,,,Yécora/Iekora,"Per 100,000 people",Yécora/Iekora,0.0
 2011,Male,,,Yécora/Iekora,"Per 100,000 people",Yécora/Iekora,0.0
 2012,Male,,,Yécora/Iekora,"Per 100,000 people",Yécora/Iekora,0.0
@@ -2651,45 +2651,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Andoain,"Per 100,000 people",Andoain,0.0
 2021,,,,Andoain,"Per 100,000 people",Andoain,0.0
 2022,,,,Andoain,"Per 100,000 people",Andoain,0.0
-2010,Male,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2011,Male,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2012,Male,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2013,Male,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2014,Male,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2015,Male,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2016,Male,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2017,Male,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2018,Male,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,3.65
-2019,Male,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2020,Male,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2021,Male,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2022,Male,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2010,Female,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2011,Female,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2012,Female,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2013,Female,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2014,Female,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2015,Female,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2016,Female,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2017,Female,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,3.55
-2018,Female,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2019,Female,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2020,Female,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2021,Female,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2022,Female,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2010,,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2011,,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2012,,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2013,,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2014,,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2015,,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2016,,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2017,,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,1.8
-2018,,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,1.8
-2019,,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2020,,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2021,,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
-2022,,,Bidasoa Beherea / Bajo Bidasoa,,"Per 100,000 people",Bidasoa Beherea / Bajo Bidasoa,0.0
+2010,Male,,ES2001,,"Per 100,000 people",ES2001,0.0
+2011,Male,,ES2001,,"Per 100,000 people",ES2001,0.0
+2012,Male,,ES2001,,"Per 100,000 people",ES2001,0.0
+2013,Male,,ES2001,,"Per 100,000 people",ES2001,0.0
+2014,Male,,ES2001,,"Per 100,000 people",ES2001,0.0
+2015,Male,,ES2001,,"Per 100,000 people",ES2001,0.0
+2016,Male,,ES2001,,"Per 100,000 people",ES2001,0.0
+2017,Male,,ES2001,,"Per 100,000 people",ES2001,0.0
+2018,Male,,ES2001,,"Per 100,000 people",ES2001,3.65
+2019,Male,,ES2001,,"Per 100,000 people",ES2001,0.0
+2020,Male,,ES2001,,"Per 100,000 people",ES2001,0.0
+2021,Male,,ES2001,,"Per 100,000 people",ES2001,0.0
+2022,Male,,ES2001,,"Per 100,000 people",ES2001,0.0
+2010,Female,,ES2001,,"Per 100,000 people",ES2001,0.0
+2011,Female,,ES2001,,"Per 100,000 people",ES2001,0.0
+2012,Female,,ES2001,,"Per 100,000 people",ES2001,0.0
+2013,Female,,ES2001,,"Per 100,000 people",ES2001,0.0
+2014,Female,,ES2001,,"Per 100,000 people",ES2001,0.0
+2015,Female,,ES2001,,"Per 100,000 people",ES2001,0.0
+2016,Female,,ES2001,,"Per 100,000 people",ES2001,0.0
+2017,Female,,ES2001,,"Per 100,000 people",ES2001,3.55
+2018,Female,,ES2001,,"Per 100,000 people",ES2001,0.0
+2019,Female,,ES2001,,"Per 100,000 people",ES2001,0.0
+2020,Female,,ES2001,,"Per 100,000 people",ES2001,0.0
+2021,Female,,ES2001,,"Per 100,000 people",ES2001,0.0
+2022,Female,,ES2001,,"Per 100,000 people",ES2001,0.0
+2010,,,ES2001,,"Per 100,000 people",ES2001,0.0
+2011,,,ES2001,,"Per 100,000 people",ES2001,0.0
+2012,,,ES2001,,"Per 100,000 people",ES2001,0.0
+2013,,,ES2001,,"Per 100,000 people",ES2001,0.0
+2014,,,ES2001,,"Per 100,000 people",ES2001,0.0
+2015,,,ES2001,,"Per 100,000 people",ES2001,0.0
+2016,,,ES2001,,"Per 100,000 people",ES2001,0.0
+2017,,,ES2001,,"Per 100,000 people",ES2001,1.8
+2018,,,ES2001,,"Per 100,000 people",ES2001,1.8
+2019,,,ES2001,,"Per 100,000 people",ES2001,0.0
+2020,,,ES2001,,"Per 100,000 people",ES2001,0.0
+2021,,,ES2001,,"Per 100,000 people",ES2001,0.0
+2022,,,ES2001,,"Per 100,000 people",ES2001,0.0
 2010,Male,,,Anoeta,"Per 100,000 people",Anoeta,0.0
 2011,Male,,,Anoeta,"Per 100,000 people",Anoeta,0.0
 2012,Male,,,Anoeta,"Per 100,000 people",Anoeta,0.0
@@ -3080,45 +3080,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Beasain,"Per 100,000 people",Beasain,0.0
 2021,,,,Beasain,"Per 100,000 people",Beasain,0.0
 2022,,,,Beasain,"Per 100,000 people",Beasain,0.0
-2010,Male,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2011,Male,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2012,Male,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2013,Male,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2014,Male,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2015,Male,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2016,Male,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2017,Male,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2018,Male,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2019,Male,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2020,Male,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2021,Male,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2022,Male,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,2.65
-2010,Female,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2011,Female,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2012,Female,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2013,Female,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2014,Female,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2015,Female,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2016,Female,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2017,Female,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2018,Female,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2019,Female,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2020,Female,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2021,Female,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2022,Female,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2010,,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2011,,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2012,,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2013,,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2014,,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2015,,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2016,,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2017,,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2018,,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2019,,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2020,,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2021,,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,0.0
-2022,,,Debabarrena / Bajo Deba,,"Per 100,000 people",Debabarrena / Bajo Deba,1.3
+2010,Male,,ES2002,,"Per 100,000 people",ES2002,0.0
+2011,Male,,ES2002,,"Per 100,000 people",ES2002,0.0
+2012,Male,,ES2002,,"Per 100,000 people",ES2002,0.0
+2013,Male,,ES2002,,"Per 100,000 people",ES2002,0.0
+2014,Male,,ES2002,,"Per 100,000 people",ES2002,0.0
+2015,Male,,ES2002,,"Per 100,000 people",ES2002,0.0
+2016,Male,,ES2002,,"Per 100,000 people",ES2002,0.0
+2017,Male,,ES2002,,"Per 100,000 people",ES2002,0.0
+2018,Male,,ES2002,,"Per 100,000 people",ES2002,0.0
+2019,Male,,ES2002,,"Per 100,000 people",ES2002,0.0
+2020,Male,,ES2002,,"Per 100,000 people",ES2002,0.0
+2021,Male,,ES2002,,"Per 100,000 people",ES2002,0.0
+2022,Male,,ES2002,,"Per 100,000 people",ES2002,2.65
+2010,Female,,ES2002,,"Per 100,000 people",ES2002,0.0
+2011,Female,,ES2002,,"Per 100,000 people",ES2002,0.0
+2012,Female,,ES2002,,"Per 100,000 people",ES2002,0.0
+2013,Female,,ES2002,,"Per 100,000 people",ES2002,0.0
+2014,Female,,ES2002,,"Per 100,000 people",ES2002,0.0
+2015,Female,,ES2002,,"Per 100,000 people",ES2002,0.0
+2016,Female,,ES2002,,"Per 100,000 people",ES2002,0.0
+2017,Female,,ES2002,,"Per 100,000 people",ES2002,0.0
+2018,Female,,ES2002,,"Per 100,000 people",ES2002,0.0
+2019,Female,,ES2002,,"Per 100,000 people",ES2002,0.0
+2020,Female,,ES2002,,"Per 100,000 people",ES2002,0.0
+2021,Female,,ES2002,,"Per 100,000 people",ES2002,0.0
+2022,Female,,ES2002,,"Per 100,000 people",ES2002,0.0
+2010,,,ES2002,,"Per 100,000 people",ES2002,0.0
+2011,,,ES2002,,"Per 100,000 people",ES2002,0.0
+2012,,,ES2002,,"Per 100,000 people",ES2002,0.0
+2013,,,ES2002,,"Per 100,000 people",ES2002,0.0
+2014,,,ES2002,,"Per 100,000 people",ES2002,0.0
+2015,,,ES2002,,"Per 100,000 people",ES2002,0.0
+2016,,,ES2002,,"Per 100,000 people",ES2002,0.0
+2017,,,ES2002,,"Per 100,000 people",ES2002,0.0
+2018,,,ES2002,,"Per 100,000 people",ES2002,0.0
+2019,,,ES2002,,"Per 100,000 people",ES2002,0.0
+2020,,,ES2002,,"Per 100,000 people",ES2002,0.0
+2021,,,ES2002,,"Per 100,000 people",ES2002,0.0
+2022,,,ES2002,,"Per 100,000 people",ES2002,1.3
 2010,Male,,,Beizama,"Per 100,000 people",Beizama,0.0
 2011,Male,,,Beizama,"Per 100,000 people",Beizama,0.0
 2012,Male,,,Beizama,"Per 100,000 people",Beizama,0.0
@@ -3509,45 +3509,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Deba,"Per 100,000 people",Deba,0.0
 2021,,,,Deba,"Per 100,000 people",Deba,0.0
 2022,,,,Deba,"Per 100,000 people",Deba,0.0
-2010,Male,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2011,Male,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2012,Male,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2013,Male,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2014,Male,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2015,Male,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2016,Male,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2017,Male,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2018,Male,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2019,Male,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2020,Male,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2021,Male,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2022,Male,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,3.22
-2010,Female,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2011,Female,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2012,Female,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2013,Female,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2014,Female,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2015,Female,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2016,Female,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2017,Female,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2018,Female,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2019,Female,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2020,Female,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2021,Female,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2022,Female,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2010,,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2011,,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2012,,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2013,,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2014,,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2015,,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2016,,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2017,,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2018,,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2019,,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2020,,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2021,,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,0.0
-2022,,,Debagoiena / Alto Deba,,"Per 100,000 people",Debagoiena / Alto Deba,1.6
+2010,Male,,ES2003,,"Per 100,000 people",ES2003,0.0
+2011,Male,,ES2003,,"Per 100,000 people",ES2003,0.0
+2012,Male,,ES2003,,"Per 100,000 people",ES2003,0.0
+2013,Male,,ES2003,,"Per 100,000 people",ES2003,0.0
+2014,Male,,ES2003,,"Per 100,000 people",ES2003,0.0
+2015,Male,,ES2003,,"Per 100,000 people",ES2003,0.0
+2016,Male,,ES2003,,"Per 100,000 people",ES2003,0.0
+2017,Male,,ES2003,,"Per 100,000 people",ES2003,0.0
+2018,Male,,ES2003,,"Per 100,000 people",ES2003,0.0
+2019,Male,,ES2003,,"Per 100,000 people",ES2003,0.0
+2020,Male,,ES2003,,"Per 100,000 people",ES2003,0.0
+2021,Male,,ES2003,,"Per 100,000 people",ES2003,0.0
+2022,Male,,ES2003,,"Per 100,000 people",ES2003,3.22
+2010,Female,,ES2003,,"Per 100,000 people",ES2003,0.0
+2011,Female,,ES2003,,"Per 100,000 people",ES2003,0.0
+2012,Female,,ES2003,,"Per 100,000 people",ES2003,0.0
+2013,Female,,ES2003,,"Per 100,000 people",ES2003,0.0
+2014,Female,,ES2003,,"Per 100,000 people",ES2003,0.0
+2015,Female,,ES2003,,"Per 100,000 people",ES2003,0.0
+2016,Female,,ES2003,,"Per 100,000 people",ES2003,0.0
+2017,Female,,ES2003,,"Per 100,000 people",ES2003,0.0
+2018,Female,,ES2003,,"Per 100,000 people",ES2003,0.0
+2019,Female,,ES2003,,"Per 100,000 people",ES2003,0.0
+2020,Female,,ES2003,,"Per 100,000 people",ES2003,0.0
+2021,Female,,ES2003,,"Per 100,000 people",ES2003,0.0
+2022,Female,,ES2003,,"Per 100,000 people",ES2003,0.0
+2010,,,ES2003,,"Per 100,000 people",ES2003,0.0
+2011,,,ES2003,,"Per 100,000 people",ES2003,0.0
+2012,,,ES2003,,"Per 100,000 people",ES2003,0.0
+2013,,,ES2003,,"Per 100,000 people",ES2003,0.0
+2014,,,ES2003,,"Per 100,000 people",ES2003,0.0
+2015,,,ES2003,,"Per 100,000 people",ES2003,0.0
+2016,,,ES2003,,"Per 100,000 people",ES2003,0.0
+2017,,,ES2003,,"Per 100,000 people",ES2003,0.0
+2018,,,ES2003,,"Per 100,000 people",ES2003,0.0
+2019,,,ES2003,,"Per 100,000 people",ES2003,0.0
+2020,,,ES2003,,"Per 100,000 people",ES2003,0.0
+2021,,,ES2003,,"Per 100,000 people",ES2003,0.0
+2022,,,ES2003,,"Per 100,000 people",ES2003,1.6
 2010,Male,,,Eibar,"Per 100,000 people",Eibar,0.0
 2011,Male,,,Eibar,"Per 100,000 people",Eibar,0.0
 2012,Male,,,Eibar,"Per 100,000 people",Eibar,0.0
@@ -3938,45 +3938,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Getaria,"Per 100,000 people",Getaria,0.0
 2021,,,,Getaria,"Per 100,000 people",Getaria,0.0
 2022,,,,Getaria,"Per 100,000 people",Getaria,0.0
-2010,Male,,Donostialdea,,"Per 100,000 people",Donostialdea,0.65
-2011,Male,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2012,Male,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2013,Male,,Donostialdea,,"Per 100,000 people",Donostialdea,1.29
-2014,Male,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2015,Male,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2016,Male,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2017,Male,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2018,Male,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2019,Male,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2020,Male,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2021,Male,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2022,Male,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2010,Female,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2011,Female,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2012,Female,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2013,Female,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2014,Female,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2015,Female,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2016,Female,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2017,Female,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2018,Female,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2019,Female,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2020,Female,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2021,Female,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2022,Female,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2010,,,Donostialdea,,"Per 100,000 people",Donostialdea,0.31
-2011,,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2012,,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2013,,,Donostialdea,,"Per 100,000 people",Donostialdea,0.62
-2014,,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2015,,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2016,,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2017,,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2018,,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2019,,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2020,,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2021,,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
-2022,,,Donostialdea,,"Per 100,000 people",Donostialdea,0.0
+2010,Male,,ES2004,,"Per 100,000 people",ES2004,0.65
+2011,Male,,ES2004,,"Per 100,000 people",ES2004,0.0
+2012,Male,,ES2004,,"Per 100,000 people",ES2004,0.0
+2013,Male,,ES2004,,"Per 100,000 people",ES2004,1.29
+2014,Male,,ES2004,,"Per 100,000 people",ES2004,0.0
+2015,Male,,ES2004,,"Per 100,000 people",ES2004,0.0
+2016,Male,,ES2004,,"Per 100,000 people",ES2004,0.0
+2017,Male,,ES2004,,"Per 100,000 people",ES2004,0.0
+2018,Male,,ES2004,,"Per 100,000 people",ES2004,0.0
+2019,Male,,ES2004,,"Per 100,000 people",ES2004,0.0
+2020,Male,,ES2004,,"Per 100,000 people",ES2004,0.0
+2021,Male,,ES2004,,"Per 100,000 people",ES2004,0.0
+2022,Male,,ES2004,,"Per 100,000 people",ES2004,0.0
+2010,Female,,ES2004,,"Per 100,000 people",ES2004,0.0
+2011,Female,,ES2004,,"Per 100,000 people",ES2004,0.0
+2012,Female,,ES2004,,"Per 100,000 people",ES2004,0.0
+2013,Female,,ES2004,,"Per 100,000 people",ES2004,0.0
+2014,Female,,ES2004,,"Per 100,000 people",ES2004,0.0
+2015,Female,,ES2004,,"Per 100,000 people",ES2004,0.0
+2016,Female,,ES2004,,"Per 100,000 people",ES2004,0.0
+2017,Female,,ES2004,,"Per 100,000 people",ES2004,0.0
+2018,Female,,ES2004,,"Per 100,000 people",ES2004,0.0
+2019,Female,,ES2004,,"Per 100,000 people",ES2004,0.0
+2020,Female,,ES2004,,"Per 100,000 people",ES2004,0.0
+2021,Female,,ES2004,,"Per 100,000 people",ES2004,0.0
+2022,Female,,ES2004,,"Per 100,000 people",ES2004,0.0
+2010,,,ES2004,,"Per 100,000 people",ES2004,0.31
+2011,,,ES2004,,"Per 100,000 people",ES2004,0.0
+2012,,,ES2004,,"Per 100,000 people",ES2004,0.0
+2013,,,ES2004,,"Per 100,000 people",ES2004,0.62
+2014,,,ES2004,,"Per 100,000 people",ES2004,0.0
+2015,,,ES2004,,"Per 100,000 people",ES2004,0.0
+2016,,,ES2004,,"Per 100,000 people",ES2004,0.0
+2017,,,ES2004,,"Per 100,000 people",ES2004,0.0
+2018,,,ES2004,,"Per 100,000 people",ES2004,0.0
+2019,,,ES2004,,"Per 100,000 people",ES2004,0.0
+2020,,,ES2004,,"Per 100,000 people",ES2004,0.0
+2021,,,ES2004,,"Per 100,000 people",ES2004,0.0
+2022,,,ES2004,,"Per 100,000 people",ES2004,0.0
 2010,Male,,,Hernani,"Per 100,000 people",Hernani,0.0
 2011,Male,,,Hernani,"Per 100,000 people",Hernani,0.0
 2012,Male,,,Hernani,"Per 100,000 people",Hernani,0.0
@@ -4367,45 +4367,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Lazkao,"Per 100,000 people",Lazkao,0.0
 2021,,,,Lazkao,"Per 100,000 people",Lazkao,0.0
 2022,,,,Lazkao,"Per 100,000 people",Lazkao,0.0
-2010,Male,,Goierri,,"Per 100,000 people",Goierri,0.0
-2011,Male,,Goierri,,"Per 100,000 people",Goierri,0.0
-2012,Male,,Goierri,,"Per 100,000 people",Goierri,0.0
-2013,Male,,Goierri,,"Per 100,000 people",Goierri,0.0
-2014,Male,,Goierri,,"Per 100,000 people",Goierri,0.0
-2015,Male,,Goierri,,"Per 100,000 people",Goierri,0.0
-2016,Male,,Goierri,,"Per 100,000 people",Goierri,0.0
-2017,Male,,Goierri,,"Per 100,000 people",Goierri,0.0
-2018,Male,,Goierri,,"Per 100,000 people",Goierri,0.0
-2019,Male,,Goierri,,"Per 100,000 people",Goierri,0.0
-2020,Male,,Goierri,,"Per 100,000 people",Goierri,0.0
-2021,Male,,Goierri,,"Per 100,000 people",Goierri,0.0
-2022,Male,,Goierri,,"Per 100,000 people",Goierri,0.0
-2010,Female,,Goierri,,"Per 100,000 people",Goierri,0.0
-2011,Female,,Goierri,,"Per 100,000 people",Goierri,0.0
-2012,Female,,Goierri,,"Per 100,000 people",Goierri,0.0
-2013,Female,,Goierri,,"Per 100,000 people",Goierri,0.0
-2014,Female,,Goierri,,"Per 100,000 people",Goierri,0.0
-2015,Female,,Goierri,,"Per 100,000 people",Goierri,0.0
-2016,Female,,Goierri,,"Per 100,000 people",Goierri,0.0
-2017,Female,,Goierri,,"Per 100,000 people",Goierri,0.0
-2018,Female,,Goierri,,"Per 100,000 people",Goierri,0.0
-2019,Female,,Goierri,,"Per 100,000 people",Goierri,0.0
-2020,Female,,Goierri,,"Per 100,000 people",Goierri,0.0
-2021,Female,,Goierri,,"Per 100,000 people",Goierri,0.0
-2022,Female,,Goierri,,"Per 100,000 people",Goierri,0.0
-2010,,,Goierri,,"Per 100,000 people",Goierri,0.0
-2011,,,Goierri,,"Per 100,000 people",Goierri,0.0
-2012,,,Goierri,,"Per 100,000 people",Goierri,0.0
-2013,,,Goierri,,"Per 100,000 people",Goierri,0.0
-2014,,,Goierri,,"Per 100,000 people",Goierri,0.0
-2015,,,Goierri,,"Per 100,000 people",Goierri,0.0
-2016,,,Goierri,,"Per 100,000 people",Goierri,0.0
-2017,,,Goierri,,"Per 100,000 people",Goierri,0.0
-2018,,,Goierri,,"Per 100,000 people",Goierri,0.0
-2019,,,Goierri,,"Per 100,000 people",Goierri,0.0
-2020,,,Goierri,,"Per 100,000 people",Goierri,0.0
-2021,,,Goierri,,"Per 100,000 people",Goierri,0.0
-2022,,,Goierri,,"Per 100,000 people",Goierri,0.0
+2010,Male,,ES2005,,"Per 100,000 people",ES2005,0.0
+2011,Male,,ES2005,,"Per 100,000 people",ES2005,0.0
+2012,Male,,ES2005,,"Per 100,000 people",ES2005,0.0
+2013,Male,,ES2005,,"Per 100,000 people",ES2005,0.0
+2014,Male,,ES2005,,"Per 100,000 people",ES2005,0.0
+2015,Male,,ES2005,,"Per 100,000 people",ES2005,0.0
+2016,Male,,ES2005,,"Per 100,000 people",ES2005,0.0
+2017,Male,,ES2005,,"Per 100,000 people",ES2005,0.0
+2018,Male,,ES2005,,"Per 100,000 people",ES2005,0.0
+2019,Male,,ES2005,,"Per 100,000 people",ES2005,0.0
+2020,Male,,ES2005,,"Per 100,000 people",ES2005,0.0
+2021,Male,,ES2005,,"Per 100,000 people",ES2005,0.0
+2022,Male,,ES2005,,"Per 100,000 people",ES2005,0.0
+2010,Female,,ES2005,,"Per 100,000 people",ES2005,0.0
+2011,Female,,ES2005,,"Per 100,000 people",ES2005,0.0
+2012,Female,,ES2005,,"Per 100,000 people",ES2005,0.0
+2013,Female,,ES2005,,"Per 100,000 people",ES2005,0.0
+2014,Female,,ES2005,,"Per 100,000 people",ES2005,0.0
+2015,Female,,ES2005,,"Per 100,000 people",ES2005,0.0
+2016,Female,,ES2005,,"Per 100,000 people",ES2005,0.0
+2017,Female,,ES2005,,"Per 100,000 people",ES2005,0.0
+2018,Female,,ES2005,,"Per 100,000 people",ES2005,0.0
+2019,Female,,ES2005,,"Per 100,000 people",ES2005,0.0
+2020,Female,,ES2005,,"Per 100,000 people",ES2005,0.0
+2021,Female,,ES2005,,"Per 100,000 people",ES2005,0.0
+2022,Female,,ES2005,,"Per 100,000 people",ES2005,0.0
+2010,,,ES2005,,"Per 100,000 people",ES2005,0.0
+2011,,,ES2005,,"Per 100,000 people",ES2005,0.0
+2012,,,ES2005,,"Per 100,000 people",ES2005,0.0
+2013,,,ES2005,,"Per 100,000 people",ES2005,0.0
+2014,,,ES2005,,"Per 100,000 people",ES2005,0.0
+2015,,,ES2005,,"Per 100,000 people",ES2005,0.0
+2016,,,ES2005,,"Per 100,000 people",ES2005,0.0
+2017,,,ES2005,,"Per 100,000 people",ES2005,0.0
+2018,,,ES2005,,"Per 100,000 people",ES2005,0.0
+2019,,,ES2005,,"Per 100,000 people",ES2005,0.0
+2020,,,ES2005,,"Per 100,000 people",ES2005,0.0
+2021,,,ES2005,,"Per 100,000 people",ES2005,0.0
+2022,,,ES2005,,"Per 100,000 people",ES2005,0.0
 2010,Male,,,Leaburu,"Per 100,000 people",Leaburu,0.0
 2011,Male,,,Leaburu,"Per 100,000 people",Leaburu,0.0
 2012,Male,,,Leaburu,"Per 100,000 people",Leaburu,0.0
@@ -4796,45 +4796,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Oñati,"Per 100,000 people",Oñati,0.0
 2021,,,,Oñati,"Per 100,000 people",Oñati,0.0
 2022,,,,Oñati,"Per 100,000 people",Oñati,0.0
-2010,Male,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2011,Male,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2012,Male,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2013,Male,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2014,Male,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2015,Male,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2016,Male,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2017,Male,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2018,Male,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2019,Male,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2020,Male,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2021,Male,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2022,Male,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2010,Female,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2011,Female,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2012,Female,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2013,Female,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2014,Female,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2015,Female,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2016,Female,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2017,Female,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2018,Female,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2019,Female,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2020,Female,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2021,Female,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2022,Female,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2010,,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2011,,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2012,,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2013,,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2014,,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2015,,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2016,,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2017,,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2018,,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2019,,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2020,,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2021,,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
-2022,,,Tolosaldea,,"Per 100,000 people",Tolosaldea,0.0
+2010,Male,,ES2006,,"Per 100,000 people",ES2006,0.0
+2011,Male,,ES2006,,"Per 100,000 people",ES2006,0.0
+2012,Male,,ES2006,,"Per 100,000 people",ES2006,0.0
+2013,Male,,ES2006,,"Per 100,000 people",ES2006,0.0
+2014,Male,,ES2006,,"Per 100,000 people",ES2006,0.0
+2015,Male,,ES2006,,"Per 100,000 people",ES2006,0.0
+2016,Male,,ES2006,,"Per 100,000 people",ES2006,0.0
+2017,Male,,ES2006,,"Per 100,000 people",ES2006,0.0
+2018,Male,,ES2006,,"Per 100,000 people",ES2006,0.0
+2019,Male,,ES2006,,"Per 100,000 people",ES2006,0.0
+2020,Male,,ES2006,,"Per 100,000 people",ES2006,0.0
+2021,Male,,ES2006,,"Per 100,000 people",ES2006,0.0
+2022,Male,,ES2006,,"Per 100,000 people",ES2006,0.0
+2010,Female,,ES2006,,"Per 100,000 people",ES2006,0.0
+2011,Female,,ES2006,,"Per 100,000 people",ES2006,0.0
+2012,Female,,ES2006,,"Per 100,000 people",ES2006,0.0
+2013,Female,,ES2006,,"Per 100,000 people",ES2006,0.0
+2014,Female,,ES2006,,"Per 100,000 people",ES2006,0.0
+2015,Female,,ES2006,,"Per 100,000 people",ES2006,0.0
+2016,Female,,ES2006,,"Per 100,000 people",ES2006,0.0
+2017,Female,,ES2006,,"Per 100,000 people",ES2006,0.0
+2018,Female,,ES2006,,"Per 100,000 people",ES2006,0.0
+2019,Female,,ES2006,,"Per 100,000 people",ES2006,0.0
+2020,Female,,ES2006,,"Per 100,000 people",ES2006,0.0
+2021,Female,,ES2006,,"Per 100,000 people",ES2006,0.0
+2022,Female,,ES2006,,"Per 100,000 people",ES2006,0.0
+2010,,,ES2006,,"Per 100,000 people",ES2006,0.0
+2011,,,ES2006,,"Per 100,000 people",ES2006,0.0
+2012,,,ES2006,,"Per 100,000 people",ES2006,0.0
+2013,,,ES2006,,"Per 100,000 people",ES2006,0.0
+2014,,,ES2006,,"Per 100,000 people",ES2006,0.0
+2015,,,ES2006,,"Per 100,000 people",ES2006,0.0
+2016,,,ES2006,,"Per 100,000 people",ES2006,0.0
+2017,,,ES2006,,"Per 100,000 people",ES2006,0.0
+2018,,,ES2006,,"Per 100,000 people",ES2006,0.0
+2019,,,ES2006,,"Per 100,000 people",ES2006,0.0
+2020,,,ES2006,,"Per 100,000 people",ES2006,0.0
+2021,,,ES2006,,"Per 100,000 people",ES2006,0.0
+2022,,,ES2006,,"Per 100,000 people",ES2006,0.0
 2010,Male,,,Orexa,"Per 100,000 people",Orexa,0.0
 2011,Male,,,Orexa,"Per 100,000 people",Orexa,0.0
 2012,Male,,,Orexa,"Per 100,000 people",Orexa,0.0
@@ -5225,45 +5225,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Donostia / San Sebastián,"Per 100,000 people",Donostia / San Sebastián,0.0
 2021,,,,Donostia / San Sebastián,"Per 100,000 people",Donostia / San Sebastián,0.0
 2022,,,,Donostia / San Sebastián,"Per 100,000 people",Donostia / San Sebastián,0.0
-2010,Male,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2011,Male,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2012,Male,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2013,Male,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2014,Male,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2015,Male,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2016,Male,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2017,Male,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2018,Male,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2019,Male,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2020,Male,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2021,Male,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2022,Male,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2010,Female,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2011,Female,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2012,Female,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2013,Female,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2014,Female,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2015,Female,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2016,Female,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2017,Female,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2018,Female,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2019,Female,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2020,Female,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2021,Female,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2022,Female,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2010,,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2011,,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2012,,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2013,,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2014,,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2015,,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2016,,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2017,,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2018,,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2019,,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2020,,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2021,,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
-2022,,,Urola Kosta,,"Per 100,000 people",Urola Kosta,0.0
+2010,Male,,ES2007,,"Per 100,000 people",ES2007,0.0
+2011,Male,,ES2007,,"Per 100,000 people",ES2007,0.0
+2012,Male,,ES2007,,"Per 100,000 people",ES2007,0.0
+2013,Male,,ES2007,,"Per 100,000 people",ES2007,0.0
+2014,Male,,ES2007,,"Per 100,000 people",ES2007,0.0
+2015,Male,,ES2007,,"Per 100,000 people",ES2007,0.0
+2016,Male,,ES2007,,"Per 100,000 people",ES2007,0.0
+2017,Male,,ES2007,,"Per 100,000 people",ES2007,0.0
+2018,Male,,ES2007,,"Per 100,000 people",ES2007,0.0
+2019,Male,,ES2007,,"Per 100,000 people",ES2007,0.0
+2020,Male,,ES2007,,"Per 100,000 people",ES2007,0.0
+2021,Male,,ES2007,,"Per 100,000 people",ES2007,0.0
+2022,Male,,ES2007,,"Per 100,000 people",ES2007,0.0
+2010,Female,,ES2007,,"Per 100,000 people",ES2007,0.0
+2011,Female,,ES2007,,"Per 100,000 people",ES2007,0.0
+2012,Female,,ES2007,,"Per 100,000 people",ES2007,0.0
+2013,Female,,ES2007,,"Per 100,000 people",ES2007,0.0
+2014,Female,,ES2007,,"Per 100,000 people",ES2007,0.0
+2015,Female,,ES2007,,"Per 100,000 people",ES2007,0.0
+2016,Female,,ES2007,,"Per 100,000 people",ES2007,0.0
+2017,Female,,ES2007,,"Per 100,000 people",ES2007,0.0
+2018,Female,,ES2007,,"Per 100,000 people",ES2007,0.0
+2019,Female,,ES2007,,"Per 100,000 people",ES2007,0.0
+2020,Female,,ES2007,,"Per 100,000 people",ES2007,0.0
+2021,Female,,ES2007,,"Per 100,000 people",ES2007,0.0
+2022,Female,,ES2007,,"Per 100,000 people",ES2007,0.0
+2010,,,ES2007,,"Per 100,000 people",ES2007,0.0
+2011,,,ES2007,,"Per 100,000 people",ES2007,0.0
+2012,,,ES2007,,"Per 100,000 people",ES2007,0.0
+2013,,,ES2007,,"Per 100,000 people",ES2007,0.0
+2014,,,ES2007,,"Per 100,000 people",ES2007,0.0
+2015,,,ES2007,,"Per 100,000 people",ES2007,0.0
+2016,,,ES2007,,"Per 100,000 people",ES2007,0.0
+2017,,,ES2007,,"Per 100,000 people",ES2007,0.0
+2018,,,ES2007,,"Per 100,000 people",ES2007,0.0
+2019,,,ES2007,,"Per 100,000 people",ES2007,0.0
+2020,,,ES2007,,"Per 100,000 people",ES2007,0.0
+2021,,,ES2007,,"Per 100,000 people",ES2007,0.0
+2022,,,ES2007,,"Per 100,000 people",ES2007,0.0
 2010,Male,,,Segura,"Per 100,000 people",Segura,0.0
 2011,Male,,,Segura,"Per 100,000 people",Segura,0.0
 2012,Male,,,Segura,"Per 100,000 people",Segura,0.0
@@ -6395,45 +6395,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Arrankudiaga-Zollo,"Per 100,000 people",Arrankudiaga-Zollo,0.0
 2021,,,,Arrankudiaga-Zollo,"Per 100,000 people",Arrankudiaga-Zollo,0.0
 2022,,,,Arrankudiaga-Zollo,"Per 100,000 people",Arrankudiaga-Zollo,0.0
-2010,Male,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2011,Male,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2012,Male,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2013,Male,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2014,Male,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2015,Male,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2016,Male,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2017,Male,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2018,Male,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2019,Male,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2020,Male,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2021,Male,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2022,Male,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2010,Female,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2011,Female,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2012,Female,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2013,Female,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2014,Female,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2015,Female,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2016,Female,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2017,Female,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2018,Female,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2019,Female,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2020,Female,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2021,Female,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2022,Female,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2010,,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2011,,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2012,,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2013,,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2014,,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2015,,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2016,,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2017,,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2018,,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2019,,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2020,,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2021,,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
-2022,,,Arratia Nerbioi / Arratia-Nervión,,"Per 100,000 people",Arratia Nerbioi / Arratia-Nervión,0.0
+2010,Male,,ES4801,,"Per 100,000 people",ES4801,0.0
+2011,Male,,ES4801,,"Per 100,000 people",ES4801,0.0
+2012,Male,,ES4801,,"Per 100,000 people",ES4801,0.0
+2013,Male,,ES4801,,"Per 100,000 people",ES4801,0.0
+2014,Male,,ES4801,,"Per 100,000 people",ES4801,0.0
+2015,Male,,ES4801,,"Per 100,000 people",ES4801,0.0
+2016,Male,,ES4801,,"Per 100,000 people",ES4801,0.0
+2017,Male,,ES4801,,"Per 100,000 people",ES4801,0.0
+2018,Male,,ES4801,,"Per 100,000 people",ES4801,0.0
+2019,Male,,ES4801,,"Per 100,000 people",ES4801,0.0
+2020,Male,,ES4801,,"Per 100,000 people",ES4801,0.0
+2021,Male,,ES4801,,"Per 100,000 people",ES4801,0.0
+2022,Male,,ES4801,,"Per 100,000 people",ES4801,0.0
+2010,Female,,ES4801,,"Per 100,000 people",ES4801,0.0
+2011,Female,,ES4801,,"Per 100,000 people",ES4801,0.0
+2012,Female,,ES4801,,"Per 100,000 people",ES4801,0.0
+2013,Female,,ES4801,,"Per 100,000 people",ES4801,0.0
+2014,Female,,ES4801,,"Per 100,000 people",ES4801,0.0
+2015,Female,,ES4801,,"Per 100,000 people",ES4801,0.0
+2016,Female,,ES4801,,"Per 100,000 people",ES4801,0.0
+2017,Female,,ES4801,,"Per 100,000 people",ES4801,0.0
+2018,Female,,ES4801,,"Per 100,000 people",ES4801,0.0
+2019,Female,,ES4801,,"Per 100,000 people",ES4801,0.0
+2020,Female,,ES4801,,"Per 100,000 people",ES4801,0.0
+2021,Female,,ES4801,,"Per 100,000 people",ES4801,0.0
+2022,Female,,ES4801,,"Per 100,000 people",ES4801,0.0
+2010,,,ES4801,,"Per 100,000 people",ES4801,0.0
+2011,,,ES4801,,"Per 100,000 people",ES4801,0.0
+2012,,,ES4801,,"Per 100,000 people",ES4801,0.0
+2013,,,ES4801,,"Per 100,000 people",ES4801,0.0
+2014,,,ES4801,,"Per 100,000 people",ES4801,0.0
+2015,,,ES4801,,"Per 100,000 people",ES4801,0.0
+2016,,,ES4801,,"Per 100,000 people",ES4801,0.0
+2017,,,ES4801,,"Per 100,000 people",ES4801,0.0
+2018,,,ES4801,,"Per 100,000 people",ES4801,0.0
+2019,,,ES4801,,"Per 100,000 people",ES4801,0.0
+2020,,,ES4801,,"Per 100,000 people",ES4801,0.0
+2021,,,ES4801,,"Per 100,000 people",ES4801,0.0
+2022,,,ES4801,,"Per 100,000 people",ES4801,0.0
 2010,Male,,,Arrieta,"Per 100,000 people",Arrieta,0.0
 2011,Male,,,Arrieta,"Per 100,000 people",Arrieta,0.0
 2012,Male,,,Arrieta,"Per 100,000 people",Arrieta,0.0
@@ -6824,45 +6824,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Berriz,"Per 100,000 people",Berriz,0.0
 2021,,,,Berriz,"Per 100,000 people",Berriz,0.0
 2022,,,,Berriz,"Per 100,000 people",Berriz,0.0
-2010,Male,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2011,Male,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2012,Male,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2013,Male,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2014,Male,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2015,Male,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2016,Male,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2017,Male,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2018,Male,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2019,Male,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2020,Male,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2021,Male,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2022,Male,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.25
-2010,Female,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.22
-2011,Female,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.44
-2012,Female,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2013,Female,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2014,Female,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2015,Female,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2016,Female,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2017,Female,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2018,Female,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.22
-2019,Female,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.22
-2020,Female,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2021,Female,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2022,Female,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2010,,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.11
-2011,,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.34
-2012,,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2013,,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.12
-2014,,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2015,,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2016,,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.23
-2017,,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.23
-2018,,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.23
-2019,,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.12
-2020,,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2021,,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.0
-2022,,,Bilbo Handia / Gran Bilbao,,"Per 100,000 people",Bilbo Handia / Gran Bilbao,0.12
+2010,Male,,ES4802,,"Per 100,000 people",ES4802,0.0
+2011,Male,,ES4802,,"Per 100,000 people",ES4802,0.0
+2012,Male,,ES4802,,"Per 100,000 people",ES4802,0.0
+2013,Male,,ES4802,,"Per 100,000 people",ES4802,0.0
+2014,Male,,ES4802,,"Per 100,000 people",ES4802,0.0
+2015,Male,,ES4802,,"Per 100,000 people",ES4802,0.0
+2016,Male,,ES4802,,"Per 100,000 people",ES4802,0.0
+2017,Male,,ES4802,,"Per 100,000 people",ES4802,0.0
+2018,Male,,ES4802,,"Per 100,000 people",ES4802,0.0
+2019,Male,,ES4802,,"Per 100,000 people",ES4802,0.0
+2020,Male,,ES4802,,"Per 100,000 people",ES4802,0.0
+2021,Male,,ES4802,,"Per 100,000 people",ES4802,0.0
+2022,Male,,ES4802,,"Per 100,000 people",ES4802,0.25
+2010,Female,,ES4802,,"Per 100,000 people",ES4802,0.22
+2011,Female,,ES4802,,"Per 100,000 people",ES4802,0.44
+2012,Female,,ES4802,,"Per 100,000 people",ES4802,0.0
+2013,Female,,ES4802,,"Per 100,000 people",ES4802,0.0
+2014,Female,,ES4802,,"Per 100,000 people",ES4802,0.0
+2015,Female,,ES4802,,"Per 100,000 people",ES4802,0.0
+2016,Female,,ES4802,,"Per 100,000 people",ES4802,0.0
+2017,Female,,ES4802,,"Per 100,000 people",ES4802,0.0
+2018,Female,,ES4802,,"Per 100,000 people",ES4802,0.22
+2019,Female,,ES4802,,"Per 100,000 people",ES4802,0.22
+2020,Female,,ES4802,,"Per 100,000 people",ES4802,0.0
+2021,Female,,ES4802,,"Per 100,000 people",ES4802,0.0
+2022,Female,,ES4802,,"Per 100,000 people",ES4802,0.0
+2010,,,ES4802,,"Per 100,000 people",ES4802,0.11
+2011,,,ES4802,,"Per 100,000 people",ES4802,0.34
+2012,,,ES4802,,"Per 100,000 people",ES4802,0.0
+2013,,,ES4802,,"Per 100,000 people",ES4802,0.12
+2014,,,ES4802,,"Per 100,000 people",ES4802,0.0
+2015,,,ES4802,,"Per 100,000 people",ES4802,0.0
+2016,,,ES4802,,"Per 100,000 people",ES4802,0.23
+2017,,,ES4802,,"Per 100,000 people",ES4802,0.23
+2018,,,ES4802,,"Per 100,000 people",ES4802,0.23
+2019,,,ES4802,,"Per 100,000 people",ES4802,0.12
+2020,,,ES4802,,"Per 100,000 people",ES4802,0.0
+2021,,,ES4802,,"Per 100,000 people",ES4802,0.0
+2022,,,ES4802,,"Per 100,000 people",ES4802,0.12
 2010,Male,,,Bilbao,"Per 100,000 people",Bilbao,0.0
 2011,Male,,,Bilbao,"Per 100,000 people",Bilbao,0.0
 2012,Male,,,Bilbao,"Per 100,000 people",Bilbao,0.0
@@ -7253,45 +7253,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Etxebarri,"Per 100,000 people",Etxebarri,0.0
 2021,,,,Etxebarri,"Per 100,000 people",Etxebarri,0.0
 2022,,,,Etxebarri,"Per 100,000 people",Etxebarri,0.0
-2010,Male,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2011,Male,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2012,Male,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2013,Male,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2014,Male,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2015,Male,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2016,Male,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2017,Male,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2018,Male,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2019,Male,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2020,Male,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2021,Male,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2022,Male,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2010,Female,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2011,Female,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2012,Female,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2013,Female,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2014,Female,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2015,Female,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2016,Female,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2017,Female,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,2.0
-2018,Female,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2019,Female,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2020,Female,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2021,Female,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2022,Female,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,1.98
-2010,,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,1.03
-2011,,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2012,,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2013,,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2014,,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2015,,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,1.02
-2016,,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2017,,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,1.01
-2018,,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,1.01
-2019,,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2020,,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2021,,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,0.0
-2022,,,Durangaldea / Duranguesado,,"Per 100,000 people",Durangaldea / Duranguesado,1.01
+2010,Male,,ES4803,,"Per 100,000 people",ES4803,0.0
+2011,Male,,ES4803,,"Per 100,000 people",ES4803,0.0
+2012,Male,,ES4803,,"Per 100,000 people",ES4803,0.0
+2013,Male,,ES4803,,"Per 100,000 people",ES4803,0.0
+2014,Male,,ES4803,,"Per 100,000 people",ES4803,0.0
+2015,Male,,ES4803,,"Per 100,000 people",ES4803,0.0
+2016,Male,,ES4803,,"Per 100,000 people",ES4803,0.0
+2017,Male,,ES4803,,"Per 100,000 people",ES4803,0.0
+2018,Male,,ES4803,,"Per 100,000 people",ES4803,0.0
+2019,Male,,ES4803,,"Per 100,000 people",ES4803,0.0
+2020,Male,,ES4803,,"Per 100,000 people",ES4803,0.0
+2021,Male,,ES4803,,"Per 100,000 people",ES4803,0.0
+2022,Male,,ES4803,,"Per 100,000 people",ES4803,0.0
+2010,Female,,ES4803,,"Per 100,000 people",ES4803,0.0
+2011,Female,,ES4803,,"Per 100,000 people",ES4803,0.0
+2012,Female,,ES4803,,"Per 100,000 people",ES4803,0.0
+2013,Female,,ES4803,,"Per 100,000 people",ES4803,0.0
+2014,Female,,ES4803,,"Per 100,000 people",ES4803,0.0
+2015,Female,,ES4803,,"Per 100,000 people",ES4803,0.0
+2016,Female,,ES4803,,"Per 100,000 people",ES4803,0.0
+2017,Female,,ES4803,,"Per 100,000 people",ES4803,2.0
+2018,Female,,ES4803,,"Per 100,000 people",ES4803,0.0
+2019,Female,,ES4803,,"Per 100,000 people",ES4803,0.0
+2020,Female,,ES4803,,"Per 100,000 people",ES4803,0.0
+2021,Female,,ES4803,,"Per 100,000 people",ES4803,0.0
+2022,Female,,ES4803,,"Per 100,000 people",ES4803,1.98
+2010,,,ES4803,,"Per 100,000 people",ES4803,1.03
+2011,,,ES4803,,"Per 100,000 people",ES4803,0.0
+2012,,,ES4803,,"Per 100,000 people",ES4803,0.0
+2013,,,ES4803,,"Per 100,000 people",ES4803,0.0
+2014,,,ES4803,,"Per 100,000 people",ES4803,0.0
+2015,,,ES4803,,"Per 100,000 people",ES4803,1.02
+2016,,,ES4803,,"Per 100,000 people",ES4803,0.0
+2017,,,ES4803,,"Per 100,000 people",ES4803,1.01
+2018,,,ES4803,,"Per 100,000 people",ES4803,1.01
+2019,,,ES4803,,"Per 100,000 people",ES4803,0.0
+2020,,,ES4803,,"Per 100,000 people",ES4803,0.0
+2021,,,ES4803,,"Per 100,000 people",ES4803,0.0
+2022,,,ES4803,,"Per 100,000 people",ES4803,1.01
 2010,Male,,,Etxebarria,"Per 100,000 people",Etxebarria,0.0
 2011,Male,,,Etxebarria,"Per 100,000 people",Etxebarria,0.0
 2012,Male,,,Etxebarria,"Per 100,000 people",Etxebarria,0.0
@@ -7682,45 +7682,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Garai,"Per 100,000 people",Garai,0.0
 2021,,,,Garai,"Per 100,000 people",Garai,0.0
 2022,,,,Garai,"Per 100,000 people",Garai,0.0
-2010,Male,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2011,Male,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2012,Male,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2013,Male,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2014,Male,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2015,Male,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2016,Male,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2017,Male,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2018,Male,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2019,Male,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2020,Male,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2021,Male,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2022,Male,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2010,Female,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2011,Female,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2012,Female,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2013,Female,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2014,Female,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2015,Female,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2016,Female,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2017,Female,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2018,Female,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2019,Female,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2020,Female,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2021,Female,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2022,Female,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2010,,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2011,,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2012,,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2013,,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2014,,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2015,,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2016,,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2017,,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2018,,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2019,,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2020,,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2021,,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
-2022,,,Enkartazioak / Encartaciones,,"Per 100,000 people",Enkartazioak / Encartaciones,0.0
+2010,Male,,ES4804,,"Per 100,000 people",ES4804,0.0
+2011,Male,,ES4804,,"Per 100,000 people",ES4804,0.0
+2012,Male,,ES4804,,"Per 100,000 people",ES4804,0.0
+2013,Male,,ES4804,,"Per 100,000 people",ES4804,0.0
+2014,Male,,ES4804,,"Per 100,000 people",ES4804,0.0
+2015,Male,,ES4804,,"Per 100,000 people",ES4804,0.0
+2016,Male,,ES4804,,"Per 100,000 people",ES4804,0.0
+2017,Male,,ES4804,,"Per 100,000 people",ES4804,0.0
+2018,Male,,ES4804,,"Per 100,000 people",ES4804,0.0
+2019,Male,,ES4804,,"Per 100,000 people",ES4804,0.0
+2020,Male,,ES4804,,"Per 100,000 people",ES4804,0.0
+2021,Male,,ES4804,,"Per 100,000 people",ES4804,0.0
+2022,Male,,ES4804,,"Per 100,000 people",ES4804,0.0
+2010,Female,,ES4804,,"Per 100,000 people",ES4804,0.0
+2011,Female,,ES4804,,"Per 100,000 people",ES4804,0.0
+2012,Female,,ES4804,,"Per 100,000 people",ES4804,0.0
+2013,Female,,ES4804,,"Per 100,000 people",ES4804,0.0
+2014,Female,,ES4804,,"Per 100,000 people",ES4804,0.0
+2015,Female,,ES4804,,"Per 100,000 people",ES4804,0.0
+2016,Female,,ES4804,,"Per 100,000 people",ES4804,0.0
+2017,Female,,ES4804,,"Per 100,000 people",ES4804,0.0
+2018,Female,,ES4804,,"Per 100,000 people",ES4804,0.0
+2019,Female,,ES4804,,"Per 100,000 people",ES4804,0.0
+2020,Female,,ES4804,,"Per 100,000 people",ES4804,0.0
+2021,Female,,ES4804,,"Per 100,000 people",ES4804,0.0
+2022,Female,,ES4804,,"Per 100,000 people",ES4804,0.0
+2010,,,ES4804,,"Per 100,000 people",ES4804,0.0
+2011,,,ES4804,,"Per 100,000 people",ES4804,0.0
+2012,,,ES4804,,"Per 100,000 people",ES4804,0.0
+2013,,,ES4804,,"Per 100,000 people",ES4804,0.0
+2014,,,ES4804,,"Per 100,000 people",ES4804,0.0
+2015,,,ES4804,,"Per 100,000 people",ES4804,0.0
+2016,,,ES4804,,"Per 100,000 people",ES4804,0.0
+2017,,,ES4804,,"Per 100,000 people",ES4804,0.0
+2018,,,ES4804,,"Per 100,000 people",ES4804,0.0
+2019,,,ES4804,,"Per 100,000 people",ES4804,0.0
+2020,,,ES4804,,"Per 100,000 people",ES4804,0.0
+2021,,,ES4804,,"Per 100,000 people",ES4804,0.0
+2022,,,ES4804,,"Per 100,000 people",ES4804,0.0
 2010,Male,,,Gatika,"Per 100,000 people",Gatika,0.0
 2011,Male,,,Gatika,"Per 100,000 people",Gatika,0.0
 2012,Male,,,Gatika,"Per 100,000 people",Gatika,0.0
@@ -8111,45 +8111,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Ispaster,"Per 100,000 people",Ispaster,0.0
 2021,,,,Ispaster,"Per 100,000 people",Ispaster,0.0
 2022,,,,Ispaster,"Per 100,000 people",Ispaster,0.0
-2010,Male,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2011,Male,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2012,Male,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2013,Male,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2014,Male,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2015,Male,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2016,Male,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2017,Male,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2018,Male,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2019,Male,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2020,Male,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2021,Male,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2022,Male,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2010,Female,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2011,Female,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2012,Female,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2013,Female,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2014,Female,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2015,Female,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2016,Female,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2017,Female,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2018,Female,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2019,Female,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2020,Female,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2021,Female,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2022,Female,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2010,,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2011,,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2012,,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2013,,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2014,,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2015,,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2016,,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2017,,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2018,,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2019,,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2020,,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2021,,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
-2022,,,Gernika-Bermeo,,"Per 100,000 people",Gernika-Bermeo,0.0
+2010,Male,,ES4805,,"Per 100,000 people",ES4805,0.0
+2011,Male,,ES4805,,"Per 100,000 people",ES4805,0.0
+2012,Male,,ES4805,,"Per 100,000 people",ES4805,0.0
+2013,Male,,ES4805,,"Per 100,000 people",ES4805,0.0
+2014,Male,,ES4805,,"Per 100,000 people",ES4805,0.0
+2015,Male,,ES4805,,"Per 100,000 people",ES4805,0.0
+2016,Male,,ES4805,,"Per 100,000 people",ES4805,0.0
+2017,Male,,ES4805,,"Per 100,000 people",ES4805,0.0
+2018,Male,,ES4805,,"Per 100,000 people",ES4805,0.0
+2019,Male,,ES4805,,"Per 100,000 people",ES4805,0.0
+2020,Male,,ES4805,,"Per 100,000 people",ES4805,0.0
+2021,Male,,ES4805,,"Per 100,000 people",ES4805,0.0
+2022,Male,,ES4805,,"Per 100,000 people",ES4805,0.0
+2010,Female,,ES4805,,"Per 100,000 people",ES4805,0.0
+2011,Female,,ES4805,,"Per 100,000 people",ES4805,0.0
+2012,Female,,ES4805,,"Per 100,000 people",ES4805,0.0
+2013,Female,,ES4805,,"Per 100,000 people",ES4805,0.0
+2014,Female,,ES4805,,"Per 100,000 people",ES4805,0.0
+2015,Female,,ES4805,,"Per 100,000 people",ES4805,0.0
+2016,Female,,ES4805,,"Per 100,000 people",ES4805,0.0
+2017,Female,,ES4805,,"Per 100,000 people",ES4805,0.0
+2018,Female,,ES4805,,"Per 100,000 people",ES4805,0.0
+2019,Female,,ES4805,,"Per 100,000 people",ES4805,0.0
+2020,Female,,ES4805,,"Per 100,000 people",ES4805,0.0
+2021,Female,,ES4805,,"Per 100,000 people",ES4805,0.0
+2022,Female,,ES4805,,"Per 100,000 people",ES4805,0.0
+2010,,,ES4805,,"Per 100,000 people",ES4805,0.0
+2011,,,ES4805,,"Per 100,000 people",ES4805,0.0
+2012,,,ES4805,,"Per 100,000 people",ES4805,0.0
+2013,,,ES4805,,"Per 100,000 people",ES4805,0.0
+2014,,,ES4805,,"Per 100,000 people",ES4805,0.0
+2015,,,ES4805,,"Per 100,000 people",ES4805,0.0
+2016,,,ES4805,,"Per 100,000 people",ES4805,0.0
+2017,,,ES4805,,"Per 100,000 people",ES4805,0.0
+2018,,,ES4805,,"Per 100,000 people",ES4805,0.0
+2019,,,ES4805,,"Per 100,000 people",ES4805,0.0
+2020,,,ES4805,,"Per 100,000 people",ES4805,0.0
+2021,,,ES4805,,"Per 100,000 people",ES4805,0.0
+2022,,,ES4805,,"Per 100,000 people",ES4805,0.0
 2010,Male,,,Izurtza,"Per 100,000 people",Izurtza,0.0
 2011,Male,,,Izurtza,"Per 100,000 people",Izurtza,0.0
 2012,Male,,,Izurtza,"Per 100,000 people",Izurtza,0.0
@@ -8540,45 +8540,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Mañaria,"Per 100,000 people",Mañaria,0.0
 2021,,,,Mañaria,"Per 100,000 people",Mañaria,0.0
 2022,,,,Mañaria,"Per 100,000 people",Mañaria,0.0
-2010,Male,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2011,Male,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2012,Male,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2013,Male,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2014,Male,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,7.54
-2015,Male,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2016,Male,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2017,Male,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2018,Male,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2019,Male,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,7.53
-2020,Male,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2021,Male,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2022,Male,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2010,Female,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2011,Female,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2012,Female,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2013,Female,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2014,Female,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2015,Female,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2016,Female,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2017,Female,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2018,Female,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2019,Female,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2020,Female,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2021,Female,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2022,Female,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2010,,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,3.79
-2011,,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2012,,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2013,,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2014,,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2015,,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2016,,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2017,,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2018,,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2019,,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2020,,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,3.83
-2021,,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,0.0
-2022,,,Markina-Ondarroa,,"Per 100,000 people",Markina-Ondarroa,3.89
+2010,Male,,ES4806,,"Per 100,000 people",ES4806,0.0
+2011,Male,,ES4806,,"Per 100,000 people",ES4806,0.0
+2012,Male,,ES4806,,"Per 100,000 people",ES4806,0.0
+2013,Male,,ES4806,,"Per 100,000 people",ES4806,0.0
+2014,Male,,ES4806,,"Per 100,000 people",ES4806,7.54
+2015,Male,,ES4806,,"Per 100,000 people",ES4806,0.0
+2016,Male,,ES4806,,"Per 100,000 people",ES4806,0.0
+2017,Male,,ES4806,,"Per 100,000 people",ES4806,0.0
+2018,Male,,ES4806,,"Per 100,000 people",ES4806,0.0
+2019,Male,,ES4806,,"Per 100,000 people",ES4806,7.53
+2020,Male,,ES4806,,"Per 100,000 people",ES4806,0.0
+2021,Male,,ES4806,,"Per 100,000 people",ES4806,0.0
+2022,Male,,ES4806,,"Per 100,000 people",ES4806,0.0
+2010,Female,,ES4806,,"Per 100,000 people",ES4806,0.0
+2011,Female,,ES4806,,"Per 100,000 people",ES4806,0.0
+2012,Female,,ES4806,,"Per 100,000 people",ES4806,0.0
+2013,Female,,ES4806,,"Per 100,000 people",ES4806,0.0
+2014,Female,,ES4806,,"Per 100,000 people",ES4806,0.0
+2015,Female,,ES4806,,"Per 100,000 people",ES4806,0.0
+2016,Female,,ES4806,,"Per 100,000 people",ES4806,0.0
+2017,Female,,ES4806,,"Per 100,000 people",ES4806,0.0
+2018,Female,,ES4806,,"Per 100,000 people",ES4806,0.0
+2019,Female,,ES4806,,"Per 100,000 people",ES4806,0.0
+2020,Female,,ES4806,,"Per 100,000 people",ES4806,0.0
+2021,Female,,ES4806,,"Per 100,000 people",ES4806,0.0
+2022,Female,,ES4806,,"Per 100,000 people",ES4806,0.0
+2010,,,ES4806,,"Per 100,000 people",ES4806,3.79
+2011,,,ES4806,,"Per 100,000 people",ES4806,0.0
+2012,,,ES4806,,"Per 100,000 people",ES4806,0.0
+2013,,,ES4806,,"Per 100,000 people",ES4806,0.0
+2014,,,ES4806,,"Per 100,000 people",ES4806,0.0
+2015,,,ES4806,,"Per 100,000 people",ES4806,0.0
+2016,,,ES4806,,"Per 100,000 people",ES4806,0.0
+2017,,,ES4806,,"Per 100,000 people",ES4806,0.0
+2018,,,ES4806,,"Per 100,000 people",ES4806,0.0
+2019,,,ES4806,,"Per 100,000 people",ES4806,0.0
+2020,,,ES4806,,"Per 100,000 people",ES4806,3.83
+2021,,,ES4806,,"Per 100,000 people",ES4806,0.0
+2022,,,ES4806,,"Per 100,000 people",ES4806,3.89
 2010,Male,,,Markina-Xemein,"Per 100,000 people",Markina-Xemein,0.0
 2011,Male,,,Markina-Xemein,"Per 100,000 people",Markina-Xemein,0.0
 2012,Male,,,Markina-Xemein,"Per 100,000 people",Markina-Xemein,0.0
@@ -8969,45 +8969,45 @@ Year,Sex,Province,County,Municipality,Units,GeoCode,Value
 2020,,,,Mungia,"Per 100,000 people",Mungia,0.0
 2021,,,,Mungia,"Per 100,000 people",Mungia,0.0
 2022,,,,Mungia,"Per 100,000 people",Mungia,0.0
-2010,Male,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2011,Male,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2012,Male,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2013,Male,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2014,Male,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2015,Male,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,3.61
-2016,Male,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2017,Male,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,3.6
-2018,Male,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2019,Male,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2020,Male,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2021,Male,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2022,Male,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,3.39
-2010,Female,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2011,Female,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2012,Female,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2013,Female,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2014,Female,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2015,Female,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2016,Female,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2017,Female,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2018,Female,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2019,Female,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2020,Female,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2021,Female,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2022,Female,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2010,,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2011,,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2012,,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2013,,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2014,,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2015,,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,1.79
-2016,,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2017,,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,1.77
-2018,,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2019,,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2020,,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2021,,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,0.0
-2022,,,Plentzia-Mungia,,"Per 100,000 people",Plentzia-Mungia,1.67
+2010,Male,,ES4807,,"Per 100,000 people",ES4807,0.0
+2011,Male,,ES4807,,"Per 100,000 people",ES4807,0.0
+2012,Male,,ES4807,,"Per 100,000 people",ES4807,0.0
+2013,Male,,ES4807,,"Per 100,000 people",ES4807,0.0
+2014,Male,,ES4807,,"Per 100,000 people",ES4807,0.0
+2015,Male,,ES4807,,"Per 100,000 people",ES4807,3.61
+2016,Male,,ES4807,,"Per 100,000 people",ES4807,0.0
+2017,Male,,ES4807,,"Per 100,000 people",ES4807,3.6
+2018,Male,,ES4807,,"Per 100,000 people",ES4807,0.0
+2019,Male,,ES4807,,"Per 100,000 people",ES4807,0.0
+2020,Male,,ES4807,,"Per 100,000 people",ES4807,0.0
+2021,Male,,ES4807,,"Per 100,000 people",ES4807,0.0
+2022,Male,,ES4807,,"Per 100,000 people",ES4807,3.39
+2010,Female,,ES4807,,"Per 100,000 people",ES4807,0.0
+2011,Female,,ES4807,,"Per 100,000 people",ES4807,0.0
+2012,Female,,ES4807,,"Per 100,000 people",ES4807,0.0
+2013,Female,,ES4807,,"Per 100,000 people",ES4807,0.0
+2014,Female,,ES4807,,"Per 100,000 people",ES4807,0.0
+2015,Female,,ES4807,,"Per 100,000 people",ES4807,0.0
+2016,Female,,ES4807,,"Per 100,000 people",ES4807,0.0
+2017,Female,,ES4807,,"Per 100,000 people",ES4807,0.0
+2018,Female,,ES4807,,"Per 100,000 people",ES4807,0.0
+2019,Female,,ES4807,,"Per 100,000 people",ES4807,0.0
+2020,Female,,ES4807,,"Per 100,000 people",ES4807,0.0
+2021,Female,,ES4807,,"Per 100,000 people",ES4807,0.0
+2022,Female,,ES4807,,"Per 100,000 people",ES4807,0.0
+2010,,,ES4807,,"Per 100,000 people",ES4807,0.0
+2011,,,ES4807,,"Per 100,000 people",ES4807,0.0
+2012,,,ES4807,,"Per 100,000 people",ES4807,0.0
+2013,,,ES4807,,"Per 100,000 people",ES4807,0.0
+2014,,,ES4807,,"Per 100,000 people",ES4807,0.0
+2015,,,ES4807,,"Per 100,000 people",ES4807,1.79
+2016,,,ES4807,,"Per 100,000 people",ES4807,0.0
+2017,,,ES4807,,"Per 100,000 people",ES4807,1.77
+2018,,,ES4807,,"Per 100,000 people",ES4807,0.0
+2019,,,ES4807,,"Per 100,000 people",ES4807,0.0
+2020,,,ES4807,,"Per 100,000 people",ES4807,0.0
+2021,,,ES4807,,"Per 100,000 people",ES4807,0.0
+2022,,,ES4807,,"Per 100,000 people",ES4807,1.67
 2010,Male,,,Aulesti,"Per 100,000 people",Aulesti,0.0
 2011,Male,,,Aulesti,"Per 100,000 people",Aulesti,0.0
 2012,Male,,,Aulesti,"Per 100,000 people",Aulesti,0.0
