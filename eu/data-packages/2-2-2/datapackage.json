@@ -12,8 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Urtea"
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y2T17",
+                "Y_GE18",
+                ""
+              ]
+            },
+            "title": "Adina"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gizona",
+                "Emakumea",
+                ""
+              ]
+            },
+            "title": "Sexua"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ehunekoa",
+                ""
+              ]
+            },
+            "title": "Unitateak"
           },
           {
             "name": "Value",

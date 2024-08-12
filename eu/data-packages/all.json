@@ -1667,6 +1667,409 @@
       "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
     },
     {
+      "path": "2-2-2/data.csv",
+      "name": "2-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Urtea"
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y2T17",
+                "Y_GE18",
+                ""
+              ]
+            },
+            "title": "Adina"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gizona",
+                "Emakumea",
+                ""
+              ]
+            },
+            "title": "Sexua"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ehunekoa",
+                ""
+              ]
+            },
+            "title": "Unitateak"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Balioa"
+          }
+        ]
+      },
+      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
+    },
+    {
+      "path": "2-4-1/data.csv",
+      "name": "2-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Urtea"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Gipuzkoa",
+                "Bizkaia",
+                ""
+              ]
+            },
+            "title": "Lurraldea"
+          },
+          {
+            "name": "Comarca",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU0101",
+                "EU0102",
+                "EU0103",
+                "EU0104",
+                "EU0105",
+                "EU0106",
+                "EU2001",
+                "EU2002",
+                "EU2003",
+                "EU2004",
+                "EU2005",
+                "EU2006",
+                "EU2007",
+                "EU4801",
+                "EU4802",
+                "EU4803",
+                "EU4804",
+                "EU4805",
+                "EU4806",
+                "EU4807",
+                ""
+              ]
+            },
+            "title": "Eskualdea"
+          },
+          {
+            "name": "Municipio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alegría-Dulantzi",
+                "Amurrio",
+                "Aramaio",
+                "Artziniega",
+                "Armiñón",
+                "Arratzua-Ubarrundia",
+                "Asparrena",
+                "Ayala/Aiara",
+                "Baños de Ebro/Mañueta",
+                "Barrundia",
+                "Berantevilla",
+                "Bernedo",
+                "Campezo/Kanpezu",
+                "Zigoitia",
+                "Kripan",
+                "Kuartango",
+                "Elburgo/Burgelu",
+                "Elciego",
+                "Elvillar/Bilar",
+                "Iruraiz-Gauna",
+                "Labastida/Bastida",
+                "Lagrán",
+                "Laguardia",
+                "Lanciego/Lantziego",
+                "Lapuebla de Labarca",
+                "Leza",
+                "Laudio/Llodio",
+                "Arraia-Maeztu",
+                "Moreda de Álava/Moreda Araba",
+                "Navaridas",
+                "Okondo",
+                "Oyón-Oion",
+                "Peñacerrada-Urizaharra",
+                "Erriberagoitia/Ribera Alta",
+                "Ribera Baja/Erribera Beitia",
+                "Añana",
+                "Agurain/Salvatierra",
+                "Samaniego",
+                "San Millán/Donemiliaga",
+                "Urkabustaiz",
+                "Valdegovía/Gaubea",
+                "Harana/Valle de Arana",
+                "Villabuena de Álava/Eskuernaga",
+                "Legutio",
+                "Vitoria-Gasteiz",
+                "Yécora/Iekora",
+                "Zalduondo",
+                "Zambrana",
+                "Zuia",
+                "Iruña Oka/Iruña de Oca",
+                "Lantarón",
+                "Abaltzisketa",
+                "Aduna",
+                "Aizarnazabal",
+                "Albiztur",
+                "Alegia",
+                "Alkiza",
+                "Altzo",
+                "Amezketa",
+                "Andoain",
+                "Anoeta",
+                "Antzuola",
+                "Arama",
+                "Aretxabaleta",
+                "Asteasu",
+                "Ataun",
+                "Aia",
+                "Azkoitia",
+                "Azpeitia",
+                "Beasain",
+                "Beizama",
+                "Belauntza",
+                "Berastegi",
+                "Berrobi",
+                "Bidania-Goiatz",
+                "Zegama",
+                "Zerain",
+                "Zestoa",
+                "Zizurkil",
+                "Deba",
+                "Eibar",
+                "Elduain",
+                "Elgoibar",
+                "Elgeta",
+                "Eskoriatza",
+                "Ezkio-Itsaso",
+                "Hondarribia",
+                "Gaintza",
+                "Gabiria",
+                "Getaria",
+                "Hernani",
+                "Hernialde",
+                "Ibarra",
+                "Idiazabal",
+                "Ikaztegieta",
+                "Irun",
+                "Irura",
+                "Itsasondo",
+                "Larraul",
+                "Lazkao",
+                "Leaburu",
+                "Legazpi",
+                "Legorreta",
+                "Lezo",
+                "Lizartza",
+                "Arrasate/Mondragón",
+                "Mutriku",
+                "Mutiloa",
+                "Olaberria",
+                "Oñati",
+                "Orexa",
+                "Orio",
+                "Ormaiztegi",
+                "Oiartzun",
+                "Pasaia",
+                "Soraluze/Placencia de las Armas",
+                "Errezil",
+                "Errenteria",
+                "Leintz-Gatzaga",
+                "Donostia / San Sebastián",
+                "Segura",
+                "Tolosa",
+                "Urnieta",
+                "Usurbil",
+                "Bergara",
+                "Villabona",
+                "Ordizia",
+                "Urretxu",
+                "Zaldibia",
+                "Zarautz",
+                "Zumarraga",
+                "Zumaia",
+                "Mendaro",
+                "Lasarte-Oria",
+                "Astigarraga",
+                "Baliarrain",
+                "Orendain",
+                "Altzaga",
+                "Gaztelu",
+                "Abadiño",
+                "Abanto y Ciérvana-Abanto Zierbena",
+                "Amorebieta-Etxano",
+                "Amoroto",
+                "Arakaldo",
+                "Arantzazu",
+                "Munitibar-Arbatzegi Gerrikaitz",
+                "Artzentales",
+                "Arrankudiaga-Zollo",
+                "Arrieta",
+                "Arrigorriaga",
+                "Bakio",
+                "Barakaldo",
+                "Barrika",
+                "Basauri",
+                "Berango",
+                "Bermeo",
+                "Berriatua",
+                "Berriz",
+                "Bilbao",
+                "Busturia",
+                "Karrantza Harana/Valle de Carranza",
+                "Artea",
+                "Zeanuri",
+                "Zeberio",
+                "Dima",
+                "Durango",
+                "Ea",
+                "Etxebarri",
+                "Etxebarria",
+                "Elantxobe",
+                "Elorrio",
+                "Ereño",
+                "Ermua",
+                "Fruiz",
+                "Galdakao",
+                "Galdames",
+                "Gamiz-Fika",
+                "Garai",
+                "Gatika",
+                "Gautegiz Arteaga",
+                "Gordexola",
+                "Gorliz",
+                "Getxo",
+                "Güeñes",
+                "Gernika-Lumo",
+                "Gizaburuaga",
+                "Ibarrangelu",
+                "Ispaster",
+                "Izurtza",
+                "Lanestosa",
+                "Larrabetzu",
+                "Laukiz",
+                "Leioa",
+                "Lemoa",
+                "Lemoiz",
+                "Lekeitio",
+                "Mallabia",
+                "Mañaria",
+                "Markina-Xemein",
+                "Maruri-Jatabe",
+                "Mendata",
+                "Mendexa",
+                "Meñaka",
+                "Ugao-Miraballes",
+                "Morga",
+                "Muxika",
+                "Mundaka",
+                "Mungia",
+                "Aulesti",
+                "Muskiz",
+                "Otxandio",
+                "Ondarroa",
+                "Urduña/Orduña",
+                "Orozko",
+                "Sukarrieta",
+                "Plentzia",
+                "Portugalete",
+                "Errigoiti",
+                "Valle de Trápaga-Trapagaran",
+                "Lezama",
+                "Santurtzi",
+                "Ortuella",
+                "Sestao",
+                "Sopela",
+                "Sopuerta",
+                "Trucios-Turtzioz",
+                "Ubide",
+                "Urduliz",
+                "Balmaseda",
+                "Atxondo",
+                "Bedia",
+                "Areatza",
+                "Igorre",
+                "Zaldibar",
+                "Zalla",
+                "Zaratamo",
+                "Derio",
+                "Erandio",
+                "Loiu",
+                "Sondika",
+                "Zamudio",
+                "Forua",
+                "Kortezubi",
+                "Murueta",
+                "Nabarniz",
+                "Iurreta",
+                "Ajangiz",
+                "Alonsotegi",
+                "Zierbena",
+                "Arratzu",
+                "Ziortza-Bolibar",
+                ""
+              ]
+            },
+            "title": "Udalerria"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ehunekoa",
+                ""
+              ]
+            },
+            "title": "Unitateak"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Balioa"
+          }
+        ]
+      },
+      "title": "Proportion of agricultural area under productive and sustainable agriculture"
+    },
+    {
       "path": "1-a-2/data.csv",
       "name": "1-a-2",
       "profile": "tabular-data-resource",
@@ -6542,30 +6945,6 @@
       "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
     },
     {
-      "path": "2-2-2/data.csv",
-      "name": "2-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Urtea"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Balioa"
-          }
-        ]
-      },
-      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
-    },
-    {
       "path": "6-3-2/data.csv",
       "name": "6-3-2",
       "profile": "tabular-data-resource",
@@ -7260,30 +7639,6 @@
         ]
       },
       "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
-    },
-    {
-      "path": "2-4-1/data.csv",
-      "name": "2-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Urtea"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Balioa"
-          }
-        ]
-      },
-      "title": "Proportion of agricultural area under productive and sustainable agriculture"
     },
     {
       "path": "10-4-2/data.csv",
