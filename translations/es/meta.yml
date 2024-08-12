@@ -1,7 +1,7 @@
 
 1-2-1-titulo: 'Proporción de personas en riesgo de pobreza relativa, considerando el umbral autonómico y nacional de la pobreza'
 1-2-1-definicion: 'Proporción de personas con ingresos por unidad de consumo por debajo del 60% de la mediana autonómica y nacional de los ingresos por unidad de consumo (escala OCDE modificada)'
-1-2-1-formula: '$$\frac{\text{PobRPR\_NAC}}{\text{Pob\_NAC}} \times 100$$ población en riesgo de pobreza relativa considerando el umbral nacional de pobreza (60% de la mediana nacional de los ingresos por unidad de consumo (escala OCDE modificada)) en el año t'
+1-2-1-formula: '$$\frac{\text{PobRPR\_NAC}}{\text{Pob\_NAC}} \times 100$$'
 1-2-1-observaciones: 'Los ingresos que se utilizan en el cálculo de este indicador corresponden al año anterior al de la encuesta. El número de unidades de consumo de un hogar se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o más años y un peso de 0,3 a las personas de menos de 14 años.'
 1-2-1-oceca: '<img src="https://raw.githubusercontent.com/eustat-des/site/develop/assets/img/oceca/ocecas_image_es.png" style="width: 200px; float: left; margin-right: 10px;"> Indicador calculado utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas.'
 1-2-1-descripcion: 'El porcentaje de personas que viven en hogares considerados en riesgo de pobreza en el contexto nacional.'
