@@ -316,7 +316,7 @@
             }
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

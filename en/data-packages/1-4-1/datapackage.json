@@ -332,7 +332,7 @@
             "title": "Municipality"
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -340,7 +340,7 @@
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "GeoCode",

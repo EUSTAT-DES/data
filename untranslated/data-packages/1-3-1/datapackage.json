@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Serie",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -376,7 +376,7 @@
             }
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

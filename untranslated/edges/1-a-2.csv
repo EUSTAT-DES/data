@@ -1,6 +1,5 @@
 From,To
 ServEsencial,Administracion
-Administracion,Unidad
-Unidad,Territorio
-Unidad,Comarca
-Unidad,Municipio
+Administracion,Territorio
+Administracion,Comarca
+Administracion,Municipio

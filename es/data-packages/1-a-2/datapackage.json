@@ -347,7 +347,7 @@
             "title": "Municipio"
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

@@ -3,6 +3,55 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "2-4-E1/data.csv",
+      "name": "2-4-E1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Urtea"
+          },
+          {
+            "name": "Actividad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NFR_3",
+                "NFR_3B",
+                "NFR_3DF",
+                ""
+              ]
+            },
+            "title": "Actividad"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG_PER_HA",
+                "Kilotonalda",
+                ""
+              ]
+            },
+            "title": "Unitateak"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Balioa"
+          }
+        ]
+      },
+      "title": "2-4-E1"
+    },
+    {
       "path": "4-4-1/data.csv",
       "name": "4-4-1",
       "profile": "tabular-data-resource",
@@ -412,7 +461,7 @@
             "title": "Udalerria"
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -420,7 +469,7 @@
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitateak"
           },
           {
             "name": "GeoCode",
@@ -768,7 +817,7 @@
             "title": "Udalerria"
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -776,7 +825,7 @@
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitateak"
           },
           {
             "name": "GeoCode",
@@ -831,7 +880,7 @@
             "title": "Diru-sarrerak"
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -839,7 +888,7 @@
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitateak"
           },
           {
             "name": "Value",
@@ -866,7 +915,7 @@
             "title": "Urtea"
           },
           {
-            "name": "Serie",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -878,7 +927,7 @@
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Sexo",
@@ -1235,7 +1284,7 @@
             "title": "Udalerria"
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1245,7 +1294,7 @@
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitateak"
           },
           {
             "name": "GeoCode",
@@ -1581,7 +1630,7 @@
             "title": "Udalerria"
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1589,7 +1638,7 @@
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitateak"
           },
           {
             "name": "GeoCode",
@@ -1647,7 +1696,7 @@
             "title": "Pobreziaren atalasea"
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1655,7 +1704,7 @@
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitateak"
           },
           {
             "name": "Value",
@@ -1758,26 +1807,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU0101",
-                "EU0102",
-                "EU0103",
-                "EU0104",
-                "EU0105",
-                "EU0106",
-                "EU2001",
-                "EU2002",
-                "EU2003",
-                "EU2004",
-                "EU2005",
-                "EU2006",
-                "EU2007",
-                "EU4801",
-                "EU4802",
-                "EU4803",
-                "EU4804",
-                "EU4805",
-                "EU4806",
-                "EU4807",
+                "Añana (eskualdea)",
+                "Arabako Lautada / Llanada Alavesa",
+                "Arabako Mendialdea / Montaña Alavesa",
+                "Arabako Errioxa / Rioja Alavesa",
+                "Gorbeialdea / Estribaciones del Gorbea",
+                "Arabako Kantaurialdea / Cantábrica Alavesa",
+                "Bidasoa Beherea / Bajo Bidasoa",
+                "Debabarrena / Bajo Deba",
+                "Debagoiena / Alto Deba",
+                "Donostialdea",
+                "Goierri",
+                "Tolosaldea",
+                "Urola Kosta",
+                "Arratia Nerbioi / Arratia-Nervión",
+                "Bilbo Handia / Gran Bilbao",
+                "Durangaldea / Duranguesado",
+                "Enkartazioak / Encartaciones",
+                "Gernika-Bermeo",
+                "Markina-Ondarroa",
+                "Plentzia-Mungia",
                 ""
               ]
             },
@@ -2416,7 +2465,7 @@
             "title": "Udalerria"
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2424,7 +2473,7 @@
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitateak"
           },
           {
             "name": "GeoCode",
@@ -2509,26 +2558,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU0101",
-                "EU0102",
-                "EU0103",
-                "EU0104",
-                "EU0105",
-                "EU0106",
-                "EU2001",
-                "EU2002",
-                "EU2003",
-                "EU2004",
-                "EU2005",
-                "EU2006",
-                "EU2007",
-                "EU4801",
-                "EU4802",
-                "EU4803",
-                "EU4804",
-                "EU4805",
-                "EU4806",
-                "EU4807",
+                "Añana (eskualdea)",
+                "Arabako Lautada / Llanada Alavesa",
+                "Arabako Mendialdea / Montaña Alavesa",
+                "Arabako Errioxa / Rioja Alavesa",
+                "Gorbeialdea / Estribaciones del Gorbea",
+                "Arabako Kantaurialdea / Cantábrica Alavesa",
+                "Bidasoa Beherea / Bajo Bidasoa",
+                "Debabarrena / Bajo Deba",
+                "Debagoiena / Alto Deba",
+                "Donostialdea",
+                "Goierri",
+                "Tolosaldea",
+                "Urola Kosta",
+                "Arratia Nerbioi / Arratia-Nervión",
+                "Bilbo Handia / Gran Bilbao",
+                "Durangaldea / Duranguesado",
+                "Enkartazioak / Encartaciones",
+                "Gernika-Bermeo",
+                "Markina-Ondarroa",
+                "Plentzia-Mungia",
                 ""
               ]
             },
@@ -3152,7 +3201,7 @@
             "title": "Udalerria"
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3160,7 +3209,7 @@
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitateak"
           },
           {
             "name": "GeoCode",
@@ -3205,7 +3254,7 @@
             "title": "Lurraldea"
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3213,7 +3262,7 @@
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitateak"
           },
           {
             "name": "Value",

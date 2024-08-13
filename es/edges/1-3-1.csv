@@ -1,9 +1,7 @@
 From,To
-Serie,Cobertura
-Unidad,Sexo
-Cobertura,Unidad
-Unidad,Residencia
-Unidad,Discapacidad
-Unidad,Territorio
-Unidad,Comarca
-Unidad,Municipio
+Cobertura,Sexo
+Cobertura,Residencia
+Cobertura,Discapacidad
+Cobertura,Territorio
+Cobertura,Comarca
+Cobertura,Municipio

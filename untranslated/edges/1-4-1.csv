@@ -1,5 +1,4 @@
 From,To
-ServBasico,Unidad
-Unidad,Territorio
-Unidad,Comarca
-Unidad,Municipio
+ServBasico,Territorio
+ServBasico,Comarca
+ServBasico,Municipio

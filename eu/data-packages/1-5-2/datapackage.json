@@ -29,7 +29,7 @@
             "title": "Lurraldea"
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitateak"
           },
           {
             "name": "Value",

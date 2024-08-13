@@ -3,6 +3,51 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "2-4-E1/data.csv",
+      "name": "2-4-E1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Actividad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NFR_3",
+                "NFR_3B",
+                "NFR_3DF",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG_PER_HA",
+                "KT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "2-4-E1"
+    },
+    {
       "path": "4-4-1/data.csv",
       "name": "4-4-1",
       "profile": "tabular-data-resource",
@@ -401,7 +446,7 @@
             }
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -749,7 +794,7 @@
             }
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -806,7 +851,7 @@
             }
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -838,7 +883,7 @@
             "type": "integer"
           },
           {
-            "name": "Serie",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1199,7 +1244,7 @@
             }
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1538,7 +1583,7 @@
             }
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1598,7 +1643,7 @@
             }
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1700,26 +1745,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU0101",
-                "EU0102",
-                "EU0103",
-                "EU0104",
-                "EU0105",
-                "EU0106",
-                "EU2001",
-                "EU2002",
-                "EU2003",
-                "EU2004",
-                "EU2005",
-                "EU2006",
-                "EU2007",
-                "EU4801",
-                "EU4802",
-                "EU4803",
-                "EU4804",
-                "EU4805",
-                "EU4806",
-                "EU4807",
+                "ES0101",
+                "ES0102",
+                "ES0103",
+                "ES0104",
+                "ES0105",
+                "ES0106",
+                "ES2001",
+                "ES2002",
+                "ES2003",
+                "ES2004",
+                "ES2005",
+                "ES2006",
+                "ES2007",
+                "ES4801",
+                "ES4802",
+                "ES4803",
+                "ES4804",
+                "ES4805",
+                "ES4806",
+                "ES4807",
                 ""
               ]
             }
@@ -2347,7 +2392,7 @@
             }
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2432,26 +2477,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU0101",
-                "EU0102",
-                "EU0103",
-                "EU0104",
-                "EU0105",
-                "EU0106",
-                "EU2001",
-                "EU2002",
-                "EU2003",
-                "EU2004",
-                "EU2005",
-                "EU2006",
-                "EU2007",
-                "EU4801",
-                "EU4802",
-                "EU4803",
-                "EU4804",
-                "EU4805",
-                "EU4806",
-                "EU4807",
+                "ES0101",
+                "ES0102",
+                "ES0103",
+                "ES0104",
+                "ES0105",
+                "ES0106",
+                "ES2001",
+                "ES2002",
+                "ES2003",
+                "ES2004",
+                "ES2005",
+                "ES2006",
+                "ES2007",
+                "ES4801",
+                "ES4802",
+                "ES4803",
+                "ES4804",
+                "ES4805",
+                "ES4806",
+                "ES4807",
                 ""
               ]
             }
@@ -3065,7 +3110,7 @@
             }
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3113,7 +3158,7 @@
             }
           },
           {
-            "name": "Unidad",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
