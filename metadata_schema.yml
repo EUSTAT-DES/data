@@ -72,11 +72,11 @@ prose:
           label: "Justificación"
           translation_key: metadata_fields.justificacion_global
           scope: global
-      - name: "indicador_meta_link"
+      - name: "indicador_meta_enlace"
         field:
           element: text
           label: "Enlace"
-          translation_key: metadata_fields.indicator_meta_link
+          translation_key: metadata_fields.indicador_meta_enlace
           scope: global
       - name: "dato_global"
         field:
