@@ -1,0 +1,22 @@
+heading: "Datos de %country.name para los indicadores de Desarrollo Sostenible"
+heading_short: Indicadores de la Agenda 2030 para el Desarrollo Sostenible
+instructions: Haga clic en un objetivo o utilice la %before_link búsqueda %after_link
+  para acceder a los indicadores globales de %country.name de los Objetivos de Desarrollo
+  Sostenible.
+instructions_shorter: Seleccione un objetivo para ver los datos de los indicadores de Desarrollo Sostenible para la C.A. de Euskadi
+download_all: Descargar todos los datos (.zip)
+zip_file: archivo zip
+intro_title: 17 objetivos para transformar nuestro mundo
+intro_body: Los <a href="https://www.un.org/sustainabledevelopment/es">Objetivos de
+  Desarrollo Sostenible (SDG)</a> son un llamamiento universal a la acción para terminar
+  con la pobreza, proteger el planeta y mejorar las vidas y perspectivas de todos,
+  en todas partes. Los 17 Objetivos fueron adoptados por todos los Estados Miembros
+  de las Naciones Unidas en 2015, como parte de la <a href="https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=S">Agenda
+  2030 para el Desarrollo Sostenible</a>.
+file_size: Tamaño
+oceca_title: 'Acción conjunta OCECAS' 
+oceca_content: '<img src="https://raw.githubusercontent.com/eustat-des/site/develop/assets/img/oceca/ocecas_image_es.png" style="width: 200px; float: left; margin-right: 10px;"> 
+  <a href="https://eustat-des.github.io/site/es/accion_conjunta">Trabajo conjunto</a> de los diferentes Órganos Centrales de Estadística de las Comunidades Autónomas (OCECAS).'
+lehendakaritza_title: Agenda 2030 en Euskadi
+lehendakaritza_content: '<img src="https://raw.githubusercontent.com/eustat-des/site/develop/assets/img/lehendakaritza/Lehendakaritza.png" style="width: 100px; float: left; margin-right: 10px;"> La plataforma se ha desarrollado 
+  en coordinación con la <a href="https://www.euskadi.eus/agenda-2030/web01-a2lehetr/es/">Secretaría General de Transición Social y Agenda 2030</a> del Gobierno Vasco.'       

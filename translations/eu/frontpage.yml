@@ -1,10 +1,16 @@
-heading: '%country.adjective Garapen Jasangarrirako adierazleen datuak'
-instructions: Egin klik helburu batean edo erabili %before_link bilaketa %after_link garapen jasangarrirako helburuen %country.adjective adierazle mundialetara sartzeko.
-download_all: Deskargatu datu guztiak (.zip)
+heading: "%country.adjective Garapen Jasangarrirako adierazleen datuak"
+heading_short: Garapen Iraunkorrerako 2030 Agendaren adierazleak
+instructions: 'Egin klik helburu batean edo erabili %before_link bilaketa %after_link garapen jasangarrirako helburuen %country.adjective adierazle globaletara sartzeko.'
+instructions_short: 'Egin klik helburu bakoitzean Garapen Iraunkorreko Helburuen adierazle globalen %country.adjective datuak ikusteko.'
+instructions_shorter: Aukeratu helburu bat Euskal AEko Garapen Iraunkorraren adierazleen datuak ikusteko
+download_all: 'Deskargatu datu guztiak (.zip)'
 zip_file: zip fitxategia
-intro_title: Gure mundua eraldatzeko 17 helburu
-intro_body: <a href="https://www.un.org/sustainabledevelopment/es">Garapen Jasangarrirako Helburuak (GJH)</a> pobreziarekin amaitzeko, planeta babesteko eta guztion bizitzak eta ikuspegiak hobetzeko dei unibertsala dira, mundu osoan emandako ekintzen bitartez. Nazio Batuetako estatu kide guztiek onartu zituzten 17 helburuak 2015ean, <a href="https://sdgs.un.org/es/2030agenda">2030 Agendaren</a> barruan. 
-heading_short: '%country.adjective Garapen Jasangarrirako Helburuen datuak'
-instructions_short: Egin klik helburu batean Garapen Iraunkorreko Helburuen adierazle mundialen %country.adjective datuak ikusteko.
-instructions_shorter: Hautatu helburu bat adierazleen datuak ikusteko.
+intro_title: 'Gure mundua eraldatzeko 17 helburu'
+intro_body: '<a href="https://www.un.org/sustainabledevelopment/en">Garapen Jasangarrirako Helburuak (GJH)</a> edozein lekutan, pobreziarekin, planeta babestearekin eta guztion bizitzak eta ikuspegiak hobetzearekin ekintzarako dei unibertsala dira. Estatu kide guztiek onartu zituzten 17 helburuak 2015ean, <a href="https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=ES">Nazio Batuen 2030 Agendaren barruan</a>.'
 file_size: Tamaina
+oceca_title: 'OCECArekin batera' 
+oceca_content: '<img src="https://raw.githubusercontent.com/eustat-des/site/develop/assets/img/oceca/ocecas_image_es.png" style="width: 200px; float: left; margin-right: 10px;"> 
+  Autonomia Erkidegoetako Estatistika Organo Zentralen (OCECAS) <a href="https://eustat-des.github.io/site/es/accion_conjunta"> baterako lana </a>.'
+lehendakaritza_title: Agenda 2030 EAEn
+lehendakaritza_content: '<img src="https://raw.githubusercontent.com/eustat-des/site/develop/assets/img/lehendakaritza/Lehendakaritza.png" style="width: 100px; float: left; margin-right: 10px;">
+  Plataforma hau <a href="https://www.euskadi.eus/agenda-2030/web01-a2lehetr/eu/">Gizarte Trantsizioko Idazkaritza Nagusiarekin</a> batera egin da.'       
