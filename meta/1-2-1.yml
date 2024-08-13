@@ -16,7 +16,7 @@ texto_oceca: meta.texto_oceca
 
 descripcion_global: meta.1-2-1-descripcion 
 justificacion_global: meta.1-2-1-justificacion
-indicador_meta_link: <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadata 01-02-01 PDF</a>
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadata 1-2-1 PDF</a>'
 dato_global: meta.1-2-1-datos 
 comparabilidad: meta.1-2-1-comparabilidad
 
