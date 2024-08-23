@@ -13,6 +13,6 @@ This is a starter repository to help in implementing the [Open SDG](https://gith
 
 We are evaluating Open SDG platform.
 
-If you want to consult Eustat's official information on SDG2030, please visit the [following section of the website](https://en.eustat.eus/indicators/sdg.html)
+If you want to consult Eustat's official information on SDG2030, please visit the [following section of our official website](https://en.eustat.eus/indicators/sdg.html)
 
 
