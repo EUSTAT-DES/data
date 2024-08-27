@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -21,25 +21,12 @@
             "constraints": {
               "enum": [
                 "Riesgo de pobreza (monetaria)",
-                "NMPI",
                 "Carencia material y social severa",
                 "Baja intensidad de trabajo",
                 ""
               ]
             },
             "title": "Dimensión de la pobreza"
-          },
-          {
-            "name": "Umbral",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Autonómico",
-                "Nacional",
-                ""
-              ]
-            },
-            "title": "Umbral de pobreza"
           },
           {
             "name": "Units",

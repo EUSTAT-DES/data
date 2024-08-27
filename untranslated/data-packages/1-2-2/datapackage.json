@@ -20,20 +20,8 @@
             "constraints": {
               "enum": [
                 "NAHC",
-                "NMPI",
                 "SMSD",
                 "VLWI",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Umbral",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "AUT",
-                "NAC",
                 ""
               ]
             }
