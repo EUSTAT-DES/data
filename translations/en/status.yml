@@ -25,3 +25,8 @@ progress_challenges_remain: Challenges remain
 progress_approaching_target: Approaching target
 progress_target_achieved: Target achieved
 progress_help: How are we doing against the 2030 target?
+# Nuevos estados de progreso
+alcanzado: On track or target met
+en_progreso: Fair progress but acceleration needed
+retroceso: Stagnation or regression
+no_evaluado: No assessment
