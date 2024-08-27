@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.1-2-2-title
+graph_title: GRAFICO.1-2-2-titulo
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.1-2-2-title
@@ -26,11 +26,8 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-progress_status: target_achieved
-reporting_status: complete
+progress_status: en_progreso
+reporting_status: en_progreso
 sort: ''
 standalone: false
-tags:
-  - Municipal
-  - Territorial
-  - Europeo
+tags: []

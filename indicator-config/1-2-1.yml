@@ -28,7 +28,7 @@ graph_target_lines:
     unit: ''
     label_content: indicator.annotation_2030_target
     value: 9.25
-graph_title: meta.1-2-1-titulo
+graph_title: GRAFICO.1-2-1-titulo
 graph_titles: []
 graph_type: line
 indicator_available: ''
@@ -41,23 +41,23 @@ indicator_tabs:
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: ''
-page_content: meta.1-2-1-content
+page_content: GRAFICO.1-2-1-contenido
 permalink: ''
 placeholder: ''
 precision: []
-progress_status: challenges_remain
 proxy: ''
 proxy_series: []
 publications: []
 related_indicators: []
-reporting_status: complete
+progress_status: en_progreso
+reporting_status: en_progreso
 sort: ''
 sources:
-  - organisation: fuente.gv_bienestar
-    periodicity: meta.FREQ_B
-    url: fuente.epds_url
-    url_text: fuente.epds
-    logo: 'https://www.eustat.eus/cwImages/2015/euskadieus.png'
+  - organisation: FUENTE.gv_bienestar
+    periodicity: FUENTE.FREQ_B
+    url: FUENTE.epds_url
+    url_text: FUENTE.epds
+    logo: FUENTE.gv_logo
 standalone: false
 tags: []
 x_axis_label: ''
