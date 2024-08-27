@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.1-5-2-title
+graph_title: GRAFICO.1-5-2-titulo
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.1-5-2-title
@@ -26,7 +26,8 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: complete
+progress_status: no_evaluado
+reporting_status: no_evaluado
 sort: ''
 standalone: false
 tags: []
