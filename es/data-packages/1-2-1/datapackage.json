@@ -25,18 +25,18 @@
                 ""
               ]
             },
-            "title": "Umbral de la pobreza"
+            "title": "Umbral de pobreza"
           },
           {
             "name": "Ingreso",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ingresos con alquiler imputado",
+                "IMP_RENT",
                 ""
               ]
             },
-            "title": "Ingresos"
+            "title": "Ingreso"
           },
           {
             "name": "Units",

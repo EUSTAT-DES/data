@@ -22,20 +22,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NFR_3",
-                "NFR_3B",
-                "NFR_3DF",
+                "Agricultura y ganadería",
+                "Ganadería",
+                "Agricultura",
                 ""
               ]
             },
-            "title": "Actividad"
+            "title": "Actividad económica"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "KG_PER_HA",
+                "Kg por hectárea",
                 "Kilotoneladas",
                 ""
               ]
@@ -76,13 +76,13 @@
                 "Usar hojas de cálculo",
                 "Programar en un lenguaje de programación",
                 "Transferir ficheros entre el ordenador y otros dispositivos (cámaras digitales, teléfonos móviles, mp3 o mp4)",
-                "Descargar o instalar software o apps",
+                "Instalar software o aplicaciones(apps)",
                 "Cambiar la configuración de cualquier software, incluídos el sistema operativo y los programas de seguridad",
-                "Cualquier habilidad informática (TIC)",
+                "Alguna habilidad informática",
                 ""
               ]
             },
-            "title": "Habilidades informáticas"
+            "title": "Habilidad informática"
           },
           {
             "name": "Sexo",
@@ -101,8 +101,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 a 24 años",
-                "25 a 74 años",
+                "16-24 años",
+                "27-74 años",
                 ""
               ]
             },
@@ -238,7 +238,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -319,7 +319,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -505,12 +505,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BSRVH2O",
-                "BSRVSAN",
+                "Agua corriente",
+                "Baño",
                 ""
               ]
             },
-            "title": "ServBasico"
+            "title": "Servicios básicos"
           },
           {
             "name": "Territorio",
@@ -594,7 +594,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -675,7 +675,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -866,18 +866,18 @@
                 ""
               ]
             },
-            "title": "Umbral de la pobreza"
+            "title": "Umbral de pobreza"
           },
           {
             "name": "Ingreso",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ingresos con alquiler imputado",
+                "IMP_RENT",
                 ""
               ]
             },
-            "title": "Ingresos"
+            "title": "Ingreso"
           },
           {
             "name": "Units",
@@ -946,22 +946,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TIT",
-                "PLAZA",
+                "Titular",
+                "Plazas",
                 "PERSN",
-                "BEN",
+                "Beneficiario (no titular)",
                 "DEP",
                 ""
               ]
             },
-            "title": "Cobertura"
+            "title": "Persona perceptora"
           },
           {
             "name": "Residencia",
             "type": "string",
             "constraints": {
               "enum": [
-                "MIGRANT",
+                "Extranjero",
                 ""
               ]
             },
@@ -972,11 +972,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PD",
+                "Persona con discapacidad",
                 ""
               ]
             },
-            "title": "Discapacidad"
+            "title": "Personas sin y con discapacidad"
           },
           {
             "name": "Territorio",
@@ -1060,7 +1060,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -1141,7 +1141,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -1289,7 +1289,7 @@
             "constraints": {
               "enum": [
                 "Por 1.000 habitantes",
-                "PLAZA",
+                "Plazas",
                 "Porcentaje",
                 ""
               ]
@@ -1407,7 +1407,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -1488,7 +1488,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -1674,14 +1674,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NAHC",
+                "Riesgo de pobreza (monetaria)",
                 "NMPI",
-                "SMSD",
-                "VLWI",
+                "Carencia material y social severa",
+                "Baja intensidad de trabajo",
                 ""
               ]
             },
-            "title": "Pobreza"
+            "title": "Dimensión de la pobreza"
           },
           {
             "name": "Umbral",
@@ -1693,7 +1693,7 @@
                 ""
               ]
             },
-            "title": "Umbral de la pobreza"
+            "title": "Umbral de pobreza"
           },
           {
             "name": "Units",
@@ -1735,8 +1735,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y2T17",
-                "Y_GE18",
+                "2-17 años",
+                "18 años y más",
                 ""
               ]
             },
@@ -1871,7 +1871,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -1952,7 +1952,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -2138,27 +2138,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ESED",
-                "ESSRV",
-                "HLTH",
-                "PROT",
+                "Educación",
+                "Servicios esenciales",
+                "Salud",
+                "Protección social",
                 ""
               ]
             },
-            "title": "ServEsencial"
+            "title": "Servicios esenciales"
           },
           {
             "name": "Administracion",
             "type": "string",
             "constraints": {
               "enum": [
-                "ADM_MUN",
-                "ADM_AUT",
-                "ADM_PUB",
+                "Administración municipal",
+                "Administración autonómica",
+                "Todas las administraciones públicas",
                 ""
               ]
             },
-            "title": "Administracion"
+            "title": "Administración pública"
           },
           {
             "name": "Territorio",
@@ -2242,7 +2242,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -2323,7 +2323,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -2622,7 +2622,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -2703,7 +2703,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -2978,7 +2978,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -3059,7 +3059,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",

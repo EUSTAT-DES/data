@@ -1,23 +1,23 @@
-Year,Poverty treshold,Income,Units,Value
-2008,Autonomic,Income with imputed rental,Percentage,10.3
-2012,Autonomic,Income with imputed rental,Percentage,12.5
-2016,Autonomic,Income with imputed rental,Percentage,14.3
-2020,Autonomic,Income with imputed rental,Percentage,16.4
-2008,Autonomic,,Percentage,14.8
-2012,Autonomic,,Percentage,15.4
-2014,Autonomic,,Percentage,18.5
-2016,Autonomic,,Percentage,16.4
-2018,Autonomic,,Percentage,17.7
-2020,Autonomic,,Percentage,17.8
-2022,Autonomic,,Percentage,16.5
-2008,National,Income with imputed rental,Percentage,4.5
-2012,National,Income with imputed rental,Percentage,7.1
-2016,National,Income with imputed rental,Percentage,7.7
-2020,National,Income with imputed rental,Percentage,8.6
-2008,National,,Percentage,8.8
-2012,National,,Percentage,8.8
-2014,National,,Percentage,10.3
-2016,National,,Percentage,9.0
-2018,National,,Percentage,10.2
-2020,National,,Percentage,9.8
-2022,National,,Percentage,10.6
+Year,Umbral de pobreza,Ingreso,Units,Value
+2008,Autonómico,IMP_RENT,Porcentaje,10.3
+2012,Autonómico,IMP_RENT,Porcentaje,12.5
+2016,Autonómico,IMP_RENT,Porcentaje,14.3
+2020,Autonómico,IMP_RENT,Porcentaje,16.4
+2008,Autonómico,,Porcentaje,14.8
+2012,Autonómico,,Porcentaje,15.4
+2014,Autonómico,,Porcentaje,18.5
+2016,Autonómico,,Porcentaje,16.4
+2018,Autonómico,,Porcentaje,17.7
+2020,Autonómico,,Porcentaje,17.8
+2022,Autonómico,,Porcentaje,16.5
+2008,Nacional,IMP_RENT,Porcentaje,4.5
+2012,Nacional,IMP_RENT,Porcentaje,7.1
+2016,Nacional,IMP_RENT,Porcentaje,7.7
+2020,Nacional,IMP_RENT,Porcentaje,8.6
+2008,Nacional,,Porcentaje,8.8
+2012,Nacional,,Porcentaje,8.8
+2014,Nacional,,Porcentaje,10.3
+2016,Nacional,,Porcentaje,9.0
+2018,Nacional,,Porcentaje,10.2
+2020,Nacional,,Porcentaje,9.8
+2022,Nacional,,Porcentaje,10.6

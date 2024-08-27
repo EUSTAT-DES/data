@@ -20,20 +20,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NFR_3",
-                "NFR_3B",
-                "NFR_3DF",
+                "Agricultura y ganadería",
+                "Ganadería",
+                "Agricultura",
                 ""
               ]
             },
-            "title": "Actividad"
+            "title": "Actividad económica"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "KG_PER_HA",
+                "Kg por hectárea",
                 "Kilotoneladas",
                 ""
               ]

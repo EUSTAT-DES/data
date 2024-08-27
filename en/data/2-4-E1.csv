@@ -1,73 +1,73 @@
-Year,Actividad,Units,Value
-2010,NFR_3,KG_PER_HA,19.6
-2011,NFR_3,KG_PER_HA,18.6
-2012,NFR_3,KG_PER_HA,19.2
-2013,NFR_3,KG_PER_HA,18.6
-2014,NFR_3,KG_PER_HA,19.3
-2015,NFR_3,KG_PER_HA,19.1
-2016,NFR_3,KG_PER_HA,19.2
-2017,NFR_3,KG_PER_HA,19.2
-2018,NFR_3,KG_PER_HA,18.2
-2019,NFR_3,KG_PER_HA,18.4
-2020,NFR_3,KG_PER_HA,18.5
-2021,NFR_3,KG_PER_HA,18.1
-2010,NFR_3,Kilotons,4.3
-2011,NFR_3,Kilotons,4.1
-2012,NFR_3,Kilotons,4.2
-2013,NFR_3,Kilotons,4.1
-2014,NFR_3,Kilotons,4.3
-2015,NFR_3,Kilotons,4.2
-2016,NFR_3,Kilotons,4.2
-2017,NFR_3,Kilotons,4.3
-2018,NFR_3,Kilotons,4.0
-2019,NFR_3,Kilotons,4.1
-2020,NFR_3,Kilotons,4.1
-2021,NFR_3,Kilotons,4.0
-2010,NFR_3B,KG_PER_HA,8.6
-2011,NFR_3B,KG_PER_HA,8.3
-2012,NFR_3B,KG_PER_HA,8.0
-2013,NFR_3B,KG_PER_HA,6.6
-2014,NFR_3B,KG_PER_HA,7.7
-2015,NFR_3B,KG_PER_HA,7.5
-2016,NFR_3B,KG_PER_HA,7.1
-2017,NFR_3B,KG_PER_HA,6.9
-2018,NFR_3B,KG_PER_HA,7.1
-2019,NFR_3B,KG_PER_HA,6.9
-2020,NFR_3B,KG_PER_HA,7.5
-2021,NFR_3B,KG_PER_HA,7.3
-2010,NFR_3B,Kilotons,1.2
-2011,NFR_3B,Kilotons,1.2
-2012,NFR_3B,Kilotons,1.1
-2013,NFR_3B,Kilotons,0.9
-2014,NFR_3B,Kilotons,1.1
-2015,NFR_3B,Kilotons,1.0
-2016,NFR_3B,Kilotons,1.0
-2017,NFR_3B,Kilotons,1.0
-2018,NFR_3B,Kilotons,1.0
-2019,NFR_3B,Kilotons,0.9
-2020,NFR_3B,Kilotons,1.0
-2021,NFR_3B,Kilotons,1.0
-2010,NFR_3DF,KG_PER_HA,38.1
-2011,NFR_3DF,KG_PER_HA,36.3
-2012,NFR_3DF,KG_PER_HA,38.3
-2013,NFR_3DF,KG_PER_HA,39.1
-2014,NFR_3DF,KG_PER_HA,38.9
-2015,NFR_3DF,KG_PER_HA,38.7
-2016,NFR_3DF,KG_PER_HA,39.4
-2017,NFR_3DF,KG_PER_HA,40.2
-2018,NFR_3DF,KG_PER_HA,37.0
-2019,NFR_3DF,KG_PER_HA,37.0
-2020,NFR_3DF,KG_PER_HA,36.1
-2021,NFR_3DF,KG_PER_HA,35.2
-2010,NFR_3DF,Kilotons,3.1
-2011,NFR_3DF,Kilotons,3.0
-2012,NFR_3DF,Kilotons,3.1
-2013,NFR_3DF,Kilotons,3.2
-2014,NFR_3DF,Kilotons,3.2
-2015,NFR_3DF,Kilotons,3.2
-2016,NFR_3DF,Kilotons,3.3
-2017,NFR_3DF,Kilotons,3.3
-2018,NFR_3DF,Kilotons,3.0
-2019,NFR_3DF,Kilotons,3.1
-2020,NFR_3DF,Kilotons,3.1
-2021,NFR_3DF,Kilotons,3.0
+Year,Actividad económica,Units,Value
+2010,Agricultura y ganadería,Kg por hectárea,19.6
+2011,Agricultura y ganadería,Kg por hectárea,18.6
+2012,Agricultura y ganadería,Kg por hectárea,19.2
+2013,Agricultura y ganadería,Kg por hectárea,18.6
+2014,Agricultura y ganadería,Kg por hectárea,19.3
+2015,Agricultura y ganadería,Kg por hectárea,19.1
+2016,Agricultura y ganadería,Kg por hectárea,19.2
+2017,Agricultura y ganadería,Kg por hectárea,19.2
+2018,Agricultura y ganadería,Kg por hectárea,18.2
+2019,Agricultura y ganadería,Kg por hectárea,18.4
+2020,Agricultura y ganadería,Kg por hectárea,18.5
+2021,Agricultura y ganadería,Kg por hectárea,18.1
+2010,Agricultura y ganadería,Kilotoneladas,4.3
+2011,Agricultura y ganadería,Kilotoneladas,4.1
+2012,Agricultura y ganadería,Kilotoneladas,4.2
+2013,Agricultura y ganadería,Kilotoneladas,4.1
+2014,Agricultura y ganadería,Kilotoneladas,4.3
+2015,Agricultura y ganadería,Kilotoneladas,4.2
+2016,Agricultura y ganadería,Kilotoneladas,4.2
+2017,Agricultura y ganadería,Kilotoneladas,4.3
+2018,Agricultura y ganadería,Kilotoneladas,4.0
+2019,Agricultura y ganadería,Kilotoneladas,4.1
+2020,Agricultura y ganadería,Kilotoneladas,4.1
+2021,Agricultura y ganadería,Kilotoneladas,4.0
+2010,Ganadería,Kg por hectárea,8.6
+2011,Ganadería,Kg por hectárea,8.3
+2012,Ganadería,Kg por hectárea,8.0
+2013,Ganadería,Kg por hectárea,6.6
+2014,Ganadería,Kg por hectárea,7.7
+2015,Ganadería,Kg por hectárea,7.5
+2016,Ganadería,Kg por hectárea,7.1
+2017,Ganadería,Kg por hectárea,6.9
+2018,Ganadería,Kg por hectárea,7.1
+2019,Ganadería,Kg por hectárea,6.9
+2020,Ganadería,Kg por hectárea,7.5
+2021,Ganadería,Kg por hectárea,7.3
+2010,Ganadería,Kilotoneladas,1.2
+2011,Ganadería,Kilotoneladas,1.2
+2012,Ganadería,Kilotoneladas,1.1
+2013,Ganadería,Kilotoneladas,0.9
+2014,Ganadería,Kilotoneladas,1.1
+2015,Ganadería,Kilotoneladas,1.0
+2016,Ganadería,Kilotoneladas,1.0
+2017,Ganadería,Kilotoneladas,1.0
+2018,Ganadería,Kilotoneladas,1.0
+2019,Ganadería,Kilotoneladas,0.9
+2020,Ganadería,Kilotoneladas,1.0
+2021,Ganadería,Kilotoneladas,1.0
+2010,Agricultura,Kg por hectárea,38.1
+2011,Agricultura,Kg por hectárea,36.3
+2012,Agricultura,Kg por hectárea,38.3
+2013,Agricultura,Kg por hectárea,39.1
+2014,Agricultura,Kg por hectárea,38.9
+2015,Agricultura,Kg por hectárea,38.7
+2016,Agricultura,Kg por hectárea,39.4
+2017,Agricultura,Kg por hectárea,40.2
+2018,Agricultura,Kg por hectárea,37.0
+2019,Agricultura,Kg por hectárea,37.0
+2020,Agricultura,Kg por hectárea,36.1
+2021,Agricultura,Kg por hectárea,35.2
+2010,Agricultura,Kilotoneladas,3.1
+2011,Agricultura,Kilotoneladas,3.0
+2012,Agricultura,Kilotoneladas,3.1
+2013,Agricultura,Kilotoneladas,3.2
+2014,Agricultura,Kilotoneladas,3.2
+2015,Agricultura,Kilotoneladas,3.2
+2016,Agricultura,Kilotoneladas,3.3
+2017,Agricultura,Kilotoneladas,3.3
+2018,Agricultura,Kilotoneladas,3.0
+2019,Agricultura,Kilotoneladas,3.1
+2020,Agricultura,Kilotoneladas,3.1
+2021,Agricultura,Kilotoneladas,3.0

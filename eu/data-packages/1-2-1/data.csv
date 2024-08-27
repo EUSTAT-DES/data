@@ -1,23 +1,23 @@
-Year,Pobreziaren atalasea,Diru-sarrerak,Units,Value
-2008,Autonomikoa,Diru-sarrerak alokairua egotzita,Ehunekoa,10.3
-2012,Autonomikoa,Diru-sarrerak alokairua egotzita,Ehunekoa,12.5
-2016,Autonomikoa,Diru-sarrerak alokairua egotzita,Ehunekoa,14.3
-2020,Autonomikoa,Diru-sarrerak alokairua egotzita,Ehunekoa,16.4
-2008,Autonomikoa,,Ehunekoa,14.8
-2012,Autonomikoa,,Ehunekoa,15.4
-2014,Autonomikoa,,Ehunekoa,18.5
-2016,Autonomikoa,,Ehunekoa,16.4
-2018,Autonomikoa,,Ehunekoa,17.7
-2020,Autonomikoa,,Ehunekoa,17.8
-2022,Autonomikoa,,Ehunekoa,16.5
-2008,Nazionala,Diru-sarrerak alokairua egotzita,Ehunekoa,4.5
-2012,Nazionala,Diru-sarrerak alokairua egotzita,Ehunekoa,7.1
-2016,Nazionala,Diru-sarrerak alokairua egotzita,Ehunekoa,7.7
-2020,Nazionala,Diru-sarrerak alokairua egotzita,Ehunekoa,8.6
-2008,Nazionala,,Ehunekoa,8.8
-2012,Nazionala,,Ehunekoa,8.8
-2014,Nazionala,,Ehunekoa,10.3
-2016,Nazionala,,Ehunekoa,9.0
-2018,Nazionala,,Ehunekoa,10.2
-2020,Nazionala,,Ehunekoa,9.8
-2022,Nazionala,,Ehunekoa,10.6
+Year,Umbral de pobreza,Ingreso,Units,Value
+2008,Autonómico,IMP_RENT,Porcentaje,10.3
+2012,Autonómico,IMP_RENT,Porcentaje,12.5
+2016,Autonómico,IMP_RENT,Porcentaje,14.3
+2020,Autonómico,IMP_RENT,Porcentaje,16.4
+2008,Autonómico,,Porcentaje,14.8
+2012,Autonómico,,Porcentaje,15.4
+2014,Autonómico,,Porcentaje,18.5
+2016,Autonómico,,Porcentaje,16.4
+2018,Autonómico,,Porcentaje,17.7
+2020,Autonómico,,Porcentaje,17.8
+2022,Autonómico,,Porcentaje,16.5
+2008,Nacional,IMP_RENT,Porcentaje,4.5
+2012,Nacional,IMP_RENT,Porcentaje,7.1
+2016,Nacional,IMP_RENT,Porcentaje,7.7
+2020,Nacional,IMP_RENT,Porcentaje,8.6
+2008,Nacional,,Porcentaje,8.8
+2012,Nacional,,Porcentaje,8.8
+2014,Nacional,,Porcentaje,10.3
+2016,Nacional,,Porcentaje,9.0
+2018,Nacional,,Porcentaje,10.2
+2020,Nacional,,Porcentaje,9.8
+2022,Nacional,,Porcentaje,10.6

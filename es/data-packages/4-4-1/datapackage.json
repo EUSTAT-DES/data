@@ -25,13 +25,13 @@
                 "Usar hojas de cálculo",
                 "Programar en un lenguaje de programación",
                 "Transferir ficheros entre el ordenador y otros dispositivos (cámaras digitales, teléfonos móviles, mp3 o mp4)",
-                "Descargar o instalar software o apps",
+                "Instalar software o aplicaciones(apps)",
                 "Cambiar la configuración de cualquier software, incluídos el sistema operativo y los programas de seguridad",
-                "Cualquier habilidad informática (TIC)",
+                "Alguna habilidad informática",
                 ""
               ]
             },
-            "title": "Habilidades informáticas"
+            "title": "Habilidad informática"
           },
           {
             "name": "Sexo",
@@ -50,8 +50,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 a 24 años",
-                "25 a 74 años",
+                "16-24 años",
+                "27-74 años",
                 ""
               ]
             },

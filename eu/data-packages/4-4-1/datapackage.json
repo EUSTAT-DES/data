@@ -13,49 +13,49 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Urtea"
+            "title": "Año"
           },
           {
             "name": "Habilidad_IT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Fitxategiak edo karpetak kopiatu edo mugitu",
-                "Testua, irudiak, taulak edo grafikoak osatzen dituzten aurkezpenak edo dokumentuak sortzea",
-                "Kalkulu-orriak erabiltzea",
-                "Programazio-lengoaia batean programatzea",
-                "Fitxategiak ordenagailuaren eta beste gailu batzuen artean transferitzea (kamera digitalak, telefono mugikorrak, mp3 edo mp4)",
-                "Deskargatu edo instalatu software edo app-ak",
-                "Edozein softwareren konfigurazioa aldatzea, sistema eragilea eta segurtasun-programak barne",
-                "Edozein trebetasun informazioaren eta komunikazioaren teknologietan (IKT)",
+                "Copiar o mover ficheros o carpetas",
+                "Crear presentaciones o documentos que integren texto, imágenes, tablas o gráficos",
+                "Usar hojas de cálculo",
+                "Programar en un lenguaje de programación",
+                "Transferir ficheros entre el ordenador y otros dispositivos (cámaras digitales, teléfonos móviles, mp3 o mp4)",
+                "Instalar software o aplicaciones(apps)",
+                "Cambiar la configuración de cualquier software, incluídos el sistema operativo y los programas de seguridad",
+                "Alguna habilidad informática",
                 ""
               ]
             },
-            "title": "Trebetasun informatikoa"
+            "title": "Habilidad informática"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gizona",
-                "Emakumea",
+                "Hombre",
+                "Mujer",
                 ""
               ]
             },
-            "title": "Sexua"
+            "title": "Sexo"
           },
           {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
-                "16tik 24ra",
-                "25tik 74ra",
+                "16-24 años",
+                "27-74 años",
                 ""
               ]
             },
-            "title": "Adina"
+            "title": "Edad"
           },
           {
             "name": "Territorio",
@@ -68,23 +68,23 @@
                 ""
               ]
             },
-            "title": "Lurraldea"
+            "title": "Territorio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ehunekoa",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Unitateak"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Balioa"
+            "title": "Valor"
           }
         ]
       }

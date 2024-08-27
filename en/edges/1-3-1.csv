@@ -1,7 +1,7 @@
 From,To
-Cobertura,Sex
-Cobertura,Residencia
-Cobertura,Discapacidad
-Cobertura,Province
-Cobertura,County
-Cobertura,Municipality
+Persona perceptora,Sexo
+Persona perceptora,Residencia
+Persona perceptora,Personas sin y con discapacidad
+Persona perceptora,Territorio
+Persona perceptora,Comarca
+Persona perceptora,Municipio

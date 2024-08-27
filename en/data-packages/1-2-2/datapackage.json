@@ -13,49 +13,49 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Pobreza",
             "type": "string",
             "constraints": {
               "enum": [
-                "NAHC",
+                "Riesgo de pobreza (monetaria)",
                 "NMPI",
-                "SMSD",
-                "VLWI",
+                "Carencia material y social severa",
+                "Baja intensidad de trabajo",
                 ""
               ]
             },
-            "title": "Pobreza"
+            "title": "Dimensión de la pobreza"
           },
           {
             "name": "Umbral",
             "type": "string",
             "constraints": {
               "enum": [
-                "Autonomic",
-                "National",
+                "Autonómico",
+                "Nacional",
                 ""
               ]
             },
-            "title": "Poverty treshold"
+            "title": "Umbral de pobreza"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

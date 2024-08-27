@@ -13,46 +13,46 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Umbral",
             "type": "string",
             "constraints": {
               "enum": [
-                "Autonomic",
-                "National",
+                "Autonómico",
+                "Nacional",
                 ""
               ]
             },
-            "title": "Poverty treshold"
+            "title": "Umbral de pobreza"
           },
           {
             "name": "Ingreso",
             "type": "string",
             "constraints": {
               "enum": [
-                "Income with imputed rental",
+                "IMP_RENT",
                 ""
               ]
             },
-            "title": "Income"
+            "title": "Ingreso"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

@@ -13,47 +13,47 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Urtea"
+            "title": "Año"
           },
           {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y2T17",
-                "Y_GE18",
+                "2-17 años",
+                "18 años y más",
                 ""
               ]
             },
-            "title": "Adina"
+            "title": "Edad"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gizona",
-                "Emakumea",
+                "Hombre",
+                "Mujer",
                 ""
               ]
             },
-            "title": "Sexua"
+            "title": "Sexo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ehunekoa",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Unitateak"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Balioa"
+            "title": "Valor"
           }
         ]
       }

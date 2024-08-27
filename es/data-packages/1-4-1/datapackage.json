@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BSRVH2O",
-                "BSRVSAN",
+                "Agua corriente",
+                "Baño",
                 ""
               ]
             },
-            "title": "ServBasico"
+            "title": "Servicios básicos"
           },
           {
             "name": "Territorio",
@@ -109,7 +109,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -190,7 +190,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",

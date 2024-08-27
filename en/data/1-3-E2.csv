@@ -1,4 +1,4 @@
-Year,Province,County,Municipality,Units,GeoCode,Value
+Year,Territorio,Comarca,Municipio,Units,GeoCode,Value
 2022,Araba/Álava,,,Euros,Araba/Álava,1371.5
 2023,Araba/Álava,,,Euros,Araba/Álava,1505.6
 2022,,,Alegría-Dulantzi,Euros,Alegría-Dulantzi,1282.5
@@ -15,8 +15,8 @@ Year,Province,County,Municipality,Units,GeoCode,Value
 2023,,,Arratzua-Ubarrundia,Euros,Arratzua-Ubarrundia,1442.1
 2022,,,Asparrena,Euros,Asparrena,1253.7
 2023,,,Asparrena,Euros,Asparrena,1410.8
-2022,,Añana (county),,Euros,Añana (county),1088.5
-2023,,Añana (county),,Euros,Añana (county),1220.0
+2022,,Añana (comarca),,Euros,Añana (comarca),1088.5
+2023,,Añana (comarca),,Euros,Añana (comarca),1220.0
 2022,,,Ayala/Aiara,Euros,Ayala/Aiara,1269.8
 2023,,,Ayala/Aiara,Euros,Ayala/Aiara,1391.2
 2022,,,Baños de Ebro/Mañueta,Euros,Baños de Ebro/Mañueta,710.7
@@ -77,8 +77,8 @@ Year,Province,County,Municipality,Units,GeoCode,Value
 2023,,,Peñacerrada-Urizaharra,Euros,Peñacerrada-Urizaharra,950.8
 2022,,,Erriberagoitia/Ribera Alta,Euros,Erriberagoitia/Ribera Alta,1095.8
 2023,,,Erriberagoitia/Ribera Alta,Euros,Erriberagoitia/Ribera Alta,1202.5
-2022,,,Ribera Baja/Erribera Beitia,Euros,Ribera Baja/Erribera Beitia,1299.2
-2023,,,Ribera Baja/Erribera Beitia,Euros,Ribera Baja/Erribera Beitia,1472.3
+2022,,,Ribera Baja/Erriberabeitia,Euros,Ribera Baja/Erriberabeitia,1299.2
+2023,,,Ribera Baja/Erriberabeitia,Euros,Ribera Baja/Erriberabeitia,1472.3
 2022,,,Añana,Euros,Añana,1019.1
 2023,,,Añana,Euros,Añana,1131.4
 2022,,Gorbeialdea / Estribaciones del Gorbea,,Euros,Gorbeialdea / Estribaciones del Gorbea,1329.5
@@ -257,8 +257,8 @@ Year,Province,County,Municipality,Units,GeoCode,Value
 2023,,,Oiartzun,Euros,Oiartzun,1397.1
 2022,,,Pasaia,Euros,Pasaia,1175.1
 2023,,,Pasaia,Euros,Pasaia,1288.0
-2022,,,Soraluze/Placencia de las Armas,Euros,Soraluze/Placencia de las Armas,1287.2
-2023,,,Soraluze/Placencia de las Armas,Euros,Soraluze/Placencia de las Armas,1405.3
+2022,,,Soraluze-Placencia de las Armas,Euros,Soraluze-Placencia de las Armas,1287.2
+2023,,,Soraluze-Placencia de las Armas,Euros,Soraluze-Placencia de las Armas,1405.3
 2022,,,Errezil,Euros,Errezil,1008.9
 2023,,,Errezil,Euros,Errezil,1085.5
 2022,,,Errenteria,Euros,Errenteria,1241.8

@@ -1,43 +1,43 @@
-Year,Pobreza,Pobreziaren atalasea,Units,Value
-2008,NAHC,Autonomikoa,Ehunekoa,14.8
-2012,NAHC,Autonomikoa,Ehunekoa,15.4
-2014,NAHC,Autonomikoa,Ehunekoa,18.5
-2016,NAHC,Autonomikoa,Ehunekoa,16.4
-2018,NAHC,Autonomikoa,Ehunekoa,17.7
-2020,NAHC,Autonomikoa,Ehunekoa,17.8
-2022,NAHC,Autonomikoa,Ehunekoa,16.5
-2008,NAHC,Nazionala,Ehunekoa,8.8
-2012,NAHC,Nazionala,Ehunekoa,8.8
-2014,NAHC,Nazionala,Ehunekoa,10.3
-2016,NAHC,Nazionala,Ehunekoa,9.0
-2018,NAHC,Nazionala,Ehunekoa,10.2
-2020,NAHC,Nazionala,Ehunekoa,9.8
-2022,NAHC,Nazionala,Ehunekoa,10.6
-2008,NMPI,Autonomikoa,Ehunekoa,17.9
-2012,NMPI,Autonomikoa,Ehunekoa,19.9
-2014,NMPI,Autonomikoa,Ehunekoa,22.7
-2016,NMPI,Autonomikoa,Ehunekoa,20.6
-2018,NMPI,Autonomikoa,Ehunekoa,20.7
-2020,NMPI,Autonomikoa,Ehunekoa,19.9
-2022,NMPI,Autonomikoa,Ehunekoa,19.5
-2008,NMPI,Nazionala,Ehunekoa,12.6
-2012,NMPI,Nazionala,Ehunekoa,14.7
-2014,NMPI,Nazionala,Ehunekoa,16.7
-2016,NMPI,Nazionala,Ehunekoa,15.6
-2018,NMPI,Nazionala,Ehunekoa,15.1
-2020,NMPI,Nazionala,Ehunekoa,13.4
-2022,NMPI,Nazionala,Ehunekoa,14.6
-2008,SMSD,Autonomikoa,Ehunekoa,2.7
-2012,SMSD,Autonomikoa,Ehunekoa,5.8
-2014,SMSD,Autonomikoa,Ehunekoa,5.2
-2016,SMSD,Autonomikoa,Ehunekoa,6.4
-2018,SMSD,Autonomikoa,Ehunekoa,5.6
-2020,SMSD,Autonomikoa,Ehunekoa,4.1
-2022,SMSD,Autonomikoa,Ehunekoa,4.7
-2008,VLWI,Autonomikoa,Ehunekoa,5.6
-2012,VLWI,Autonomikoa,Ehunekoa,9.9
-2014,VLWI,Autonomikoa,Ehunekoa,12.0
-2016,VLWI,Autonomikoa,Ehunekoa,10.2
-2018,VLWI,Autonomikoa,Ehunekoa,9.1
-2020,VLWI,Autonomikoa,Ehunekoa,7.6
-2022,VLWI,Autonomikoa,Ehunekoa,7.8
+Year,Dimensión de la pobreza,Umbral de pobreza,Units,Value
+2008,Riesgo de pobreza (monetaria),Autonómico,Porcentaje,14.8
+2012,Riesgo de pobreza (monetaria),Autonómico,Porcentaje,15.4
+2014,Riesgo de pobreza (monetaria),Autonómico,Porcentaje,18.5
+2016,Riesgo de pobreza (monetaria),Autonómico,Porcentaje,16.4
+2018,Riesgo de pobreza (monetaria),Autonómico,Porcentaje,17.7
+2020,Riesgo de pobreza (monetaria),Autonómico,Porcentaje,17.8
+2022,Riesgo de pobreza (monetaria),Autonómico,Porcentaje,16.5
+2008,Riesgo de pobreza (monetaria),Nacional,Porcentaje,8.8
+2012,Riesgo de pobreza (monetaria),Nacional,Porcentaje,8.8
+2014,Riesgo de pobreza (monetaria),Nacional,Porcentaje,10.3
+2016,Riesgo de pobreza (monetaria),Nacional,Porcentaje,9.0
+2018,Riesgo de pobreza (monetaria),Nacional,Porcentaje,10.2
+2020,Riesgo de pobreza (monetaria),Nacional,Porcentaje,9.8
+2022,Riesgo de pobreza (monetaria),Nacional,Porcentaje,10.6
+2008,NMPI,Autonómico,Porcentaje,17.9
+2012,NMPI,Autonómico,Porcentaje,19.9
+2014,NMPI,Autonómico,Porcentaje,22.7
+2016,NMPI,Autonómico,Porcentaje,20.6
+2018,NMPI,Autonómico,Porcentaje,20.7
+2020,NMPI,Autonómico,Porcentaje,19.9
+2022,NMPI,Autonómico,Porcentaje,19.5
+2008,NMPI,Nacional,Porcentaje,12.6
+2012,NMPI,Nacional,Porcentaje,14.7
+2014,NMPI,Nacional,Porcentaje,16.7
+2016,NMPI,Nacional,Porcentaje,15.6
+2018,NMPI,Nacional,Porcentaje,15.1
+2020,NMPI,Nacional,Porcentaje,13.4
+2022,NMPI,Nacional,Porcentaje,14.6
+2008,Carencia material y social severa,Autonómico,Porcentaje,2.7
+2012,Carencia material y social severa,Autonómico,Porcentaje,5.8
+2014,Carencia material y social severa,Autonómico,Porcentaje,5.2
+2016,Carencia material y social severa,Autonómico,Porcentaje,6.4
+2018,Carencia material y social severa,Autonómico,Porcentaje,5.6
+2020,Carencia material y social severa,Autonómico,Porcentaje,4.1
+2022,Carencia material y social severa,Autonómico,Porcentaje,4.7
+2008,Baja intensidad de trabajo,Autonómico,Porcentaje,5.6
+2012,Baja intensidad de trabajo,Autonómico,Porcentaje,9.9
+2014,Baja intensidad de trabajo,Autonómico,Porcentaje,12.0
+2016,Baja intensidad de trabajo,Autonómico,Porcentaje,10.2
+2018,Baja intensidad de trabajo,Autonómico,Porcentaje,9.1
+2020,Baja intensidad de trabajo,Autonómico,Porcentaje,7.6
+2022,Baja intensidad de trabajo,Autonómico,Porcentaje,7.8

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Urtea"
+            "title": "Año"
           },
           {
             "name": "Territorio",
@@ -26,23 +26,23 @@
                 ""
               ]
             },
-            "title": "Lurraldea"
+            "title": "Territorio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ehunekoa",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Unitateak"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Balioa"
+            "title": "Valor"
           }
         ]
       }

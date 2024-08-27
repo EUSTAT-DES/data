@@ -13,46 +13,46 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Urtea"
+            "title": "Año"
           },
           {
             "name": "Umbral",
             "type": "string",
             "constraints": {
               "enum": [
-                "Autonomikoa",
-                "Nazionala",
+                "Autonómico",
+                "Nacional",
                 ""
               ]
             },
-            "title": "Pobreziaren atalasea"
+            "title": "Umbral de pobreza"
           },
           {
             "name": "Ingreso",
             "type": "string",
             "constraints": {
               "enum": [
-                "Diru-sarrerak alokairua egotzita",
+                "IMP_RENT",
                 ""
               ]
             },
-            "title": "Diru-sarrerak"
+            "title": "Ingreso"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ehunekoa",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Unitateak"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Balioa"
+            "title": "Valor"
           }
         ]
       }

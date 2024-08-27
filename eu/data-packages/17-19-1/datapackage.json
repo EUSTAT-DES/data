@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Urtea"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Balioa"
+            "title": "Valor"
           }
         ]
       }

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Series",
@@ -28,41 +28,41 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Hombre",
+                "Mujer",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Sexo"
           },
           {
             "name": "Cobertura",
             "type": "string",
             "constraints": {
               "enum": [
-                "TIT",
-                "PLAZA",
+                "Titular",
+                "Plazas",
                 "PERSN",
-                "BEN",
+                "Beneficiario (no titular)",
                 "DEP",
                 ""
               ]
             },
-            "title": "Cobertura"
+            "title": "Persona perceptora"
           },
           {
             "name": "Residencia",
             "type": "string",
             "constraints": {
               "enum": [
-                "MIGRANT",
+                "Extranjero",
                 ""
               ]
             },
@@ -73,11 +73,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PD",
+                "Persona con discapacidad",
                 ""
               ]
             },
-            "title": "Discapacidad"
+            "title": "Personas sin y con discapacidad"
           },
           {
             "name": "Territorio",
@@ -90,14 +90,14 @@
                 ""
               ]
             },
-            "title": "Province"
+            "title": "Territorio"
           },
           {
             "name": "Comarca",
             "type": "string",
             "constraints": {
               "enum": [
-                "Añana (county)",
+                "Añana (comarca)",
                 "Arabako Lautada / Llanada Alavesa",
                 "Arabako Mendialdea / Montaña Alavesa",
                 "Arabako Errioxa / Rioja Alavesa",
@@ -120,7 +120,7 @@
                 ""
               ]
             },
-            "title": "County"
+            "title": "Comarca"
           },
           {
             "name": "Municipio",
@@ -161,7 +161,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -242,7 +242,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -382,20 +382,20 @@
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Municipio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 1,000 people",
-                "PLAZA",
-                "Percentage",
+                "Por 1.000 habitantes",
+                "Plazas",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "GeoCode",
@@ -405,7 +405,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

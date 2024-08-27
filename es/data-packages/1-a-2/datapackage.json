@@ -20,27 +20,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ESED",
-                "ESSRV",
-                "HLTH",
-                "PROT",
+                "Educación",
+                "Servicios esenciales",
+                "Salud",
+                "Protección social",
                 ""
               ]
             },
-            "title": "ServEsencial"
+            "title": "Servicios esenciales"
           },
           {
             "name": "Administracion",
             "type": "string",
             "constraints": {
               "enum": [
-                "ADM_MUN",
-                "ADM_AUT",
-                "ADM_PUB",
+                "Administración municipal",
+                "Administración autonómica",
+                "Todas las administraciones públicas",
                 ""
               ]
             },
-            "title": "Administracion"
+            "title": "Administración pública"
           },
           {
             "name": "Territorio",
@@ -124,7 +124,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -205,7 +205,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",

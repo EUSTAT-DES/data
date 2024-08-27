@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NAHC",
+                "Riesgo de pobreza (monetaria)",
                 "NMPI",
-                "SMSD",
-                "VLWI",
+                "Carencia material y social severa",
+                "Baja intensidad de trabajo",
                 ""
               ]
             },
-            "title": "Pobreza"
+            "title": "Dimensión de la pobreza"
           },
           {
             "name": "Umbral",
@@ -39,7 +39,7 @@
                 ""
               ]
             },
-            "title": "Umbral de la pobreza"
+            "title": "Umbral de pobreza"
           },
           {
             "name": "Units",

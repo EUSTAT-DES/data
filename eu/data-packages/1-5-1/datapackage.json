@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Urtea"
+            "title": "Año"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gizona",
-                "Emakumea",
+                "Hombre",
+                "Mujer",
                 ""
               ]
             },
-            "title": "Sexua"
+            "title": "Sexo"
           },
           {
             "name": "Territorio",
@@ -38,14 +38,14 @@
                 ""
               ]
             },
-            "title": "Lurraldea"
+            "title": "Territorio"
           },
           {
             "name": "Comarca",
             "type": "string",
             "constraints": {
               "enum": [
-                "Añana (eskualdea)",
+                "Añana (comarca)",
                 "Arabako Lautada / Llanada Alavesa",
                 "Arabako Mendialdea / Montaña Alavesa",
                 "Arabako Errioxa / Rioja Alavesa",
@@ -68,7 +68,7 @@
                 ""
               ]
             },
-            "title": "Eskualdea"
+            "title": "Comarca"
           },
           {
             "name": "Municipio",
@@ -109,7 +109,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -190,7 +190,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -329,18 +329,18 @@
                 ""
               ]
             },
-            "title": "Udalerria"
+            "title": "Municipio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "100.000 biztanle bakoitzeko",
+                "Por 100.000 habitantes",
                 ""
               ]
             },
-            "title": "Unitateak"
+            "title": "Unidad"
           },
           {
             "name": "GeoCode",
@@ -350,7 +350,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Balioa"
+            "title": "Valor"
           }
         ]
       }

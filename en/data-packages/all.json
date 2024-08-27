@@ -15,37 +15,37 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Actividad",
             "type": "string",
             "constraints": {
               "enum": [
-                "NFR_3",
-                "NFR_3B",
-                "NFR_3DF",
+                "Agricultura y ganadería",
+                "Ganadería",
+                "Agricultura",
                 ""
               ]
             },
-            "title": "Actividad"
+            "title": "Actividad económica"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "KG_PER_HA",
-                "Kilotons",
+                "Kg por hectárea",
+                "Kilotoneladas",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -64,45 +64,45 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Habilidad_IT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Copy or move files or folders",
-                "Create presentations or documents that integrate text, images, tables or graphs",
-                "Use spreadsheets",
-                "Program in a programming language",
-                "Transfer files between the computer and other devices (digital cameras, mobile phones, mp3 or mp4)",
-                "Download or install software or apps",
-                "Change the settings of any software, including the operating system and security programs",
-                "Any information and communication technology (ICT) skill",
+                "Copiar o mover ficheros o carpetas",
+                "Crear presentaciones o documentos que integren texto, imágenes, tablas o gráficos",
+                "Usar hojas de cálculo",
+                "Programar en un lenguaje de programación",
+                "Transferir ficheros entre el ordenador y otros dispositivos (cámaras digitales, teléfonos móviles, mp3 o mp4)",
+                "Instalar software o aplicaciones(apps)",
+                "Cambiar la configuración de cualquier software, incluídos el sistema operativo y los programas de seguridad",
+                "Alguna habilidad informática",
                 ""
               ]
             },
-            "title": "ICT skills"
+            "title": "Habilidad informática"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Hombre",
+                "Mujer",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Sexo"
           },
           {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to 24",
-                "25 to 74",
+                "16-24 años",
+                "27-74 años",
                 ""
               ]
             },
@@ -119,23 +119,23 @@
                 ""
               ]
             },
-            "title": "Province"
+            "title": "Territorio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -154,7 +154,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Territorio",
@@ -167,14 +167,14 @@
                 ""
               ]
             },
-            "title": "Province"
+            "title": "Territorio"
           },
           {
             "name": "Comarca",
             "type": "string",
             "constraints": {
               "enum": [
-                "Añana (county)",
+                "Añana (comarca)",
                 "Arabako Lautada / Llanada Alavesa",
                 "Arabako Mendialdea / Montaña Alavesa",
                 "Arabako Errioxa / Rioja Alavesa",
@@ -197,7 +197,7 @@
                 ""
               ]
             },
-            "title": "County"
+            "title": "Comarca"
           },
           {
             "name": "Municipio",
@@ -238,7 +238,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -319,7 +319,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -458,7 +458,7 @@
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Municipio"
           },
           {
             "name": "Units",
@@ -469,7 +469,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "GeoCode",
@@ -479,7 +479,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -498,19 +498,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "ServBasico",
             "type": "string",
             "constraints": {
               "enum": [
-                "BSRVH2O",
-                "BSRVSAN",
+                "Agua corriente",
+                "Baño",
                 ""
               ]
             },
-            "title": "ServBasico"
+            "title": "Servicios básicos"
           },
           {
             "name": "Territorio",
@@ -523,14 +523,14 @@
                 ""
               ]
             },
-            "title": "Province"
+            "title": "Territorio"
           },
           {
             "name": "Comarca",
             "type": "string",
             "constraints": {
               "enum": [
-                "Añana (county)",
+                "Añana (comarca)",
                 "Arabako Lautada / Llanada Alavesa",
                 "Arabako Mendialdea / Montaña Alavesa",
                 "Arabako Errioxa / Rioja Alavesa",
@@ -553,7 +553,7 @@
                 ""
               ]
             },
-            "title": "County"
+            "title": "Comarca"
           },
           {
             "name": "Municipio",
@@ -594,7 +594,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -675,7 +675,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -814,18 +814,18 @@
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Municipio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "GeoCode",
@@ -835,7 +835,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -854,46 +854,46 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Umbral",
             "type": "string",
             "constraints": {
               "enum": [
-                "Autonomic",
-                "National",
+                "Autonómico",
+                "Nacional",
                 ""
               ]
             },
-            "title": "Poverty treshold"
+            "title": "Umbral de pobreza"
           },
           {
             "name": "Ingreso",
             "type": "string",
             "constraints": {
               "enum": [
-                "Income with imputed rental",
+                "IMP_RENT",
                 ""
               ]
             },
-            "title": "Income"
+            "title": "Ingreso"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -912,7 +912,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Series",
@@ -927,41 +927,41 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Hombre",
+                "Mujer",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Sexo"
           },
           {
             "name": "Cobertura",
             "type": "string",
             "constraints": {
               "enum": [
-                "TIT",
-                "PLAZA",
+                "Titular",
+                "Plazas",
                 "PERSN",
-                "BEN",
+                "Beneficiario (no titular)",
                 "DEP",
                 ""
               ]
             },
-            "title": "Cobertura"
+            "title": "Persona perceptora"
           },
           {
             "name": "Residencia",
             "type": "string",
             "constraints": {
               "enum": [
-                "MIGRANT",
+                "Extranjero",
                 ""
               ]
             },
@@ -972,11 +972,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PD",
+                "Persona con discapacidad",
                 ""
               ]
             },
-            "title": "Discapacidad"
+            "title": "Personas sin y con discapacidad"
           },
           {
             "name": "Territorio",
@@ -989,14 +989,14 @@
                 ""
               ]
             },
-            "title": "Province"
+            "title": "Territorio"
           },
           {
             "name": "Comarca",
             "type": "string",
             "constraints": {
               "enum": [
-                "Añana (county)",
+                "Añana (comarca)",
                 "Arabako Lautada / Llanada Alavesa",
                 "Arabako Mendialdea / Montaña Alavesa",
                 "Arabako Errioxa / Rioja Alavesa",
@@ -1019,7 +1019,7 @@
                 ""
               ]
             },
-            "title": "County"
+            "title": "Comarca"
           },
           {
             "name": "Municipio",
@@ -1060,7 +1060,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -1141,7 +1141,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -1281,20 +1281,20 @@
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Municipio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 1,000 people",
-                "PLAZA",
-                "Percentage",
+                "Por 1.000 habitantes",
+                "Plazas",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "GeoCode",
@@ -1304,7 +1304,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1323,7 +1323,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Territorio",
@@ -1336,14 +1336,14 @@
                 ""
               ]
             },
-            "title": "Province"
+            "title": "Territorio"
           },
           {
             "name": "Comarca",
             "type": "string",
             "constraints": {
               "enum": [
-                "Añana (county)",
+                "Añana (comarca)",
                 "Arabako Lautada / Llanada Alavesa",
                 "Arabako Mendialdea / Montaña Alavesa",
                 "Arabako Errioxa / Rioja Alavesa",
@@ -1366,7 +1366,7 @@
                 ""
               ]
             },
-            "title": "County"
+            "title": "Comarca"
           },
           {
             "name": "Municipio",
@@ -1407,7 +1407,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -1488,7 +1488,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -1627,18 +1627,18 @@
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Municipio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 1,000 people",
+                "Por 1.000 habitantes",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "GeoCode",
@@ -1648,7 +1648,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1667,49 +1667,49 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Pobreza",
             "type": "string",
             "constraints": {
               "enum": [
-                "NAHC",
+                "Riesgo de pobreza (monetaria)",
                 "NMPI",
-                "SMSD",
-                "VLWI",
+                "Carencia material y social severa",
+                "Baja intensidad de trabajo",
                 ""
               ]
             },
-            "title": "Pobreza"
+            "title": "Dimensión de la pobreza"
           },
           {
             "name": "Umbral",
             "type": "string",
             "constraints": {
               "enum": [
-                "Autonomic",
-                "National",
+                "Autonómico",
+                "Nacional",
                 ""
               ]
             },
-            "title": "Poverty treshold"
+            "title": "Umbral de pobreza"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1728,15 +1728,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y2T17",
-                "Y_GE18",
+                "2-17 años",
+                "18 años y más",
                 ""
               ]
             },
@@ -1747,28 +1747,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Hombre",
+                "Mujer",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Sexo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1787,7 +1787,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Territorio",
@@ -1800,14 +1800,14 @@
                 ""
               ]
             },
-            "title": "Province"
+            "title": "Territorio"
           },
           {
             "name": "Comarca",
             "type": "string",
             "constraints": {
               "enum": [
-                "Añana (county)",
+                "Añana (comarca)",
                 "Arabako Lautada / Llanada Alavesa",
                 "Arabako Mendialdea / Montaña Alavesa",
                 "Arabako Errioxa / Rioja Alavesa",
@@ -1830,7 +1830,7 @@
                 ""
               ]
             },
-            "title": "County"
+            "title": "Comarca"
           },
           {
             "name": "Municipio",
@@ -1871,7 +1871,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -1952,7 +1952,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -2091,18 +2091,18 @@
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Municipio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "GeoCode",
@@ -2112,7 +2112,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2131,34 +2131,34 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "ServEsencial",
             "type": "string",
             "constraints": {
               "enum": [
-                "ESED",
-                "ESSRV",
-                "HLTH",
-                "PROT",
+                "Educación",
+                "Servicios esenciales",
+                "Salud",
+                "Protección social",
                 ""
               ]
             },
-            "title": "ServEsencial"
+            "title": "Servicios esenciales"
           },
           {
             "name": "Administracion",
             "type": "string",
             "constraints": {
               "enum": [
-                "ADM_MUN",
-                "ADM_AUT",
-                "ADM_PUB",
+                "Administración municipal",
+                "Administración autonómica",
+                "Todas las administraciones públicas",
                 ""
               ]
             },
-            "title": "Administracion"
+            "title": "Administración pública"
           },
           {
             "name": "Territorio",
@@ -2171,14 +2171,14 @@
                 ""
               ]
             },
-            "title": "Province"
+            "title": "Territorio"
           },
           {
             "name": "Comarca",
             "type": "string",
             "constraints": {
               "enum": [
-                "Añana (county)",
+                "Añana (comarca)",
                 "Arabako Lautada / Llanada Alavesa",
                 "Arabako Mendialdea / Montaña Alavesa",
                 "Arabako Errioxa / Rioja Alavesa",
@@ -2201,7 +2201,7 @@
                 ""
               ]
             },
-            "title": "County"
+            "title": "Comarca"
           },
           {
             "name": "Municipio",
@@ -2242,7 +2242,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -2323,7 +2323,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -2462,18 +2462,18 @@
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Municipio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "GeoCode",
@@ -2483,7 +2483,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2502,7 +2502,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Group",
@@ -2519,7 +2519,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2538,7 +2538,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Territorio",
@@ -2551,14 +2551,14 @@
                 ""
               ]
             },
-            "title": "Province"
+            "title": "Territorio"
           },
           {
             "name": "Comarca",
             "type": "string",
             "constraints": {
               "enum": [
-                "Añana (county)",
+                "Añana (comarca)",
                 "Arabako Lautada / Llanada Alavesa",
                 "Arabako Mendialdea / Montaña Alavesa",
                 "Arabako Errioxa / Rioja Alavesa",
@@ -2581,7 +2581,7 @@
                 ""
               ]
             },
-            "title": "County"
+            "title": "Comarca"
           },
           {
             "name": "Municipio",
@@ -2622,7 +2622,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -2703,7 +2703,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -2842,18 +2842,18 @@
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Municipio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "GeoCode",
@@ -2863,7 +2863,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2882,19 +2882,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Hombre",
+                "Mujer",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Sexo"
           },
           {
             "name": "Territorio",
@@ -2907,14 +2907,14 @@
                 ""
               ]
             },
-            "title": "Province"
+            "title": "Territorio"
           },
           {
             "name": "Comarca",
             "type": "string",
             "constraints": {
               "enum": [
-                "Añana (county)",
+                "Añana (comarca)",
                 "Arabako Lautada / Llanada Alavesa",
                 "Arabako Mendialdea / Montaña Alavesa",
                 "Arabako Errioxa / Rioja Alavesa",
@@ -2937,7 +2937,7 @@
                 ""
               ]
             },
-            "title": "County"
+            "title": "Comarca"
           },
           {
             "name": "Municipio",
@@ -2978,7 +2978,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -3059,7 +3059,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -3198,18 +3198,18 @@
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Municipio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 people",
+                "Por 100.000 habitantes",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "GeoCode",
@@ -3219,7 +3219,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3238,7 +3238,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Territorio",
@@ -3251,23 +3251,23 @@
                 ""
               ]
             },
-            "title": "Province"
+            "title": "Territorio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3286,12 +3286,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3310,12 +3310,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3334,12 +3334,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3358,12 +3358,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3382,12 +3382,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3406,12 +3406,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3430,12 +3430,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3454,12 +3454,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3478,12 +3478,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3502,12 +3502,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3526,12 +3526,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3550,12 +3550,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3574,12 +3574,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3598,12 +3598,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3622,12 +3622,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3646,12 +3646,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3670,12 +3670,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3694,12 +3694,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3718,12 +3718,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3742,12 +3742,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3766,12 +3766,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3790,12 +3790,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3814,12 +3814,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3838,12 +3838,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3862,12 +3862,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3886,12 +3886,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3910,12 +3910,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3934,12 +3934,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3958,12 +3958,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3982,12 +3982,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4006,12 +4006,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4030,12 +4030,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4054,12 +4054,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4078,12 +4078,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4102,12 +4102,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4126,12 +4126,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4150,12 +4150,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4174,12 +4174,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4198,12 +4198,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4222,12 +4222,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4246,12 +4246,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4270,12 +4270,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4294,12 +4294,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4318,12 +4318,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4342,12 +4342,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4366,12 +4366,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4390,12 +4390,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4414,12 +4414,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4438,12 +4438,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4462,12 +4462,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4486,12 +4486,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4510,12 +4510,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4534,12 +4534,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4558,12 +4558,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4582,12 +4582,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4606,12 +4606,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4630,12 +4630,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4654,12 +4654,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4678,12 +4678,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4702,12 +4702,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4726,12 +4726,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4750,12 +4750,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4774,12 +4774,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4798,12 +4798,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4822,12 +4822,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4846,12 +4846,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4870,12 +4870,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4894,12 +4894,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4918,12 +4918,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4942,12 +4942,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4966,12 +4966,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4990,12 +4990,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5014,12 +5014,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5038,12 +5038,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5062,12 +5062,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5086,12 +5086,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5110,12 +5110,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5134,12 +5134,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5158,12 +5158,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5182,12 +5182,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5206,12 +5206,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5230,12 +5230,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5254,12 +5254,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5278,12 +5278,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5302,12 +5302,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5326,12 +5326,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5350,12 +5350,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5374,12 +5374,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5398,12 +5398,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5422,12 +5422,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5446,12 +5446,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5470,12 +5470,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5494,12 +5494,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5518,12 +5518,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5542,12 +5542,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5566,12 +5566,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5590,12 +5590,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5614,12 +5614,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5638,12 +5638,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5662,12 +5662,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5686,12 +5686,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5710,12 +5710,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5734,12 +5734,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5758,12 +5758,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5782,12 +5782,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5806,12 +5806,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5830,12 +5830,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5854,12 +5854,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5878,12 +5878,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5902,12 +5902,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5926,12 +5926,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5950,12 +5950,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5974,12 +5974,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5998,12 +5998,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6022,12 +6022,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6046,12 +6046,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6070,12 +6070,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6094,12 +6094,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6118,12 +6118,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6142,12 +6142,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6166,12 +6166,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6190,12 +6190,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6214,12 +6214,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6238,12 +6238,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6262,12 +6262,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6286,12 +6286,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6310,12 +6310,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6334,12 +6334,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6358,12 +6358,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6382,12 +6382,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6406,12 +6406,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6430,12 +6430,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6454,12 +6454,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6478,12 +6478,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6502,12 +6502,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6526,12 +6526,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6550,12 +6550,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6574,12 +6574,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6598,12 +6598,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6622,12 +6622,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6646,12 +6646,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6670,12 +6670,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6694,12 +6694,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6718,12 +6718,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6742,12 +6742,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6766,12 +6766,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6790,12 +6790,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6814,12 +6814,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6838,12 +6838,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6862,12 +6862,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6886,12 +6886,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6910,12 +6910,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6934,12 +6934,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6958,12 +6958,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6982,12 +6982,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7006,12 +7006,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7030,12 +7030,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7054,12 +7054,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7078,12 +7078,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7102,12 +7102,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7126,12 +7126,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7150,12 +7150,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7174,12 +7174,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7198,12 +7198,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7222,12 +7222,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7246,12 +7246,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7270,12 +7270,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7294,12 +7294,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7318,12 +7318,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7342,12 +7342,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7366,12 +7366,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7390,12 +7390,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7414,12 +7414,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7438,12 +7438,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7462,12 +7462,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7486,12 +7486,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7510,12 +7510,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7534,12 +7534,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7558,12 +7558,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7582,12 +7582,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7606,12 +7606,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7630,12 +7630,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7654,12 +7654,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7678,12 +7678,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7702,12 +7702,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7726,12 +7726,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7750,12 +7750,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7774,12 +7774,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7798,12 +7798,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7822,12 +7822,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7846,12 +7846,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7870,12 +7870,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7894,12 +7894,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7918,12 +7918,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7942,12 +7942,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7966,12 +7966,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7990,12 +7990,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8014,12 +8014,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8038,12 +8038,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8062,12 +8062,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8086,12 +8086,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8110,12 +8110,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8134,12 +8134,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8158,12 +8158,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8182,12 +8182,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8206,12 +8206,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8230,12 +8230,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8254,12 +8254,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8278,12 +8278,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8302,12 +8302,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8326,12 +8326,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8350,12 +8350,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8374,12 +8374,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8398,12 +8398,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8422,12 +8422,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8446,12 +8446,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8470,12 +8470,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8494,12 +8494,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8518,12 +8518,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8542,12 +8542,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8566,12 +8566,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8590,12 +8590,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8614,12 +8614,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8638,12 +8638,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8662,12 +8662,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8686,12 +8686,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8710,12 +8710,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8734,12 +8734,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8758,12 +8758,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8782,12 +8782,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8806,12 +8806,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8830,12 +8830,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8854,12 +8854,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8878,12 +8878,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8902,12 +8902,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8926,12 +8926,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },

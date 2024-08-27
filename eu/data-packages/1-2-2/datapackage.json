@@ -13,49 +13,49 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Urtea"
+            "title": "Año"
           },
           {
             "name": "Pobreza",
             "type": "string",
             "constraints": {
               "enum": [
-                "NAHC",
+                "Riesgo de pobreza (monetaria)",
                 "NMPI",
-                "SMSD",
-                "VLWI",
+                "Carencia material y social severa",
+                "Baja intensidad de trabajo",
                 ""
               ]
             },
-            "title": "Pobreza"
+            "title": "Dimensión de la pobreza"
           },
           {
             "name": "Umbral",
             "type": "string",
             "constraints": {
               "enum": [
-                "Autonomikoa",
-                "Nazionala",
+                "Autonómico",
+                "Nacional",
                 ""
               ]
             },
-            "title": "Pobreziaren atalasea"
+            "title": "Umbral de pobreza"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ehunekoa",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Unitateak"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Balioa"
+            "title": "Valor"
           }
         ]
       }

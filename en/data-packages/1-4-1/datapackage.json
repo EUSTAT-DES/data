@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "ServBasico",
             "type": "string",
             "constraints": {
               "enum": [
-                "BSRVH2O",
-                "BSRVSAN",
+                "Agua corriente",
+                "Baño",
                 ""
               ]
             },
-            "title": "ServBasico"
+            "title": "Servicios básicos"
           },
           {
             "name": "Territorio",
@@ -38,14 +38,14 @@
                 ""
               ]
             },
-            "title": "Province"
+            "title": "Territorio"
           },
           {
             "name": "Comarca",
             "type": "string",
             "constraints": {
               "enum": [
-                "Añana (county)",
+                "Añana (comarca)",
                 "Arabako Lautada / Llanada Alavesa",
                 "Arabako Mendialdea / Montaña Alavesa",
                 "Arabako Errioxa / Rioja Alavesa",
@@ -68,7 +68,7 @@
                 ""
               ]
             },
-            "title": "County"
+            "title": "Comarca"
           },
           {
             "name": "Municipio",
@@ -109,7 +109,7 @@
                 "Oyón-Oion",
                 "Peñacerrada-Urizaharra",
                 "Erriberagoitia/Ribera Alta",
-                "Ribera Baja/Erribera Beitia",
+                "Ribera Baja/Erriberabeitia",
                 "Añana",
                 "Agurain/Salvatierra",
                 "Samaniego",
@@ -190,7 +190,7 @@
                 "Ormaiztegi",
                 "Oiartzun",
                 "Pasaia",
-                "Soraluze/Placencia de las Armas",
+                "Soraluze-Placencia de las Armas",
                 "Errezil",
                 "Errenteria",
                 "Leintz-Gatzaga",
@@ -329,18 +329,18 @@
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Municipio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "GeoCode",
@@ -350,7 +350,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

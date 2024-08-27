@@ -13,37 +13,37 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Actividad",
             "type": "string",
             "constraints": {
               "enum": [
-                "NFR_3",
-                "NFR_3B",
-                "NFR_3DF",
+                "Agricultura y ganadería",
+                "Ganadería",
+                "Agricultura",
                 ""
               ]
             },
-            "title": "Actividad"
+            "title": "Actividad económica"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "KG_PER_HA",
-                "Kilotons",
+                "Kg por hectárea",
+                "Kilotoneladas",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

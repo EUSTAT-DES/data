@@ -1,8 +1,8 @@
-Year,Umbral de la pobreza,Ingresos,Units,Value
-2008,Autonómico,Ingresos con alquiler imputado,Porcentaje,10.3
-2012,Autonómico,Ingresos con alquiler imputado,Porcentaje,12.5
-2016,Autonómico,Ingresos con alquiler imputado,Porcentaje,14.3
-2020,Autonómico,Ingresos con alquiler imputado,Porcentaje,16.4
+Year,Umbral de pobreza,Ingreso,Units,Value
+2008,Autonómico,IMP_RENT,Porcentaje,10.3
+2012,Autonómico,IMP_RENT,Porcentaje,12.5
+2016,Autonómico,IMP_RENT,Porcentaje,14.3
+2020,Autonómico,IMP_RENT,Porcentaje,16.4
 2008,Autonómico,,Porcentaje,14.8
 2012,Autonómico,,Porcentaje,15.4
 2014,Autonómico,,Porcentaje,18.5
@@ -10,10 +10,10 @@ Year,Umbral de la pobreza,Ingresos,Units,Value
 2018,Autonómico,,Porcentaje,17.7
 2020,Autonómico,,Porcentaje,17.8
 2022,Autonómico,,Porcentaje,16.5
-2008,Nacional,Ingresos con alquiler imputado,Porcentaje,4.5
-2012,Nacional,Ingresos con alquiler imputado,Porcentaje,7.1
-2016,Nacional,Ingresos con alquiler imputado,Porcentaje,7.7
-2020,Nacional,Ingresos con alquiler imputado,Porcentaje,8.6
+2008,Nacional,IMP_RENT,Porcentaje,4.5
+2012,Nacional,IMP_RENT,Porcentaje,7.1
+2016,Nacional,IMP_RENT,Porcentaje,7.7
+2020,Nacional,IMP_RENT,Porcentaje,8.6
 2008,Nacional,,Porcentaje,8.8
 2012,Nacional,,Porcentaje,8.8
 2014,Nacional,,Porcentaje,10.3

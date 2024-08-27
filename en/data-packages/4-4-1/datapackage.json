@@ -13,45 +13,45 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Habilidad_IT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Copy or move files or folders",
-                "Create presentations or documents that integrate text, images, tables or graphs",
-                "Use spreadsheets",
-                "Program in a programming language",
-                "Transfer files between the computer and other devices (digital cameras, mobile phones, mp3 or mp4)",
-                "Download or install software or apps",
-                "Change the settings of any software, including the operating system and security programs",
-                "Any information and communication technology (ICT) skill",
+                "Copiar o mover ficheros o carpetas",
+                "Crear presentaciones o documentos que integren texto, imágenes, tablas o gráficos",
+                "Usar hojas de cálculo",
+                "Programar en un lenguaje de programación",
+                "Transferir ficheros entre el ordenador y otros dispositivos (cámaras digitales, teléfonos móviles, mp3 o mp4)",
+                "Instalar software o aplicaciones(apps)",
+                "Cambiar la configuración de cualquier software, incluídos el sistema operativo y los programas de seguridad",
+                "Alguna habilidad informática",
                 ""
               ]
             },
-            "title": "ICT skills"
+            "title": "Habilidad informática"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Hombre",
+                "Mujer",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Sexo"
           },
           {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to 24",
-                "25 to 74",
+                "16-24 años",
+                "27-74 años",
                 ""
               ]
             },
@@ -68,23 +68,23 @@
                 ""
               ]
             },
-            "title": "Province"
+            "title": "Territorio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }
