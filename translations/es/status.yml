@@ -1,8 +1,9 @@
 exploring_data_sources: Explorando fuentes de datos
 overall_reporting_status: Estado general de informes
 reported_online: Disponible
-reporting_status: Informes
+reporting_status: Informe de seguimiento
 statistics_in_progress: Explorando fuentes
+no_data_available: Datos no disponibles
 not_applicable: No aplicable
 status_by_goal: Estados por objetivos
 status_by_field: Estado por %field
@@ -23,3 +24,9 @@ progress_approaching_target: Moderado
 progress_target_achieved: Objetivo cumplido
 no_data_available: Datos no disponibles
 progress_help: ¿Cómo vamos con respecto al objetivo del 2030?
+alcanzado: Meta alcanzada o en vías de alcanzarla
+en_progreso: Progreso razonable, pero es necesario acelerarlo
+retroceso: Estancamiento o retroceso
+no_evaluado: No evaluado
+
+    
