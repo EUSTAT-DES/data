@@ -1,19 +1,19 @@
 Indicator,Reporting status,Progress status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
 #1-1-1,notstarted,,International Labour Organization (ILO),,,,,line
-#1-2-1,en_progreso,en_progreso,World Bank,,,,,line
-#1-2-2,en_progreso,en_progreso,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",,,,,line
-#1-3-1,no_evaluado,no_evaluado,International Labour Organization (ILO),,,,,line
-#1-3-E1,no_evaluado,no_evaluado,,,,,,line
-#1-3-E2,no_evaluado,no_evaluado,,,,,,line
+#1-2-1,retroceso,retroceso,World Bank,,,,,line
+#1-2-2,retroceso,retroceso,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",,,,,line
+#1-3-1,alcanzado,alcanzado,International Labour Organization (ILO),,,,,line
+#1-3-E1,alcanzado,alcanzado,,,,,,line
+#1-3-E2,alcanzado,alcanzado,,,,,,line
 #1-4-1,alcanzado,alcanzado,"United Nations Human Settlements Programme (UN-Habitat)
 WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (1.4.1a, b and c)",,,,,line
 #1-4-2,notstarted,,UN-Habitat and World Bank,,,,,line
 #1-5-1,alcanzado,alcanzado,United Nations Office for Disaster Reduction (UNISDR),,True,,,line
-#1-5-2,no_evaluado,no_evaluado,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#1-5-2,retroceso,retroceso,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #1-5-3,notstarted,,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #1-5-4,notstarted,,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #1-a-1,notstarted,,OECD,,,,,line
-#1-a-2,no_evaluado,no_evaluado,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
+#1-a-2,retroceso,retroceso,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
 #1-b-1,notstarted,,"UNICEF, Save the Children",,,,,line
 #10-1-1,notstarted,,World Bank (WB),,,,,line
 #10-2-1,notstarted,,World Bank (WB),,,,,line
@@ -168,17 +168,17 @@ United Nations Development Programme (UNDP)",,,,,line
 #2-2-1,notstarted,,"United Nations Children&apos;s Fund (UNICEF)
 World Health Organization (WHO)
 World Bank (WB)",,,,,line
-#2-2-2,complete,,"United Nations Children&apos;s Fund (UNICEF)
+#2-2-2,alcanzado,alcanzado,"United Nations Children&apos;s Fund (UNICEF)
 World Health Organization (WHO)
 World Bank (WB)",,,,,line
 #2-2-3,notstarted,,World Health Organization (WHO),,,,,line
 #2-3-1,notstarted,,Food and Agriculture Organization (FAO),,,,,line
 #2-3-2,notstarted,,Food and Agriculture Organization (FAO),,,,,line
-#2-4-1,complete,,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#2-4-E1,complete,,,,,,,line
+#2-4-1,alcanzado,alcanzado,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#2-4-E1,alcanzado,alcanzado,,,,,,line
 #2-5-1,notstarted,,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #2-5-2,notstarted,,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#2-a-1,complete,,Food and Agriculture Organization of the United Nations (FAO),,True,,,line
+#2-a-1,alcanzado,alcanzado,Food and Agriculture Organization of the United Nations (FAO),,True,,,line
 #2-a-2,notstarted,,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #2-b-1,notstarted,,The World Trade Organization (WTO),,,,,line
 #2-c-1,notstarted,,Food and Agriculture Organization of the United Nations (FAO),,,,,line
@@ -219,7 +219,7 @@ United Nations Population Fund (UNFPA)",,,,,line
 #4-2-1,notstarted,,United Nations Children&apos;s Fund (UNICEF),,,,,line
 #4-2-2,notstarted,,UNESCO Institute for Statistics (UIS),,,,,line
 #4-3-1,notstarted,,UNESCO Institute for Statistics (UIS),,,,,line
-#4-4-1,complete,approaching_target,International Telecommunication Union (ITU),,,,,line
+#4-4-1,alcanzado,alcanzado,International Telecommunication Union (ITU),,,,,line
 #4-5-1,notstarted,,UNESCO Institute for Statistics (UIS),,,,,line
 #4-6-1,notstarted,,UNESCO Institute for Statistics (UIS),,,,,line
 #4-7-1,notstarted,,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
