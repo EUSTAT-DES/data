@@ -25,11 +25,7 @@ observaciones: >-
   se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
   primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
   más años y un peso de 0,3 a las personas de menos de 14 años.
-texto_oceca: >-
-  <img src="/site/assets/img/oceca/ocecas_image.png" style="width: 200px; float:
-  left; margin-right: 10px;" alt="Logotipo OCECAS"> Indicador calculado
-  utilizando una metodología armonizada entre los órganos centrales de
-  estadística de las comunidades autónomas.
+texto_oceca: FUENTE.oceca
 descripcion_global: >-
   El porcentaje de personas que viven en hogares considerados en riesgo de
   pobreza en el contexto nacional.
