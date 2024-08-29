@@ -12,8 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de finalización (educación secundaria inferior y educación secundaria superior)",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Educacion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Secundaria inferior",
+                "Secundaria superior",
+                ""
+              ]
+            },
+            "title": "Nivel educativo"
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-20 años",
+                "20-22 años",
+                ""
+              ]
+            },
+            "title": "Edad"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

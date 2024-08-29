@@ -12,7 +12,66 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_DTH_NCOM",
+                "EU_SH_DTH_NCOM",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NCD",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NCOM",
+                "CARDIO",
+                "CNCR",
+                "DIABTS",
+                "CRESPD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES211",
+                "ES213",
+                "ES212",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                "PER_100000_POP",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

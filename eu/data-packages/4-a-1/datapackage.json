@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "ServBasico",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Electricidad",
+                "Ordenadores con fines pedagógicos ",
+                "Agua potable",
+                "Baños separados por sexo",
+                "Instalaciones básicas para el lavado de manos",
+                ""
+              ]
+            },
+            "title": "Servicios básicos"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

@@ -1,1 +1,7 @@
-Year,Value
+Year,Tipo de competencia,Sexo,Edad,Units,Value
+2012,SKILL_NMRCY,,16-65 años,Porcentaje,70.0
+2012,SKILL_LTRCY,,16-65 años,Porcentaje,68.9
+2012,SKILL_NMRCY,Mujer,16-65 años,Porcentaje,72.2
+2012,SKILL_LTRCY,Mujer,16-65 años,Porcentaje,68.6
+2012,SKILL_NMRCY,Hombre,16-65 años,Porcentaje,67.9
+2012,SKILL_LTRCY,Hombre,16-65 años,Porcentaje,69.2

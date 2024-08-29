@@ -16,13 +16,25 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Emisiones de amoníaco de la agricultura y ganadería por hectárea",
+                "Emisiones de amoníaco de la agricultura y ganadería",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
             "name": "Actividad",
             "type": "string",
             "constraints": {
               "enum": [
                 "Agricultura y ganadería",
-                "Ganadería",
                 "Agricultura",
+                "Ganadería",
                 ""
               ]
             },

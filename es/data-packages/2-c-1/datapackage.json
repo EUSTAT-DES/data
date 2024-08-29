@@ -12,8 +12,57 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de variación interanual del índice de precios de los alimentos",
+                "Índice de precios de los alimentos (2021=100)",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Producto",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alimentos",
+                "Pan y cereales",
+                ""
+              ]
+            },
+            "title": "Producto"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                "Índice",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

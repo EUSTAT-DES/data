@@ -15,13 +15,24 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU_sdg_02_60_KG_PER_HA",
+                "EU_sdg_02_60_KT",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Actividad",
             "type": "string",
             "constraints": {
               "enum": [
                 "NFR_3",
-                "NFR_3B",
                 "NFR_3DF",
+                "NFR_3B",
                 ""
               ]
             }

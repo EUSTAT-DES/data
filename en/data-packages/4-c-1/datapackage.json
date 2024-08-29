@@ -12,12 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de docentes con las calificaciones mínimas requeridas, desglosada por nivel educativo",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Educacion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Preescolar",
+                "Primaria",
+                "Secundaria inferior",
+                "Secundaria superior",
+                ""
+              ]
+            },
+            "title": "Nivel educativo"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Valor"
           }
         ]

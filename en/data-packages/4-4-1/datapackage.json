@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Alguna habilidad informática",
                 "Copiar o mover ficheros o carpetas",
                 "Crear presentaciones o documentos que integren texto, imágenes, tablas o gráficos",
                 "Usar hojas de cálculo",
@@ -27,7 +28,6 @@
                 "Transferir ficheros entre el ordenador y otros dispositivos (cámaras digitales, teléfonos móviles, mp3 o mp4)",
                 "Instalar software o aplicaciones(apps)",
                 "Cambiar la configuración de cualquier software, incluídos el sistema operativo y los programas de seguridad",
-                "Alguna habilidad informática",
                 ""
               ]
             },
@@ -38,8 +38,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Hombre",
                 "Mujer",
+                "Hombre",
                 ""
               ]
             },
@@ -63,8 +63,8 @@
             "constraints": {
               "enum": [
                 "Araba/Álava",
-                "Gipuzkoa",
                 "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

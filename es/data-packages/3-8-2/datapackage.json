@@ -12,8 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Gasto",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Superiores al 10% ",
+                "Superiores al 25% ",
+                ""
+              ]
+            },
+            "title": "Gasto"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

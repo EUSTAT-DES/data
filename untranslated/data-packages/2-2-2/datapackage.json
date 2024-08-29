@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y2T17",
                 "Y_GE18",
+                "Y2T17",
                 ""
               ]
             }
@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
                 "F",
+                "M",
                 ""
               ]
             }

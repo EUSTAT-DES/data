@@ -12,7 +12,49 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Educacion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISCED11_2",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Competencia",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SKILL_READ",
+                "SKILL_MATH",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

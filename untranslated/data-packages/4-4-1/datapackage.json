@@ -19,6 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "ICT",
                 "ICTCPT",
                 "ICTPST",
                 "ICTSSHT",
@@ -26,7 +27,6 @@
                 "ICTTRFF",
                 "ICTSFWR",
                 "ICTPRVCY",
-                "ICT",
                 ""
               ]
             }
@@ -36,8 +36,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
                 "F",
+                "M",
                 ""
               ]
             }
@@ -59,8 +59,8 @@
             "constraints": {
               "enum": [
                 "ES211",
-                "ES212",
                 "ES213",
+                "ES212",
                 ""
               ]
             }

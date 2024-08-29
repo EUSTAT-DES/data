@@ -12,8 +12,69 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Densidad y distribución del personal sanitario",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Profesion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Médico",
+                "Profesionales en enfermería y partería ",
+                "Dentista",
+                "Farmaceútico",
+                ""
+              ]
+            },
+            "title": "Profesión"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mujer",
+                "Hombre",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Por 10.000 habitantes",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

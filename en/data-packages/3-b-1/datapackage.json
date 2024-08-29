@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Vacuna",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Difteria, tétanos y tosferina en la población infantil ",
+                "Neumococo en la población infantil ",
+                "Sarampión, rubeola y parotiditis en la población infantil",
+                "Papiloma humano (VPH) en las adolescentes ",
+                ""
+              ]
+            },
+            "title": "Tipo de vacuna"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

@@ -12,8 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Educacion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Secundaria inferior",
+                ""
+              ]
+            },
+            "title": "Nivel educativo"
+          },
+          {
+            "name": "Competencia",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Comprensión lectora",
+                "Matemáticas",
+                ""
+              ]
+            },
+            "title": "Tipo de competencia"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mujer",
+                "Hombre",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

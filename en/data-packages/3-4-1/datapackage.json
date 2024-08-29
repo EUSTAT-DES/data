@@ -12,8 +12,72 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de mortalidad prematura (entre 30 y 70 años)",
+                "Tasa de mortalidad",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "NCD",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",
+                "Enfermedades cardiovasculares",
+                "Cáncer",
+                "Diabetes",
+                "Enfermedades respiratorias crónicas",
+                ""
+              ]
+            },
+            "title": "Enfermedad no transmisible"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mujer",
+                "Hombre",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                "Por 100.000 habitantes",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

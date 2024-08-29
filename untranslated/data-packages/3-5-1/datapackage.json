@@ -12,7 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Adiccion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DRUG_TOTAL",
+                "ALCOHOL",
+                "ILDRUGS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_100000",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
