@@ -19,8 +19,10 @@ epds_url: https://www.euskadi.eus/encuesta-de-pobreza-y-desigualdades-sociales-e
 gv_logo: 'https://www.eustat.eus/cwImages/2015/euskadieus.png'
 
 # OCECA
-oceca: <img src="/site/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS"> Indicador calculado utilizando una metodología armonizada entre los órganos centrales deestadística de las comunidades autónomas
-
+oceca: >-
+  <img src="/site/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS">
+  Indicador calculado utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas.
+  
 # FRECUENCIA
 
 FREQ_A: Anual
