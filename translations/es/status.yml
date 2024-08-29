@@ -1,11 +1,11 @@
 exploring_data_sources: Explorando fuentes de datos
-overall_reporting_status: Estado general de informes
+overall_reporting_status: Estado del progreso
 reported_online: Disponible
 reporting_status: Informe de seguimiento
 statistics_in_progress: Explorando fuentes
 no_data_available: Datos no disponibles
 not_applicable: No aplicable
-status_by_goal: Estados por objetivos
+status_by_goal: Progreso por objetivo
 status_by_field: Estado por %field
 disaggregation_status: 'Estado de desagregación'
 disaggregation_status_overall: 'Estado general de desagregación'
@@ -16,8 +16,8 @@ disaggregation_status_notapplicable: 'Fuera de alcance'
 disaggregation_status_by_field: 'Desagregación por %field'
 not_specified: No se especifica
 reported: Informado
-description: El estado de los informes proporciona una descripción general de la cantidad de datos de los Objetivos de Desarrollo Sostenible (ODS) que %country.name informa.
-progress_status: <b>Progreso</b>
+description: El informe de seguimiento proporciona una descripción general del progreso en la consecución de los Objetivos de Desarrollo Sostenible (ODS) de la C.A. de Euskadi.
+progress_status: <b>Seguimiento</b>
 progress_not_available: No hay datos
 progress_challenges_remain: Insuficiente
 progress_approaching_target: Moderado
