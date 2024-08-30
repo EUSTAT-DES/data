@@ -11,9 +11,11 @@ oceca: OCECA indicator
 texto_oceca: OCECA
 descripcion_global: Description
 justificacion_global: Rationale
-indicator_meta_link: Link to UN metadata   
-dato_global: International data
-comparabilidad: Note on comparability
+indicador_meta_enlace: Link to UN metadata   
+dato_global: International results
+comparabilidad: Comparability between the available indicator and the UN indicator
+informacion_interes: Other information of interest
+
 
  # A partir de aquí, metadatos open SDG
 

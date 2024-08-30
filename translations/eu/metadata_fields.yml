@@ -11,9 +11,10 @@ oceca: OCECA adierazlea
 texto_oceca: OCECA
 descripcion_global: Deskribapena
 justificacion_global: Justifikazioa
-indicator_meta_link: NBEko metadatuetarako esteka   
-dato_global: Nazioarteko datuak
-comparabilidad: Alderagarritasunari buruzko oharra
+indicador_meta_enlace: NBEko metadatuetarako esteka   
+dato_global: Nazioarteko emaitzak
+comparabilidad: Eskuragarri dagoen adierazlearen eta NBE adierazlearen arteko alderagarritasuna
+informacion_interes: Informazio gehigarria
 
  # A partir de aquí, metadatos open SDG
 
