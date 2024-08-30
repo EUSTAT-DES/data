@@ -1,5 +1,5 @@
 From,To
-Actividad,Empleo
-Actividad,Sexo
-Actividad,Territorio
-Actividad,COMMENT_OBS
+ServEsencial,Administracion
+Administracion,Territorio
+Administracion,Comarca
+Administracion,Municipio
