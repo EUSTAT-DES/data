@@ -1,0 +1,36 @@
+indicador_onu_global: global_indicators.1-2-2-title
+meta_global: global_targets.1-2-title
+objetivo_global: global_goals.1-title
+definicion: >-
+  Proporción de personas con ingresos por unidad de consumo por debajo del 60%
+  de la mediana autonómica  de los ingresos por unidad de consumo
+  (escala OCDE modificada).
+formula: |
+  <p>$$PPRPR_{CCAA}^{t} = \frac{PRPR_{CCAA}^{t}}{P^{t}} \cdot 100$$ </p>
+  <p>donde: </p>
+  <p>$PRPR_{CCAA}^{t} =$ población en riesgo de pobreza relativa considerando el umbral autonómico de pobreza (60% de la mediana autonómica de los ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$ </p>
+  <p>$P^{t} =$ población total en el año $t$</p>
+periodicidad: FUENTE.FREQ_B
+observaciones: >-
+  Los ingresos que se utilizan en el cálculo de este indicador corresponden al
+  año anterior al de la encuesta. El número de unidades de consumo de un hogar
+  se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
+  primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
+  más años y un peso de 0,3 a las personas de menos de 14 años.
+texto_oceca: FUENTE.oceca
+descripcion_global: >-
+  El porcentaje de personas que viven en hogares considerados en riesgo de
+  pobreza en el contexto nacional.
+justificacion_global: >-
+  Hacer el seguimiento de la pobreza nacional es importante para las agendas de
+  desarrollo específicas de cada país. Las líneas de pobreza nacionales se
+  utilizan para hacer estimaciones más precisas de la pobreza consistentes con
+  las circunstancias económicas y sociales específicas del país, y no están
+  destinadas a comparaciones internacionales de tasas de pobreza
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadatos del indicador 1-2-1 PDF</a>
+dato_global: >-
+  Eurostat <a href="https://ec.europa.eu/eurostat/databrowser/bookmark/7d6a8537-b602-4526-aff8-4fcbd2b48dee?lang=en">(ilc_li02)</a><br>
+  UNSTAT<a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.1.1&seriesCode=SI_POV_DAY1&areaCode=1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=4&table=ALLAGE%20%7C%20ALLAREA%20%7C%20BOTHSEX">(1.2.1)</a>
+national_data_updated_date: ''
+national_metadata_updated_date: ''
