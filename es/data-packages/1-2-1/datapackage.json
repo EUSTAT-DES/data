@@ -16,6 +16,18 @@
             "title": "Año"
           },
           {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mujer",
+                "Hombre",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
