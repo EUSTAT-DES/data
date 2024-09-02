@@ -1,0 +1,27 @@
+
+  # Metadatos mundiales (Descripción del indicador)  
+
+descripcion_global: >-
+  Porcentaje de la población que vive con menos de 2,15 dólares al día 
+  a precios internacionales de 2017.
+justificacion_global: >-
+  <p>Las líneas de pobreza entre países varían en términos de su poder adquisitivo 
+  y tienen un fuerte gradiente económico, de modo que los países más ricos tienden 
+  a adoptar estándares de vida más altos al definir la pobreza. </p>
+
+  <p>En cambio, las líneas de pobreza internacionales intentan 
+  mantener constante el valor real de la línea de pobreza en todos los países 
+  y a lo largo del tiempo. Para el Informe sobre el desarrollo mundial de 1990 
+  se eligió el estándar comúnmente utilizado de 1 dólar por día, medido en 
+  precios internacionales de 1985 y ajustado a la moneda local utilizando 
+  tipos de cambio de paridad del poder adquisitivo (PPA), porque era 
+  típico de las líneas de pobreza en los países de bajos ingresos en ese momento.</p>
+ 
+  <p>A medida que evolucionan las diferencias en el coste de vida en todo el mundo,
+  la línea internacional de pobreza debe actualizarse periódicamente
+  utilizando nuevos datos de precios PPA para reflejar estos cambios. 
+  El último cambio se produjo en septiembre de 2022, cuando el Banco Mundial 
+  adoptó 2,15 dólares como umbral de pobreza internacional utilizando la PPA de 2017.</p>
+
+dato_global: >- 
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.1.1&seriesCode=SI_POV_DAY1&areaCode=1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAGE%20%7C%20ALLAREA%20%7C%20BOTHSEX">Proporción de población por debajo del umbral internacional de pobreza (%) SI_POV_DAY1</a>, UNSTATS
