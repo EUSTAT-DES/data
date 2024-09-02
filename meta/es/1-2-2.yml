@@ -1,10 +1,8 @@
-indicador_disponible: >-
-  Proporción de personas en riesgo de pobreza o exclusión social (Tasa AROPE)
+indicador_disponible: "Proporción de personas en riesgo de pobreza o exclusión social (Tasa AROPE)"
 
-definicion: >-
-  Proporción de personas que están en al menos uno de los tres criterios del riesgo de pobreza  
+definicion: "Proporción de personas que están en al menos uno de los tres criterios del riesgo de pobreza  
   o exclusión social (en riesgo de pobreza relativa, en situación de carencia material y social 
-  severa o viviendo en hogares con baja intensidad de trabajo)
+  severa o viviendo en hogares con baja intensidad de trabajo)"
 
 formula: |
   <p>$$AROPE_{CAE}^{t} = \frac{PRPES_{CAE}^{t}}{P^{t}} \cdot 100$$</p>
@@ -15,7 +13,7 @@ formula: |
 desagregacion: >-
   Datos desagregados por sexo
 
-observaciones: >-
+observaciones: |
   El indicador mide la pobreza según los tres aspectos siguientes:<br>
   <p><b>Personas en riesgo de pobreza relativa:</b> personas con ingresos por unidad de consumo por
   debajo del 60% de la mediana nacional (escala OCDE modificada).
@@ -55,7 +53,7 @@ observaciones: >-
 
   <p>Los datos a partir del 2022 del Indicador de pobreza y exclusion AROPE se calculan con la nueva 
   definicion de la tasa (metodología Eurostat del año 2021), mientras que los datos anteriores corresponden 
-  a la definición antigua.</p>"
+  a la definición antigua.</p>
 
 descripcion_global: >-
 
