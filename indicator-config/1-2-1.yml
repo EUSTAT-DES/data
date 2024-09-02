@@ -17,11 +17,6 @@ expected_disaggregations: []
 footer_fields: []
 graph_annotations: []
 graph_limits: []
-graph_series_breaks:
-  - series: ''
-    unit: ''
-    label_content: indicator.annotation_series_break
-    value: 5.5
 graph_stacked_disaggregation: ''
 graph_target_lines:
   - series: ''

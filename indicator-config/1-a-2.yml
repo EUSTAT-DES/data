@@ -18,16 +18,27 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.1-a-2-title
-graph_titles: []
 graph_type: line
 indicator_name: global_indicators.1-a-2-title
 indicator_number: '1.a.2'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.1-a-2-contenido
 permalink: ''
+placeholder: ''
 precision: []
-progress_status: retroceso
-reporting_status: retroceso
+proxy: ''
+proxy_series: []
+publications: []
+related_indicators: []
+progress_status: alcanzado
+reporting_status: alcanzado
 sort: ''
+sources:
+  - organisation: FUENTE.gv_bienestar
+    periodicity: FUENTE.FREQ_B
+    url: FUENTE.epds_url
+    url_text: FUENTE.epds
+    logo: FUENTE.gv_logo
 standalone: false
 tags: []
+x_axis_label: ''
