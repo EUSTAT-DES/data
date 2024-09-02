@@ -9,6 +9,9 @@ formula: |
   <p>donde: </p>
   <p>$PRPR_{CAE}^{t} =$ población en riesgo de pobreza relativa considerando el umbral autonómico de pobreza (60% de la mediana autonómica de los ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$ </p>
   <p>$P^{t} =$ población total en el año $t$</p>
+desagregacion: >-
+  Datos desagregados por sexo, correspondientes a la proporción de hombres y mujeres con ingresos inferiores al 60%
+  de la mediana autonómica, situada en el año 2022 en 12.983 € anuales.
 observaciones: >-
   Los ingresos que se utilizan en el cálculo de este indicador corresponden al
   año anterior al de la encuesta. El número de unidades de consumo de un hogar
