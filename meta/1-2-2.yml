@@ -7,7 +7,7 @@ indicador_onu_global: indicador_largo.1-2-2-titulo
 
 definicion: xxx 
 formula: xxx
-desagregaciones: xxx
+desagregacion: xxx
 periodicidad: FUENTE.FREQ_B
 observaciones: xxx
 texto_oceca: FUENTE.oceca
