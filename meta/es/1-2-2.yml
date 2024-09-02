@@ -1,8 +1,10 @@
-indicador_disponible: "Proporción de personas en riesgo de pobreza o exclusión social (Tasa AROPE)"
+indicador_disponible: >-
+  Proporción de personas en riesgo de pobreza o exclusión social (Tasa AROPE)
 
-definicion: "Proporción de personas que están en al menos uno de los tres criterios del riesgo de pobreza  
+definicion: >-
+  Proporción de personas que están en al menos uno de los tres criterios del riesgo de pobreza  
   o exclusión social (en riesgo de pobreza relativa, en situación de carencia material y social 
-  severa o viviendo en hogares con baja intensidad de trabajo)"
+  severa o viviendo en hogares con baja intensidad de trabajo)
 
 formula: |
   <p>$$AROPE_{CAE}^{t} = \frac{PRPES_{CAE}^{t}}{P^{t}} \cdot 100$$</p>
@@ -13,7 +15,7 @@ formula: |
 desagregacion: >-
   Datos desagregados por sexo
 
-observaciones: |
+observaciones: >-
   El indicador mide la pobreza según los tres aspectos siguientes:<br>
   <p><b>Personas en riesgo de pobreza relativa:</b> personas con ingresos por unidad de consumo por
   debajo del 60% de la mediana nacional (escala OCDE modificada).
@@ -33,7 +35,7 @@ observaciones: |
   compras a plazos en los últimos 12 meses.<br>
    6. No puede permitirse disponer de un automóvil.<br>
    7. No puede sustituir muebles estropeados o viejos.<br>
- <p> A nivel de persona:<br>
+  <p> A nivel de persona:<br>
    8. No puede permitirse sustituir ropa estropeada por otra nueva.<br>
    9. No puede permitirse tener dos pares de zapatos en buenas condiciones.<br>
    10. No puede permitirse reunirse con amigos/familia para comer o tomar algo al menos una vez al mes.<br>
@@ -65,7 +67,7 @@ descripcion_global: >-
   suficiente para captar la verdadera realidad de la pobreza.</p>
 
 
-<p>Según la metodología Eurostat, en riesgo de pobreza o exclusión social, abreviado como AROPE, 
+  <p>Según la metodología Eurostat, en riesgo de pobreza o exclusión social, abreviado como AROPE, 
   corresponde a la suma de personas que están en riesgo de pobreza, o gravemente desfavorecidas 
   material y socialmente o que viven en un hogar con una intensidad laboral muy baja. 
   Las personas se incluyen sólo una vez incluso si se encuentran en más de una de las 
@@ -83,4 +85,4 @@ dato_global: >-
   Personas en riesgo de pobreza o exclusión social por edad y sexo (ilc_peps01n)</a>, Eurostat
 
 comparabilidad: >-
-    La serie temporal cumple con los metadatos del indicador de Naciones Unidas.
+  La serie temporal cumple con los metadatos del indicador de Naciones Unidas.
