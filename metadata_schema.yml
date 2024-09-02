@@ -45,7 +45,7 @@ prose:
         field:
           element: text
           label: "Desagregaciones disponibles"
-          translation_key: metadata_fields.desagregaciones
+          translation_key: metadata_fields.desagregacion
           scope: national
       - name: "periodicidad"
         field:
