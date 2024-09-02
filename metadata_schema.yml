@@ -41,7 +41,7 @@ prose:
           label: "Fórmula matemática"
           translation_key: metadata_fields.formula
           scope: national
-      - name: "desagregaciones"
+      - name: "desagregacion"
         field:
           element: text
           label: "Desagregaciones disponibles"
