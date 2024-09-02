@@ -5,7 +5,7 @@ definicion: >-
   Proporción de personas con ingresos por unidad de consumo por debajo del 
   60% de la mediana de la C.A. de Euskadi (escala OCDE modificada)
 
-formula: 
+formula: |
   <p>$$PPRPR_{CAE}^{t} = \frac{PRPR_{CAE}^{t}}{P^{t}} \cdot 100$$ </p>
   <p>donde: </p>
   <p>$PRPR_{CAE}^{t} =$ población en riesgo de pobreza relativa considerando el umbral de pobreza de la CAE (60% de la mediana de los ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$ </p>
