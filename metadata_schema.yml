@@ -5,11 +5,11 @@ prose:
     meta:
 
       ######### Indicador EUSTAT #########
-      - name: "nombre"
+      - name: "indicador_disponible"
         field:
           element: text
-          label: "Nombre"
-          translation_key: metadata_fields.nombre
+          label: "Indicador disponible en la C.A.E"
+          translation_key: metadata_fields.indicador_disponible
           scope: national
       - name: "indicador_onu_global"
         field:
@@ -38,13 +38,19 @@ prose:
       - name: "formula"
         field:
           element: text
-          label: "Fórmula"
+          label: "Fórmula matemática"
           translation_key: metadata_fields.formula
+          scope: national
+      - name: "desagregaciones"
+        field:
+          element: text
+          label: "Desagregaciones disponibles"
+          translation_key: metadata_fields.desagregaciones
           scope: national
       - name: "periodicidad"
         field:
           element: text
-          label: "Periodicidad"
+          label: "Periodicidad de publicación del indicador"
           translation_key: metadata_fields.periodicidad
           scope: national
       - name: "observaciones"
