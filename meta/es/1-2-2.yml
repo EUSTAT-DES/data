@@ -8,7 +8,7 @@ definicion: >-
 
 formula: |
   <p>$$AROPE_{CAE}^{t} = \frac{PRPES_{CAE}^{t}}{P^{t}} \cdot 100$$</p>
-  <p>donde: </p>
+  donde:
   <p>$PRPES_{CAE}^{t} =$ población en riesgo de pobreza o exclusión social el año $t$</p>
   <p>$P^{t} =$ población total en el año $t$</p>
 
