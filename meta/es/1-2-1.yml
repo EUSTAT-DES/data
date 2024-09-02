@@ -1,35 +1,54 @@
 indicador_disponible: >-
-  Proporción de personas en riesgo de pobreza relativa, considerando el umbral autonómico de pobreza.
+  Proporción de la población que vive por debajo del umbral de pobreza
+
 definicion: >-
-  Proporción de personas con ingresos por unidad de consumo por debajo del 60%
-  de la mediana autonómica de los ingresos por unidad de consumo
-  (escala OCDE modificada).
+  Proporción de personas con ingresos por unidad de consumo por debajo del 
+  60% de la mediana de la C.A. de Euskadi (escala OCDE modificada)
+
 formula: |
   <p>$$PPRPR_{CAE}^{t} = \frac{PRPR_{CAE}^{t}}{P^{t}} \cdot 100$$ </p>
   <p>donde: </p>
-  <p>$PRPR_{CAE}^{t} =$ población en riesgo de pobreza relativa considerando el umbral autonómico de pobreza (60% de la mediana autonómica de los ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$ </p>
+  <p>$PRPR_{CAE}^{t} =$ población en riesgo de pobreza relativa considerando el umbral de pobreza de la CAE (60% de la mediana de los ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$ </p>
   <p>$P^{t} =$ población total en el año $t$</p>
+
 desagregacion: >-
   Datos desagregados por sexo, correspondientes a la proporción de hombres y mujeres con ingresos inferiores al 60%
-  de la mediana autonómica, situada en el año 2022 en 12.983 € anuales.
+  de la mediana de la C.A. de Euskadi, situada en el año 2022 en 12.983 € anuales.
+
 observaciones: >-
-  Los ingresos que se utilizan en el cálculo de este indicador corresponden al
-  año anterior al de la encuesta. El número de unidades de consumo de un hogar
+  <p>Los ingresos que se utilizan en el cálculo de este indicador corresponden al
+  año anterior al de la encuesta. </p>
+  <p>El número de unidades de consumo de un hogar
   se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
   primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
-  más años y un peso de 0,3 a las personas de menos de 14 años.
+  más años y un peso de 0,3 a las personas de menos de 14 años.</p>
+
 descripcion_global: >-
-  Según la definición de Eurostat, la tasa de riesgo de pobreza es la proporción de personas con una renta disponible equivalente 
-  (después de transferencias sociales) inferior al umbral de riesgo de pobreza, que está fijada por convención en la UE en el 
-  60 % de la mediana nacional de la renta disponible equivalente después de transferencias sociales.
-  Este indicador no mide ni la riqueza ni la pobreza, sino bajos ingresos en comparación con otros 
-  residentes del país, lo que no necesariamente implica un bajo nivel de vida.
+  <p>Según la definición de Eurostat, la tasa de riesgo de pobreza es la proporción de personas
+   con una renta disponible equivalente (después de transferencias sociales) inferior al 
+  umbral de riesgo de pobreza, que está fijada por convención en la UE en el 
+  60 % de la mediana nacional de la renta disponible equivalente después de transferencias 
+  sociales.</p>
+
+  <p>Este indicador no mide ni la riqueza ni la pobreza, sino bajos ingresos en comparación con otros 
+  residentes del país, lo que no necesariamente implica un bajo nivel de vida.</p>
+
 justificacion_global: >-
-  Hacer el seguimiento de la pobreza nacional es importante para las agendas de
+  <p>Hacer el seguimiento de la pobreza nacional es importante para las agendas de
   desarrollo específicas de cada país. Las líneas de pobreza nacionales se
   utilizan para hacer estimaciones más precisas de la pobreza consistentes con
   las circunstancias económicas y sociales específicas del país, y no están
-  destinadas a comparaciones internacionales de tasas de pobreza.
+  destinadas a comparaciones internacionales de tasas de pobreza.</p>
+
+  <p>El indicador de pobreza monetaria o riesgo de pobreza relativa (At-Risk-of-Poverty Rate)
+  es uno de los indicadores clave para hacer el seguimiento de la pobreza en la UE.</p>
+
+  <p>Para tener en cuenta el impacto de las diferencias en el tamaño y la composición del hogar,
+  el ingreso disponible de un hogar (ingreso total, después de impuestos y otras deducciones, que está 
+  disponible para gastar o ahorrar) se divide por el número de miembros del hogar convertidos en adultos 
+  equivalentes (unidades de consumo). En la UE se aplica un factor de equivalencia calculado según 
+  la escala modificada de la OCDE propuesta en 1994.</p>
+
 dato_global: >-
   <a href="https://ec.europa.eu/eurostat/databrowser/bookmark/7d6a8537-b602-4526-aff8-4fcbd2b48dee?lang=en">Tasa de riesgo de pobreza por umbral de pobreza, edad y sexo (ilc_li02)</a>, Eurostat
 comparabilidad: >-
