@@ -16,9 +16,9 @@ desagregacion: >-
   Datos desagregados por sexo
 
 observaciones: >-
-  El indicador mide la pobreza según los tres aspectos siguientes:<br>
+  El indicador mide la pobreza según los tres aspectos siguientes:
   <p><b>Personas en riesgo de pobreza relativa:</b> personas con ingresos por unidad de consumo por
-  debajo del 60% de la mediana nacional (escala OCDE modificada).
+  debajo del 60% de la mediana nacional (escala OCDE modificada).</p>
   <p>El número de unidades de consumo de un hogar se calcula utilizando la escala OCDE modificada, 
   que asigna un peso de 1 a la primera  persona de 14 o más años, un peso de 0,5 al resto de personas de 
   14 o más años y un peso de 0,3 a las personas de menos de 14 años.</p>
@@ -35,7 +35,7 @@ observaciones: >-
   compras a plazos en los últimos 12 meses.<br>
    6. No puede permitirse disponer de un automóvil.<br>
    7. No puede sustituir muebles estropeados o viejos.<br>
-  <p> A nivel de persona:<br>
+  <p> A nivel de persona:</p>
    8. No puede permitirse sustituir ropa estropeada por otra nueva.<br>
    9. No puede permitirse tener dos pares de zapatos en buenas condiciones.<br>
    10. No puede permitirse reunirse con amigos/familia para comer o tomar algo al menos una vez al mes.<br>
@@ -85,4 +85,4 @@ dato_global: >-
   Personas en riesgo de pobreza o exclusión social por edad y sexo (ilc_peps01n)</a>, Eurostat
 
 comparabilidad: >-
-  La serie temporal cumple con los metadatos del indicador de Naciones Unidas.
+  El indicador cumple con los metadatos del indicador de Naciones Unidas.

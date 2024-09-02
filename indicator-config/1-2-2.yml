@@ -17,17 +17,46 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
+graph_series_breaks:
+  - series: ''
+    unit: ''
+    label_content: indicator.annotation_series_break
+    value: 4.5
+graph_target_lines:
+  - series: ''
+    unit: ''
+    label_content: indicator.annotation_2030_target
+    value: 11.3
 graph_title: GRAFICO.1-2-2-titulo
 graph_titles: []
 graph_type: line
+indicator_available: ''
 indicator_name: global_indicators.1-2-2-title
-indicator_number: '1.2.2'
+indicator_number: 1.2.2
+indicator_tabs:
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.1-2-2-contenido
 permalink: ''
+placeholder: ''
 precision: []
-progress_status: retroceso
-reporting_status: retroceso
+proxy: ''
+proxy_series: []
+publications: []
+related_indicators: []
+progress_status: progreso
+reporting_status: progreso
 sort: ''
+sources:
+  - organisation: FUENTE.gv_bienestar
+    periodicity: FUENTE.FREQ_B
+    url: FUENTE.epds_url
+    url_text: FUENTE.epds
+    logo: FUENTE.gv_logo
 standalone: false
 tags: []
+x_axis_label: ''
