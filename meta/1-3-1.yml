@@ -1,13 +1,26 @@
-nombre: xx
-meta_global: xx
-objetivo_global: xx
-definicion: xx
-formula: xx
-periodicidad: xx
-observaciones: xx
-descripcion_global: xx
-justificacion_global: xx
-indicador_meta_enlace: xx
-dato_global: xx
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: xxx
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-3-titulo
+indicador_onu_global: indicador_largo.1-3-1-titulo
+
+definicion: xxx 
+formula: xxx
+desagregaciones: xxx
+periodicidad: FUENTE.FREQ_A
+observaciones: 
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+descripcion_global: xxx 
+justificacion_global: xxx 
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01a.pdf">Metadata 1-3-1 (1).pdf</a><br>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01b.pdf">Metadata 1-3-1 (2).pdf</a>
+dato_global: xxx 
+comparabilidad: 
+informacion_interes: 
+
 national_data_updated_date: '2024-07-29'
 national_metadata_updated_date: '2024-07-29'
