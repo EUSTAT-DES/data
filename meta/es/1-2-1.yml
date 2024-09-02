@@ -16,8 +16,6 @@ desagregacion: >-
   de la mediana de la C.A. de Euskadi, situada en el año 2022 en 12.983 € anuales.
 
 observaciones: >-
-  <p>Los ingresos que se utilizan en el cálculo de este indicador corresponden al
-  año anterior al de la encuesta. </p>
   <p>El número de unidades de consumo de un hogar
   se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
   primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
@@ -52,5 +50,5 @@ justificacion_global: >-
 dato_global: >-
   <a href="https://ec.europa.eu/eurostat/databrowser/bookmark/7d6a8537-b602-4526-aff8-4fcbd2b48dee?lang=en">Tasa de riesgo de pobreza por umbral de pobreza, edad y sexo (ilc_li02)</a>, Eurostat
 comparabilidad: >-
-    La serie temporal cumple con los metadatos del indicador de Naciones Unidas. Para el cálculo de la tasa de pobreza de la Comunidad Autónoma de Euskadi
+    El indicador cumple con los metadatos del indicador de Naciones Unidas. Para el cálculo de la tasa de pobreza de la Comunidad Autónoma de Euskadi
     se aplica el umbral de la pobreza del territorio de referencia.

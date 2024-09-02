@@ -1,0 +1,39 @@
+definicion: >-
+  Proporción del gasto de las administraciones públicas en la C.A. de Euskadi que se dedica a servicios
+  esenciales (educación, salud y protección social -  grupos funcionales 09, 07 y 10 de la Clasificación 
+  de Funciones del Gobierno (COFOG), utilizada a nivel 
+  internacional para clasificar los propósitos de las actividades gubernamentales)
+
+formula: |
+
+  <p>$$PG_{servicios}^{t} = \frac{G_{servicios}^{t}}{G^{t}} \cdot 100$$</p>
+  <p>donde: </p>
+  <p>$G_{servicios}^{t} =$ gasto de las administraciones públicas que se dedica a servicios esenciales, grupos funcionales 07, 09 y 10 de la 
+  Clasificación de Funciones del Gobierno (COFOG), en el año $t$ </p>
+  <p>$G^{t} =$ gasto total de las administraciones públicas en el año $t$</p>
+
+
+observaciones: >-
+  Se utiliza la Clasificación de Funciones del Gobierno (COFOG) en los
+  datos correspondientes a las administraciones públicas (total) y la 
+  administración autonómica. En el caso de las administraciones locales,
+  se utiliza la Clasificación por programas de gastos de los entes locales.
+
+descripcion_global: >-
+  El indicador mide el gasto total del gobierno en educación, 
+  salud y protección social expresado como porcentaje del gasto total del gobierno.
+
+justificacion_global: >-
+  <p>El indicador se utiliza para evaluar el gasto del gobierno en servicios esenciales 
+  (educación, salud y protección social) en relación con el monto del gasto gubernamental 
+  total. Dado que proviene de un marco internacional, el Manual de estadísticas de finanzas públicas 
+  (MEFP 2014), proporciona a los analistas un conjunto de datos comparable entre países y garantiza 
+  el establecimiento de conclusiones analíticas sólidas para respaldar el seguimiento de los ODS utilizando
+  datos fiscales.</p>
+
+
+comparabilidad: >-
+  El indicador disponible en la C.A de Euskadi utiliza la clasificación COFOG, 
+  que no cumple con los metadatos del indicador de Naciones Unidas. Si bien COFOG tal como se utiliza en el 
+  MEFP 2014 concuerda plenamente con la clasificación de la Organización para la Cooperación y el Desarrollo Económico
+  (OCDE), el concepto se aplica de manera ligeramente diferente en las estadísticas de finanzas gubernamentales (MEFP). 
