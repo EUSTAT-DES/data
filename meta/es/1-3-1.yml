@@ -6,7 +6,7 @@ definicion: >-
   de la mediana autonómica  de los ingresos por unidad de consumo
   (escala OCDE modificada).
 
-formula:
+formula: |
   <p><b>Proporción de la población que es perceptora de pensiones contributivas</b> </p>
   <p>$$PPPC^{t} = \frac{PPC^{t}}{P^{t}} \cdot 100$$ </p>
   <p>donde: </p>
@@ -25,9 +25,9 @@ observaciones: >-
 
 descripcion_global: >-
   El indicador refleja la proporción de personas efectivamente cubiertas por un sistema de protección social, 
-  incluidos los niveles mínimos de protección social. También refleja los principales componentes de la protección social: 
-  prestaciones infantiles y de maternidad, apoyo a las personas desempleadas, personas con discapacidad, víctimas 
-  de accidentes laborales y personas mayores. La cobertura efectiva de la protección social se mide por el número 
+  incluidos los niveles mínimos de protección social. También refleja los principales componentes de la protección social
+  (prestaciones infantiles y de maternidad, apoyo a las personas desempleadas, personas con discapacidad, víctimas 
+  de accidentes laborales y personas mayores). La cobertura efectiva de la protección social se mide por el número 
   de personas que contribuyen activamente a un plan de seguro social o reciben prestaciones (contributivas o no contributivas). 
 
 justificacion_global: >-
