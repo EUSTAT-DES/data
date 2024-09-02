@@ -1,19 +1,20 @@
  # Metadatos Eustat  
-nombre: Nombre del indicador disponible
+indicador_disponible: Indicador disponible
 objetivo_global: Objetivo
 meta_global: Meta
-indicador_onu_global: Indicador
-definicion: Definición
+indicador_onu_global: Indicador de Naciones Unidas
+definicion: Definición del indicador
 formula: Fórmula teórica
 periodicidad: Periodicidad
+desagregacion: Desagregaciones
 observaciones: Observaciones
 oceca: Indicador OCECA
 texto_oceca: OCECA
 descripcion_global: Descripción
 justificacion_global: Justificación
-indicador_meta_enlace: Enlace a los metadatos de la ONU   
+indicador_meta_enlace: Metadatos del indicador de Naciones Unidas   
 dato_global: Resultados internacionales
-comparabilidad: Comparabilidad entre el indicador disponible y el indicador ONU
+comparabilidad: Comparabilidad entre el indicador disponible y el indicador de Naciones Unidas
 informacion_interes: Información adicional
 
  # A partir de aquí, metadatos open SDG
