@@ -2,13 +2,13 @@
  
 indicador_disponible: xxx
 objetivo_global: objetivo_largo.1-titulo
-meta_global: meta_largo.1-2-titulo
-indicador_onu_global: indicador_largo.1-2-2-titulo
+meta_global: meta_largo.1-5-titulo
+#  indicador_onu_global: indicador_largo.1-5-1-titulo
 
 definicion: xxx 
 formula: xxx
 desagregacion: xxx
-periodicidad: FUENTE.FREQ_B
+periodicidad: FUENTE.FREQ_A
 observaciones: xxx
 texto_oceca: FUENTE.oceca
 
@@ -16,7 +16,7 @@ texto_oceca: FUENTE.oceca
 
 descripcion_global: xxx 
 justificacion_global: xxx
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-02.pdf">Metadata 1-2-2.pdf</a>'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-01.pdf">Metadata 1-5-1.pdf</a>'
 dato_global: xxx 
 comparabilidad: 
 informacion_interes: 
