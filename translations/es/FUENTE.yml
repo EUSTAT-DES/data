@@ -296,9 +296,9 @@ FREQ_A2: Bienal
 FREQ_A3: Trienal
 FREQ_A4: Cuatrienal
 FREQ_A5: Quinquenal
-FREQ_B:	'Diaria (semana laborable)'
+FREQ_B: "Diaria (semana laborable)"
 FREQ_D: Diaria
-FREQ_E: 'Eventos (periodos especiales)'
+FREQ_E: "Eventos (periodos especiales)"
 FREQ_H: Cada hora
 FREQ_M: Mensual
 FREQ_N: Cada minuto
@@ -306,7 +306,7 @@ FREQ_Q: Trimestral
 FREQ_S: Semestral
 FREQ_W: Semanal
 FREQ_W2: Quincenal
-FREQ_I: 'Irregular / Aperiódica'
+FREQ_I: "Irregular / Aperiódica"
 FREQ_P: Plurianual
 
 
