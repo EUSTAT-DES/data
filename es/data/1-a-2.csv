@@ -1,13 +1,13 @@
 Year,Servicios esenciales,Administración pública,Territorio,Comarca,Municipio,Units,GeoCode,Value
-2015,,Administraciones públicas,,,,Porcentaje,,70.3
-2019,,Administraciones públicas,,,,Porcentaje,,71.2
-2020,,Administraciones públicas,,,,Porcentaje,,72.0
-2014,,Administraciones públicas,,,,Porcentaje,,70.0
-2012,,Administraciones públicas,,,,Porcentaje,,69.3
-2021,,Administraciones públicas,,,,Porcentaje,,72.5
-2016,,Administraciones públicas,,,,Porcentaje,,70.5
-2017,,Administraciones públicas,,,,Porcentaje,,70.1
-2018,,Administraciones públicas,,,,Porcentaje,,71.0
+2015,,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,70.3
+2019,,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,71.2
+2020,,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,72.0
+2014,,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,70.0
+2012,,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,69.3
+2021,,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,72.5
+2016,,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,70.5
+2017,,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,70.1
+2018,,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,71.0
 2015,,Administración autonómica,,,,Porcentaje,,69.6
 2014,,Administración autonómica,,,,Porcentaje,,68.4
 2012,,Administración autonómica,,,,Porcentaje,,65.9
@@ -1392,16 +1392,16 @@ Year,Servicios esenciales,Administración pública,Territorio,Comarca,Municipio,
 2020,,Administración municipal,Gipuzkoa,,,Porcentaje,Gipuzkoa,16.7
 2021,,Administración municipal,Gipuzkoa,,,Porcentaje,Gipuzkoa,16.4
 2017,,Administración municipal,Gipuzkoa,,,Porcentaje,Gipuzkoa,16.8
-2022,Educación,Administraciones públicas,,,,Porcentaje,,10.6
-2015,Educación,Administraciones públicas,,,,Porcentaje,,11.0
-2018,Educación,Administraciones públicas,,,,Porcentaje,,10.8
-2016,Educación,Administraciones públicas,,,,Porcentaje,,11.0
-2012,Educación,Administraciones públicas,,,,Porcentaje,,11.1
-2021,Educación,Administraciones públicas,,,,Porcentaje,,10.5
-2020,Educación,Administraciones públicas,,,,Porcentaje,,10.2
-2019,Educación,Administraciones públicas,,,,Porcentaje,,10.7
-2017,Educación,Administraciones públicas,,,,Porcentaje,,10.9
-2014,Educación,Administraciones públicas,,,,Porcentaje,,10.9
+2022,Educación,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,10.6
+2015,Educación,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,11.0
+2018,Educación,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,10.8
+2016,Educación,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,11.0
+2012,Educación,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,11.1
+2021,Educación,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,10.5
+2020,Educación,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,10.2
+2019,Educación,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,10.7
+2017,Educación,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,10.9
+2014,Educación,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,10.9
 2015,Educación,Administración autonómica,,,,Porcentaje,,27.3
 2022,Educación,Administración autonómica,,,,Porcentaje,,26.4
 2019,Educación,Administración autonómica,,,,Porcentaje,,27.7
@@ -2787,18 +2787,18 @@ Year,Servicios esenciales,Administración pública,Territorio,Comarca,Municipio,
 2020,Educación,Administración municipal,Gipuzkoa,,,Porcentaje,Gipuzkoa,4.2
 2018,Educación,Administración municipal,Gipuzkoa,,,Porcentaje,Gipuzkoa,5.2
 2017,Educación,Administración municipal,Gipuzkoa,,,Porcentaje,Gipuzkoa,5.3
-2017,Salud,Administraciones públicas,,,,Porcentaje,,13.8
-2013,Salud,Administraciones públicas,,,,Porcentaje,,13.6
-2019,Salud,Administraciones públicas,,,,Porcentaje,,14.1
-2015,Salud,Administraciones públicas,,,,Porcentaje,,13.8
-2012,Salud,Administraciones públicas,,,,Porcentaje,,13.7
-2014,Salud,Administraciones públicas,,,,Porcentaje,,13.5
-2018,Salud,Administraciones públicas,,,,Porcentaje,,14.1
-2011,Salud,Administraciones públicas,,,,Porcentaje,,13.8
-2010,Salud,Administraciones públicas,,,,Porcentaje,,13.7
-2020,Salud,Administraciones públicas,,,,Porcentaje,,13.9
-2021,Salud,Administraciones públicas,,,,Porcentaje,,14.7
-2016,Salud,Administraciones públicas,,,,Porcentaje,,13.8
+2017,Salud,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,13.8
+2013,Salud,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,13.6
+2019,Salud,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,14.1
+2015,Salud,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,13.8
+2012,Salud,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,13.7
+2014,Salud,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,13.5
+2018,Salud,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,14.1
+2011,Salud,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,13.8
+2010,Salud,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,13.7
+2020,Salud,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,13.9
+2021,Salud,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,14.7
+2016,Salud,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,13.8
 2021,Salud,Administración autonómica,,,,Porcentaje,,37.6
 2010,Salud,Administración autonómica,,,,Porcentaje,,32.1
 2011,Salud,Administración autonómica,,,,Porcentaje,,32.0
@@ -4186,19 +4186,19 @@ Year,Servicios esenciales,Administración pública,Territorio,Comarca,Municipio,
 2020,Salud,Administración municipal,Gipuzkoa,,,Porcentaje,Gipuzkoa,0.4
 2021,Salud,Administración municipal,Gipuzkoa,,,Porcentaje,Gipuzkoa,0.2
 2017,Salud,Administración municipal,Gipuzkoa,,,Porcentaje,Gipuzkoa,0.3
-2016,Protección social,Administraciones públicas,,,,Porcentaje,,45.7
-2014,Protección social,Administraciones públicas,,,,Porcentaje,,45.6
-2013,Protección social,Administraciones públicas,,,,Porcentaje,,46.0
-2012,Protección social,Administraciones públicas,,,,Porcentaje,,44.5
-2017,Protección social,Administraciones públicas,,,,Porcentaje,,45.3
-2021,Protección social,Administraciones públicas,,,,Porcentaje,,47.3
-2010,Protección social,Administraciones públicas,,,,Porcentaje,,40.3
-2020,Protección social,Administraciones públicas,,,,Porcentaje,,47.9
-2018,Protección social,Administraciones públicas,,,,Porcentaje,,46.1
-2015,Protección social,Administraciones públicas,,,,Porcentaje,,45.5
-2019,Protección social,Administraciones públicas,,,,Porcentaje,,46.4
-2011,Protección social,Administraciones públicas,,,,Porcentaje,,42.0
-2022,Protección social,Administraciones públicas,,,,Porcentaje,,46.4
+2016,Protección social,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,45.7
+2014,Protección social,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,45.6
+2013,Protección social,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,46.0
+2012,Protección social,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,44.5
+2017,Protección social,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,45.3
+2021,Protección social,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,47.3
+2010,Protección social,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,40.3
+2020,Protección social,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,47.9
+2018,Protección social,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,46.1
+2015,Protección social,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,45.5
+2019,Protección social,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,46.4
+2011,Protección social,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,42.0
+2022,Protección social,Administraciones en la C.A. de Euskadi,,,,Porcentaje,,46.4
 2016,Protección social,Administración autonómica,,,,Porcentaje,,7.8
 2021,Protección social,Administración autonómica,,,,Porcentaje,,7.4
 2012,Protección social,Administración autonómica,,,,Porcentaje,,7.0

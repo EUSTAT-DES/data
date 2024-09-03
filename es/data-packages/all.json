@@ -4403,7 +4403,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administraciones públicas",
+                "Administraciones en la C.A. de Euskadi",
                 "Administración autonómica",
                 "Administración municipal",
                 ""
