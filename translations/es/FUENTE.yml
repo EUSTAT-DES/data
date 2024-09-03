@@ -54,6 +54,8 @@ ONU: Organización de Naciones Unidas (ONU)
 
 # OPERACION
 
+GE_Inclusion_ebcss: Estadística de bases de cotización de la seguridad social
+Euskadi_Bienestar_essec: Estadística de servicios sociales y acción social
 BE_bp: Balanza de pagos
 GE_Territorial_bep: Boletín estadístico del personal al servicio de las administraciones públicas
 GE_Sanidad_cach: Calidad de las Aguas de Consumo Humano
@@ -162,6 +164,8 @@ Euskadi_Vivienda_udalplan: Sistema de Información Geográfica del planeamiento 
 
 # URL
 
+GE_Inclusion_ebcss_url: https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/c9bd51e5-79bc-44f2-9618-14d6094eb585
+Euskadi_Bienestar_esses_url: https://www.euskadi.eus/web01-a2inghon/es/contenidos/informacion/essec_oe/es_def/index.shtml
 BE_bp_url: https://www.bde.es/webbe/es/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/capitulo-17.html
 GE_Territorial_bep_url: https://digital.gob.es
 GE_Sanidad_cach_url: https://www.miteco.gob.es/es/agua/temas/estado-y-calidad-de-las-aguas/aguas-superficiales/programas-seguimiento/control-adiciona-zonas-protegidas-abastecimientos.html
@@ -292,9 +296,9 @@ FREQ_A2: Bienal
 FREQ_A3: Trienal
 FREQ_A4: Cuatrienal
 FREQ_A5: Quinquenal
-FREQ_B:	'Diaria (semana laborable)'
+FREQ_B: "Diaria (semana laborable)"
 FREQ_D: Diaria
-FREQ_E: 'Eventos (periodos especiales)'
+FREQ_E: "Eventos (periodos especiales)"
 FREQ_H: Cada hora
 FREQ_M: Mensual
 FREQ_N: Cada minuto
@@ -302,7 +306,7 @@ FREQ_Q: Trimestral
 FREQ_S: Semestral
 FREQ_W: Semanal
 FREQ_W2: Quincenal
-FREQ_I: 'Irregular / Aperiódica'
+FREQ_I: "Irregular / Aperiódica"
 FREQ_P: Plurianual
 
 
