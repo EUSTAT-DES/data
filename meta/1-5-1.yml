@@ -14,10 +14,10 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: xxx 
-justificacion_global: xxx
+descripcion_global: 
+justificacion_global: 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-01.pdf">Metadata 1-5-1.pdf</a>'
-dato_global: xxx 
+dato_global: 
 comparabilidad: 
 informacion_interes: 
 

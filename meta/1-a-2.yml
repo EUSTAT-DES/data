@@ -1,13 +1,13 @@
  # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: xxx
+indicador_disponible: global_indicator.1-a-2-title
 objetivo_global: objetivo_largo.1-titulo
 meta_global: meta_largo.1-a-titulo
 #  indicador_onu_global: indicador_largo.1-a-2-titulo
 
 definicion: xxx 
 formula: xxx
-desagregacion: xxx
+desagregacion:
 periodicidad: FUENTE.FREQ_A
 observaciones: xxx
 texto_oceca: FUENTE.oceca
