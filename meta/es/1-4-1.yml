@@ -1,3 +1,6 @@
+indicador_disponible: >-
+  Proporción de viviendas principales con acceso a servicios básicos (abastecimiento de agua corriente y baño)
+
 definicion: >-
   Proporción de viviendas principales con acceso a servicios básicos (abastecimiento de agua corriente y baño)
 
@@ -42,10 +45,10 @@ justificacion_global: >-
 
 
 dato_global: >-
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.4.1&seriesCode=SP_ACS_BSRVH2O&areaCode=1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=RURAL">Proporción de población que utiliza servicios básicos de agua potable, por ubicación (%) SP_ACS_BSRVH2O</a>, UNSTATS<br>
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.4.1&seriesCode=SP_ACS_BSRVH2O&areaCode=1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=RURAL">Proporción de población que utiliza servicios básicos de agua potable, por ubicación (%) SP_ACS_BSRVH2O</a> UNSTATS<br>
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.4.1&seriesCode=SP_ACS_BSRVSAN&areaCode=1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA">
-  Proporción de población que utiliza servicios básicos de saneamiento, por ubicación (%) SP_ACS_BSRVSAN</a>, UNSTATS
+  Proporción de población que utiliza servicios básicos de saneamiento, por ubicación (%) SP_ACS_BSRVSAN</a> UNSTATS
 
 comparabilidad: >-
-  El indicador cumple parcialmente con los metadatos del indicador de Naciones Unidas. Algunos
+  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas. Algunos
   de los servicios básicos se miden en otros indicadores de desarrollo sostenible de esta plataforma.

@@ -1,14 +1,25 @@
 indicador_disponible: Población perceptora de prestaciones sociales (pensiones
   contributivas, RGI y AES) y plazas en servicios asistenciales
 
-definicion: Series disponibles:<br> Número de personas beneficiarias de la Renta
-  de Garantía de Ingresos en el mes de diciembre del año de referencia,  por
-  cada mil habitantes<br> Proporción de la población que es perceptora de
-  pensiones contributivas (% habitantes)<br> Plazas en centros residenciales
-  para personas mayores y personas con discapacidad Plazas en centros de día
-  para personas mayores y personas con discapacidad
+definicion: >- 
 
-formula: >
+  <p>Series disponibles:</p> 
+
+  <p><b>Proporción de personas perceptoras de pensiones contributivas:</b>
+  Proporción de la población que es perceptora de pensiones contributivas (% habitantes)</p>
+  
+  <p><b>Personas beneficiarias de Renta de Garantía de Ingresos por cada mil habitantes:</b>
+  Número de personas beneficiarias de la Renta
+  de Garantía de Ingresos en el mes de diciembre del año de referencia,  por
+  cada mil habitantes</p> 
+
+  <p><b>Plazas en centros residenciales</b>
+  Plazas en centros residenciales para personas mayores por cada mil personas mayores</p>  
+
+  <p><b>Plazas en centros de día</b>
+  Plazas en centro de día para personas mayores por cada mil personas mayores</p> 
+
+formula: |
   <p><b>Proporción de la población que es perceptora de pensiones
   contributivas</b> </p>
 
@@ -20,7 +31,9 @@ formula: >
 
   <p>$P^{t} =$ población a 1 de julio del año $t$</p>
 
-desagregacion: Sexo. Municipio
+desagregacion: >-
+  Sexo <br> 
+  Municipio
 
 observaciones: No hay datos municipales para las prestaciones de RGI y AES en
   municipios con menos de 5 personas perceptoras.
@@ -44,10 +57,11 @@ justificacion_global: El acceso a al menos un nivel básico de protección socia
   logra la universalidad  y, por tanto, de cuán seguras son las condiciones de
   vida de la población.
 
-dato_global: <a
-  href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.3.1&seriesCode=SI_COV_CHLD&areaCode=1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">Proporción
-  de niños que reciben prestaciones en efectivo por familia, por sexo (%)
-  SI_COV_CHLD</a>, UNSTATS
+dato_global: >-
+  <a
+  href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.3.1&seriesCode=SI_COV_CHLD&areaCode=1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">
+  Proporción de niños/hogares que reciben prestaciones en efectivo por hijo/familia, por sexo(%)
+  SI_COV_CHLD</a> UNSTATS
 
-comparabilidad: El indicador disponible en la C.A de Euskadi no cumple con los metadatos
-  del indicador de Naciones Unidas,  pero aporta información complementaria
+comparabilidad: El indicador disponible en la C.A de Euskadi no cumple con 
+  los metadatos de Naciones Unidas,  pero aporta información complementaria

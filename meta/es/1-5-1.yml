@@ -1,5 +1,8 @@
-definicion: >-
+indicador_disponible: >-
   Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes
+
+definicion: >-
+  Defunciones atribuidas a desastres naturales por cada 100.000 habitantes
 
 formula: |
   <p>$$TM_{desastres}^{t} = \frac{D_{desastres}^{t}}{P^{t}} \cdot 100$$ </p>
@@ -8,7 +11,8 @@ formula: |
   <p>$P^{t} =$ población a 1 de julio del año $t$</p>
 
 desagregacion: >-
-  Sexo. Municipal
+  Sexo <br>
+  Municipal
 
 observaciones: >-
 
@@ -32,4 +36,4 @@ justificacion_global: >-
 
 
 comparabilidad: >-
-  El indicador cumple parcialmente con los metadatos del indicador de Naciones Unidas
+  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas.

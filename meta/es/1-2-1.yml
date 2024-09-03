@@ -12,7 +12,7 @@ formula: |
   <p>$P^{t} =$ población total en el año $t$</p>
 
 desagregacion: >-
-  Datos desagregados por sexo, correspondientes a la proporción de hombres y mujeres con ingresos inferiores al 60%
+  Sexo. Proporción de hombres y mujeres con ingresos inferiores al 60%
   de la mediana de la C.A. de Euskadi, situada en el año 2022 en 12.983 € anuales.
 
 observaciones: >-
@@ -38,7 +38,7 @@ justificacion_global: >-
   las circunstancias económicas y sociales específicas del país, y no están
   destinadas a comparaciones internacionales de tasas de pobreza.</p>
 
-  <p>El indicador de pobreza monetaria o riesgo de pobreza relativa (At-Risk-of-Poverty Rate)
+  <p>El indicador de pobreza monetaria o riesgo de pobreza relativa (At-Risk-of-Poverty Rate en inglés)
   es uno de los indicadores clave para hacer el seguimiento de la pobreza en la UE.</p>
 
   <p>Para tener en cuenta el impacto de las diferencias en el tamaño y la composición del hogar,
@@ -48,7 +48,7 @@ justificacion_global: >-
   la escala modificada de la OCDE propuesta en 1994.</p>
 
 dato_global: >-
-  <a href="https://ec.europa.eu/eurostat/databrowser/bookmark/7d6a8537-b602-4526-aff8-4fcbd2b48dee?lang=en">Tasa de riesgo de pobreza por umbral de pobreza, edad y sexo (ilc_li02)</a>, Eurostat
+  <a href="https://ec.europa.eu/eurostat/databrowser/bookmark/7d6a8537-b602-4526-aff8-4fcbd2b48dee?lang=en">Tasa de riesgo de pobreza por umbral de pobreza, edad y sexo (ilc_li02)</a> Eurostat
 comparabilidad: >-
     El indicador cumple con los metadatos del indicador de Naciones Unidas. Para el cálculo de la tasa de pobreza de la Comunidad Autónoma de Euskadi
     se aplica el umbral de la pobreza del territorio de referencia.

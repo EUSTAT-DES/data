@@ -16,6 +16,9 @@ formula: |
   <p>$TIPC_{dic}^{t}$ tasa de variación anual del IPC nacional en el mes de diciembre del año $t$ </p>
   <p>$PIB^{t}$ producto interior bruto en términos corrientes en el año $t$</p>
 
+desagregacion: Territorios históricos
+
+
 observaciones: >-
   Las indemnizaciones se asignan al lugar y año de ocurrencia del siniestro, 
   no incluyendo los siniestros ocurridos en el extranjero
@@ -37,5 +40,5 @@ justificacion_global: >-
 
 
 comparabilidad: >-
-  El indicador no cumple con los metadatos del indicador de Naciones Unidas, 
+  El indicador disponible no cumple con los metadatos de Naciones Unidas, 
   pero aporta información complementaria
