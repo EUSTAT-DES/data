@@ -19,7 +19,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ESSRV",
                 "ESED",
                 "HLTH",
                 "PROT",
