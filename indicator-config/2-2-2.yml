@@ -56,8 +56,8 @@ sources:
     logo: FUENTE.INE_logo
   - organisation: FUENTE.INE
     periodicity: FUENTE.FREQ_A5
-    url: FUENTE.INE_ees
-    url_text: FUENTE.INE_ees_url
+    url: FUENTE.INE_ees_url
+    url_text: FUENTE.INE_ees
     logo: FUENTE.INE_logo
 standalone: false
 tags: []
