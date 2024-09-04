@@ -1,3 +1,5 @@
+# TITULOS
+
 1-2-1-titulo: Proporción de la población que vive por debajo del umbral de pobreza
 1-2-2-titulo: Tasa AROPE. Proporción de personas en riesgo de pobreza o exclusión social
 1-3-1-titulo: Población perceptora de prestaciones sociales (pensiones
@@ -7,6 +9,12 @@
 1-5-2-titulo: Indemnizaciones por daños personales, pérdidas pecuniarias y daños de bienes pagadas y/o provisionadas en proporción al PIB
 1-a-2-titulo: "Proporción del gasto público total que se dedica a servicios esenciales (educación, salud y protección social)"
 
+2-4-1-titulo: Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible
+2-4-E1-titulo: Emisiones de amoníaco de la agricultura y ganadería
+2-c-1-titulo: Índice de precios de los alimentos
+
+
+# CONTENIDO
 1-2-1-contenido: "<b>Meta:</b> Reducir a la mitad la población que vive en la pobreza en todas sus dimensiones"
 1-2-2-contenido: "<b>Meta:</b> Reducir a la mitad la población que vive en la pobreza en todas sus dimensiones"
 1-3-1-contenido: "<b>Dirección deseada:</b> Aumento"
@@ -15,6 +23,11 @@
 1-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
 1-a-2-contenido: "<b>Dirección deseada:</b> Aumento"
 
+2-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
+2-2-2-contenido: "<b>Dirección deseada:</b> Descenso"
+2-4-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+2-4-E1-contenido: "<b>Dirección deseada:</b> Descenso"
+2-c-1-contenido: "<b>Dirección deseada:</b> Descenso"
 
-
+# NOTAS
 1-3-1-nota: Indicador en revisión
