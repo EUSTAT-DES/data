@@ -48,11 +48,11 @@ progress_status: progreso
 reporting_status: progreso
 sort: ''
 sources:
-  - organisation: FUENTE.gv_bienestar
-    periodicity: FUENTE.FREQ_B
-    url: FUENTE.epds_url
-    url_text: FUENTE.epds
-    logo: FUENTE.gv_logo
+  - organisation: FUENTE.Euskadi_Bienestar
+    periodicity: FUENTE.FREQ_A2
+    url: FUENTE.Euskadi_Bienestar_epds_url
+    url_text: FUENTE.Euskadi_Bienestar_epds
+    logo: FUENTE.Euskadi_logo
 standalone: false
 tags: []
 x_axis_label: ''

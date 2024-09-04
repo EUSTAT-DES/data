@@ -35,11 +35,21 @@ progress_status: alcanzado
 reporting_status: alcanzado
 sort: ''
 sources:
-  - organisation: FUENTE.gv_bienestar
-    periodicity: FUENTE.FREQ_B
-    url: FUENTE.epds_url
-    url_text: FUENTE.epds
-    logo: FUENTE.gv_logo
+  - organisation: FUENTE.Consorcio
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Consorcio_ere_url
+    url_text: FUENTE.Consorcio_ere
+    logo: FUENTE.Consorcio_logo
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_cpib_url
+    url_text: FUENTE.Eustat_cpib
+    logo: FUENTE.Eustat_logo
+  - organisation: FUENTE.INE
+    periodicity: FUENTE.FREQ_M
+    url: FUENTE.INE_ipc_url
+    url_text: FUENTE.INE_ipc
+    logo: FUENTE.INE_logo
 standalone: false
 tags: []
 x_axis_label: ''
