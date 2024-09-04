@@ -1,7 +1,7 @@
 Indicator,Disaggregations,Number of disaggregations
 #3-4-E1,Sexo,1
-#3-4-E2,"Sexo, Territorio",2
-#4-1-E1,"Sexo, Edad",2
-#4-1-E2,"Edad, Territorio, Educacion, Comarca, Municipio",5
+#3-4-E2,"Territorio, Sexo",2
+#4-1-E1,"Edad, Sexo",2
+#4-1-E2,"Edad, Educacion, Territorio, Comarca, Municipio",5
 #4-3-E1,Sexo,1
-#4-6-E1,"Sexo, Edad, Territorio",3
+#4-6-E1,"Edad, Territorio, Sexo",3
