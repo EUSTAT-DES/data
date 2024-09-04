@@ -39,7 +39,7 @@ sources:
     periodicity: FUENTE.FREQ_A
     url: FUENTE.Consorcio_ere_url
     url_text: FUENTE.Consorcio_ere
-    logo: FUENTE.Consorcio_logo
+    logo: FUENTE.GE_logo
   - organisation: FUENTE.Eustat
     periodicity: FUENTE.FREQ_A
     url: FUENTE.Eustat_cpib_url
