@@ -13,6 +13,9 @@ formula: |
   <p>$G^{t} =$ gasto total de las administraciones públicas en el año $t$</p>
 
 
+desagregacion: >-
+  Territorio histórico/Comarca/Municipio
+
 observaciones: >-
   Se utiliza la Clasificación de Funciones del Gobierno (COFOG) en los
   datos correspondientes a las administraciones públicas (total) y la 

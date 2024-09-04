@@ -1,25 +1,25 @@
  # Metadatos nacionales (ficha metodológica)
  
 indicador_disponible: xxx
-objetivo_global: objetivo_largo.1-titulo
-meta_global: meta_largo.1-2-titulo
-#  indicador_onu_global: indicador_largo.1-2-1-titulo
+objetivo_global: objetivo_largo.2-titulo
+meta_global: meta_largo.2-4-titulo
+#  indicador_onu_global:
 
 definicion: xxx 
 formula: xxx
 desagregacion: xxx
-periodicidad: FUENTE.FREQ_A2
-observaciones: xxx
+periodicidad: FUENTE.FREQ_A
+observaciones: 
 texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
 descripcion_global: xxx 
 justificacion_global: xxx
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadata 1-2-1.pdf</a>'
-dato_global: xxx 
+indicador_meta_enlace: >-
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_02_60_esmsip2.htm">Metadata sdg_20_60.pdf</a><br>
+dato_global:
 comparabilidad: 
-informacion_interes: 
 
 national_data_updated_date: '2024-07-29'
 national_metadata_updated_date: '2024-07-29'
