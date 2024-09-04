@@ -6,9 +6,9 @@ definicion: >-
   60% de la mediana de la C.A. de Euskadi (escala OCDE modificada)
 
 formula: |
-  <p>$$PPRPR_{CAE}^{t} = \frac{PRPR_{CAE}^{t}}{P^{t}} \cdot 100$$ </p>
+  <p>$$PP_{rpr}^{t} = \frac{P_{ingresos<0,6xmediana}^{t}}{P^{t}} \cdot 100$$ </p>
   <p>donde: </p>
-  <p>$PRPR_{CAE}^{t} =$ población en riesgo de pobreza relativa considerando el umbral de pobreza de la CAE (60% de la mediana de los ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$ </p>
+  <p>$P_{ingresos<0,6xmediana}^{t} =$ población con ingresos por debajo del 60% de la mediana de los ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$ </p>
   <p>$P^{t} =$ población total en el año $t$</p>
 
 desagregacion: >-
@@ -38,7 +38,7 @@ justificacion_global: >-
   las circunstancias económicas y sociales específicas del país, y no están
   destinadas a comparaciones internacionales de tasas de pobreza.</p>
 
-  <p>El indicador de pobreza monetaria o riesgo de pobreza relativa (At-Risk-of-Poverty Rate en inglés)
+  <p>El indicador de riesgo de pobreza relativa (At-Risk-of-Poverty Rate en inglés) o pobreza monetaria
   es uno de los indicadores clave para hacer el seguimiento de la pobreza en la UE.</p>
 
   <p>Para tener en cuenta el impacto de las diferencias en el tamaño y la composición del hogar,
@@ -50,5 +50,6 @@ justificacion_global: >-
 dato_global: >-
   <a href="https://ec.europa.eu/eurostat/databrowser/bookmark/7d6a8537-b602-4526-aff8-4fcbd2b48dee?lang=en">Tasa de riesgo de pobreza por umbral de pobreza, edad y sexo (ilc_li02)</a> Eurostat
 comparabilidad: >-
-    El indicador cumple con los metadatos del indicador de Naciones Unidas. Para el cálculo de la tasa de pobreza de la Comunidad Autónoma de Euskadi
-    se aplica el umbral de la pobreza del territorio de referencia.
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas. Para el cálculo 
+  de la tasa de pobreza de la Comunidad Autónoma de Euskadi
+  se aplica el umbral de la pobreza del territorio de referencia.

@@ -33,7 +33,7 @@ formula: |
 
 desagregacion: >-
   Sexo <br> 
-  Municipio
+  Territorio histórico/Comarca/Municipio
 
 observaciones: No hay datos municipales para las prestaciones de RGI y AES en
   municipios con menos de 5 personas perceptoras.
@@ -64,4 +64,4 @@ dato_global: >-
   SI_COV_CHLD</a> UNSTATS
 
 comparabilidad: El indicador disponible en la C.A de Euskadi no cumple con 
-  los metadatos de Naciones Unidas,  pero aporta información complementaria
+  los metadatos de Naciones Unidas, pero aporta información complementaria

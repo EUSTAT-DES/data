@@ -1,0 +1,79 @@
+indicador_disponible: >-
+  Tasa de obesidad, sobrepeso o peso insuficiente por índice de masa corporal (IMC) y grupos de edad
+
+definicion: >-
+  <p>La población malnutrida es aquella que tiene obesidad (IMC>=30), 
+  sobrepeso (25<=IMC<30) o peso insuficiente (IMC<18,5), donde IMC es el índice de masa corporal, 
+  que se obtiene dividiendo el peso (kg) por el cuadrado de la estatura (m).</p>
+
+  <p>Este indicador se compone de dos series temporales:<br>
+  - Proporción de menores entre 2 y 17 años que presentan malnutrición (obesidad, sobrepeso o peso insuficiente)<br>
+  - Proporción de la población adulta con obesidad</p>
+
+
+formula: |
+
+  <p><b>Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años</b> </p>
+
+  <p>$$PPM_{2-17}^{t} = \frac{PM_{2-17}^{t}}{P_{2-17}^{t}} \cdot 100$$</p>
+
+  <p>donde: </p>
+
+  <p>$PPM_{2-17}^{t} =$ población entre 2 y 17 años con malnutrición (IMC<18,5 o IMC>=25) en el año $t$ </p>
+
+  <p>$P_{2-17}^{t} =$ población entre 2 y 17 años en el año $t$</p>
+
+  <p><b>Tasa de obesidad de la población adulta</b> </p>
+
+  <p>$$PPO_{>18}^{t} = \frac{PO_{>18}^{t}}{P_{>18}^{t}} \cdot 100$$</p>
+
+  <p>donde: </p>
+
+  <p>$PPO_{>18}^{t} =$ población adulta con obesidad (IMC>=30) en el año $t$ </p>
+
+  <p>$P_{>18}^{t} =$ población adulta en el año $t$</p>
+
+
+desagregacion: >-
+  Sexo
+
+observaciones: >-
+
+descripcion_global: >-
+  <p>El indicador de Naciones Unidas hace referencia al crecimiento infantil, y mide la prevalencia 
+  del sobrepeso (peso para la talla >+2 desviación estándar de la mediana de los 
+  estándares de crecimiento infantil de la Organización Mundial de la Salud (OMS)) entre niños 
+  menores de 5 años.</p>
+
+  <p>El indicador europeo hace referencia a la obesidad en la edad adulta, y  se utiliza para 
+  hacer el seguimiento del progreso hacia el ODS 2
+  (poner fin al hambre y la malnutrición) y el ODS 3 (buena salud y bienestar), que están
+  incluidos en las prioridades de la Comisión Europea en el marco del "Acuerdo Verde Europeo", 
+  "Una economía que funcione para las personas" y "Promoción de nuestro modo de vida europeo".</p>
+
+
+justificacion_global: >-
+  <p>Está aceptado internacionalmente que el crecimiento infantil 
+  refleja el estado nutricional del niño. El sobrepeso infantil se refiere a un 
+  niño que pesa demasiado para su altura. Esta forma de desnutrición se debe a que se 
+  gastan muy pocas calorías para la cantidad de alimentos consumidos y aumenta el riesgo 
+  de enfermedades no transmisibles en el futuro. El sobrepeso infantil es uno de los
+  indicadores objetivo de nutrición de la Asamblea Mundial de la Salud.</p>
+
+  <p>Aunque la UE ha superado en gran medida los problemas del hambre, están surgiendo nuevos desafíos
+  relacionados con la nutrición, como el aumento de la obesidad.</p>
+
+  <p>La política alimentaria 
+  de la UE incluye iniciativas de nutrición y trabaja con los Estados miembros de la UE 
+  en diversas iniciativas de salud pública en el área de la nutrición y la actividad 
+  física para promover un estilo de vida saludable y equilibrado.</p>
+
+dato_global: >-
+
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_02_10/default/table?lang=en&category=sdg.sdg_02>Tasa de obesidad por índice de masa corporal (IMC) (sdg_02)</a> Eurostat <br>
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.2.2&seriesCode=SN_STA_OVWGT&areaCode=1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=%3C5Y">Proporción de niños con sobrepeso moderado o grave (%) SN_STA_OVWGT</a> UNSTATS
+
+comparabilidad: >-
+  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas al no
+  utilizar la misma forma de cálculo del sobrepeso, ni el mismo grupo de edad. La tasa de obesidad
+  de la población adulta es comparable con el indicador europeo.
