@@ -198,8 +198,8 @@ Eustat_pra_url: https://es.eustat.eus/estadisticas/tema_57/opt_1/ti_encuesta-de-
 Euskadi_Bienestar_epds_url: https://www.euskadi.eus/encuesta-de-pobreza-y-desigualdades-sociales-epds/web01-s2enple/es/
 Eustat_ept_url: https://www.eustat.eus/estadisticas/tema_77/opt_1/ti_encuesta-de-presupuestos-de-tiempo/temas.html
 Euskadi_Salud_escav_url: https://www.euskadi.eus/encuesta-salud/inicio/
-INE_ees_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176784&menu=resultados&idp=1254735573175
-INE_ense_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176783&menu=resultados&idp=1254735573175
+INE_ees_url: "https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176784&menu=resultados&idp=1254735573175"
+INE_ense_url: "https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176783&menu=resultados&idp=1254735573175"
 Eustat_cindus_url: https://www.eustat.eus/estadisticas/tema_112/opt_1/ti_encuesta-industrial/temas.html
 Eustat_ceea_url: https://www.eustat.eus/estadisticas/tema_92/opt_1/ti_encuesta-sobre-la-estructura-de-las-explotaciones-agrarias/temas.html
 Eustat_cca_url: https://www.eustat.eus/estadisticas/tema_260/opt_1/ti_censo-agrario/temas.html
