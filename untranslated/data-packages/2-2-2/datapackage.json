@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU_OVWGT_GE18",
+                "EU_OVWGT_Y2T17",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Edad",
             "type": "string",
             "constraints": {
