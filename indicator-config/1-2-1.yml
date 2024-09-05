@@ -52,7 +52,7 @@ sources:
     periodicity: FUENTE.FREQ_A2
     url: FUENTE.Euskadi_Bienestar_epds_url
     url_text: FUENTE.Euskadi_Bienestar_epds
-    logo: FUENTE.Euskadi_logo
+    logo: 'assets/img/fuentes/Euskadi.png'
 standalone: false
 tags: []
 x_axis_label: ''
