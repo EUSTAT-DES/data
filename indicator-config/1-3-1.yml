@@ -39,7 +39,7 @@ sources:
     periodicity: FUENTE.FREQ_A
     url: FUENTE.Euskadi_Bienestar_esses_url
     url_text: FUENTE.Euskadi_Bienestar_esses_url
-    logo: FUENTE.Euskadi_logo
+    logo: 'https://github.com/EUSTAT-DES/site/assets/img/fuentes/Euskadi.png'
   - organisation: FUENTE.Eustat
     periodicity: FUENTE.FREQ_A
     url: FUENTE.Eustat_emh_url
