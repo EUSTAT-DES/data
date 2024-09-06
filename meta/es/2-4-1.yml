@@ -17,23 +17,19 @@ observaciones: >-
 
 descripcion_global:  |
   <p>El indicador 2.4.1 de los ODS se basa en un conjunto de subindicadores 
-  que cubran las tres dimensiones de la sostenibilidad:
-  - Valor de la producción agrícola por hectárea 
-  - Ingresos agrícolas netos 
-  - Mecanismos de mitigación de riesgos 
-  - Prevalencia de la degradación del suelo 
-  - Variación en la disponibilidad de agua 
-  - Gestión de fertilizantes 
-  - Gestión de pesticidas 
-  - Uso de prácticas que apoyan la agrobiodiversidad 
-  - Salarios en la agricultura 
-  - Escala de experiencia (FIES) 
-  - Tenencia de la tierra 
+  que cubran las tres dimensiones de la sostenibilidad:<br>
+  - Valor de la producción agrícola por hectárea <br>
+  - Ingresos agrícolas netos <br>
+  - Mecanismos de mitigación de riesgos <br>
+  - Prevalencia de la degradación del suelo <br>
+  - Variación en la disponibilidad de agua <br>
+  - Gestión de fertilizantes <br>
+  - Gestión de pesticidas <br>
+  - Uso de prácticas que apoyan la agrobiodiversidad <br>
+  - Salarios en la agricultura <br>
+  - Escala de experiencia (FIES) <br>
+  - Tenencia de la tierra <br>
   - Derechos de tenencia seguros de la tierra</p>
-
-  <p>El indicador "Superficie dedicada a la agricultura ecológica" forma parte del 
-  conjunto de indicadores de los Objetivos de Desarrollo Sostenible (ODS) 
-  de la UE, y está incluido en las Prioridades de la Comisión Europea bajo el Acuerdo Verde Europeo.</p>
 
   <p>El indicador "Superficie dedicada a la agricultura ecológica" forma parte del 
   conjunto de indicadores de los Objetivos de Desarrollo Sostenible (ODS) 
@@ -68,5 +64,5 @@ dato_global: >-
 
 comparabilidad: >-
   El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas al no
-  utilizar la misma forma de cálculo, pero si es comparable con el indicador europeo "superficie
+  utilizar la misma forma de cálculo, pero sí es comparable con el indicador europeo "superficie
   dedicada a la agricultura ecológica".

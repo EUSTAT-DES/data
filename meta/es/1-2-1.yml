@@ -6,14 +6,15 @@ definicion: >-
   60% de la mediana de la C.A. de Euskadi (escala OCDE modificada)
 
 formula: |
-  <p>$$PP_{rpr}^{t} = \frac{P_{ingresos<0,6xmediana}^{t}}{P^{t}} \cdot 100$$ </p>
+  <p>$$PP_{RPR}^{t} = \frac{P_{RPR}^{t}}{P^{t}} \cdot 100$$ </p>
   <p>donde: </p>
-  <p>$P_{ingresos<0,6xmediana}^{t} =$ población con ingresos por debajo del 60% de la mediana de los ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$ </p>
+  <p>$P_{RPR}^{t} =$ población con ingresos por debajo del 60% de la mediana de los ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$ </p>
   <p>$P^{t} =$ población total en el año $t$</p>
 
 desagregacion: >-
   Sexo. Proporción de hombres y mujeres con ingresos inferiores al 60%
-  de la mediana de la C.A. de Euskadi, situada en el año 2022 en 12.983 € anuales.
+  de la mediana de la C.A. de Euskadi, situada en el año 2022 en 12.983€ 
+  anuales (siendo la mediana de ingresos de 21.638)
 
 observaciones: >-
   <p>El número de unidades de consumo de un hogar
