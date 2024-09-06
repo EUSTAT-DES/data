@@ -30,7 +30,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NFR_3",
                 "NFR_3DF",
                 "NFR_3B",
                 ""

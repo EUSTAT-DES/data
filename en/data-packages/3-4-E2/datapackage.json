@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UE_LE_Y0",
+                "Esperanza de vida al nacer",
                 "Esperanza de vida en buena salud",
                 ""
               ]

@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UE_LE_Y0",
+                "EU_LE_Y0",
                 "EU_HLY_Y0",
                 ""
               ]

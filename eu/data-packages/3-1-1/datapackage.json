@@ -16,17 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mujer",
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {

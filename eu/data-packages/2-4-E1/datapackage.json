@@ -32,7 +32,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agricultura y ganadería",
                 "Agricultura",
                 "Ganadería",
                 ""

@@ -1618,7 +1618,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UE_LE_Y0",
+                "EU_LE_Y0",
                 "EU_HLY_Y0",
                 ""
               ]
@@ -3241,16 +3241,6 @@
             "type": "integer"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -3454,7 +3444,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NFR_3",
                 "NFR_3DF",
                 "NFR_3B",
                 ""

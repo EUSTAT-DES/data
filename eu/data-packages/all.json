@@ -1718,7 +1718,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UE_LE_Y0",
+                "Esperanza de vida al nacer",
                 "Esperanza de vida en buena salud",
                 ""
               ]
@@ -3419,17 +3419,6 @@
             "title": "Año"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mujer",
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -3651,7 +3640,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agricultura y ganadería",
                 "Agricultura",
                 "Ganadería",
                 ""
