@@ -1771,64 +1771,6 @@
       "title": "3-4-E2"
     },
     {
-      "path": "4-1-E1/data.csv",
-      "name": "4-1-E1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Año"
-          },
-          {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mujer",
-                "Hombre",
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "18-24 años",
-                ""
-              ]
-            },
-            "title": "Edad"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Porcentaje",
-                ""
-              ]
-            },
-            "title": "Unidad"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "4-1-E1"
-    },
-    {
       "path": "3-5-2/data.csv",
       "name": "3-5-2",
       "profile": "tabular-data-resource",
