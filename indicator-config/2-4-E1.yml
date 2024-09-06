@@ -45,7 +45,7 @@ reporting_status: progreso
 sort: ''
 sources:
   - organisation: FUENTE.Euskadi_Industria
-    periodicity: FUENTE.FREQ_A1
+    periodicity: FUENTE.FREQ_A
     url: FUENTE.Euskadi_Industria_ieca_url
     url_text: FUENTE.Euskadi_Industria_ieca
     logo: FUENTE.Euskadi_logo

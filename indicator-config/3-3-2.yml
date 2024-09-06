@@ -17,17 +17,24 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
+graph_target_lines: []
 graph_title: global_indicators.3-3-2-title
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.3-3-2-title
 indicator_number: '3.3.2'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.3-3-2-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
-reporting_status: alcanzado
+progress_status: progreso
+reporting_status: progreso
 sort: ''
+sources:
+  - organisation: FUENTE.GE_Sanidad
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.GE_Sanidad_edo_url
+    url_text: FUENTE.GE_Sanidad_edo
+    logo: FUENTE.GE_logo
 standalone: false
 tags: []

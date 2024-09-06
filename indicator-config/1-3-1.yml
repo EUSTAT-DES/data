@@ -4,8 +4,8 @@ copyright: ''
 data_footnote: ''
 data_non_statistical: false
 data_notice_class: ''
-data_notice_heading: ''
-data_notice_text: GRAFICO. 1-3-1-nota
+data_notice_heading: GRAFICO. 1-3-1-nota
+data_notice_text: ''
 data_show_map: true
 data_start_values: []
 embedded_feature_footer: ''
@@ -38,7 +38,7 @@ sources:
   - organisation: FUENTE.Euskadi_Bienestar
     periodicity: FUENTE.FREQ_A
     url: FUENTE.Euskadi_Bienestar_esses_url
-    url_text: FUENTE.Euskadi_Bienestar_esses_url
+    url_text: FUENTE.Euskadi_Bienestar_esses
     logo: FUENTE.Euskadi_logo
   - organisation: FUENTE.Eustat
     periodicity: FUENTE.FREQ_A

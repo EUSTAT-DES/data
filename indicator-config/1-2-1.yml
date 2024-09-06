@@ -52,7 +52,7 @@ sources:
     periodicity: FUENTE.FREQ_A2
     url: FUENTE.Euskadi_Bienestar_epds_url
     url_text: FUENTE.Euskadi_Bienestar_epds
-    logo: https://github.com/EUSTAT-DES/site/blob/develop/assets/img/progress/alcanzado.png?raw=true
+    logo: FUENTE.Euskadi_logo
 standalone: false
 tags: []
 x_axis_label: ''
