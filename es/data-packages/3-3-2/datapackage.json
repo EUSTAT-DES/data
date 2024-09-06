@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de personas de 15 y más años que fuman a diario",
+                "Incidencia de la tuberculosis por cada 100.000 habitantes",
                 ""
               ]
             },
