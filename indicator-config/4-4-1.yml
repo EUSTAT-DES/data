@@ -35,18 +35,17 @@ indicator_tabs:
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.4-4-1-contenido
 permalink: ''
-placeholder: ''
 precision: []
-proxy: ''
-proxy_series: []
-publications: []
-related_indicators: []
-progress_status: alcanzado
-reporting_status: alcanzado
+progress_status: progreso
+reporting_status: progreso
 sort: ''
-sources: []
+sources:
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_cesif_url
+    url_text: FUENTE.Eustat_cesif
+    logo: FUENTE.Eustat_logo
 standalone: false
 tags: []
-x_axis_label: ''
