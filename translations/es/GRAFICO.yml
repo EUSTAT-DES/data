@@ -14,6 +14,14 @@
 2-c-1-titulo: Índice de precios de los alimentos
 
 
+3-3-1-titulo: Número de infecciones por el VIH por cada 1.000 habitantes, desglosado por sexo
+3-5-1-titulo: Número de admisiones a tratamiento por abuso o dependencia de alcohol y drogas ilegales por cada 100.000 habitantes
+3-5-2-titulo: Consumo anual de alcohol registrado en litros de alcohol puro por persona de 15 y más años
+3-8-1-titulo: Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica
+3-a-1-titulo: Proporción de personas de 15 y más años que fuman a diario
+
+
+
 # CONTENIDO
 1-2-1-contenido: "<b>Meta:</b> Reducir a la mitad la población que vive en la pobreza en todas sus dimensiones"
 1-2-2-contenido: "<b>Meta:</b> Reducir a la mitad la población que vive en la pobreza en todas sus dimensiones"
@@ -29,5 +37,35 @@
 2-4-E1-contenido: "<b>Dirección deseada:</b> Descenso"
 2-c-1-contenido: "<b>Dirección deseada:</b> Descenso"
 
+
+3-1-1-contenido: "<b>Meta:</b> Reducir a menos de 70 por cada 100.000 nacidos vivos"
+3-1-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+3-2-1-contenido: "<b>Meta:</b> Reducir al menos a 25 por cada 1.000 nacidos vivos"
+3-2-2-contenido: "<b>Meta:</b> Reducir al menos a 12 por cada 1.000 nacidos vivos"
+3-3-1-contenido: "<b>Dirección deseada:</b> Descenso"
+3-3-2-contenido: "<b>Dirección deseada:</b> Descenso"
+3-3-3-contenido: "<b>No aplicable:</b> La Comunidad Autónoma de Euskadi no es actualmente zona de transmisión de la malaria"
+3-3-4-contenido: "<b>Dirección deseada:</b> Descenso"
+3-4-1-contenido: "<b>Meta:</b> Reducir en un tercio la mortalidad prematura por enfermedades no transmisibles"
+3-4-2-contenido: "<b>Dirección deseada:</b> Descenso"
+3-4-E1-contenido: "<b>Dirección deseada:</b> Ascenso"
+3-4-E2-contenido: "<b>Dirección deseada:</b> Ascenso"
+3-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+3-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
+3-6-1-contenido: "<b>Dirección deseada:</b> Descenso"
+3-7-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+3-7-2-contenido: "<b>Dirección deseada:</b> Descenso"
+3-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+3-8-2-contenido: "<b>Dirección deseada:</b> Descenso"
+3-9-3-contenido: "<b>Dirección deseada:</b> Descenso"
+3-a-1-contenido: "<b>Dirección deseada:</b> Descenso"
+3-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+3-c-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+
 # NOTAS
 1-3-1-nota: Indicador en revisión
+
+
+
+# NOTAS
+3-4-E1-anotacion: Recomendación Guía Europea
