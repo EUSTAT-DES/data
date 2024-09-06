@@ -23,11 +23,17 @@ graph_type: line
 indicator_name: global_indicators.3-5-1-title
 indicator_number: '3.5.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.3-5-1-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
-reporting_status: alcanzado
+progress_status: noevaluado
+reporting_status: noevaluado
 sort: ''
+sources:
+  - organisation: FUENTE.Euskadi_Salud
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Euskadi_Salud_ritox_url
+    url_text: FUENTE.Euskadi_Salud_ritox
+    logo: FUENTE.Euskadi_logo
 standalone: false
 tags: []

@@ -37,9 +37,9 @@ justificacion_global: >-
 
 comparabilidad: >-
   El indicador disponible en la C.A de Euskadi utiliza la clasificación COFOG, 
-  que no cumple con los metadatos del indicador de Naciones Unidas. Si bien COFOG tal como se utiliza en el 
-  MEFP 2014 concuerda plenamente con la clasificación de la Organización para la Cooperación y el Desarrollo Económico
-  (OCDE), el concepto se aplica de manera ligeramente diferente en las estadísticas de finanzas gubernamentales (MEFP). 
+  que no cumple con los metadatos del indicador de Naciones Unidas. El indicador mundial utiliza el 
+  manual de estadísticas de finanzas gubernamentales (MEFP) donde el concepto de gasto se 
+  aplica de manera ligeramente diferente.
 
 dato_global: >- 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_ESSRV&areaCode=1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">

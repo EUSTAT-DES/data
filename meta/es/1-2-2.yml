@@ -7,9 +7,9 @@ definicion: >-
   severa o viviendo en hogares con baja intensidad de trabajo)
 
 formula: |
-  <p>$$AROPE_{CAE}^{t} = \frac{PRPES_{CAE}^{t}}{P^{t}} \cdot 100$$</p>
+  <p>$$T_{AROPE}^{t} = \frac{P_{AROPE}^{t}}{P^{t}} \cdot 100$$</p>
   donde:
-  <p>$PRPES_{CAE}^{t} =$ población en riesgo de pobreza o exclusión social el año $t$</p>
+  <p>$P_{AROPE}^{t} =$ población en riesgo de pobreza o exclusión social el año $t$</p>
   <p>$P^{t} =$ población total en el año $t$</p>
 
 desagregacion: >-
