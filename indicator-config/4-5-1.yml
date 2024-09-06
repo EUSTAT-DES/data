@@ -32,7 +32,7 @@ sort: ''
 sources:
   - organisation: FUENTE.INE
     periodicity: FUENTE.FREQ_A5
-    url: FUENTE.INE_eada
+    url: FUENTE.INE_eada_url
     url_text: FUENTE.INE_eada
     logo: FUENTE.INE_logo
 standalone: false

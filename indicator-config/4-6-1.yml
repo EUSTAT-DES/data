@@ -32,8 +32,8 @@ sort: ''
 sources:
   - organisation: FUENTE.OCDE
     periodicity: FUENTE.FREQ_A10
-    url: FUENTE.OCDE_piaac__url
-    url_text: FUENTE.OCDE_piaac_
+    url: FUENTE.OCDE_piaac_url
+    url_text: FUENTE.OCDE_piaac
     logo: FUENTE.OCDE_logo
 standalone: false
 tags: []
