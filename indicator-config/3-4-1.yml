@@ -18,7 +18,7 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_target_lines:
-  - series: ''
+  - series: SH_DTH_NCOM
     unit: ''
     label_content: indicator.annotation_2030_target
     value: 7.2
