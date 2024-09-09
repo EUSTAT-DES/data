@@ -27,17 +27,6 @@
             "title": "Edad"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mujer",
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

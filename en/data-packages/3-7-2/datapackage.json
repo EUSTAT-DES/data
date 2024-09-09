@@ -27,17 +27,6 @@
             "title": "Serie"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mujer",
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
             "name": "Edad",
             "type": "string",
             "constraints": {
