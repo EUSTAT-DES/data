@@ -12,7 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Administracion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ADM_MUN_AUT",
+                "ADM_AUT",
+                "ADM_MUN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EUR_PER_CAPITA",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

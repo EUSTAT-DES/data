@@ -12,8 +12,56 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Salario medio por hora",
+                "Brecha de género en el salario medio por hora",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mujer",
+                "Hombre",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Discapacidad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PWD",
+                "Persona con discapacidad",
+                ""
+              ]
+            },
+            "title": "Personas sin y con discapacidad"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Euros",
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

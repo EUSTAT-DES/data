@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T_OE_PER_1000000_EUR",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

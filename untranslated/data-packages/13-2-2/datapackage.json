@@ -12,7 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_ATM_GHGGDP",
+                "EN_ATM_GHGPC",
+                "EU_GHG_TV1990",
+                "EU_GHG_TV2005",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG_CO2_PER_GDP_EUR",
+                "T_CO2_PER_CAPITA",
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

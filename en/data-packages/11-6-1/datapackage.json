@@ -12,8 +12,59 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Residuos urbanos recogidos per cápita",
+                "Proporción de residuos sólidos municipales recogidos y administrados en instalaciones controladas ",
+                "Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Tratamiento",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Reciclaje",
+                "Incineración con recuperación de energía",
+                "Depósito en vertedero",
+                ""
+              ]
+            },
+            "title": "Operación de tratamiento de residuos"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kg per cápita",
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

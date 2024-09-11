@@ -12,8 +12,56 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Institucion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sector público (total)",
+                "Sector público autonómico",
+                "Instituciones sanitarias autonómicas",
+                "Centros educativos no universitarios autonómicos",
+                "Diputaciones forales",
+                "Universidades",
+                "Policía autonómica",
+                "Administración de Justicia autonómica",
+                "Sector público local",
+                "Ayuntamientos",
+                "Sector público estatal",
+                "Fuerzas armadas",
+                "Fuerzas y cuerpos de seguridad del Estado",
+                "Administración de Justicia del Estado",
+                ""
+              ]
+            },
+            "title": "Institución"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

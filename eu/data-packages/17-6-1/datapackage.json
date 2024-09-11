@@ -12,8 +12,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Velocidad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DSL",
+                "Fibra óptica (FTTH)",
+                "Híbrido de Fibra Coaxial (HFC)",
+                "Otra tecnología",
+                ""
+              ]
+            },
+            "title": "Tecnología de acceso"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Por 100 personas",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

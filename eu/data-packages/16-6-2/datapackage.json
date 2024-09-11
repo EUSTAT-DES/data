@@ -12,8 +12,64 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "ServPub",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Servicios públicos (total)",
+                "Enseñanza",
+                "Asistencia sanitaria",
+                "Gestión de pensiones",
+                "Administración de justicia",
+                "Seguridad ciudadana",
+                "Servicios sociales",
+                "Transporte público",
+                "Obras públicas",
+                "Ayuda a personas dependientes",
+                ""
+              ]
+            },
+            "title": "Servicios públicos"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mujer",
+                "Hombre",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

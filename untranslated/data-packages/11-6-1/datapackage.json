@@ -12,7 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU_W_GENPCAP",
+                "EN_REF_WASCOL",
+                "EN_MWT_TREATV",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tratamiento",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "WT_RECYC",
+                "WT_INCINRT_EGY",
+                "WT_LANDFIL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES211",
+                "ES213",
+                "ES212",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG_PER_CAPITA",
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

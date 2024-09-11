@@ -12,7 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Explotacion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU_HTF_DETVFL",
+                "VC_HTF_DETVOG",
+                "EU_HTF_DETVR",
+                "EU_HTF_DETVSXR",
+                "VC_HTF_DETVOP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_100000",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

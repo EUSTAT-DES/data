@@ -12,7 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_HAZ_PCAP",
+                "EN_HAZ_TREAT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tratamiento",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "WT_RECYC",
+                "WT_INCINRT_EGY",
+                "WT_INCINRT",
+                "WT_LANDFIL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES211",
+                "ES213",
+                "ES212",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG_PER_CAPITA",
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

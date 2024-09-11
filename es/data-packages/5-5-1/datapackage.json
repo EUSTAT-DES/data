@@ -12,8 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Institucion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Electas en parlamento autonómico",
+                "Departamentos en el gobierno autonómico",
+                "Electas en Juntas Generales",
+                "Departamentos en gobiernos forales",
+                "Alcaldías",
+                "Concejalías",
+                ""
+              ]
+            },
+            "title": "Institución"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

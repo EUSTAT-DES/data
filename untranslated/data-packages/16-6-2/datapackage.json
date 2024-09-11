@@ -12,7 +12,59 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "ServPub",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SP_PSR_SATIS",
+                "EU_PSR_SATIS_EDU",
+                "SP_PSR_SATIS_HLTH",
+                "EU_PSR_SATIS_PENSN",
+                "EU_PSR_SATIS_JUST",
+                "EU_PSR_SATIS_SEC",
+                "EU_PSR_SATIS_SOCSERV",
+                "EU_PSR_SATIS_TRANSPORT",
+                "EU_PSR_SATIS_OBRA",
+                "EU_PSR_SATIS_DPDNT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES211",
+                "ES213",
+                "ES212",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

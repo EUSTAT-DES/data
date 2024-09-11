@@ -12,7 +12,38 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_ATM_PM25",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "PM",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PM25",
+                "PM10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GPERM3",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

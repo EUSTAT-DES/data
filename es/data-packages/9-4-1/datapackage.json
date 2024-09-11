@@ -12,8 +12,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Emisiones de dióxido de carbono procedentes de la quema de combustibles",
+                "Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero ",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Actividad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufactura",
+                ""
+              ]
+            },
+            "title": "Actividad económica"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kg de CO2 equivalente por euro de PIB",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

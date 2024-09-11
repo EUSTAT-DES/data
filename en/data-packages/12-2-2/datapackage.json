@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Consumo doméstico de materiales per cápita",
+                "Consumo doméstico de materiales por PIB",
+                "Consumo doméstico de materiales en términos absolutos",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Toneladas per cápita",
+                "Toneladas por millon de euros",
+                "Kilotoneladas",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

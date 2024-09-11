@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Explotacion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU_HTF_DETVFL",
+                "VC_HTF_DETVOG",
+                "Trata de personas (todos los fines)",
+                "Explotación sexual",
+                "Otros fines",
+                ""
+              ]
+            },
+            "title": "Tipo de explotación"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Por 100.000",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

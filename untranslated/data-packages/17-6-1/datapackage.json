@@ -12,7 +12,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Velocidad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NET_DSL",
+                "NET_FTTH",
+                "NET_HFC",
+                "NET_OTHER",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES211",
+                "ES213",
+                "ES212",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_100_POP",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

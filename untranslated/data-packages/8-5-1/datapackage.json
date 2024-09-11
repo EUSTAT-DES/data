@@ -12,7 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_EMP_EARN",
+                "EU_GENDERPAY_GAP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Discapacidad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PWD",
+                "PD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EUR",
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

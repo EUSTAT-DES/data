@@ -12,7 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_MAT_DOMCMPC",
+                "EN_MAT_DOMCMPG",
+                "EN_MAT_DOMCMPT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T_PER_CAPITA",
+                "T_MILLON_EUR",
+                "KT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
