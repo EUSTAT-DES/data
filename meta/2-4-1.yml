@@ -1,26 +1,88 @@
  # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: xxx
+indicador_disponible: >-
+  Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible
+
 objetivo_global: objetivo_largo.2-titulo
 meta_global: meta_largo.2-4-titulo
 #  indicador_onu_global: indicador_largo.2-4-1-titulo
 
-definicion: xxx 
-formula: xxx
-desagregacion: xxx
+
+
+definicion: >-
+  Proporción de la superficie agrícola (cultivos y prados y pastizales) destinada a la producción ecológica
+
+formula: |
+  <p>$$PSA_{ecológica}^{t} = \frac{SA_{ecológica}^{t}}{SA^{t}} \cdot 100$$ </p>
+  <p>donde: </p>
+  <p>$SA_{ecológica}^t =$ superficie agrícola destinada a la producción ecológica en el año $t$ </p>
+  <p>$SA^{t} =$ superficie agrícola (cultivos, prados y pastizales) en el año $t$</p>
+
+desagregacion: >-
+  Territorio histórico/Comarca/Municipio
+
+observaciones: >-
+
 periodicidad: FUENTE.FREQ_A
-observaciones: 
 texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: xxx 
-justificacion_global: xxx
+descripcion_global:  |
+  <p>El indicador 2.4.1 de los ODS se basa en un conjunto de subindicadores 
+  que cubren las tres dimensiones de la sostenibilidad:<br>
+  - Valor de la producción agrícola por hectárea <br>
+  - Ingresos agrícolas netos <br>
+  - Mecanismos de mitigación de riesgos <br>
+  - Prevalencia de la degradación del suelo <br>
+  - Variación en la disponibilidad de agua <br>
+  - Gestión de fertilizantes <br>
+  - Gestión de pesticidas <br>
+  - Uso de prácticas que apoyan la agrobiodiversidad <br>
+  - Salarios en la agricultura <br>
+  - Escala de experiencia (FIES) <br>
+  - Tenencia de la tierra <br>
+  - Derechos de tenencia seguros de la tierra</p>
+
+  <p>El indicador "Superficie dedicada a la agricultura ecológica" forma parte del 
+  conjunto de indicadores de los Objetivos de Desarrollo Sostenible (ODS) 
+  de la UE, y está incluido en las Prioridades de la Comisión Europea bajo el Acuerdo Verde Europeo. 
+  El indicador mide la proporción del área agrícola utilizada (SAU) total ocupada por la 
+  agricultura orgánica (áreas existentes cultivadas orgánicamente y áreas en proceso de conversión).</p>
+
+justificacion_global: >-
+  <p>Los enfoques para definir la agricultura sostenible varían 
+  en términos de su cobertura de las tres dimensiones principales de la 
+  sostenibilidad, es decir, económica, ambiental y social, y en términos 
+  de la escala que se utiliza para evaluar la sostenibilidad, es decir, desde 
+  escalas de campo y granja hasta escalas nacional y global. Algunos enfoques
+  consideran diferentes características de la sostenibilidad, por ejemplo, 
+  si las prácticas actuales son económicamente viables, respetuosas con el 
+  medio ambiente y socialmente deseables. Otros enfoques se centran en prácticas
+  particulares como la agricultura orgánica, regenerativa o de bajos insumos y 
+  pueden equipararlas con la agricultura sostenible.</p>
+
+  <p>Si bien la agricultura orgánica no se menciona explícitamente en la 
+  Agenda 2030, la UE considera la agricultura orgánica como un método de 
+  producción que pone el mayor énfasis en la protección del medio ambiente 
+  y la vida silvestre y, con respecto a la producción ganadera, en consideraciones 
+  de bienestar animal. Evita o reduce en gran medida el uso de insumos químicos 
+  sintéticos como fertilizantes, pesticidas, aditivos y productos médicos. 
+  Está prohibida la producción de organismos genéticamente modificados (OGM) y 
+  su uso en la alimentación animal.</p>
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.4.1&seriesCode=AG_LND_SUST_PRXCSS&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Progreso hacia una agricultura productiva y sostenible, puntaje de estado actual AG_LND_SUST_PRXCSS</a> UNSTATS<br>
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_02_40/default/table?lang=en&category=sdg.sdg_02">Superficie dedicada a la agricultura ecológica (sdg_02_40)</a> Eurostat
+
+comparabilidad: >-
+  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas al no
+  utilizar la misma forma de cálculo, pero sí es comparable con el indicador europeo "superficie
+  dedicada a la agricultura ecológica".
+
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-04-01.pdf">Metadata 2-4-1 (1).pdf</a><br>
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-04-01proxy.pdf">Metadata 2-4-1 (2).pdf</a>
-dato_global:
-comparabilidad: 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-04-01.pdf">Metadata 2-4-1 (1).pdf (solo en inglés)</a><br>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-04-01proxy.pdf">Metadata 2-4-1 (2).pdf (solo en inglés)</a>
 
 national_data_updated_date: '2024-07-29'
 national_metadata_updated_date: '2024-07-29'

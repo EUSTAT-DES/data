@@ -1,23 +1,72 @@
  # Metadatos nacionales (ficha metodológica)
 
+indicador_disponible: >-
+  Proporción de viviendas principales con acceso a servicios básicos (abastecimiento de agua corriente y baño)
+
 objetivo_global: objetivo_largo.1-titulo
 meta_global: meta_largo.1-4-titulo
 #  indicador_onu_global: indicador_largo.1-4-1-titulo
 
-definicion: xxx 
-formula: xxx
-desagregacion: xxx
+definicion: >-
+  Proporción de viviendas principales con acceso a servicios básicos (abastecimiento de agua corriente y baño)
+
+formula: |
+  <p>$$PVP_{SB}^{t} = \frac{VP_{SB}^{t}}{VP^{t}} \cdot 100$$ </p>
+  <p>donde: </p>
+  <p>$VP_{SB}^{t} =$ viviendas principales con acceso a servicios básicos en el año $t$ </p>
+  <p>$VP^{t} =$ viviendas principales en el año $t$</p>
+
+desagregacion: >-
+  Territorio histórico/Comarca/Municipio
+
+observaciones: >-
+  Vivienda principal es aquella vivienda que es utilizada toda o la mayor parte del año como 
+  residencia habitual por una o más personas
+
+
 periodicidad: FUENTE.FREQ_A
-observaciones: xxx
 texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: xxx 
-justificacion_global: xxx
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-01.pdf">Metadata 1-4-1.pdf</a>'
-dato_global: xxx 
-comparabilidad: 
+descripcion_global: >-
+  <p>La proporción de la población que vive en hogares con acceso a servicios básicos se 
+  define como la proporción de la población que utiliza sistemas de prestación de servicios
+   públicos que satisfacen las necesidades humanas básicas, incluidos agua potable, saneamiento, 
+  higiene, energía, movilidad, recogida de residuos, atención sanitaria, educación e información.
+  tecnologías. Por tanto, el indicador de servicios básicos se basa en 9 componentes. Estos 
+  componentes se capturan en varios indicadores independientes de los ODS, lo que significa 
+  que los conceptos y definiciones del indicador 1.4.1 de los ODS se derivarán de estos indicadores 
+  específicos de los ODS o serán los mismos que ellos.</p>
+
+justificacion_global: >-
+  <p>Entre los diferentes aspectos de la pobreza, este indicador se centra en el acceso a servicios básicos. 
+  Proporcionar acceso a servicios básicos como agua potable, servicios de saneamiento e higiene, energía 
+  y movilidad sostenibles, vivienda, educación, atención sanitaria, etc., ayuda a mejorar la calidad de 
+  vida de los pobres.</p>
+  <p>La falta de prestación de servicios básicos y la falta de empoderamiento y participación 
+  de los gobiernos locales en la prestación de servicios básicos socavan el crecimiento económico y la calidad 
+  de vida en cualquier comunidad. Unos sistemas adecuados de prestación de servicios básicos promueven mejoras 
+  socioeconómicas y ayudan a lograr el crecimiento económico, la inclusión social, la reducción de la pobreza 
+  y la igualdad.</p>
+  <p>Más específicamente, la mejora de los servicios básicos puede ayudar a aumentar el bienestar 
+  y la productividad de las comunidades, crear empleos, ahorrar tiempo y esfuerzo humano en el transporte de 
+  agua, apoyar la seguridad alimentaria, mejorar el uso de la energía, producir productos básicos esenciales, 
+  mejorar la salud (haciendo que los servicios médicos atención sanitaria, disponibilidad de agua potable o 
+  recogida de residuos sólidos) o mejorar el nivel de educación.</p>
+
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.4.1&seriesCode=SP_ACS_BSRVH2O&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=RURAL">Proporción de población que utiliza servicios básicos de agua potable, por ubicación (%) SP_ACS_BSRVH2O</a> UNSTATS<br>
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.4.1&seriesCode=SP_ACS_BSRVSAN&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA">
+  Proporción de población que utiliza servicios básicos de saneamiento, por ubicación (%) SP_ACS_BSRVSAN</a> UNSTATS
+
+comparabilidad: >-
+  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas. Algunos
+  de los servicios básicos se miden en otros indicadores de desarrollo sostenible de esta plataforma.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-01.pdf">Metadata 1-4-1.pdf (solo en inglés)</a>'
+
 informacion_interes: 
 
 national_data_updated_date: '2024-07-29'
