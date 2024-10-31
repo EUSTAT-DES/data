@@ -1,0 +1,60 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.3-3-3-title
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-3-titulo
+#  indicador_onu_global: indicador_largo.3-3-3-titulo
+
+
+definicion: >-
+  Casos autóctonos de malaria notificados a la Red Nacional de Vigilancia Epidemiológica (RENAVE) por cada 1.000 habitantes.
+
+formula: |
+
+  <p> $$TCA_{malaria}^{t} = \frac{CA_{malaria}^{t}}{P^{t}} \cdot 1.000$$</p>
+  <p>donde: </p>
+  <p>$CA_{malaria}^{t} =$ casos autóctonos de malaria notificados a la Red Nacional de Vigilancia Epidemiológica (RENAVE) en el año $t$ </p>
+  <p>$P^{t} =$ población a 1 de julio del año $t$</p>
+
+desagregacion: >- 
+  Sexo
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+  <p>Los casos autóctonos son aquellos en los que la enfermedad se ha contraído en el territorio nacional.</p>
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+descripcion_global: >-
+  <p>La incidencia de malaria se define como el número de nuevos casos de malaria por cada 1.000 personas 
+  en riesgo cada año. Un caso de malaria se define como la aparición de infección por malaria en una persona
+   en la que la presencia de parásitos de la malaria en la sangre se ha confirmado mediante una prueba de diagnóstico. 
+  La población considerada es la población en riesgo de padecer la enfermedad.</p>
+
+justificacion_global: >-
+
+ <p>El objetivo es medir las tendencias en la morbilidad de la malaria e identificar lugares donde el riesgo de
+  enfermedad es mayor.  Con esta información, los programas pueden responder a tendencias inusuales, como epidemias, y dar
+  recursos a las poblaciones más necesitadas. Estos datos también sirven para informar la asignación global de recursos
+  para la malaria, cuando se definen los criterios de elegibilidad para la financiación del Fondo Mundial.</p>
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.3.3&seriesCode=SH_STA_MALR&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Incidencia de malaria por 1.000 habitantes en riesgo (por 1.000 habitantes) SH_STA_MALR</a> UNSTATS
+
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-03.pdf">Metadata 3-3-3.pdf (solo en inglés)</a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'
