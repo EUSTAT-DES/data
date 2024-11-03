@@ -1,11 +1,12 @@
  # Metadatos Eustat  
-nombre: Available indicator name
+indicador_disponible: Available indicator
 objetivo_global: Goal
 meta_global: Target
 indicador_onu_global: Indicator
 definicion: Definition
 formula: Theoretical formula
 periodicidad: Frequency
+desagregacion: Available disaggregations
 observaciones: Observations
 oceca: OCECA indicator
 texto_oceca: OCECA
