@@ -1,11 +1,13 @@
  # Metadatos Eustat  
-nombre: Eskuragarri dagoen adierazlearen izena
+ 
+indicador_disponible: Eskuragarri dagoen adierazlea
 objetivo_global: Helburua
 meta_global: Helmuga
 indicador_onu_global: Adierazlea
 definicion: Definizioa
 formula: Formula teorikoa
 periodicidad: Aldizkakotasuna
+desagregacion: Eskuragarri dauden desagregazioak
 observaciones: Oharra
 oceca: OCECA adierazlea
 texto_oceca: OCECA
@@ -13,7 +15,7 @@ descripcion_global: Deskribapena
 justificacion_global: Justifikazioa
 indicador_meta_enlace: NBEko metadatuetarako esteka   
 dato_global: Nazioarteko emaitzak
-comparabilidad: Eskuragarri dagoen adierazlearen eta NBE adierazlearen arteko alderagarritasuna
+comparabilidad: Eskuragarri dagoen adierazlearen eta NBE adierazlearen arteko konparagarritasuna
 informacion_interes: Informazio gehigarria
 
  # A partir de aquí, metadatos open SDG
