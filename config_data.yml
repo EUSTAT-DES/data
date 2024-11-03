@@ -149,3 +149,17 @@ docs_metadata_fields:
       label: Units
     - key: graph_type
       label: Graph type
+indicator_options:
+  non_disaggregation_columns:
+    - Year
+    - Units
+    - Series
+    - Value
+    - GeoCode
+    - Observation status
+    - Unit multiplier
+    - Unit measure
+  series_column: Series
+  unit_column: Units
+  observation_attributes:
+    - COMMENT_OBS
