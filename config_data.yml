@@ -149,6 +149,8 @@ docs_metadata_fields:
       label: Units
     - key: graph_type
       label: Graph type
+      
+# Indicator options
 indicator_options:
   non_disaggregation_columns:
     - Year
