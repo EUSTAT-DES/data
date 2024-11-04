@@ -1,0 +1,75 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  Proporción de mujeres en edad de procrear (entre 18 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-7-titulo
+#  indicador_onu_global: indicador_largo.3-7-1-titulo
+
+
+definicion: >-
+  Proporción de mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que utilizan métodos 
+  anticonceptivos modernos respecto a aquellas que no desean quedarse embarazadas, es decir, que utilizan métodos 
+  anticonceptivos o tienen una necesidad insatisfecha de planificación familiar
+
+formula: |
+
+  <p>$$PM_{18-49,anticonceptivos\, modernos}^{t} = \frac{M_{18-49,anticonceptivos\, modernos}^{t}}{M_{18-49,anticonceptivos}^{t}+M_{18-49,insatisfecha}^{t}} \cdot 100$$ </p>
+  <p>donde: </p>
+  <p>$M_{18-49,anticonceptivos\, modernos}^{t} =$ mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que utilizan métodos anticonceptivos modernos en el año $t$ </p>
+  <p>$M_{18-49,anticonceptivos}^{t} =$ mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que utilizan 
+  métodos anticonceptivos en el año $t$</p>
+  <p>$M_{18-49,insatisfecha}^{t} =$ mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que tienen una necesidad insatisfecha de planificación familiar en el año $t$</p>
+
+desagregacion: >- 
+
+
+periodicidad: FUENTE.FREQ_I
+
+
+observaciones: >-
+
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+descripcion_global: >-
+  <p>Porcentaje de mujeres en edad reproductiva (15-49 años) que actualmente utilizan un 
+  método moderno de anticoncepción entre aquellas que desean no tener hijos (adicionales) o 
+  posponer el próximo embarazo. El indicador también se conoce como la demanda de 
+  planificación familiar satisfecha con métodos modernos.</p>
+
+
+justificacion_global: >-
+  <p>La proporción de la demanda de planificación familiar satisfecha con métodos modernos es útil 
+  para evaluar los niveles generales de cobertura de los programas y servicios de planificación familiar. 
+  El acceso a un medio eficaz para prevenir el embarazo y su uso ayudan a que las mujeres y sus parejas 
+  ejerzan su derecho a decidir libre y responsablemente el número y el espaciamiento de sus hijos y a disponer 
+  de la información, la educación y los medios para hacerlo. Satisfacer la demanda de planificación familiar 
+  con métodos modernos también contribuye a la salud materna e infantil al prevenir los embarazos no deseados 
+  y los embarazos con poco espaciamiento, que tienen mayor riesgo de malos resultados obstétricos.</p>
+
+  <p>Los niveles de demanda de planificación familiar satisfecha con métodos modernos del 75 por ciento o más se 
+  consideran generalmente altos, y los valores del 50 por ciento o menos se consideran generalmente como muy bajos. 
+  El indicador no tiene un valor numérico global "objetivo" que se deba alcanzar para 2030. Si nos fijamos en los 
+  valores más altos del indicador, en 22 países que representan regiones como Europa y América del Norte, América Latina
+   y el Caribe y Asia oriental y sudoriental, más del 85 por ciento de las mujeres que quieren evitar el 
+  embarazo están usando un método anticonceptivo moderno, pero en ningún país esta estimación supera el 91 por ciento.</p>
+
+
+dato_global: >-
+
+  <a https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.7.1&seriesCode=SH_FPL_MTMM&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15-49%20%7C%20FEMALE"> Proporción de mujeres en edad reproductiva (de 15 a 49 años) que tienen satisfechas sus necesidades de planificación familiar con métodos modernos (% de mujeres de 15 a 49 años) SH_FPL_MTMM</a> UNSTATS
+
+
+comparabilidad: >- 
+  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta información similar.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-01.pdf">Metadata 3-7-1.pdf (solo en inglés)</a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

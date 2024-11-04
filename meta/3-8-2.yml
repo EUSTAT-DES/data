@@ -1,0 +1,69 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  Proporción de la población con grandes gastos sanitarios por hogar como porcentaje del total de gasto del hogar
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-8-titulo
+#  indicador_onu_global: indicador_largo.3-8-2-titulo
+
+
+definicion: >-
+  Proporción de personas que viven en hogares con un gasto sanitario que representa más del 10% o 25 % del gasto total del hogar
+
+formula: |
+
+  <p>$$PPGGS_{\gt x\%}^{t} = \frac{PGGS_{\gt x\%}^{t}}{P^{t}} \cdot 100$$</p>
+
+  <p>donde: </p>
+
+  <p> $PPGGS_{\gt x\%}^{t} \) es la proporción de la población que vive en hogares con grandes gastos sanitarios, superiores a \( x\% \) del gasto total del hogar, en el año $t$</p>
+  <p>$P^{t} =$ población total en el año $t$</p>
+
+desagregacion: >- 
+  Umbral de gasto: 10% y 25% del gasto total del hogar
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+descripcion_global: >-
+  <p>Proporción de la población con un elevado gasto familiar en salud como porcentaje del gasto o ingreso 
+  total del hogar. Se utilizan dos umbrales para definir el “gran gasto familiar en salud”: superior al 10% y superior 
+  al 25% del gasto o ingreso total del hogar.</p>
+
+justificacion_global: >-
+  <p>La meta 3.8 se refiere a la cobertura sanitaria universal (CSU) y se define como “Lograr la cobertura 
+  sanitaria universal, incluida la protección contra los riesgos financieros, el acceso a servicios 
+  de salud esenciales de calidad y el acceso a medicamentos y vacunas esenciales seguros, eficaces, de calidad 
+  y asequibles para todos”. La preocupación es que todas las personas y comunidades reciban los servicios sanitarios
+  de calidad que necesitan (incluidos los medicamentos y otros productos sanitarios) sin dificultades financieras. 
+  Las dificultades financieras son una consecuencia clave de los mecanismos inadecuados de protección
+  contra los riesgos financieros y pueden experimentarse en cualquier país, independientemente del nivel de ingresos
+   y el tipo de sistema sanitario. El indicador 3.8.2 trata de identificar a las personas con gastos de 
+  bolsillo en salud que exceden su capacidad de pago, lo que podría llevar a recortar el gasto en otras necesidades 
+  básicas como la educación, la alimentación, la vivienda y los servicios públicos. Reducir las dificultades 
+  financieras en materia de salud es importante en la agenda de desarrollo mundial, así como una prioridad del 
+  sector sanitario de muchos países en todas las regiones.</p>
+
+
+dato_global: >-
+
+  <a https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.8.2&seriesCode=SH_XPD_EARN25&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Proporción de la población con grandes gastos domésticos en salud (superiores al 25%) como porcentaje del gasto o ingreso total del hogar (%) SH_XPD_EARN25</a> UNSTATS<br>
+
+  <a https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.8.2&seriesCode=SH_XPD_EARN10&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Proporción de la población con grandes gastos domésticos en salud (superiores al 10%) como porcentaje del gasto o ingreso total del hogar (%) SH_XPD_EARN10</a> UNSTATS<br>
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-08-02.pdf">Metadata 3-8-2.pdf (solo en inglés)</a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

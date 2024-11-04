@@ -41,7 +41,8 @@ formula: |
 
 desagregacion: >- 
   Sexo <br>
-  Enfermedad no transmisible
+  Enfermedad no transmisible (NCD): enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias 
+  crónicas
 
 periodicidad: FUENTE.FREQ_A
 
