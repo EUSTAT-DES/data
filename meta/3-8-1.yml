@@ -1,0 +1,73 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-8-titulo
+#  indicador_onu_global: indicador_largo.3-8-1-titulo
+
+
+definicion: >-
+  Proporción de personas de 16 años y más que informa sobre necesidades insatisfechas de atención médica debido a alguna de 
+  las siguientes razones: Razones financieras, lista de espera y demasiado lejos para viajar
+
+formula: |
+
+  <p>$$PPNIAM_{16+}^{t} = \frac{PNIAM_{16+}^{t}}{P_{16+}^{t}} \cdot 100$$</p>
+  <p>donde: </p>
+  <p> $PPNIAM_{16+}^{t} =$ población de 16 y más años que indica necesidades insatisfechas de atención médica en el año $t$</p>
+  <p>$P_{16+}^{t} =$ población de 16 y más años en el año $t$</p>
+
+desagregacion: >- 
+  Sexo
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+  Las necesidades insatisfechas autoinformadas se refieren a la propia evaluación de una persona 
+  sobre si necesitaba un examen o tratamiento médico (excluido el cuidado dental), pero no lo tuvo 
+  o no lo buscó
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+descripcion_global: >-
+  <p>Cobertura de servicios de salud esenciales (definida como la cobertura promedio de servicios esenciales 
+  basada en intervenciones trazadoras que incluyen salud reproductiva, materna, neonatal 
+  e infantil, enfermedades infecciosas, enfermedades no transmisibles y capacidad y acceso a los servicios, 
+  entre la población general y la más desfavorecida).</p>
+
+justificacion_global: >-
+  <p>La meta 3.8 se define como “Lograr la cobertura sanitaria universal, incluida la protección contra los riesgos financieros, 
+  el acceso a servicios esenciales de salud de calidad y el acceso a medicamentos y vacunas esenciales seguros, eficaces, 
+  de calidad y asequibles para todos”. El objetivo es que todas las personas y comunidades reciban los servicios de 
+  salud de calidad que necesitan (incluidos medicamentos y otros productos sanitarios), sin dificultades financieras.
+  Se han elegido dos indicadores para monitorear la meta 3.8 en el marco de los ODS. El indicador 3.8.1 es para
+  la cobertura de servicios de salud y el indicador 3.8.2 se centra en los gastos de salud en relación con el
+  presupuesto de un hogar para identificar las dificultades financieras causadas por los pagos directos de atención médica. 
+  En conjunto, los indicadores 3.8.1 y 3.8.2 tienen por objeto captar las dimensiones de cobertura de servicios y 
+  protección financiera, respectivamente, de la meta 3.8. Estos dos indicadores siempre deben monitorearse conjuntamente.</p>
+
+  <p>Los países proporcionan muchos servicios esenciales para la protección, promoción, prevención, tratamiento y atención de 
+  la salud. Los indicadores de cobertura de servicios (definidos como las personas que reciben el servicio que necesitan) 
+  son la mejor manera de seguir el progreso en la prestación de servicios en el marco de la cobertura sanitaria universal (CSU).</p>
+
+
+dato_global: >-
+
+  <a https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.8.1&seriesCode=SH_ACS_UNHC&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Índice de cobertura de servicios de cobertura sanitaria universal (CSU) SH_ACS_UNHC</a> UNSTATS
+
+
+comparabilidad: >- 
+  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta información similar.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-08-01.pdf">Metadata 3-8-1.pdf (solo en inglés)</a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'
