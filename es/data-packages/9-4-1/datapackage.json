@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Emisiones de dióxido de carbono procedentes de la quema de combustibles",
-                "Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero ",
+                "Emisiones de CO2",
+                "Emisiones de CO2 por unidad de valor añadido del sector manufacturero ",
                 ""
               ]
             },

@@ -2796,8 +2796,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Emisiones de dióxido de carbono procedentes de la quema de combustibles",
-                "Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero ",
+                "Emisiones de CO2",
+                "Emisiones de CO2 por unidad de valor añadido del sector manufacturero ",
                 ""
               ]
             },
@@ -8718,7 +8718,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Comentario"
           },
           {
             "name": "GeoCode",
@@ -9135,7 +9135,7 @@
           }
         ]
       },
-      "title": "national_indicators.8-b-E1-title"
+      "title": "Gasto de las administraciones públicas autonómicas en fomento del empleo"
     },
     {
       "path": "3-8-1/data.csv",
@@ -11913,7 +11913,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Comentario"
           },
           {
             "name": "Value",
