@@ -14,17 +14,71 @@
 
 3-3-1-titulo: "Número de infecciones por el VIH por cada 1.000 habitantes, desglosado por sexo"
 3-5-1-titulo: "Número de admisiones a tratamiento por abuso o dependencia de alcohol y drogas ilegales por cada 100.000 habitantes"
-3-5-2-titulo: "Consumo anual de alcohol registrado en litros de alcohol puro por persona de 15 y más años"
+3-5-2-titulo: "Consumo anual de alcohol en litros de alcohol puro por persona de 15 y más años"
 3-7-1-titulo: "Proporción de mujeres en edad de procrear (entre 18 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos"
 3-8-1-titulo: "Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica"
+3-8-2-titulo: "Proporción de la población con grandes gastos sanitarios por hogar como porcentaje del total de gasto del hogar"
 3-a-1-titulo: "Proporción de personas de 15 y más años que fuman a diario"
 
 4-1-1-titulo: "Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura y matemáticas"
 4-1-2-titulo: "Tasa de finalización (educación secundaria inferior y educación secundaria superior)"
 4-3-1-titulo: "Tasa de participación de jóvenes y adultos en la educación y formación académica y no académica, desglosada por sexo"
 
+5-1-1-titulo: "Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género"
+5-2-1-titulo: "Tasa de victimizaciones contra las mujeres a manos de su actual o anterior pareja "
+5-2-2-titulo: "Tasa de victimizaciones contra las mujeres por tipo de violencia"
+5-3-1-titulo: "Proporción de mujeres de 16 y 17 años que han contraído matrimonio con un hombre"
+5-4-1-titulo: "Tiempo dedicado al hogar y familia en un día promedio"
+5-5-1-titulo: "Proporción de escaños ocupados por mujeres en a) el parlamento autonómico y b) los gobiernos autonómicos, forales y locales"
+5-a-2-titulo: "Grado en que el marco jurídico garantiza la igualdad de derechos de la mujer a la propiedad o el control de tierras"
+5-b-1-titulo: "Proporción de personas entre 16 y 74 años que han usado el móvil en los últimos tres meses"
+
+8-10-2-titulo: "Proporción de personas entre 18 y 79 años que tienen una cuenta corriente"
+
+10-4-2-titulo: "Índice de Gini"
+
+11-1-1-titulo: "Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda"
+11-4-1-titulo: "Total de gastos per cápita de fuente de financiación pública destinados a la preservación, protección y conservación de todo el patrimonio cultural, desglosado por nivel de gobierno (autonómico y local/municipal)"
+
+11-5-1-titulo: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
+11-5-2-titulo: "Indemnizaciones por daños personales, pérdidas pecuniarias y daños de bienes pagadas y/o provisionadas en proporción al PIB" 
+
+
+11-6-1-titulo: "Residuos urbanos recogidos per cápita y proporción de residuos tratados, desglosados por tipo de tratamiento"
+
+11-6-2-titulo: "Niveles medios anuales de partículas finas en suspensión (PM2.5 y PM10) en las ciudades (ponderados según la población)"
+
+11-a-1-titulo: "Proporción de la población residente en municipios que disponen de Plan General o Normas Subsidiarias o figuras equivalentes"
+
+
+12-1-1-titulo: "Se elaboran, adoptan o aplican instrumentos de política destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles"
+
+12-5-1-titulo: "Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados"
+
+12-6-1-titulo: "Número de organizaciones con EMAS o Ecolabel"
+
+13-1-1-titulo: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
+
+15-3-1-titulo: "Superficie de suelos potencialmente contaminados y recuperados para nuevos usos"
+
+15-8-1-titulo: "Se dispone de legislación nacional pertinente y se destinan recursos para la prevención o el control de las especies exóticas invasoras"
+
+16-2-2-titulo: "Número de víctimas detectadas de tráfico de personas por cada 100.000 habitantes, desglosado por tipo de explotación"
+16-6-2-titulo: "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos"
+
+17-1-1-titulo: "Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB "
+17-1-2-titulo: "Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos"
+17-2-1-titulo: "Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales, y en proporción al PIB"
+17-3-1-titulo: "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo, y en proporción al PIB" 
+17-3-2-titulo: "Volumen de remesas enviadas al extranjero, y en proporción al PIB" 
+17-8-1-titulo: "Proporción de personas entre 16 y 74 años que han utilizado Internet en los últimos tres meses"
+17-8-2-titulo: "La legislación sobre estadísticas cumple los Principios Fundamentales de las Estadísticas Oficiales"
+17-8-3-titulo: "Se dispone de un plan estadístico autonómico plenamente financiado y en fase de aplicación"
+17-19-2-titulo: "a) Se ha realizado al menos un censo de población y vivienda en los últimos diez años, b) Se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones"
+
 # CONTENIDO
 
+1-1-1-contenido: "<b>Meta:</b> Erradicar la pobreza extrema"
 1-2-1-contenido: "<b>Meta:</b> Reducir a la mitad la población que vive en la pobreza en todas sus dimensiones"
 1-2-2-contenido: "<b>Meta:</b> Reducir a la mitad la población que vive en la pobreza en todas sus dimensiones. <br> Se mantiene el objetivo de reducción respecto al valor del año 2015 a pesar de la ruptura de la serie en el año 2020. Con la metodología pre-2020, la Tasa AROPE del año 2022 es de 19,3%"
 1-3-1-contenido: "<b>Dirección deseada:</b> Aumento"
@@ -51,7 +105,7 @@
 3-4-2-contenido: "<b>Dirección deseada:</b> Descenso"
 3-4-E1-contenido: "<b>Dirección deseada:</b> Ascenso"
 3-4-E2-contenido: "<b>Dirección deseada:</b> Ascenso"
-3-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+3-5-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 3-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
 3-6-1-contenido: "<b>Meta:</b> Reducir a la mitad el número de muertes"
 3-7-1-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -72,6 +126,17 @@
 4-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 4-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 4-c-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+
+5-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+5-2-1-contenido: "<b>Dirección deseada:</b> Descenso"
+5-2-2-contenido: "<b>Dirección deseada:</b> Descenso"
+5-3-1-contenido: "<b>Dirección deseada:</b> Descenso"
+5-4-1-contenido: "<b>Dirección deseada:</b> Para poder calcular el progreso hacia el objetivo de reparto equitativo de las funciones parentales y las responsabilidades familiares, se valora la relación entre la proporción de tiempo de las mujeres y el de los hombres, con un objetivo deseado de 1"
+5-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+5-5-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+5-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+5-a-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+5-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
 # NOTAS
 
