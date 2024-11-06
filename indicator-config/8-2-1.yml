@@ -23,11 +23,22 @@ graph_type: line
 indicator_name: global_indicators.8-2-1-title
 indicator_number: '8.2.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.8-2-1-contenido
 permalink: ''
 precision: []
 progress_status: alcanzado
 reporting_status: alcanzado
 sort: ''
+sources:
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_cpib_url
+    url_text: FUENTE.Eustat_cpib
+    logo: FUENTE.Eustat_logo
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_cpibmun_url
+    url_text: FUENTE.Eustat_cpibmun
+    logo: FUENTE.Eustat_logo
 standalone: false
 tags: []

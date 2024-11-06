@@ -23,11 +23,22 @@ graph_type: line
 indicator_name: global_indicators.6-1-1-title
 indicator_number: '6.1.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.6-1-1-contenido
 permalink: ''
 precision: []
 progress_status: alcanzado
 reporting_status: alcanzado
 sort: ''
+sources:
+  - organisation: FUENTE.GE_Sanidad
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.GE_Sanidad_cach_url
+    url_text: FUENTE.GE_Sanidad_cach
+    logo: FUENTE.GE_logo
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A2
+    url: FUENTE.Eustat_iig_url
+    url_text: FUENTE.Eustat_iig
+    logo: FUENTE.Eustat_logo
 standalone: false
 tags: []

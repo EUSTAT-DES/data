@@ -23,11 +23,17 @@ graph_type: line
 indicator_name: global_indicators.5-5-2-title
 indicator_number: '5.5.2'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.5-5-2-contenido
 permalink: ''
 precision: []
 progress_status: retroceso
 reporting_status: retroceso
 sort: ''
+sources:
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_pra_url
+    url_text: FUENTE.Eustat_pra
+    logo: FUENTE.Eustat_logo
 standalone: false
 tags: []

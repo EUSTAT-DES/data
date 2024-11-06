@@ -23,10 +23,26 @@ graph_type: line
 indicator_name: global_indicators.8-5-2-title
 indicator_number: '8.5.2'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.8-5-2-contenido
 permalink: ''
 precision: []
 reporting_status: notstarted
 sort: ''
+sources:
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_pra_url
+    url_text: FUENTE.Eustat_pra
+    logo: FUENTE.Eustat_logo
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_cempa_url
+    url_text: FUENTE.Eustat_cempa
+    logo: FUENTE.Eustat_logo
+  - organisation: FUENTE.INE
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.INE_eepd_url
+    url_text: FUENTE.INE_eepd
+    logo: FUENTE.INE_logo
 standalone: false
 tags: []

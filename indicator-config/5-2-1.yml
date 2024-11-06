@@ -17,17 +17,23 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.5-2-1-title
+graph_title: GRAFICO.5-2-1-titulo
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.5-2-1-title
 indicator_number: '5.2.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.5-2-1-contenido
 permalink: ''
 precision: []
 progress_status: retroceso
 reporting_status: retroceso
 sort: ''
+sources:
+  - organisation: FUENTE.Euskadi_Seguridad
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Euskadi_Seguridad_evcm_url
+    url_text: FUENTE.Euskadi_Seguridad_evcm
+    logo: FUENTE.Euskadi_logo
 standalone: false
 tags: []

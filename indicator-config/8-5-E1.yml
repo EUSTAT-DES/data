@@ -23,11 +23,22 @@ graph_type: line
 indicator_name: national_indicators.8-5-E1-title
 indicator_number: '8.5.E1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.8-5-E1-contenido
 permalink: ''
 precision: []
 progress_status: progreso
 reporting_status: progreso
 sort: ''
+sources:
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_pra_url
+    url_text: FUENTE.Eustat_pra
+    logo: FUENTE.Eustat_logo
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_cempa_url
+    url_text: FUENTE.Eustat_cempa
+    logo: FUENTE.Eustat_logo
 standalone: false
 tags: []
