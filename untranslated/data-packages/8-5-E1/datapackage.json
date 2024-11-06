@@ -19,8 +19,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_INCOME_AVG",
-                "EU_INCOME_GAP",
+                "EU_EMP_LFS",
+                "EU_EMP_LFS_GAP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y_GE16",
+                "Y20T64",
                 ""
               ]
             }
@@ -32,17 +43,6 @@
               "enum": [
                 "F",
                 "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Renta",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "INCOME_TOT",
-                "INCOME_LABOUR",
                 ""
               ]
             }
@@ -353,8 +353,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EUR",
                 "PT",
+                "PP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "P",
                 ""
               ]
             }

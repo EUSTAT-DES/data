@@ -20,12 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Renta personal media",
-                "Brecha de género en la renta",
+                "Tasa de ocupación",
+                "Brecha de género en la ocupación",
                 ""
               ]
             },
             "title": "Serie"
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 años y más",
+                "20-64 años",
+                ""
+              ]
+            },
+            "title": "Edad"
           },
           {
             "name": "Sexo",
@@ -38,18 +50,6 @@
               ]
             },
             "title": "Sexo"
-          },
-          {
-            "name": "Renta",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Renta total",
-                "Renta del trabajo",
-                ""
-              ]
-            },
-            "title": "Tipo de renta"
           },
           {
             "name": "Territorio",
@@ -360,12 +360,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Euros",
                 "Porcentaje",
+                "Puntos porcentuales",
                 ""
               ]
             },
             "title": "Unidad"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Provisional",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "GeoCode",

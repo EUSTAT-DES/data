@@ -1,5 +1,6 @@
 From,To
-Tipo de renta,Sexo
-Tipo de renta,Territorio
-Tipo de renta,Comarca
-Tipo de renta,Municipio
+Edad,Sexo
+Edad,Territorio
+Edad,Comarca
+Edad,Municipio
+Edad,COMMENT_OBS

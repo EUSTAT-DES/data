@@ -1,5 +1,6 @@
 From,To
-Renta,Sexo
-Renta,Territorio
-Renta,Comarca
-Renta,Municipio
+Edad,Sexo
+Edad,Territorio
+Edad,Comarca
+Edad,Municipio
+Edad,COMMENT_OBS
