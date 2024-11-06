@@ -23,11 +23,17 @@ graph_type: line
 indicator_name: global_indicators.10-4-1-title
 indicator_number: '10.4.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.10-4-1-contenido
 permalink: ''
 precision: []
 progress_status: noevaluado
 reporting_status: noevaluado
 sort: ''
+sources:
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_cpib_url
+    url_text: FUENTE.Eustat_cpib
+    logo: FUENTE.Eustat_logo
 standalone: false
 tags: []

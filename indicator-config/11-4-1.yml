@@ -17,17 +17,23 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.11-4-1-title
+graph_title: GRAFICO.11-4-1-titulo
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.11-4-1-title
 indicator_number: '11.4.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.11-4-1-contenido
 permalink: ''
 precision: []
-progress_status: noevaluado
-reporting_status: noevaluado
+progress_status: alcanzado
+reporting_status: alcanzado
 sort: ''
+sources:
+  - organisation: FUENTE.GE_Cultura
+    periodicity: FUENTE.FREQ_A2
+    url: FUENTE.GE_Cultura_efgpc_url
+    url_text: FUENTE.GE_Cultura_efgpc
+    logo: FUENTE.GE_logo
 standalone: false
 tags: []
