@@ -23,11 +23,17 @@ graph_type: line
 indicator_name: global_indicators.6-3-2-title
 indicator_number: '6.3.2'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.6-3-2-contenido
 permalink: ''
 precision: []
 progress_status: retroceso
 reporting_status: retroceso
 sort: ''
+sources:
+  - organisation: FUENTE.Euskadi_Industria
+    periodicity: FUENTE.FREQ_A2
+    url: FUENTE.Euskadi_Industria_cma_url
+    url_text: FUENTE.Euskadi_Industria_cma
+    logo: FUENTE.Euskadi_logo
 standalone: false
 tags: []

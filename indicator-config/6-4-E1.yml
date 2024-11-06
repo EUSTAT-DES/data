@@ -23,11 +23,17 @@ graph_type: line
 indicator_name: national_indicators.6-4-E1-title
 indicator_number: '6.4.E1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.6-4-E1-contenido
 permalink: ''
 precision: []
 progress_status: progreso
 reporting_status: progreso
 sort: ''
+sources:
+  - organisation: FUENTE.Euskadi_Industria
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Euskadi_Industria_ecagua_url
+    url_text: FUENTE.Euskadi_Industria_ecagua
+    logo: FUENTE.Euskadi_logo
 standalone: false
 tags: []

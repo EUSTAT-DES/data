@@ -33,6 +33,7 @@
 5-a-2-titulo: "Grado en que el marco jurídico garantiza la igualdad de derechos de la mujer a la propiedad o el control de tierras"
 5-b-1-titulo: "Proporción de personas entre 16 y 74 años que han usado el móvil en los últimos tres meses"
 
+8-10-1-titulo: "Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años"
 8-10-2-titulo: "Proporción de personas entre 18 y 79 años que tienen una cuenta corriente"
 
 10-4-2-titulo: "Índice de Gini"
@@ -134,9 +135,91 @@
 5-4-1-contenido: "<b>Dirección deseada:</b> Para poder calcular el progreso hacia el objetivo de reparto equitativo de las funciones parentales y las responsabilidades familiares, se valora la relación entre la proporción de tiempo de las mujeres y el de los hombres, con un objetivo deseado de 1"
 5-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 5-5-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+5-5-E1-contenido: "<b>Dirección deseada:</b> Descenso en la brecha de género"
 5-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 5-a-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 5-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+
+6-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+6-3-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+6-4-E1-contenido: "<b>Dirección deseada:</b> Descenso del consumo per cápita"
+6-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+
+
+7-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+7-2-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+7-3-1-contenido: "<b>Dirección deseada:</b> Descenso"
+7-3-E1-contenido: "<b>Dirección deseada:</b> No evaluable"
+7-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+
+
+8-1-1-contenido: "<b>Dirección deseada:</b> En indicadores basados cuyos valores son tasas de crecimiento, se utiliza el criterio experto para la evaluación"
+8-2-1-contenido: "<b>Dirección deseada:</b> En indicadores basados cuyos valores son tasas de crecimiento, se utiliza el criterio experto para la evaluación"
+8-4-2-contenido: "<b>Dirección deseada:</b> Descenso en la serie Consumo material interno por PIB"
+8-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+8-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
+8-5-E1-contenido: "<b>Dirección deseada:</b> En la serie Tasa de ocupación, el objetivo europeo es llegar al 78% en 2030, en la serie Brecha de género el objetivo es que la brecha no sea mayor que 5,8 pp en el año 2030"
+8-6-1-contenido: "<b>Dirección deseada:</b> El objetivo europeo es que el valor de indicador en los jóvenes entre 15-19 años de edad no sea mayor de 9% en el año 2030"
+8-9-1-contenido: "<b>Dirección deseada:</b> No evaluable"
+8-10-1-contenido: "<b>Dirección deseada:</b> No evaluable"
+8-10-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+8-b-E1-contenido: "<b>Dirección deseada:</b> No evaluable"
+
+
+9-2-1-contenido: "<b>Dirección deseada:</b> No evaluable"
+9-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+9-4-1-contenido: "<b>Dirección deseada:</b> Descenso"
+9-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+9-5-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+9-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+9-c-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+
+10-1-1-contenido: "<b>Dirección deseada:</b> Mantener el crecimiento de los ingresos del 40% más pobre de la población a una tasa superior a la media"
+10-2-1-contenido: "<b>Dirección deseada:</b> Descenso"
+10-4-1-contenido: "<b>Dirección deseada:</b> No evaluable"
+10-4-2-contenido: "<b>Dirección deseada:</b> Descenso"
+
+11-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
+11-3-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+11-4-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+11-5-1-contenido: "<b>Dirección deseada:</b> Descenso"
+11-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
+11-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+11-6-2-contenido: "<b>Dirección deseada:</b> Descenso"
+11-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+
+12-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+12-2-2-contenido: "<b>Dirección deseada:</b> Descenso en la serie Consumo material interno por PIB"
+12-4-2-contenido: "<b>Dirección deseada:</b> Ascenso en la proporción de residuos peligrosos reciclados"
+12-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+12-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+
+13-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
+13-2-2-contenido: "<b>Dirección deseada:</b> Descenso"
+
+15-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+15-2-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+15-3-1-contenido: "<b>Dirección deseada:</b> Ascenso en el valor de tierras recuperadas"
+15-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+
+16-1-4-contenido: "<b>Dirección deseada:</b> Ascenso"
+16-2-2-contenido: "<b>Dirección deseada:</b> Descenso"
+16-3-2-contenido: "<b>Dirección deseada:</b> Descenso"
+16-6-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+16-7-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+
+17-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+17-1-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+17-2-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+17-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+17-3-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+17-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+17-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+17-13-1-contenido: "<b>Dirección deseada:</b> En indicadores basados cuyos valores son tasas de crecimiento, se utiliza el criterio experto para la evaluación"
+17-18-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+17-18-3-contenido: "<b>Dirección deseada:</b> Ascenso"
+17-19-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+
 
 # NOTAS
 
@@ -145,3 +228,4 @@
 # ANOTACIONES
 
 3-4-E1-anotacion: "Recomendación Guía Europea"
+8-6-E1-anotacion: "Objetivo UE"

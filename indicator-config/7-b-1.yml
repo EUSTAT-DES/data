@@ -25,11 +25,17 @@ graph_type: line
 indicator_name: global_indicators.7-b-1-title
 indicator_number: '7.b.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.7-3-1-contenido
 permalink: ''
 precision: []
 progress_status: progreso
 reporting_status: progreso
 sort: ''
+sources:
+  - organisation: FUENTE.Euskadi_Industria
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Euskadi_Industria_dener_url
+    url_text: FUENTE.Euskadi_Industria_dener
+    logo: FUENTE.Euskadi_logo
 standalone: false
 tags: []

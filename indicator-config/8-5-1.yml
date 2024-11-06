@@ -23,11 +23,27 @@ graph_type: line
 indicator_name: global_indicators.8-5-1-title
 indicator_number: '8.5.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.8-5-1-contenido
 permalink: ''
 precision: []
 progress_status: progreso
 reporting_status: progreso
 sort: ''
+sources:
+  - organisation: FUENTE.INE
+    periodicity: FUENTE.FREQ_A4
+    url: FUENTE.INE_eesal_url
+    url_text: FUENTE.INE_eesal
+    logo: FUENTE.INE_logo
+  - organisation: FUENTE.INE
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.INE_eaes_url
+    url_text: FUENTE.INE_eaes
+    logo: FUENTE.INE_logo
+  - organisation: FUENTE.INE
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.INE_espd_url
+    url_text: FUENTE.INE_espd
+    logo: FUENTE.INE_logo
 standalone: false
 tags: []
