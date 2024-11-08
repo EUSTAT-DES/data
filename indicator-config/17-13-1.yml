@@ -23,11 +23,42 @@ graph_type: line
 indicator_name: global_indicators.17-13-1-title
 indicator_number: '17.13.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.17-13-1-contenido
 permalink: ''
 precision: []
 progress_status: noevaluado
 reporting_status: noevaluado
+sources:
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_cpib_url
+    url_text: FUENTE.Eustat_cpib
+    logo: FUENTE.Eustat_logo
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_pra_url
+    url_text: FUENTE.Eustat_pra
+    logo: FUENTE.Eustat_logo
+  - organisation: FUENTE.INE
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.INE_ipc_url
+    url_text: FUENTE.INE_ipc
+    logo: FUENTE.INE_logo
+  - organisation: FUENTE.BE
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.BE_bp_url
+    url_text: FUENTE.BE_bp
+    logo: FUENTE.BE_logo
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_ceav_url
+    url_text: FUENTE.Eustat_ceav
+    logo: FUENTE.Eustat_logo
+  - organisation: FUENTE.BE
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.BE_eap_url
+    url_text: FUENTE.BE_eap
+    logo: FUENTE.BE_logo
 sort: ''
 standalone: false
 tags: []
