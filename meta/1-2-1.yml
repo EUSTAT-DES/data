@@ -1,7 +1,7 @@
  # Metadatos nacionales (ficha metodológica)
  
 indicador_disponible: >-
-  Proporción de la población que vive por debajo del umbral de pobreza
+  GRAFICO.1-2-1-titulo
 
 objetivo_global: objetivo_largo.1-titulo
 meta_global: meta_largo.1-2-titulo
@@ -15,7 +15,7 @@ definicion: >-
 formula: |
   <p>$$PP_{RPR}^{t} = \frac{P_{RPR}^{t}}{P^{t}} \cdot 100$$ </p>
   <p>donde: </p>
-  <p>$P_{RPR}^{t} =$ población con ingresos por debajo del 60% de la mediana de los ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$ </p>
+  <p>$P_{RPR}^{t} =$ población con ingresos por debajo del 60% de la mediana de los ingresos por unidad de consumo (escala OCDE modificada) en el año $t$ </p>
   <p>$P^{t} =$ población total en el año $t$</p>
 
 desagregacion: >-

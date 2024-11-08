@@ -1,6 +1,34 @@
- # Metadatos nacionales (ficha metodológica)
  
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.1-1-1-titulo
 
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-1-titulo
+#  indicador_onu_global: indicador_largo.1-1-1-titulo
+
+
+definicion: >-
+  Proporción de personas con ingresos por unidad de consumo (escala OCDE modificada) por debajo del 
+  umbral internacional de la pobreza, actualmente fijada en 2,15 dólares al día 
+  a precios internacionales de 2017 
+
+formula: |
+  <p>$$PP_{UIP}^{t} = \frac{P_{UIP}^{t}}{P^{t}} \cdot 100$$ </p>
+  <p>donde: </p>
+  <p>$P_{UIP}^{t} =$ población con ingresos por debajo del umbral internacional de la pobreza en el año $t$ </p>
+  <p>$P^{t} =$ población total en el año $t$</p>
+
+desagregacion: >-
+
+periodicidad: FUENTE.FREQ_A2
+
+observaciones: >-
+  <p>El número de unidades de consumo de un hogar
+  se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
+  primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
+  más años y un peso de 0,3 a las personas de menos de 14 años.</p>
 
 
 
@@ -30,7 +58,7 @@ justificacion_global: >-
   adoptó 2,15 dólares como umbral de pobreza internacional utilizando la PPA de 2017.</p>
 
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf">Metadata 1-1-1 (1).pdf (solo en inglés)</a <br>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf">Metadata 1-1-1 (1).pdf (solo en inglés)</a> <br>
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01b.pdf">Metadata 1-1-1 (2).pdf (solo en inglés)</a>
 
 dato_global: >- 
