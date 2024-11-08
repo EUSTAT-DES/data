@@ -48,6 +48,17 @@
             }
           },
           {
+            "name": "EmpCont",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LTD",
+                "PTE",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -355,16 +366,6 @@
               "enum": [
                 "PT",
                 "PP",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "P",
                 ""
               ]
             }

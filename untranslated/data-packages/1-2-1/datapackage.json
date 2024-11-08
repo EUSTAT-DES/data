@@ -26,6 +26,18 @@
             }
           },
           {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES211",
+                "ES213",
+                "ES212",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

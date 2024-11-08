@@ -16,20 +16,19 @@
             "title": "Año"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Unidad"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Valor"
           }
         ]

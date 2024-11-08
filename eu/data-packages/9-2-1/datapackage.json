@@ -336,17 +336,6 @@
             "title": "Unidad"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Provisional",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Valor"

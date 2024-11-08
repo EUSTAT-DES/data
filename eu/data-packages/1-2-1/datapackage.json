@@ -28,6 +28,19 @@
             "title": "Sexo"
           },
           {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

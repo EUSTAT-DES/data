@@ -52,6 +52,18 @@
             "title": "Sexo"
           },
           {
+            "name": "EmpCont",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LTD",
+                "PTE",
+                ""
+              ]
+            },
+            "title": "EmpCont"
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -366,17 +378,6 @@
               ]
             },
             "title": "Unidad"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Provisional",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
           },
           {
             "name": "GeoCode",

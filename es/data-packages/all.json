@@ -483,6 +483,19 @@
             "title": "Sexo"
           },
           {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -5074,6 +5087,18 @@
             "title": "Sexo"
           },
           {
+            "name": "EmpCont",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Contrato temporal",
+                "Contrato a tiempo parcial",
+                ""
+              ]
+            },
+            "title": "Tipo de contrato laboral"
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -5390,17 +5415,6 @@
             "title": "Unidad"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Provisional",
-                ""
-              ]
-            },
-            "title": "Comentario"
-          },
-          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
@@ -5430,17 +5444,336 @@
             "title": "Año"
           },
           {
-            "name": "ServEsencial",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Educación",
-                "Salud",
-                "Protección social",
+                "Personas ocupadas en el sector manufacturero",
+                "Empleo en el sector manufacturero",
                 ""
               ]
             },
-            "title": "Servicios esenciales"
+            "title": "Serie"
+          },
+          {
+            "name": "Actividad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufactura",
+                ""
+              ]
+            },
+            "title": "Actividad económica"
+          },
+          {
+            "name": "Empleo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Personas empleadas",
+                "Horas trabajadas",
+                "Puestos de trabajo",
+                ""
+              ]
+            },
+            "title": "Forma de medir el empleo"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mujer",
+                "Hombre",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                "Navaridas",
+                "Aia",
+                "Maruri-Jatabe",
+                "Zigoitia",
+                "Okondo",
+                "Aulesti",
+                "Markina-Xemein",
+                "Olaberria",
+                "Plentzia-Mungia",
+                "Mundaka",
+                "Lantarón",
+                "Muxika",
+                "Mutiloa",
+                "Iruña Oka/Iruña de Oca",
+                "Harana/Valle de Arana",
+                "Mallabia",
+                "Meñaka",
+                "Ayala/Aiara",
+                "Mendexa",
+                "Lizartza",
+                "Zuia",
+                "Lemoa",
+                "Lanestosa",
+                "Leaburu",
+                "Armiñón",
+                "Markina-Ondarroa",
+                "Legorreta",
+                "Zambrana",
+                "Legazpi",
+                "Lemoiz",
+                "Leioa",
+                "Berrobi",
+                "Labastida/Bastida",
+                "Abadiño",
+                "Gizaburuaga",
+                "Lazkao",
+                "Izurtza",
+                "Gernika-Bermeo",
+                "Amoroto",
+                "Zegama",
+                "Ispaster",
+                "Ibarrangelu",
+                "Arabako Kantaurialdea / Cantábrica Alavesa",
+                "Munitibar-Arbatzegi Gerrikaitz",
+                "Zerain",
+                "Irura",
+                "Güeñes",
+                "Getxo",
+                "Irun",
+                "Gorliz",
+                "Gordexola",
+                "Alegría-Dulantzi",
+                "Vitoria-Gasteiz",
+                "Gautegiz Arteaga",
+                "Gatika",
+                "Idiazabal",
+                "Enkartazioak / Encartaciones",
+                "Garai",
+                "Donostialdea",
+                "Gamiz-Fika",
+                "Agurain/Salvatierra",
+                "Galdames",
+                "Galdakao",
+                "Fruiz",
+                "Ermua",
+                "Elduain",
+                "Ereño",
+                "Elorrio",
+                "Elantxobe",
+                "Añana (comarca)",
+                "Berriatua",
+                "Berriz",
+                "Elvillar/Bilar",
+                "Durangaldea / Duranguesado",
+                "Etxebarri",
+                "Ea",
+                "Ezkio-Itsaso",
+                "Durango",
+                "Dima",
+                "Hondarribia",
+                "Zeberio",
+                "Zeanuri",
+                "Elciego",
+                "Artea",
+                "Karrantza Harana/Valle de Carranza",
+                "Elburgo/Burgelu",
+                "Busturia",
+                "Bilbao",
+                "San Millán/Donemiliaga",
+                "Asparrena",
+                "Bilbo Handia / Gran Bilbao",
+                "Elgoibar",
+                "Elgeta",
+                "Eskoriatza",
+                "Urkabustaiz",
+                "Gaintza",
+                "Gabiria",
+                "Samaniego",
+                "Berango",
+                "Etxebarria",
+                "Getaria",
+                "Bermeo",
+                "Villabuena de Álava/Eskuernaga",
+                "Hernani",
+                "Barrika",
+                "Deba",
+                "Ibarra",
+                "Bakio",
+                "Arrigorriaga",
+                "Legutio",
+                "Ikaztegieta",
+                "Zizurkil",
+                "Arrankudiaga-Zollo",
+                "Artzentales",
+                "Peñacerrada-Urizaharra",
+                "Arabako Lautada / Llanada Alavesa",
+                "Gernika-Lumo",
+                "Arantzazu",
+                "Arakaldo",
+                "Ribera Baja/Erriberabeitia",
+                "Larraul",
+                "Abanto y Ciérvana-Abanto Zierbena",
+                "Larrabetzu",
+                "Laukiz",
+                "Kripan",
+                "Lekeitio",
+                "Mañaria",
+                "Beizama",
+                "Arrasate/Mondragón",
+                "Ugao-Miraballes",
+                "Morga",
+                "Baños de Ebro/Mañueta",
+                "Valdegovía/Gaubea",
+                "Oñati",
+                "Muskiz",
+                "Ondarroa",
+                "Eibar",
+                "Basauri",
+                "Kuartango",
+                "Debagoiena / Alto Deba",
+                "Barakaldo",
+                "Arratzua-Ubarrundia",
+                "Gorbeialdea / Estribaciones del Gorbea",
+                "Arratia Nerbioi / Arratia-Nervión",
+                "Iruraiz-Gauna",
+                "Añana",
+                "Zestoa",
+                "Amurrio",
+                "Amorebieta-Etxano",
+                "Bidania-Goiatz",
+                "Erriberagoitia/Ribera Alta",
+                "Goierri",
+                "Berastegi",
+                "Zalduondo",
+                "Belauntza",
+                "Altzaga",
+                "Anoeta",
+                "Ataun",
+                "Baliarrain",
+                "Mutriku",
+                "Artziniega",
+                "Ziortza-Bolibar",
+                "Debabarrena / Bajo Deba",
+                "Oyón-Oion",
+                "Beasain",
+                "Azpeitia",
+                "Urretxu",
+                "Azkoitia",
+                "Arratzu",
+                "Lasarte-Oria",
+                "Arabako Errioxa / Rioja Alavesa",
+                "Aretxabaleta",
+                "Arabako Mendialdea / Montaña Alavesa",
+                "Astigarraga",
+                "Yécora/Iekora",
+                "Itsasondo",
+                "Arrieta",
+                "Hernialde",
+                "Orendain",
+                "Lezo",
+                "Mendata",
+                "Lagrán",
+                "Gaztelu",
+                "Campezo/Kanpezu",
+                "Asteasu",
+                "Laguardia",
+                "Mungia",
+                "Mendaro",
+                "Moreda de Álava/Moreda Araba",
+                "Bernedo",
+                "Arama",
+                "Zumaia",
+                "Zumarraga",
+                "Antzuola",
+                "Abaltzisketa",
+                "Zarautz",
+                "Otxandio",
+                "Zaldibia",
+                "Tolosaldea",
+                "Aduna",
+                "Orozko",
+                "Orexa",
+                "Zierbena",
+                "Ordizia",
+                "Alonsotegi",
+                "Bidasoa Beherea / Bajo Bidasoa",
+                "Ajangiz",
+                "Villabona",
+                "Arraia-Maeztu",
+                "Plentzia",
+                "Orio",
+                "Portugalete",
+                "Nabarniz",
+                "Murueta",
+                "Errigoiti",
+                "Bergara",
+                "Valle de Trápaga-Trapagaran",
+                "Andoain",
+                "Urnieta",
+                "Forua",
+                "Laudio/Llodio",
+                "Usurbil",
+                "Oiartzun",
+                "Berantevilla",
+                "Lezama",
+                "Zamudio",
+                "Sondika",
+                "Loiu",
+                "Albiztur",
+                "Amezketa",
+                "Santurtzi",
+                "Balmaseda",
+                "Aizarnazabal",
+                "Kortezubi",
+                "Ormaiztegi",
+                "Iurreta",
+                "Sukarrieta",
+                "Barrundia",
+                "Urduña/Orduña",
+                "Tolosa",
+                "Ortuella",
+                "Pasaia",
+                "Erandio",
+                "Derio",
+                "Sestao",
+                "Lapuebla de Labarca",
+                "Segura",
+                "Zaratamo",
+                "Sopela",
+                "Aramaio",
+                "Zalla",
+                "Altzo",
+                "Sopuerta",
+                "Errezil",
+                "Zaldibar",
+                "Urola Kosta",
+                "Areatza",
+                "Igorre",
+                "Leza",
+                "Ubide",
+                "Donostia / San Sebastián",
+                "Alegia",
+                "Errenteria",
+                "Bedia",
+                "Alkiza",
+                "Urduliz",
+                "Atxondo",
+                "Leintz-Gatzaga",
+                "Trucios-Turtzioz",
+                "Soraluze-Placencia de las Armas",
+                "Lanciego/Lantziego",
+                ""
+              ]
+            },
+            "title": "Territorio"
           },
           {
             "name": "Units",
@@ -12248,20 +12581,19 @@
             "title": "Año"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Unidad"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Valor"
           }
         ]
@@ -12522,6 +12854,18 @@
               ]
             },
             "title": "Dimensión de la pobreza"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mujer",
+                "Hombre",
+                ""
+              ]
+            },
+            "title": "Sexo"
           },
           {
             "name": "Units",
@@ -13055,17 +13399,6 @@
               ]
             },
             "title": "Unidad"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Provisional",
-                ""
-              ]
-            },
-            "title": "Comentario"
           },
           {
             "name": "Value",
