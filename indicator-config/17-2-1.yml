@@ -17,17 +17,28 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.17-2-1-title
+graph_title: GRAFICO.17-2-1-titulo
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.17-2-1-title
 indicator_number: '17.2.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.17-2-1-contenido
 permalink: ''
 precision: []
 progress_status: progreso
 reporting_status: progreso
 sort: ''
+sources:
+  - organisation: FUENTE.GE_Exteriores
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.GE_Exteriores_aod_url
+    url_text: FUENTE.GE_Exteriores_aod
+    logo: FUENTE.GE_logo
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_cpib_url
+    url_text: FUENTE.Eustat_cpib
+    logo: FUENTE.Eustat_logo
 standalone: false
 tags: []
