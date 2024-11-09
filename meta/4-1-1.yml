@@ -1,0 +1,90 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.4-1-1-titulo
+
+objetivo_global: objetivo_largo.4-titulo
+meta_global: meta_largo.4-1-titulo
+#  indicador_onu_global: indicador_largo.4-1-1-titulo
+
+
+definicion: >-
+  Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en i) lectura y 
+  en ii) matemáticas, desglosada por sexo
+
+formula: |
+
+  <p>$$MPL_{t,n,s} = \frac{MP_{n,s,t}}{P_{15,t}}$$</p>
+
+  <p>donde:</p>
+
+  <p> $MP_{t,n,s} =$ número de personas de 15 años que han alcanzado o superado el 
+  nivel mínimo de competencia del nivel de educación $n$ en la materia $s$ en el año $t$</p>
+  <p> $P_{15}^{t} =$ población de 15 años en el año $t$</p>
+
+
+desagregacion: >- 
+  Sexo <br>
+  Tipo de competencia (materia): Comprensión lectora y matemáticas.
+
+periodicidad: FUENTE.FREQ_A3
+
+
+observaciones: >-
+  El Programa para la evaluación internacional de los estudiantes utiliza un sistema de puntuaciones, donde no hay una puntuación máxima ni mínima. Los resultados se escalan de manera que respondan a una distribución normal con una media de 500 puntos y una desviación típica de 100 puntos. Para ayudar a interpretar esas puntuaciones, se establecen categorías de competencia en lectura:
+
+  - Inferior al nivel 1c: puntuación inferior a 189,33
+  - Nivel 1c: puntuación entre 189,33 y 262,03
+  - Nivel 1b: puntuación entre 262,04 y 334,74
+  - Nivel 1a: puntuación entre 334,75 y 407,46
+  - Nivel 2: puntuación entre 407,47 y 480,17
+  - Nivel 3: puntuación entre 480,18 y 552,88
+  - Nivel 4: puntuación entre 552,89 y 625,60
+  - Nivel 5: puntuación entre 625,61 y 698,31
+  - Nivel 6: puntuación superior a 698,31
+
+  Una persona alcanza al menos el nivel 2 de competencia en lectura cuando, para un texto de extensión media, puede identificar la idea principal, entender las relaciones entre sus partes, interpretar el significado de una parte limitada del texto a través de inferencias básicas, localizar uno o más fragmentos de información atendiendo a múltiples criterios parcialmente implícitos, reflexionar sobre el propósito general o específico del texto, comparar afirmaciones y evaluar los razonamientos en que estas se apoyan estableciendo conexiones entre el texto y el conocimiento externo.
+
+  Se establecen categorías de competencia en matemáticas:
+
+  - Inferior al nivel 1: puntuación inferior a 357,77
+  - Nivel 1: puntuación entre 357,77 y 420,06
+  - Nivel 2: puntuación entre 420,07 y 482,37
+  - Nivel 3: puntuación entre 482,38 y 544,67
+  - Nivel 4: puntuación entre 544,68 y 606,98
+  - Nivel 5: puntuación entre 606,99 y 669,29
+  - Nivel 6: puntuación superior a 669,29
+
+  Una persona alcanza al menos el nivel 2 de competencia en matemáticas cuando sabe interpretar y reconocer situaciones en contextos que solo requieren una inferencia directa, extraer información pertinente de una sola fuente y hacer uso de un único modo de representación, utilizar algoritmos, fórmulas, procedimientos o convenciones elementales para resolver problemas relacionados con números enteros y efectuar razonamientos directos e interpretaciones literales de los resultados.
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: >-
+  <p>El indicador pretende medir el porcentaje de niños y jóvenes que han alcanzado los
+  resultados mínimos de aprendizaje en lectura y matemáticas durante o al final de las etapas 
+  pertinentes de la educación. Cuanto mayor sea la cifra, mayor será la proporción de niños
+   y/o jóvenes que alcanzan al menos la competencia mínima en el dominio respectivo (lectura o matemáticas).</p>
+
+  <p>Los resultados de aprendizaje de las evaluaciones transnacionales de aprendizaje son directamente 
+  comparables para todos los países que participaron en las mismas evaluaciones transnacionales de aprendizaje.</p>
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.1.1&seriesCode=SE_TOT_PRFL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX%20%7C%20LOWSEC%20%7C%20SKILL_READ"> Proporción de niños y jóvenes que alcanzan un nivel mínimo de competencia en lectura en la educación secundaria inferior (%) SE_TOT_PRFL</a> UNSTATS<br> 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.1.1&seriesCode=SE_TOT_PRFL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX%20%7C%20LOWSEC%20%7C%20SKILL_MATH"> Proporción de niños y jóvenes que alcanzan un nivel mínimo de competencia en matemáticas en la educación secundaria inferior (%) SE_TOT_PRFL</a> UNSTATS
+
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-01-01.pdf">Metadata 4-1-1.pdf </a>(solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'
