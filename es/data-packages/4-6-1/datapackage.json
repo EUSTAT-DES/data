@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SKILL_NMRCY",
-                "SKILL_LTRCY",
+                "Matemáticas",
+                "Comprensión lectora",
                 ""
               ]
             },

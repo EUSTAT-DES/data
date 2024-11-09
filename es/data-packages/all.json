@@ -4769,7 +4769,7 @@
             "constraints": {
               "enum": [
                 "16-24 años",
-                "27-74 años",
+                "25-74 años",
                 ""
               ]
             },
@@ -5816,7 +5816,7 @@
             "constraints": {
               "enum": [
                 "Tasa de participación en la enseñanza y formación académica y no académica",
-                "Índice de paridad entre mujeres y hombres que han realizado actividades educativas (AES)",
+                "Proporción de personas entre 18 y 64 años que han realizado actividades educativas en los últimos 12 meses",
                 ""
               ]
             },
@@ -7265,8 +7265,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SKILL_NMRCY",
-                "SKILL_LTRCY",
+                "Matemáticas",
+                "Comprensión lectora",
                 ""
               ]
             },
@@ -12798,7 +12798,7 @@
             "constraints": {
               "enum": [
                 "Electricidad",
-                "Ordenadores con fines pedagógicos ",
+                "Conexión a internet con fines pedagógicos ",
                 "Agua potable",
                 "Baños separados por sexo",
                 "Instalaciones básicas para el lavado de manos",
