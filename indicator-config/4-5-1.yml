@@ -35,5 +35,9 @@ sources:
     url: FUENTE.INE_eada_url
     url_text: FUENTE.INE_eada
     logo: FUENTE.INE_logo
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_pra_url
+    url_text: FUENTE.Eustat_pra
 standalone: false
 tags: []
