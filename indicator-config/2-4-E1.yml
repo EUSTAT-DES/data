@@ -50,5 +50,6 @@ sources:
     url_text: FUENTE.Euskadi_Industria_ieca
     logo: FUENTE.Euskadi_logo
 standalone: false
-tags: []
+tags:
+  - europeo
 x_axis_label: ''
