@@ -20,34 +20,56 @@ formula: |
   <p> ${vacuna}=$ tipo de vacuna</p>
   <p> ${c}=$ el intervalo de años que define la cohorte específica para cada vacuna
    (c=1 o cohorte nacida en t-1 para DTPa y VNC, c=5 para SRP y c=13 para VPH)</p>
-  <p> $PPV_{\text{vacuna}}^{t} =$ proporción de población vacunada con el tipo de vacuna especificado en el año $t$</p>
   <p> $PV_{\text{vacuna}}^{\text{cohorte}\, t - c}=$ es la población vacunada con el tipo de vacuna especificado, 
   perteneciente a la cohorte nacida en $t-c$</p>
   <p> $P^{\text{cohorte}\, t - c}=$ es la población total de la cohorte nacida en $t-c$</p>
 
 
-desagregacion: >- 
-  Sexo <br>
-  Tipo de vacuna: vacunación de recuerdo contra difteria, tétanos y tosferina en la población infantil (DTPa), 
-  vacunación de recuerdo contra neumococo en la población infantil (VNC), segunda dosis de la vacuna frente 
-  a sarampión, rubeola y parotiditis en la población infantil (SRP) y segunda dosis de la vacuna frente 
-  al virus del papiloma humano (VPH) en adolescentes.
+desagregacion:  |
+  Sexo
+  Tipo de vacuna: 
+  - vacunación de recuerdo contra difteria, tétanos y tosferina en la población infantil (DTPa)
+  - vacunación de recuerdo contra neumococo en la población infantil (VNC), 
+  - segunda dosis de la vacuna frente a sarampión, rubeola y parotiditis en la población infantil (SRP)
+  - segunda dosis de la vacuna frente al virus del papiloma humano (VPH) en adolescentes.
 
 periodicidad: FUENTE.FREQ_A
 
 
 observaciones: >-
 
-  Los resultados facilitados se obtienen utilizando las definiciones propuestas por la Ponencia de Programa
-  y Registro de Vacunaciones y acordadas por la Comisión de Salud Pública en octubre de 2017. Desde entonces, 
-  las coberturas de vacunación se calculan por cohortes de nacimiento de la población. No se incluyen las vacunas 
-  adquiridas en oficinas de farmacia ni las administradas por el sector sanitario privado.
+  <p>Los resultados facilitados se obtienen utilizando las definiciones propuestas por la 
+  Ponencia de Programa y Registro de Vacunaciones y acordadas por la Comisión de Salud 
+  Pública en octubre de 2017. Desde entonces, las coberturas de vacunación se calculan 
+  por cohortes de nacimiento de la población.</p>
+
+  <p>No se incluyen las vacunas adquiridas en oficinas de farmacia ni las 
+  administradas por el sector sanitario privado.</p>
 
 texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: >-
+
+justificacion_global: >-
+  <p>Este indicador tiene por objeto medir el acceso a las vacunas, incluidas las vacunas recientemente 
+  disponibles o las que se utilizan de forma insuficiente, a nivel nacional.</p> 
+
+
+  <p>En las últimas décadas, todos los países 
+  han añadido numerosas vacunas nuevas y que se utilizan de forma insuficiente a sus calendarios nacionales de 
+  vacunación y hay varias vacunas en la fase final de desarrollo que se introducirán de aquí a 2030. Para supervisar el 
+  control de enfermedades y el impacto de las vacunas, es importante medir la cobertura de cada vacuna del calendario nacional 
+  de vacunación.</p> 
+
+
+  <p>Ya existe un sistema para supervisar la cobertura de vacunación de todos los programas nacionales, pero 
+  la medición directa de la proporción de la población cubierta con todas las vacunas del programa solo es posible 
+  si el país cuenta con un registro electrónico nacional de vacunación que funcione bien y permita estimar 
+  fácilmente la cobertura por cohorte.</p>
+
+  <p>Se miden las siguientes vacunas:</p>
+
   <p>Cobertura de la vacuna DTP (tercera dosis): porcentaje de lactantes supervivientes que recibieron 
   las 3 dosis de la vacuna contra la difteria, el tétanos y la tos ferina en un año determinado.</p>
   <p>Cobertura de la vacuna contra el sarampión (segunda dosis): porcentaje de niños que recibieron dos dosis de la vacuna
@@ -58,18 +80,6 @@ descripcion_global: >-
   <p>Cobertura de la vacuna contra el VPH (última dosis del calendario): porcentaje de niñas de 15 años que recibieron 
   las dosis recomendadas de la vacuna contra el VPH. Actualmente se utiliza el desempeño del programa en el año 
   calendario anterior en función del grupo de edad objetivo.</p>
-
-justificacion_global: >-
-  <p>Este indicador tiene por objeto medir el acceso a las vacunas, incluidas las vacunas recientemente 
-  disponibles o las que se utilizan de forma insuficiente, a nivel nacional. En las últimas décadas, todos los países 
-  han añadido numerosas vacunas nuevas y que se utilizan de forma insuficiente a sus calendarios nacionales de 
-  vacunación y hay varias vacunas en la fase final de desarrollo que se introducirán de aquí a 2030. Para supervisar el 
-  control de enfermedades y el impacto de las vacunas, es importante medir la cobertura de cada vacuna del calendario nacional 
-  de vacunación. Ya existe un sistema para supervisar la cobertura de vacunación de todos los programas nacionales, pero 
-  la medición directa de la proporción de la población cubierta con todas las vacunas del programa solo es posible 
-  si el país cuenta con un registro electrónico nacional de vacunación que funcione bien y permita estimar 
-  fácilmente la cobertura por cohorte. Si bien los países desarrollarán y fortalecerán los registros de vacunación, 
-  es necesario contar con una medición alternativa.</p>
 
 
 dato_global: >-
@@ -87,7 +97,7 @@ dato_global: >-
 comparabilidad: >- 
   El indicador disponible cumple con los metadatos de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0b-01.pdf">Metadata 3-b-1.pdf (solo en inglés)</a>'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0b-01.pdf">Metadata 3-b-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

@@ -33,9 +33,6 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: >-
-  <p>Número anual de nacimientos de niñas de 10 a 14 o de 15 a 19 años por cada 1.000 mujeres del respectivo grupo de edad.</p>
-
 
 justificacion_global: >-
 
@@ -62,7 +59,7 @@ dato_global: >-
 comparabilidad: >- 
   El indicador disponible cumple con los metadatos de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-02.pdf">Metadata 3-7-2.pdf (solo en inglés)</a>'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-02.pdf">Metadata 3-7-2.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

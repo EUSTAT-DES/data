@@ -1,7 +1,7 @@
  # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: Población perceptora de prestaciones sociales (pensiones
-  contributivas, RGI y AES) y plazas en servicios asistenciales
+indicador_disponible: >- 
+  GRAFICO.1-3-1-titulo
 
 objetivo_global: objetivo_largo.1-titulo
 meta_global: meta_largo.1-3-titulo
@@ -51,7 +51,8 @@ periodicidad: FUENTE.FREQ_A
  # Metadatos mundiales (Descripción del indicador)  
 
 
-descripcion_global: "El indicador refleja la proporción de personas
+justificacion_global:
+  <p>El indicador de Naciones Unidas pretende reflejar la proporción de personas
   efectivamente cubiertas por un sistema de protección social,  incluidos los
   niveles mínimos de protección social. También refleja los principales
   componentes de la protección social (prestaciones infantiles y de maternidad,
@@ -59,16 +60,16 @@ descripcion_global: "El indicador refleja la proporción de personas
   accidentes laborales y personas mayores). La cobertura efectiva de la
   protección social se mide por el número  de personas que contribuyen
   activamente a un plan de seguro social o reciben prestaciones (contributivas o
-  no contributivas). "
+  no contributivas).</p>
 
-justificacion_global: El acceso a al menos un nivel básico de protección social
-  durante todo el ciclo de vida es un derecho humano.  El principio de
+  <p>El acceso a al menos un nivel básico de protección social
+  durante todo el ciclo de vida es un derecho humano. El principio de
   universalidad de la protección social evidencia la importancia de los sistemas
   de protección social  para garantizar condiciones de vida dignas a toda la
   población, durante toda su vida. La proporción de la población  cubierta por
   sistemas de protección social proporciona una indicación de hasta qué punto se
   logra la universalidad  y, por tanto, de cuán seguras son las condiciones de
-  vida de la población.
+  vida de la población.</p>
 
 dato_global: >-
   <a
@@ -80,8 +81,8 @@ comparabilidad: El indicador disponible en la C.A de Euskadi no cumple con
   los metadatos de Naciones Unidas, pero aporta información complementaria
 
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01a.pdf">Metadata 1-3-1 (1).pdf (solo en inglés)</a><br>
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01b.pdf">Metadata 1-3-1 (2).pdf (solo en inglés)</a>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01a.pdf">Metadata 1-3-1 (1).pdf</a> (solo en inglés)<br>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01b.pdf">Metadata 1-3-1 (2).pdf</a> (solo en inglés)
 informacion_interes: 
 
 national_data_updated_date: '2024-07-29'

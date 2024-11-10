@@ -1,7 +1,7 @@
  # Metadatos nacionales (ficha metodológica)
  
 indicador_disponible: >- 
-  Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica
+  GRAFICO.3-8-1-titulo
 
 objetivo_global: objetivo_largo.3-titulo
 meta_global: meta_largo.3-8-titulo
@@ -15,8 +15,10 @@ definicion: >-
 formula: |
 
   <p>$$PPNIAM_{16+}^{t} = \frac{PNIAM_{16+}^{t}}{P_{16+}^{t}} \cdot 100$$</p>
+
   <p>donde: </p>
-  <p> $PPNIAM_{16+}^{t} =$ población de 16 y más años que indica necesidades insatisfechas de atención médica en el año $t$</p>
+
+  <p> $PNIAM_{16+}^{t} =$ población de 16 y más años que indica necesidades insatisfechas de atención médica en el año $t$</p>
   <p>$P_{16+}^{t} =$ población de 16 y más años en el año $t$</p>
 
 desagregacion: >- 
@@ -35,13 +37,13 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: >-
-  <p>Cobertura de servicios de salud esenciales (definida como la cobertura promedio de servicios esenciales 
+justificacion_global: >-
+
+  <p>El indicador mide la cobertura de servicios de salud esenciales (definida como la cobertura promedio de servicios esenciales 
   basada en intervenciones trazadoras que incluyen salud reproductiva, materna, neonatal 
   e infantil, enfermedades infecciosas, enfermedades no transmisibles y capacidad y acceso a los servicios, 
   entre la población general y la más desfavorecida).</p>
 
-justificacion_global: >-
   <p>La meta 3.8 se define como “Lograr la cobertura sanitaria universal, incluida la protección contra los riesgos financieros, 
   el acceso a servicios esenciales de salud de calidad y el acceso a medicamentos y vacunas esenciales seguros, eficaces, 
   de calidad y asequibles para todos”. El objetivo es que todas las personas y comunidades reciban los servicios de 
@@ -65,7 +67,7 @@ dato_global: >-
 comparabilidad: >- 
   El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta información similar.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-08-01.pdf">Metadata 3-8-1.pdf (solo en inglés)</a>'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-08-01.pdf">Metadata 3-8-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

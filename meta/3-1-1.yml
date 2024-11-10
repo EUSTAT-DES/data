@@ -12,9 +12,9 @@ definicion: >-
   Defunciones de mujeres atribuidas a embarazo, parto y puerperio por cada 100.000 nacimientos
 
 formula: |
-  <p>$$TM_{materna}^{t} = \frac{D_{maternas}^{t}}{N^{t}} \cdot 100.000$$ </p>
+  <p>$$TM_{materna}^{t} = \frac{D_{materna}^{t}}{N^{t}} \cdot 100.000$$ </p>
   <p>donde: </p>
-  <p>$D_{maternas}^{t} =$ defunciones de mujeres atribuidas a embarazo, parto y puerperio (códigos O00-O99 de la CIE-10) en el año $t$ </p>
+  <p>$D_{materna}^{t} =$ defunciones de mujeres atribuidas a embarazo, parto y puerperio (códigos O00-O99 de la CIE-10) en el año $t$ </p>
   <p>$N^{t} =$ nacimientos en el año $t$</p>
 
 desagregacion: >- 
@@ -29,14 +29,14 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: >-
+justificacion_global: >-
+
   <p>La tasa de mortalidad materna se define como el número de muertes maternas durante un tiempo determinado
   por cada 100.000 nacidos vivos durante el mismo período. Representa el riesgo de muerte materna en relación
   al número de nacidos vivos y esencialmente captura el riesgo de muerte en un solo embarazo (representado por un
   único nacido vivo).</p>
 
 
-justificacion_global: >-
 
 dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.1.1&seriesCode=SH_STA_MORT&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=FEMALE">Tasa de mortalidad materna (%) SH_STA_MORT</a> UNSTATS
@@ -44,7 +44,7 @@ dato_global: >-
 comparabilidad: >- 
   El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-01-01.pdf">Metadata 3-1-1.pdf (solo en inglés)</a>'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-01-01.pdf">Metadata 3-1-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

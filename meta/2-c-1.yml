@@ -1,7 +1,7 @@
  # Metadatos nacionales (ficha metodológica)
  
 indicador_disponible: >-
-  Índice de precios de los alimentos
+  GRAFICO.2-c-1-titulo
 
 objetivo_global: objetivo_largo.2-titulo
 meta_global: meta_largo.2-c-titulo
@@ -40,6 +40,7 @@ formula: |
 
 
 desagregacion: >-
+  Productos: alimentos (todos), pan y cereales
   Territorio histórico
 
 observaciones: >-
@@ -50,7 +51,7 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: >-
+justificacion_global: >-
   <p>El indicador de anomalías de los precios de los alimentos (IFPA) 
   identifica los precios de mercado que son anormalmente altos. La IFPA 
   se basa en una tasa de crecimiento compuesta ponderada que representa el crecimiento 
@@ -61,8 +62,6 @@ descripcion_global: >-
   en cuenta la estacionalidad en los mercados agrícolas y la inflación, lo que permite 
   responder a la pregunta de si un cambio en el precio es anormal o no para un período determinado.</p>
 
-
-justificacion_global: >-
   <p>El indicador es sólo una guía para comprender la dinámica del mercado. 
   Como tal, no se puede confiar en él como único elemento para determinar si el 
   precio de un alimento en un mercado particular en un momento dado es anormalmente
@@ -78,7 +77,7 @@ comparabilidad: >-
   aporta información complementaria.
 
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0C-01.pdf">Metadata 2-c-1.pdf (solo en inglés)</a><br>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0C-01.pdf">Metadata 2-c-1.pdf</a> (solo en inglés)<br>
 
 national_data_updated_date: '2024-07-29'
 national_metadata_updated_date: '2024-07-29'

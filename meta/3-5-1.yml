@@ -1,7 +1,7 @@
  # Metadatos nacionales (ficha metodológica)
  
 indicador_disponible: >- 
-  Número de admisiones a tratamiento por abuso o dependencia de alcohol y drogas ilegales por cada 100.000 habitantes
+  GRAFICO.3-5-1-titulo
 
 objetivo_global: objetivo_largo.3-titulo
 meta_global: meta_largo.3-5-titulo
@@ -23,8 +23,8 @@ formula: |
 
 
 desagregacion: >- 
-  Sexo <br>
-  Sustancias adictivas: drogas ilegales, alcohol
+  Sustancias adictivas: drogas ilegales, alcohol<br>
+  Sexo 
 
 periodicidad: FUENTE.FREQ_A
 
@@ -44,14 +44,13 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: >-
-  <p>La cobertura de las intervenciones de tratamiento para los trastornos por consumo 
-  de sustancias se define como el número de personas que recibieron tratamiento en un año 
-  dividido por el número total de personas con trastornos por consumo de sustancias en el mismo año. 
-  Este indicador se desglosa en dos grandes grupos de sustancias psicoactivas: (1) drogas, (2) alcohol y otras sustancias psicoactivas.</p>
-
 
 justificacion_global: >-
+
+  <p>Este indicador de Naciones Unidas mide la cobertura de las intervenciones de tratamiento para los trastornos por consumo 
+  de sustancias y se define como el número de personas que recibieron tratamiento en un año 
+  dividido por el número total de personas con trastornos por consumo de sustancias en el mismo año. 
+  Este indicador se desglosa en dos grandes grupos de sustancias psicoactivas: (1) drogas, (2) alcohol y otras sustancias psicoactivas.</p>
 
   <p>Según datos de la Oficina de las Naciones Unidas contra la Droga y el Delito (ONUDD) y la Organización Mundial de la Salud (OMS), 
    alrededor de 296 millones de personas de entre 15 y 64 años en todo el mundo consumieron una droga ilegal al menos una vez en 2021, 
@@ -82,7 +81,7 @@ comparabilidad: >-
   El indicador disponible no cumple con los metadatos del indicador de 
   Naciones Unidas, pero aporta información complementaria.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-05-01.pdf">Metadata 3-5-1.pdf (solo en inglés)</a>'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-05-01.pdf">Metadata 3-5-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

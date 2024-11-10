@@ -1,7 +1,7 @@
  # Metadatos nacionales (ficha metodológica)
  
 indicador_disponible: >-
-  Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes
+  GRAFICO.1-5-1-titulo
 
 objetivo_global: objetivo_largo.1-titulo
 meta_global: meta_largo.1-5-titulo
@@ -27,29 +27,30 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: >-
-  Este indicador mide el número de personas que muertas, desaparecidas o
-  directamente afectadas por desastres por cada 100.000 habitantes
 
 justificacion_global: >-
   <p>El Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030 fue 
   adoptado por los Estados miembros de las Naciones Unidas en marzo de 2015 
   como una política global de reducción del riesgo de desastres. </p>
 
-  <p> Entre sus metas se encuentran: Meta A: Reducir sustancialmente la mortalidad global por desastres para 
+  <p>Entre sus metas se encuentran: </p>
+  <p> Meta A: Reducir sustancialmente la mortalidad global por desastres para 
   2030, con el objetivo de reducir el promedio de mortalidad global por cada 100.000 habitantes entre 
-  2020-2030 en comparación con 2005-2015, y Meta B: Reducir sustancialmente el número de personas afectadas
-  a nivel mundial para 2030 , con el objetivo de reducir la cifra promedio mundial por cada 100.000 habitantes 
+  2020-2030 en comparación con 2005-2015</p>
+
+  <p>Meta B: Reducir sustancialmente el número de personas afectadas
+  a nivel mundial para 2030 , con el objetivo de reducir la cifra promedio 
+  mundial por cada 100.000 habitantes 
   entre 2020 y 2030 en comparación con el período 2005-2015.</p>
 
-  <p>La consecución de sus metas contribuirá al desarrollo sostenible y fortalecerá la resiliencia económica, 
-  social, sanitaria y ambiental.</p>
+  <p>La consecución de sus metas contribuirá al desarrollo sostenible y fortalecerá la 
+  resiliencia económica, social, sanitaria y ambiental.</p>
 
 
 comparabilidad: >-
   El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-01.pdf">Metadata 1-5-1.pdf (solo en inglés)</a>'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-01.pdf">Metadata 1-5-1.pdf</a> (solo en inglés)'
 informacion_interes: 
 
 national_data_updated_date: '2024-07-29'

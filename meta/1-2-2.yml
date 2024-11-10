@@ -21,9 +21,12 @@ formula: |
   <p>$P^{t} =$ población total en el año $t$</p>
 
 desagregacion: >-
+  Dimensiones de la pobreza: riesgo de pobreza, carencia material y social severa, 
+  baja intensidad de trabajo <br>
+  Sexo
 
 observaciones: >-
-  <p>El indicador mide la pobreza según los tres aspectos siguientes:</p>
+  <p>El indicador mide la proporción de personas que cumplen al menos uno de los siguientes criterios:</p>
 
   <p><b>Personas en riesgo de pobreza relativa:</b> personas con ingresos por unidad de consumo por
   debajo del 60% de la mediana (escala OCDE modificada).</p>
@@ -74,7 +77,7 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: >-
+justificacion_global: >-
 
   <p>Tradicionalmente se ha definido la pobreza como la falta de dinero. 
   Sin embargo, la pobreza hay que entenderla de manera mucho más amplia.
@@ -84,15 +87,15 @@ descripcion_global: >-
   suficiente para captar la verdadera realidad de la pobreza.</p>
 
 
-  <p>Según la metodología Eurostat, la población en riesgo de pobreza o exclusión social, 
+  <p>En la Unión Europea, la población en riesgo de pobreza o exclusión social, 
   abreviado como AROPE, 
-  corresponde a la suma de personas que están en riesgo de pobreza (probreza de ingresos), gravemente desfavorecidas 
-  material y socialmente, o que viven en un hogar con una intensidad laboral muy baja. 
+  corresponde a la suma de personas que están en riesgo de pobreza (probreza de ingresos), 
+  gravemente desfavorecidas material y socialmente, o que viven en un hogar con una 
+  intensidad laboral muy baja. 
   Las personas se incluyen sólo una vez incluso si se encuentran en más de una de las 
   situaciones mencionadas anteriormente. La tasa AROPE es la proporción de la población total 
   que está en riesgo de pobreza o exclusión social. </p>
 
-justificacion_global: >-
  
   <p>La tasa AROPE es el principal indicador para hacer el seguimiento del
   objetivo de pobreza y exclusión social de la UE para 2030 y fue el indicador principal 
