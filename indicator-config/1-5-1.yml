@@ -16,7 +16,7 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - unit: PT
+  - unit: PER_100000_POP
     minimum: 0
     maximum: 5
 graph_stacked_disaggregation: ''
