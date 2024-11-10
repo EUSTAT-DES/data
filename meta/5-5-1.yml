@@ -1,0 +1,87 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.5-5-1-titulo
+
+objetivo_global: objetivo_largo.5-titulo
+meta_global: meta_largo.5-5-titulo
+#  indicador_onu_global: indicador_largo.5-5-1-titulo
+
+
+definicion: >-
+  Proporción de escaños ocupados por mujeres en el parlamento autonómico, consejeras en los departamentos 
+  del gobierno autonómico, electas en Juntas Generales, diputadas en los departamentos de los 
+  gobiernos forales, y alcaldías y concejalías en gobiernos locales.
+
+formula: |
+
+  <p>$$PINST_{mujeres}^{t} = \frac{INST_{mujeres}^{t}}{INST_{mujeres}^{t}+INST_{hombres}^{t}} \cdot 100$$</p>
+
+  <p>donde: </p>
+
+  <p>$INST_{mujeres}^{t} =$ puestos ocupados por mujeres en la institución correspondiente el año $t$</p>
+  <p>$INST_{hombres}^{t} =$ puestos ocupados por hombres en la institución correspondiente en el año $t$</p>
+
+desagregacion: >-
+  Puestos en instituciones: electas en el parlamento autonómico, consejeras en los departamentos 
+  del gobierno autonómico, electas en Juntas Generales, diputadas en los departamentos de los 
+  gobiernos forales, y alcaldías y concejalías en gobiernos locales.<br>
+  Territorio histórico
+
+periodicidad: FUENTE.FREQ_A
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: >-
+
+  <p>El indicador mide el grado en que las mujeres tienen acceso igualitario a la toma de 
+  decisiones parlamentarias. La participación de las mujeres en los parlamentos es un 
+  aspecto clave de las oportunidades de las mujeres en la vida política y 
+  pública y está vinculada al empoderamiento de las mujeres. Un número igual de 
+  mujeres y hombres en las cámaras bajas daría un valor del indicador del 50 por ciento.</p>
+
+  <p>Una mayor presencia de mujeres en el parlamento permite destacar nuevas preocupaciones 
+  en las agendas políticas y poner en práctica nuevas prioridades mediante la adopción 
+  y aplicación de políticas y leyes. La inclusión de las perspectivas e intereses de las 
+  mujeres es un requisito previo para la democracia y la igualdad de género y contribuye 
+  a la buena gobernanza. Un parlamento representativo también permite que las 
+  diferentes experiencias de hombres y mujeres afecten el futuro social, político 
+  y económico de las sociedades.</p>
+
+
+  <p>Aunque la comunidad internacional ha apoyado y promovido la participación de las mujeres 
+  en las estructuras de toma de decisiones políticas durante varias décadas, la mejora 
+  en el acceso de las mujeres al parlamento ha sido lenta. Esto ha llevado a la 
+  introducción de políticas especiales y medidas legales para aumentar la proporción 
+  de mujeres en los escaños parlamentarios en varios países. Los países que han adoptado 
+  medidas especiales generalmente tienen una mayor representación de mujeres en el parlamento 
+  que los países que no las han adoptado.</p>
+
+  <p>El indicador 5.5.1(b) complementa el indicador 5.5.1(a) sobre las mujeres en los 
+  parlamentos nacionales y da cuenta de la representación de las mujeres entre los millones 
+  de miembros de los gobiernos locales que influyen (o tienen el potencial de influir) en 
+  la vida de las comunidades locales en todo el mundo. El indicador abarca todos 
+  los niveles de gobierno local, de conformidad con los marcos jurídicos nacionales 
+  que definen el gobierno local.</p>
+
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.5.1&seriesCode=SG_GEN_PARL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=FEMALE">Proporción de escaños ocupados por mujeres en los parlamentos nacionales (% del número total de escaños) SG_GEN_PARL</a> UNSTATS<br>
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.5.1&seriesCode=SG_GEN_LOCGELS&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=FEMALE">Proporción de escaños electos ocupados por mujeres en órganos deliberativos de los gobiernos locales (%) SG_GEN_LOCGELS</a> UNSTATS
+
+
+comparabilidad: >-
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01a.pdf">Metadata 5-5-1 (1).pdf</a> (solo en inglés)<br>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01b.pdf">Metadata 5-5-1 (2).pdf</a> (solo en inglés)
+
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'
