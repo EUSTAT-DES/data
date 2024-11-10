@@ -30,10 +30,6 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: >-
-  El indicador mide el gasto total del gobierno en educación, 
-  salud y protección social expresado como porcentaje del gasto total del gobierno.
-
 justificacion_global: >-
   <p>El indicador se utiliza para evaluar el gasto del gobierno en servicios esenciales 
   (educación, salud y protección social) en relación con el monto del gasto gubernamental 
@@ -45,7 +41,8 @@ justificacion_global: >-
 
 comparabilidad: >-
   El indicador disponible en la C.A de Euskadi utiliza la clasificación COFOG, 
-  que no cumple con los metadatos del indicador de Naciones Unidas. El indicador mundial utiliza el 
+  que no cumple con los metadatos del indicador de Naciones Unidas pero aporta información 
+  similar. El indicador mundial utiliza el 
   manual de estadísticas de finanzas gubernamentales (MEFP) donde el concepto de gasto se 
   aplica de manera ligeramente diferente.
 
@@ -54,8 +51,8 @@ dato_global: >-
   Proporción del gasto público total en servicios esenciales (%) SG_XPD_ESSRV</a> UNSTATS
 
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02a.pdf">Metadata 1-a-2 (1).pdf (solo en inglés)</a><br>
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02b.pdf">Metadata 1-a-2 (2).pdf (solo en inglés)</a>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02a.pdf">Metadata 1-a-2 (1).pdf</a> (solo en inglés)<br>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02b.pdf">Metadata 1-a-2 (2).pdf</a> (solo en inglés)
 
 informacion_interes: 
 

@@ -33,21 +33,25 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: >-
-  <p>El indicador se define como el porcentaje de la población de 15 años o más que 
+justificacion_global: >-
+
+  <p>El indicador de Naciones Unidas se define como el porcentaje de la población de 15 años o más que 
   actualmente consume algún producto de tabaco (tabaco fumado y/o sin humo) de manera diaria o no diaria.</p>
 
-justificacion_global: >-
-  <p>El consumo de tabaco es una de las principales causas de enfermedad y muerte por enfermedades no transmisibles (NCD). 
+  <p>El consumo de tabaco es una de las principales causas de enfermedad y muerte por enfermedades no transmisibles (ENT). 
   No se ha demostrado que el consumo de tabaco o la exposición al humo de tabaco ajeno sean seguros. Todos los consumidores
    diarios y no diarios de tabaco corren el riesgo de sufrir diversos problemas de salud a lo largo de la vida, 
   incluidas las NCD.</p>
 
   <p>Reducir la prevalencia del consumo actual de tabaco contribuirá en gran medida a reducir la mortalidad prematura por 
-  NCD (meta 3.4). El seguimiento sistemático y regular de este indicador es necesario para permitir un seguimiento y 
+  ENT (meta 3.4). </p>
+
+  <p>El seguimiento sistemático y regular de este indicador es necesario para permitir un seguimiento y 
   una evaluación precisos del impacto de la aplicación del Convenio Marco de la OMS para el Control del Tabaco
    (CMCT de la OMS) o de las políticas de control del tabaco en los países que aún no son Partes en el CMCT de la OMS, 
-  a lo largo del tiempo. Los niveles de prevalencia del consumo de tabaco son un indicador adecuado de la aplicación 
+  a lo largo del tiempo.</p>
+
+  <p> Los niveles de prevalencia del consumo de tabaco son un indicador adecuado de la aplicación 
   de la meta 3.a de los ODS “Fortalecer la aplicación del Convenio Marco de la Organización Mundial de la Salud para el 
   Control del Tabaco en todos los países, según proceda”.</p>
 
@@ -60,7 +64,7 @@ dato_global: >-
 comparabilidad: >- 
   El indicador disponible no cumple estrictamente con los metadatos de Naciones Unidas pero aporta información similar.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0a-01.pdf">Metadata 3-a-1.pdf (solo en inglés)</a>'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0a-01.pdf">Metadata 3-a-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

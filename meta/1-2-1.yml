@@ -19,9 +19,8 @@ formula: |
   <p>$P^{t} =$ población total en el año $t$</p>
 
 desagregacion: >-
-  Sexo. Proporción de hombres y mujeres con ingresos inferiores al 60%
-  de la mediana de la C.A. de Euskadi, situada en el año 2022 en 12.983€ 
-  anuales (siendo la mediana de ingresos de 21.638€)
+  Sexo <br>
+  Territorio histórico
 
 periodicidad: FUENTE.FREQ_A2
 
@@ -31,29 +30,31 @@ observaciones: >-
   primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
   más años y un peso de 0,3 a las personas de menos de 14 años.</p>
 
+  <p>El umbral de los ingresos inferiores al 60% de la mediana de la C.A. de Euskadi 
+  está situado en el año 2022 en 12.983€ anuales (siendo la mediana de ingresos de 21.638€).</p>
+
 texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: >-
+
+justificacion_global: >-
+  <p>Hacer el seguimiento de la pobreza nacional es importante para los programas de
+  desarrollo específicos de cada país. Las líneas de pobreza nacionales se
+  utilizan para hacer estimaciones más precisas de la pobreza consistentes con
+  las circunstancias económicas y sociales específicas del país.</p>
+
+  <p>El indicador de riesgo de pobreza relativa (At-Risk-of-Poverty Rate en inglés) o pobreza monetaria
+  es uno de los indicadores clave para hacer el seguimiento de la pobreza en la UE.</p>
+
+  <p>Este indicador no mide ni la riqueza ni la pobreza, sino bajos ingresos en comparación con otros 
+  residentes del país, lo que no necesariamente implica un bajo nivel de vida.</p>
+
   <p>Según la definición de Eurostat, la tasa de riesgo de pobreza es la proporción de personas
    con una renta disponible equivalente (después de transferencias sociales) inferior al 
   umbral de riesgo de pobreza, que está fijada por convención en la UE en el 
   60 % de la mediana nacional de la renta disponible equivalente después de transferencias 
   sociales.</p>
-
-  <p>Este indicador no mide ni la riqueza ni la pobreza, sino bajos ingresos en comparación con otros 
-  residentes del país, lo que no necesariamente implica un bajo nivel de vida.</p>
-
-justificacion_global: >-
-  <p>Hacer el seguimiento de la pobreza nacional es importante para las agendas de
-  desarrollo específicas de cada país. Las líneas de pobreza nacionales se
-  utilizan para hacer estimaciones más precisas de la pobreza consistentes con
-  las circunstancias económicas y sociales específicas del país, y no están
-  destinadas a comparaciones internacionales de tasas de pobreza.</p>
-
-  <p>El indicador de riesgo de pobreza relativa (At-Risk-of-Poverty Rate en inglés) o pobreza monetaria
-  es uno de los indicadores clave para hacer el seguimiento de la pobreza en la UE.</p>
 
   <p>Para tener en cuenta el impacto de las diferencias en el tamaño y la composición del hogar,
   el ingreso disponible de un hogar (ingreso total, después de impuestos y otras deducciones, que está 
@@ -66,10 +67,10 @@ dato_global: >-
 
 comparabilidad: >-
   El indicador disponible cumple con los metadatos del indicador de Naciones Unidas. Para el cálculo 
-  de la tasa de pobreza de la Comunidad Autónoma de Euskadi
-  se aplica el umbral de la pobreza del territorio de referencia.
+  de la tasa de pobreza de la Comunidad Autónoma de Euskadi y sus territorios históricos, se aplica 
+  el umbral de la pobreza dela Comunidad Autónoma.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadata 1-2-1.pdf (solo en inglés)</a>'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadata 1-2-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

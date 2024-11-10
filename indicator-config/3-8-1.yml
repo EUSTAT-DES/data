@@ -15,9 +15,12 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: PT
+    minimum: 0
+    maximum: 10
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-8-1-title
+graph_title: GRAFICO.3-8-1-titulo
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.3-8-1-title
@@ -26,8 +29,8 @@ national_geographical_coverage: ''
 page_content: GRAFICO.3-8-1-contenido
 permalink: ''
 precision: []
-progress_status: retroceso
-reporting_status: retroceso
+progress_status: alcanzado
+reporting_status: alcanzado
 sort: ''
 sources:
   - organisation: FUENTE.INE

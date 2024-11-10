@@ -1,7 +1,7 @@
  # Metadatos nacionales (ficha metodológica)
  
 indicador_disponible: >- 
-  Proporción de mujeres en edad de procrear (entre 18 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos
+  GRAFICO.3-7-1-titulo
 
 objetivo_global: objetivo_largo.3-titulo
 meta_global: meta_largo.3-7-titulo
@@ -35,14 +35,14 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: >-
-  <p>Porcentaje de mujeres en edad reproductiva (15-49 años) que actualmente utilizan un 
+justificacion_global: >-
+
+  <p>El indicador mide el porcentaje de mujeres en edad reproductiva (15-49 años) que actualmente 
+  utilizan un 
   método moderno de anticoncepción entre aquellas que desean no tener hijos (adicionales) o 
   posponer el próximo embarazo. El indicador también se conoce como la demanda de 
   planificación familiar satisfecha con métodos modernos.</p>
 
-
-justificacion_global: >-
   <p>La proporción de la demanda de planificación familiar satisfecha con métodos modernos es útil 
   para evaluar los niveles generales de cobertura de los programas y servicios de planificación familiar. 
   El acceso a un medio eficaz para prevenir el embarazo y su uso ayudan a que las mujeres y sus parejas 
@@ -67,7 +67,7 @@ dato_global: >-
 comparabilidad: >- 
   El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta información similar.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-01.pdf">Metadata 3-7-1.pdf (solo en inglés)</a>'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-01.pdf">Metadata 3-7-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

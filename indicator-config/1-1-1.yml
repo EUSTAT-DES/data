@@ -20,11 +20,7 @@ graph_limits:
     minimum: 0
     maximum: 10
 graph_stacked_disaggregation: ''
-graph_target_lines:
-  - series: ''
-    unit: ''
-    label_content: indicator.annotation_2030_target
-    value: 0
+graph_target_lines: ''
 graph_title: GRAFICO.1-1-1-titulo
 graph_titles: []
 graph_type: line

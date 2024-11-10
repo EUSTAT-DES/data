@@ -1,7 +1,7 @@
  # Metadatos nacionales (ficha metodológica)
  
 indicador_disponible: >- 
-  Consumo anual de alcohol en litros de alcohol puro por persona de 15 y más años
+  GRAFICO.3-5-2-titulo
 
 objetivo_global: objetivo_largo.3-titulo
 meta_global: meta_largo.3-5-titulo
@@ -18,7 +18,7 @@ formula: |
   <p>donde: </p>
   <p>$CAR_{bebidas\, destiladas}^{t} =$ consumo de alcohol registrado en bebidas destiladas en el año $t$</p>
   <p>$CAR_{vino}^{t} =$ consumo de alcohol registrado en vino en el año $t$</p>
-  <p>$$CAR_{cerveza}^{t} =$ consumo de alcohol registrado en cerveza en el año $t$</p>
+  <p>$CAR_{cerveza}^{t} =$ consumo de alcohol registrado en cerveza en el año $t$</p>
   <p>$P_{15+}^{t} =$ población de 15 y más años a 1 de julio del año $t$</p>
 
 
@@ -32,12 +32,12 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: >-
-  <p>Uso nocivo de alcohol, definido según el contexto nacional como el consumo de alcohol 
-  per cápita (personas de 15 años o más) en un año calendario en litros de alcohol puro.</p>
-
 
 justificacion_global: >-
+
+  <p>El indicador de Nciones Unidas mide el uso nocivo de alcohol, definido 
+  según el contexto nacional como el consumo de alcohol 
+  per cápita (personas de 15 años o más) en un año calendario en litros de alcohol puro.</p>
 
   <p>El consumo de alcohol puede tener un impacto no sólo en la incidencia de enfermedades, lesiones y 
   otras condiciones de salud, sino también en la evolución de los trastornos y sus consecuencias en las personas.</p>
@@ -58,7 +58,7 @@ comparabilidad: >-
   El indicador disponible no cumple con los metadatos del indicador de 
   Naciones Unidas, pero aporta información similar.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-05-02.pdf">Metadata 3-5-2.pdf (solo en inglés)</a>'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-05-02.pdf">Metadata 3-5-2.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

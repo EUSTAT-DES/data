@@ -45,17 +45,17 @@ reporting_status: alcanzado
 sort: ''
 sources:
   - organisation: FUENTE.Ekolurra
-    periodicity: FUENTE.FREQ_A1
+    periodicity: FUENTE.FREQ_A
     url: FUENTE.Ekolurra_epe_url
     url_text: FUENTE.Ekolurra_epe
     logo: FUENTE.Ekolurra_logo
   - organisation: FUENTE.Euskadi_Alimentacion
-    periodicity: FUENTE.FREQ_A1
+    periodicity: FUENTE.FREQ_A
     url: FUENTE.Euskadi_Alimentacion_edgt_url
     url_text: FUENTE.Euskadi_Alimentacion_edgt
     logo: FUENTE.Euskadi_logo
   - organisation: FUENTE.GE_Agricultura
-    periodicity: FUENTE.FREQ_A1
+    periodicity: FUENTE.FREQ_A
     url: FUENTE.GE_Agricultura_esyrce_url
     url_text: FUENTE.GE_Agricultura_esyrce
     logo: FUENTE.GE_logo

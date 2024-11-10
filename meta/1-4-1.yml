@@ -1,7 +1,7 @@
  # Metadatos nacionales (ficha metodológica)
 
 indicador_disponible: >-
-  Proporción de viviendas principales con acceso a servicios básicos (abastecimiento de agua corriente y baño)
+  GRAFICO.1-4-1-titulo
 
 objetivo_global: objetivo_largo.1-titulo
 meta_global: meta_largo.1-4-titulo
@@ -17,6 +17,7 @@ formula: |
   <p>$VP^{t} =$ viviendas principales en el año $t$</p>
 
 desagregacion: >-
+  Servicios básicos: abastecimiento de agua corriente y baño<br>
   Territorio histórico/Comarca/Municipio
 
 observaciones: >-
@@ -29,26 +30,29 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: >-
-  <p>La proporción de la población que vive en hogares con acceso a servicios básicos se 
-  define como la proporción de la población que utiliza sistemas de prestación de servicios
+justificacion_global: >-
+  <p> El indicador de Naciones Unidas se basa en 9 componentes. La proporción de la población 
+  que vive en hogares con acceso a servicios básicos se define como la proporción de la población 
+  que utiliza sistemas de prestación de servicios
    públicos que satisfacen las necesidades humanas básicas, incluidos agua potable, saneamiento, 
   higiene, energía, movilidad, recogida de residuos, atención sanitaria, educación e información.
-  tecnologías. Por tanto, el indicador de servicios básicos se basa en 9 componentes. Estos 
-  componentes se capturan en varios indicadores independientes de los ODS, lo que significa 
-  que los conceptos y definiciones del indicador 1.4.1 de los ODS se derivarán de estos indicadores 
-  específicos de los ODS o serán los mismos que ellos.</p>
+  tecnologías. Estos componentes se capturan en varios indicadores independientes de los ODS, 
+  lo que significa que los conceptos y definiciones del indicador 1.4.1 de los ODS se derivarán 
+  de estos indicadores específicos de los ODS o serán los mismos que ellos.</p>
 
-justificacion_global: >-
-  <p>Entre los diferentes aspectos de la pobreza, este indicador se centra en el acceso a servicios básicos. 
+
+  <p>Entre los diferentes aspectos de la pobreza, este indicador se centra en el acceso a 
+  servicios básicos. 
   Proporcionar acceso a servicios básicos como agua potable, servicios de saneamiento e higiene, energía 
   y movilidad sostenibles, vivienda, educación, atención sanitaria, etc., ayuda a mejorar la calidad de 
   vida de los pobres.</p>
+
   <p>La falta de prestación de servicios básicos y la falta de empoderamiento y participación 
   de los gobiernos locales en la prestación de servicios básicos socavan el crecimiento económico y la calidad 
   de vida en cualquier comunidad. Unos sistemas adecuados de prestación de servicios básicos promueven mejoras 
   socioeconómicas y ayudan a lograr el crecimiento económico, la inclusión social, la reducción de la pobreza 
   y la igualdad.</p>
+
   <p>Más específicamente, la mejora de los servicios básicos puede ayudar a aumentar el bienestar 
   y la productividad de las comunidades, crear empleos, ahorrar tiempo y esfuerzo humano en el transporte de 
   agua, apoyar la seguridad alimentaria, mejorar el uso de la energía, producir productos básicos esenciales, 
@@ -65,7 +69,7 @@ comparabilidad: >-
   El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas. Algunos
   de los servicios básicos se miden en otros indicadores de desarrollo sostenible de esta plataforma.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-01.pdf">Metadata 1-4-1.pdf (solo en inglés)</a>'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-01.pdf">Metadata 1-4-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 
