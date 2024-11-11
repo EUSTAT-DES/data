@@ -92,6 +92,12 @@ prose:
           label: "Datos"
           translation_key: metadata_fields.dato_global
           scope: global
+      - name: "dato_ccaa"
+        field:
+          element: text
+          label: "Datos CCAA"
+          translation_key: metadata_fields.dato_ccaa
+          scope: global
       - name: "indicador_meta_enlace"
         field:
           element: text
