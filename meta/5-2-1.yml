@@ -13,7 +13,7 @@ definicion: >-
   o anterior pareja sobre el total de mujeres
 
 formula: |
-  <p>$$TVPAAP^{t} = \frac{VAAP}^{t}}{P_{mujeres}^{t}} \cdot 100$$ </p>
+  <p>$$TVPAAP^{t} = \frac{VAAP^{t}}{P_{mujeres}^{t}} \cdot 100$$ </p>
 
   <p>donde: </p>
 

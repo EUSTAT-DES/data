@@ -8,17 +8,19 @@ meta_global: meta_largo.2-4-titulo
 #  indicador_onu_global:
 
 definicion: >-
-  Emisiones de amoníaco (NH3) de la agricultura y ganadería
+  Emisiones de amoníaco ($NH_3$) de la agricultura y ganadería
 
 formula: |
-  <p>$$ ENH_3^{t}_{agricultura y ganadería} = ENH_3^{t}_{agricultura} + ENH_3^{t}_{ganadería} $$ </p>
+
+  <p>$$ENH3_{agricultura\, y\, ganadería}^{t} = ENH3_{agricultura}^{t} + ENH3_{ganadería}^{t}$$</p>
+
   <p>donde: </p>
-  <p>$ENH_3^{t}_{agricultura} =$ emisiones de $NH_3$ de la agricultura en el año $t$  </p>
-  <p>$ENH_3^{t}_{ganadería} =$ emisiones de $NH_3$ de la ganadería en el año $t$</p>
+  <p>$ENH3_{agricultura}^{t}$ emisiones de $NH_3$ de la agricultura en el año $t$  </p>
+  <p>$ENH3_{ganadería}^{t}$ emisiones de $NH_3$ de la ganadería en el año $t$</p>
 
 
 desagregacion: >-
-  Actividad agrícola: agricultura y ganadería
+  Actividad agrícola: agricultura, ganadería
 
 observaciones: >-
   <p>Las emisiones de amoníaco asignadas a la agricultura son las 
@@ -40,12 +42,12 @@ justificacion_global: >-
   Se utiliza para hacer el seguimiento del progreso hacia el ODS 2 sobre poner fin al hambre y la desnutrición, y está 
   integrado en las prioridades de la Comisión Europea en el marco del Acuerdo Verde Europeo</p>
 
-  <p>El indicador mide las emisiones de amoniaco (NH3) como resultado de 
+  <p>El indicador mide las emisiones de amoniaco ($NH_3$) como resultado de 
   la producción agrícola. Estas emisiones resultan del manejo del estiércol, 
   las aplicaciones de fertilizantes nitrogenados inorgánicos y estiércol animal 
   aplicado al suelo, así como la orina y el estiércol depositados por los animales en pastoreo.</p>
 
-  <p>El amoníaco (NH3) es un gas incoloro, de olor acre y corrosivo que se produce por la descomposición 
+  <p>El amoníaco ($NH_3$) es un gas incoloro, de olor acre y corrosivo que se produce por la descomposición 
   de la materia orgánica vegetal y de los excrementos de humanos y animales. Cuando se libera a la atmósfera, 
   el amoníaco contribuye al nivel de contaminación del aire. El sector agrícola sigue siendo el mayor contribuyente 
   a las emisiones de amoníaco en la UE.</p>

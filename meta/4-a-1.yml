@@ -15,11 +15,11 @@ definicion: >-
 
 formula: |
 
-  <p>PCENU_{servicios básico}^{t} = \frac{CENU_{servicio básico}^{t}}{CENU^{t}} \cdot 100$$ </p>
+  <p>$$PCENU_{servicio\, básico}^{t} = \frac{CENU_{servicio\, básico}^{t}}{CENU^{t}} \cdot 100$$ </p>
 
   <p>donde:</p>
 
-  <p>$CENU_{servicios básico}^{t} =$ centros educativos no universitarios con acceso al servicio básico (electricidad, ordenador con internet, baño, agua potable, instalaciones para el lavado de manos) en el curso escolar $t-1/t$ </p>
+  <p>$CENU_{servicio\, básico}^{t} =$ centros educativos no universitarios con acceso al servicio básico (electricidad, ordenador con internet, baño, agua potable, instalaciones para el lavado de manos) en el curso escolar $t-1/t$ </p>
   <p> $CENU^{t} =$ centros educativos no universitarios en el curso escolar $t-1/t$</p>
 
 

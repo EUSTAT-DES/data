@@ -1,20 +1,21 @@
  # Metadatos nacionales (ficha metodológica)
  
 indicador_disponible: >- 
-  global_indicators.4-5-1-title
+  GRAFICO.4-5-1-titulo
 
 objetivo_global: objetivo_largo.4-titulo
 meta_global: meta_largo.4-5-titulo
 #  indicador_onu_global: indicador_largo.4-5-1-titulo
 
 
-definicion: >-
-  Relación entre las proporciones entre los siguientes grupos que han realizado actividades educativas (formales o no formales) 
-  en los últimos 12 o 4 semanas:<br>
+definicion:  |
+  Relación entre las proporciones entre los siguientes grupos que han realizado actividades 
+  educativas (formales o no formales) en los últimos 12 o 4 semanas:<br>
   - Mujeres y hombres entre 18 y 64 años (en los últimos 12 meses) <br>
-  - Personas entre 18 y 64 años pertenecientes a hogares que se encuentran en el nivel de ingresos inferior y 
-   superior (en los últimos 12 meses)  <br>
-  - Personas entre 18 y 64 años con y sin limitaciones por problemas de salud (graves o no graves)(en los últimos 12 meses)<br>
+  - Personas entre 18 y 64 años pertenecientes a hogares que se encuentran en el nivel 
+  de ingresos inferior y superior (en los últimos 12 meses)  <br>
+  - Personas entre 18 y 64 años con y sin limitaciones por problemas de salud 
+  (graves o no graves)(en los últimos 12 meses)<br>
   - Personas entre 15 y 64 años residentes en municipios de menos de 10.000 habitantes y más de 10.000 
   habitantes (en las últimas 4 semanas)<br>
 
@@ -43,7 +44,6 @@ observaciones: >-
   El grado de disparidad es mayor cuanto más se aleja de 1 el valor del indicador, reflejando 
   una situación desfavorable o favorable del grupo poblacional del numerador respecto al 
   grupo poblacional del denominador según tome un valor inferior o superior a 1 respectivamente. 
-  A la hora de interpretar este indicador se debe tener en cuenta que no es simétrico en torno a 1.
 
 texto_oceca: FUENTE.oceca
 

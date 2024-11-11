@@ -15,11 +15,11 @@ definicion: >-
 
 formula: |
 
-  <p>PPRFD_{nivel educativo}^{t} = \frac{PRFD_{nivel educativo}^{t}}{PR^{t}} \cdot 100$$ </p>
+  <p>$$PPRFD_{nivel\, educativo}^{t} = \frac{PRFD_{nivel\, educativo}^{t}}{PR^{t}} \cdot 100$$ </p>
 
   <p>donde:</p>
 
-  <p>$PRFD_{nivel educativo}^{t} =$ profesorado del nivel educativo con formación docente en el curso escolar $t-1/t$ </p>
+  <p>$PRFD_{nivel\, educativo}^{t} =$ profesorado del nivel educativo con formación docente en el curso escolar $t-1/t$ </p>
   <p> $CENU^{t} =$ total del profesorado del nivel educativo en el curso escolar  $t-1/t$</p>
 
 

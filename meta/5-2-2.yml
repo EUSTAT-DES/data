@@ -14,11 +14,11 @@ definicion: >-
 
 
 formula: |
-  <p>$$TVIF^{t} = \frac{VT}^{t}}{P_{mujeres}^{t}} \cdot 100$$ </p>
+  <p>$$TVIF^{t} = \frac{VT^{t}}{P_{mujeres}^{t}} \cdot 100$$ </p>
 
   <p>donde: </p>
 
-  <p>$TVIF^{t} =$ número de casos registrados de violencia contra las mujeres de manos de su pareja 
+  <p>$VT^{t} =$ número de casos registrados de violencia contra las mujeres de manos de su pareja 
   o ex pareja, violencia intrafamiliar o sexual en el año $t$ </p>
   <p>$P_{mujeres}^{t} =$ mujeres a 1 de julio del año $t$</p>
 

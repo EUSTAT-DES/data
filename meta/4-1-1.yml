@@ -14,23 +14,24 @@ definicion: >-
 
 formula: |
 
-  <p>$$MPL_{t,n,s} = \frac{MP_{n,s,t}}{P_{15,t}}$$</p>
+  <p>$$PPN2_{competencia}^{t} = \frac{PN2_{competencia}^{t}}{P_{15}^{t}}$$</p>
 
   <p>donde:</p>
 
-  <p> $MP_{t,n,s} =$ número de personas de 15 años que han alcanzado o superado el 
-  nivel mínimo de competencia del nivel de educación $n$ en la materia $s$ en el año $t$</p>
+  <p> $PN2_{competencia}^{t} =$ número de personas de 15 años que han alcanzado o superado el 
+  nivel mínimo de competencia del nivel de educación 2 en la materia o competencia en el año $t$</p>
   <p> $P_{15}^{t} =$ población de 15 años en el año $t$</p>
 
 
 desagregacion: >- 
   Sexo <br>
-  Tipo de competencia (materia): Comprensión lectora y matemáticas.
+  Tipo de competencia (materia): Comprensión lectora, matemáticas
 
 periodicidad: FUENTE.FREQ_A3
 
 
-observaciones: >-
+observaciones: |
+
   El Programa para la evaluación internacional de los estudiantes utiliza un sistema de puntuaciones, donde no hay una puntuación máxima ni mínima. Los resultados se escalan de manera que respondan a una distribución normal con una media de 500 puntos y una desviación típica de 100 puntos. Para ayudar a interpretar esas puntuaciones, se establecen categorías de competencia en lectura:
 
   - Inferior al nivel 1c: puntuación inferior a 189,33

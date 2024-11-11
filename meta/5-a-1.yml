@@ -18,7 +18,7 @@ formula: |
   <p><b>Proporción de titulares de explotaciones agrícolas respecto al total de personas trabajadoras 
   en la agricultura</b> </p>
 
-  <p>PPOA_{titulares}^{t} = \frac{TEA^{t}}{POA^{t}} \cdot 100$$</p>
+  <p>$$PPOA_{titulares}^{t} = \frac{TEA^{t}}{POA^{t}} \cdot 100$$</p>
 
   <p>donde: </p>
 

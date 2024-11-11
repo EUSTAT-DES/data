@@ -14,11 +14,11 @@ definicion: >-
 
 formula: |
 
-  <p>$$PPN2C_{c}^{t} = \frac{PN2C_{16-65,c}^{t}}{P_{16-65}^{t}}$$</p>
+  <p>$$PPN2_{c}^{t} = \frac{PN2_{16-65,c}^{t}}{P_{16-65}^{t}}$$</p>
 
   <p>donde:</p>
 
-  <p> $PN2C_{16-65,s}^{t} =$ población entre 16 y 65 años que ha alcanzado al menos el nivel 2 de competencia 
+  <p> $PN2_{16-65,c}^{t} =$ población entre 16 y 65 años que ha alcanzado al menos el nivel 2 de competencia 
   en la escala del tipo de competencia $c$ en el año $t$</p>
   <p> $P_{16-65}^{t} =$ población entre 16 y 65 años años en el año $t$</p>
 
@@ -35,6 +35,7 @@ observaciones: >-
   El Programa de evaluación internacional de competencias de adultos utiliza una escala de 500 puntos para evaluar 
   la comprensión lectora y la competencia en matemáticas. Para ayudar a interpretar esas puntuaciones, la escala 
   se divide en seis categorías de  competencia:<br>
+
   - Inferior al nivel 1: puntuación inferior a 176<br>
   - Nivel 1: puntuación entre 176 y 225<br>
   - Nivel 2: puntuación entre 226 y 275<br>
@@ -46,6 +47,7 @@ observaciones: >-
   habitualmente es capaz de entender textos sobre temas que no conoce, aunque tenga dificultades ante 
   tareas como comparar y contrastar diferentes textos o buscar textos digitales sobre un tema concreto 
   que no conoce.<br>
+
   Una persona alcanza al menos el nivel 2 de competencia en la escala de matemáticas cuando 
   habitualmente es capaz de responder a preguntas que requieren cálculos intermedios, entiende 
   la información matemática de una tabla y no tiene dificultades para interpretar gráficas simples, 
