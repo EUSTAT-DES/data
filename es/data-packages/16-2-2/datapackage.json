@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_HTF_DETVFL",
+                "Trabajo forzado, servidumbre y esclavitud",
                 "VC_HTF_DETVOG",
                 "Trata de personas (todos los fines)",
                 "Explotación sexual",
