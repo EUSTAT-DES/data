@@ -11,10 +11,10 @@ definicion: >-
   Emisiones de amoníaco (NH3) de la agricultura y ganadería
 
 formula: |
-  <p>$$ENH3_{agricultura\, y\, ganadería}^{t} = ENH3_{agricultura}^{t} + ENH3_{ganadería}^{t}$$ </p>
+  <p>$$ENH_3_{agricultura y ganadería} = ENH_3_{agricultura}^{t} + ENH_3_{ganadería}^{t} $$ </p>
   <p>donde: </p>
-  <p>$ENH3_{agricultura}^{t} =$ emisiones de NH3 de la agricultura en el año $t$  </p>
-  <p>$ENH3_{ganadería}^{t} =$ emisiones de NH3 de la ganadería en el año $t$</p>
+  <p>$ENH_3_{agricultura}^{t} =$ emisiones de $NH_3$ de la agricultura en el año $t$  </p>
+  <p>$ENH_3_{ganadería}^{t} =$ emisiones de $NH_3$ de la ganadería en el año $t$</p>
 
 
 desagregacion: >-
