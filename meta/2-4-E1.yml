@@ -1,7 +1,7 @@
  # Metadatos nacionales (ficha metodológica)
  
 indicador_disponible: >-
-  Emisiones de amoníaco de la agricultura y ganadería
+  GRAFICO.2-4-E1-titulo
 
 objetivo_global: objetivo_largo.2-titulo
 meta_global: meta_largo.2-4-titulo
@@ -11,14 +11,14 @@ definicion: >-
   Emisiones de amoníaco (NH3) de la agricultura y ganadería
 
 formula: |
-  <p>$$ENH_3_{agricultura y ganadería} = ENH_3_{agricultura}^{t} + ENH_3_{ganadería}^{t} $$ </p>
+  <p>$$ ENH_3^{t}_{\text{agricultura y ganadería}} = ENH_3^{t}_{\text{agricultura}} + ENH_3^{t}_{\text{ganadería}} $$ </p>
   <p>donde: </p>
-  <p>$ENH_3_{agricultura}^{t} =$ emisiones de $NH_3$ de la agricultura en el año $t$  </p>
-  <p>$ENH_3_{ganadería}^{t} =$ emisiones de $NH_3$ de la ganadería en el año $t$</p>
+  <p>$ENH_3^{t}_{\text{agricultura}} =$ emisiones de $NH_3$ de la agricultura en el año $t$  </p>
+  <p>$ENH_3^{t}_{\text{ganadería}} =$ emisiones de $NH_3$ de la ganadería en el año $t$</p>
 
 
 desagregacion: >-
-  Actividad agrícola_ agricultura y ganadería
+  Actividad agrícola: agricultura y ganadería
 
 observaciones: >-
   <p>Las emisiones de amoníaco asignadas a la agricultura son las 
