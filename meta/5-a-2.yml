@@ -19,27 +19,27 @@ formula: |
   $$MJDMPT^{t} = \begin{cases} 1 & \text{Si ninguno de los proxies está presente en la legislación en el año 𝑡} \\ 2 & \text{Si uno de los proxies está presente en la legislación en el año 𝑡} \\ 3 & \text{Si dos de los proxies están presentes en la legislación en el año 𝑡} \\ 4 & \text{Si tres de los proxies están presentes en la legislación en el año 𝑡} \\ 5 & \text{Si cuatro de los proxies están presentes en la legislación en el año 𝑡} \\ 6 & \text{Si cinco o seis de los proxies están presentes en la legislación en el año 𝑡} \end{cases} $$
 
 
+periodicidad: FUENTE.FREQ_A
+
 desagregacion: >-
 
 
+observaciones:  >-
 
-observaciones: >-
-
-  El indicador mide el nivel en el que el marco normativo garantiza la igualdad de derechos de 
-  la mujer a la propiedad y el control de tierras, contrastando el marco legal frente 
-  a seis proxies aceptados internacionalmente, en concreto en la Convención sobre la 
-  eliminación de todas las formas de discriminación contra la mujer (CEDAW) y las 
-  Directrices voluntarias sobre la gobernanza responsable de la tenencia de la tierra (VGGT):<br>
-  Proxy A: Registro conjunto de tierras obligatorio o incentivado<br>
-  Proxy B: Obligación del consentimiento conyugal para transacciones de tierras<br>
-  Proxy C: Igualdad de derechos de herencia<br>
-  Proxy D: Asignación de recursos financieros para incrementar la tenencia y 
-  control de tierras por parte de la mujer<br>
-  Proxy E: En sistemas legales que reconocen el derecho consuetudinario, 
-  existencia de protección expl¨ªcita sobre los derechos de la mujer a la propiedad<br>
-  Proxy F: Cuotas obligatorias en la gestión y administración de tierras<br>
-
-periodicidad: FUENTE.FREQ_A
+  El indicador mide el nivel en el que el marco normativo garantiza la igualdad de derechos de
+  la mujer a la propiedad y el control de tierras, contrastando el marco legal frente
+  a seis proxies aceptados internacionalmente, en concreto en la Convención 
+  sobre la eliminación de todas las formas de discriminación contra la mujer (CEDAW) y 
+  las Directrices voluntarias sobre la gobernanza responsable de la tenencia de la 
+  tierra (VGGT):  
+  Proxy A: Registro conjunto de tierras obligatorio o incentivado
+  Proxy B: Obligación del consentimiento conyugal para transacciones de tierras  
+  Proxy C: Igualdad de derechos de herencia  
+  Proxy D: Asignación de recursos financieros para incrementar la tenencia y 
+  control de tierras por parte de la mujer  
+  Proxy E: En sistemas legales que reconocen el derecho consuetudinario, 
+  existencia de protección explícita sobre los derechos de la mujer a la propiedad  
+  Proxy F: Cuotas obligatorias en la gestión y administración de tierras  
 
 
  # Metadatos mundiales (Descripción del indicador)  
@@ -51,7 +51,7 @@ justificacion_global: >-
   (incluido el derecho consuetudinario) garantiza la igualdad de derechos de las mujeres 
   en materia de propiedad y/o control de la tierra.</p>
 
-  <pEl enfoque en la tierra del indicador 5.a.2 refleja el reconocimiento 
+  <p>El enfoque en la tierra del indicador 5.a.2 refleja el reconocimiento 
   de que la tierra es un recurso económico clave inextricablemente vinculado al acceso, 
   uso y control de otros recursos económicos y productivos. Es un insumo clave para la 
   producción agrícola; puede facilitar el acceso a servicios financieros y de extensión 

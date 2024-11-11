@@ -16,7 +16,7 @@ definicion: >-
 
 formula: |
 
-  <p>$$MJML^{t} = \\frac{NSI_{Área}^{t}}{NSI_{Área}^{t}+NNO_{Área}^{t}} \\cdot 100$$</p>
+  <p>$$MJML^{t} = \frac{NSI_{Área}^{t}}{NSI_{Área}^{t} + NNO_{Área}^{t}} \cdot 100$$</p>
 
   donde:
 
@@ -36,12 +36,12 @@ observaciones: >-
   los esfuerzos de los gobiernos a la hora de establecer marcos jurídicos para 
   promover, reforzar y supervisar la igualdad de género. Este cuestionario se 
   divide en cuatro áreas trazadas en la Convención sobre la eliminación de todas 
-  las formas de discriminación contra la mujer (CEDAW) y la Plataforma de acción de Beijing:<br>
+  las formas de discriminación contra la mujer (CEDAW) y la Plataforma de acción de Beijing:</p>
   1. Marco legal global y vida pública (preguntas 1-12)<br>
   2. Violencia contra la mujer (preguntas 13-21)<br>
   3. Empleo y subsidios económicos (preguntas 22-31)<br>
   4. Matrimonio y familia (preguntas 32-42)<br>
-  Los datos se extraen de la Base de datos global de ODS de Naciones Unidas.</p>
+  <p>Los datos se extraen de la Base de datos global de ODS de Naciones Unidas.</p>
 
 
 periodicidad: FUENTE.FREQ_A2

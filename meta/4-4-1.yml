@@ -16,11 +16,11 @@ definicion: >-
 
 formula: |
 
-  <p>$$PPHAB_{grupo edad}^{t} = \frac{PHAB_{grupo edad}^{t}}{P_{grupo edad}^{t}} \cdot 100$$</p>
+  <p>$$PPHAB_{grupo\, edad}^{t} = \frac{PHAB_{grupo\, edad}^{t}}{P_{grupo\, edad}^{t}} \cdot 100$$</p>
 
   <p>donde:</p> 
-  <p>$PHAB_{grupo edad}^{t} =$ población de un grupo de edad que en los últimos 12 meses ha utilizado alguna habilidad informática en el año $t$</p> 
-  <p>$P_{grupo edad}^{t} =$ población de un grupo de edad en el año $t$</p>
+  <p>$PHAB_{grupo\, edad}^{t} =$ población de un grupo de edad que en los últimos 12 meses ha utilizado alguna habilidad informática en el año $t$</p> 
+  <p>$P_{grupo\, edad}^{t} =$ población de un grupo de edad en el año $t$</p>
 
 
 desagregacion: >- 
