@@ -3987,6 +3987,62 @@
       "title": "Proportion of the target population covered by all vaccines included in their national programme"
     },
     {
+      "path": "OCECA-1-2-1-1/data.csv",
+      "name": "OCECA-1-2-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "CCAA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Principado de Asturias",
+                "Cantabria",
+                "C.A. de Euskadi",
+                "Comunidad Foral de Navarra",
+                "Aragón",
+                "Comunidad de Madrid",
+                "Castilla y León",
+                "Extremadura",
+                "España",
+                "Illes Balears",
+                "Canarias",
+                ""
+              ]
+            },
+            "title": "Comunidad Autónoma"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "national_indicators.1-2-1-1-title"
+    },
+    {
       "path": "6-3-2/data.csv",
       "name": "6-3-2",
       "profile": "tabular-data-resource",
