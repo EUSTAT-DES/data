@@ -65,6 +65,9 @@ justificacion_global: >-
 dato_global: >-
   <a href="https://ec.europa.eu/eurostat/databrowser/bookmark/7d6a8537-b602-4526-aff8-4fcbd2b48dee?lang=en">Tasa de riesgo de pobreza por umbral de pobreza, edad y sexo (ilc_li02)</a> Eurostat
 
+dato_ccaa: >-
+  <a href="https://eustat-des.github.io/site/OCECA-1-2-1-1-iframe/">Proporción de personas en riesgo de pobreza relativa, considerando el umbral autonómico de pobreza</a>
+
 comparabilidad: >-
   El indicador disponible cumple con los metadatos del indicador de Naciones Unidas. Para el cálculo 
   de la tasa de pobreza de la Comunidad Autónoma de Euskadi y sus territorios históricos, se aplica 
