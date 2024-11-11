@@ -4006,15 +4006,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "España",
+                "Aragón",
                 "Principado de Asturias",
                 "Cantabria",
                 "C.A. de Euskadi",
                 "Comunidad Foral de Navarra",
-                "Aragón",
                 "Comunidad de Madrid",
                 "Castilla y León",
                 "Extremadura",
-                "España",
                 "Illes Balears",
                 "Canarias",
                 ""

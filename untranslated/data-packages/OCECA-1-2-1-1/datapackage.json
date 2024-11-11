@@ -19,15 +19,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "ES",
+                "ES24",
                 "ES12",
                 "ES13",
                 "ES21",
                 "ES22",
-                "ES24",
                 "ES30",
                 "ES41",
                 "ES43",
-                "ES",
                 "ES53",
                 "ES70",
                 ""
