@@ -21,10 +21,10 @@
             "constraints": {
               "enum": [
                 "Electricidad",
-                "Conexión a internet con fines pedagógicos ",
+                "Conexión a internet",
                 "Agua potable",
                 "Baños separados por sexo",
-                "Instalaciones básicas para el lavado de manos",
+                "Lavado de manos",
                 ""
               ]
             },

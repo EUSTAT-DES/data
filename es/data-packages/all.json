@@ -5552,8 +5552,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tasa de participación en la enseñanza y formación académica y no académica",
-                "Proporción de personas entre 18 y 64 años que han realizado actividades educativas en los últimos 12 meses",
+                "Tasa de participación en la enseñanza y formación académica y no académica en las últimas 4 semanas",
+                "Tasa de participación en actividades educativas en los últimos 12 meses",
                 ""
               ]
             },
@@ -12902,10 +12902,10 @@
             "constraints": {
               "enum": [
                 "Electricidad",
-                "Conexión a internet con fines pedagógicos ",
+                "Conexión a internet",
                 "Agua potable",
                 "Baños separados por sexo",
-                "Instalaciones básicas para el lavado de manos",
+                "Lavado de manos",
                 ""
               ]
             },
