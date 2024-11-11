@@ -30,15 +30,15 @@ progress_status: alcanzado
 reporting_status: alcanzado
 sort: ''
 sources:
-  - organisation: FUENTE.INE
-    periodicity: FUENTE.FREQ_A5
-    url: FUENTE.INE_eada_url
-    url_text: FUENTE.INE_eada
-    logo: FUENTE.INE_logo
   - organisation: FUENTE.Eustat
     periodicity: FUENTE.FREQ_A
     url: FUENTE.Eustat_pra_url
     url_text: FUENTE.Eustat_pra
     logo: FUENTE.Eustat_logo
+  - organisation: FUENTE.INE
+    periodicity: FUENTE.FREQ_A5
+    url: FUENTE.INE_eada_url
+    url_text: FUENTE.INE_eada
+    logo: FUENTE.INE_logo
 standalone: false
 tags: []
