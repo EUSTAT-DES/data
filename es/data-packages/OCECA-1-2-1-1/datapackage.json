@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "España",
+                "-España-",
                 "Aragón",
                 "Principado de Asturias",
                 "Cantabria",
