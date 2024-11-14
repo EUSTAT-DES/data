@@ -1,0 +1,74 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.7-1-1-title
+
+objetivo_global: objetivo_largo.7-titulo
+meta_global: meta_largo.7-1-titulo
+#  indicador_onu_global: indicador_largo.7-1-1-titulo
+
+
+definicion: |
+
+  La proporción de población con acceso a la electricidad es el porcentaje 
+  de población con acceso a fuentes consistentes de electricidad.
+
+formula: |
+
+  $$PA_{electricidad}^{t} = \frac{PA_{electricidad}^{t}}{P^{t}} \cdot 100$$
+
+  donde:
+
+  PA_{electricidad}^{t} =$ población con acceso a electricidad en el año $t$
+
+  $P^{t} =$ población en el año $t$
+
+
+desagregacion: >- 
+ 
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >- 
+
+
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  El acceso a la electricidad aborda cuestiones fundamentales en todas 
+  las dimensiones del desarrollo sostenible. La meta tiene una amplia gama 
+  de impactos sociales y económicos, entre ellos, la facilitación 
+  del desarrollo de actividades generadoras de ingresos y el alivio de la 
+  carga de las tareas domésticas.
+
+  En el marco de la meta mundial de acceso igualitario a la energía, el 
+  ODS 7.1.1 se centra específicamente en el acceso a la electricidad disponible 
+  para la población mundial. Para obtener una imagen clara, solo 
+  se consideran que hay acceso si la fuente principal de iluminación es 
+  el proveedor local de electricidad, los sistemas solares, las minirredes y 
+  los sistemas autónomos. 
+
+  Las fuentes como generadores, velas, baterías, etc., no se consideran 
+  debido a su limitada capacidad de trabajo y a que generalmente se 
+  mantienen como fuentes de respaldo para la iluminación.
+
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EG_ACS_ELEC&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA">Proporción de población con acceso a electricidad, por zonas urbanas/rurales (%) EG_ACS_ELEC</a> UNSTATS
+
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: 
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-01-01.pdf">Metadata 7-1-1.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

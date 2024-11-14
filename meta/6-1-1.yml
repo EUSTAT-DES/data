@@ -8,17 +8,19 @@ meta_global: meta_largo.6-1-titulo
 #  indicador_onu_global: indicador_largo.6-1-1-titulo
 
 
-definicion: >-
+definicion:  |
   La proporción de la población que utiliza servicios de agua potable gestionados 
   de forma segura se define como la proporción de la población que utiliza una 
   fuente de agua potable mejorada a la que se puede acceder en las instalaciones, 
   está disponible cuando se la necesita y está libre de contaminación fecal y 
-  química prioritaria. Las fuentes de agua potable “mejoradas” incluyen: suministro 
+  química prioritaria. 
+
+  Las fuentes de agua potable “mejoradas” incluyen: suministro 
   por tuberías, pozos perforados y entubados, pozos excavados protegidos, 
   manantiales protegidos, agua de lluvia, quioscos de agua y agua envasada y 
   entregada a domicilio.
 
-formula: >-
+formula:  |
 
   $$PPC^{t} = \frac{PC^{t}}{P^{t}} \cdot 100$$
 
@@ -40,7 +42,7 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-justificacion_global: >- 
+justificacion_global: | 
 
   El acceso al agua potable es esencial para la buena salud, el bienestar y 
   la productividad y es ampliamente reconocido como un derecho humano. El 
