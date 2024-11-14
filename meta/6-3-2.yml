@@ -25,11 +25,11 @@ definicion: |
 
 formula: |
 
-  $$PMABC^{t} = \frac{MBC_{agua^{t}}{M_{agua}^{t}} \cdot 100$$
+  $$PMABC^{t} = \frac{MBC_{agua}^{t}}{M_{agua}^{t}} \cdot 100$$
 
   donde:
 
-  $MBC_{agua^{t} =$ masas de agua de buena calidad en el año $t$
+  $MBC_{agua}^{t} =$ masas de agua de buena calidad en el año $t$
 
   $M_{agua}^{t} =$ masas de agua en el año $t$
 
