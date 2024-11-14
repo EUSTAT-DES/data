@@ -1,0 +1,94 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.6-3-2-title
+
+objetivo_global: objetivo_largo.6-titulo
+meta_global: meta_largo.6-3-titulo
+#  indicador_onu_global: indicador_largo.6-3-2-titulo
+
+
+definicion: |
+
+  El indicador se define como la proporción de cuerpos de agua en un territorio que 
+  tienen una buena calidad ambiental del agua. La calidad ambiental del agua 
+  se refiere al agua natural, no tratada, en ríos, lagos y aguas subterráneas 
+  y representa una combinación de influencias naturales junto con los impactos 
+  de todas las actividades antropogénicas.
+
+  El indicador se basa en datos de calidad del agua derivados de mediciones 
+  in situ y el análisis de muestras recolectadas de aguas superficiales y 
+  subterráneas. La calidad del agua se evalúa por medio de parámetros 
+  físicos y químicos básicos que reflejan la calidad natural del agua 
+  relacionada con factores climatológicos y geológicos, junto con los 
+  principales impactos en la calidad del agua.
+
+formula: |
+
+  $$PMABC^{t} = \frac{MBC_{agua^{t}}{M_{agua}^{t}} \cdot 100$$
+
+  donde:
+
+  $MBC_{agua^{t} =$ masas de agua de buena calidad en el año $t$
+
+  $M_{agua}^{t} =$ masas de agua en el año $t$
+
+desagregacion: >- 
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  La buena calidad del agua ambiental es esencial para proteger los 
+  ecosistemas acuáticos y los servicios que prestan, entre ellos: 
+  la preservación de la biodiversidad; la protección de la salud humana 
+  durante el uso recreativo y mediante el suministro de agua potable; 
+  el apoyo a la nutrición humana mediante el suministro de peces y agua 
+  para riego; la facilitación de una variedad de actividades económicas; 
+  y el fortalecimiento de la resiliencia de las personas frente a los 
+  desastres relacionados con el agua. Por lo tanto, la buena calidad del agua 
+  ambiental está estrechamente vinculada al logro de muchos otros 
+  Objetivos de Desarrollo Sostenible.
+
+  La meta 6.3 tiene por objeto mejorar la calidad del agua y el 
+  indicador 6.3.2 proporciona un mecanismo para determinar si las medidas de 
+  gestión de la calidad del agua están contribuyendo a la mejora de la calidad 
+  del agua a lo largo del tiempo y en qué medida. El indicador también 
+  está directamente vinculado con el indicador 6.3.1 sobre el tratamiento 
+  de aguas residuales porque el tratamiento inadecuado de las aguas 
+  residuales conduce a la degradación de la calidad de las aguas que 
+  reciben los efluentes de aguas residuales. 
+
+  Informa directamente sobre el progreso hacia la meta 6.3 y 
+  está fuertemente vinculada a la meta 6.6 sobre ecosistemas relacionados 
+  con el agua, así como a la meta 14.1 sobre contaminación 
+  marina (eutrofización costera).
+
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_OPAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proporción de cuerpos de agua abiertos con buena calidad de agua ambiental (%) EN_H2O_OPAMBQ</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_RVAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proporción de cuerpos de agua fluviales con buena calidad ambiental del agua (%) EN_H2O_RVAMBQ</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_GRAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proporción de masas de agua subterránea con buena calidad de agua ambiental (%) EN_H2O_GRAMBQ</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_WBAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proporción de masas de agua con buena calidad ambiental del agua (%) EN_H2O_WBAMBQ</a> UNSTATS
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: 
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-02.pdf">Metadata 6-3-2.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'
