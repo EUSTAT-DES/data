@@ -42,13 +42,15 @@ observaciones: |
 texto_oceca: |
 
   <img src="/site/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS">
-  Indicador calculado utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas. Otros subindicadores asociados al indicador 1.2.1:
+  Indicador calculado utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas. 
 
-    <a href="https://eustat-des.github.io/site/OCECA-010202-1A-iframe/" target="_blank">Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza</a>
+  Otros subindicadores asociados al indicador 1.2.1:
 
-    <a href="https://eustat-des.github.io/site/OCECA-010202-2A-iframe/" target="_blank">Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza</a>
+    <a href="https://eustat-des.github.io/site/OCECA-010201-1A-iframe/" target="_blank">Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza</a>
 
-    <a href="https://eustat-des.github.io/site/OCECA-010202-2B-iframe/" target="_blank">Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza</a>
+    <a href="https://eustat-des.github.io/site/OCECA-010201-2A-iframe/" target="_blank">Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza</a>
+
+    <a href="https://eustat-des.github.io/site/OCECA-010201-2B-iframe/" target="_blank">Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza</a>
 
 
  # Metadatos mundiales (Descripción del indicador)  
@@ -86,7 +88,7 @@ comparabilidad: |
   el umbral de la pobreza dela Comunidad Autónoma.
 
 indicador_meta_enlace: >- 
-  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadata 1-2-1.pdf</a> (solo en inglés)'
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadata 1-2-1.pdf</a> (solo en inglés)
 
 informacion_interes: 
 
