@@ -8,59 +8,71 @@ meta_global: meta_largo.1-2-titulo
 #  indicador_onu_global: indicador_largo.1-2-1-titulo
 
 
-definicion: >-
+definicion: |
   Proporción de personas con ingresos por unidad de consumo por debajo del 
   60% de la mediana de la C.A. de Euskadi (escala OCDE modificada)
 
 formula: |
-  <p>$$PP_{RPR}^{t} = \frac{P_{RPR}^{t}}{P^{t}} \cdot 100$$ </p>
-  <p>donde: </p>
-  <p>$P_{RPR}^{t} =$ población con ingresos por debajo del 60% de la mediana de los ingresos por unidad de consumo (escala OCDE modificada) en el año $t$ </p>
-  <p>$P^{t} =$ población total en el año $t$</p>
 
-desagregacion: >-
-  Sexo <br>
-  Territorio histórico/Comarca
+  $$PP_{RPR}^{t} = \frac{P_{RPR}^{t}}{P^{t}} \cdot 100$$
+
+  donde:
+
+  $P_{RPR}^{t} =$ población con ingresos por debajo del 60% de la mediana de los ingresos por unidad de consumo (escala OCDE modificada) en el año $t$ </p>
+
+  $P^{t} =$ población total en el año $t$
+
+desagregacion: |
+  Sexo
+
+  Territorio histórico
 
 periodicidad: FUENTE.FREQ_A2
 
-observaciones: >-
-  <p>El número de unidades de consumo de un hogar
+observaciones: |
+  El número de unidades de consumo de un hogar
   se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
   primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
-  más años y un peso de 0,3 a las personas de menos de 14 años.</p>
+  más años y un peso de 0,3 a las personas de menos de 14 años.
 
-  <p>El umbral de los ingresos inferiores al 60% de la mediana de la C.A. de Euskadi 
-  está situado en el año 2022 en 12.983€ anuales (siendo la mediana de ingresos de 21.638€).</p>
+  El umbral de los ingresos inferiores al 60% de la mediana de la C.A. de Euskadi 
+  está situado en el año 2022 en 12.983€ anuales (siendo la mediana de ingresos 
+  de 21.638€).
 
-texto_oceca: FUENTE.oceca
+texto_oceca: |
+
+  <img src="/site/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS">
+  Indicador calculado utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas. Otros subindicadores asociados al indicador 1.2.1:
+
+    <a href="https://eustat-des.github.io/site/OCECA-010202-1A-iframe/" target="_blank">Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza</a>
+
+    <a href="https://eustat-des.github.io/site/OCECA-010202-2A-iframe/" target="_blank">Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza</a>
+
+    <a href="https://eustat-des.github.io/site/OCECA-010202-2B-iframe/" target="_blank">Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza</a>
+
 
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
-  <p>Hacer el seguimiento de la pobreza nacional es importante para los programas de
-  desarrollo específicos de cada país. Las líneas de pobreza nacionales se
-  utilizan para hacer estimaciones más precisas de la pobreza consistentes con
-  las circunstancias económicas y sociales específicas del país.</p>
+justificacion_global: |
 
-  <p>El indicador de riesgo de pobreza relativa (At-Risk-of-Poverty Rate en inglés) o pobreza monetaria
-  es uno de los indicadores clave para hacer el seguimiento de la pobreza en la UE.</p>
+  El indicador de riesgo de pobreza relativa (At-Risk-of-Poverty Rate en inglés) o pobreza monetaria
+  es uno de los indicadores clave para hacer el seguimiento de la pobreza en la UE.
 
-  <p>Este indicador no mide ni la riqueza ni la pobreza, sino bajos ingresos en comparación con otros 
-  residentes del país, lo que no necesariamente implica un bajo nivel de vida.</p>
+  Este indicador no mide ni la riqueza ni la pobreza, sino bajos ingresos en comparación con otros 
+  residentes del territorio, lo que no necesariamente implica un bajo nivel de vida.
 
-  <p>Según la definición de Eurostat, la tasa de riesgo de pobreza es la proporción de personas
+  La tasa de riesgo de pobreza es la proporción de personas
    con una renta disponible equivalente (después de transferencias sociales) inferior al 
   umbral de riesgo de pobreza, que está fijada por convención en la UE en el 
-  60 % de la mediana nacional de la renta disponible equivalente después de transferencias 
-  sociales.</p>
+  60 % de la mediana de la renta disponible equivalente después de transferencias 
+  sociales en un territorio.
 
-  <p>Para tener en cuenta el impacto de las diferencias en el tamaño y la composición del hogar,
+  Para tener en cuenta el impacto de las diferencias en el tamaño y la composición del hogar,
   el ingreso disponible de un hogar (ingreso total, después de impuestos y otras deducciones, que está 
   disponible para gastar o ahorrar) se divide por el número de miembros del hogar convertidos en adultos 
   equivalentes (unidades de consumo). En la UE se aplica un factor de equivalencia calculado según 
-  la escala modificada de la OCDE propuesta en 1994.</p>
+  la escala modificada de la OCDE propuesta en 1994.
 
 dato_global: >-
   <a href="https://ec.europa.eu/eurostat/databrowser/bookmark/7d6a8537-b602-4526-aff8-4fcbd2b48dee?lang=en">Tasa de riesgo de pobreza por umbral de pobreza, edad y sexo (ilc_li02)</a> Eurostat
@@ -68,12 +80,13 @@ dato_global: >-
 dato_ccaa: >-
   <a href="https://eustat-des.github.io/site/OCECA-1-2-1-1-iframe/">Proporción de personas en riesgo de pobreza relativa, considerando el umbral autonómico de pobreza</a>
 
-comparabilidad: >-
+comparabilidad: |
   El indicador disponible cumple con los metadatos del indicador de Naciones Unidas. Para el cálculo 
   de la tasa de pobreza de la Comunidad Autónoma de Euskadi y sus territorios históricos, se aplica 
   el umbral de la pobreza dela Comunidad Autónoma.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadata 1-2-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: >- 
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadata 1-2-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

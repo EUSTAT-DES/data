@@ -18,17 +18,13 @@ footer_fields: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_target_lines:
-  - series: ''
-    unit: ''
-    label_content: indicator.annotation_2030_target
-    value: 9.25
-graph_title: GRAFICO.1-2-1-titulo
+graph_target_lines: []
+graph_title: ''
 graph_titles: []
 graph_type: line
 indicator_available: ''
-indicator_name: global_indicators.1-2-1-title
-indicator_number: 1.2.1
+indicator_name: national_indicators.OCECA-010201-2A
+indicator_number: 'OCECA-010201-2A'
 indicator_tabs:
   override: false
   tab_1: ''
@@ -36,16 +32,15 @@ indicator_tabs:
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: ''
-page_content: GRAFICO.1-2-1-contenido
-permalink: ''
+page_content: ''
+permalink: OCECA-010201-2A
 placeholder: ''
 precision: []
 proxy: ''
 proxy_series: []
 publications: []
 related_indicators: []
-progress_status: progreso
-reporting_status: progreso
+reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.Euskadi_Bienestar
@@ -53,8 +48,6 @@ sources:
     url: FUENTE.Euskadi_Bienestar_epds_url
     url_text: FUENTE.Euskadi_Bienestar_epds
     logo: FUENTE.Euskadi_logo
-standalone: false
-tags:
-  - status.territorio
-  - status.sexo
+standalone: true
+tags: []
 x_axis_label: ''

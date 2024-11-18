@@ -9,55 +9,58 @@ meta_global: meta_largo.1-1-titulo
 #  indicador_onu_global: indicador_largo.1-1-1-titulo
 
 
-definicion: >-
+definicion: |
   Proporción de personas con ingresos por unidad de consumo por debajo del 
   umbral internacional de la pobreza, actualmente fijada en 2,15 dólares al día 
   a precios internacionales de 2017 
 
 formula: |
-  <p>$$PP_{UIP}^{t} = \frac{P_{UIP}^{t}}{P^{t}} \cdot 100$$ </p>
 
+  $$PP_{UIP}^{t} = \frac{P_{UIP}^{t}}{P^{t}} \cdot 100$$
 
-  <p>donde: </p>
-  <p>$P_{UIP}^{t} =$ población con ingresos por debajo del umbral internacional de la pobreza en el año $t$ </p>
-  <p>$P^{t} =$ población total en el año $t$</p>
+  donde:
+
+  $P_{UIP}^{t} =$ población con ingresos por debajo del umbral internacional de la pobreza en el año $t$
+
+  $P^{t} =$ población total en el año $t$
 
 desagregacion: >-
 
 periodicidad: FUENTE.FREQ_A2
 
-observaciones: >-
-  <p>El número de unidades de consumo de un hogar
+observaciones: |
+  El número de unidades de consumo de un hogar
   se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
   primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
-  más años y un peso de 0,3 a las personas de menos de 14 años.</p>
+  más años y un peso de 0,3 a las personas de menos de 14 años.
 
 
 
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
-  <p>Las líneas de pobreza nacionales varían en términos de su poder adquisitivo 
+justificacion_global: |
+  Las líneas de pobreza nacionales varían en términos de su poder adquisitivo 
   y tienen un fuerte gradiente económico, de modo que los países más ricos tienden 
-  a adoptar estándares de vida más altos al definir la pobreza. </p>
+  a adoptar estándares de vida más altos al definir la pobreza.
 
-  <p>En cambio, las líneas de pobreza internacionales intentan 
+  En cambio, las líneas de pobreza internacionales intentan 
   mantener constante el valor real de la línea de pobreza en todos los países 
   y a lo largo del tiempo. Para el Informe sobre el desarrollo mundial de 1990 
   se eligió el estándar comúnmente utilizado de 1 dólar por día, medido en 
   precios internacionales de 1985 y ajustado a la moneda local utilizando 
   tipos de cambio de paridad del poder adquisitivo (PPA), porque era 
-  típico de las líneas de pobreza en los países de bajos ingresos en ese momento.</p>
+  típico de las líneas de pobreza en los países de bajos ingresos en ese momento.
  
-  <p>A medida que evolucionan las diferencias en el coste de vida en todo el mundo,
+  A medida que evolucionan las diferencias en el coste de vida en todo el mundo,
   la línea internacional de pobreza debe actualizarse periódicamente
   utilizando nuevos datos de precios PPA para reflejar estos cambios. 
   El último cambio se produjo en septiembre de 2022, cuando el Banco Mundial 
-  adoptó 2,15 dólares como umbral de pobreza internacional utilizando la PPA de 2017.</p>
+  adoptó 2,15 dólares como umbral de pobreza internacional utilizando la PPA de 2017.
 
-indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf">Metadata 1-1-1 (1).pdf</a> (solo en inglés) <br>
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf">Metadata 1-1-1 (1).pdf</a> (solo en inglés)
+
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01b.pdf">Metadata 1-1-1 (2).pdf</a> (solo en inglés)
 
 dato_global: >- 

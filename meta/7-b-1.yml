@@ -15,7 +15,7 @@ definicion: |
 
 formula: |
 
-  CINSTPC_{renovable}^{t} = \frac{CINST_{renovable}^{t}}{P^{t}} \cdot 100$$ 
+  $$CINSTPC_{renovable}^{t} = \frac{CINST_{renovable}^{t}}{P^{t}} \cdot 100$$ 
 
   donde:
 
