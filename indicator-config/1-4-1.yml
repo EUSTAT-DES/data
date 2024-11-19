@@ -40,5 +40,6 @@ sources:
     url_text: FUENTE.Eustat_cepv
     logo: FUENTE.Eustat_logo
 standalone: false
-tags: []
+tags:
+  - status.municipio
 x_axis_label: ''
