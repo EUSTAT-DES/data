@@ -55,6 +55,6 @@ sources:
     logo: FUENTE.Euskadi_logo
 standalone: false
 tags:
-  - status.territorial
-  - status.sexo
+  - territorio
+  - sexo
 x_axis_label: ''
