@@ -18,17 +18,13 @@ footer_fields: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_target_lines:
-  - series: ''
-    unit: ''
-    label_content: indicator.annotation_2030_target
-    value: 9.25
-graph_title: GRAFICO.1-2-1-titulo
+graph_target_lines: []
+graph_title: ''
 graph_titles: []
 graph_type: line
 indicator_available: ''
-indicator_name: global_indicators.1-2-1-title
-indicator_number: 1.2.1
+indicator_name: national_indicators.OCECA-010A01-01
+indicator_number: 'OCECA-010A01-01'
 indicator_tabs:
   override: false
   tab_1: ''
@@ -36,25 +32,32 @@ indicator_tabs:
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: ''
-page_content: GRAFICO.1-2-1-contenido
-permalink: ''
+page_content: ''
+permalink: OCECA-010A01-01
 placeholder: ''
 precision: []
 proxy: ''
 proxy_series: []
 publications: []
 related_indicators: []
-progress_status: progreso
-reporting_status: progreso
+reporting_status: complete
 sort: ''
 sources:
-  - organisation: FUENTE.Euskadi_Bienestar
+  - organisation: FUENTE.Eustat
     periodicity: FUENTE.FREQ_A2
-    url: FUENTE.Euskadi_Bienestar_epds_url
-    url_text: FUENTE.Euskadi_Bienestar_epds
-    logo: FUENTE.Euskadi_logo
-standalone: false
-tags:
-  - status.territorial
-  - status.sexo
+    url: FUENTE.Eustat_cedu_url
+    url_text: FUENTE.Eustat_cedu
+    logo: FUENTE.Eustat_logo
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_ceap_url
+    url_text: FUENTE.Eustat_ceap
+    logo: FUENTE.Eustat_logo
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_cepsp_url
+    url_text: FUENTE.Eustat_cepsp
+    logo: FUENTE.Eustat_logo
+standalone: true
+tags: []
 x_axis_label: ''

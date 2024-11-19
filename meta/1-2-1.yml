@@ -18,7 +18,7 @@ formula: |
 
   donde:
 
-  $P_{RPR}^{t} =$ población con ingresos por debajo del 60% de la mediana de los ingresos por unidad de consumo (escala OCDE modificada) en el año $t$ </p>
+  $P_{RPR}^{t} =$ población con ingresos por debajo del 60% de la mediana de los ingresos por unidad de consumo (escala OCDE modificada) en el año $t$
 
   $P^{t} =$ población total en el año $t$
 
@@ -46,11 +46,11 @@ texto_oceca: |
 
   Otros subindicadores asociados al indicador 1.2.1:
 
-    <a href="https://eustat-des.github.io/site/OCECA-010201-1A-iframe/" target="_blank">Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza</a>
+    <a href="https://eustat-des.github.io/site/OCECA-010201-1A">Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza</a>
 
-    <a href="https://eustat-des.github.io/site/OCECA-010201-2A-iframe/" target="_blank">Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza</a>
+    <a href="https://eustat-des.github.io/site/OCECA-010201-2A">Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza</a>
 
-    <a href="https://eustat-des.github.io/site/OCECA-010201-2B-iframe/" target="_blank">Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza</a>
+    <a href="https://eustat-des.github.io/site/OCECA-010201-2B">Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza</a>
 
 
  # Metadatos mundiales (Descripción del indicador)  

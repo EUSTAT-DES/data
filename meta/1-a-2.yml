@@ -14,14 +14,18 @@ definicion: >-
 
 formula: |
 
-  <p>$$PG_{servicios}^{t} = \frac{G_{servicios}^{t}}{G^{t}} \cdot 100$$</p>
-  <p>donde: </p>
-  <p>$G_{servicios}^{t} =$ gasto de las administraciones públicas que se dedica a servicios esenciales, grupos funcionales 07, 09 y 10 de la 
-  Clasificación de Funciones del Gobierno (COFOG), en el año $t$ </p>
-  <p>$G^{t} =$ gasto total de las administraciones públicas en el año $t$</p>
+  $$PG_{servicios\, esenciales}^{t} = \frac{G_{servicios\, esenciales}^{t}}{G^{t}} \cdot 100$$
+
+  donde:
+
+  $G_{servicios\, esenciales}^{t} =$ gasto de las administraciones públicas que se dedica a servicios esenciales, grupos funcionales 07, 09 y 10 de la 
+  Clasificación de Funciones del Gobierno (COFOG), en el año $t$
+
+  $G^{t} =$ gasto total de las administraciones públicas en el año $t$
 
 
 desagregacion: >-
+  Servicios esenciales: educación, salud, protección social
 
 observaciones: >-
 
@@ -30,13 +34,13 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-justificacion_global: >-
-  <p>El indicador se utiliza para evaluar el gasto del gobierno en servicios esenciales 
+justificacion_global: |
+  El indicador se utiliza para evaluar el gasto del gobierno en servicios esenciales 
   (educación, salud y protección social) en relación con el monto del gasto gubernamental 
   total. Dado que proviene de un marco internacional, el Manual de estadísticas de finanzas públicas 
   (MEFP 2014), proporciona a los analistas un conjunto de datos comparable entre países y garantiza 
   el establecimiento de conclusiones analíticas sólidas para respaldar el seguimiento de los ODS utilizando
-  datos fiscales.</p>
+  datos fiscales.
 
 
 comparabilidad: >-
@@ -50,8 +54,9 @@ dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_ESSRV&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
   Proporción del gasto público total en servicios esenciales (%) SG_XPD_ESSRV</a> UNSTATS
 
-indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02a.pdf">Metadata 1-a-2 (1).pdf</a> (solo en inglés)<br>
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02a.pdf">Metadata 1-a-2 (1).pdf</a> (solo en inglés)
+
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02b.pdf">Metadata 1-a-2 (2).pdf</a> (solo en inglés)
 
 informacion_interes: 
