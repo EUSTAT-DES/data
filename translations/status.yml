@@ -1,0 +1,37 @@
+exploring_data_sources: Explorando fuentes de datos
+overall_reporting_status: Estado del progreso
+reported_online: Disponible
+reporting_status: Informe de seguimiento
+statistics_in_progress: Explorando fuentes
+no_data_available: Datos no disponibles
+not_applicable: No aplicable
+status_by_goal: Progreso por objetivo
+status_by_field: Estado por %field
+disaggregation_status: 'Estado de desagregación'
+disaggregation_status_overall: 'Estado general de desagregación'
+disaggregation_status_complete: 'Totalmente desagregado'
+disaggregation_status_inprogress: 'Parcialmente desagregado'
+disaggregation_status_notstarted: 'No desagregado'
+disaggregation_status_notapplicable: 'Fuera de alcance'
+disaggregation_status_by_field: 'Desagregación por %field'
+not_specified: No se especifica
+reported: Informado
+description: >-
+  <p>El informe de seguimiento proporciona una descripción general del progreso en la consecución de los Objetivos de Desarrollo Sostenible (ODS) en la Comunidad Autónoma de Euskadi.
+  Para saber más sobre el procedimiento para evaluar el progreso, ver <a href="https://eustat-des.github.io/site/metodologia">Metodología para la medición del progreso</a>.</p>
+progress_status: <b>Seguimiento</b>
+progress_not_available: No hay datos
+progress_challenges_remain: Insuficiente
+progress_approaching_target: Moderado
+progress_target_achieved: Objetivo cumplido
+progress_help: ¿Cómo vamos con respecto al objetivo del 2030?
+alcanzado: Meta alcanzada o en vías de alcanzarla
+en_progreso: Progreso razonable, pero es necesario acelerarlo
+retroceso: Estancamiento o retroceso
+no_evaluado: No evaluado
+territorio: "Territorio histórico"
+sexo: Sexo
+territorial: "Territorio histórico"
+municipio: Municipio
+
+    
