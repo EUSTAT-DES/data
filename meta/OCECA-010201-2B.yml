@@ -2,8 +2,8 @@
  
 
 objetivo_global: objetivo_largo.1-titulo
-meta_global: meta_largo.1-2-titulo
-#  indicador_onu_global: indicador_largo.1-2-1-titulo
+meta_global: meta_largo.1-a-titulo
+#  indicador_onu_global: indicador_largo.1-a-2-titulo
 
 
 definicion: >-
@@ -15,7 +15,7 @@ formula: |
 
   donde:
 
-  $PRPR_{NAC}^{t} =$PRPRAI_{CCAA}^{t} =$ población en riesgo de pobreza relativa con alquiler imputado considerando el umbral autonómico de pobreza (60% de la mediana autonómica de los ingresos con alquiler imputado por unidad de consumo (escala OCDE modificada)) en el año $t$
+  $PRPRAI_{CCAA}^{t} =$ población en riesgo de pobreza relativa con alquiler imputado considerando el umbral autonómico de pobreza (60% de la mediana autonómica de los ingresos con alquiler imputado por unidad de consumo (escala OCDE modificada)) en el año $t$
 
   $P^{t} =$ población total en el año  $t$
 
