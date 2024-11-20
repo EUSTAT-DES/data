@@ -23,8 +23,8 @@ graph_title: ''
 graph_titles: []
 graph_type: line
 indicator_available: ''
-indicator_name: national_indicators.OCECA-010A01-01
-indicator_number: 'OCECA-010A01-01'
+indicator_name: national_indicators.OCECA-010A02-01
+indicator_number: 'OCECA-010A02-01'
 indicator_tabs:
   override: false
   tab_1: ''
@@ -33,7 +33,7 @@ indicator_tabs:
   tab_4: ''
 national_geographical_coverage: ''
 page_content: ''
-permalink: OCECA-010A01-01
+permalink: OCECA-010A02-01
 placeholder: ''
 precision: []
 proxy: ''
