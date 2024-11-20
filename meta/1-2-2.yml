@@ -76,9 +76,17 @@ observaciones: |
   definicion de la tasa (metodología Eurostat del año 2021), mientras que los datos anteriores corresponden 
   a la definición antigua.
 
+texto_oceca: |
+
+  <img src="/site/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS">
+  Indicador calculado utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas. 
+
+  Otros subindicadores asociados al indicador 1.2.2:
+
+    <a href="https://eustat-des.github.io/site/OCECA-010202-1A">Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza</a>
+
 
 periodicidad: FUENTE.FREQ_A2
-texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 

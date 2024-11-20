@@ -30,7 +30,15 @@ desagregacion: >-
 observaciones: >-
 
 periodicidad: FUENTE.FREQ_A
-texto_oceca: FUENTE.oceca
+
+texto_oceca: |
+
+  <img src="/site/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS"> Otros subindicadores asociados al indicador 1.a.2, calculados utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas:
+
+    <a href="https://eustat-des.github.io/site/OCECA-010A02-01">Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación</a>
+
+    <a href="https://eustat-des.github.io/site/OCECA-010A02-02">Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud</a>
+
 
  # Metadatos mundiales (Descripción del indicador)  
 
