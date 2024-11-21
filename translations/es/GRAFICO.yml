@@ -38,6 +38,8 @@
 5-a-2-titulo: "Grado en que el marco jurídico garantiza la igualdad de derechos de la mujer a la propiedad o el control de tierras"
 5-b-1-titulo: "Proporción de personas entre 16 y 74 años que han usado el móvil en los últimos tres meses"
 
+8-5-1-titulo: Ingreso medio por hora de personas empleadas, desglosado por sexo y personas con
+  o sin discapacidad
 8-10-1-titulo: "Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años"
 8-10-2-titulo: "Proporción de personas entre 18 y 79 años que tienen una cuenta corriente"
 
@@ -228,5 +230,6 @@
 8-6-E1-anotacion: "Objetivo UE"
 
 # NOTAS AL PIE (FOOTNOTE)
-
-1-2-2-notapie: "Los datos a partir del 2022 del Indicador de pobreza y exclusion AROPE se calculan con la nueva definicion de la tasa (metodología Eurostat del año 2021), mientras que los datos anteriores corresponden a la definición antigua"
+1-2-2-notapie: Los datos a partir del 2022 del Indicador de pobreza y exclusion AROPE se 
+  calculan con la nueva definicion de la tasa (metodología Eurostat del año 2021), 
+  mientras que los datos anteriores corresponden a la definición antigua.
