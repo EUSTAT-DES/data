@@ -7799,7 +7799,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PWD",
+                "Persona sin discapacidad",
                 "Persona con discapacidad",
                 ""
               ]
@@ -13467,7 +13467,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PWD",
+                "Persona sin discapacidad",
                 "Persona con discapacidad",
                 ""
               ]
