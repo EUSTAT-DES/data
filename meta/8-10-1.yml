@@ -1,0 +1,65 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.8-10-1-titulo
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-10-titulo
+#  indicador_onu_global: indicador_largo.8-10-1-titulo
+
+
+definicion:  | 
+  Número de oficinas de entidades de crédito y establecimientos financieros de crédito respecto a la población de 15 y más años
+
+formula:  |
+
+  $$TOECEFC^{t} = \frac{OECEFC^{t}}{P_{15+}^{t}} \cdot 100.000$$
+
+  donde:
+
+  $OECEFC^{t} =$  oficinas de entidades de crédito y establecimientos financieros de crédito en el año $t$
+
+  $P_{15+}^{t} =$ población de 15 y más años a 1 de julio del año $t$
+
+
+desagregacion:  |
+  Territorio histórico
+
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  El acceso a los servicios financieros formales y su uso son esenciales. 
+  Servicios como los ahorros, los seguros, los pagos, los créditos y las remesas permiten 
+  a las personas gestionar sus vidas, planificar y pagar gastos, hacer crecer sus 
+  negocios y mejorar su bienestar general. Como los bancos siguen siendo una de las 
+  instituciones clave para el acceso a los servicios financieros formales, 
+  disponer de una sucursal bancaria accesible es un importante punto inicial 
+  de acceso a los servicios financieros y, por lo tanto, de uso de los mismos. 
+
+  Las sucursales bancarias se complementan con otros puntos de acceso importantes, 
+  como los cajeros automáticos de todas las instituciones financieras formales, 
+  que pueden extender los servicios financieros a lugares remotos.
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=8.10.1&seriesCode=FB_CBK_BRCH&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15%2B">Número de sucursales de bancos comerciales por cada 100.000 adultos FB_CBK_BRCH</a> UNSTATS
+
+
+comparabilidad: >- 
+  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas pero aporta información similar.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-10-01.pdf">Metadata 8-10-1.pdf</a> (solo en inglés)'
+
+informacion_interes: >-
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

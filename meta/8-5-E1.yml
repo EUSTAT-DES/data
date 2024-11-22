@@ -1,0 +1,92 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  national_indicators.8-5-E1-title
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-5-titulo
+#  indicador_onu_global: indicador_largo.8-5-1-titulo
+
+
+definicion:  | 
+  Proporción de personas que están ocupadas o empleadas, según tramos de edad, y brecha de género en el empleo.
+
+formula:  |
+  <b>Tasa de ocupación:</b>
+
+  $$TA^{t} = \frac{PO^{t}}{P^{t}} $$
+
+  donde:
+
+  $PO^{t} =$ población ocupada en el año $t$
+
+  $P^{t} =$ población en el año $t$
+
+
+  <b>Brecha género en el empleo:</b>
+
+  $$BGE^{t} ={TA_{hombre}^{t} - TA_{mujer}^{t}}$$
+
+  donde:
+
+  $TA_{hombre}^{t} =$ tasa de ocupación de los hombres en el año $t$
+
+  $TA_{mujer}^{t} =$ tasa de ocupación de las mujeres en el año $t$
+
+desagregacion:  |
+  Sexo
+
+  Grupo de edad: 20-64 años, >16 años
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  El empleo remunerado es fundamental para garantizar un nivel de vida adecuado y 
+  proporciona la base necesaria para que las personas alcancen sus metas y aspiraciones 
+  personales. Además, el empleo contribuye al rendimiento económico, la calidad de 
+  vida y la inclusión social, lo que lo convierte en una piedra angular del 
+  desarrollo socioeconómico y el bienestar.
+
+  La UE apoya el crecimiento, la creación de empleo y la competitividad a través 
+  de instrumentos de financiación como el Fondo Europeo para Inversiones Estratégicas, 
+  el Fondo Social Europeo y su sucesor, el Fondo Social Europeo Plus, los Fondos 
+  Estructurales y de Inversión Europeos, Horizonte 2020, el Programa para el Empleo 
+  y la Innovación Social (EaSI), el Programa para la Competitividad de las Empresas y 
+  para las Pequeñas y Medianas Empresas (COSME), el Instrumento de Apoyo de Emergencia, 
+  el Mecanismo «Conectar Europa» y el Programa Europa Creativa (PAC).
+
+  El pilar europeo de derechos sociales, proclamado conjuntamente por la Comisión Europea, 
+  el Parlamento Europeo y el Consejo Europeo en 2017, establece 20 principios y derechos 
+  clave esenciales para unos mercados laborales y unos sistemas de protección social 
+  justos y que funcionen correctamente. El Plan de Acción del Pilar Europeo de Derechos 
+  Sociales, adoptado en 2021, convierte los Principios en acciones concretas en 
+  beneficio de los ciudadanos. También propone un ambicioso objetivo de empleo 
+  del 78 % de la población de 20 a 64 años que la UE debe alcanzar de aquí a 
+  2030. Para respaldarlo, el Plan de Acción propone reducir a la mitad 
+  la brecha de género en materia de empleo de aquí a 2030 en comparación con 
+  2019 y reducir al 9 % la tasa de jóvenes de entre 15 y 29 años que ni trabajan 
+  ni siguen estudios ni formación (ninis) al 9 % de aquí a 2030.
+
+dato_global: >-
+
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_08_30/default/table?lang=en&category=sdg.sdg_08">
+  Tasa de empleo por sexo (sdg_08_30)</a> Eurostat
+
+
+comparabilidad: >- 
+  El indicador disponible es comparable con el indicador europeo "Tasa de empleo por sexo"
+
+indicador_meta_enlace: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_08_30_esmsip2.htm</a> Metadatos del indicador europeo (solo en inglés)'
+
+informacion_interes: >-
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

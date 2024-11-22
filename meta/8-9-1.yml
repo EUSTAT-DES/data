@@ -1,0 +1,85 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.8-9-1-title
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-9-titulo
+#  indicador_onu_global: indicador_largo.8-9-1-titulo
+
+
+definicion:  | 
+  PIB generado por el turismo en proporción al PIB a precios corrientes, y tasa de crecimiento anual del PIB generado por el turismo.
+
+formula:  |
+
+  <b>PIB generado por el turismo en proporción al PIB:</b>
+
+  $$PPIB_{turístico}^{t} = \frac{PIB_{turístico}^{t}}{PIB^{t}} \cdot 100$$
+
+  donde:
+
+  $PIB_{turístico}^{t} =$ producto interior bruto generado por el turismo en precios 
+  corrientes en el año $t$
+
+  $PIB^{t} =$ producto interior bruto en precios corrientes en el año $t$
+
+
+  <b>Tasa de crecimiento anual del PIB generado por el turismo:</b>
+
+  $$TCPIB^{t}_{turístico} = \left( \frac{PIB^{t}_{turístico} - PIB^{t-1}_{turístico}}{PIB^{t-1}_{turístico}} \right) \cdot 100$$
+
+  donde:
+
+  $PIB^{t-1}_{turístico} =$ producto interior bruto en precios corrientes en el año $t-1$
+
+desagregacion:  |
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  La meta 8.9 tiene varias dimensiones y el indicador 8.9.1 responde a la intención central 
+  de la meta, que llama a “promover el turismo sostenible”. Si bien el turismo 
+  sostenible es multidimensional en sí mismo (con aspectos económicos, sociales y ambientales), 
+  la contribución económica del turismo captada por este indicador, y sus aumentos o 
+  disminuciones (relativos), indican el grado en que se está promoviendo con éxito 
+  el turismo. 
+
+  Lo ideal sería que este indicador se complementara con indicadores adicionales sobre 
+  los aspectos sociales (por ejemplo, empleo, etc.) y ambientales (uso de energía, emisiones de 
+  GEI, etc.) del turismo que se puedan desglosar para proporcionar un panorama más completo 
+  de la promoción del turismo sostenible y, por lo tanto, el seguimiento de esta meta.
+
+  Este indicador es útil para las políticas sobre turismo a nivel internacional, nacional 
+  y de regiones subnacionales, ya que proporciona una medida de la contribución económica 
+  del turismo que se puede comparar a lo largo del tiempo, entre países, con el PIB total 
+  y con las contribuciones al PIB de otras actividades económicas.
+
+  El PIB directo del turismo incluye las contribuciones de todas las formas de turismo 
+  (turismo receptor, turismo interno y turismo emisor), de acuerdo con las 
+  Recomendaciones internacionales para las estadísticas de turismo 2008 (RIET 2008). 
+  El indicador ha resultado especialmente útil para concienciar sobre la importancia 
+  económica del turismo y defender una gestión más proactiva y sostenible de un sector 
+  que a menudo se pasa por alto en las agendas políticas a todos los niveles.
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=8.9.1&seriesCode=ST_GDP_ZS&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">PIB directo del turismo como proporción del PIB total (%) ST_GDP_ZS</a> UNSTATS
+
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-09-01.pdf">Metadata 8-9-1.pdf</a> (solo en inglés)'
+
+informacion_interes: >-
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'
