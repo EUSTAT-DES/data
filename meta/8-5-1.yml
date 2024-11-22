@@ -12,6 +12,7 @@ definicion:  |
   Ganancia bruta por hora normal de trabajo del personal asalariado
 
 formula:  |
+  <b>Salario medio por hora:</b>
 
   $$GH^{t} = \frac{G^{t}}{H^{t}} $$
 
@@ -22,15 +23,15 @@ formula:  |
   $H^{t} =$ horas normales de trabajo del personal asalariado en el año $t$
 
 
-  Brecha salarial de género:
+  <b>Brecha salarial de género:</b>
 
-  $$BSG^{t} = \frac{GPH_hombre^{t}}-{GPH_mujer^{t}}{GPH_hombre^{t}} \cdot 100$$
+  $$BSG^{t} = \frac{GPH_{hombre}^{t} - GPH_{mujer}^{t}}{GPH_{hombre}^{t}} \cdot 100$$
 
   donde:
 
-  $GPH_hombre^{t} =$ ganancia promedio hora de los hombres en el año $t$
+  $GPH_{hombre}^{t} =$ ganancia promedio hora de los hombres en el año $t$
 
-  $GPH_mujer^{t} =$ ganancia promedio hora de las mujeres en el año $t$
+  $GPH_{mujer}^{t} =$ ganancia promedio hora de las mujeres en el año $t$
 
 desagregacion:  |
   Sexo

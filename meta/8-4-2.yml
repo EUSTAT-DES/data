@@ -21,8 +21,9 @@ definicion:  |
   Los datos se presentan en términos absolutos, por habitante y por unidad de PIB.
 
 formula:  |
+  <b>Consumo doméstico de materiales</b>
 
-  $$CDM^t = Extr^t + Imp^t$$ - Exp^t$$
+  $$CDM^t = Extr^t + Imp^t - Exp^t$$
 
   donde:
 
@@ -32,7 +33,7 @@ formula:  |
 
   $Exp^t =$ Exportaciones en el año $t$
 
-  Consumo doméstico de materiales per cápita:
+  <b>Consumo doméstico de materiales per cápita:</b>
 
   $$CMDPC^{t} = \frac{{CMD^{t}}}{P^{t}}$$
 
@@ -41,13 +42,13 @@ formula:  |
   $P{t} =$ población a 1 de julio del año $t$
 
 
-  Consumo doméstico de materiales per cápita por unidad de PIB:
+  <b>Consumo doméstico de materiales per cápita por unidad de PIB:</b>
 
-  $$CMDPIB^{t} = \frac{{CMD^{t}}}{PIB_15^{t}}$$
+  $$CMDPIB^{t} = \frac{{CMD^{t}}}{PIB_{15}^{t}}$$
 
   donde:
 
-  $PIB_15^{t} =$ Producto interior bruto en volumen encadenado con referencia 2015 
+  $PIB_{15}^{t} =$ Producto interior bruto en volumen encadenado con referencia 2015 
   en millones de euros en el año $t$ 
 
 desagregacion: >- 
