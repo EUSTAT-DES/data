@@ -42,7 +42,7 @@
   o sin discapacidad
 8-10-1-titulo: "Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años"
 8-10-2-titulo: "Proporción de personas entre 18 y 79 años que tienen una cuenta corriente"
-
+8-b-1-titulo: Gasto de las administraciones públicas autonómicas en fomento del empleo
 10-4-2-titulo: "Índice de Gini"
 
 11-1-1-titulo: "Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda"
@@ -158,7 +158,7 @@
 8-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 8-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
 8-5-E1-contenido: "<b>Dirección deseada:</b> En la serie Tasa de ocupación, el objetivo europeo es llegar al 78% en 2030, en la serie Brecha de género el objetivo es que la brecha no sea mayor que 5,8 pp en el año 2030"
-8-6-1-contenido: "<b>Dirección deseada:</b> El objetivo europeo es que el valor de indicador en los jóvenes entre 15-19 años de edad no sea mayor de 9% en el año 2030"
+8-6-1-contenido: "<b>Dirección deseada:</b> El objetivo europeo es que el valor de indicador en los jóvenes entre 15-29 años de edad no sea mayor de 9% en el año 2030"
 8-9-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 8-10-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 8-10-2-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -227,7 +227,7 @@
 # ANOTACIONES
 
 3-4-E1-anotacion: "Recomendación Guía Europea"
-8-6-E1-anotacion: "Objetivo UE"
+8-5-E1-anotacion: "Objetivo UE"
 
 # NOTAS AL PIE (FOOTNOTE)
 1-2-2-notapie: Los datos a partir del 2022 del Indicador de pobreza y exclusion AROPE se 
