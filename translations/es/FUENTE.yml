@@ -55,6 +55,7 @@ ONU: Organización de Naciones Unidas (ONU)
 
 # OPERACION
 
+Geoeuskadi: Geoeuskadi
 GE_Inclusion_ebcss: Estadística de bases de cotización de la seguridad social
 Euskadi_Bienestar_esses: Estadística de servicios sociales y acción social
 Euskadi_Alimentacion_edgt: Estadística sobre la distribución general de tierras y sobre las producciones agrarias
@@ -166,6 +167,7 @@ Euskadi_Vivienda_udalplan: Sistema de Información Geográfica del planeamiento 
 
 # URL
 
+Geoeuskadi_url: https://www.geo.euskadi.eus/
 GE_Inclusion_ebcss_url: https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/c9bd51e5-79bc-44f2-9618-14d6094eb585
 Euskadi_Bienestar_esses_url: https://www.euskadi.eus/web01-a2inghon/es/contenidos/informacion/essec_oe/es_def/index.shtml
 Euskadi_Alimentacion_edgt_url: https://www.euskadi.eus/web01-a1estadi/es/
