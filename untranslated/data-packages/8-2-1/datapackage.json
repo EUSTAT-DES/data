@@ -15,23 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             }
           },
           {
-            "name": "Territorio",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "1.0",
-                "48.0",
-                "20.0",
+                "PT",
                 ""
               ]
             }

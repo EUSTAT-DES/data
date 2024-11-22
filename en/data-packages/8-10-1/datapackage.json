@@ -27,17 +27,6 @@
             "title": "Serie"
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 años y más",
-                ""
-              ]
-            },
-            "title": "Edad"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {

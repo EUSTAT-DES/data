@@ -28,17 +28,6 @@
             "title": "Sexo"
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "18-79 años",
-                ""
-              ]
-            },
-            "title": "Edad"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

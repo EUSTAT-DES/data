@@ -1,2 +1,5 @@
 From,To
-Tipo de valor,Territorio
+Tipo de valor,Serie
+Serie,Territorio
+Serie,Comarca
+Serie,Municipio

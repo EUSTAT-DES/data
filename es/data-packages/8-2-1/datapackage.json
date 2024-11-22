@@ -7,13 +7,26 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -25,19 +38,6 @@
               ]
             },
             "title": "Unidad"
-          },
-          {
-            "name": "Territorio",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1.0",
-                "48.0",
-                "20.0",
-                ""
-              ]
-            },
-            "title": "Territorio histórico"
           },
           {
             "name": "Value",
