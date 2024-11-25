@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NV_IND_MANF",
+                "NV_IND_MANFPC",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Valor",
             "type": "string",
             "constraints": {
@@ -340,17 +351,6 @@
           {
             "name": "GeoCode",
             "type": "string"
-          },
-          {
-            "name": "Serie",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NV_IND_MANF",
-                "NV_IND_MANFPC",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

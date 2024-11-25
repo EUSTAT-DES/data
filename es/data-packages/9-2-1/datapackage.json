@@ -16,6 +16,18 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Valor añadido del sector manufacturo en proporción al PIB",
+                "Valor añadido del sector manufacturo per cápita",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
             "name": "Valor",
             "type": "string",
             "constraints": {
@@ -347,18 +359,6 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "Serie",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Valor añadido del sector manufacturo en proporción al PIB",
-                "Valor añadido del sector manufacturo per cápita",
-                ""
-              ]
-            },
-            "title": "Serie"
           },
           {
             "name": "Value",

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Emisiones de CO2",
+                "Emisiones de CO2 por unidad de valor añadido",
                 "Emisiones de CO2 por unidad de valor añadido del sector manufacturero ",
                 ""
               ]
