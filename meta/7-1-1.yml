@@ -23,13 +23,12 @@ formula: |
   $P^{t} =$ población en el año $t$
 
 
-desagregacion: >- 
+desagregacion: 
  
 periodicidad: FUENTE.FREQ_A
 
 
-observaciones: >- 
-
+observaciones: 
 
 
  # Metadatos mundiales (Descripción del indicador)  

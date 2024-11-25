@@ -33,6 +33,7 @@ formula:  |
 
   $Exp^t =$ Exportaciones en el año $t$
 
+
   <b>Consumo doméstico de materiales per cápita:</b>
 
   $$CMDPC^{t} = \frac{{CMD^{t}}}{P^{t}}$$
@@ -51,11 +52,11 @@ formula:  |
   $PIB_{15}^{t} =$ Producto interior bruto en volumen encadenado con referencia 2015 
   en millones de euros en el año $t$ 
 
-desagregacion: >- 
+desagregacion:
 
 periodicidad: FUENTE.FREQ_A
 
-observaciones: >-
+observaciones:
 
 
  # Metadatos mundiales (Descripción del indicador)  

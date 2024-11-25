@@ -1,0 +1,68 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.10-4-2-titulo
+
+objetivo_global: objetivo_largo.10-titulo
+meta_global: meta_largo.10-4-titulo
+#  indicador_onu_global: indicador_largo.10-4-2-titulo
+
+
+definicion: | 
+
+  El Índice de Gini mide la dispersión estadística en la distribución del ingreso en una población. 
+  Se utiliza para comparar la desigualdad en la distribución de los ingresos en distintos
+  territorios. 
+
+  Su valor está entre 0 y 100, de manera que cuanto más próximo sea a 100, mayor será la 
+  concentración de los ingresos y cuanto más próximo a 0, más equitativa es la distribución de la riqueza
+
+
+formula: |
+
+  $$I^{t}_{GINI} = \frac{A^t}{(A + B)^t}$$
+
+  donde:
+
+  $A^{t} =$ Área sobre la curva de Lorenz en el año $t$
+
+  $B^{t} =$ Área bajo la curva de Lorenz en el año $t$
+  
+
+desagregacion: 
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A2
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  El indicador de Impacto Redistributivo de la Política Fiscal demuestra en un marco 
+  contable la cantidad total en la que la actual desigualdad de ingresos se reduce o 
+  aumenta mediante  la ejecución actual de la política fiscal (incluidos los impuestos directos 
+  e indirectos; las contribuciones a la seguridad social y a las pensiones de vejez; 
+  las transferencias directas en efectivo o cuasiefectivo; y los subsidios). 
+
+  Por ejemplo, si el Impacto Redistributivo de la Política Fiscal es positivo, 
+  eso indica que el efecto neto de la Política Fiscal es reducir el índice de Gini respecto 
+  de lo que sería de otra manera sin la Política Fiscal (en un sentido contable, no como un 
+  contrafactual económico). 
+
+  El indicador permite a los responsables de las políticas y a las 
+  comunidades más amplias de partes interesadas y promotoras hacer un seguimiento sistemático del 
+  progreso a nivel de país en la contribución de la política fiscal a sociedades más equitativas.
+
+dato_global:
+
+comparabilidad: >- 
+  El indicador cumple parcialmente con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-04-02.pdf">Metadata 10-4-2.pdf</a> (solo en inglés)
+
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'
