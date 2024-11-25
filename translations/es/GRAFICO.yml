@@ -163,10 +163,10 @@
 8-9-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 8-10-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 8-10-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-8-b-E1-contenido: "<b>Dirección deseada:</b> No evaluable"
+8-b-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 
 9-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-9-2-1-contenido: "<b>Dirección deseada:</b> No evaluable"
+9-2-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 9-2-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 9-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 9-4-1-contenido: "<b>Dirección deseada:</b> Descenso"
@@ -230,6 +230,7 @@
 
 3-4-E1-anotacion: "Recomendación Guía Europea"
 8-5-E1-anotacion: "Objetivo UE"
+8-6-1-anotacion: "Objetivo UE"
 
 # NOTAS AL PIE (FOOTNOTE)
 1-2-2-notapie: Los datos a partir del 2022 del Indicador de pobreza y exclusion AROPE se 
