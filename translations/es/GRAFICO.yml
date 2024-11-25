@@ -146,6 +146,7 @@
 
 
 7-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+7-1-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 7-2-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 7-3-1-contenido: "<b>Dirección deseada:</b> Descenso"
 7-3-E1-contenido: "<b>Dirección deseada:</b> No evaluable"
@@ -154,7 +155,7 @@
 
 8-1-1-contenido: "<b>Dirección deseada:</b> En indicadores basados cuyos valores son tasas de crecimiento, se utiliza el criterio experto para la evaluación"
 8-2-1-contenido: "<b>Dirección deseada:</b> En indicadores basados cuyos valores son tasas de crecimiento, se utiliza el criterio experto para la evaluación"
-8-4-2-contenido: "<b>Dirección deseada:</b> Descenso en la serie Consumo material interno por PIB"
+8-4-2-contenido: "<b>Dirección deseada:</b> Descenso en la serie Consumo doméstico de materiales por PIB"
 8-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 8-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
 8-5-E1-contenido: "<b>Dirección deseada:</b> En la serie Tasa de ocupación, el objetivo europeo es llegar al 78% en 2030, en la serie Brecha de género el objetivo es que la brecha no sea mayor que 5,8 pp en el año 2030"
@@ -164,8 +165,9 @@
 8-10-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 8-b-E1-contenido: "<b>Dirección deseada:</b> No evaluable"
 
-
+9-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 9-2-1-contenido: "<b>Dirección deseada:</b> No evaluable"
+9-2-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 9-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 9-4-1-contenido: "<b>Dirección deseada:</b> Descenso"
 9-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
