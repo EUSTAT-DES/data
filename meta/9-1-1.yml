@@ -1,0 +1,71 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.9-1-1-title
+
+objetivo_global: objetivo_largo.9-titulo
+meta_global: meta_largo.9-1-titulo
+#  indicador_onu_global: indicador_largo.9-1-1-titulo
+
+
+definicion: >- 
+  El indicador (comúnmente conocido como Índice de Acceso Rural o IAR) mide la proporción de la población rural que vive a 2 km de una carretera transitable durante todo el año.
+
+formula:  |
+
+  $IAR^{t} = \frac{PR_{carretera\, transitable}^{t}}{PR^{t}} \cdot 100$$
+
+  donde:
+
+  $PR_{carretera\, transitable}^{t} =$ población rural que vive a 2 km de una carretera transitable durante todo el año en el año $t$
+
+  $PR^{t} =$ población rural en el año $t$
+
+
+desagregacion: >- 
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  El Índice de Acceso Rural (RAI), desarrollado originalmente por el Banco Mundial 
+  en 2006, es uno de los indicadores de desarrollo global más importantes en el 
+  sector del transporte, y proporciona un indicador sólido, claramente comprensible 
+  y conceptualmente coherente en todos los países. Mide la proporción de personas que viven 
+  en zonas rurales que tienen acceso a una carretera transitable durante todo 
+  el año a una distancia aproximadamente caminable de 2 kilómetros (km). 
+
+  Entre otros factores, la conectividad del transporte es una parte esencial del entorno 
+  propicio para un crecimiento inclusivo y sostenido. En los países en desarrollo, 
+  en particular en África, la gran mayoría de la producción agrícola sigue siendo de 
+  pequeños agricultores con un acceso limitado a los mercados locales, regionales o mundiales. 
+
+  Las empresas manufactureras aisladas y otras empresas locales (excepto las relacionadas 
+  con la minería) a menudo quedan rezagadas en el mercado mundial. La conectividad 
+  limitada del transporte también es una limitación crítica para el acceso a los servicios 
+  sociales y administrativos, especialmente en las zonas rurales donde vive la mayoría 
+  de los pobres.
+
+  El acceso rural es clave para liberar el potencial económico desaprovechado y erradicar 
+  la pobreza en muchos países en desarrollo. A corto plazo, los costos de transporte y el tiempo 
+  de viaje pueden reducirse mediante la mejora de las condiciones de las carreteras. A largo 
+  plazo, la productividad agrícola aumentará y las empresas serán más rentables con la 
+  creación de más puestos de trabajo, lo que en última instancia ayudará a aliviar la pobreza.
+
+
+dato_global: >-
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-01-01.pdf">Metadata 9-1-1.pdf</a> (solo en inglés)
+
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

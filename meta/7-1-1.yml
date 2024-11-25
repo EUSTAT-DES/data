@@ -10,8 +10,7 @@ meta_global: meta_largo.7-1-titulo
 
 definicion: |
 
-  La proporción de población con acceso a la electricidad es el porcentaje 
-  de población con acceso a fuentes consistentes de electricidad.
+  Porcentaje de población con acceso a fuentes consistentes de electricidad
 
 formula: |
 
@@ -19,7 +18,7 @@ formula: |
 
   donde:
 
-  PA_{electricidad}^{t} =$ población con acceso a electricidad en el año $t$
+  $PA_{electricidad}^{t} =$ población con acceso a electricidad en el año $t$
 
   $P^{t} =$ población en el año $t$
 
@@ -32,8 +31,6 @@ periodicidad: FUENTE.FREQ_A
 observaciones: >- 
 
 
-
-texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 

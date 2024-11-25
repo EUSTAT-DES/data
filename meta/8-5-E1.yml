@@ -23,6 +23,7 @@ formula:  |
   $P^{t} =$ población en el año $t$
 
 
+
   <b>Brecha género en el empleo:</b>
 
   $$BGE^{t} ={TA_{hombre}^{t} - TA_{mujer}^{t}}$$
@@ -42,8 +43,6 @@ periodicidad: FUENTE.FREQ_A
 
 
 observaciones: >-
-
-texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
@@ -68,12 +67,12 @@ justificacion_global: |
   clave esenciales para unos mercados laborales y unos sistemas de protección social 
   justos y que funcionen correctamente. El Plan de Acción del Pilar Europeo de Derechos 
   Sociales, adoptado en 2021, convierte los Principios en acciones concretas en 
-  beneficio de los ciudadanos. También propone un ambicioso objetivo de empleo 
-  del 78 % de la población de 20 a 64 años que la UE debe alcanzar de aquí a 
-  2030. Para respaldarlo, el Plan de Acción propone reducir a la mitad 
-  la brecha de género en materia de empleo de aquí a 2030 en comparación con 
-  2019 y reducir al 9 % la tasa de jóvenes de entre 15 y 29 años que ni trabajan 
-  ni siguen estudios ni formación (ninis) al 9 % de aquí a 2030.
+  beneficio de los ciudadanos. También propone un ambicioso objetivo de empleo del 78 % de 
+  la población de 20 a 64 años que la UE debe alcanzar de aquí a 2030. Para respaldarlo, 
+  el Plan de Acción propone reducir a la mitad la brecha de género en materia de 
+  empleo en el año 2030 en comparación con  2019 y reducir al 9 % la tasa de jóvenes 
+  de entre 15 y 29 años que ni trabajan ni siguen estudios ni formación (ninis) 
+  al 9 % en el año 2030.
 
 dato_global: >-
 
@@ -84,7 +83,9 @@ dato_global: >-
 comparabilidad: >- 
   El indicador disponible es comparable con el indicador europeo "Tasa de empleo por sexo"
 
-indicador_meta_enlace: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_08_30_esmsip2.htm</a> Metadatos del indicador europeo (solo en inglés)'
+indicador_meta_enlace:
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_08_30_esmsip2.htm"</a> Metadatos 
+  del indicador europeo (solo en inglés)
 
 informacion_interes: >-
 

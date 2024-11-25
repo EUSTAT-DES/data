@@ -25,6 +25,7 @@ formula:  |
   $PIB^{t} =$ producto interior bruto en precios corrientes en el año $t$
 
 
+
   <b>Tasa de crecimiento anual del PIB generado por el turismo:</b>
 
   $$TCPIB^{t}_{turístico} = \left( \frac{PIB^{t}_{turístico} - PIB^{t-1}_{turístico}}{PIB^{t-1}_{turístico}} \right) \cdot 100$$
@@ -34,11 +35,11 @@ formula:  |
   $PIB^{t-1}_{turístico} =$ producto interior bruto en precios corrientes en el año $t-1$
 
 desagregacion:  |
-
-periodicidad: FUENTE.FREQ_A
-
+  Territorio histórico
 
 observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
 
 
  # Metadatos mundiales (Descripción del indicador)  
