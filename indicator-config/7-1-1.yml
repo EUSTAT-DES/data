@@ -29,5 +29,11 @@ precision: []
 progress_status: alcanzado
 reporting_status: alcanzado
 sort: ''
+sources:
+  - organisation: FUENTE.BM
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.BM_url
+    url_text: FUENTE.BM
+    logo: FUENTE.BM_logo
 standalone: false
 tags: []
