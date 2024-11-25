@@ -1,0 +1,67 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.9-3-1-title
+
+objetivo_global: objetivo_largo.9-titulo
+meta_global: meta_largo.9-3-titulo
+#  indicador_onu_global: indicador_largo.9-3-1-titulo
+
+
+definicion: >- 
+  Proporción del valor añadido bruto correspondiente a las empresas del sector manufacturero que tienen menos de 20 trabajadores respecto al valor añadido bruto total del sector manufacturero
+
+formula:  |
+
+  $$PVAB_{manufacturero,pequeñas\, empresas}^{t} = \frac{VAB_{manufacturero,pequeñas\, empresas}^{t}}{VAB_{manufacturero}^{t}} \cdot 100$$
+
+  donde:
+
+  $VAB_{manufacturero,pequeñas\, empresas}^{t} =$ valor añadido bruto correspondiente a las empresas del sector manufacturero que tienen menos de 20 trabajadores en el año $t$
+
+  $VAB_{manufacturero}^{t} =$ valor añadido bruto total del sector manufacturero en el año $t$
+
+
+desagregacion:  |
+  Territorio histórico
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Las empresas industriales se clasifican en pequeñas en comparación con las grandes 
+  o medianas por su naturaleza distintiva de organización económica, capacidad 
+  de producción, escala de inversión y otras características económicas.
+
+  Las “industrias de pequeña escala” pueden funcionar con una pequeña cantidad de 
+  capital, mano de obra relativamente no calificada y utilizando 
+  materiales locales. 
+
+  A pesar de su pequeña contribución a la producción industrial 
+  total, se reconoce que su papel en la creación de empleo, especialmente en los 
+  países en desarrollo, es significativo allí donde el alcance de absorción de la 
+  fuerza laboral excedente de sectores tradicionales como la agricultura o la pesca 
+  es muy alto. Las “industrias de pequeña escala” son capaces de 
+  satisfacer la demanda interna de bienes de consumo básicos como alimentos, ropa, muebles, etc.
+
+dato_global: | 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.2.2&seriesCode=SL_TLF_MANF&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ISIC4_C"> Empleo manufacturero como proporción del empleo total - 13.ª CIET (%) SL_TLF_MANF</a> UNSTATS
+
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-03-01.pdf">Metadata 9-3-1.pdf</a> (solo en inglés)
+
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

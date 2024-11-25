@@ -23,10 +23,17 @@ graph_type: line
 indicator_name: global_indicators.7-1-2-title
 indicator_number: '7.1.2'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.7-1-2-contenido
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: alcanzado
+reporting_status: alcanzado
 sort: ''
+sources:
+  - organisation: FUENTE.OMS
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.OMS_url
+    url_text: FUENTE.OMS
+    logo: FUENTE.OMS_logo
 standalone: false
 tags: []
