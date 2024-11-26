@@ -60,7 +60,8 @@ _L_ES_010A02_02: Proporción del gasto de las administraciones públicas autonó
 EU_OVWGT_Y2T17: Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años
 EU_OVWGT_GE18: Tasa de obesidad de la población adulta
 ADM_AUT: "Administración autonómica"
-ADM_MUN: "Administración municipal"
+ADM_MUN: "Administración local"
+ADM_MUN_AUT: "Administración autonómica y local"
 ADM_PUB: "Administraciones en la C.A. de Euskadi"
 AES_EDUCTRN: "Tasa de participación en actividades educativas en los últimos 12 meses"
 AES_GPI_TRN: "Índice de paridad entre mujeres y hombres que han realizado actividades educativas"
