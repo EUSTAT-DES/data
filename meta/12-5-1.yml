@@ -1,0 +1,62 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.12-5-1-titulo
+
+objetivo_global: objetivo_largo.12-titulo
+meta_global: meta_largo.12-5-titulo
+#  indicador_onu_global: indicador_largo.12-5-1-titulo
+
+definicion: >-
+  Proporción de residuos municipales reciclados respecto del total de residuos municipales 
+  generados y tratados procedentes de los hogares y del sector servicios (comercios, 
+  oficinas e instituciones públicas o privadas), cuya gestión es asumida por las Entidades Locales
+
+formula: |
+
+  $$RURP^{t} = \frac{\frac{RUR^{t}}{P^{t}}}{365} $$
+
+  donde: 
+
+  $RUR^{t} =$ cantidad de residuos urbanos recogidos en el año $t$
+
+  $P^{t} =$ población a 1 de julio del año $t$
+
+desagregacion: |
+  Territorio histórico
+
+
+observaciones: >-
+
+  La recogida de residuos urbanos comprende los residuos domésticos y aquellos residuos comerciales o industriales similares a los anteriores que sean de competencia municipal, recogidos mediante contenedores urbanos, puntos limpios u otros sistemas de recogida municipal. También incluye los residuos de la limpieza viaria y los residuos biodegradables de la limpieza de parques y jardines.
+
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Minimizar la generación de residuos y maximizar su reciclaje es fundamental para el 
+  concepto de economía circular. Sin embargo, actualmente, se estima que la cantidad 
+  total de materiales producidos que se reciclan es baja (según la literatura académica). 
+
+  Si los países comprenden mejor cómo se generan, recolectan y reciclan los residuos, 
+  esto les permitirá a los países y a otras partes interesadas determinar mejor cómo 
+  abordar los principales flujos de residuos, por ejemplo, los desechos electrónicos 
+  o el plástico.
+
+comparabilidad: >-
+  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas.
+
+dato_global:
+
+indicador_meta_enlace: 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-05-01.pdf">Metadata 12-5-1.pdf</a> (solo en inglés)
+
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

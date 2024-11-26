@@ -1,11 +1,11 @@
  # Metadatos nacionales (ficha metodológica)
  
 indicador_disponible: >-
-  GRAFICO.1-5-2-titulo
+  GRAFICO.11-5-2-titulo
 
-objetivo_global: objetivo_largo.1-titulo
-meta_global: meta_largo.1-5-titulo
-#  indicador_onu_global: indicador_largo.1-5-2-titulo
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-5-titulo
+#  indicador_onu_global: indicador_largo.11-5-2-titulo
 
 
 definicion: >-
@@ -58,7 +58,7 @@ comparabilidad: >-
   El indicador disponible no cumple con los metadatos de Naciones Unidas, 
   pero aporta información similar
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-02.pdf">Metadata 1-5-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-05-02.pdf">Metadata 11-5-2.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

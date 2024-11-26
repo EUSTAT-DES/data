@@ -7,11 +7,7 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values:
-  - field: PM
-    value: PM25
-  - field: PM
-    value: PM10
+data_start_values: []
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -21,23 +17,23 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: GRAFICO.11-6-2-titulo
+graph_title: global_indicators.11-5-3-title
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.11-6-2-title
-indicator_number: '11.6.2'
+indicator_name: global_indicators.11-5-3-title
+indicator_number: '11.5.3'
 national_geographical_coverage: ''
-page_content: GRAFICO.11-6-2-contenido
+page_content: '' 
 permalink: ''
+placeholder: ''
 precision: []
-progress_status: retroceso
-reporting_status: retroceso
+proxy: ''
+proxy_series: []
+publications: []
+related_indicators: []
+reporting_status: notstarted
 sort: ''
 sources:
-  - organisation: FUENTE.Euskadi_Industria
-    periodicity: FUENTE.FREQ_A
-    url: FUENTE.Euskadi_Industria_ecair_url
-    url_text: FUENTE.Euskadi_Industria_ecair
-    logo: FUENTE.Euskadi_logo
 standalone: false
 tags: []
+x_axis_label: ''

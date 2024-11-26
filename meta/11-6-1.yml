@@ -1,0 +1,112 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.11-6-1-titulo
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-6-titulo
+#  indicador_onu_global: indicador_largo.11-6-1-titulo
+
+definicion: >-
+  Residuos urbanos recogidos per cápita y proporción de residuos municipales (incinerados, 
+  vertidos y reciclados) en relación al total de residuos municipales generados y tratados. Se 
+  consideran residuos urbanos los procedentes de los hogares y del sector servicios 
+  (comercios, oficinas e instituciones públicas o privadas), cuya gestión es asumida por 
+  las Entidades Locales
+
+formula: |
+
+  <b> Residuos urbanos recogidos per cápita</b> 
+
+  $$RURP^{t} = \frac{RUR^{t}}{P^{t}} $$
+
+  donde:
+
+  $RUR^{t} =$ cantidad de residuos urbanos recogidos en el año $t$ 
+
+  $P^{t} =$ población a 1 de julio del año $t$
+
+  <b> Proporción de residuos municipales tratados, por operación de tratamiento</b> 
+
+  $$PRM_{tratamiento}^{t} = \frac{RM_{tratamiento}^{t}}{RM^{t}} \cdot 100$$ <br> 
+
+  $RM_{tratamiento}^{t} =$ cantidad de residuos municipales tratados (según tipo de tratamiento) en el año $t$
+
+  $RM^{t} =$ cantidad total de residuos municipales generados y tratados en el año $t$
+
+desagregacion: |
+  Operación de tratamiento de residuos: reciclaje, incineración con recuperación de energía,
+  depósito en vertedero.
+
+  Territorio histórico
+
+
+observaciones: >-
+
+  Se entiende por residuos municipales los residuos domésticos y comerciales, procedentes 
+  de hogares y del sector servicios (comercio, oficinas e instituciones) gestionados por 
+  las Entidades Locales, no incluyéndose los residuos comerciales gestionados por canales 
+  privados distintos al municipal, ni residuos procedentes de la industria.
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Los hogares y las empresas urbanas producen cantidades sustanciales de residuos que 
+  deben recogerse regularmente, reciclarse o tratarse y eliminarse adecuadamente 
+  para mantener condiciones de vida saludables e higiénicas. 
+
+  Muchas ciudades enfrentan cada vez más desafíos en la gestión de residuos sólidos 
+  debido a la rápida urbanización, la falta de capacidad técnica y financiera o la 
+  baja prioridad política. Además, cuanto mayor es el nivel de ingresos de una ciudad, 
+  mayor es la cantidad de residuos sólidos producidos. Por lo tanto, el 
+  crecimiento económico que experimentarán los países en desarrollo y emergentes 
+  planteará mayores desafíos en la gestión de residuos sólidos a los gobiernos 
+  locales en las próximas décadas.
+
+  El impacto ambiental adverso de los residuos no recogidos en una ciudad es 
+  significativo. Los residuos sólidos no recogidos pueden terminar en los desagües, 
+  lo que provoca el bloqueo de los mismos y provoca condiciones insalubres que 
+  tienen un impacto directo en la salud de los residentes. La quema a cielo abierto 
+  de residuos no recogidos produce contaminantes que son muy perjudiciales a nivel 
+  local y mundial. Los vectores, como los mosquitos, suelen reproducirse en desagües 
+  bloqueados y el bloqueo de los mismos contribuye a provocar inundaciones. En 2015, 
+  el informe Global Waste Management Outlook estimó que al menos 2 mil millones de 
+  personas no tienen acceso a la recolección regular de residuos. Esto es particularmente 
+  peor en los asentamientos informales y el informe Solid Waste Management in 
+  World Cities de ONU-Hábitat publicado en 2010 estimó que solo el 5% de los residuos en 
+  las zonas de ocupantes ilegales se recolectan regularmente.
+
+  La escala global de la urbanización y el crecimiento económico están creando 
+  una potencial “bomba de tiempo” en relación con los residuos que generamos en el 
+  mundo. Si no se aborda ahora, el impacto negativo significativo en la salud 
+  humana y el medio ambiente se sentirá en las naciones en todos los niveles de 
+  desarrollo. Se estima que en 2016 se generaron 2 mil millones de toneladas 
+  de residuos sólidos municipales (RSM), y se espera que esta cifra aumente a 
+  3.4 mil millones de toneladas para 2050 en un escenario de continuidad de las 
+  actividades (Banco Mundial, 2018). Los vertederos sin control son ya una fuente 
+  importante de gases de efecto invernadero (GEI) y, si continuamos por el camino 
+  actual, se prevé que el sector de los residuos, en particular los residuos 
+  alimentarios, represente entre el 8 y el 10 % de las emisiones antropogénicas 
+  globales de GEI para 2025. Además, cada año, al menos 8 millones de toneladas 
+  de plástico llegan a los océanos del mundo (Jambeck et al., 2015).
+
+
+comparabilidad: >-
+  El indicador disponible cumple con los metadatos de Naciones Unidas.
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=11.6.1&seriesCode=EN_REF_WASCOL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=NOCITI"> Cobertura de recolección de residuos sólidos municipales, por ciudades (%) EN_REF_WASCOL</a> UNSTATS
+
+
+indicador_meta_enlace: 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-06-01.pdf">Metadata 11-6-1.pdf</a> (solo en inglés)
+
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

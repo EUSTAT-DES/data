@@ -1,0 +1,66 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.12-6-1-titulo
+
+objetivo_global: objetivo_largo.12-titulo
+meta_global: meta_largo.12-6-titulo
+#  indicador_onu_global: indicador_largo.12-6-1-titulo
+
+definicion: >-
+  Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental 
+  (EMAS) y Número de licencias de Etiqueta Ecológica Europea (EU Ecolabel)
+
+formula: |
+
+  $$NOEMAS_{t}$$
+
+  donde: 
+
+  $NOEMAS_{t}$ número de organizaciones con Sistema comunitario de gestión 
+  y auditoría medioambiental en el año $t$
+
+  $$NLEEE_{t}$$
+
+  donde:
+
+  $NLEEE_{t}$ número de licencias de Etiqueta Ecológica Europea en el año $t$
+
+desagregacion: 
+
+observaciones: 
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Si bien el sector privado tiene un papel fundamental que desempeñar en el logro de 
+  los ODS, la Meta 12.6 y el Indicador 12.6.1 son los únicos que monitorean específicamente 
+  las prácticas de las entidades del sector privado. 
+
+  El Indicador 12.6.1 cuenta el número de empresas que producen 
+  “informes de sostenibilidad”. El indicador 
+  es una oportunidad importante no solo para hacer el seguimiento y promover el crecimiento de 
+  los informes de sostenibilidad a nivel mundial, sino también para 
+  promover informes de alta calidad, promover la integración de información de 
+  sostenibilidad en el ciclo de informes anuales de las empresas y promover prácticas 
+  de sostenibilidad por parte de las empresas (como se menciona en la Meta en la que se 
+  enmarca el indicador).
+
+comparabilidad: >-
+  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas.
+
+dato_global:
+
+indicador_meta_enlace: 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-06-01.pdf">Metadata 12-6-1.pdf</a> (solo en inglés)
+
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

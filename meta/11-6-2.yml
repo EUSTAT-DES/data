@@ -1,0 +1,58 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.11-6-2-titulo
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-6-titulo
+#  indicador_onu_global: indicador_largo.11-6-2-titulo
+
+definicion: >-
+  Concentración media de partículas en suspensión de tamaño inferior a 10 micras (PM10) o 2,5 micras (PM2,5) en los municipios de más de 50.000 habitantes ponderada según la población
+
+formula: |
+
+  $$CMPM^{t} = \frac{\sum_{m \in M^{t}}CMPM_{m}^{t}}{\sum_{m \in M^{t}}P_{m}^{t}} $$ 
+
+  donde: 
+
+  $M^{t} $ conjunto de municipios de más de 50.000 habitantes donde existen estaciones de vigilancia que participan en la evaluación de la calidad del aire en el año $t$
+
+  $CMPM_{m}^{t} $ concentración media de partículas en suspensión en el municipio $m$ en el año $t$
+
+  $P_{m}^{t}$ población del municipio $m$ en el año $t$
+
+desagregacion: |
+  Tamaño de las partículas en suspensión: $PM_10$ y $PM_2,5$
+
+
+observaciones:
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  La contaminación del aire está compuesta por numerosos contaminantes, entre ellos, 
+  partículas en suspensión. Estas partículas pueden penetrar profundamente en las vías 
+  respiratorias y, por lo tanto, constituyen un riesgo para la salud al 
+  aumentar la mortalidad por infecciones y enfermedades respiratorias, cáncer de 
+  pulmón y determinadas enfermedades cardiovasculares.
+
+comparabilidad: >-
+  El indicador disponible cumple con los metadatos de Naciones Unidas.
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=11.6.2&seriesCode=EN_ATM_PM25&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=CITY"> Niveles medios anuales de partículas finas (ponderados por población), en ciudades (microgramos por metro cúbico de PM2,5) EN_ATM_PM25</a> UNSTATS
+
+
+indicador_meta_enlace: 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-06-02.pdf">Metadata 11-6-2.pdf</a> (solo en inglés)
+
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

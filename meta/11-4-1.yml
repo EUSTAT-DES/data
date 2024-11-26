@@ -1,0 +1,73 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.11-4-1-titulo
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-4-titulo
+#  indicador_onu_global: indicador_largo.11-4-1-titulo
+
+
+definicion: >- 
+  Gasto liquidado por persona de las administraciones públicas autonómicas y locales en 
+  la preservación, protección y conservación del patrimonio cultural (patrimonio histórico 
+  y artístico, archivos y bibliotecas)
+
+formula: |
+
+  $$GLPCP^{t} = \frac{GLPC_{CCAA}^{t}+GLPC_{EELL}^{t}}{P^{t}}$$
+
+  donde: 
+
+  $GLPC_{CCAA}^{t}$ gasto liquidado por la comunidad autónoma en la preservación, protección y conservación del patrimonio cultural (patrimonio histórico y artístico, archivos y bibliotecas) en el año $t$
+
+  $GLPC_{EELL}^{t}$ gasto liquidado por las entidades locales de la comunidad autónoma en la preservación, protección y conservación del patrimonio cultural (patrimonio histórico y artístico, archivos y bibliotecas) en el año $t$
+
+  $P^{t}$ población a 1 de julio del año $t$
+
+desagregacion: >-
+  Administración pública: administración autonómica, administración local
+
+
+observaciones: >-
+
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Este indicador mide el gasto per cápita (público y privado) en la preservación, 
+  protección y conservación del patrimonio cultural y/o natural a lo largo del tiempo. 
+  Para monitorear la evolución a lo largo del tiempo de los esfuerzos 
+  nacionales para la protección y salvaguarda del patrimonio cultural y/o natural.
+
+  Este indicador ilustra cómo los esfuerzos/acciones financieras realizadas por 
+  las autoridades públicas, tanto a nivel local, nacional como internacional, solas o en 
+  asociación con organizaciones de la sociedad civil (OSC) y el sector privado, para proteger 
+  y salvaguardar el patrimonio cultural y natural del mundo tienen un impacto directo en hacer 
+  que las ciudades y los asentamientos humanos sean más sostenibles. 
+
+  Esto significa que los recursos y activos culturales se salvaguardan para seguir 
+  atrayendo/atraer personas (habitantes, trabajadores, turistas, etc.) e inversiones 
+  financieras, para en última instancia aumentar el monto total del gasto. 
+
+  Este indicador es un indicador indirecto para medir el objetivo. Este indicador permitiría 
+  saber si los países están reforzando o no sus esfuerzos para salvaguardar su patrimonio cultural 
+  y natural. Ayudará a identificar áreas que requieren más atención a efectos de políticas.
+
+dato_global:
+
+comparabilidad: >- 
+  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta información similar.
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-04-01.pdf">Metadata 11-4-1.pdf</a> (solo en inglés)
+
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'
