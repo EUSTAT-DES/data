@@ -1,6 +1,8 @@
 # ORGANIZACION
 
 BE: Banco de España
+OMS: Organización Mundial de la Salud
+BM: Banco Mundial
 CIS: Centro de Investigaciones Sociológicas (CIS)
 CNMC: Comisión Nacional de los Mercados y la Competencia (CNMC)
 Consorcio: Consorcio de Compensación de Seguros
@@ -21,6 +23,7 @@ Euskadi_Alimentacion: Departamento de Alimentación, Desarrollo Rural, Agricultu
 Euskadi_Justicia: Departamento de Justicia y Derechos Humanos
 Eustat: Eustat-Instituto Vasco de Estadística
 GE: Gobierno de España
+GE_Presidencia: Ministerio de la Presidencia, Justicia y Relaciones con las Cortes
 GE_Agricultura: Ministerio de Agricultura, Pesca y Alimentación
 GE_Exteriores: Ministerio de Asuntos Exteriores, Unión Europea y Cooperación
 GE_Ciencia: Ministerio de Ciencia, Innovación y Universidades
@@ -54,8 +57,9 @@ ONU: Organización de Naciones Unidas (ONU)
 
 # OPERACION
 
+Geoeuskadi: Geoeuskadi
 GE_Inclusion_ebcss: Estadística de bases de cotización de la seguridad social
-Euskadi_Bienestar_essec: Estadística de servicios sociales y acción social
+Euskadi_Bienestar_esses: Estadística de servicios sociales y acción social
 Euskadi_Alimentacion_edgt: Estadística sobre la distribución general de tierras y sobre las producciones agrarias
 BE_bp: Balanza de pagos
 GE_Territorial_bep: Boletín estadístico del personal al servicio de las administraciones públicas
@@ -110,6 +114,7 @@ GE_Agricultura_esyrce: Encuesta de superficies y rendimientos de cultivo (ESYRCE
 Eustat_emat: Estadística de matrimonios
 Eustat_cemm: Estadística de movimientos migratorios
 Eustat_enac: Estadística de nacimientos
+Eustat_iig: Índice de Igualdad de Género
 GE_Interior_pint: Estadística de Población Extranjera Solicitante de Protección Internacional, Refugiados, Beneficiarios de Protección Subsidiaria, Desplazados y Apátridas
 Eustat_rpf: Estadística de renta personal y familiar
 Euskadi_Industria_rp: Estadística de Residuos Peligrosos
@@ -140,7 +145,6 @@ GE_Hacienda_iart: Informes anuales de recaudación tributaria
 Eustat_egf: Encuesta de gasto familiar
 Euskadi_Industria_ieca: Inventario de Emisiones de contaminantes a la atmósfera
 Euskadi_Industria_gei: Inventario de gases de efecto invernadero
-Eustat_iig: Índice de igualdad de género
 Euskadi_Alimentacion_invfor: Inventario Forestal 
 Euskadi_Lehendakaritza_sv: Sociómetro Vasco
 GE_Hacienda_lpca: Liquidación de los presupuestos de las comunidades autónomas
@@ -165,6 +169,9 @@ Euskadi_Vivienda_udalplan: Sistema de Información Geográfica del planeamiento 
 
 # URL
 
+BM_url: https://datos.bancomundial.org/
+OMS_url: https://www.who.int/data/gho/data/themes/air-pollution/household-air-pollution
+Geoeuskadi_url: https://www.geo.euskadi.eus/
 GE_Inclusion_ebcss_url: https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/c9bd51e5-79bc-44f2-9618-14d6094eb585
 Euskadi_Bienestar_esses_url: https://www.euskadi.eus/web01-a2inghon/es/contenidos/informacion/essec_oe/es_def/index.shtml
 Euskadi_Alimentacion_edgt_url: https://www.euskadi.eus/web01-a1estadi/es/
@@ -188,11 +195,12 @@ Eustat_epb_url: https://www.eustat.eus/estadisticas/tema_632/opt_1/ti_encuesta-d
 BE_ecf_url: https://www.bde.es/wbe/es/publicaciones/analisis-economico-investigacion/encuesta-de-competencias-financieras/
 INE_ecv_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176807&menu=ultiDatos&idp=1254735976608
 Eustat_ecv_url: https://www.eustat.eus/estadisticas/tema_76/opt_1/ti_encuesta-de-condiciones-de-vida/temas.html
+INE_eaes_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177025&menu=ultiDatos&idp=1254735976596
 INE_eesal_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177025&menu=ultiDatos&idp=1254735976596
-INE_eaes_url: https://www.ine.es/dynt3/inebase/index.htm?padre=4563&capsel=4563
 INE_efec_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177006&menu=ultiDatos&idp=1254735573002
 Eustat_cegf_url: https://www.eustat.eus/estadisticas/tema_237/opt_1/ti_encuesta-de-gasto-familiar/temas.html
 Eustat_cemaf_url: https://www.eustat.eus/estadisticas/tema_217/opt_1/ti_encuesta-de-medio-ambiente---familias/temas.html
+Eustat_iig_url: https://www.eustat.eus/estadisticas/tema_515/opt_0/ti_indice-de-igualdad-de-genero/temas.html
 Eustat_emh_url: https://www.eustat.eus/estadisticas/tema_268/opt_1/ti_censo-de-poblacion-y-viviendas-estructura-de-la-poblacion/temas.html
 Eustat_pra_url: https://es.eustat.eus/estadisticas/tema_57/opt_1/ti_encuesta-de-poblacion-en-relacion-con-la-actividad/temas.html
 Euskadi_Bienestar_epds_url: https://www.euskadi.eus/encuesta-de-pobreza-y-desigualdades-sociales-epds/web01-s2enple/es/
@@ -250,7 +258,6 @@ GE_Hacienda_iart_url: https://sede.agenciatributaria.gob.es/Sede/datosabiertos/c
 Eustat_egf_url: https://www.eustat.eus/estadisticas/tema_237/opt_1/ti_encuesta-de-gasto-familiar/temas.html
 Euskadi_Industria_ieca_url: https://www.euskadi.eus/web01-s2ekono/es/contenidos/informacion/estatistika_ing_090226/es_def/index.shtml
 Euskadi_Industria_gei_url: https://www.euskadi.eus/informacion/inventario-de-gases-de-efecto-invernadero-090205/web01-a2ingair/es/
-Eustat_iig_url: https://www.eustat.eus/indicadores/ambito_99/temaseleccionado_59/indicadoresEstruc.html
 Euskadi_Alimentacion_invfor_url: https://www.euskadi.eus/gobierno-vasco/-/informacion/inventarios-forestales/ 
 Euskadi_Lehendakaritza_sv_url: https://www.euskadi.eus/sociometros-vascos/web01-s1lehike/es/
 GE_Hacienda_lpca_url: https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Financiacion%20Autonomica/Paginas/DatosPresupuestarios.aspx
@@ -275,20 +282,21 @@ Euskadi_Vivienda_udalplan_url: https://www.euskadi.eus/udalplan_es/web01-a2lurra
 
 
 # LOGOS
-BE_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/BE.png'
-CIS_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/CIS.png'
-CNMC_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/CNMC.png'
-EVE_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/EVE.png'
-Ekolurra_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/Ekolurra.png'
-Euskadi_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/Euskadi.png'
-Eustat_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/Eustat.png'
-GE_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/GE.png'
-Hazi_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/Hazi.png'
-INE_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/INE.png'
-Ihobe_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/Ihobe.png'
-OCDE_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/OCDE.png'
-ONU_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/ONU.png'
-
+BE_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/BE.png?raw=true'
+CIS_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/CIS.png?raw=true'
+CNMC_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/CNMC.png?raw=true'
+EVE_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/EVE.png?raw=true'
+Ekolurra_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/Ekolurra.png?raw=true'
+Euskadi_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/Euskadi.png?raw=true'
+Eustat_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/Eustat.png?raw=true'
+GE_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/GE.png?raw=true'
+Hazi_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/Hazi.png?raw=true'
+INE_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/INE.png?raw=true'
+Ihobe_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/Ihobe.png?raw=true'
+OCDE_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/OCDE.png?raw=true'
+ONU_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/ONU.png?raw=true'
+BM_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/BM.png?raw=true'
+OMS_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/OMS.png?raw=true' 
   
 # FRECUENCIA
 
