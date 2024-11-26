@@ -1,0 +1,79 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.12-1-1-titulo
+
+objetivo_global: objetivo_largo.12-titulo
+meta_global: meta_largo.12-1-titulo
+#  indicador_onu_global: indicador_largo.12-1-1-titulo
+
+
+definicion: >- 
+  Valor lógico que indica si se elabora, adopta o aplica políticas destinadas a apoyar 
+  la transición hacia modalidades de consumo y producción sostenibles
+
+formula: |
+
+
+  $$PCPS^{t} = \begin{cases} 1 & \text{Sí se elabora, adopta o aplica políticas destinadas al consumo y producción sostenibles en el año 𝑡} \\ 0 & \text{No se elabora, adopta ni aplica políticas destinadas al consumo y producción sostenibles en el año 𝑡} \end{cases} $$
+
+desagregacion: 
+
+
+observaciones: >-
+
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  La incorporación del consumo y la producción sostenibles en la adopción de decisiones 
+  a todos los niveles es una función fundamental del Marco Decenal, que se espera que 
+  “apoye la integración del consumo y la producción sostenibles en las políticas, 
+  programas y estrategias de desarrollo sostenible, según corresponda, incluidas, cuando 
+  proceda, las estrategias de reducción de la pobreza” (Documento Final de Río+20 – A/CONF.216/5).
+
+  El objetivo de este indicador es ayudar a evaluar el volumen y la distribución geográfica 
+  de los avances de los gobiernos en materia de consumo y producción sostenibles. Además, 
+  se está recopilando más información sobre los tipos, el enfoque y la orientación de 
+  los instrumentos de política que se están elaborando y utilizando, para supervisar su 
+  progreso a lo largo del tiempo, así como su contribución a otros Objetivos de 
+  Desarrollo Sostenible. 
+
+  Esto debería respaldar la evaluación de cuánto y con qué rapidez avanzan los gobiernos 
+  en el desarrollo y la aplicación de políticas que abordan el consumo y la producción 
+  sostenibles, ya sea a nivel transversal o sectorial. El indicador también tiene en 
+  cuenta los instrumentos de política vinculantes (leyes y reglamentos) y no 
+  vinculantes. 
+
+  La primera categoría es esencial para el cambio, ya que los instrumentos 
+  vinculantes proporcionan la base legal para el consumo y la producción sostenibles, y 
+  pueden utilizarse para hacer cumplir la ley o para proporcionar incentivos. La capacidad 
+  de elaborar, aprobar e implementar leyes es un indicador del compromiso de 
+  las jurisdicciones en el cambio hacia el consumo y la producción sostenibles. Este 
+  indicador también puede ayudar a monitorear la evolución del panorama legislativo global. 
+
+  La segunda categoría también es esencial para garantizar la participación, el compromiso y 
+  la apropiación institucional. En algunos casos, los instrumentos de política no vinculantes 
+  pueden conducir a la creación de nuevos instrumentos legales. El desarrollo y la implementación 
+  de instrumentos no vinculantes en todos los sectores también proporciona información sobre 
+  el compromiso de los socios y otras partes interesadas en el consumo y la producción sostenibles.
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.1.1&seriesCode=SG_SCP_CNTRY&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Países con planes de acción nacionales de consumo y producción sostenibles (CPS) o con CPS incorporado como prioridad u objetivo en las políticas nacionales (1 = SÍ; 0 = NO) SG_SCP_CNTRY</a> UNSTATS
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-01-01.pdf">Metadata 12-1-1.pdf</a> (solo en inglés)
+
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

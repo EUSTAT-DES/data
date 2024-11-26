@@ -20,7 +20,7 @@ formula: |
   distribución del bienestar en los años T0 y T1 y luego calculando la tasa de crecimiento 
   promedio anual entre esos años utilizando una fórmula de crecimiento compuesto:
 
-  $$Crecimiento del ingreso o consumo = \left( \frac{Media\, en\, T_1}{Media\, en\, T_0} \right)^{\frac{1}{T_1 - T_0}} - 1$$
+  Crecimiento del ingreso o consumo = $$\left( \frac{Media\, en\, T_1}{Media\, en\, T_0} \right)^{\frac{1}{T_1 - T_0}} - 1$$
 
 
   El crecimiento del ingreso real per cápita medio o del consumo de la población total 
