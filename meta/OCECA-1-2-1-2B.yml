@@ -1,0 +1,43 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-a-titulo
+#  indicador_onu_global: indicador_largo.1-a-2-titulo
+
+
+definicion: >-
+  Proporción de personas con ingresos con alquiler imputado por unidad de consumo por debajo del 60% de la mediana autonómica de los ingresos con alquiler imputado por unidad de consumo (escala OCDE modificada)
+
+formula: |
+
+  $$PPRPRAI_{CCAA}^{t} = \frac{PRPRAI_{CCAA}^{t}}{P^{t}} \cdot 100$$
+
+  donde:
+
+  $PRPRAI_{CCAA}^{t} =$ población en riesgo de pobreza relativa con alquiler imputado considerando el umbral autonómico de pobreza (60% de la mediana autonómica de los ingresos con alquiler imputado por unidad de consumo (escala OCDE modificada)) en el año $t$
+
+  $P^{t} =$ población total en el año  $t$
+
+periodicidad: FUENTE.FREQ_A4
+
+observaciones: |
+  El número de unidades de consumo de un hogar se calcula utilizando la escala OCDE modificada, 
+  que asigna un peso de 1 a la primera persona de 14 o más años, un peso de 0,5 al resto 
+  de personas de 14 o más años y un peso de 0,3 a las personas de menos de 14 años.
+
+  El alquiler imputado se aplica a los hogares que no pagan un alquiler completo por
+   ser propietarios o por ocupar una vivienda alquilada a un precio inferior al de 
+  mercado o a título gratuito para así equiparar las rentas con aquellos que sí lo pagan. 
+
+  El valor que se imputa es el equivalente al alquiler que se pagaría en el mercado por una 
+  vivienda similar a la ocupada, menos cualquier alquiler realmente abonado. En esta 
+  variable también se incluye el alquiler imputado de la vivienda cuando la misma 
+  está proporcionada por la empresa en la que trabaja algún miembro del hogar. 
+  Asimismo se deducen de los ingresos totales del hogar los intereses de los 
+  préstamos solicitados para la compra de la vivienda principal.
+
+texto_oceca: FUENTE.oceca
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'
