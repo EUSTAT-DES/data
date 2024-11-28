@@ -236,3 +236,8 @@
 1-2-2-notapie: Los datos a partir del 2022 del Indicador de pobreza y exclusion AROPE se 
   calculan con la nueva definicion de la tasa (metodología Eurostat del año 2021), 
   mientras que los datos anteriores corresponden a la definición antigua.
+
+# PESTAÑA "INDICADORES RELACIONADOS" (EMBED)
+embed-1-2-1: "https://eustat-des.github.io/site/embed/1-2-1"
+embed-1-2-2: "https://eustat-des.github.io/site/embed/1-2-2"
+embed-1-a-2: "https://eustat-des.github.io/site/embed/1-a-2"
