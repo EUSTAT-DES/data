@@ -39,19 +39,7 @@ observaciones: |
   está situado en el año 2022 en 12.983€ anuales (siendo la mediana de ingresos 
   de 21.638€).
 
-texto_oceca: |
-
-  <img src="/site/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS">
-  Indicador calculado utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas. 
-
-  Otros subindicadores asociados al indicador 1.2.1:
-
-    <a href="https://eustat-des.github.io/site/OCECA-1-2-1-1A">Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza</a>
-
-    <a href="https://eustat-des.github.io/site/OCECA-1-2-1-2A">Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza</a>
-
-    <a href="https://eustat-des.github.io/site/OCECA-1-2-1-2B">Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza</a>
-
+texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
