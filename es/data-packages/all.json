@@ -645,6 +645,52 @@
       "title": "Research and development expenditure as a proportion of GDP"
     },
     {
+      "path": "OCECA-1-2-1-2A/data.csv",
+      "name": "OCECA-1-2-1-2A",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "gb2312",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza"
+    },
+    {
       "path": "6-1-1/data.csv",
       "name": "6-1-1",
       "profile": "tabular-data-resource",
@@ -867,7 +913,7 @@
           }
         ]
       },
-      "title": "Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza"
+      "title": "national_indicators.OCECA-010201-2B"
     },
     {
       "path": "3-4-E1/data.csv",
@@ -4134,7 +4180,7 @@
           }
         ]
       },
-      "title": "Proporción de personas en riesgo de pobreza relativa, considerando el umbral autonómico de pobreza"
+      "title": "national_indicators.OCECA-1-2-1-1-title"
     },
     {
       "path": "6-3-2/data.csv",
@@ -5180,7 +5226,7 @@
           }
         ]
       },
-      "title": "Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación"
+      "title": "national_indicators.OCECA-010A02-01"
     },
     {
       "path": "8-9-1/data.csv",
@@ -5762,7 +5808,7 @@
           }
         ]
       },
-      "title": "Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza"
+      "title": "national_indicators.OCECA-010202-1A"
     },
     {
       "path": "4-3-1/data.csv",
@@ -7432,7 +7478,7 @@
           }
         ]
       },
-      "title": "Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza"
+      "title": "national_indicators.OCECA-010201-2A"
     },
     {
       "path": "6-4-E1/data.csv",
@@ -7836,6 +7882,52 @@
         ]
       },
       "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
+    },
+    {
+      "path": "OCECA-1-a-2-1/data.csv",
+      "name": "OCECA-1-a-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud"
     },
     {
       "path": "8-5-2/data.csv",
@@ -8622,7 +8714,7 @@
           }
         ]
       },
-      "title": "Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza"
+      "title": "national_indicators.OCECA-010201-1A"
     },
     {
       "path": "OCECA-010A02-02/data.csv",
@@ -8668,7 +8760,7 @@
           }
         ]
       },
-      "title": "Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud"
+      "title": "national_indicators.OCECA-010A02-02"
     },
     {
       "path": "3-4-E2/data.csv",
@@ -8741,6 +8833,52 @@
         ]
       },
       "title": "Esperanza de vida y esperanza de vida en buena salud"
+    },
+    {
+      "path": "OCECA-1-2-1-1A/data.csv",
+      "name": "OCECA-1-2-1-1A",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza"
     },
     {
       "path": "17-1-2/data.csv",
@@ -10671,6 +10809,98 @@
         ]
       },
       "title": "Proporción de explotaciones ecológicas agrícolas y ganaderas"
+    },
+    {
+      "path": "OCECA-1-2-2-1A/data.csv",
+      "name": "OCECA-1-2-2-1A",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza"
+    },
+    {
+      "path": "OCECA-1-2-1-2B/data.csv",
+      "name": "OCECA-1-2-1-2B",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza"
     },
     {
       "path": "3-8-1/data.csv",
@@ -13340,6 +13570,52 @@
         ]
       },
       "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
+    },
+    {
+      "path": "OCECA-1-a-2-2/data.csv",
+      "name": "OCECA-1-a-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "national_indicators.OCECA-1-a-2-2"
     },
     {
       "path": "2-2-2/data.csv",
