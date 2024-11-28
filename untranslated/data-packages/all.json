@@ -819,48 +819,6 @@
       "title": "Proportion of women in managerial positions"
     },
     {
-      "path": "OCECA-010201-2B/data.csv",
-      "name": "OCECA-010201-2B",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_ES_010201_2B",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "national_indicators.OCECA-010201-2B"
-    },
-    {
       "path": "3-4-E1/data.csv",
       "name": "3-4-E1",
       "profile": "tabular-data-resource",
@@ -4905,48 +4863,6 @@
       "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
     },
     {
-      "path": "OCECA-010A02-01/data.csv",
-      "name": "OCECA-010A02-01",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_ES_010A02_01",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "national_indicators.OCECA-010A02-01"
-    },
-    {
       "path": "8-9-1/data.csv",
       "name": "8-9-1",
       "profile": "tabular-data-resource",
@@ -5458,48 +5374,6 @@
         ]
       },
       "title": "Proportion of total government spending on essential services (education, health and social protection)"
-    },
-    {
-      "path": "OCECA-010202-1A/data.csv",
-      "name": "OCECA-010202-1A",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_ES_010202_1A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "national_indicators.OCECA-010202-1A"
     },
     {
       "path": "4-3-1/data.csv",
@@ -7055,48 +6929,6 @@
       "title": "Redistributive impact of fiscal policy"
     },
     {
-      "path": "OCECA-010201-2A/data.csv",
-      "name": "OCECA-010201-2A",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_ES_010201_2A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "national_indicators.OCECA-010201-2A"
-    },
-    {
       "path": "6-4-E1/data.csv",
       "name": "6-4-E1",
       "profile": "tabular-data-resource",
@@ -8229,90 +8061,6 @@
         ]
       },
       "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
-    },
-    {
-      "path": "OCECA-010201-1A/data.csv",
-      "name": "OCECA-010201-1A",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_ES_010201_1A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "national_indicators.OCECA-010201-1A"
-    },
-    {
-      "path": "OCECA-010A02-02/data.csv",
-      "name": "OCECA-010A02-02",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_ES_010A02_02",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "national_indicators.OCECA-010A02-02"
     },
     {
       "path": "3-4-E2/data.csv",
