@@ -72,15 +72,7 @@ observaciones: |
   lo hicieron menos del 20% del total de su potencial de trabajo durante el año de referencia.
   Esta variable no se aplica en el caso de las personas de 65 y más años.
 
-texto_oceca: |
-
-  <img src="/site/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS">
-  Indicador calculado utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas. 
-
-  Otros subindicadores asociados al indicador 1.2.2:
-
-    <a href="https://eustat-des.github.io/site/OCECA-1-2-2-1A">Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza</a>
-
+texto_oceca: FUENTE.oceca
 
 periodicidad: FUENTE.FREQ_A2
 
