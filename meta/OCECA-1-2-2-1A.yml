@@ -1,0 +1,77 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-2-titulo
+#  indicador_onu_global: indicador_largo.1-2-2-titulo
+
+
+definicion: >-
+
+  Proporción de personas que están en al menos uno de los tres criterios del riesgo de 
+  pobreza o exclusión social: en riesgo de pobreza relativa (considerando 
+  el umbral nacional de pobreza), viviendo en hogares con carencia material 
+  severa o viviendo en hogares con baja intensidad de trabajo
+
+
+formula: |
+  $$AROPE_{NAC}^{t} = \frac{PRPES_{NAC}^{t}}{P^{t}} \cdot 100$$
+
+  donde:
+
+  $PRPES_{NAC}^{t} =$ población en riesgo de pobreza o exclusión social el año $t$, considerando el umbral nacional de pobreza
+
+  $P^{t} =$ población total en el año  $t$
+
+periodicidad: FUENTE.FREQ_A2
+
+observaciones: |
+  El indicador mide la proporción de personas que cumplen al menos uno de los siguientes criterios:
+
+  <b>Personas en riesgo de pobreza relativa:</b> personas con ingresos por unidad de consumo por
+  debajo del 60% de la mediana (escala OCDE modificada).
+
+  El número de unidades de consumo de un hogar se calcula utilizando la escala OCDE modificada, 
+  que asigna un peso de 1 a la primera  persona de 14 o más años, un peso de 0,5 al resto de personas de 
+  14 o más años y un peso de 0,3 a las personas de menos de 14 años.</p>
+
+  <b>Personas en situación de carencia material y social severa:</b> personas que padecen al menos 
+  siete de la siguiente lista de trece limitaciones (siete definidas a nivel de hogar y seis a nivel de persona):
+
+  A nivel de hogar:
+   1. No puede permitirse ir de vacaciones al menos una semana al año.
+   2. No puede permitirse una comida de carne, pollo o pescado al menos cada dos días.
+   3. No puede permitirse mantener la vivienda con una temperatura adecuada.
+   4. No tiene capacidad para afrontar gastos imprevistos.
+   5. Ha tenido retrasos en el pago de gastos relacionados con la vivienda principal 
+  (hipoteca o alquiler, recibos de gas, comunidad, etc) o en
+  compras a plazos en los últimos 12 meses.
+   6. No puede permitirse disponer de un automóvil.
+   7. No puede sustituir muebles estropeados o viejos.
+
+  A nivel de persona:
+   8. No puede permitirse sustituir ropa estropeada por otra nueva.
+   9. No puede permitirse tener dos pares de zapatos en buenas condiciones.
+   10. No puede permitirse reunirse con amigos/familia para comer o tomar algo al menos una vez al mes.
+   11. No puede permitirse participar regularmente en actividades de ocio.
+   12. No puede permitirse gastar una pequeña cantidad de dinero en sí mismo.
+   13. No puede permitirse conexión a internet.
+
+  En el caso de menores de 16 años no se dispone de los seis conceptos enumerados anteriormente a 
+  nivel de persona. Para estos menores los valores de esos elementos se imputan a partir de los valores
+  recogidos para los miembros de su hogar con 16 o más años.
+
+  <b>Baja intensidad en el empleo:</b> son los hogares en los que sus miembros en edad de trabajar 
+  (personas de 18 a 64 años, excluyendo los estudiantes de 18 a 24 años, los jubilados o retirados, 
+  así como las personas inactivas entre 60 y 64 cuya fuente principal de ingresos del hogar sean las pensiones)
+  lo hicieron menos del 20% del total de su potencial de trabajo durante el año de referencia.
+  Esta variable no se aplica en el caso de las personas de 65 y más años.
+
+  Los datos a partir del 2022 del Indicador de pobreza y exclusion AROPE se calculan con la nueva 
+  definicion de la tasa (metodología Eurostat del año 2021), mientras que los datos anteriores corresponden 
+  a la definición antigua.
+
+texto_oceca: FUENTE.oceca
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'
