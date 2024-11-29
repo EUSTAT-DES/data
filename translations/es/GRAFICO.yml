@@ -59,6 +59,8 @@
 12-6-1-titulo: "Número de organizaciones con EMAS o Ecolabel"
 
 13-1-1-titulo: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
+13-2-2-titulo: Emisiones totales de gases de efecto invernadero (GEI) por unidad de PIB real, 
+  per cápita, y tasas de variación respecto a 1990 y 2005
 
 15-3-1-titulo: "Superficie de suelos potencialmente contaminados y recuperados para nuevos usos"
 15-8-1-titulo: "Se dispone de legislación nacional pertinente y se destinan recursos para la prevención o el control de las especies exóticas invasoras"
@@ -85,7 +87,7 @@
 1-4-1-contenido: "<b>Dirección deseada:</b> Aumento"
 1-5-1-contenido: "<b>Dirección deseada:</b> Descenso"
 1-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
-1-a-2-contenido: "<b>Dirección deseada:</b> Se considera como meta la media de la UE para el indicador"
+1-a-2-contenido: "<b>Meta:</b> Se considera como meta la media de la UE para el indicador"
 
 2-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
 2-2-2-contenido: "<b>Dirección deseada:</b> Descenso"
@@ -196,11 +198,11 @@
 12-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
 13-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
-13-2-2-contenido: "<b>Dirección deseada:</b> Descenso"
+13-2-2-contenido: "<b>Dirección deseada:</b> Descenso en la serie Emisiones totales de gases de efecto invernadero per cápita"
 
-15-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+15-1-1-contenido: "<b>Dirección deseada:</b> Mantenimiento o ascenso"
 15-2-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-15-3-1-contenido: "<b>Dirección deseada:</b> Ascenso en el valor de tierras recuperadas"
+15-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 15-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
 16-1-4-contenido: "<b>Dirección deseada:</b> Ascenso"
