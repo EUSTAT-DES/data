@@ -15,7 +15,10 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: PER_100000_POP
+    minimum: 0
+    maximum: 5
 graph_stacked_disaggregation: ''
 graph_title: GRAFICO.13-1-1-titulo
 graph_titles: []
@@ -41,5 +44,7 @@ sources:
     url_text: FUENTE.Eustat_edef
     logo: FUENTE.Eustat_logo
 standalone: false
-tags: []
+tags:
+  - status.municipio
+  - status.sexo
 x_axis_label: ''
