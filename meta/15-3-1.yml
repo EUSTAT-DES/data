@@ -7,8 +7,8 @@ objetivo_global: objetivo_largo.15-titulo
 meta_global: meta_largo.15-3-titulo
 #  indicador_onu_global: indicador_largo.15-3-1-titulo
 
-definicion: >-
-  Superficie de suelos potencialmente contaminados y recuperados para nuevos usos acumulado desde el año 2005 y porcentaje respecto a la superficie total.
+definicion: |
+  Superficie de suelos potencialmente contaminados y recuperados para nuevos usos acumulado desde el año 2005 y porcentaje respecto a la superficie potencialmente contaminada
 
   Se considera que un suelo ha sido recuperado si dispone de la Declaración de la calidad 
   del suelo según lo previsto en la Ley 4/2015, de 25 de junio, para la prevención y 
@@ -16,13 +16,13 @@ definicion: >-
 
 formula: |
 
-  $$PSPC_{recuperado}^{t} = \frac{SPC_{recuperado}^{t}}{S^{t}} \cdot 100$$
+  $$PSPC_{recuperado}^{t} = \frac{SPC_{recuperado}^{t}}{SPC^{t}} \cdot 100$$
 
   donde: 
 
   $SPC_{recuperado}^{t} =$ superficie de suelos potencialmente contaminados y recuperados para nuevos usos en desde el año 2005 hasta el año $t
 
-  $S^{t} =$ superficie total en el año $t$
+  $SPC^{t} =$ superficie de suelos potencialmente contaminados en el año $t$
 
 desagregacion:
 
