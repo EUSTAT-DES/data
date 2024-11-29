@@ -1,0 +1,59 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.15-3-1-titulo
+
+objetivo_global: objetivo_largo.15-titulo
+meta_global: meta_largo.15-3-titulo
+#  indicador_onu_global: indicador_largo.15-3-1-titulo
+
+definicion: >-
+  Superficie de suelos potencialmente contaminados y recuperados para nuevos usos acumulado desde el año 2005 y porcentaje respecto a la superficie total.
+
+  Se considera que un suelo ha sido recuperado si dispone de la Declaración de la calidad 
+  del suelo según lo previsto en la Ley 4/2015, de 25 de junio, para la prevención y 
+  corrección de la contaminación del suelo.
+
+formula: |
+
+  $$PSPC_{recuperado}^{t} = \frac{SPC_{recuperado}^{t}}{S^{t}} \cdot 100$$
+
+  donde: 
+
+  $SPC_{recuperado}^{t} =$ superficie de suelos potencialmente contaminados y recuperados para nuevos usos en desde el año 2005 hasta el año $t
+
+  $S^{t} =$ superficie total en el año $t$
+
+desagregacion:
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  La degradación de la tierra se define como la reducción o pérdida de la productividad 
+  biológica o económica y de la complejidad de las tierras de cultivo de secano, 
+  las tierras de cultivo de regadío o los pastizales, pastizales, bosques y zonas 
+  boscosas como resultado de una combinación de presiones, incluidas las prácticas de 
+  uso y gestión de la tierra. 
+
+  El indicador 15.3.1 de los ODS es una cuantificación binaria -degradado/no degradado- basada 
+  en el análisis de los datos disponibles para tres subindicadores: tendencias en la 
+  cobertura terrestre, productividad de la tierra y reservas de carbono.
+
+dato_global: | 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=15.3.1&seriesCode=AG_LND_DGRD&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Proporción de tierra degradada sobre la superficie total (%) AG_LND_DGRD</a> UNSTATS
+
+
+comparabilidad: >-
+  El indicador disponible no cumple con los metadatos de Naciones Unidas, pero aporta información complementaria.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-15-03-01.pdf">Metadata 15-3-1.pdf</a> (solo en inglés)'
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

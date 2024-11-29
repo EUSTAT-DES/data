@@ -27,7 +27,24 @@ formula: |
 desagregacion: |
   Servicios esenciales: educación, salud, protección social
 
-observaciones: >-
+observaciones: |
+
+  La Clasificación de Funciones del Gobierno (COFOG), desarrollada por la 
+  Organización para la Cooperación y el Desarrollo Económicos (OCDE) y publicada 
+  por la División de Estadística de las Naciones Unidas, estructura el gasto público
+  en 10 grupos funcionales:
+
+   - 01 Servicios públicos generales
+   - 02 Defensa
+   - 03 Orden público y seguridad
+   - 04 Asuntos económicos
+   - 05 Protección del medio ambiente
+   - 06 Vivienda y servicios comunitarios
+   - 07 Salud
+   - 08 Ocio, cultura y religión
+   - 09 Educación
+   - 10 Protección social
+
 
 periodicidad: FUENTE.FREQ_A
 
