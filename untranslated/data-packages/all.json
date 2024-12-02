@@ -10550,7 +10550,8 @@
             "constraints": {
               "enum": [
                 "EU_HTF_DETVFL",
-                "VC_HTF_DETVOG",
+                "VC_HTF_DETVOGR",
+                "VC_HTF_DETVOGRR",
                 "EU_HTF_DETVR",
                 "EU_HTF_DETVSXR",
                 "VC_HTF_DETVOP",
