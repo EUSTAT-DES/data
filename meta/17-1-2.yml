@@ -1,0 +1,77 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.17-1-2-titulo
+
+objetivo_global: objetivo_largo.17-titulo
+meta_global: meta_largo.17-1-titulo
+#  indicador_onu_global: indicador_largo.17-1-2-titulo
+
+definicion: >-
+  Total de ingresos consolidades de las administraciones públicas autonómicas y locales en proporción al PIB a precios corrientes
+
+formula: |
+
+  $$PI_{impuestos}^{t} = \frac{I_{CCAA,impuestos\, directos}^{t}+I_{CCAA,impuestos\, indirectos}^{t}+I_{EELL,impuestos\, directos}^{t}+I_{EELL,impuestos\, indirectos}^{t}}{I_{CCAA}^{t}+I_{EELL}^{t}-TC_{CCAA\, a\, EELL}^{t}-TC_{EELL\, a\, CCAA}^{t}-TK_{CCAA\, a\, EELL}^{t}-TK_{EELL\, a\, CCAA}^{t}} \cdot 100$$
+
+  donde: 
+
+  $I_{CCAA,impuestos\, directos}^{t} =$ ingresos provenientes de impuestos directos (derechos reconocidos netos) en la liquidación de presupuestos consolidados de la comunidad autónoma (capítulo de ingresos 1 de la clasificación económica) en el año $t$ 
+
+  $I_{CCAA,impuestos\, indirectos}^{t} =$ ingresos provenientes de impuestos indirectos (derechos reconocidos netos) en la liquidación de presupuestos consolidados de la comunidad autónoma (capítulo de ingresos 2 de la clasificación económica) en el año $t$
+ 
+  $I_{EELL,impuestos\, directos}^{T} =$ ingresos provenientes de impuestos directos (derechos reconocidos netos) en la liquidación de presupuestos consolidados de las entidades locales de la comunidad autónoma (capítulo de ingresos 1 de la clasificación económica) en el año $t$
+
+  $I_{EELL,impuestos\, indirectos}^{T} =$ ingresos provenientes de impuestos indirectos (derechos reconocidos netos) en la liquidación de presupuestos consolidados de las entidades locales de la comunidad autónoma (capítulo de ingresos 2 de la clasificación económica) en el año $t$
+
+  $I_{CCAA}^{t} =$ ingresos (derechos reconocidos netos) en la liquidación de presupuestos consolidados de la comunidad autónoma en el año $t$  
+
+  $I_{EELL}^{t} =$ ingresos (derechos reconocidos netos) en la liquidación de presupuestos consolidados de las entidades locales de la comunidad autónoma en el año $t$
+
+  $TC_{CCAA\, a\, EELL} =$ gastos en transferencias corrientes a las entidades locales (obligaciones reconocidas netas) en la liquidación de los presupuestos consolidados de la comunidad autónoma en el año $t$
+
+  $TC_{EELL\, a\, CCAA} =$ ingresos en transferencias corrientes de las entidades locales (derechos reconocidos netos) en la liquidación de los presupuestos consolidados de la comunidad autónoma en el año $t$ 
+
+  $TK_{CCAA\, a\, EELL} =$ gastos en transferencias de capital a las entidades locales (obligaciones reconocidas netas) en la liquidación de los presupuestos consolidados de la comunidad autónoma en el año $t$
+
+  $TK_{EELL\, a\, CCAA} =$ ingresos en transferencias de capital de las entidades locales (derechos reconocidos netos) en la liquidación de los presupuestos consolidados de la comunidad autónoma en el año $t$
+
+desagregacion: >-
+  Tipo de ingresos: financieros y no financieros
+
+observaciones: >-
+
+  Los datos consolidados de las liquidaciones presupuestarias de las comunidades autónomas 
+  se toman depurados de IFL (Intermediación Financiera Local) y PAC (política agrícola común)
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  El indicador 17.1.2, proporción del gasto presupuestario interno del gobierno central 
+  financiado con impuestos, respalda una comprensión de hasta qué punto los gastos 
+  recurrentes y de capital de los países están realmente cubiertos por la movilización de 
+  ingresos internos en forma de impuestos. 
+
+  El indicador, que puede derivarse directamente de las series de EFP comunicadas por 
+  las autoridades nacionales al Departamento de Estadística del FMI, proporcionará a los 
+  analistas un conjunto de datos comparable entre países que destaca la relación entre 
+  el presupuesto nacional ejecutado y la administración de ingresos/impuestos. 
+
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.1.2&seriesCode=GC_GOB_TAXD&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proporción del presupuesto interno financiado por impuestos internos (%) GC_GOB_TAXD</a> UNSTATS
+
+
+comparabilidad: >-
+  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-01-02.pdf">Metadata 17-1-2.pdf</a> (solo en inglés)'
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'
