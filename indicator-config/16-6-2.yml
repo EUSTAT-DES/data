@@ -36,4 +36,6 @@ sources:
     url_text: FUENTE.CIS_oppf
     logo: FUENTE.CIS_logo
 standalone: false
-tags: []
+tags:
+  - status.territorio
+  - status.sexo

@@ -1,0 +1,54 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.16-6-1-titulo
+
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-6-titulo
+#  indicador_onu_global: indicador_largo.16-6-1-titulo
+
+definicion: >-
+  Gasto liquidado en proporción al gasto inicial de los presupuestos de las 
+  administraciones públicas autonómicas y locales
+
+formula: |
+
+  $$PG_{administración\, pública}^{t} = \frac{GL_{administración\, pública}^{t}}{GI_{administración\, pública}^{t}} \cdot 100$$ <br>
+
+  donde:
+
+  $GL_{administración\, pública}^{t} =$ gasto total en la liquidación de presupuestos consolidados de la administración pública (administración autonómica o administración local) en el año $t$
+
+  $GI_{CCAA}^{t} =$ gasto total en el presupuesto inicial consolidado de la administración pública (administración autonómica o administración local) en el año $t$
+
+
+desagregacion: |
+  Administración pública: administración autonómica y administración local
+
+
+observaciones: |
+  Los datos consolidados se toman depurados de IFL (intermediación financiera local) y PAC (política agrícola común).
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  El indicador intenta captar la fiabilidad de los presupuestos gubernamentales: 
+  ¿los gobiernos gastan lo que tienen previsto y recaudan lo que se han propuesto recaudar?
+ 
+  Es un indicador sencillo e intuitivo que se entiende fácilmente y la metodología es 
+  transparente y cada calificación es fácilmente verificable.
+
+dato_global: 
+
+comparabilidad: >-
+  El indicador disponible cumple con los metadatos de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-06-01.pdf">Metadata 16-6-1.pdf</a> (solo en inglés)'
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

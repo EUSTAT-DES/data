@@ -11,11 +11,11 @@ definicion: >-
   Proporción de viviendas principales con acceso a servicios básicos (abastecimiento de agua corriente y baño)
 
 formula: |
-  $$PVP_{SB}^{t} = \frac{VP_{SB}^{t}}{VP^{t}} \cdot 100$$
+  $$PVP_{servicios\, básicos}^{t} = \frac{VP_{servicios\, básicos}^{t}}{VP^{t}} \cdot 100$$
 
   donde:
 
-  $VP_{SB}^{t} =$ viviendas principales con acceso a servicios básicos en el año $t$
+  $VP_{servicios\, básicos}^{t} =$ viviendas principales con acceso a servicios básicos en el año $t$
 
   $VP^{t} =$ viviendas principales en el año $t$
 
