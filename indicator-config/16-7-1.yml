@@ -36,4 +36,5 @@ sources:
     url_text: FUENTE.GE_Territorial_bep
     logo: FUENTE.GE_logo
 standalone: false
-tags: []
+tags:
+  - status.territorio
