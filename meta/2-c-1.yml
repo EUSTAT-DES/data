@@ -17,30 +17,28 @@ definicion: >-
 
 formula: |
 
-  <p><b>Índice de precios de consumo de los alimentos</b> </p>
+  <b>Índice de precios de consumo de los alimentos</b>
 
-  <p>$$IPC_{alimentos}^{t} = \frac{1}{12} \cdot \sum_{m=1}^{12} IPC_{alimentos,m}^{t}$$</p>
+  $$IPC_{alimentos}^{t} = \frac{1}{12} \cdot \sum_{m=1}^{12} IPC_{alimentos,m}^{t}$$
 
-  <p>donde: </p>
+  donde:
 
-  <p>$IPC_{alimentos,m}^{t}$ índice de precios de consumo de los alimentos del mes $m$ del año $t$ </p>
-
-
-  <p><b>Tasa de variación interanual de precios de consumo de los alimentos</b> </p>
-
-  <p>$$TVIPC_{t} = \left( \frac{IPC_{alimentos}^{t}}{IPC_{alimentos}^{t-1}} - 1 \right) \cdot 100$$</p>
-
-  <p>$IPC_{alimentos,m}^{t}$ índice de precios de consumo de los alimentos del año $t$ </p>
-
-  <p>$IPC_{alimentos,m}^{t-1}$ índice de precios de consumo de los alimentos del año $t-1$ </p>
+  $IPC_{alimentos,m}^{t}$ índice de precios de consumo de los alimentos del mes $m$ del año $t$
 
 
-  teniendo en cuenta que los índices de precios de consumo anuales se calculan 
+  <b>Tasa de variación interanual de precios de consumo de los alimentos</b>
+
+  $$TVIPC_{t} = \left( \frac{IPC_{alimentos}^{t}}{IPC_{alimentos}^{t-1}} - 1 \right) \cdot 100$$
+
+  $IPC_{alimentos,m}^{t}$ índice de precios de consumo de los alimentos del año $t$
+
+  $IPC_{alimentos,m}^{t-1}$ índice de precios de consumo de los alimentos del año $t-1$, teniendo en cuenta que los índices de precios de consumo anuales se calculan 
   como la media aritmética de los índices de precios de consumo mensuales
 
 
-desagregacion: >-
+desagregacion: |
   Productos: alimentos (todos), pan y cereales
+
   Territorio histórico
 
 observaciones: >-
@@ -51,23 +49,23 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-justificacion_global: >-
-  <p>El indicador de anomalías de los precios de los alimentos (IFPA) 
+justificacion_global: |
+  El indicador de anomalías de los precios de los alimentos (IFPA) 
   identifica los precios de mercado que son anormalmente altos. La IFPA 
   se basa en una tasa de crecimiento compuesta ponderada que representa el crecimiento 
-  de los precios tanto dentro del año como a lo largo del año. </p>
+  de los precios tanto dentro del año como a lo largo del año.
 
-  <p>El indicador evalúa directamente 
+  El indicador evalúa directamente 
   el crecimiento de los precios durante un mes particular durante muchos años, teniendo 
   en cuenta la estacionalidad en los mercados agrícolas y la inflación, lo que permite 
-  responder a la pregunta de si un cambio en el precio es anormal o no para un período determinado.</p>
+  responder a la pregunta de si un cambio en el precio es anormal o no para un período determinado.
 
-  <p>El indicador es sólo una guía para comprender la dinámica del mercado. 
+  El indicador es sólo una guía para comprender la dinámica del mercado. 
   Como tal, no se puede confiar en él como único elemento para determinar si el 
   precio de un alimento en un mercado particular en un momento dado es anormalmente
    alto o bajo debido a los efectos directos de las políticas locales. Los resultados 
   deben sopesarse con otra información disponible sobre los fundamentos del mercado, 
-  el contexto macroeconómico y los shocks externos.</p>
+  el contexto macroeconómico y los shocks externos.
 
 dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.c.1&seriesCode=AG_FPA_HMFP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ABNORMAL">Proporción de países que registran precios de los alimentos anormalmente altos o moderadamente altos, según el Indicador de anomalías de los precios de los alimentos (%) AG_FPA_HMFP</a> UNSTATS
@@ -77,7 +75,7 @@ comparabilidad: >-
   aporta información complementaria.
 
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0C-01.pdf">Metadata 2-c-1.pdf</a> (solo en inglés)<br>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0C-01.pdf">Metadata 2-c-1.pdf</a> (solo en inglés)
 
 national_data_updated_date: '2024-07-29'
 national_metadata_updated_date: '2024-07-29'

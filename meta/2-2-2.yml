@@ -8,37 +8,38 @@ meta_global: meta_largo.2-2-titulo
 #  indicador_onu_global: indicador_largo.2-2-2-titulo
 
 
-definicion: >-
-  <p>La población malnutrida es aquella que tiene obesidad (IMC>=30), 
+definicion: |
+  La población malnutrida es aquella que tiene obesidad (IMC>=30), 
   sobrepeso (25<=IMC<30) o peso insuficiente (IMC<18,5), donde IMC es el índice de masa corporal, 
-  que se obtiene dividiendo el peso (kg) por el cuadrado de la estatura (m).</p>
+  que se obtiene dividiendo el peso (kg) por el cuadrado de la estatura (m).
 
-  <p>Este indicador se compone de dos series temporales:</p>
-  <p>- Proporción de menores entre 2 y 17 años que presentan malnutrición (obesidad, sobrepeso o peso insuficiente)</p>
-  <p>- Proporción de la población adulta con obesidad</p>
+  Este indicador se compone de dos series temporales:
+
+   -Proporción de menores entre 2 y 17 años que presentan malnutrición (obesidad, sobrepeso o peso insuficiente)
+   -Proporción de la población adulta con obesidad
 
 
 formula: |
 
-  <p><b>Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años</b> </p>
+  <b>Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años</b>
 
-  <p>$$PPM_{2-17}^{t} = \frac{PM_{2-17}^{t}}{P_{2-17}^{t}} \cdot 100$$</p>
+  $$PPM_{2-17}^{t} = \frac{PM_{2-17}^{t}}{P_{2-17}^{t}} \cdot 100$$
 
-  <p>donde: </p>
+  donde:
 
-  <p>$PPM_{2-17}^{t} =$ población entre 2 y 17 años con malnutrición (IMC<18,5 o IMC>=25) en el año $t$ </p>
+  $PPM_{2-17}^{t} =$ población entre 2 y 17 años con malnutrición (IMC<18,5 o IMC>=25) en el año $t$
 
-  <p>$P_{2-17}^{t} =$ población entre 2 y 17 años en el año $t$</p>
+  $P_{2-17}^{t} =$ población entre 2 y 17 años en el año $t$
 
-  <p><b>Tasa de obesidad de la población adulta</b> </p>
+  <b>Tasa de obesidad de la población adulta</b>
 
-  <p>$$PPO_{>18}^{t} = \frac{PO_{>18}^{t}}{P_{>18}^{t}} \cdot 100$$</p>
+  $$PPO_{>18}^{t} = \frac{PO_{>18}^{t}}{P_{>18}^{t}} \cdot 100$$
 
-  <p>donde: </p>
+  donde:
 
-  <p>$PPO_{>18}^{t} =$ población adulta con obesidad (IMC>=30) en el año $t$ </p>
+  $PPO_{>18}^{t} =$ población adulta con obesidad (IMC>=30) en el año $t$
 
-  <p>$P_{>18}^{t} =$ población adulta en el año $t$</p>
+  $P_{>18}^{t} =$ población adulta en el año $t$
 
 
 desagregacion: >-
@@ -52,33 +53,33 @@ texto_oceca: FUENTE.oceca
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
-  <p>Está aceptado internacionalmente que el crecimiento infantil 
+justificacion_global: |
+  Está aceptado internacionalmente que el crecimiento infantil 
   refleja el estado nutricional del niño. El sobrepeso infantil se refiere a un 
   niño que pesa demasiado para su altura. Esta forma de desnutrición se debe a que se 
   gastan muy pocas calorías para la cantidad de alimentos consumidos y aumenta el riesgo 
   de enfermedades no transmisibles en el futuro. El sobrepeso infantil es uno de los
-  indicadores objetivo de nutrición de la Asamblea Mundial de la Salud.</p>
+  indicadores objetivo de nutrición de la Asamblea Mundial de la Salud.
 
-  <p>Por ello, el indicador de Naciones Unidas hace referencia al crecimiento infantil, 
+  Por ello, el indicador de Naciones Unidas hace referencia al crecimiento infantil, 
   y mide la prevalencia 
   del sobrepeso (peso para la talla >+2 desviación estándar de la mediana de los 
   estándares de crecimiento infantil de la Organización Mundial de la Salud (OMS)) entre niños 
-  menores de 5 años.</p>
+  menores de 5 años.
 
-  <p>Aunque la UE ha superado en gran medida los problemas del hambre, están surgiendo nuevos desafíos
-  relacionados con la nutrición, como el aumento de la obesidad.</p>
+  Aunque la UE ha superado en gran medida los problemas del hambre, están surgiendo nuevos desafíos
+  relacionados con la nutrición, como el aumento de la obesidad.
 
-  <p>Por ello, el indicador europeo mide la obesidad en la edad adulta, y se utiliza para 
+  Por ello, el indicador europeo mide la obesidad en la edad adulta, y se utiliza para 
   hacer el seguimiento del progreso hacia el ODS 2
   (poner fin al hambre y la malnutrición) y el ODS 3 (buena salud y bienestar), que están
   incluidos en las prioridades de la Comisión Europea en el marco del "Acuerdo Verde Europeo", 
-  "Una economía que funcione para las personas" y "Promoción de nuestro modo de vida europeo".</p>
+  "Una economía que funcione para las personas" y "Promoción de nuestro modo de vida europeo".
 
-  <p>La política alimentaria 
+  La política alimentaria 
   de la UE incluye iniciativas de nutrición y trabaja con los Estados miembros de la UE 
   en diversas iniciativas de salud pública en el área de la nutrición y la actividad 
-  física para promover un estilo de vida saludable y equilibrado.</p>
+  física para promover un estilo de vida saludable y equilibrado.
 
 dato_global: >-
 
@@ -90,8 +91,9 @@ comparabilidad: >-
   utilizar la misma forma de cálculo del sobrepeso, ni el mismo grupo de edad. La tasa de obesidad
   de la población adulta es comparable con el indicador europeo.
 
-indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-02a.pdf">Metadata 2-2-2 (1).pdf</a> (solo en inglés)<br>
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-02a.pdf">Metadata 2-2-2 (1).pdf</a> (solo en inglés)
+
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-02b.pdf">Metadata 2-2-2 (2).pdf</a> (solo en inglés)
 
 national_data_updated_date: '2024-07-29'
