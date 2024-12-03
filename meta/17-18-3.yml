@@ -1,0 +1,43 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.17-18-3-titulo
+
+objetivo_global: objetivo_largo.17-titulo
+meta_global: meta_largo.17-18-titulo
+#  indicador_onu_global: indicador_largo.17-18-3-titulo
+
+definicion: >-
+
+  Valor lógico que indica si la comunidad autónoma dispone de plan estadístico autonómico o instrumento similar plenamente financiado y en fase de aplicación
+
+formula: |
+
+  $$PEAFA^{t} = \begin{cases} 1 & \text{Sí se dispone de un plan estadístico plenamente financiado y en fase de aplicación en el año 𝑡} \\ 0 & \text{No se dispone de un plan estadístico plenamente financiado y en fase de aplicación en el año 𝑡} \end{cases} $$
+
+
+desagregacion: >-
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global:
+
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.18.3&seriesCode=SG_STT_NSDSFND&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Países con planes estadísticos nacionales totalmente financiados (1 = SÍ; 0 = NO) SG_STT_NSDSFND</a> UNSTATS
+
+comparabilidad: >-
+  El indicador disponible cumple con los metadatos de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-18-03.pdf">Metadata 17-18-3.pdf</a> (solo en inglés)'
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'
