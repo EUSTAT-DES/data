@@ -16,67 +16,69 @@ definicion: >-
 
 formula: |
 
-  <p>$$PPCINE2^{t} = \frac{PCINE2_{18-20}^{t}}{P_{18-20}^{t}} \cdot 100$$</p>
+  $$PPCINE2^{t} = \frac{PCINE2_{18-20}^{t}}{P_{18-20}^{t}} \cdot 100$$
 
-  <p>donde:</p>
+  donde:
 
-  <p> $PCINE2_{18-20}^{t} =$ población entre 18 y 20 años que ha completado al menos la primera etapa de 
-  enseñanza secundaria (CINE 2) en el año $t$</p>
-  <p> $P_{18-20}^{t} =$ población entre 18 20 años en el año $t$</p>
+  $PCINE2_{18-20}^{t} =$ población entre 18 y 20 años que ha completado al menos la primera etapa de 
+  enseñanza secundaria (CINE 2) en el año $t$
+
+  $P_{18-20}^{t} =$ población entre 18 20 años en el año $t$
 
 
 
-  <p>$$PPCINE3^{t} = \frac{PCINE3_{20-22}^{t}}{P_{20-22}^{t}} \cdot 100$$</p>
+  $$PPCINE3^{t} = \frac{PCINE3_{20-22}^{t}}{P_{20-22}^{t}} \cdot 100$$</p>
 
-  <p>donde:</p>
+  donde:
 
-  <p> $PCINE3_{20-22}^{t} =$ población entre 20 y 22 años que ha completado al menos la segunda etapa 
-  de enseñanza secundaria (CINE 3) en el año $t$</p>
-  <p> $P_{20-22}^{t} =$ población entre 20 y 22 años en el año $t$</p>
+  $PCINE3_{20-22}^{t} =$ población entre 20 y 22 años que ha completado al menos la segunda etapa 
+  de enseñanza secundaria (CINE 3) en el año $t$
 
-  <p>teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética 
-  de los cuatro trimestres del año</p>
+  $P_{20-22}^{t} =$ población entre 20 y 22 años en el año $t$
+
+  teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética 
+  de los cuatro trimestres del año
 
 desagregacion: >- 
-  Nivel educativo: educación secundaria inferior y superior <br>
+  Nivel educativo: educación secundaria inferior y superior
   Edad
 
 periodicidad: FUENTE.FREQ_A
 
 
-observaciones: >-
+observaciones: |
 
-
-  <p>CINE: Clasificación Internacional Normalizada de la Educación (UNESCO - 2011). 
+  CINE: Clasificación Internacional Normalizada de la Educación (UNESCO - 2011). 
   Representa una clasificación estadística de referencia que permite ordenar los 
   programas educativos y sus certificaciones correspondientes por niveles de educación
-   y campos de estudio.</p>
-  <p>Las definiciones y los conceptos básicos de la CINE están concebidos
-   para ser válidos a escala internacional e incluir toda la gama de sistemas educativos. 
+  y campos de estudio.
+
+  Las definiciones y los conceptos básicos de la CINE están concebidos
+  para ser válidos a escala internacional e incluir toda la gama de sistemas educativos. 
   Su elaboración es el resultado de un acuerdo internacional adoptado formalmente por 
-  la Conferencia General de los Estados Miembros de la UNESCO.</p>
+  la Conferencia General de los Estados Miembros de la UNESCO.
 
 texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
-  <p>El indicador se menciona explícitamente en el texto de la meta 4.1: “garantizar que todos los niños 
+justificacion_global: |
+  El indicador se menciona explícitamente en el texto de la meta 4.1: “garantizar que todos los niños 
   y niñas terminen […] la enseñanza primaria y secundaria”. Una tasa de finalización del 100% o cercana 
   a ella indica que todos o la mayoría de los niños y adolescentes han completado un nivel de educación 
   cuando tienen entre 3 y 5 años más que la edad oficial de ingreso al último grado de ese nivel de
    educación. Una tasa de finalización baja indica un ingreso bajo o tardío a un nivel de educación
    determinado, un alto índice de abandono, un alto índice de repetición, finalización tardía o 
-  una combinación de estos factores.</p>
+  una combinación de estos factores.
 
-  <p>La tasa de finalización puede utilizarse como indicador independiente o en combinación con el indicador 
+  La tasa de finalización puede utilizarse como indicador independiente o en combinación con el indicador 
   4.1.1 de los ODS (proporción de niños y jóvenes (a) en segundo o tercer grado; (b) al final de la educación 
   primaria; y (c) al final de la educación secundaria inferior que alcanzan al menos un nivel mínimo de 
   competencia en (i) lectura y (ii) matemáticas. La combinación de la tasa de finalización con el 
   indicador 4.1.1 proporciona información sobre el porcentaje de niños o jóvenes de una cohorte que alcanzan 
   un nivel mínimo de competencia, y no solo sobre el porcentaje de niños en la escuela que alcanzan la
-   competencia mínima.</p>
+   competencia mínima
 
 dato_global: >-
 

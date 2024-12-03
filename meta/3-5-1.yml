@@ -9,21 +9,22 @@ meta_global: meta_largo.3-5-titulo
 
 
 definicion: >-
-
   Número de admisiones a tratamiento ambulatorio por abuso o dependencia de sustancias adictivas 
   en un centro de tratamiento por primera vez en un año determinado por cada 100.000 habitantes
 
 formula: |
 
+  $$TAT_{sustancias\, adictivas}^{t} = \frac{AT_{sustancias\, adictivas}^{t}}{P^{t}} \cdot 100.000$$
 
-  <p>$$TAT_{sustancias\, adictivas}^{t} = \frac{AT_{sustancias\, adictivas}^{t}}{P^{t}} \cdot 100.000$$  </p>
-  <p>donde: </p>
-  <p>$AT_{sustancias\, adictivas}^{t} =$ número de admisiones a tratamiento ambulatorio por abuso o dependencia de sustancias adictivas en un centro de tratamiento por primera vez en el año $t$</p>
-  <p>$P^{t} =$ población a 1 de julio del año $t$</p>
+  donde:
+  $AT_{sustancias\, adictivas}^{t} =$ número de admisiones a tratamiento ambulatorio por abuso o dependencia de sustancias adictivas en un centro de tratamiento por primera vez en el año $t$
+
+  $P^{t} =$ población a 1 de julio del año $t$
 
 
-desagregacion: >- 
-  Sustancias adictivas: drogas ilegales, alcohol<br>
+desagregacion: | 
+  Sustancias adictivas: drogas ilegales, alcohol
+
   Sexo 
 
 periodicidad: FUENTE.FREQ_A
@@ -31,13 +32,15 @@ periodicidad: FUENTE.FREQ_A
 
 observaciones: |
 
-  Se puede producir cierta sobrestimación del indicador a nivel estatal, dado que una misma persona
-   ha podido ser notificada en dos o más comunidades diferentes y no es posible su identificación
-   por motivos de confidencialidad.<br>
+  Se puede producir cierta sobrestimación del indicador a nivel estatal, dado que una misma 
+  persona ha podido ser notificada en dos o más comunidades diferentes y no es posible su 
+  identificación por motivos de confidencialidad.
 
   Tratamiento: cualquier intervención realizada por profesionales cualificados para eliminar, 
-  reducir o controlar el consumo de drogas.<br>
-  Ambulatorio: la persona no pernocta en el centro. Este criterio no se aplica a los centros penitenciarios.<br>
+  reducir o controlar el consumo de drogas.
+
+  Ambulatorio: la persona no pernocta en el centro. Este criterio no se aplica a los centros penitenciarios.
+
   Drogas ilegales: no se consideran drogas ilegales el alcohol y la nicotina (tabaco).
 
 texto_oceca: FUENTE.oceca
@@ -45,33 +48,35 @@ texto_oceca: FUENTE.oceca
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
+justificacion_global: |
 
-  <p>Este indicador de Naciones Unidas mide la cobertura de las intervenciones de tratamiento para los trastornos por consumo 
+  Este indicador de Naciones Unidas mide la cobertura de las intervenciones de tratamiento para los trastornos por consumo 
   de sustancias y se define como el número de personas que recibieron tratamiento en un año 
   dividido por el número total de personas con trastornos por consumo de sustancias en el mismo año. 
-  Este indicador se desglosa en dos grandes grupos de sustancias psicoactivas: (1) drogas, (2) alcohol y otras sustancias psicoactivas.</p>
+  Este indicador se desglosa en dos grandes grupos de sustancias psicoactivas: (1) drogas, (2) alcohol y otras sustancias psicoactivas.
 
-  <p>Según datos de la Oficina de las Naciones Unidas contra la Droga y el Delito (ONUDD) y la Organización Mundial de la Salud (OMS), 
+  Según datos de la Oficina de las Naciones Unidas contra la Droga y el Delito (ONUDD) y la Organización Mundial de la Salud (OMS), 
    alrededor de 296 millones de personas de entre 15 y 64 años en todo el mundo consumieron una droga ilegal al menos una vez en 2021, 
   alrededor de 2.300 millones de personas beben alcohol en la actualidad, unos 35 millones de personas sufren trastornos por consumo 
-  de drogas y 289 millones por consumo de alcohol.</p>
+  de drogas y 289 millones por consumo de alcohol.
 
-  <p>Los trastornos por consumo de sustancias son afecciones de salud graves que representan una carga significativa para 
+  Los trastornos por consumo de sustancias son afecciones de salud graves que representan una carga significativa para 
   las personas afectadas, sus familias y comunidades. Los trastornos por consumo de sustancias no tratados generan costos sustanciales
   para la sociedad, incluida la pérdida de productividad, el aumento del gasto en atención médica y los costos relacionados con 
-  la justicia penal, el bienestar social y otras consecuencias sociales. El fortalecimiento de los servicios de tratamiento 
+  la justicia penal, el bienestar social y otras consecuencias sociales. 
+
+  El fortalecimiento de los servicios de tratamiento 
   implica  proporcionar acceso a un conjunto integral de intervenciones basadas en evidencia (establecidas en las normas y 
   directrices internacionales) que deberían estar disponibles para todos los grupos de población que las necesiten. 
   El indicador indicará en qué medida se dispone de una variedad de intervenciones basadas en evidencia para el tratamiento
-  de los trastornos por consumo de sustancias y la población necesitada tiene acceso a ellas a nivel nacional, regional y mundial.</p>
+  de los trastornos por consumo de sustancias y la población necesitada tiene acceso a ellas a nivel nacional, regional y mundial.
 
-  <p>Aunque existe un tratamiento eficaz, solo una pequeña cantidad de personas con trastornos por consumo de sustancias
+  Aunque existe un tratamiento eficaz, solo una pequeña cantidad de personas con trastornos por consumo de sustancias
    lo recibe. Por ejemplo, se estima que, a nivel mundial, una de cada siete personas con trastornos por consumo de drogas
   tiene acceso a servicios de tratamiento de drogas o se le proporcionan (Informe mundial sobre drogas 2019). Los datos del 
   ATLAS de la OMS sobre el uso de sustancias mostraron que, en 2014, solo el 11,9 % (de los 103 países que respondieron) informó 
   de una cobertura alta (40 % o más) para la dependencia del alcohol. El indicador 3.5.1 de los ODS es crucial para medir el progreso
-  hacia el fortalecimiento del tratamiento del abuso de sustancias en todo el mundo, tal como se formula en la Meta 3.5.</p>
+  hacia el fortalecimiento del tratamiento del abuso de sustancias en todo el mundo, tal como se formula en la Meta 3.5.
 
 
 dato_global: >-

@@ -13,20 +13,23 @@ definicion: >-
 
 formula: |
 
-  <p>$$TM_{\text{accidentes tráfico}}^{t} = \frac{D_{\text{accidentes tráfico}}^{t}}{P^{t}} \cdot 100.000$$ </p>
-  <p>donde: </p>
-  <p>$D_{\text{accidentes tráfico}}^{t} =$ defunciones atribuidas a accidentes de tráfico (lista extensa de códigos de la CIE-10, que se puede consultar en la metodología de la Estadística de defunciones según la causa de muerte) en el año $t$ </p>
-  <p>$P^{t} =$ población a 1 de julio del año $t$</p>
+  $$TM_{\text{accidentes tráfico}}^{t} = \frac{D_{\text{accidentes tráfico}}^{t}}{P^{t}} \cdot 100.000$$
 
-desagregacion: >- 
-  Sexo <br>
+  donde:
+  $D_{\text{accidentes tráfico}}^{t} =$ defunciones atribuidas a accidentes de tráfico (lista extensa de códigos de la CIE-10, que se puede consultar en la metodología de la Estadística de defunciones según la causa de muerte) en el año $t$
+
+  $P^{t} =$ población a 1 de julio del año $t$
+
+desagregacion: |
+  Sexo
+
   Territorio histórico
 
 
 periodicidad: FUENTE.FREQ_A
 
 
-observaciones: >-
+observaciones: |
 
   A partir de 2016 se incluyen los accidentes de tráfico de vehículos sin motor, los accidentes de transporte 
   no especificados como debidos o no a tráfico y las víctimas de accidente de tráfico en las que en el momento 
@@ -37,9 +40,9 @@ texto_oceca: FUENTE.oceca
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
-  <p>Las lesiones causadas por el tránsito siguen siendo un importante problema de salud pública, en particular 
-  en los países de ingresos bajos y medios.</p>
+justificacion_global: |
+  Las lesiones causadas por el tránsito siguen siendo un importante problema de salud pública, en particular 
+  en los países de ingresos bajos y medios.
 
 dato_global: >-
 

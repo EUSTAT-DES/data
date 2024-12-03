@@ -13,15 +13,16 @@ definicion: >-
 
 formula: |
 
-  <p>$$PPFD_{15+}^{t} = \frac{PFD_{15+}^{t}}{P_{15+}^{t}} \cdot 100$$</p>
+  $$PPFD_{15+}^{t} = \frac{PFD_{15+}^{t}}{P_{15+}^{t}} \cdot 100$$
 
-  <p>donde: </p>
+  donde:
 
-  <p> $PFD_{15+}^{t} =$ población de 15 y más años que fuma a diario en el año $t$</p>
-  <p>$P_{15y+}^{t} =$ población de 15 y más años en el año $t$</p>
+  $PFD_{15+}^{t} =$ población de 15 y más años que fuma a diario en el año $t$
+  $P_{15y+}^{t} =$ población de 15 y más años en el año $t$
 
-desagregacion: >- 
-  Sexo <br>
+desagregacion: | 
+  Sexo
+
   Territorio histórico
 
 periodicidad: FUENTE.FREQ_A5
@@ -33,27 +34,27 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-justificacion_global: >-
+justificacion_global: |
 
-  <p>El indicador de Naciones Unidas se define como el porcentaje de la población de 15 años o más que 
-  actualmente consume algún producto de tabaco (tabaco fumado y/o sin humo) de manera diaria o no diaria.</p>
+  El indicador de Naciones Unidas se define como el porcentaje de la población de 15 años o más que 
+  actualmente consume algún producto de tabaco (tabaco fumado y/o sin humo) de manera diaria o no diaria.
 
-  <p>El consumo de tabaco es una de las principales causas de enfermedad y muerte por enfermedades no transmisibles (ENT). 
+  El consumo de tabaco es una de las principales causas de enfermedad y muerte por enfermedades no transmisibles (ENT). 
   No se ha demostrado que el consumo de tabaco o la exposición al humo de tabaco ajeno sean seguros. Todos los consumidores
    diarios y no diarios de tabaco corren el riesgo de sufrir diversos problemas de salud a lo largo de la vida, 
-  incluidas las NCD.</p>
+  incluidas las ENT.
 
-  <p>Reducir la prevalencia del consumo actual de tabaco contribuirá en gran medida a reducir la mortalidad prematura por 
-  ENT (meta 3.4). </p>
+  Reducir la prevalencia del consumo actual de tabaco contribuirá en gran medida a reducir la mortalidad prematura por 
+  ENT (meta 3.4).
 
-  <p>El seguimiento sistemático y regular de este indicador es necesario para permitir un seguimiento y 
+  El seguimiento sistemático y regular de este indicador es necesario para permitir un seguimiento y 
   una evaluación precisos del impacto de la aplicación del Convenio Marco de la OMS para el Control del Tabaco
    (CMCT de la OMS) o de las políticas de control del tabaco en los países que aún no son Partes en el CMCT de la OMS, 
-  a lo largo del tiempo.</p>
+  a lo largo del tiempo.
 
-  <p> Los niveles de prevalencia del consumo de tabaco son un indicador adecuado de la aplicación 
+  Los niveles de prevalencia del consumo de tabaco son un indicador adecuado de la aplicación 
   de la meta 3.a de los ODS “Fortalecer la aplicación del Convenio Marco de la Organización Mundial de la Salud para el 
-  Control del Tabaco en todos los países, según proceda”.</p>
+  Control del Tabaco en todos los países, según proceda”.
 
 
 dato_global: >-

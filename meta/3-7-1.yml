@@ -15,12 +15,16 @@ definicion: >-
 
 formula: |
 
-  <p>$$PM_{18-49,anticonceptivos\, modernos}^{t} = \frac{M_{18-49,anticonceptivos\, modernos}^{t}}{M_{18-49,anticonceptivos}^{t}+M_{18-49,insatisfecha}^{t}} \cdot 100$$ </p>
-  <p>donde: </p>
-  <p>$M_{18-49,anticonceptivos\, modernos}^{t} =$ mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que utilizan métodos anticonceptivos modernos en el año $t$ </p>
-  <p>$M_{18-49,anticonceptivos}^{t} =$ mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que utilizan 
-  métodos anticonceptivos en el año $t$</p>
-  <p>$M_{18-49,insatisfecha}^{t} =$ mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que tienen una necesidad insatisfecha de planificación familiar en el año $t$</p>
+  $$PM_{18-49,anticonceptivos\, modernos}^{t} = \frac{M_{18-49,anticonceptivos\, modernos}^{t}}{M_{18-49,anticonceptivos}^{t}+M_{18-49,insatisfecha}^{t}} \cdot 100$$
+
+  donde:
+
+  $M_{18-49,anticonceptivos\, modernos}^{t} =$ mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que utilizan métodos anticonceptivos modernos en el año $t$
+
+  $M_{18-49,anticonceptivos}^{t} =$ mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que utilizan 
+  métodos anticonceptivos en el año $t$
+
+  $M_{18-49,insatisfecha}^{t} =$ mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que tienen una necesidad insatisfecha de planificación familiar en el año $t$
 
 desagregacion: >- 
 
@@ -35,28 +39,28 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-justificacion_global: >-
+justificacion_global: |
 
-  <p>El indicador mide el porcentaje de mujeres en edad reproductiva (15-49 años) que actualmente 
+  El indicador mide el porcentaje de mujeres en edad reproductiva (15-49 años) que actualmente 
   utilizan un 
   método moderno de anticoncepción entre aquellas que desean no tener hijos (adicionales) o 
   posponer el próximo embarazo. El indicador también se conoce como la demanda de 
-  planificación familiar satisfecha con métodos modernos.</p>
+  planificación familiar satisfecha con métodos modernos.
 
-  <p>La proporción de la demanda de planificación familiar satisfecha con métodos modernos es útil 
+  La proporción de la demanda de planificación familiar satisfecha con métodos modernos es útil 
   para evaluar los niveles generales de cobertura de los programas y servicios de planificación familiar. 
   El acceso a un medio eficaz para prevenir el embarazo y su uso ayudan a que las mujeres y sus parejas 
   ejerzan su derecho a decidir libre y responsablemente el número y el espaciamiento de sus hijos y a disponer 
   de la información, la educación y los medios para hacerlo. Satisfacer la demanda de planificación familiar 
   con métodos modernos también contribuye a la salud materna e infantil al prevenir los embarazos no deseados 
-  y los embarazos con poco espaciamiento, que tienen mayor riesgo de malos resultados obstétricos.</p>
+  y los embarazos con poco espaciamiento, que tienen mayor riesgo de malos resultados obstétricos.
 
-  <p>Los niveles de demanda de planificación familiar satisfecha con métodos modernos del 75 por ciento o más se 
+  Los niveles de demanda de planificación familiar satisfecha con métodos modernos del 75 por ciento o más se 
   consideran generalmente altos, y los valores del 50 por ciento o menos se consideran generalmente como muy bajos. 
   El indicador no tiene un valor numérico global "objetivo" que se deba alcanzar para 2030. Si nos fijamos en los 
   valores más altos del indicador, en 22 países que representan regiones como Europa y América del Norte, América Latina
    y el Caribe y Asia oriental y sudoriental, más del 85 por ciento de las mujeres que quieren evitar el 
-  embarazo están usando un método anticonceptivo moderno, pero en ningún país esta estimación supera el 91 por ciento.</p>
+  embarazo están usando un método anticonceptivo moderno, pero en ningún país esta estimación supera el 91 por ciento.
 
 
 dato_global: >-
@@ -65,7 +69,7 @@ dato_global: >-
 
 
 comparabilidad: >- 
-  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta información similar.
+  El indicador disponible no cumple estrictamente con los metadatos del indicador de Naciones Unidas porque utiliza un grupo de edad diferente, pero aporta información similar.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-01.pdf">Metadata 3-7-1.pdf</a> (solo en inglés)'
 

@@ -14,18 +14,20 @@ definicion: >-
 
 formula: |
 
-  <p>$$PPN2_{competencia}^{t} = \frac{PN2_{competencia}^{t}}{P_{15}^{t}}$$</p>
+  $$PPN2_{competencia}^{t} = \frac{PN2_{competencia}^{t}}{P_{15}^{t}}$$
 
-  <p>donde:</p>
+  donde:
 
-  <p> $PN2_{competencia}^{t} =$ número de personas de 15 años que han alcanzado o superado el 
-  nivel mínimo de competencia del nivel de educación 2 en la materia o competencia en el año $t$</p>
-  <p> $P_{15}^{t} =$ población de 15 años en el año $t$</p>
+  $PN2_{competencia}^{t} =$ número de personas de 15 años que han alcanzado o superado el 
+  nivel mínimo de competencia del nivel de educación 2 en la materia o competencia en el año $t$
+
+  $P_{15}^{t} =$ población de 15 años en el año $t$
 
 
-desagregacion: >- 
-  Sexo <br>
+desagregacion: | 
   Tipo de competencia (materia): Comprensión lectora, matemáticas
+
+  Sexo 
 
 periodicidad: FUENTE.FREQ_A3
 
@@ -46,7 +48,7 @@ observaciones: |
 
   Una persona alcanza al menos el nivel 2 de competencia en lectura cuando, para un texto de extensión media, puede identificar la idea principal, entender las relaciones entre sus partes, interpretar el significado de una parte limitada del texto a través de inferencias básicas, localizar uno o más fragmentos de información atendiendo a múltiples criterios parcialmente implícitos, reflexionar sobre el propósito general o específico del texto, comparar afirmaciones y evaluar los razonamientos en que estas se apoyan estableciendo conexiones entre el texto y el conocimiento externo.
 
-  Se establecen categorías de competencia en matemáticas:
+  Se establecen estas categorías de competencia en matemáticas:
 
   - Inferior al nivel 1: puntuación inferior a 357,77
   - Nivel 1: puntuación entre 357,77 y 420,06
@@ -64,18 +66,18 @@ texto_oceca: FUENTE.oceca
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
-  <p>El indicador pretende medir el porcentaje de niños y jóvenes que han alcanzado los
+justificacion_global: |
+  El indicador pretende medir el porcentaje de niños y jóvenes que han alcanzado los
   resultados mínimos de aprendizaje en lectura y matemáticas durante o al final de las etapas 
   pertinentes de la educación. Cuanto mayor sea la cifra, mayor será la proporción de niños
-   y/o jóvenes que alcanzan al menos la competencia mínima en el dominio respectivo (lectura o matemáticas).</p>
+   y/o jóvenes que alcanzan al menos la competencia mínima en el dominio respectivo (lectura o matemáticas).
 
-  <p>Los resultados de aprendizaje de las evaluaciones transnacionales de aprendizaje son directamente 
-  comparables para todos los países que participaron en las mismas evaluaciones transnacionales de aprendizaje.</p>
+  Los resultados de aprendizaje de las evaluaciones transnacionales de aprendizaje son directamente 
+  comparables para todos los países que participaron en las mismas evaluaciones transnacionales de aprendizaje.
 
-dato_global: >-
+dato_global: |
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.1.1&seriesCode=SE_TOT_PRFL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX%20%7C%20LOWSEC%20%7C%20SKILL_READ"> Proporción de niños y jóvenes que alcanzan un nivel mínimo de competencia en lectura en la educación secundaria inferior (%) SE_TOT_PRFL</a> UNSTATS<br> 
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.1.1&seriesCode=SE_TOT_PRFL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX%20%7C%20LOWSEC%20%7C%20SKILL_READ"> Proporción de niños y jóvenes que alcanzan un nivel mínimo de competencia en lectura en la educación secundaria inferior (%) SE_TOT_PRFL</a> UNSTATS 
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.1.1&seriesCode=SE_TOT_PRFL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX%20%7C%20LOWSEC%20%7C%20SKILL_MATH"> Proporción de niños y jóvenes que alcanzan un nivel mínimo de competencia en matemáticas en la educación secundaria inferior (%) SE_TOT_PRFL</a> UNSTATS
 

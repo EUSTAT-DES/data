@@ -13,24 +13,29 @@ definicion: >-
 
 formula: |
 
-  <p>$$PPE_{grupo edad}^{t} = \frac{PE_{grupo edad}^{t}}{P_{grupo edad}^{t}} \cdot 100$$</p>
+  $$PPE_{grupo edad}^{t} = \frac{PE_{grupo edad}^{t}}{P_{grupo edad}^{t}} \cdot 100$$
 
-  <p>donde:</p> 
-  <p>$PE_{grupo edad}^{t} =$ población de un grupo de edad que ha realizado estudios o formación (reglada o no reglada) en el año $t$</p> 
-  <p>$P_{grupo edad}^{t} =$ población de un grupo de edad en el año $t$</p>
+  donde:
+
+  $PE_{grupo edad}^{t} =$ población de un grupo de edad que ha realizado estudios o formación (reglada o no reglada) en el año $t$
+
+  $P_{grupo edad}^{t} =$ población de un grupo de edad en el año $t$
 
 
-desagregacion: >- 
-  Edad: 15-24, 15-64, 25-64, 18-64 <br>
-  Sexo <br>
+desagregacion: | 
+  Edad: 15-24, 15-64, 25-64, 18-64
+
+  Sexo
+
   Territorio histórico
 
 periodicidad: FUENTE.FREQ_A
 
 
-observaciones: >-
+observaciones: | 
   Los datos que provienen de la Encuesta de Población en Relación con la Actividad son datos anuales por grupo de edad, y
-  se pregunta por las actividades realizadas en las últimas 4 semanas.  
+  se pregunta por las actividades realizadas en las últimas 4 semanas. 
+ 
   Los datos que provienen de la Encuesta sobre la participación de la población adulta en las actividades de aprendizaje se refieren al
   grupo de edad 18-64 y se pregunta por las actividades realizadas en los últimos 12 meses.
 
@@ -39,14 +44,14 @@ texto_oceca: FUENTE.oceca
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
-  <p>El indicador de Naciones Unidas define el indicador como el Porcentaje de jóvenes y adultos en un rango 
+justificacion_global: |
+  El indicador de Naciones Unidas define el indicador como el Porcentaje de jóvenes y adultos en un rango 
   de edad determinado (15-24 años, 25-54 años, 55-64 años, 15-64 años) que participaron en educación y capacitación formal 
-  o no formal en los 12 meses anteriores.</p>
+  o no formal en los 12 meses anteriores.
 
-  <p>El indicador mide el nivel de participación de jóvenes y adultos en la educación y la formación de todo tipo. 
+  El indicador mide el nivel de participación de jóvenes y adultos en la educación y la formación de todo tipo. 
   Un valor alto indica que una gran proporción de la población del grupo de edad pertinente participa en la educación 
-  y la formación formales y no formales</p>
+  y la formación formales y no formales.
 
 dato_global: >-
 

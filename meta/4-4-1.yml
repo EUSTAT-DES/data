@@ -8,7 +8,7 @@ meta_global: meta_largo.4-4-titulo
 #  indicador_onu_global: indicador_largo.4-4-1-titulo
 
 
-definicion: >-
+definicion: |
   Proporción de personas, por grupo de edad, que han utilizado alguna de las siguientes habilidades informáticas: 
   descargar o instalar software o apps; cambiar la configuración del software, la app o del dispositivo; copiar 
   o mover ficheros entre carpetas, dispositivos o en la nube; crear presentaciones que integren texto, 
@@ -16,16 +16,20 @@ definicion: >-
 
 formula: |
 
-  <p>$$PPHAB_{grupo\, edad}^{t} = \frac{PHAB_{grupo\, edad}^{t}}{P_{grupo\, edad}^{t}} \cdot 100$$</p>
+  $$PPHAB_{grupo\, edad}^{t} = \frac{PHAB_{grupo\, edad}^{t}}{P_{grupo\, edad}^{t}} \cdot 100$$
 
-  <p>donde:</p> 
-  <p>$PHAB_{grupo\, edad}^{t} =$ población de un grupo de edad que en los últimos 12 meses ha utilizado alguna habilidad informática en el año $t$</p> 
-  <p>$P_{grupo\, edad}^{t} =$ población de un grupo de edad en el año $t$</p>
+  donde:
+
+  $PHAB_{grupo\, edad}^{t} =$ población de un grupo de edad que en los últimos 12 meses ha utilizado alguna habilidad informática en el año $t$
+
+  $P_{grupo\, edad}^{t} =$ población de un grupo de edad en el año $t$
 
 
-desagregacion: >- 
-  Edad: 16-24, 25-74 <br>
-  Sexo <br>
+desagregacion: | 
+  Edad: 16-24, 25-74
+
+  Sexo
+
   Territorio histórico
 
 periodicidad: FUENTE.FREQ_A
@@ -38,19 +42,18 @@ texto_oceca: FUENTE.oceca
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
-  <p>Las competencias en materia de TIC determinan el uso eficaz de las tecnologías de la información y la 
+justificacion_global: |
+  Las competencias en materia de TIC determinan el uso eficaz de las tecnologías de la información y la 
   comunicación, por lo que este indicador puede ayudar a establecer el vínculo entre el uso de las TIC y su impacto. 
   La falta de dichas competencias sigue siendo una de las principales barreras que impiden a las personas aprovechar 
-  al máximo el potencial de las tecnologías de la información y la comunicación. </p>
+  al máximo el potencial de las tecnologías de la información y la comunicación.
 
-  <p>Estos datos pueden utilizarse para fundamentar políticas específicas destinadas a mejorar las competencias 
+  Estos datos pueden utilizarse para fundamentar políticas específicas destinadas a mejorar las competencias 
   en TIC y, de este modo, contribuir a una sociedad de la información inclusiva. Este es también un indicador 
   fundamental de la Lista básica de indicadores de la Alianza para la medición de las TIC para el 
-  desarrollo, que ha sido aprobada por la Comisión de Estadística de las Naciones Unidas (en 2020).</p>
+  desarrollo, que ha sido aprobada por la Comisión de Estadística de las Naciones Unidas (en 2020).
 
-dato_global: >-
-
+dato_global:
 
 comparabilidad: >- 
   El indicador disponible cumple con los metadatos de Naciones Unidas.

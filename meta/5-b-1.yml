@@ -13,15 +13,17 @@ definicion: >-
 
 formula: |
 
-  <p>$$PPMOV_{16-74}^{t} = \frac{PMOV_{16-74}^{t}}{P_{16-74}^{t}} \cdot 100$$  </p>
+  $$PPMOV_{16-74}^{t} = \frac{PMOV_{16-74}^{t}}{P_{16-74}^{t}} \cdot 100$$
 
-  <p>donde: </p>
+  donde:
 
-  <p>$PMOV_{16-74}^{t} =$ población entre 16 y 74 años que en los últimos tres meses ha utilizado el móvil en el año $t$  </p>
-  <p>$P_{16-74}^{t} =$ población entre 16 y 74 años en el año $t$</p>
+  $PMOV_{16-74}^{t} =$ población entre 16 y 74 años que en los últimos tres meses ha utilizado el móvil en el año $t$
 
-desagregacion: >-
-  Sexo <br>
+  $P_{16-74}^{t} =$ población entre 16 y 74 años en el año $t$
+
+desagregacion: |
+  Sexo
+
   Territorio histórico
 
 
@@ -34,21 +36,21 @@ periodicidad: FUENTE.FREQ_A
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
+justificacion_global: |
 
-  <p>Las redes de telefonía móvil se han extendido rápidamente en la última década y el
+  Las redes de telefonía móvil se han extendido rápidamente en la última década y el
    número de abonados a teléfonos móviles es casi igual al número de personas que viven en la 
   Tierra. Sin embargo, no todas las personas utilizan o poseen un teléfono móvil. La posesión de 
   un teléfono móvil, en particular, es importante para el seguimiento de la igualdad 
   de género, ya que el teléfono móvil es un dispositivo personal que, si se posee y no solo 
   se comparte, proporciona a las mujeres un cierto grado de independencia y autonomía, 
   incluso para fines profesionales. Varios estudios han destacado el vínculo entre la posesión 
-  de un teléfono móvil y el empoderamiento y el crecimiento de la productividad. </p>
+  de un teléfono móvil y el empoderamiento y el crecimiento de la productividad.
 
-  <p>Los datos existentes sobre la proporción de mujeres que poseen un teléfono móvil 
+  Los datos existentes sobre la proporción de mujeres que poseen un teléfono móvil 
   sugieren que menos mujeres que hombres poseen un teléfono móvil. Este indicador destaca la 
   importancia de la posesión de un teléfono móvil para el seguimiento y mejora de la igualdad de género, 
-  y el seguimiento ayudará a diseñar políticas específicas para superar la brecha de género. </p>
+  y el seguimiento ayudará a diseñar políticas específicas para superar la brecha de género.
 
 
 dato_global: >-
