@@ -16,32 +16,32 @@ definicion: >-
 
 formula: |
 
-  <p>$$MJML^{t} = \frac{NSI_{Área}^{t}}{NSI_{Área}^{t} + NNO_{Área}^{t}} \cdot 100$$</p>
+  $$MJML^{t} = \frac{NSI_{Área}^{t}}{NSI_{Área}^{t} + NNO_{Área}^{t}} \cdot 100$$
 
   donde:
 
-  <p>$NSI_{Área}^{t} =$ número de respuestas 'SÍ' del a las cuestiones del área correspondiente 
-  del cuestionario específico diseñado para el indicador 5.1.1 por Naciones Unidas en el año $t$ </p>
+  $NSI_{Área}^{t} =$ número de respuestas 'SÍ' del a las cuestiones del área correspondiente 
+  del cuestionario específico diseñado para el indicador 5.1.1 por Naciones Unidas en el año $t$
 
-  <p>$NNO_{Área}^{t} =$ número de respuestas 'NO' del a las cuestiones del área correspondiente 
-  del cuestionario específico diseñado para el indicador 5.1.1 por Naciones Unidas en el año $t$ </p>
+  $NNO_{Área}^{t} =$ número de respuestas 'NO' del a las cuestiones del área correspondiente 
+  del cuestionario específico diseñado para el indicador 5.1.1 por Naciones Unidas en el año $t$
 
-desagregacion: >-
+desagregacion: |
   Áreas: Marco legal global y vida pública, Violencia contra la mujer, Empleo y 
   subsidios económicos, Matrimonio y familia
 
-observaciones: >-
+observaciones: |
 
-  <p>Naciones Unidas estableció un cuestionario de 42 preguntas del tipo “SÍ/NO” para medir 
+  Naciones Unidas estableció un cuestionario de 42 preguntas del tipo “SÍ/NO” para medir 
   los esfuerzos de los gobiernos a la hora de establecer marcos jurídicos para 
   promover, reforzar y supervisar la igualdad de género. Este cuestionario se 
   divide en cuatro áreas trazadas en la Convención sobre la eliminación de todas 
-  las formas de discriminación contra la mujer (CEDAW) y la Plataforma de acción de Beijing:</p>
-  1. Marco legal global y vida pública (preguntas 1-12)<br>
-  2. Violencia contra la mujer (preguntas 13-21)<br>
-  3. Empleo y subsidios económicos (preguntas 22-31)<br>
-  4. Matrimonio y familia (preguntas 32-42)<br>
-  <p>Los datos se extraen de la Base de datos global de ODS de Naciones Unidas.</p>
+  las formas de discriminación contra la mujer (CEDAW) y la Plataforma de acción de Beijing:
+
+   1. Marco legal global y vida pública (preguntas 1-12)
+   2. Violencia contra la mujer (preguntas 13-21)
+   3. Empleo y subsidios económicos (preguntas 22-31)
+   4. Matrimonio y familia (preguntas 32-42)
 
 
 periodicidad: FUENTE.FREQ_A2
@@ -52,59 +52,58 @@ texto_oceca: FUENTE.oceca
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
+justificacion_global: |
 
-  <p> La igualdad y la no discriminación por motivos de sexo son principios fundamentales en 
+  La igualdad y la no discriminación por motivos de sexo son principios fundamentales en 
   el marco jurídico y normativo internacional, incluida la Convención sobre la eliminación de 
   todas las formas de discriminación contra la mujer (CEDAW), que cuenta con 189 Estados 
   partes, y la Plataforma de Acción de Beijing. Este marco establece los compromisos de 
   los Estados para eliminar la discriminación contra la mujer y promover la igualdad 
-  de género, incluyendo el ámbito de los marcos jurídicos.</p>
+  de género, incluyendo el ámbito de los marcos jurídicos.
 
-  <p> En la Plataforma de Acción de Beijing, los Estados se comprometieron a revocar 
+  En la Plataforma de Acción de Beijing, los Estados se comprometieron a revocar 
   todas las leyes restantes que discriminan por motivos de sexo. El examen y evaluación 
   quinquenal de la Plataforma de Acción de Beijing (Beijing +5) estableció el año 2005 como 
   fecha límite para la derogación de las leyes que discriminan a la mujer. Esta fecha 
   límite ha llegado y pasado. Si bien se ha avanzado en la reforma de las leyes para 
   promover la igualdad de género, la discriminación contra la mujer en la ley continúa 
   en muchos países. Incluso donde se han realizado reformas legales, persisten 
-  lagunas en la aplicación.</p>
+  lagunas en la aplicación.
 
-  <p> Eliminar las leyes discriminatorias y establecer marcos jurídicos que promuevan 
+  Eliminar las leyes discriminatorias y establecer marcos jurídicos que promuevan 
   la igualdad de género son requisitos previos para poner fin a la discriminación contra 
   la mujer y lograr la igualdad de género (Objetivo 5, Meta 5.1). El indicador 5.1.1 será 
   crucial para acelerar el progreso en la implementación del ODS 5 y todos los 
-  demás compromisos relacionados con el género en la Agenda 2030 para el Desarrollo Sostenible.</p>
+  demás compromisos relacionados con el género en la Agenda 2030 para el Desarrollo Sostenible.
 
+  El indicador 5.1.1 mide los esfuerzos del Gobierno para establecer marcos jurídicos que 
+  promuevan, apliquen y vigilen la igualdad de género.
 
-  <p> El indicador 5.1.1 mide los esfuerzos del Gobierno para establecer marcos jurídicos que 
-  promuevan, apliquen y vigilen la igualdad de género.</p>
-
-  <p> La evaluación es realizada por homólogos nacionales, incluidas las Oficinas Nacionales 
+  La evaluación es realizada por homólogos nacionales, incluidas las Oficinas Nacionales 
   de Estadística y/o los Mecanismos Nacionales de la Mujer (MNM), y profesionales 
   del derecho/investigadores sobre igualdad de género, utilizando un cuestionario que consta 
-  de 42 preguntas de respuesta sí/no en cuatro áreas del derecho:</p> 
+  de 42 preguntas de respuesta sí/no en cuatro áreas del derecho:
 
-  (i) marcos jurídicos generales y vida pública<br>  
-  (ii) violencia contra la mujer<br>  
-  (iii) empleo y beneficios económicos<br>  
-  (iv) matrimonio y familia<br>  
+   (i) marcos jurídicos generales y vida pública<br>  
+   (ii) violencia contra la mujer<br>  
+   (iii) empleo y beneficios económicos<br>  
+   (iv) matrimonio y familia<br>  
 
-  <p> Las áreas del derecho y las preguntas se extraen del marco jurídico y de políticas 
+  Las áreas del derecho y las preguntas se extraen del marco jurídico y de políticas 
   internacionales sobre igualdad de género, en particular la Convención sobre la 
   Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), que 
   cuenta con 189 Estados partes, y la Plataforma de Acción de Beijing. 
 
-  <p> Las principales fuentes de información pertinentes para el indicador 5.1.1 son la 
-  legislación y las políticas y planes de acción.</p>
+  Las principales fuentes de información pertinentes para el indicador 5.1.1 son la 
+  legislación y las políticas y planes de acción.
 
-dato_global: >- 
+dato_global: |- 
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.1.1&seriesCode=SG_LGL_GENEQLFP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Marcos jurídicos que promueven, hacen cumplir y supervisan la igualdad de género (porcentaje de logro, 0 - 100) -- Área 1: marcos jurídicos generales y vida pública SG_LGL_GENEQLFP</a> UNSTATS<br>
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.1.1&seriesCode=SG_LGL_GENEQLFP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Marcos jurídicos que promueven, hacen cumplir y supervisan la igualdad de género (porcentaje de logro, 0 - 100) -- Área 1: marcos jurídicos generales y vida pública SG_LGL_GENEQLFP</a> UNSTATS
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.1.1&seriesCode=SG_LGL_GENEQVAW&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Marcos jurídicos que promueven, hacen cumplir y monitorean la igualdad de género (porcentaje de logro, 0 - 100) -- Área 2: violencia contra las mujeres SG_LGL_GENEQVAW</a> UNSTATS<br>
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.1.1&seriesCode=SG_LGL_GENEQVAW&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Marcos jurídicos que promueven, hacen cumplir y monitorean la igualdad de género (porcentaje de logro, 0 - 100) -- Área 2: violencia contra las mujeres SG_LGL_GENEQVAW</a> UNSTATS
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.1.1&seriesCode=SG_LGL_SG_LGL_GENEQEMP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Marcos jurídicos que promueven, hacen cumplir y monitorean la igualdad de género (porcentaje de logro, 0 - 100) -- Área 3: empleo y beneficios económicos SG_LGL_GENEQEMP</a> UNSTATS<br>
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.1.1&seriesCode=SG_LGL_SG_LGL_GENEQEMP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Marcos jurídicos que promueven, hacen cumplir y monitorean la igualdad de género (porcentaje de logro, 0 - 100) -- Área 3: empleo y beneficios económicos SG_LGL_GENEQEMP</a> UNSTATS
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.1.1&seriesCode=SG_LGL_GENEQMAR&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Marcos jurídicos que promueven, hacen cumplir y monitorean la igualdad de género (porcentaje de logro, 0 - 100) -- Área 4: matrimonio y familia SG_LGL_GENEQMAR</a> UNSTATS
 

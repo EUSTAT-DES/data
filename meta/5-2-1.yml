@@ -13,12 +13,13 @@ definicion: >-
   o anterior pareja sobre el total de mujeres
 
 formula: |
-  <p>$$TVPAAP^{t} = \frac{VAAP^{t}}{P_{mujeres}^{t}} \cdot 100$$ </p>
+  $$TVPAAP^{t} = \frac{VAAP^{t}}{P_{mujeres}^{t}} \cdot 100$$
 
-  <p>donde: </p>
+  donde:
 
-  <p>$VAAP^{t} =$ número de casos registrados de violencia contra las mujeres a manos de su actual o anterior pareja en el año $t$ </p>
-  <p>$P_{mujeres}^{t} =$ mujeres a 1 de julio del año $t$</p>
+  $VAAP^{t} =$ número de casos registrados de violencia contra las mujeres a manos de su actual o anterior pareja en el año $t$
+
+  $P_{mujeres}^{t} =$ mujeres a 1 de julio del año $t$
 
 desagregacion: >-
   Territorio histórico/Comarca/Municipio
@@ -29,25 +30,25 @@ periodicidad: FUENTE.FREQ_A
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
-  <p>La violencia de pareja es una de las formas más comunes de violencia que enfrentan 
+justificacion_global: |
+  La violencia de pareja es una de las formas más comunes de violencia que enfrentan 
   las mujeres en todo el mundo. Dadas las normas sociales predominantes que sancionan 
   el dominio masculino sobre las mujeres, la violencia masculina hacia sus 
   parejas íntimas femeninas a menudo se percibe como un elemento ordinario/normal 
-  de las relaciones en el contexto del matrimonio u otras uniones/relaciones. </p>
+  de las relaciones en el contexto del matrimonio u otras uniones/relaciones.
 
 
-  <p>La violencia contra las mujeres es una manifestación extrema de la desigualdad y 
-  la discriminación de género.</p>
+  La violencia contra las mujeres es una manifestación extrema de la desigualdad y 
+  la discriminación de género.
 
-  <p>Se requieren datos de prevalencia para medir la magnitud del problema; comprender las diversas 
+  Se requieren datos de prevalencia para medir la magnitud del problema; comprender las diversas 
   formas de violencia y sus consecuencias; identificar grupos de alto riesgo y explorar 
   las barreras para buscar ayuda para garantizar que se brinden las respuestas apropiadas. 
   Estos datos son el punto de partida para informar leyes, políticas y desarrollar 
   respuestas efectivas y programas de prevención. También permiten a los 
   países monitorear los cambios a lo largo del tiempo y orientar de manera óptima 
   los recursos para maximizar la efectividad de las intervenciones 
-  (especialmente en entornos con recursos limitados).</p>
+  (especialmente en entornos con recursos limitados).
 
 
 dato_global: >-

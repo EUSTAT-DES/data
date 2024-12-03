@@ -15,65 +15,65 @@ definicion: >-
 
 formula: |
 
-  <p><b>Proporción de titulares de explotaciones agrícolas respecto al total de personas trabajadoras 
-  en la agricultura</b> </p>
+  <b>Proporción de titulares de explotaciones agrícolas respecto al total de personas trabajadoras 
+  en la agricultura</b>
 
-  <p>$$PPOA_{titulares}^{t} = \frac{TEA^{t}}{POA^{t}} \cdot 100$$</p>
+  $$PPOA_{titulares}^{t} = \frac{TEA^{t}}{POA^{t}} \cdot 100$$
 
-  <p>donde: </p>
+  donde:
 
-  <p>$TEA^{t} =$ personas titulares de explotaciones agrícolas en el año $t$</p>
+  $TEA^{t} =$ personas titulares de explotaciones agrícolas en el año $t$
 
-  <p>$POA^{t} =$ personas ocupadas en la agricultura en el año $t$</p>
-
-
-  <p><b>Proporción de mujeres titulares de explotaciones agrícolas respecto al 
-  total de titulares de explotaciones agrícolas desglosada por tipo de tenencia</b> </p>
-
-  <p>$$PTEA_{mujeres}^{t} = \frac{TEA_{mujeres}^{t}}{TEA^{t}} \cdot 100$$</p>
-
-  <p>donde: </p>
-
-  <p>$TEA_{mujeres}^{t} =$ mujeres titulares de explotaciones agrícolas en el año $t$ por 
-  tipo de tenencia</p>
-
-  <p>$TEA^{t} =$ personas titulares de explotaciones agrícolas en el año $t$ por tipo de 
-  tenencia</p>
+  $POA^{t} =$ personas ocupadas en la agricultura en el año $t$
 
 
-desagregacion: >-
+  <b>Proporción de mujeres titulares de explotaciones agrícolas respecto al 
+  total de titulares de explotaciones agrícolas desglosada por tipo de tenencia</b>
 
-  Tipo de tenencia: Propiedad, arrendamiento<br>
-  Sexo<br>
+  $$PTEA_{mujeres}^{t} = \frac{TEA_{mujeres}^{t}}{TEA^{t}} \cdot 100$$
+
+  donde:
+
+  $TEA_{mujeres}^{t} =$ mujeres titulares de explotaciones agrícolas en el año $t$ por 
+  tipo de tenencia
+
+  $TEA^{t} =$ personas titulares de explotaciones agrícolas en el año $t$ por tipo de 
+  tenencia
+
+desagregacion: |
+  Tipo de tenencia: Propiedad, arrendamiento
+
+  Sexo
+
   Territorio histórico
 
 periodicidad: FUENTE.FREQ_I
 
-observaciones: >-
+observaciones: |
 
-  <p>El subindicador 5.a.1 (a) es una medida de prevalencia. Mide la prevalencia de personas 
+  El subindicador 5.a.1 (a) es una medida de prevalencia. Mide la prevalencia de personas 
   en la población agrícola con propiedad o derechos seguros sobre tierras agrícolas, 
-  desglosada por sexo.</p>
+  desglosada por sexo.
 
-  <p>El subindicador 5.a.1 (b) se centra en la paridad de género y mide en qué medida 
+  El subindicador 5.a.1 (b) se centra en la paridad de género y mide en qué medida 
   las mujeres se encuentran en desventaja en la propiedad o en los derechos seguros 
-  sobre las tierras agrícolas.</p>
+  sobre las tierras agrícolas.
 
 
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
+justificacion_global: |
 
-  <p>El indicador 5.a.1 tiene como objetivo monitorear el equilibrio de género en 
+  El indicador 5.a.1 tiene como objetivo monitorear el equilibrio de género en 
   la propiedad/derechos seguros sobre tierras agrícolas. El subindicador (a) y 
   el subindicador (b) se basan en los mismos datos y monitorean la propiedad/derechos 
-  desde dos ángulos diferentes.</p>
+  desde dos ángulos diferentes.
 
-  <p>Mientras que el subindicador (a) utiliza la población agrícola total masculina/femenina 
+  Mientras que el subindicador (a) utiliza la población agrícola total masculina/femenina 
   como población de referencia, y nos dice cuántos hombres/mujeres poseen tierras, 
   el subindicador (b) se centra en la población agrícola con propiedad de la tierra/derechos 
-  seguros, y nos dice cuántas de ellas son mujeres.</p>
+  seguros, y nos dice cuántas de ellas son mujeres.
 
 dato_global: >-
 

@@ -13,10 +13,13 @@ definicion: >-
 
 formula: |
 
-  <p>$$PPAR_{atendidos}^{t} = \frac{PAR_{atendidos}^{t}}{PAR^{t}} \cdot 100$$ </p>
-  <p>donde: </p>
-  <p>$PAR_{atendidos}^{t} =$ partos atendidos por personal sanitario especializado en el año $t$ </p>
-  <p>$PAR^{t} =$ partos en el año $t$</p>
+  $$PPAR_{atendidos}^{t} = \frac{PAR_{atendidos}^{t}}{PAR^{t}} \cdot 100$$
+
+  donde:
+
+  $PAR_{atendidos}^{t} =$ partos atendidos por personal sanitario especializado en el año $t$
+
+  $PAR^{t} =$ partos en el año $t$
 
 desagregacion: >- 
   Territorio histórico
@@ -30,19 +33,22 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-justificacion_global: >- 
-  <p>Proporción de partos atendidos por personal sanitario cualificado (generalmente médicos, enfermeras o parteras, pero puede
+justificacion_global: | 
+  Proporción de partos atendidos por personal sanitario cualificado (generalmente médicos, enfermeras o matronas, pero puede
   referirse a otros profesionales de la salud que brindan atención al parto) es la proporción de partos atendidos
-  por personal sanitario cualificado. </p>
+  por personal sanitario cualificado.
 
-  <p>Según la definición actual estos son 
-  profesionales de la salud maternal o neonatal (MNH) educados, capacitados y regulados según estándares a nivel nacional e internacional. Son competentes para:<br>
+  Según la definición actual estos son 
+  profesionales de la salud maternal o neonatal (MNH) educados, capacitados y regulados según estándares a nivel nacional e internacional. Son competentes para:
+
   - (i) proporcionar y promover la calidad basada en evidencia y derechos humanos,
-  atención socioculturalmente sensible y digna a las mujeres y recién nacidos <br>
+  atención socioculturalmente sensible y digna a las mujeres y recién nacidos
+
   - (ii) facilitar los procesos fisiológicos
-  durante el trabajo de parto y el parto para garantizar una experiencia de parto limpia y positiva <br>
+  durante el trabajo de parto y el parto para garantizar una experiencia de parto limpia y positiva
+
   - (iii) identificar y
-  atender o derivar mujeres y/o recién nacidos con complicaciones </p>
+  atender o derivar mujeres y/o recién nacidos con complicaciones
 
 
 dato_global: >-

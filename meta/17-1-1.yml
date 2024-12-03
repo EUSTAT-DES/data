@@ -23,7 +23,9 @@ formula: |
   $TC_{\text{EELL a CCAA}}^{t} =$ ingresos en transferencias corrientes de las entidades locales (derechos reconocidos netos) en la liquidación de los presupuestos consolidados de la comunidad autónoma en el año $t$ 
 
   $TK_{\text{CCAA a EELL}}^{t} =$ gastos en transferencias de capital a las entidades locales (obligaciones reconocidas netas) en la liquidación de los presupuestos consolidados de la comunidad autónoma en el año $t$ 
+
   $K_{\text{EELL a CCAA}}^{t} =$ ingresos en transferencias de capital de las entidades locales (derechos reconocidos netos) en la liquidación de los presupuestos consolidados de la comunidad autónoma en el año $t$ 
+
   $PIB^{t} =$ producto interior bruto a precios corrientes en el año $t$
 
 desagregacion:

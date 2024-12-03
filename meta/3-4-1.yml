@@ -8,49 +8,51 @@ meta_global: meta_largo.3-4-titulo
 #  indicador_onu_global: indicador_largo.3-4-1-titulo
 
 
-definicion: >-
+definicion: |
 
-  <p>Este indicador se compone de dos series temporales:</p>
-  <p><b>- Tasa de mortalidad prematura (entre 30 y 70 años) atribuida a las enfermedades no transmisibles</b></p>
+  Este indicador se compone de dos series temporales:
 
-  Probabilidad de morir entre los 30 y los 70 años por enfermedades cardiovasculares, cáncer, 
+   <b>-Tasa de mortalidad prematura (entre 30 y 70 años) atribuida a las enfermedades no transmisibles</b>: probabilidad de morir entre los 30 y los 70 años por enfermedades cardiovasculares, cáncer, 
   diabetes o enfermedades respiratorias crónicas.
 
-  <p><b>- Tasa de mortalidad atribuida a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias 
-  crónicas por cada 100.000 habitantes</b></p>
-
-  Defunciones atribuidas a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias 
+   <b>-Tasa de mortalidad atribuida a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias 
+  crónicas por cada 100.000 habitantes</b>: defunciones atribuidas a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias 
   crónicas por cada 100.000 habitantes
 
 formula: |
 
-  <p><b>Tasa de mortalidad prematura atribuida a las enfermedades no transmisibles</b> </p>
+  <b>Tasa de mortalidad prematura atribuida a las enfermedades no transmisibles</b>
 
-  <p>$$^{5}M_x = \frac{DENT_{x,x+5}^{t}}{PENT_{x,x+5}^{t}}$$ </p>
+  $$^{5}M_x = \frac{DENT_{x,x+5}^{t}}{PENT_{x,x+5}^{t}}$$
 
-  <p>donde: </p>
-  <p>$DENT_{x,x+5}^{t} =$ defunciones atribuidas a las 4 enfermedades no transmisibles
-  entre la edad exacta $x$ y la edad exacta $x+5$ en el año $t$</p>
-  <p>$P^{t} =$ población entre la edad exacta $x$ y la edad exacta $x+5$ del año $t$</p>
+  donde:
 
+  $DENT_{x,x+5}^{t} =$ defunciones atribuidas a las 4 enfermedades no transmisibles
+  entre la edad exacta $x$ y la edad exacta $x+5$ en el año $t$
 
-  <p><b>Tasa de mortalidad atribuida a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias 
-  crónicas por cada 100.000 habitantes</b> </p>
+  $P^{t} =$ población entre la edad exacta $x$ y la edad exacta $x+5$ del año $t$
 
 
-  <p>$$TM_{ENT}^{t} = \frac{D_{ENT}^{t}}{P^{t}} \cdot 100.000$$  </p>
+  <b>Tasa de mortalidad atribuida a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias 
+  crónicas por cada 100.000 habitantes</b>
 
 
-  <p>donde: </p>
-  <p>$D_{ENT}^{t} =$ defunciones atribuidas a enfermedades no transmisibles en el año $t$</p>
-  <p>$P^{t} =$ población a 1 de julio del año $t$</p>
+  $$TM_{ENT}^{t} = \frac{D_{ENT}^{t}}{P^{t}} \cdot 100.000$$  </p>
 
 
-desagregacion: >- 
-  Sexo <br>
+  donde:
+
+  $D_{ENT}^{t} =$ defunciones atribuidas a enfermedades no transmisibles en el año $t$
+
+  $P^{t} =$ población a 1 de julio del año $t$
+
+
+desagregacion: | 
+
   Enfermedad no transmisible (ENT): enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias 
   crónicas
 
+  Sexo
 periodicidad: FUENTE.FREQ_A
 
 
@@ -67,28 +69,27 @@ texto_oceca: FUENTE.oceca
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
+justificacion_global: |
 
-  <p>La morbilidad por enfermedades no transmisibles (NCD) entre los adultos está aumentando rápidamente a nivel mundial debido
+  La morbilidad por enfermedades no transmisibles (ENT) entre los adultos está aumentando rápidamente a nivel mundial debido
    al envejecimiento y las transiciones epidemiológicas. Las enfermedades cardiovasculares, el cáncer, la diabetes y las
-   enfermedades respiratorias crónicas son las cuatro causas principales de la carga de NCD. Medir el riesgo de morir 
-  por estas cuatro causas principales es importante para evaluar el alcance de la carga de mortalidad prematura por NCD en 
+   enfermedades respiratorias crónicas son las cuatro causas principales de la carga de ENT. Medir el riesgo de morir 
+  por estas cuatro causas principales es importante para evaluar el alcance de la carga de mortalidad prematura por ENT en 
   una población, suponiendo que experimentaría las tasas de mortalidad actuales a cualquier edad y no moriría por ninguna
-   otra causa de muerte (por ejemplo, lesiones o VIH/SIDA).</p>
+   otra causa de muerte (por ejemplo, lesiones o VIH/SIDA).
 
-  <p>La tasa de mortalidad atribuida a enfermedades cardiovasculares, cáncer, diabetes o 
+  La tasa de mortalidad atribuida a enfermedades cardiovasculares, cáncer, diabetes o 
   enfermedades respiratorias crónicas es la probabilidad de morir entre los 30 y los 70 años 
   por enfermedades cardiovasculares, cáncer, diabetes
   o enfermedades respiratorias crónicas, definida como el porcentaje de personas de 30 años que morirían antes de cumplir 
   70 años por enfermedades cardiovasculares, cáncer, diabetes o enfermedades respiratorias crónicas, suponiendo que experimentaría 
-  las tasas de mortalidad actuales a cualquier edad y no moriría por ninguna otra causa de muerte (por ejemplo, lesiones o VIH/SIDA).</p>
+  las tasas de mortalidad actuales a cualquier edad y no moriría por ninguna otra causa de muerte (por ejemplo, lesiones o VIH/SIDA).
 
 dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.4.1&seriesCode=SH_DTH_NCOM&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=30-70%20%7C%20BOTHSEX">Tasa de mortalidad atribuida a enfermedades cardiovasculares, cáncer, diabetes o enfermedades respiratorias crónicas (probabilidad) SH_DTH_NCOM</a> UNSTATS
 
 comparabilidad: >- 
-  La serie "Tasa de mortalidad prematura (entre 30 y 70 años)" cumple con los metadatos del indicador de 
-  Naciones Unidas. La serie "Tasa de mortalidad" aporta información complementaria.
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-04-01.pdf">Metadata 3-4-1.pdf</a> (solo en inglés)'
 

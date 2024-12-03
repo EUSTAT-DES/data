@@ -12,10 +12,14 @@ definicion: >-
   Defunciones de mujeres atribuidas a embarazo, parto y puerperio por cada 100.000 nacimientos
 
 formula: |
-  <p>$$TM_{materna}^{t} = \frac{D_{materna}^{t}}{N^{t}} \cdot 100.000$$ </p>
-  <p>donde: </p>
-  <p>$D_{materna}^{t} =$ defunciones de mujeres atribuidas a embarazo, parto y puerperio (códigos O00-O99 de la CIE-10) en el año $t$ </p>
-  <p>$N^{t} =$ nacimientos en el año $t$</p>
+
+  $$TM_{materna}^{t} = \frac{D_{materna}^{t}}{N^{t}} \cdot 100.000$$
+
+  donde:
+
+  $D_{materna}^{t} =$ defunciones de mujeres atribuidas a embarazo, parto y puerperio (códigos O00-O99 de la CIE-10) en el año $t$
+
+  $N^{t} =$ nacimientos en el año $t$
 
 desagregacion: >- 
   Territorio histórico
@@ -29,13 +33,12 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-justificacion_global: >-
+justificacion_global: |
 
-  <p>La tasa de mortalidad materna se define como el número de muertes maternas durante un tiempo determinado
+  La tasa de mortalidad materna se define como el número de muertes maternas durante un tiempo determinado
   por cada 100.000 nacidos vivos durante el mismo período. Representa el riesgo de muerte materna en relación
   al número de nacidos vivos y esencialmente captura el riesgo de muerte en un solo embarazo (representado por un
-  único nacido vivo).</p>
-
+  único nacido vivo).
 
 
 dato_global: >-

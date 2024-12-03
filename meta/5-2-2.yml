@@ -14,16 +14,18 @@ definicion: >-
 
 
 formula: |
-  <p>$$TVIF^{t} = \frac{VT^{t}}{P_{mujeres}^{t}} \cdot 100$$ </p>
+  $$TVIF^{t} = \frac{VT^{t}}{P_{mujeres}^{t}} \cdot 100$$
 
-  <p>donde: </p>
+  donde:
 
-  <p>$VT^{t} =$ número de casos registrados de violencia contra las mujeres de manos de su pareja 
-  o ex pareja, violencia intrafamiliar o sexual en el año $t$ </p>
-  <p>$P_{mujeres}^{t} =$ mujeres a 1 de julio del año $t$</p>
+  $VT^{t} =$ número de casos registrados de violencia contra las mujeres de manos de su pareja 
+  o ex pareja, violencia intrafamiliar o sexual en el año $t$
 
-desagregacion: >-
-  Tipo de violencia: Todos los tipos de violencia, violencia sexual, violencia intrafamiliar<br>
+  $P_{mujeres}^{t} =$ mujeres a 1 de julio del año $t$
+
+desagregacion: |
+  Tipo de violencia: Todos los tipos de violencia, violencia sexual, violencia intrafamiliar
+
   Territorio histórico/Comarca/Municipio
 
 periodicidad: FUENTE.FREQ_A
@@ -32,15 +34,15 @@ periodicidad: FUENTE.FREQ_A
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
-  <p>La violencia contra las mujeres y las niñas es una de las formas más 
+justificacion_global: |
+  La violencia contra las mujeres y las niñas es una de las formas más 
   extendidas de violación de los derechos humanos en el mundo. Hay datos que demuestran 
   que, a nivel mundial, aproximadamente el 7% de las mujeres han sido agredidas 
   sexualmente por alguien que no es su pareja en algún momento de sus vidas 
-  (OMS et al., 2013).</p>
+  (OMS et al., 2013).
 
-  <p>Disponer de datos sobre este indicador ayudará a comprender el alcance y la naturaleza 
-  de esta forma de violencia y a elaborar políticas y programas adecuados.</p>
+  Disponer de datos sobre este indicador ayudará a comprender el alcance y la naturaleza 
+  de esta forma de violencia y a elaborar políticas y programas adecuados.
 
 
 dato_global: >-

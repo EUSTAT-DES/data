@@ -13,10 +13,13 @@ definicion: >-
 
 formula: |
 
-  <p> $$TCA_{tuberculosis}^{t} = \frac{CA_{tuberculosis}^{t}}{P^{t}} \cdot 100.000$$</p>
-  <p>donde: </p>
-  <p>$CA_{tuberculosis}^{t} =$ casos autóctonos de tuberculosis notificados a la Red Nacional de Vigilancia Epidemiológica (RENAVE) en el año $t$ </p>
-  <p>$P^{t} =$ población a 1 de julio del año $t$</p>
+  $$TCA_{tuberculosis}^{t} = \frac{CA_{tuberculosis}^{t}}{P^{t}} \cdot 100.000$$
+
+  donde:
+
+  $CA_{tuberculosis}^{t} =$ casos autóctonos de tuberculosis notificados a la Red Nacional de Vigilancia Epidemiológica (RENAVE) en el año $t$
+
+  $P^{t} =$ población a 1 de julio del año $t$
 
 desagregacion: >- 
   Sexo
@@ -25,25 +28,26 @@ periodicidad: FUENTE.FREQ_A
 
 
 observaciones: >-
-
-  <p>Los casos autóctonos son aquellos en los que la enfermedad se ha contraído en el territorio nacional.</p>
+  Los casos autóctonos son aquellos en los que la enfermedad se ha contraído en el territorio nacional.
 
 texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
+justificacion_global: |
 
- <p>Tras dos años de consultas, la OMS aprobó una estrategia mundial contra la tuberculosis después de 2015,
+  Tras dos años de consultas, la OMS aprobó una estrategia mundial contra la tuberculosis después de 2015,
   en mayo de 2014. Conocida como Estrategia Fin a la Tuberculosis, cubre el período 2016-2035. El objetivo general
   es “poner fin a la epidemia mundial de tuberculosis” y, en consecuencia, contiene objetivos ambiciosos para reducir la tuberculosis. 
   Las objetivos de muertes y casos de tuberculosis están fijados para 2030 (reducción del 80% en la tasa de incidencia en 
-  comparación con el nivel de 2015) y 2035 (reducción del 90% en la tasa de incidencia), en el contexto de los ODS.</p>
+  comparación con el nivel de 2015) y 2035 (reducción del 90% en la tasa de incidencia), en el contexto de los ODS.
 
-  <p>La incidencia de tuberculosis (TB) se define como el número estimado de casos nuevos y recurrentes de 
+
+
+  La incidencia de tuberculosis (TB) se define como el número estimado de casos nuevos y recurrentes de 
   tuberculosis (toda forma de tuberculosis, incluidos los casos en personas que viven con el VIH) que surgen en 
-  un año determinado. Generalmente se expresa como tasa por 100.000 habitantes.</p>
+  un año determinado. Generalmente se expresa como tasa por 100.000 habitantes.
 
 
 dato_global: >-

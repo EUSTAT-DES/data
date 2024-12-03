@@ -13,13 +13,17 @@ definicion: >-
 
 formula: |
 
-  <p>$$TM_{neonatal}^{t} = \frac{D_{neonatal}^{t}}{N^{t}} \cdot 1.000$$ </p>
-  <p>donde: </p>
-  <p>$D_{neonatal}^{t} =$ defunciones de menores de 28 días cumplidos de vida en el año $t$</p>
-  <p>$N^{t} =$ nacimientos en el año $t$</p>
+  $$TM_{neonatal}^{t} = \frac{D_{neonatal}^{t}}{N^{t}} \cdot 1.000$$
 
-desagregacion: >- 
-  Sexo <br>
+  donde:
+
+  $D_{neonatal}^{t} =$ defunciones de menores de 28 días cumplidos de vida en el año $t$
+
+  $N^{t} =$ nacimientos en el año $t$
+
+desagregacion: | 
+  Sexo
+
   Territorio histórico
 
 
@@ -32,15 +36,15 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-justificacion_global: >-
-  <p>Las tasas de mortalidad entre los niños pequeños son un indicador clave de resultados para la salud y el bienestar infantil y,
+justificacion_global: |
+  Las tasas de mortalidad entre los niños pequeños son un indicador clave de resultados para la salud y el bienestar infantil y,
   en términos más generales, para el desarrollo social y económico. Es un indicador de salud pública muy seguido
   porque refleja el acceso de los niños y las comunidades a intervenciones sanitarias básicas como
-  vacunación, tratamiento médico de enfermedades infecciosas y nutrición adecuada.</p>
+  vacunación, tratamiento médico de enfermedades infecciosas y nutrición adecuada.
 
-  <p>La tasa de mortalidad neonatal es la probabilidad de que un niño nacido en un año o período específico muera durante
+  La tasa de mortalidad neonatal es la probabilidad de que un niño nacido en un año o período específico muera durante
   los primeros 28 días completos de vida, si están sujetos a las tasas de mortalidad específicas por edad de ese período, expresadas por
-  1.000 nacidos vivos.</p>
+  1.000 nacidos vivos.
 
 dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.2.2&seriesCode=SH_DYN_NMRT&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=%3C1M%20%7C%20BOTHSEX">Tasa de mortalidad neonatal (muertes por cada 1.000 nacidos vivos) SH_DYN_NMRT</a> UNSTATS

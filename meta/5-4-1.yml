@@ -13,15 +13,17 @@ definicion: >-
 
 formula: |
 
-  <p>$$THFP^{t} = \frac{THF^{t}}{PHF^{t}}$$ </p>
+  $$THFP^{t} = \frac{THF^{t}}{PHF^{t}}$$
 
-  <p>donde: </p>
+  donde:
 
-  <p>$THF^{t} =$ minutos dedicados por la población al hogar y la familia en un día promedio en el año $t$</p>
-  <p>$PHF^{t} =$ población que destina tiempo al hogar y la familia en un día promedio en el año $t$</p>
+  $THF^{t} =$ minutos dedicados por la población al hogar y la familia en un día promedio en el año $t$
 
-desagregacion: >-
-  Sexo<br>
+  $PHF^{t} =$ población que destina tiempo al hogar y la familia en un día promedio en el año $t$
+
+desagregacion: |
+  Sexo
+
   Territorio histórico
 
 periodicidad: FUENTE.FREQ_A5
@@ -30,17 +32,16 @@ periodicidad: FUENTE.FREQ_A5
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
-  <p>El objetivo del indicador es medir la cantidad de tiempo que las mujeres y los hombres 
+justificacion_global: |
+  El objetivo del indicador es medir la cantidad de tiempo que las mujeres y los hombres 
   dedican a realizar tareas no remuneradas, para garantizar que todo trabajo, ya sea remunerado 
-  o no, sea valorado.</p>
+  o no, sea valorado.
 
-  <p>Además, también proporciona una evaluación de la igualdad de género, al destacar las 
+  Además, también proporciona una evaluación de la igualdad de género, al destacar las 
   discrepancias entre el tiempo que las mujeres y los hombres dedican a tareas no remuneradas, 
-  como cocinar, limpiar o cuidar a los niños.</p>
+  como cocinar, limpiar o cuidar a los niños.
 
-
-  <p>Este indicador mide la cantidad promedio de tiempo como proporción en un día, de modo 
+  Este indicador mide la cantidad promedio de tiempo como proporción en un día, de modo 
   que si para un país determinado se informa que las mujeres de 15 años o más dedican el 
   10% de su día a tareas domésticas no remuneradas mientras que los 
   hombres del mismo grupo de edad dedican el 1%, indica que las mujeres dedican
@@ -48,7 +49,7 @@ justificacion_global: >-
   al día, en promedio. Como se explica más adelante en 4.c, este promedio 
   diario se obtiene a partir de un promedio tomado durante el período de referencia 
   para la recopilación de datos y, por lo tanto, no significa que las mujeres y los 
-  hombres dediquen estas cantidades de tiempo dadas todos los días.</p>
+  hombres dediquen estas cantidades de tiempo dadas todos los días.
 
 
 dato_global: >-

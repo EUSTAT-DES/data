@@ -13,50 +13,50 @@ definicion: >-
 
 formula: |
 
-  <p>$$PDIR_{mujeres}^{t} = \frac{DIR_{mujeres}^{t}}{DIR_{mujeres}^{t}+DIR_{hombres}^{t}} \cdot 100$$</p>
+  $$PDIR_{mujeres}^{t} = \frac{DIR_{mujeres}^{t}}{DIR_{mujeres}^{t}+DIR_{hombres}^{t}} \cdot 100$$
 
-  <p>donde: </p>
+  donde:
 
-  <p>$DIR_{mujeres}^{t} =$ mujeres ocupadas en la profesión correspondiente en el año $t$</p>
-  <p>$DIR_{hombres}^{t} =$ hombres ocupados en la profesión correspondiente en en el año $t$</p>
+  $DIR_{mujeres}^{t} =$ mujeres en la ocupación correspondiente en el año $t$
 
-desagregacion: >-
+  $DIR_{hombres}^{t} =$ hombres en la ocupación correspondiente en en el año $t$
 
-  Profesión: Alta dirección, cargo directivo, empresaria.<br>
+desagregacion: |
+  Ocupación: Alta dirección, cargo directivo, empresaria.
+
   Territorio histórico
 
 periodicidad: FUENTE.FREQ_A
 
-observaciones: >-
-
-  <p>Se entiende por mujeres empresarias las que ejercen una actividad económica por cuenta propia.</p>
-
-  <p>Se entiende por cargos directivos todas las ocupaciones incluidas en el grupo 1 de la CNO-2011, 
+observaciones: |
+  Se entiende por cargos directivos todas las ocupaciones incluidas en el grupo 1 de la CNO-2011, 
   mientras que se entiende por alta dirección aquellas ocupaciones pertenecientes a los 
-  subgrupos 11, 12 y 13 de la CNO-2011.</p>
+  subgrupos 11, 12 y 13 de la CNO-2011.
 
   El grupo 1 de la CNO-2011 comprende las ocupaciones de dirección y gerencia, cuyas tareas 
   principales son planificar, dirigir y coordinar la actividad general de las empresas, 
   gobiernos u otras organizaciones, así como formular y revisar la estrategia de las empresas 
-  y normativas de los gobiernos. Este grupo se subdivide en cinco subgrupos principales:<br>
-  11 Miembros del poder ejecutivo y de los cuerpos legislativos; directivos de la 
-  Administración Pública y organizaciones de interés social; directores ejecutivos<br>
-  12 Directores de departamentos administrativos y comerciales<br>
-  13 Directores de producción y operaciones<br>
-  14 Directores y gerentes de empresas de alojamiento, restauración y comercio<br>
-  15 Directores y gerentes de otras empresas de servicios no clasificados bajo otros epígrafes<br>
+  y normativas de los gobiernos. Este grupo se subdivide en cinco subgrupos principales:
+
+   11 Miembros del poder ejecutivo y de los cuerpos legislativos; directivos de la Administración Pública y organizaciones de interés social; directores ejecutivos
+   12 Directores de departamentos administrativos y comerciales
+   13 Directores de producción y operaciones
+   14 Directores y gerentes de empresas de alojamiento, restauración y comercio
+   15 Directores y gerentes de otras empresas de servicios no clasificados bajo otros epígrafes
+
+  Se entiende por mujeres empresarias las que ejercen una actividad económica por cuenta propia.
 
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
+justificacion_global: |
 
-  <p>El indicador proporciona información sobre la proporción de mujeres empleadas 
+  El indicador proporciona información sobre la proporción de mujeres empleadas 
   en puestos de toma de decisiones y gestión en el gobierno, grandes empresas e 
   instituciones, lo que proporciona una idea del poder de las mujeres en la toma de decisiones 
-  y en la economía (especialmente en comparación con el poder de los hombres en esas áreas).</p>
+  y en la economía (especialmente en comparación con el poder de los hombres en esas áreas).
 
-  <p>Se recomienda utilizar dos medidas diferentes de forma conjunta para este 
+  Se recomienda utilizar dos medidas diferentes de forma conjunta para este 
   indicador: la proporción de mujeres en la gestión (total) y la proporción de mujeres en la 
   gestión superior e intermedia (excluyendo así la gestión de nivel inferior). El cálculo conjunto 
   de estas dos medidas proporciona información sobre si las mujeres están más representadas en 
@@ -64,7 +64,7 @@ justificacion_global: >-
   indica que existe un techo para el acceso de las mujeres a puestos directivos de 
   nivel superior. En estos casos, calcular solo la proporción de mujeres en la gestión (total) 
   sería engañoso, ya que sugeriría que las mujeres ocupen puestos con más poder de 
-  decisión y responsabilidades de las que realmente ocupan.</p>
+  decisión y responsabilidades de las que realmente ocupan.
 
 dato_global: >-
 

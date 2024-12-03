@@ -15,12 +15,13 @@ definicion: >-
 
 formula: |
 
-  <p>$$PPRFD_{nivel\, educativo}^{t} = \frac{PRFD_{nivel\, educativo}^{t}}{PR^{t}} \cdot 100$$ </p>
+  $$PPRFD_{nivel\, educativo}^{t} = \frac{PRFD_{nivel\, educativo}^{t}}{PR^{t}} \cdot 100$$
 
-  <p>donde:</p>
+  donde:
 
-  <p>$PRFD_{nivel\, educativo}^{t} =$ profesorado del nivel educativo con formación docente en el curso escolar $t-1/t$ </p>
-  <p> $CENU^{t} =$ total del profesorado del nivel educativo en el curso escolar  $t-1/t$</p>
+  $PRFD_{nivel\, educativo}^{t} =$ profesorado del nivel educativo con formación docente en el curso escolar $t-1/t$
+
+  $CENU^{t} =$ total del profesorado del nivel educativo en el curso escolar  $t-1/t$
 
 
 desagregacion: >- 
@@ -36,15 +37,15 @@ texto_oceca: FUENTE.oceca
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
-  <p>Los docentes desempeñan un papel fundamental para garantizar la calidad de la educación impartida. 
+justificacion_global: |
+  Los docentes desempeñan un papel fundamental para garantizar la calidad de la educación impartida. 
   Lo ideal sería que todos los docentes recibieran una formación pedagógica adecuada, apropiada y pertinente 
   para enseñar en el nivel de educación elegido y que estuvieran académicamente bien cualificados en la(s) materia(s) 
-  que se espera que enseñen. </p>
+  que se espera que enseñen.
 
-  <p>Este indicador mide la proporción de la fuerza laboral docente que está bien formada 
+  Este indicador mide la proporción de la fuerza laboral docente que está bien formada 
   pedagógicamente. Un valor alto indica que los estudiantes reciben clases de docentes que están 
-  bien formados pedagógicamente para enseñar.</p>
+  bien formados pedagógicamente para enseñar.
 
 dato_global: >-
 

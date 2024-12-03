@@ -14,45 +14,46 @@ definicion: >-
 
 formula: |
 
-  <p>$$PPN2_{c}^{t} = \frac{PN2_{16-65,c}^{t}}{P_{16-65}^{t}}$$</p>
+  $$PPN2_{c}^{t} = \frac{PN2_{16-65,c}^{t}}{P_{16-65}^{t}}$$
 
-  <p>donde:</p>
+  donde:
 
-  <p> $PN2_{16-65,c}^{t} =$ población entre 16 y 65 años que ha alcanzado al menos el nivel 2 de competencia 
-  en la escala del tipo de competencia $c$ en el año $t$</p>
-  <p> $P_{16-65}^{t} =$ población entre 16 y 65 años años en el año $t$</p>
+  $PN2_{16-65,c}^{t} =$ población entre 16 y 65 años que ha alcanzado al menos el nivel 2 de competencia 
+  en la escala del tipo de competencia $c$ en el año $t$
+
+  $P_{16-65}^{t} =$ población entre 16 y 65 años años en el año $t$
 
 
-desagregacion: >- 
-  Tipo de competencia: comprensión lectora, matemáticas<br>
-  Sexo<br>
+desagregacion: | 
+  Tipo de competencia: comprensión lectora, matemáticas
+
+  Sexo
 
 periodicidad: FUENTE.FREQ_A10
 
 
-observaciones: >-
+observaciones: |
 
   El Programa de evaluación internacional de competencias de adultos utiliza una escala de 500 puntos para evaluar 
   la comprensión lectora y la competencia en matemáticas. Para ayudar a interpretar esas puntuaciones, la escala 
-  se divide en seis categorías de  competencia:<br>
+  se divide en seis categorías de  competencia:
 
-  - Inferior al nivel 1: puntuación inferior a 176<br>
-  - Nivel 1: puntuación entre 176 y 225<br>
-  - Nivel 2: puntuación entre 226 y 275<br>
-  - Nivel 3: puntuación entre 276 y 325<br>
-  - Nivel 4: puntuación entre 326 y 375<br>
-  - Nivel 5: puntuación entre 376 y 500<br>
+   -Inferior al nivel 1: puntuación inferior a 176
+   -Nivel 1: puntuación entre 176 y 225
+   -Nivel 2: puntuación entre 226 y 275
+   -Nivel 3: puntuación entre 276 y 325
+    Nivel 4: puntuación entre 326 y 375
+   -Nivel 5: puntuación entre 376 y 500
 
   Una persona alcanza al menos el nivel 2 de competencia en la escala de comprensión lectora cuando 
   habitualmente es capaz de entender textos sobre temas que no conoce, aunque tenga dificultades ante 
   tareas como comparar y contrastar diferentes textos o buscar textos digitales sobre un tema concreto 
-  que no conoce.<br>
+  que no conoce.
 
   Una persona alcanza al menos el nivel 2 de competencia en la escala de matemáticas cuando 
   habitualmente es capaz de responder a preguntas que requieren cálculos intermedios, entiende 
   la información matemática de una tabla y no tiene dificultades para interpretar gráficas simples, 
-  aunque tenga dificultades ante tareas como manejar proporciones o interpretar gráficas complejas.<br>
-
+  aunque tenga dificultades ante tareas como manejar proporciones o interpretar gráficas complejas.
 
   El dato de 2012 corresponde al estudio que se llevó a cabo entre el tercer cuatrimestre 
   de 2011 y el primer cuatrimestre de 2012.
@@ -63,19 +64,19 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: >-
-  <p>El indicador es una medida directa de los niveles de habilidades de los jóvenes y los adultos 
-  en dos áreas: alfabetización y aritmética. </p>
+  El indicador es una medida directa de los niveles de habilidades de los jóvenes y los adultos 
+  en dos áreas: alfabetización y aritmética.
 
-  <p>El nivel fijo de competencia (FLP) es el parámetro de referencia de los conocimientos básicos 
+  El nivel fijo de competencia (FLP) es el parámetro de referencia de los conocimientos básicos 
   en un dominio (alfabetización o aritmética) medido a través de evaluaciones de aprendizaje. Actualmente, 
   el FLP para los informes globales es el descriptor de nivel 2 del Programa para la Evaluación Internacional 
-  de Competencias de Adultos (PIAAC). </p>
+  de Competencias de Adultos (PIAAC).
 
-  <p>Los conceptos de alfabetización funcional y aritmética funcional se basan en las 
+  Los conceptos de alfabetización funcional y aritmética funcional se basan en las 
   definiciones de la UNESCO, que ubren un continuo de niveles de competencia en lugar de una dicotomía. 
   Una persona es alfabetizada funcionalmente si puede participar en todas aquellas actividades en las que la 
   alfabetización es necesaria para el funcionamiento eficaz de su grupo y comunidad y también le permite 
-  seguir utilizando la lectura, la escritura y el cálculo para su propio desarrollo y el de la comunidad.</p>
+  seguir utilizando la lectura, la escritura y el cálculo para su propio desarrollo y el de la comunidad.
 
 dato_global: >-
 

@@ -24,53 +24,49 @@ periodicidad: FUENTE.FREQ_A
 desagregacion: >-
 
 
-observaciones:  >-
+observaciones: |
 
   El indicador mide el nivel en el que el marco normativo garantiza la igualdad de derechos de
   la mujer a la propiedad y el control de tierras, contrastando el marco legal frente
-  a seis proxies aceptados internacionalmente, en concreto en la Convención 
-  sobre la eliminación de todas las formas de discriminación contra la mujer (CEDAW) y 
-  las Directrices voluntarias sobre la gobernanza responsable de la tenencia de la 
-  tierra (VGGT):  
-  Proxy A: Registro conjunto de tierras obligatorio o incentivado
-  Proxy B: Obligación del consentimiento conyugal para transacciones de tierras  
-  Proxy C: Igualdad de derechos de herencia  
-  Proxy D: Asignación de recursos financieros para incrementar la tenencia y 
-  control de tierras por parte de la mujer  
-  Proxy E: En sistemas legales que reconocen el derecho consuetudinario, 
-  existencia de protección explícita sobre los derechos de la mujer a la propiedad  
-  Proxy F: Cuotas obligatorias en la gestión y administración de tierras  
+  a seis proxies aceptados internacionalmente, en concreto en la Convención sobre la eliminación de todas las 
+  formas de discriminación contra la mujer (CEDAW) y las Directrices voluntarias sobre la 
+  gobernanza responsable de la tenencia de la tierra (VGGT):  
+   -Proxy A: Registro conjunto de tierras obligatorio o incentivado
+   -Proxy B: Obligación del consentimiento conyugal para transacciones de tierras  
+   -Proxy C: Igualdad de derechos de herencia  
+   -Proxy D: Asignación de recursos financieros para incrementar la tenencia y control de tierras por parte de la mujer  
+   -Proxy E: En sistemas legales que reconocen el derecho consuetudinario, existencia de protección explícita sobre los derechos de la mujer a la propiedad  
+   -Proxy F: Cuotas obligatorias en la gestión y administración de tierras  
 
 
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
+justificacion_global: |
 
-  <p>El indicador 5.a.2 mide en qué medida el marco jurídico de los países 
+  El indicador 5.a.2 mide en qué medida el marco jurídico de los países 
   (incluido el derecho consuetudinario) garantiza la igualdad de derechos de las mujeres 
-  en materia de propiedad y/o control de la tierra.</p>
+  en materia de propiedad y/o control de la tierra.
 
-  <p>El enfoque en la tierra del indicador 5.a.2 refleja el reconocimiento 
+  El enfoque en la tierra del indicador 5.a.2 refleja el reconocimiento 
   de que la tierra es un recurso económico clave inextricablemente vinculado al acceso, 
   uso y control de otros recursos económicos y productivos. Es un insumo clave para la 
   producción agrícola; puede facilitar el acceso a servicios financieros y de extensión 
   o para unirse a organizaciones de productores. Además, puede generar ingresos 
-  directamente si se alquila o se vende. </p>
+  directamente si se alquila o se vende.
 
-
-  <p>También reconoce que la propiedad y/o el control de la tierra por parte de las 
+  También reconoce que la propiedad y/o el control de la tierra por parte de las 
   mujeres es fundamental para la reducción de la pobreza, la seguridad alimentaria, la inclusión 
   y los objetivos generales de desarrollo sostenible. Por último, la igualdad de género 
   en la propiedad y el control de la tierra es un derecho humano. Por ejemplo, 
   el Pacto Internacional de Derechos Civiles y Políticos (PIDCP) garantiza la igualdad 
-  entre mujeres y hombres y prohíbe la discriminación por motivos de sexo en su artículo 2.</p>
+  entre mujeres y hombres y prohíbe la discriminación por motivos de sexo en su artículo 2.
 
-  <p>El artículo 26 del PIDCP consagra la igualdad ante la ley y puede aplicarse para 
+  El artículo 26 del PIDCP consagra la igualdad ante la ley y puede aplicarse para 
   defender el derecho de las mujeres a la no discriminación y la igualdad, incluidos 
   los derechos económicos y sociales. Además, la Convención sobre la eliminación de todas 
   las formas de discriminación contra la mujer (CEDAW) destaca que la discriminación 
-  contra la mujer “viola los principios de igualdad de derechos y respeto a la dignidad humana”.</p>
+  contra la mujer “viola los principios de igualdad de derechos y respeto a la dignidad humana”.
 
 
 dato_global: >-

@@ -15,12 +15,13 @@ definicion: >-
 
 formula: |
 
-  <p>$$PCENU_{servicio\, básico}^{t} = \frac{CENU_{servicio\, básico}^{t}}{CENU^{t}} \cdot 100$$ </p>
+  $$PCENU_{servicio\, básico}^{t} = \frac{CENU_{servicio\, básico}^{t}}{CENU^{t}} \cdot 100$
 
-  <p>donde:</p>
+  donde:
 
-  <p>$CENU_{servicio\, básico}^{t} =$ centros educativos no universitarios con acceso al servicio básico (electricidad, ordenador con internet, baño, agua potable, instalaciones para el lavado de manos) en el curso escolar $t-1/t$ </p>
-  <p> $CENU^{t} =$ centros educativos no universitarios en el curso escolar $t-1/t$</p>
+  $CENU_{servicio\, básico}^{t} =$ centros educativos no universitarios con acceso al servicio básico (electricidad, ordenador con internet, baño, agua potable, instalaciones para el lavado de manos) en el curso escolar $t-1/t$
+
+  $CENU^{t} =$ centros educativos no universitarios en el curso escolar $t-1/t$
 
 
 desagregacion: >- 
@@ -37,11 +38,11 @@ texto_oceca: FUENTE.oceca
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
-  <p>El indicador mide el acceso en las escuelas a los servicios básicos y las instalaciones clave necesarios 
+justificacion_global: |
+  El indicador mide el acceso en las escuelas a los servicios básicos y las instalaciones clave necesarios 
   para garantizar un entorno de aprendizaje seguro y eficaz para todos los estudiantes. Un valor alto 
   indica que las escuelas tienen un buen acceso a los servicios e instalaciones pertinentes. 
-  Lo ideal sería que cada escuela tuviera acceso a todos estos servicios e instalaciones.</p>
+  Lo ideal sería que cada escuela tuviera acceso a todos estos servicios e instalaciones.
 
 dato_global: >-
 

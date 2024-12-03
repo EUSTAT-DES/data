@@ -10,7 +10,8 @@ meta_global: meta_largo.4-5-titulo
 
 definicion:  |
   Relación entre las proporciones entre los siguientes grupos que han realizado actividades 
-  educativas (formales o no formales) en los últimos 12 o 4 semanas:<br>
+  educativas (formales o no formales) en los últimos 12 o 4 semanas:
+
   - Mujeres y hombres entre 18 y 64 años (en los últimos 12 meses) <br>
   - Personas entre 18 y 64 años pertenecientes a hogares que se encuentran en el nivel 
   de ingresos inferior y superior (en los últimos 12 meses)  <br>
@@ -21,21 +22,25 @@ definicion:  |
 
 formula: |
 
-  <p>$$IPD = \frac{[Ind_i]_d}{[Ind_i]_a}$$</p>
+  $$IPD = \frac{[Ind_i]_d}{[Ind_i]_a}$$
 
-  <p>donde:</p> 
-  <p>$IPD$ = el Índice de Paridad de la Dimensión(Sexo, Riqueza, Ubicación, etc.)</p> 
-  <p>$Ind_i$ = el Indicador de Educación: realización de actividades educativas (formales o no formales) en 
-  los últimos  12 o 4 meses</p>
-  <p>$d$ = el grupo desfavorecido (mujeres, personas más pobres, personas que viven en municipios pequeños, 
-  personas con limitaciones por problemas de salud)</p> 
-  <p>$d$ = el grupo favorecido (hombres, personas más ricas, personas que viven en municipios grandes, 
-  personas sin limitaciones por problemas de salud)</p>
+  donde:
+
+  $IPD$ = el Índice de Paridad de la Dimensión(Sexo, Riqueza, Ubicación, etc.)
+
+  $Ind_i$ = el Indicador de Educación: realización de actividades educativas (formales o no formales) en 
+  los últimos  12 o 4 meses
+
+  $d$ = el grupo desfavorecido (mujeres, personas más pobres, personas que viven en municipios pequeños, 
+  personas con limitaciones por problemas de salud)
+
+  $d$ = el grupo favorecido (hombres, personas más ricas, personas que viven en municipios grandes, 
+  personas sin limitaciones por problemas de salud)
 
 desagregacion: >- 
   Territorio histórico
 
-periodicidad: FUENTE.FREQ_A5
+periodicidad: FUENTE.FREQ_A
 
 
 observaciones: >-
@@ -51,9 +56,9 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: >-
-  <p>Medir el nivel general de disparidad entre dos subpoblaciones de interés con respecto a un 
+  Medir el nivel general de disparidad entre dos subpoblaciones de interés con respecto a un 
   indicador determinado. Cuanto más alejado de 1 se encuentre el índice de paridad, mayor será la 
-  disparidad entre los dos grupos de interés. </p>
+  disparidad entre los dos grupos de interés.
 
 dato_global: >-
 

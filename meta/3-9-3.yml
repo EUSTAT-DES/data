@@ -13,15 +13,17 @@ definicion: >-
 
 formula: |
 
-  <p>$$TM_{\text{intoxicaciones involuntarias}}^{t} = \frac{D_{\text{intoxicaciones involuntarias}}^{t}}{P^{t}} \cdot 100.000$$</p>
+  $$TM_{\text{intoxicaciones involuntarias}}^{t} = \frac{D_{\text{intoxicaciones involuntarias}}^{t}}{P^{t}} \cdot 100.000$$
 
-  <p>donde: </p>
+  donde:
 
-  <p> $D_{\text{intoxicaciones involuntarias}}^{t} =$ defunciones atribuidas a intoxicaciones involuntarias (códigos X40, X43, X44 y X46-X49 de la CIE-10) en el año $t$</p>
-  <p>$P^{t} =$ población a 1 de julio del año $t$</p>
+  $D_{\text{intoxicaciones involuntarias}}^{t} =$ defunciones atribuidas a intoxicaciones involuntarias (códigos X40, X43, X44 y X46-X49 de la CIE-10) en el año $t$
 
-desagregacion: >- 
-  Sexo <br>
+  $P^{t} =$ población a 1 de julio del año $t$
+
+desagregacion: | 
+  Sexo
+
   Territorio histórico
 
 periodicidad: FUENTE.FREQ_A
@@ -34,14 +36,14 @@ texto_oceca: FUENTE.oceca
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
-  <p>La medición de la tasa de mortalidad por envenenamientos no intencionales proporciona una indicación del 
+justificacion_global: | 
+  La medición de la tasa de mortalidad por envenenamientos no intencionales proporciona una indicación del 
   grado de gestión inadecuada de los productos químicos peligrosos y la contaminación, y de la eficacia del sistema de 
-  salud de un país.</p>
+  salud de un país.
 
-  <p>La tasa de mortalidad atribuida a envenenamiento no intencional se define como el número de muertes por envenenamiento 
+  La tasa de mortalidad atribuida a envenenamiento no intencional se define como el número de muertes por envenenamiento 
   no intencional en un año, dividido por la población y multiplicado por 100.000.Incluye los códigos de la 
-  Clasificación Internacional de Enfermedades, Décima Revisión (CIE-10) X40, X43, X46-X48 y X49.</p>
+  Clasificación Internacional de Enfermedades, Décima Revisión (CIE-10) X40, X43, X46-X48 y X49.
 
 
 dato_global: >-
