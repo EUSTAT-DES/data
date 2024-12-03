@@ -30,7 +30,7 @@ formula: |
 
   $$ VR^{t} = \displaystyle \sum_{p \epsilon Países} VR_{España,p}^{t} = \frac{\frac{P_{16-64,p}^{t}+P_{16-64,p}^{t+1}}{2}}{\frac{P_{16-64,España,p}^{t}+P_{16-64,España,p}^{t+1}}{2}} $$ 
 
-  siendo los países: Colombia, Marruecos, Ecuador, República\, Dominicana, Honduras, Bolivia, Senegal, Paraguay,Pakistán, Rumanía, resto de países. No se considera a los países pertenecientes a la Unión Europea en "resto de países".
+  siendo los países: Colombia, Marruecos, Ecuador, República, Dominicana, Honduras, Bolivia, Senegal, Paraguay,Pakistán, Rumanía, resto de países. No se considera a los países pertenecientes a la Unión Europea en "resto de países".
 
 desagregacion: >-
 
