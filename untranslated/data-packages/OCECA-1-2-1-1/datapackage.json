@@ -12,37 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "CCAA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ES",
-                "ES24",
-                "ES12",
-                "ES13",
-                "ES21",
-                "ES22",
-                "ES30",
-                "ES41",
-                "ES43",
-                "ES53",
-                "ES70",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

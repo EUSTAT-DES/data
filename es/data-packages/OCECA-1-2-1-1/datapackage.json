@@ -12,40 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "CCAA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "-España-",
-                "Aragón",
-                "Principado de Asturias",
-                "Cantabria",
-                "C.A. de Euskadi",
-                "Comunidad Foral de Navarra",
-                "Comunidad de Madrid",
-                "Castilla y León",
-                "Extremadura",
-                "Illes Balears",
-                "Canarias",
-                ""
-              ]
-            },
-            "title": "Comunidad Autónoma"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Porcentaje",
-                ""
-              ]
-            },
-            "title": "Unidad"
           },
           {
             "name": "Value",
