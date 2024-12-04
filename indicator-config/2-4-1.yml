@@ -60,5 +60,6 @@ sources:
     url_text: FUENTE.GE_Agricultura_esyrce
     logo: FUENTE.GE_logo
 standalone: false
-tags: []
+tags:
+  - status.municipio
 x_axis_label: ''

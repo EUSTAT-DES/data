@@ -15,7 +15,7 @@ definicion: >-
 
 formula: |
 
-  $$PCENU_{servicio\, básico}^{t} = \frac{CENU_{servicio\, básico}^{t}}{CENU^{t}} \cdot 100$
+  $$PCENU_{servicio\, básico}^{t} = \frac{CENU_{servicio\, básico}^{t}}{CENU^{t}} \cdot 100$$
 
   donde:
 

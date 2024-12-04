@@ -23,7 +23,7 @@ graph_title: GRAFICO.2-4-E1-titulo
 graph_titles: []
 graph_type: line
 indicator_available: ''
-indicator_name: national_indicators.2-4-E1-title
+indicator_name: GRAFICO.2-4-E1-titulo
 indicator_number: 2.4.E1
 indicator_tabs:
   override: false
@@ -51,5 +51,5 @@ sources:
     logo: FUENTE.Euskadi_logo
 standalone: false
 tags:
-  - Indicador europeo
+  - status.territorio
 x_axis_label: ''

@@ -23,7 +23,7 @@ graph_title: GRAFICO.3-4-E2-titulo
 graph_titles: []
 graph_type: line
 indicator_available: ''
-indicator_name: national_indicators.3-4-E2-title
+indicator_name: GRAFICO.3-4-E2-titulo
 indicator_number: 3.4.E2
 indicator_tabs:
   override: false
@@ -50,6 +50,8 @@ sources:
     url_text: FUENTE.Eustat_ida
     logo: FUENTE.Eustat_logo
 standalone: false
-tags: []
+tags:
+  - status.territorio
+  - status.sexo
 x_axis_label: ''
 
