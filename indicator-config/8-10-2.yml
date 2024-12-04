@@ -36,4 +36,5 @@ sources:
     url_text: FUENTE.BE_ecf
     logo: FUENTE.BE_logo
 standalone: false
-tags: []
+tags:
+  - status.sexo

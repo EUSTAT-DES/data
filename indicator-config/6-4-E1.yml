@@ -36,4 +36,5 @@ sources:
     url_text: FUENTE.Euskadi_Industria_ecagua
     logo: FUENTE.Euskadi_logo
 standalone: false
-tags: []
+tags:
+  - status.municipio

@@ -36,4 +36,5 @@ sources:
     url_text: FUENTE.GE_Transformacion_cba
     logo: FUENTE.GE_logo
 standalone: false
-tags: []
+tags:
+  - status.territorio
