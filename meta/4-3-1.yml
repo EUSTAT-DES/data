@@ -13,13 +13,13 @@ definicion: >-
 
 formula: |
 
-  $$PPE_{grupo edad}^{t} = \frac{PE_{grupo edad}^{t}}{P_{grupo edad}^{t}} \cdot 100$$
+  $$PPE_{grupo\, edad}^{t} = \frac{PE_{grupo\, edad}^{t}}{P_{grupo\, edad}^{t}} \cdot 100$$
 
   donde:
 
-  $PE_{grupo edad}^{t} =$ población de un grupo de edad que ha realizado estudios o formación (reglada o no reglada) en el año $t$
+  $PE_{grupo\, edad}^{t} =$ población de un grupo de edad que ha realizado estudios o formación (reglada o no reglada) en el año $t$
 
-  $P_{grupo edad}^{t} =$ población de un grupo de edad en el año $t$
+  $P_{grupo\, edad}^{t} =$ población de un grupo de edad en el año $t$
 
 
 desagregacion: | 
