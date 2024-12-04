@@ -30,4 +30,5 @@ progress_status: noevaluado
 reporting_status: noevaluado
 sort: ''
 standalone: false
-tags: []
+tags:
+  - status.municipio

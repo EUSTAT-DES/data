@@ -36,4 +36,6 @@ sources:
     url_text: FUENTE.Eustat_cesif
     logo: FUENTE.Eustat_logo
 standalone: false
-tags: []
+tags:
+  - status.territorio
+  - status.sexo

@@ -36,4 +36,5 @@ sources:
     url_text: FUENTE.Eustat_ccst
     logo: FUENTE.Eustat_logo
 standalone: false
-tags: []
+tags:
+  - status.territorio

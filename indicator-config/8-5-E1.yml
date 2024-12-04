@@ -53,4 +53,6 @@ sources:
     url_text: FUENTE.Eustat_cempa
     logo: FUENTE.Eustat_logo
 standalone: false
-tags: []
+tags:
+  - status.municipio
+  - status.sexo

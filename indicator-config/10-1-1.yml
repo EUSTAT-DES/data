@@ -41,4 +41,5 @@ sources:
     url_text: FUENTE.Eustat_cegf
     logo: FUENTE.Eustat_logo
 standalone: false
-tags: []
+tags:
+  - status.territorio

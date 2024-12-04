@@ -36,4 +36,5 @@ sources:
     url_text: FUENTE.BE_efc
     logo: FUENTE.BE_logo
 standalone: false
-tags: []
+tags:
+  - status.territorio
