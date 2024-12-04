@@ -148,10 +148,10 @@ United Nations Development Programme (UNDP)",,,,,line
 United Nations Development Programme (UNDP)",,,,,line
 #17-17-1,notstarted,,World Bank,,,,,line
 #17-18-1,notstarted,,Open Data Watch (ODW),,,,,line
-#17-18-2,alcanzado,alcanzado,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,binary
-#17-18-3,alcanzado,alcanzado,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,binary
+#17-18-2,alcanzado,alcanzado,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
+#17-18-3,alcanzado,alcanzado,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
 #17-19-1,notstarted,,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
-#17-19-2,alcanzado,alcanzado,"United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations (UN DESA)",,,,,binary
+#17-19-2,alcanzado,alcanzado,"United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations (UN DESA)",,,,,line
 #17-2-1,progreso,progreso,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #17-3-1,progreso,progreso,International Forum on TOSSD (independent entity hosted by the OECD) and UNCTAD,,,,,line
 #17-3-2,noevaluado,noevaluado,World Bank (WB),,,,,line
@@ -282,7 +282,7 @@ United Nations Statistics Division (UNSD)",,,,,line
 #7-3-E1,noevaluado,noevaluado,,,True,,,line
 #7-a-1,notstarted,,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),,,,,line
 #7-b-1,progreso,progreso,International Renewable Energy Agency (IRENA),,True,,,line
-#8-1-1,alcanzado,alcanzado,United Nations Statistics Division (UNSD),,,,,line
+#8-1-1,alcanzado,alcanzado,United Nations Statistics Division (UNSD),,True,,,line
 #8-10-1,noevaluado,noevaluado,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,,,line
 #8-10-2,alcanzado,alcanzado,World Bank ,,,,,line
 #8-2-1,alcanzado,alcanzado,International Labour Organization (ILO) ,,,,,line
@@ -302,7 +302,7 @@ International Labour Organization (ILO)",,,,,line
 #8-b-1,noevaluado,noevaluado,International Labour Organization (ILO) ,,,,,line
 #9-1-1,alcanzado,alcanzado,World Bank,,,,,line
 #9-1-2,notstarted,,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); United Nations Conference on Trade and Development (UNCTAD).,,,,,line
-#9-2-1,progreso,progreso,United Nations Industrial Development Organization (UNIDO),,,,,line
+#9-2-1,progreso,progreso,United Nations Industrial Development Organization (UNIDO),,True,,,line
 #9-2-2,progreso,progreso,"United Nations Industrial Development Organization (UNIDO)
 (with the collaboration of the International Labour Organization &#x2013; ILO)",,,,,line
 #9-3-1,retroceso,retroceso,United Nations Industrial Development Organization (UNIDO),,,,,line
