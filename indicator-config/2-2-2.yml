@@ -60,5 +60,6 @@ sources:
     url_text: FUENTE.INE_ees
     logo: FUENTE.INE_logo
 standalone: false
-tags: []
+tags:
+  - status.sexo
 x_axis_label: ''

@@ -7,7 +7,17 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: ServBasico
+    value: SE_ACS_ELECT
+  - field: ServBasico
+    value: SE_ACS_CMPTR
+  - field: ServBasico
+    value: SE_ACS_H2O
+  - field: ServBasico
+    value: SE_ACS_SANIT
+  - field: ServBasico
+    value: SE_ACS_HNDWSH
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''

@@ -27,7 +27,7 @@ graph_title: GRAFICO.3-4-E1-titulo
 graph_titles: []
 graph_type: line
 indicator_available: ''
-indicator_name: national_indicators.3-4-E1-title
+indicator_name: GRAFICO.3-4-E1-titulo
 indicator_number: 3.4.E1
 indicator_tabs:
   override: false
@@ -53,8 +53,6 @@ sources:
     logo: FUENTE.Euskadi_logo
 standalone: false
 tags:
-  - Indicador Gobierno Vasco
-  - Territorio historico
-  - Sexo
+  - status.sexo
 x_axis_label: ''
 

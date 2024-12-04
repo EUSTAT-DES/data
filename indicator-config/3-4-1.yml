@@ -53,5 +53,6 @@ sources:
     url_text: FUENTE.Eustat_edef
     logo: FUENTE.Eustat_logo
 standalone: false
-tags: []
+tags:
+  - status.sexo
 x_axis_label: ''

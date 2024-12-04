@@ -36,4 +36,5 @@ sources:
     url_text: FUENTE.Eustat_iig
     logo: FUENTE.Eustat_logo
 standalone: false
-tags: []
+tags:
+  - status.territorio

@@ -37,4 +37,5 @@ sources:
     url_text: FUENTE.Eustat_enac
     logo: FUENTE.Eustat_logo
 standalone: false
-tags: []
+tags:
+  - status.territorio

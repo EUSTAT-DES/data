@@ -37,4 +37,5 @@ sources:
     url_text: FUENTE.GE_Sanidad_edo
     logo: FUENTE.GE_logo
 standalone: false
-tags: []
+tags:
+  - status.sexo

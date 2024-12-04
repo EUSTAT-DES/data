@@ -7,7 +7,15 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Educacion
+    value: ISCED11_0
+  - field: Educacion
+    value: ISCED11_1
+  - field: Educacion
+    value: ISCED11_2
+  - field: Educacion
+    value: ISCED11_3
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
