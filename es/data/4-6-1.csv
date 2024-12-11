@@ -1,7 +1,13 @@
-Year,Tipo de competencia,Sexo,Edad,Units,Value
-2012,Matemáticas,,16-65 años,Porcentaje,70.0
-2012,Comprensión lectora,,16-65 años,Porcentaje,68.9
-2012,Matemáticas,Mujer,16-65 años,Porcentaje,72.2
-2012,Comprensión lectora,Mujer,16-65 años,Porcentaje,68.6
-2012,Matemáticas,Hombre,16-65 años,Porcentaje,67.9
-2012,Comprensión lectora,Hombre,16-65 años,Porcentaje,69.2
+Year,Tipo de competencia,Sexo,Units,Value
+2023,Comprensión lectora,,Porcentaje,77.6
+2023,Matemáticas,,Porcentaje,81.0
+2013,Comprensión lectora,,Porcentaje,68.1
+2013,Matemáticas,,Porcentaje,69.2
+2023,Matemáticas,Mujer,Porcentaje,78.7
+2013,Comprensión lectora,Mujer,Porcentaje,68.2
+2013,Matemáticas,Mujer,Porcentaje,67.0
+2023,Comprensión lectora,Mujer,Porcentaje,80.1
+2023,Matemáticas,Hombre,Porcentaje,83.4
+2013,Matemáticas,Hombre,Porcentaje,71.5
+2023,Comprensión lectora,Hombre,Porcentaje,74.9
+2013,Comprensión lectora,Hombre,Porcentaje,67.9

@@ -5723,8 +5723,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SKILL_NMRCY",
                 "SKILL_LTRCY",
+                "SKILL_NMRCY",
                 ""
               ]
             }
@@ -5736,16 +5736,6 @@
               "enum": [
                 "F",
                 "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y16T65",
                 ""
               ]
             }

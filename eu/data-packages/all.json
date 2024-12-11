@@ -6052,8 +6052,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SKILL_NMRCY",
                 "SKILL_LTRCY",
+                "SKILL_NMRCY",
                 ""
               ]
             },
@@ -6070,17 +6070,6 @@
               ]
             },
             "title": "Sexo"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16-65 años",
-                ""
-              ]
-            },
-            "title": "Edad"
           },
           {
             "name": "Units",

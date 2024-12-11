@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Matemáticas",
                 "Comprensión lectora",
+                "Matemáticas",
                 ""
               ]
             },
@@ -38,17 +38,6 @@
               ]
             },
             "title": "Sexo"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16-65 años",
-                ""
-              ]
-            },
-            "title": "Edad"
           },
           {
             "name": "Units",
