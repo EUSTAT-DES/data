@@ -30,10 +30,10 @@ formula: |
 
 desagregacion:
 
-observaciones: >-
-El indicador de la Comunidad Autónoma de Euskadi corresponde a  datos de administraciones autonómicas y locales consolidados.
+observaciones: |
+  El indicador de la Comunidad Autónoma de Euskadi corresponde a  datos de administraciones autonómicas y locales consolidados.
 
-Los indicadores territorializados Araba/Álava, Bizkaia y Gipuzkoa, corresponden sólo a entidades locales.
+  Los indicadores territorializados Araba/Álava, Bizkaia y Gipuzkoa, corresponden sólo a entidades locales.
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
