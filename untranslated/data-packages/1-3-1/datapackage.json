@@ -19,6 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EU_COV_UNEMPLOY",
                 "EU_COV_PENSN",
                 "EU_COV_RGI",
                 "EU_COV_AES",

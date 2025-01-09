@@ -2531,6 +2531,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EU_COV_UNEMPLOY",
                 "Proporción de personas perceptoras de pensiones contributivas",
                 "Proporción de personas perceptoras de la Renta de Garantía de Ingresos (RGI)",
                 "Unidades convivenciales perceptoras de Ayudas de Emergencia Social",
