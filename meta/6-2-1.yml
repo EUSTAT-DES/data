@@ -1,0 +1,71 @@
+ # Metadatos nacionales (ficha metodológica)
+
+indicador_disponible: >-
+  GRAFICO.6-2-1-titulo
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.6-2-titulo
+#  indicador_onu_global: indicador_largo.6-2-1-titulo
+
+definicion: >-
+  Proporción de viviendas principales con acceso a servicios básicos (abastecimiento de agua corriente y baño)
+
+formula: |
+  $$PVP_{servicios\, básicos}^{t} = \frac{VP_{servicios\, básicos}^{t}}{VP^{t}} \cdot 100$$
+
+  donde:
+
+  $VP_{servicios\, básicos}^{t} =$ viviendas principales con acceso a servicios básicos en el año $t$
+
+  $VP^{t} =$ viviendas principales en el año $t$
+
+desagregacion: |
+  Servicios básicos: abastecimiento de agua corriente y baño
+
+  Territorio histórico/Comarca/Municipio
+
+observaciones: >-
+  Vivienda principal es aquella vivienda que es utilizada toda o la mayor parte del año como 
+  residencia habitual por una o más personas
+
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+
+  El acceso a servicios de saneamiento e higiene seguros es esencial para la buena salud, el bienestar y la productividad y se reconoce 
+  ampliamente como un derecho humano. La gestión insegura de los excrementos humanos y las prácticas deficientes de saneamiento están 
+  estrechamente asociadas con las enfermedades diarreicas, que exacerban la malnutrición y siguen siendo un importante problema de salud 
+  pública y una de las principales causas mundiales de muerte infantil, así como con las infecciones parasitarias, como los helmintos 
+  transmitidos por el suelo (gusanos) y una serie de otras enfermedades tropicales desatendidas. Si bien el acceso a instalaciones sanitarias 
+  higiénicas es esencial para reducir la transmisión de patógenos, es igualmente importante garantizar la gestión, el tratamiento y la 
+  eliminación seguros de los excrementos producidos. 
+  
+  El uso compartido de las instalaciones de saneamiento también es una consideración importante, dados los impactos negativos en la 
+  dignidad, la privacidad y la seguridad personal. La falta de acceso a instalaciones de saneamiento e higiene adecuadas es una causa 
+  importante de riesgos y ansiedad, especialmente para las mujeres y las niñas. Por todas estas razones, el acceso a servicios 
+  de saneamiento e higiene que prevengan enfermedades, proporcionen privacidad y garanticen la dignidad se ha reconocido como un 
+  derecho humano básico. 
+  
+  La meta 6.2 de los ODS relacionada con el saneamiento y la higiene tiene por objeto lograr este derecho 
+  mediante el acceso universal a servicios gestionados de manera segura.
+
+
+dato_global: |
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.2.1&seriesCode=SH_SAN_HNDWSH&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA">Proporción de la población con instalaciones básicas para el lavado de manos en sus instalaciones, por zona urbana/rural (%) SH_SAN_HNDWSH</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.2.1&seriesCode=SH_SAN_SAFE&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA">
+  Proporción de la población que utiliza servicios de saneamiento gestionados de forma segura, por zonas urbanas o rurales (%) SH_SAN_SAFE</a> UNSTATS
+
+comparabilidad: >-
+  El indicador disponible no cumple los metadatos de Naciones Unidas, pero aporta información similar
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01.pdf">Metadata 6-2-1.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'
