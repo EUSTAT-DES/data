@@ -51,6 +51,5 @@ sources:
     url_text: FUENTE.INE_ipc
     logo: FUENTE.INE_logo
 standalone: false
-tags:
-  - status.territorio
+tags: ''
 x_axis_label: ''
