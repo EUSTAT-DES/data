@@ -44,7 +44,5 @@ sources:
     url_text: FUENTE.Eustat_edef
     logo: FUENTE.Eustat_logo
 standalone: false
-tags:
-  - status.municipio
-  - status.sexo
+tags: ''
 x_axis_label: ''
