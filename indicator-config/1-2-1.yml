@@ -54,7 +54,5 @@ sources:
     url_text: FUENTE.Euskadi_Bienestar_epds
     logo: FUENTE.Euskadi_logo
 standalone: false
-tags:
-  - status.territorio
-  - status.sexo
+tags: ''
 x_axis_label: ''
