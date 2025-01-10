@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SP_ACS_BSRVH2O",
-                "SP_ACS_BSRVSAN",
+                "Proporción de la población que utiliza servicios básicos de agua potable",
+                "Proporción de la población que utiliza servicios básicos de saneamiento",
                 ""
               ]
             },
