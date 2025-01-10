@@ -2831,12 +2831,12 @@
             "type": "integer"
           },
           {
-            "name": "ServBasico",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "BSRVH2O",
-                "BSRVSAN",
+                "SP_ACS_BSRVH2O",
+                "SP_ACS_BSRVSAN",
                 ""
               ]
             }

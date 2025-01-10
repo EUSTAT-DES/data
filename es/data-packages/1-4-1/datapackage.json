@@ -16,16 +16,16 @@
             "title": "Año"
           },
           {
-            "name": "ServBasico",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Agua corriente",
-                "Baño",
+                "SP_ACS_BSRVH2O",
+                "SP_ACS_BSRVSAN",
                 ""
               ]
             },
-            "title": "Servicios básicos"
+            "title": "Serie"
           },
           {
             "name": "Territorio",
