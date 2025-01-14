@@ -28,17 +28,6 @@
             "title": "Sexo"
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16 años y más",
-                ""
-              ]
-            },
-            "title": "Edad"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
