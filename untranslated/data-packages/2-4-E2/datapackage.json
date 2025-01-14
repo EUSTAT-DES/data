@@ -12,7 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU_sdg_02_60_KG_PER_HA",
+                "EU_sdg_02_60_KT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Actividad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NFR_3DF",
+                "NFR_3B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG_PER_HA",
+                "KT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

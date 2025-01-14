@@ -12,8 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Emisiones de amoníaco de la agricultura y ganadería por hectárea",
+                "Emisiones de amoníaco de la agricultura y ganadería",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Actividad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agricultura",
+                "Ganadería",
+                ""
+              ]
+            },
+            "title": "Actividad económica"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kg por hectárea",
+                "Kilotoneladas",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",
