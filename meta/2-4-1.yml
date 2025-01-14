@@ -10,19 +10,12 @@ meta_global: meta_largo.2-4-titulo
 
 
 definicion: >-
-  Proporción de la superficie agrícola (cultivos y prados y pastizales) destinada a la producción ecológica
 
-formula: |
-  $$PSA_{ecológica}^{t} = \frac{SA_{ecológica}^{t}}{SA^{t}} \cdot 100$$
 
-  donde:
+formula:
 
-  $SA_{ecológica}^t =$ superficie agrícola destinada a la producción ecológica en el año $t$
-
-  $SA^{t} =$ superficie agrícola (cultivos, prados y pastizales) en el año $t$
 
 desagregacion: >-
-  Territorio histórico/Comarca/Municipio
 
 observaciones: >-
 
@@ -60,31 +53,11 @@ justificacion_global: |
    - Tenencia de la tierra 
    - Derechos de tenencia seguros de la tierra
 
-  Si bien la agricultura orgánica no se menciona explícitamente en la 
-  Agenda 2030, la UE considera la agricultura orgánica como un método de 
-  producción que pone el mayor énfasis en la protección del medio ambiente 
-  y la vida silvestre y, con respecto a la producción ganadera, en consideraciones 
-  de bienestar animal. Evita o reduce en gran medida el uso de insumos químicos 
-  sintéticos como fertilizantes, pesticidas, aditivos y productos médicos. 
-  Está prohibida la producción de organismos genéticamente modificados (OGM) y 
-  su uso en la alimentación animal.
-
-  El indicador "Superficie dedicada a la agricultura ecológica" forma parte del 
-  conjunto de indicadores de los Objetivos de Desarrollo Sostenible (ODS) 
-  de la UE, y está incluido en las Prioridades de la Comisión Europea bajo el Acuerdo Verde Europeo. 
-  El indicador mide la proporción del área agrícola utilizada (SAU) total ocupada por la 
-  agricultura orgánica (áreas existentes cultivadas orgánicamente y áreas en proceso de conversión).
-
-
 dato_global: | 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.4.1&seriesCode=AG_LND_SUST_PRXCSS&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Progreso hacia una agricultura productiva y sostenible, puntaje de estado actual AG_LND_SUST_PRXCSS</a> UNSTATS
 
-  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_02_40/default/table?lang=en&category=sdg.sdg_02">Superficie dedicada a la agricultura ecológica (sdg_02_40)</a> Eurostat
-
 comparabilidad: >-
-  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas al no
-  utilizar la misma forma de cálculo, pero sí es comparable con el indicador europeo "superficie
-  dedicada a la agricultura ecológica".
+  El indicador disponible cumple parcialmente con los metadatos del indicador de Naciones Unidas.
 
 indicador_meta_enlace: |
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-04-01.pdf">Metadata 2-4-1 (1).pdf</a> (solo en inglés)

@@ -5,76 +5,57 @@ indicador_disponible: >-
 
 objetivo_global: objetivo_largo.2-titulo
 meta_global: meta_largo.2-4-titulo
-#  indicador_onu_global:
+#  indicador_onu_global: indicador_largo.2-4-1-titulo
+
+
 
 definicion: >-
-  Emisiones de amoníaco ($NH_3$) de la agricultura y ganadería
+  Proporción de la superficie agrícola (cultivos y prados y pastizales) destinada a la producción ecológica
 
 formula: |
+  $$PSA_{ecológica}^{t} = \frac{SA_{ecológica}^{t}}{SA^{t}} \cdot 100$$
 
-  $$ENH3_{agricultura\, y\, ganadería}^{t} = ENH3_{agricultura}^{t} + ENH3_{ganadería}^{t}$$
+  donde:
 
-  donde: 
+  $SA_{ecológica}^t =$ superficie agrícola destinada a la producción ecológica en el año $t$
 
-  $ENH3_{agricultura}^{t}$ emisiones de $NH_3$ de la agricultura en el año $t$
-
-  $ENH3_{ganadería}^{t}$ emisiones de $NH_3$ de la ganadería en el año $t$
-
+  $SA^{t} =$ superficie agrícola (cultivos, prados y pastizales) en el año $t$
 
 desagregacion: >-
-  Actividad agrícola: agricultura, ganadería
+  Territorio histórico/Comarca/Municipio
 
-observaciones: |
-
-  Las emisiones de amoníaco asignadas a la agricultura son las 
-  correspondientes a las actividades con códigos NFR (Nomenclature for Reporting): 
-  3Da1, 3Da2a, 3Da2b, 3Da2c, 3Da3, 3Da4, 3Db, 3Dc, 3Dd, 3De, 3Df, 3F y 3I.
-
-  Las emisiones de amoníaco asignadas a la ganadería son las correspondientes a 
-  las actividades con códigos NFR (Nomenclature for Reporting): 3B1a, 3B1b, 
-  3B2, 3B3, 3B4a, 3B4d, 3B4e, 3B4f, 3B4gi, 3B4gii, 3B4giii, 3B4giv y 3B4h.
+observaciones: >-
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
+justificacion_global: |  
+  Si bien la agricultura orgánica no se menciona explícitamente en la 
+  Agenda 2030, la UE considera la agricultura orgánica como un método de 
+  producción que pone el mayor énfasis en la protección del medio ambiente 
+  y la vida silvestre y, con respecto a la producción ganadera, en consideraciones 
+  de bienestar animal. Evita o reduce en gran medida el uso de insumos químicos 
+  sintéticos como fertilizantes, pesticidas, aditivos y productos médicos. 
+  Está prohibida la producción de organismos genéticamente modificados (OGM) y 
+  su uso en la alimentación animal.
 
-justificacion_global: |
-  El indicador forma parte del conjunto de indicadores de los Objetivos de Desarrollo Sostenible (ODS) de la UE.
-  Se utiliza para hacer el seguimiento del progreso hacia el ODS 2 sobre poner fin al hambre y la desnutrición, y está 
-  integrado en las prioridades de la Comisión Europea en el marco del Acuerdo Verde Europeo
+  El indicador "Superficie dedicada a la agricultura ecológica" forma parte del 
+  conjunto de indicadores de los Objetivos de Desarrollo Sostenible (ODS) 
+  de la UE, y está incluido en las Prioridades de la Comisión Europea bajo el Acuerdo Verde Europeo. 
+  El indicador mide la proporción del área agrícola utilizada (SAU) total ocupada por la 
+  agricultura orgánica (áreas existentes cultivadas orgánicamente y áreas en proceso de conversión).
 
-  El indicador mide las emisiones de amoniaco ($NH_3$) como resultado de 
-  la producción agrícola. Estas emisiones resultan del manejo del estiércol, 
-  las aplicaciones de fertilizantes nitrogenados inorgánicos y estiércol animal 
-  aplicado al suelo, así como la orina y el estiércol depositados por los animales en pastoreo.
-
-  El amoníaco ($NH_3$) es un gas incoloro, de olor acre y corrosivo que se produce por la descomposición 
-  de la materia orgánica vegetal y de los excrementos de humanos y animales. Cuando se libera a la atmósfera, 
-  el amoníaco contribuye al nivel de contaminación del aire. El sector agrícola sigue siendo el mayor contribuyente 
-  a las emisiones de amoníaco en la UE.
-
-  Las medidas implementadas en el marco de la Política Agrícola Común (PAC) y la 
-  Directiva Marco del Agua han llevado a la UE a reducir las emisiones de 
-  amoníaco procedentes de la agricultura desde la década de 1990. En concreto, las 
-  medidas para cambiar las prácticas agrícolas provocaron reducciones en el uso de 
-  fertilizantes nitrogenados y una reducción de la densidad ganadera por hectárea en toda la UE-15.
-
-  La Directiva sobre Compromisos Nacionales de Reducción de Emisiones (Directiva NEC) 
-  establece compromisos nacionales de reducción de emisiones para los Estados miembros y la
-  UE para cinco importantes contaminantes del aire, incluido el amoníaco.
 
 dato_global: >-
-  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_02_60/default/table?lang=en&category=sdg.sdg_02">
-  Emisiones de amoníaco de la agricultura (sdg_02_60)</a> Eurostat
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_02_40/default/table?lang=en&category=sdg.sdg_02">Superficie dedicada a la agricultura ecológica (sdg_02_40)</a> Eurostat
 
-comparabilidad: >-
-  El indicador disponible en la C.A. de Euskadi es comparable con el indicador europeo.
+comparabilidad: |
+  El indicador disponible es comparable con el indicador europeo "superficie dedicada a la agricultura ecológica".
 
-indicador_meta_enlace: >-
-  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_02_60_esmsip2.htm">Metadata sdg_20_60</a> (solo en inglés)<br>
-
+indicador_meta_enlace: |
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_02_40_esmsip2.htm">Metadatos Eurostat (sdg_02_40)</a> (solo en inglés)
 
 national_data_updated_date: '2024-07-29'
 national_metadata_updated_date: '2024-07-29'
