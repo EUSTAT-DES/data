@@ -19,12 +19,12 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: GRAFICO.2-4-E1-titulo
+graph_title: GRAFICO.2-4-E2-titulo
 graph_titles: []
 graph_type: line
 indicator_available: ''
-indicator_name: GRAFICO.2-4-E1-titulo
-indicator_number: 2.4.E1
+indicator_name: GRAFICO.2-4-E2-titulo
+indicator_number: 2.4.E2
 indicator_tabs:
   override: false
   tab_1: ''
@@ -32,7 +32,7 @@ indicator_tabs:
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: ''
-page_content: GRAFICO.2-4-E1-contenido
+page_content: GRAFICO.2-4-E2-contenido
 permalink: ''
 placeholder: ''
 precision: []
