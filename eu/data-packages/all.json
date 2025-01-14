@@ -1773,7 +1773,7 @@
           }
         ]
       },
-      "title": "GRAFICO.2-4-E1-titulo"
+      "title": "2-4-E1"
     },
     {
       "path": "3-5-1/data.csv",
@@ -14789,6 +14789,30 @@
         ]
       },
       "title": "Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025"
+    },
+    {
+      "path": "2-4-E2/data.csv",
+      "name": "2-4-E2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "GRAFICO.2-4-E2-titulo"
     },
     {
       "path": "11-7-1/data.csv",
