@@ -9812,7 +9812,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Euros",
+                "Millones de euros",
                 ""
               ]
             },
@@ -9820,7 +9820,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Valor"
           }
         ]

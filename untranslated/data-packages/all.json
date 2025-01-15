@@ -9321,14 +9321,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EUR",
+                "EUR_1000000",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
