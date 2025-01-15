@@ -9724,9 +9724,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1.0",
-                "20.0",
-                "48.0",
+                "ES211",
+                "ES212",
+                "ES213",
                 ""
               ]
             }
@@ -10893,9 +10893,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1.0",
-                "20.0",
-                "48.0",
+                "ES211",
+                "ES212",
+                "ES213",
                 ""
               ]
             }
@@ -12494,19 +12494,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_OVWGT_GE18",
                 "EU_OVWGT_Y2T17",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y_GE18",
-                "Y2T17",
+                "EU_OVWGT_GE18",
                 ""
               ]
             }

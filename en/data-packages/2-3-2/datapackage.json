@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1.0",
-                "20.0",
-                "48.0",
+                "Araba/Álava",
+                "Gipuzkoa",
+                "Bizkaia",
                 ""
               ]
             },

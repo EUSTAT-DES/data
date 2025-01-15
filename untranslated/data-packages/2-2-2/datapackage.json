@@ -19,19 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_OVWGT_GE18",
                 "EU_OVWGT_Y2T17",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y_GE18",
-                "Y2T17",
+                "EU_OVWGT_GE18",
                 ""
               ]
             }

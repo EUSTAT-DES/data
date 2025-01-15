@@ -20,24 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tasa de obesidad de la población adulta",
                 "Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",
+                "Tasa de obesidad de la población adulta",
                 ""
               ]
             },
             "title": "Serie"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "18 años y más",
-                "2-17 años",
-                ""
-              ]
-            },
-            "title": "Edad"
           },
           {
             "name": "Sexo",

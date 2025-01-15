@@ -1,31 +1,31 @@
-Year,Series,Edad,Sexo,Units,Value
-2017,Tasa de obesidad de la población adulta,18 años y más,,Porcentaje,13.8
-2013,Tasa de obesidad de la población adulta,18 años y más,,Porcentaje,14.5
-2019,Tasa de obesidad de la población adulta,18 años y más,,Porcentaje,13.5
-2014,Tasa de obesidad de la población adulta,18 años y más,,Porcentaje,13.0
-2023,Tasa de obesidad de la población adulta,18 años y más,,Porcentaje,14.0
-2011,Tasa de obesidad de la población adulta,18 años y más,,Porcentaje,15.3
-2018,Tasa de obesidad de la población adulta,18 años y más,,Porcentaje,12.8
-2019,Tasa de obesidad de la población adulta,18 años y más,Mujer,Porcentaje,13.5
-2013,Tasa de obesidad de la población adulta,18 años y más,Mujer,Porcentaje,13.8
-2023,Tasa de obesidad de la población adulta,18 años y más,Mujer,Porcentaje,13.5
-2018,Tasa de obesidad de la población adulta,18 años y más,Mujer,Porcentaje,11.7
-2017,Tasa de obesidad de la población adulta,18 años y más,Mujer,Porcentaje,13.5
-2011,Tasa de obesidad de la población adulta,18 años y más,Mujer,Porcentaje,15.3
-2014,Tasa de obesidad de la población adulta,18 años y más,Mujer,Porcentaje,11.9
-2018,Tasa de obesidad de la población adulta,18 años y más,Hombre,Porcentaje,14.0
-2023,Tasa de obesidad de la población adulta,18 años y más,Hombre,Porcentaje,14.6
-2017,Tasa de obesidad de la población adulta,18 años y más,Hombre,Porcentaje,14.2
-2013,Tasa de obesidad de la población adulta,18 años y más,Hombre,Porcentaje,15.2
-2014,Tasa de obesidad de la población adulta,18 años y más,Hombre,Porcentaje,14.2
-2011,Tasa de obesidad de la población adulta,18 años y más,Hombre,Porcentaje,15.2
-2019,Tasa de obesidad de la población adulta,18 años y más,Hombre,Porcentaje,13.5
-2018,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",2-17 años,,Porcentaje,33.4
-2023,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",2-17 años,,Porcentaje,36.1
-2013,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",2-17 años,,Porcentaje,35.6
-2018,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",2-17 años,Mujer,Porcentaje,30.3
-2023,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",2-17 años,Mujer,Porcentaje,34.3
-2013,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",2-17 años,Mujer,Porcentaje,36.4
-2018,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",2-17 años,Hombre,Porcentaje,34.1
-2013,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",2-17 años,Hombre,Porcentaje,35.0
-2023,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",2-17 años,Hombre,Porcentaje,37.7
+Year,Series,Sexo,Units,Value
+2013,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",,Porcentaje,35.6
+2017,Tasa de obesidad de la población adulta,,Porcentaje,13.8
+2018,Tasa de obesidad de la población adulta,,Porcentaje,12.8
+2014,Tasa de obesidad de la población adulta,,Porcentaje,13.0
+2011,Tasa de obesidad de la población adulta,,Porcentaje,15.3
+2013,Tasa de obesidad de la población adulta,,Porcentaje,14.5
+2023,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",,Porcentaje,36.1
+2018,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",,Porcentaje,33.4
+2023,Tasa de obesidad de la población adulta,,Porcentaje,14.0
+2019,Tasa de obesidad de la población adulta,,Porcentaje,13.5
+2013,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",Mujer,Porcentaje,36.4
+2018,Tasa de obesidad de la población adulta,Mujer,Porcentaje,11.7
+2018,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",Mujer,Porcentaje,30.3
+2023,Tasa de obesidad de la población adulta,Mujer,Porcentaje,13.5
+2017,Tasa de obesidad de la población adulta,Mujer,Porcentaje,13.5
+2011,Tasa de obesidad de la población adulta,Mujer,Porcentaje,15.3
+2013,Tasa de obesidad de la población adulta,Mujer,Porcentaje,13.8
+2019,Tasa de obesidad de la población adulta,Mujer,Porcentaje,13.5
+2014,Tasa de obesidad de la población adulta,Mujer,Porcentaje,11.9
+2023,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",Mujer,Porcentaje,34.3
+2017,Tasa de obesidad de la población adulta,Hombre,Porcentaje,14.2
+2013,Tasa de obesidad de la población adulta,Hombre,Porcentaje,15.2
+2011,Tasa de obesidad de la población adulta,Hombre,Porcentaje,15.2
+2013,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",Hombre,Porcentaje,35.0
+2018,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",Hombre,Porcentaje,34.1
+2018,Tasa de obesidad de la población adulta,Hombre,Porcentaje,14.0
+2023,"Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",Hombre,Porcentaje,37.7
+2019,Tasa de obesidad de la población adulta,Hombre,Porcentaje,13.5
+2014,Tasa de obesidad de la población adulta,Hombre,Porcentaje,14.2
+2023,Tasa de obesidad de la población adulta,Hombre,Porcentaje,14.6

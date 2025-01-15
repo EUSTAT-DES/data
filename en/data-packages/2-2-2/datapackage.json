@@ -20,24 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_OVWGT_GE18",
                 "EU_OVWGT_Y2T17",
+                "EU_OVWGT_GE18",
                 ""
               ]
             },
             "title": "Serie"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "18 años y más",
-                "2-17 años",
-                ""
-              ]
-            },
-            "title": "Edad"
           },
           {
             "name": "Sexo",
