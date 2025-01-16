@@ -3557,28 +3557,6 @@
             }
           },
           {
-            "name": "Educacion",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISCED11_2",
-                "ISCED11_3",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y18T20",
-                "Y20T22",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
