@@ -11976,6 +11976,7 @@
               "enum": [
                 "AG_LND_FOVH",
                 "AG_LND_NFI",
+                "EU_AG_LND_AGRWAG",
                 ""
               ]
             }
@@ -11986,6 +11987,7 @@
             "constraints": {
               "enum": [
                 "PT",
+                "IX",
                 ""
               ]
             }

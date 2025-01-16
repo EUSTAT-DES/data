@@ -22,6 +22,7 @@
               "enum": [
                 "Proporción de superficie agrícola que ha alcanzado un nivel aceptable o deseable de valor de producción agrícola por hectárea",
                 "Proporción de la superficie de tierras agrícolas que ha alcanzado un nivel aceptable o deseable de ingresos agrícolas netos",
+                "Índice de salarios agrarios",
                 ""
               ]
             },
@@ -33,6 +34,7 @@
             "constraints": {
               "enum": [
                 "Porcentaje",
+                "Índice",
                 ""
               ]
             },
