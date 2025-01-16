@@ -531,17 +531,6 @@
             "title": "Año"
           },
           {
-            "name": "Educacion",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Secundaria inferior",
-                ""
-              ]
-            },
-            "title": "Nivel educativo"
-          },
-          {
             "name": "Competencia",
             "type": "string",
             "constraints": {

@@ -509,16 +509,6 @@
             "type": "integer"
           },
           {
-            "name": "Educacion",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISCED11_2",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Competencia",
             "type": "string",
             "constraints": {
