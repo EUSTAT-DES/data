@@ -48,6 +48,11 @@ sources:
     url: FUENTE.Euskadi_Bienestar_epds_url
     url_text: FUENTE.Euskadi_Bienestar_epds
     logo: FUENTE.Euskadi_logo
+  - organisation: FUENTE.INE
+    periodicity: FUENTE.FREQ_A1
+    url: FUENTE.INE_ecv_url
+    url_text: FUENTE.INE_ecv
+    logo: FUENTE.INE_logo
 standalone: true
 tags: []
 x_axis_label: ''
