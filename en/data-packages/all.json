@@ -516,6 +516,82 @@
       "title": "Proportion of population living below the national poverty line, by sex and age"
     },
     {
+      "path": "2-c-1-bis/data.csv",
+      "name": "2-c-1-bis",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IFPA",
+                "IFPA_rolling",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Alimento",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Aceite",
+                "Cereales",
+                "Huevos",
+                "Leche",
+                "Pan",
+                ""
+              ]
+            },
+            "title": "Alimento"
+          },
+          {
+            "name": "Ambito",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Gipuzkoa",
+                "Bizkaia",
+                ""
+              ]
+            },
+            "title": "Ámbito"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Índice",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Indicator of food price anomalies"
+    },
+    {
       "path": "4-1-1/data.csv",
       "name": "4-1-1",
       "profile": "tabular-data-resource",
