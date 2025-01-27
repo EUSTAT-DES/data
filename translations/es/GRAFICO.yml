@@ -181,6 +181,11 @@ OCECA-1-a-2-2: Proporción del gasto de las administraciones públicas autonómi
 6-2-1-contenido: "<b>Dirección deseada:</b> Aumento"
 6-3-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 6-4-E1-contenido: "<b>Dirección deseada:</b> Descenso del consumo per cápita"
+6-5-2-contenido: "La gestión integrada de ríos y lagos se organiza en comisiones internacionales para cuencas hidrográficas enteras en el caso de aguas transfronterizas. 
+  Las actividades de las comisiones se basan en acuerdos internacionales. Parte de la C.A. de Euskadi se ubica en la cuenca hidrográfica internacional de Garonne – Cantabrico -Ebro.
+  En este sentido, en febrero del año 2006 se firmó en Toulouse el Acuerdo Administrativo entre España y Francia sobre gestión del agua. Este acuerdo de cooperación se estableció con el fin 
+  de coordinar de la mejor manera posible las medidas tomadas en las cuencas hidrográficas situadas a ambos lados de la frontera entre los dos países, en aplicación de la Directiva Marco del Agua (DMA), 
+  así como establecer una cooperación administrativa regular y seguida."
 6-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
 
@@ -198,7 +203,7 @@ OCECA-1-a-2-2: Proporción del gasto de las administraciones públicas autonómi
 8-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 8-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
 8-5-E1-contenido: "<b>Dirección deseada:</b> En la serie Tasa de ocupación, el objetivo europeo es llegar al 78% en 2030, en la serie Brecha de género el objetivo es que la brecha no sea mayor que 5,8 pp en el año 2030"
-8-6-1-contenido: "<b>Dirección deseada:</b> El objetivo europeo es que el valor de indicador en los jóvenes entre 15-29 años de edad no sea mayor de 9% en el año 2030"
+8-6-1-contenido: "<b>Dirección deseada:</b> El objetivo establecido a nivel europeo es que, para el año 2030, el valor del indicador correspondiente a los jóvenes de entre 15 y 29 años no supere el 9%"
 8-9-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 8-10-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 8-10-2-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -281,3 +286,6 @@ OCECA-1-a-2-2: Proporción del gasto de las administraciones públicas autonómi
 embed-1-2-1: "https://eustat-des.github.io/site/embed/1-2-1"
 embed-1-2-2: "https://eustat-des.github.io/site/embed/1-2-2"
 embed-1-a-2: "https://eustat-des.github.io/site/embed/1-a-2"
+embed-6-1-1: "https://eustat-des.github.io/site/embed/6-1-1"
+embed-8-9-1: "https://eustat-des.github.io/site/embed/8-9-1"
+embed-9-4-1: "https://eustat-des.github.io/site/embed/9-4-1"

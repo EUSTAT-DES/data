@@ -10,15 +10,15 @@ meta_global: meta_largo.7-3-titulo
 
 definicion: |
 
-  Consumo de energía eléctrica por unidad de PIB real
+  Consumo interior bruto de energía por unidad de PIB real.
 
 formula: |
 
-  $$CEE^{t} = \frac{DEE^{t}}{PIB_{2015}^{t}}$$
+  $$IE^{t} = \frac{CE^{t}}{PIB_{2015}^{t}}$$
 
   donde:
 
-  $DEE^{t} =$ demanda de energía eléctrica en barras de central en el año $t$
+  $CE^{t} =$ consumo interior bruto de energía en el año $t$
 
   $PIB^{t} =$ producto interior bruto en volumen encadenado con referencia 2015 en el año $t$
 
@@ -31,8 +31,6 @@ periodicidad: FUENTE.FREQ_A
 observaciones: >- 
 
 
-
-texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
