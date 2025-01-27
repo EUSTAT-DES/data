@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de la población que utiliza servicios básicos de agua potable",
-                "Proporción de la población que utiliza servicios básicos de saneamiento",
+                "Proporción de viviendas familiares principales con acceso a agua corriente",
+                "Proporción de viviendas familiares principales que disponen de baño",
                 ""
               ]
             },
