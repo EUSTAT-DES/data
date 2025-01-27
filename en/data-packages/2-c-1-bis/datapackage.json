@@ -12,60 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IFPA",
-                "IFPA_rolling",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
-            "name": "Alimento",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Aceite",
-                "Cereales",
-                "Huevos",
-                "Leche",
-                "Pan",
-                ""
-              ]
-            },
-            "title": "Alimento"
-          },
-          {
-            "name": "Ambito",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Araba/Álava",
-                "Gipuzkoa",
-                "Bizkaia",
-                ""
-              ]
-            },
-            "title": "Ámbito"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Índice",
-                ""
-              ]
-            },
-            "title": "Unidad"
           },
           {
             "name": "Value",

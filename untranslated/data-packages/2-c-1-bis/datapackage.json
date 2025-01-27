@@ -12,55 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IFPA",
-                "IFPA_rolling",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Alimento",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Aceite",
-                "Cereales",
-                "Huevos",
-                "Leche",
-                "Pan",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Ambito",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ES211",
-                "ES212",
-                "ES213",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IX",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
