@@ -3173,7 +3173,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Población en zonas de abastecimiento que notifican al Sistema de Información Nacional de Agua de Consumo (SINAC)",
+                "Proporción de personas en zonas de abastecimiento que notifican al Sistema de Información Nacional de Agua de Consumo (SINAC)",
                 ""
               ]
             },
