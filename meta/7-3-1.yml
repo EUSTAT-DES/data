@@ -28,8 +28,6 @@ desagregacion: >-
 periodicidad: FUENTE.FREQ_A
 
 
-observaciones: >- 
-
 
 
  # Metadatos mundiales (Descripción del indicador)  
@@ -51,7 +49,7 @@ dato_global: |
 
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas pero aporta información similar.
 
 indicador_meta_enlace: 
   '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-03-01.pdf">Metadata 7-3-1.pdf</a> (solo en inglés)'

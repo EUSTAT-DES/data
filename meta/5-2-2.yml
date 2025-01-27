@@ -9,22 +9,19 @@ meta_global: meta_largo.5-2-titulo
 
 
 definicion: >-
-  Número de casos registrados de violencia contra las mujeres (victimizaciones) de manos de su pareja 
-  o ex pareja, violencia intrafamiliar o sexual sobre el total de mujeres
+  Número de casos registrados de violencia sexual contra las mujeres (victimizaciones) cometidos por autores de fuera del ámbito familiar, por cada 10.000 mujeres
 
 
 formula: |
-  $$TVIF^{t} = \frac{VT^{t}}{P_{mujeres}^{t}} \cdot 100$$
+  $$TVIS^{t} = \frac{VS^{t}}{P_{mujeres}^{t}} \cdot 10000$$
 
   donde:
 
-  $VT^{t} =$ número de casos registrados de violencia contra las mujeres de manos de su pareja 
-  o ex pareja, violencia intrafamiliar o sexual en el año $t$
+  $VS^{t} =$ número de casos registrados de violencia sexual contra las mujeres cometidos por autores de fuera del ámbito familiar en el año $t$
 
   $P_{mujeres}^{t} =$ mujeres a 1 de julio del año $t$
 
 desagregacion: |
-  Tipo de violencia: Todos los tipos de violencia, violencia sexual, violencia intrafamiliar
 
   Territorio histórico/Comarca/Municipio
 
