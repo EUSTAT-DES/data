@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Cargos directivo",
+                "Cargo directivo",
                 "Alta dirección",
                 "Empresaria",
                 ""
