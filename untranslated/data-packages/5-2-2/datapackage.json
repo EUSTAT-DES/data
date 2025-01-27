@@ -15,18 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Violencia",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ALLV",
-                "SEXV",
-                "INTRAV",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {

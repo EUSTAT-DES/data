@@ -20,7 +20,6 @@
             "constraints": {
               "enum": [
                 "SH_H2O_SAFE",
-                "EU_H20_COVNAC",
                 ""
               ]
             }
@@ -37,7 +36,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

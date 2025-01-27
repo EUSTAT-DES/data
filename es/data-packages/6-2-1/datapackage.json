@@ -16,16 +16,16 @@
             "title": "Año"
           },
           {
-            "name": "ServBasico",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Agua corriente",
-                "Baño",
+                "Proporción de la población que utiliza servicios básicos de agua potable",
+                "Proporción de la población que utiliza servicios básicos de saneamiento",
                 ""
               ]
             },
-            "title": "Servicios básicos"
+            "title": "Serie"
           },
           {
             "name": "Territorio",

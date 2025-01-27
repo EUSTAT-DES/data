@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "Población que utiliza servicios de suministro de agua potable gestionados sin riesgos",
-                "Población en zonas de abastecimiento que notifican al Sistema de Información Nacional de Agua de Consumo (SINAC)",
                 ""
               ]
             },
@@ -40,7 +39,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Valor"
           }
         ]

@@ -16,19 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Violencia",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Todos los tipos de violencia",
-                "Violencia sexual",
-                "Violencia intrafamiliar",
-                ""
-              ]
-            },
-            "title": "Tipo de violencia"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
