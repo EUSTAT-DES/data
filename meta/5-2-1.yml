@@ -10,10 +10,10 @@ meta_global: meta_largo.5-2-titulo
 
 definicion: >-
   Número de casos registrados de violencia contra las mujeres (victimizaciones) a manos de su actual 
-  o anterior pareja sobre el total de mujeres
+  o anterior pareja por cada 10.000 mujeres
 
 formula: |
-  $$TVPAAP^{t} = \frac{VAAP^{t}}{P_{mujeres}^{t}} \cdot 100$$
+  $$TVPAAP^{t} = \frac{VAAP^{t}}{P_{mujeres}^{t}} \cdot 10000$$
 
   donde:
 

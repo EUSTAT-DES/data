@@ -11,11 +11,11 @@ meta_global: meta_largo.6-1-titulo
 definicion:  |
   La proporción de la población que utiliza servicios de agua potable gestionados 
   de forma segura se define como la proporción de la población que utiliza una 
-  fuente de agua potable mejorada a la que se puede acceder en las instalaciones, 
+  fuente de agua potable mejorada a la que se puede acceder en el lugar, 
   está disponible cuando se la necesita y está libre de contaminación fecal y 
-  química prioritaria. 
+  química. 
 
-  Las fuentes de agua potable “mejoradas” incluyen: suministro 
+  Las fuentes de agua potable mejoradas incluyen: suministro 
   por tuberías, pozos perforados y entubados, pozos excavados protegidos, 
   manantiales protegidos, agua de lluvia, quioscos de agua y agua envasada y 
   entregada a domicilio.
@@ -26,10 +26,10 @@ formula:  |
 
   donde:
 
-  $PC^{t} =$ población que recibe suministro de agua con cobertura del 
-  Sistema Nacional de Aguas de Consumo en el año $t$
+  $PC^{t} =$ población que utiliza servicios de agua potable gestionados 
+  de forma segura en el año $t$
 
-  $P{t} =$ población a 1 de enero del año $t$
+  $P{t} =$ población a 1 de julio del año $t$
 
 desagregacion: >- 
 
@@ -38,7 +38,6 @@ periodicidad: FUENTE.FREQ_A
 
 observaciones: >-
 
-texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
