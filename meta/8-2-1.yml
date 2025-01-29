@@ -13,11 +13,11 @@ definicion: >-
 
 formula:  |
 
-  $$TCPIBEP^{t} = \frac{{\frac{PIB_{2015}^{t}}{PE^t}-\frac{PIB_{2015}^{t-1}}{PE^{t-1}}}}{\frac{PIB_{2015}^{t-1}}{PE^{t-1}}} \cdot 100$$
+  $$TC_PIB_EP^{t} = \frac{{\frac{PIB_{2022}^{t}}{PE^t}-\frac{PIB_{2022}^{t-1}}{PE^{t-1}}}}{\frac{PIB_{2022}^{t-1}}{PE^{t-1}}} \cdot 100$$
 
   donde:
 
-  $PIB_{2015}^{t} =$ producto interior bruto en volumen encadenado con referencia 2015 en el año $t$
+  $PIB_{2022}^{t} =$ producto interior bruto en volumen encadenado con referencia 2022 en el año $t$
 
   $PE^{t} =$ personas empleadas en el año $t$
 
