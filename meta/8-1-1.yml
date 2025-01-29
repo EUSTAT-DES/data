@@ -13,11 +13,11 @@ definicion: >-
 
 formula:  |
 
-  $$TCPIBP^{t} = \frac{{\frac{PIB_{2015}^{t}}{P^t}-\frac{PIB_{2015}^{t-1}}{P^{t-1}}}}{\frac{PIB_{2015}^{t-1}}{P^{t-1}}} \cdot 100$$
+  $$TC_PIB_PC^{t} = \frac{{\frac{PIB_{2022}^{t}}{P^t}-\frac{PIB_{2022}^{t-1}}{P^{t-1}}}}{\frac{PIB_{2022}^{t-1}}{P^{t-1}}} \cdot 100$$
 
   donde:
 
-  $PIB_{2015}^{t} =$ producto interior bruto en volumen encadenado con referencia 2015 en el año $t$
+  $PIB_{2022}^{t} =$ producto interior bruto en volumen encadenado con referencia 2022 en el año $t$
 
   $P^{t} =$ población a 1 de julio del año $t$
 
@@ -26,8 +26,7 @@ desagregacion: >-
 
 periodicidad: FUENTE.FREQ_A
 
-
-observaciones: >-
+observaciones:
 
 texto_oceca: FUENTE.oceca
 
