@@ -197,8 +197,8 @@ OCECA-6-1-1: Proporción de personas en zonas de abastecimiento que notifican al
 7-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
 
-8-1-1-contenido: "<b>Dirección deseada:</b> En indicadores basados cuyos valores son tasas de crecimiento, se utiliza el criterio experto para la evaluación"
-8-2-1-contenido: "<b>Dirección deseada:</b> En indicadores basados cuyos valores son tasas de crecimiento, se utiliza el criterio experto para la evaluación"
+8-1-1-contenido: "<b>Dirección deseada:</b> Cambio porcentual positivo en el PIB real anual per cápita"
+8-2-1-contenido: "<b>Dirección deseada:</b> Cambio porcentual positivo en el PIB real por persona empleada"
 8-4-2-contenido: "<b>Dirección deseada:</b> Descenso en la serie Consumo doméstico de materiales por PIB"
 8-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 8-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
@@ -281,6 +281,8 @@ OCECA-6-1-1: Proporción de personas en zonas de abastecimiento que notifican al
 1-2-2-notapie: Los datos a partir del 2022 del Indicador de pobreza y exclusion AROPE se 
   calculan con la nueva definicion de la tasa (metodología Eurostat del año 2021), 
   mientras que los datos anteriores corresponden a la definición antigua.
+8-1-1-notapie: Los datos del último año son provisionales
+8-2-1-notapie: Los datos del último año son provisionales
 
 # PESTAÑA "INDICADORES RELACIONADOS" (EMBED)
 embed-1-2-1: "https://eustat-des.github.io/site/embed/1-2-1"
