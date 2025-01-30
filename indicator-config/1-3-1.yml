@@ -35,7 +35,6 @@ sources:
     url: FUENTE.Eustat_pra_url
     url_text: FUENTE.Eustat_pra
     logo: FUENTE.Eustat_logo
-    logo: FUENTE.GE_logo
   - organisation: FUENTE.Eustat
     periodicity: FUENTE.FREQ_A
     url: FUENTE.Eustat_emh_url
@@ -45,5 +44,6 @@ sources:
     periodicity: FUENTE.FREQ_A
     url: FUENTE.GE_Inclusion_ebcss_url
     url_text: FUENTE.GE_Inclusion_ebcss
+    logo: FUENTE.GE_logo
 standalone: false
 tags: ''
