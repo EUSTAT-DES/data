@@ -12,40 +12,40 @@ definicion: |
 
   Series disponibles: 
 
-  <b>Proporción de personas perceptoras de pensiones contributivas:</b>
-  Proporción de la población que es perceptora de pensiones contributivas (% habitantes)
+  <b>Proporción de personas desempleadas que reciben prestaciones por desempleo:</b>
+  Relación entre beneficiarios de prestaciones por desempleo y número de desempleados
   
-  <b>Personas beneficiarias de Renta de Garantía de Ingresos por cada mil habitantes:</b>
-  Número de personas beneficiarias de la Renta
-  de Garantía de Ingresos en el mes de diciembre del año de referencia,  por
-  cada mil habitantes
-
-  <b>Plazas en centros residenciales:</b>
-  Plazas en centros residenciales para personas mayores por cada mil personas mayores 
-
-  <b>Plazas en centros de día:</b>
-  Plazas en centro de día para personas mayores por cada mil personas mayores
+  <b>Proporción de la población que supera la edad legal de jubilación y recibe una pensión:</b>
+  Relación entre personas mayores de la edad legal de jubilación que reciben una pensión y personas mayores de la edad legal de jubilación (incluidas las contributivas y no contributivas)
 
 formula: |
 
-  <b>Proporción de la población que es perceptora de pensiones
-  contributivas</b>
+  <b>Proporción de personas desempleadas que reciben prestaciones por desempleo</b>
 
-  $$PPPC^{t} = \frac{PPC^{t}}{P^{t}} \cdot 100$$
+  $$PP_desempleo^{t} = \frac{P_{prestación\, desempleo}^{t}}{P_desempleo^{t}} \cdot 100$$
 
   donde:
 
-  $PPC^{t} =$ población perceptora de pensiones contributivas en el año $t$
+  $P_{prestación\, desempleo}^{t} =$ población perceptora de prestaciones por desempleo en el año $t$
 
-  $P^{t} =$ población a 1 de julio del año $t$
+  $P_desempleo^{t} =$ población desempleada en el año $t$
+
+  <b>Proporción de la población que supera la edad legal de jubilación y recibe una pensión</b>
+
+  $$PP_jubilación^{t} = \frac{P_{pensionista\,edad\, jubilación}^{t}}{P_{edad\, jubilación}^{t}} \cdot 100$$
+
+  donde:
+
+  $P_{pensionista\,edad\, jubilación} =$ población que supera la edad legal de jubilación y recibe una pensión en el año $t$
+
+  $PP_{edad\, jubilación}^{t} =$ población que supera la edad legal de jubilación a 1 de julio del año $t$
 
 desagregacion: |
   Sexo 
 
-  Territorio histórico/Comarca/Municipio
+  Territorio histórico
 
-observaciones: No hay datos municipales para las prestaciones de RGI y AES en
-  municipios con menos de 5 personas perceptoras.
+observaciones:
 
 periodicidad: FUENTE.FREQ_A
 
@@ -81,8 +81,8 @@ dato_global: >-
   Proporción de niños/hogares que reciben prestaciones en efectivo por hijo/familia, por sexo(%)
   SI_COV_CHLD</a> UNSTATS
 
-comparabilidad: El indicador disponible en la C.A de Euskadi no cumple con 
-  los metadatos de Naciones Unidas, pero aporta información complementaria
+comparabilidad: El indicador disponible en la C.A de Euskadi cumple con 
+  los metadatos de Naciones Unidas, aunque solo incluye 2 de las series.
 
 indicador_meta_enlace: |
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01a.pdf">Metadata 1-3-1 (1).pdf</a> (solo en inglés)
