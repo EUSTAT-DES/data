@@ -22,17 +22,17 @@ formula: |
 
   <b>Proporción de personas desempleadas que reciben prestaciones por desempleo</b>
 
-  $$PP_desempleo^{t} = \frac{P_{prestación\, desempleo}^{t}}{P_desempleo^{t}} \cdot 100$$
+  $$PP_{desempleo}^{t} = \frac{P_{prestación\, desempleo}^{t}}{P_{desempleo}^{t}} \cdot 100$$
 
   donde:
 
   $P_{prestación\, desempleo}^{t} =$ población perceptora de prestaciones por desempleo en el año $t$
 
-  $P_desempleo^{t} =$ población desempleada en el año $t$
+  $P_{desempleo}^{t} =$ población desempleada en el año $t$
 
   <b>Proporción de la población que supera la edad legal de jubilación y recibe una pensión</b>
 
-  $$PP_jubilación^{t} = \frac{P_{pensionista\,edad\, jubilación}^{t}}{P_{edad\, jubilación}^{t}} \cdot 100$$
+  $$PP_{jubilación}^{t} = \frac{P_{pensionista\,edad\, jubilación}^{t}}{P_{edad\, jubilación}^{t}} \cdot 100$$
 
   donde:
 
