@@ -19,7 +19,7 @@ graph_annotations: []
 graph_limits: ''
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: GRAFICO.1-b-1-titulo
+graph_title:  ''
 graph_titles: []
 graph_type: line
 indicator_available: ''
@@ -32,7 +32,7 @@ indicator_tabs:
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: ''
-page_content: GRAFICO.1-b-1-contenido
+page_content: ''
 permalink: ''
 placeholder: ''
 precision: []
@@ -40,15 +40,10 @@ proxy: ''
 proxy_series: []
 publications: []
 related_indicators: []
-progress_status: noevaluado
-reporting_status: noevaluado
+progress_status: notstarted
+reporting_status: notstarted
 sort: ''
-sources:
-  - organisation: FUENTE.Euskadi_Bienestar
-    periodicity: FUENTE.FREQ_A2
-    url: FUENTE.Euskadi_Bienestar_epds_url
-    url_text: FUENTE.Euskadi_Bienestar_epds
-    logo: FUENTE.Euskadi_logo
+sources: ''
 standalone: false
 tags: []
 x_axis_label: ''
