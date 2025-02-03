@@ -10,37 +10,26 @@ meta_global: meta_largo.4-1-titulo
 
 definicion: >-
   Proporción de personas entre 18 y 20 años que han completado al menos la primera etapa de enseñanza 
-  secundaria (CINE 2) respecto al total de personas entre 18 y 20 años, y Proporción de personas entre 
+  secundaria (CINE 2) respecto al total de personas entre 18 y 20 años, y proporción de personas entre 
   20 y 22 años que han completado al menos la segunda etapa de enseñanza secundaria (CINE 3) respecto 
   al total de personas entre 20 y 22 años.
 
 formula: |
 
-  $$PPCINE2^{t} = \frac{PCINE2_{18-20}^{t}}{P_{18-20}^{t}} \cdot 100$$
+  $$PCINE_n = \frac{P_{n,Edad_a+3t5}}{P_{Edad_a+3t5}}$$
 
   donde:
 
-  $PCINE2_{18-20}^{t} =$ población entre 18 y 20 años que ha completado al menos la primera etapa de 
-  enseñanza secundaria (CINE 2) en el año $t$
+  $P_{n,Edad_a+3t5} =$ población con edades entre $3$ y $5$ años por encima de la edad oficial de ingreso $a$ en el último grado del nivel $n$ de educación que ha completado dicho nivel
 
-  $P_{18-20}^{t} =$ población entre 18 20 años en el año $t$
+  $P_{Edad_a+3t5} =$ población con edades entre $3$ y $5$ años por encima de la edad oficial de ingreso $a$ en el último grado del nivel $n$ de educación
+
+  $n =$ Nivel CINE 2 (primera etapa de la educación secundaria) y CINE 3 (segunda etapa de la educación secundaria)
 
 
+desagregacion: |
+  Nivel educativo: primera y segunda etapa de la educación secundaria
 
-  $$PPCINE3^{t} = \frac{PCINE3_{20-22}^{t}}{P_{20-22}^{t}} \cdot 100$$</p>
-
-  donde:
-
-  $PCINE3_{20-22}^{t} =$ población entre 20 y 22 años que ha completado al menos la segunda etapa 
-  de enseñanza secundaria (CINE 3) en el año $t$
-
-  $P_{20-22}^{t} =$ población entre 20 y 22 años en el año $t$
-
-  teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética 
-  de los cuatro trimestres del año
-
-desagregacion: >- 
-  Nivel educativo: educación secundaria inferior y superior
   Edad
 
 periodicidad: FUENTE.FREQ_A
