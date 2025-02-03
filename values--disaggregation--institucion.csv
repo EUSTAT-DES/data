@@ -1,7 +1,21 @@
 Value,es,eu,en,Disaggregation combinations using this value,Number of indicators
+EU_DMK_DF,Diputaciones forales,Diputaciones forales,Diputaciones forales,4,1
+EU_DMK_EDU_AUT,Centros educativos no universitarios autonómicos,Centros educativos no universitarios autonómicos,Centros educativos no universitarios autonómicos,4,1
+EU_DMK_FA,Fuerzas armadas,Fuerzas armadas,Fuerzas armadas,4,1
+EU_DMK_FCSE,Fuerzas y cuerpos de seguridad del Estado,Fuerzas y cuerpos de seguridad del Estado,Fuerzas y cuerpos de seguridad del Estado,4,1
+EU_DMK_JUST_AUT,Administración de Justicia autonómica,Administración de Justicia autonómica,Administración de Justicia autonómica,4,1
+EU_DMK_JUST_NAC,Administración de Justicia del Estado,Administración de Justicia del Estado,Administración de Justicia del Estado,4,1
+EU_DMK_MUN,Ayuntamientos,Ayuntamientos,Ayuntamientos,4,1
+EU_DMK_POL_AUT,Policía autonómica,Policía autonómica,Policía autonómica,4,1
+EU_DMK_PSRVC_AUT,Sector público autonómico,Sector público autonómico,Sector público autonómico,4,1
+EU_DMK_PSRVC_LOC,Sector público local,Sector público local,Sector público local,4,1
+EU_DMK_PSRVC_NAC,Sector público estatal,Sector público estatal,Sector público estatal,4,1
+EU_DMK_SAN_AUT,Instituciones sanitarias autonómicas,Instituciones sanitarias autonómicas,Instituciones sanitarias autonómicas,4,1
+EU_DMK_UNI,Universidades,Universidades,Universidades,4,1
 GEN_G,Departamentos en el gobierno autonómico,Departamentos en el gobierno autonómico,Departamentos en el gobierno autonómico,1,1
 GEN_LOCG,Alcaldías,Alcaldías,Alcaldías,1,1
 GEN_LOCP,Concejalías,Concejalías,Concejalías,1,1
 GEN_PARL,Electas en parlamento autonómico,Electas en parlamento autonómico,Electas en parlamento autonómico,1,1
 GEN_REGIOG,Departamentos en gobiernos forales,Departamentos en gobiernos forales,Departamentos en gobiernos forales,4,1
 GEN_REGIOPARL,Electas en Juntas Generales,Electas en Juntas Generales,Electas en Juntas Generales,4,1
+SG_DMK_PSRVC,Sector público (total),Sector público (total),Sector público (total),4,1
