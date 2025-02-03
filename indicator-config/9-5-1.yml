@@ -27,7 +27,7 @@ page_content: GRAFICO.9-5-1-contenido
 permalink: ''
 precision: []
 progress_status: progreso
-reporting_status: progreso
+reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.Eustat
@@ -36,5 +36,4 @@ sources:
     url_text: FUENTE.Eustat_cid
     logo: FUENTE.Eustat_logo
 standalone: false
-tags:
-  - status.territorio
+tags: ''

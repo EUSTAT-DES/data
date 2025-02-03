@@ -32,7 +32,7 @@ proxy_series: []
 publications: []
 related_indicators: []
 progress_status: alcanzado
-reporting_status: alcanzado
+reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.Consorcio
@@ -51,6 +51,5 @@ sources:
     url_text: FUENTE.INE_ipc
     logo: FUENTE.INE_logo
 standalone: false
-tags:
-  - status.territorio
+tags: ''
 x_axis_label: ''
