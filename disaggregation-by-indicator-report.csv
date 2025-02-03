@@ -1,11 +1,19 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-2-1,"Sexo, Territorio",2
+#1-2-1,"Territorio, Sexo",2
 #1-2-2,"Sexo, Pobreza",2
-#1-3-1,"Sexo, Territorio",2
+#1-3-1,"Territorio, Sexo",2
 #1-4-1,"Territorio, Comarca, Municipio",3
-#1-5-1,"Sexo, Territorio, Comarca, Municipio",4
+#1-5-1,"Territorio, Comarca, Municipio, Sexo",4
 #1-5-2,Territorio,1
 #1-a-2,ServEsencial,1
+#10-1-1,"Territorio, Ingreso_cuantil",2
+#10-2-1,"Umbral, Ingreso_cuantil",2
+#10-4-1,Territorio,1
+#11-4-1,Administracion,1
+#11-5-1,"Territorio, Comarca, Municipio, Sexo",4
+#11-5-2,Territorio,1
+#11-6-1,"Territorio, Tratamiento",2
+#11-6-2,PM,1
 #2-2-2,Sexo,1
 #2-3-1,Territorio,1
 #2-3-2,Territorio,1
@@ -15,40 +23,60 @@ Indicator,Disaggregations,Number of disaggregations
 #2-c-1,"Territorio, Producto",2
 #3-1-1,Territorio,1
 #3-1-2,Territorio,1
-#3-2-1,"Sexo, Territorio",2
-#3-2-2,"Sexo, Territorio",2
+#3-2-1,"Territorio, Sexo",2
+#3-2-2,"Territorio, Sexo",2
 #3-3-1,Sexo,1
 #3-3-2,Sexo,1
 #3-3-3,Sexo,1
 #3-3-4,Sexo,1
-#3-4-1,"Sexo, Territorio, NCD",3
+#3-4-1,"Territorio, Sexo, NCD",3
 #3-4-E1,Sexo,1
-#3-4-E2,"Sexo, Territorio",2
+#3-4-E2,"Territorio, Sexo",2
 #3-5-1,"Sexo, Adiccion",2
-#3-6-1,"Sexo, Territorio",2
+#3-6-1,"Territorio, Sexo",2
 #3-7-1,Edad,1
 #3-7-2,Edad,1
 #3-8-1,Sexo,1
 #3-8-2,Gasto,1
-#3-9-3,"Sexo, Territorio",2
-#3-a-1,"Sexo, Territorio, Edad",3
+#3-9-3,"Territorio, Sexo",2
+#3-a-1,"Territorio, Sexo, Edad",3
 #3-b-1,Vacuna,1
-#3-c-1,"Sexo, Territorio, Profesion",3
+#3-c-1,"Territorio, Sexo, Profesion",3
 #4-1-1,"Sexo, Competencia",2
 #4-1-2,Educacion,1
 #4-1-E1,Sexo,1
-#4-2-2,"Sexo, Territorio, Edad",3
-#4-3-1,"Sexo, Territorio, Edad",3
-#4-4-1,"Sexo, Territorio, Edad, Habilidad_IT",4
-#4-5-1,"Sexo, Territorio, Edad",3
+#4-2-2,"Territorio, Sexo, Edad",3
+#4-3-1,"Territorio, Sexo, Edad",3
+#4-4-1,"Territorio, Sexo, Edad, Habilidad_IT",4
+#4-5-1,"Territorio, Sexo, Edad",3
 #4-6-1,"Sexo, Competencia",2
 #4-a-1,ServBasico,1
 #4-c-1,Educacion,1
 #5-2-1,"Territorio, Comarca, Municipio",3
 #5-2-2,"Territorio, Comarca, Municipio",3
 #5-3-1,Territorio,1
-#5-4-1,"Sexo, Territorio",2
+#5-4-1,"Territorio, Sexo",2
 #5-5-1,"Territorio, Institucion",2
 #5-5-2,"Territorio, Ocupacion",2
-#5-a-1,"Sexo, Tenencia, Territorio",3
-#5-b-1,"Sexo, Territorio",2
+#5-a-1,"Territorio, Sexo, Tenencia",3
+#5-b-1,"Territorio, Sexo",2
+#6-2-1,"Territorio, Comarca, Municipio",3
+#6-4-2,Territorio,1
+#7-b-1,"Territorio, Comarca, Municipio, Energia",4
+#8-1-1,Territorio,1
+#8-10-1,Territorio,1
+#8-10-2,Sexo,1
+#8-2-1,Territorio,1
+#8-5-1,"Sexo, Discapacidad",2
+#8-5-2,"Territorio, Comarca, Municipio, Sexo, Edad, Residencia, Discapacidad",7
+#8-5-E1,"Territorio, Comarca, Municipio, Sexo, Edad, EmpCont",6
+#8-6-1,"Territorio, Sexo, Edad",3
+#8-9-1,Territorio,1
+#9-2-1,"Territorio, Comarca, Municipio, Valor",4
+#9-2-2,"Territorio, Sexo, Actividad, Empleo",4
+#9-3-1,Territorio,1
+#9-4-1,Actividad,1
+#9-5-1,Territorio,1
+#9-5-2,Territorio,1
+#9-b-1,Actividad,1
+#9-c-1,Territorio,1

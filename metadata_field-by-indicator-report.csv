@@ -13,40 +13,40 @@ WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (
 #1-a-1,notapplicable,notapplicable,OECD,,,,,line
 #1-a-2,complete,alcanzado,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
 #1-b-1,notstarted,notstarted,"UNICEF, Save the Children",,,,,line
-#10-1-1,retroceso,retroceso,World Bank (WB),,,,,line
-#10-2-1,progreso,progreso,World Bank (WB),,,,,line
-#10-3-1,notstarted,,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
-#10-4-1,noevaluado,noevaluado,International Labour Organization (ILO),,,,,line
-#10-4-2,progreso,progreso,"Institutional information: The World Bank Group is the official custodian for this indicator. This metadata documentation was developed and agreed by the three institutional data providers, CEQ Institute, OECD and The World Bank.",,,,,line
-#10-5-1,notstarted,,International Monetary Fund (IMF),,,,,line
-#10-6-1,notstarted,,"Financing for Sustainable Development Office (FSDO), United Nations Department of Economic and Social Affairs (UN-DESA)
+#10-1-1,complete,retroceso,World Bank (WB),,,,,line
+#10-2-1,complete,progreso,World Bank (WB),,,,,line
+#10-3-1,notstarted,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
+#10-4-1,complete,noevaluado,International Labour Organization (ILO),,,,,line
+#10-4-2,complete,progreso,"Institutional information: The World Bank Group is the official custodian for this indicator. This metadata documentation was developed and agreed by the three institutional data providers, CEQ Institute, OECD and The World Bank.",,,,,line
+#10-5-1,notstarted,notstarted,International Monetary Fund (IMF),,,,,line
+#10-6-1,notapplicable,notapplicable,"Financing for Sustainable Development Office (FSDO), United Nations Department of Economic and Social Affairs (UN-DESA)
 ",,,,,line
-#10-7-1,notstarted,,International Labour Organization (ILO) and World Bank (WB),,,,,line
-#10-7-2,notstarted,,International Organization for Migration (IOM) and United Nations Department of Economic and Social Affairs (DESA) as custodian agencies,,,,,line
-#10-7-3,notstarted,,International Organization for Migration (IOM),,,,,line
-#10-7-4,notstarted,,United Nations High Commissioner for Refugees (UNHCR),,,,,line
-#10-a-1,notstarted,,"International Trade Centre (ITC)
+#10-7-1,notstarted,notstarted,International Labour Organization (ILO) and World Bank (WB),,,,,line
+#10-7-2,notapplicable,notapplicable,International Organization for Migration (IOM) and United Nations Department of Economic and Social Affairs (DESA) as custodian agencies,,,,,line
+#10-7-3,notstarted,notstarted,International Organization for Migration (IOM),,,,,line
+#10-7-4,notstarted,notstarted,United Nations High Commissioner for Refugees (UNHCR),,,,,line
+#10-a-1,notstarted,notstarted,"International Trade Centre (ITC)
 United Nations Conference on Trade and Development (UNCTAD)
 The World Trade Organization (WTO)",,,,,line
-#10-b-1,notstarted,,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#10-c-1,notstarted,,World Bank,,,,,line
-#11-1-1,retroceso,retroceso,United Nations Human Settlements Programme (UN-Habitat) ,,,,,line
-#11-2-1,notstarted,,United Nations Human Settlements Programme (UN-Habitat),,,,,line
-#11-3-1,notstarted,,United Nations Human Settlements Programme (UN-Habitat),,,,,line
-#11-3-2,alcanzado,alcanzado,UN-Habitat,,,,,line
-#11-4-1,alcanzado,alcanzado,UNESCO Institute for Statistics (UIS),,,,,line
-#11-5-1,alcanzado,alcanzado,United Nations Office for Disaster Reduction (UNDRR),,True,,,line
-#11-5-2,alcanzado,alcanzado,United Nations Office for Disaster Reduction (UNDRR),,,,,line
-#11-5-3,notstarted,,United Nations Office for Disaster Reduction (UNDRR),,,,,line
-#11-6-1,alcanzado,alcanzado,"UN-Habitat, UNSD",,,,,line
-#11-6-2,retroceso,retroceso,World Health Organization (WHO),,,,,line
-#11-7-1,notstarted,,UN-HABITAT,,,,,line
-#11-7-2,notstarted,,"United Nations Office on Drugs and Crime (UNODC)
+#10-b-1,notstarted,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
+#10-c-1,notstarted,notstarted,World Bank,,,,,line
+#11-1-1,complete,retroceso,United Nations Human Settlements Programme (UN-Habitat) ,,,,,line
+#11-2-1,notstarted,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
+#11-3-1,notstarted,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
+#11-3-2,complete,alcanzado,UN-Habitat,,,,,line
+#11-4-1,complete,alcanzado,UNESCO Institute for Statistics (UIS),,,,,line
+#11-5-1,complete,alcanzado,United Nations Office for Disaster Reduction (UNDRR),,True,,,line
+#11-5-2,complete,alcanzado,United Nations Office for Disaster Reduction (UNDRR),,,,,line
+#11-5-3,notstarted,notstarted,United Nations Office for Disaster Reduction (UNDRR),,,,,line
+#11-6-1,complete,alcanzado,"UN-Habitat, UNSD",,,,,line
+#11-6-2,complete,retroceso,World Health Organization (WHO),,,,,line
+#11-7-1,notstarted,notstarted,UN-HABITAT,,,,,line
+#11-7-2,notstarted,notstarted,"United Nations Office on Drugs and Crime (UNODC)
 ",,,,,line
-#11-a-1,alcanzado,alcanzado,"UN-Habitat
+#11-a-1,complete,alcanzado,"UN-Habitat
 UNFPA",,,,,line
-#11-b-1,notstarted,,United Nations Office for Disaster Reduction (UNDRR),,,,,line
-#11-b-2,notstarted,,United Nations Office for Disaster Reduction (UNDRR),,,,,line
+#11-b-1,notapplicable,notapplicable,United Nations Office for Disaster Reduction (UNDRR),,,,,line
+#11-b-2,notstarted,notstarted,United Nations Office for Disaster Reduction (UNDRR),,,,,line
 #12-1-1,alcanzado,alcanzado,United Nations Environment Programme (UNEP),,,,,line
 #12-2-1,notstarted,,United Nations Environment Programme (UNEP),,,,,line
 #12-2-2,progreso,progreso,United Nations Environment Programme (UNEP),,,,,line
@@ -252,65 +252,65 @@ United Nations Population Fund (UNFPA)",,True,,,line
 #5-a-2,complete,alcanzado,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #5-b-1,complete,alcanzado,International Telecommunication Union (ITU),,,,,line
 #5-c-1,notapplicable,notapplicable,United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) in collaboration with Organisation for Economic Co-operation and Development (OECD) and United Nations Development Programme (UNDP),,,,,line
-#6-1-1,alcanzado,alcanzado,"World Health Organization (WHO)
+#6-1-1,complete,alcanzado,"World Health Organization (WHO)
 United Nations Children&apos;s Fund (UNICEF)",,,,,line
-#6-2-1,alcanzado,alcanzado,"World Health Organization (WHO)
+#6-2-1,complete,alcanzado,"World Health Organization (WHO)
 United Nations Children&apos;s Fund (UNICEF)",,True,,,line
-#6-3-1,notstarted,,"United Nations Human Settlements Programme (UN-Habitat)
+#6-3-1,notstarted,notstarted,"United Nations Human Settlements Programme (UN-Habitat)
 World Health Organization (WHO)
 United Nations Statistics Division (UNSD)",,,,,line
-#6-3-2,retroceso,retroceso,United Nations Environment Programme (UNEP),,,,,line
-#6-4-1,notstarted,,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#6-4-2,noevaluado,noevaluado,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#6-5-1,notstarted,,United Nations Environment Programme (UNEP),,,,,line
-#6-5-2,alcanzado,alcanzado,"Intergovernmental Hydrological Programme of United Nations Educational, Scientific and Cultural Organization (UNESCO-IHP)
+#6-3-2,complete,retroceso,United Nations Environment Programme (UNEP),,,,,line
+#6-4-1,notstarted,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#6-4-2,complete,noevaluado,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#6-5-1,notstarted,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#6-5-2,complete,alcanzado,"Intergovernmental Hydrological Programme of United Nations Educational, Scientific and Cultural Organization (UNESCO-IHP)
 United Nations Economic Commission for Europe (UNECE)",,,,,line
-#6-6-1,notstarted,,Secretariat of the Ramsar Convention on Wetlands,,,,,line
-#6-a-1,notstarted,,"World Health Organization (WHO)
+#6-6-1,notstarted,notstarted,Secretariat of the Ramsar Convention on Wetlands,,,,,line
+#6-a-1,notstarted,notstarted,"World Health Organization (WHO)
 United Nations Environment Programme (UNEP)
 Organisation for Economic Co-operation and Development (OECD)",,,,,line
-#6-b-1,alcanzado,alcanzado,"World Health Organization (WHO)
+#6-b-1,complete,alcanzado,"World Health Organization (WHO)
 United Nations Environment Programme (UNEP)
 Organisation for Economic Co-operation and Development (OECD)",,,,,line
-#7-1-1,alcanzado,alcanzado,World Bank Group,,,,,line
-#7-1-2,alcanzado,alcanzado,World Health Organization (WHO),,,,,line
-#7-2-1,progreso,progreso,"International Energy Agency (IEA) 
+#7-1-1,complete,alcanzado,World Bank Group,,,,,line
+#7-1-2,complete,alcanzado,World Health Organization (WHO),,,,,line
+#7-2-1,complete,progreso,"International Energy Agency (IEA) 
 United Nations Statistics Division (UNSD) 
 International Renewable Energy Agency (IRENA)",,,,,line
-#7-3-1,progreso,progreso,"International Energy Agency (IEA) 
+#7-3-1,complete,progreso,"International Energy Agency (IEA) 
 United Nations Statistics Division (UNSD)",,,,,line
-#7-a-1,notstarted,,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),,,,,line
-#7-b-1,progreso,progreso,International Renewable Energy Agency (IRENA),,True,,,line
-#8-1-1,alcanzado,alcanzado,United Nations Statistics Division (UNSD),,,,,line
-#8-10-1,noevaluado,noevaluado,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,,,line
-#8-10-2,alcanzado,alcanzado,World Bank ,,,,,line
-#8-2-1,alcanzado,alcanzado,International Labour Organization (ILO) ,,,,,line
-#8-3-1,notstarted,,International Labour Organization (ILO),,,,,line
-#8-4-1,notstarted,,United Nations Environment Programme (UNEP),,,,,line
+#7-a-1,notstarted,notstarted,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),,,,,line
+#7-b-1,complete,progreso,International Renewable Energy Agency (IRENA),,True,,,line
+#8-1-1,complete,alcanzado,United Nations Statistics Division (UNSD),,,,,line
+#8-10-1,complete,noevaluado,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,,,line
+#8-10-2,complete,alcanzado,World Bank ,,,,,line
+#8-2-1,complete,alcanzado,International Labour Organization (ILO) ,,,,,line
+#8-3-1,notstarted,notstarted,International Labour Organization (ILO),,,,,line
+#8-4-1,notstarted,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #8-4-2,progreso,progreso,United Nations Environment Programme (UNEP),,,,,line
-#8-5-1,progreso,progreso,International Labour Organization (ILO),,,,,line
-#8-5-2,progreso,progreso,International Labour Organization (ILO) ,,True,,,line
-#8-5-E1,progreso,progreso,,,True,,,line
-#8-6-1,progreso,progreso,International Labour Organization (ILO),,,,,line
-#8-7-1,notstarted,,"United Nations Children&apos;s Fund (UNICEF)
+#8-5-1,complete,progreso,International Labour Organization (ILO),,,,,line
+#8-5-2,complete,progreso,International Labour Organization (ILO) ,,True,,,line
+#8-5-E1,complete,progreso,,,True,,,line
+#8-6-1,complete,progreso,International Labour Organization (ILO),,,,,line
+#8-7-1,notstarted,notstarted,"United Nations Children&apos;s Fund (UNICEF)
 International Labour Organization (ILO)",,,,,line
-#8-8-1,notstarted,,International Labour Organisation (ILO),,,,,line
-#8-8-2,notstarted,,International Labour Organization (ILO),,,,,line
-#8-9-1,noevaluado,noevaluado,World Tourism Organization (UNWTO) ,,,,,line
-#8-a-1,notstarted,,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
-#8-b-1,noevaluado,noevaluado,International Labour Organization (ILO) ,,,,,line
-#9-1-1,alcanzado,alcanzado,World Bank,,,,,line
-#9-1-2,notstarted,,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); United Nations Conference on Trade and Development (UNCTAD).,,,,,line
-#9-2-1,progreso,progreso,United Nations Industrial Development Organization (UNIDO),,True,,,line
-#9-2-2,progreso,progreso,"United Nations Industrial Development Organization (UNIDO)
+#8-8-1,notstarted,notstarted,International Labour Organisation (ILO),,,,,line
+#8-8-2,notstarted,notstarted,International Labour Organization (ILO),,,,,line
+#8-9-1,complete,noevaluado,World Tourism Organization (UNWTO) ,,,,,line
+#8-a-1,notstarted,notstarted,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
+#8-b-1,complete,noevaluado,International Labour Organization (ILO) ,,,,,line
+#9-1-1,complete,alcanzado,World Bank,,,,,line
+#9-1-2,notstarted,notstarted,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); United Nations Conference on Trade and Development (UNCTAD).,,,,,line
+#9-2-1,complete,progreso,United Nations Industrial Development Organization (UNIDO),,True,,,line
+#9-2-2,complete,progreso,"United Nations Industrial Development Organization (UNIDO)
 (with the collaboration of the International Labour Organization &#x2013; ILO)",,,,,line
-#9-3-1,retroceso,retroceso,United Nations Industrial Development Organization (UNIDO),,,,,line
-#9-3-2,notstarted,,"United Nations Industrial Development Organization (UNIDO)
+#9-3-1,complete,retroceso,United Nations Industrial Development Organization (UNIDO),,,,,line
+#9-3-2,notstarted,notstarted,"United Nations Industrial Development Organization (UNIDO)
 World Bank",,,,,line
-#9-4-1,retroceso,retroceso,"International Energy Agency (IEA)
+#9-4-1,complete,retroceso,"International Energy Agency (IEA)
 United Nations Industrial Development Organization (UNIDO)",,,,,line
-#9-5-1,progreso,progreso,UNESCO Institute for Statistics (UIS),,,,,line
-#9-5-2,progreso,progreso,UNESCO Institute for Statistics (UIS) ,,,,,line
-#9-a-1,notstarted,,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#9-b-1,progreso,progreso,United Nations Industrial Development Organization (UNIDO),,,,,line
-#9-c-1,alcanzado,alcanzado,International Telecommunication Union (ITU),,,,,line
+#9-5-1,complete,progreso,UNESCO Institute for Statistics (UIS),,,,,line
+#9-5-2,complete,progreso,UNESCO Institute for Statistics (UIS) ,,,,,line
+#9-a-1,notstarted,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
+#9-b-1,complete,progreso,United Nations Industrial Development Organization (UNIDO),,,,,line
+#9-c-1,complete,alcanzado,International Telecommunication Union (ITU),,,,,line
