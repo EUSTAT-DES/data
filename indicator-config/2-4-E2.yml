@@ -41,7 +41,7 @@ proxy_series: []
 publications: []
 related_indicators: []
 progress_status: progreso
-reporting_status: progreso
+reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.Euskadi_Industria
@@ -50,6 +50,5 @@ sources:
     url_text: FUENTE.Euskadi_Industria_ieca
     logo: FUENTE.Euskadi_logo
 standalone: false
-tags:
-  - status.europeo
+tags: ''
 x_axis_label: ''
