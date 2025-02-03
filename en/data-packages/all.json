@@ -11171,66 +11171,6 @@
       "title": "Researchers (in full-time equivalent) per million inhabitants"
     },
     {
-      "path": "1-b-1/data.csv",
-      "name": "1-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Año"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EU_EXP_RGI",
-                "EU_EXP_AES",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
-            "name": "Territorio",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
-                ""
-              ]
-            },
-            "title": "Territorio"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Millones de euros",
-                ""
-              ]
-            },
-            "title": "Unidad"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "Pro-poor public social spending"
-    },
-    {
       "path": "6-1-1/data.csv",
       "name": "6-1-1",
       "profile": "tabular-data-resource",
@@ -14781,6 +14721,30 @@
         ]
       },
       "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
+    },
+    {
+      "path": "1-b-1/data.csv",
+      "name": "1-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Pro-poor public social spending"
     },
     {
       "path": "16-5-2/data.csv",

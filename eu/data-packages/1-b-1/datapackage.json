@@ -12,44 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EU_EXP_RGI",
-                "EU_EXP_AES",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
-            "name": "Territorio",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
-                ""
-              ]
-            },
-            "title": "Territorio"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Millones de euros",
-                ""
-              ]
-            },
-            "title": "Unidad"
           },
           {
             "name": "Value",

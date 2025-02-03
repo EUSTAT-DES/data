@@ -12,44 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Gasto en prestaciones de garantía de ingresos (RGI)",
-                "Gasto en ayudas de emergencia social (AES)",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
-            "name": "Territorio",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
-                ""
-              ]
-            },
-            "title": "Territorio histórico"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Millones de euros",
-                ""
-              ]
-            },
-            "title": "Unidad"
           },
           {
             "name": "Value",
