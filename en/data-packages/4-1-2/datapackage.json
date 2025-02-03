@@ -27,6 +27,18 @@
             "title": "Serie"
           },
           {
+            "name": "Educacion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Secundaria inferior",
+                "Secundaria superior",
+                ""
+              ]
+            },
+            "title": "Nivel educativo"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

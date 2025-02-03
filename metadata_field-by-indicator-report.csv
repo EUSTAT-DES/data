@@ -162,96 +162,96 @@ United Nations Development Programme (UNDP)",,,,,line
 #17-8-1,alcanzado,alcanzado,International Telecommunication Union (ITU),,,,,line
 #17-9-1,notstarted,,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #2-1-1,notstarted,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#2-1-2,notstarted,,Food and Agriculture Organisation of the United Nations (FAO),,,,,line
-#2-2-1,notstarted,,"United Nations Children&apos;s Fund (UNICEF)
+#2-1-2,notstarted,notstarted,Food and Agriculture Organisation of the United Nations (FAO),,,,,line
+#2-2-1,notstarted,notstarted,"United Nations Children&apos;s Fund (UNICEF)
 World Health Organization (WHO)
 World Bank (WB)",,,,,line
-#2-2-2,retroceso,retroceso,"United Nations Children&apos;s Fund (UNICEF)
+#2-2-2,complete,retroceso,"United Nations Children&apos;s Fund (UNICEF)
 World Health Organization (WHO)
 World Bank (WB)",,,,,line
-#2-2-3,notstarted,,World Health Organization (WHO),,,,,line
-#2-3-1,alcanzado,alcanzado,Food and Agriculture Organization (FAO),,,,,line
-#2-3-2,retroceso,retroceso,Food and Agriculture Organization (FAO),,,,,line
-#2-4-1,progreso,progreso,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#2-4-E1,alcanzado,alcanzado,,,True,,,line
-#2-4-E2,progreso,progreso,,,,,,line
-#2-5-1,notstarted,,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#2-5-2,notstarted,,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#2-a-1,noevaluado,noevaluado,Food and Agriculture Organization of the United Nations (FAO),,True,,,line
-#2-a-2,notstarted,,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#2-b-1,notstarted,,The World Trade Organization (WTO),,,,,line
-#2-c-1,retroceso,retroceso,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#3-1-1,alcanzado,alcanzado,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,,,,,line
-#3-1-2,alcanzado,alcanzado,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),,,,,line
-#3-2-1,alcanzado,alcanzado,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#3-2-2,alcanzado,alcanzado,United Nations Children&apos;s Fund (UNICEF) ,,,,,line
-#3-3-1,progreso,progreso,The Joint United Nations Programme on HIV/AIDS (UNAIDS),,,,,line
-#3-3-2,progreso,progreso,World Health Organization (WHO),,,,,line
-#3-3-3,noevaluado,noevaluado,Global Malaria Programme at World Health Organization (WHO),,,,,line
-#3-3-4,alcanzado,alcanzado,World Health Organization ,,,,,line
-#3-3-5,notstarted,,World Health Organization (WHO),,,,,line
-#3-4-1,progreso,progreso,World Health Organization (WHO) ,,,,,line
+#2-2-3,notstarted,notstarted,World Health Organization (WHO),,,,,line
+#2-3-1,complete,alcanzado,Food and Agriculture Organization (FAO),,,,,line
+#2-3-2,complete,retroceso,Food and Agriculture Organization (FAO),,,,,line
+#2-4-1,complete,progreso,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#2-4-E1,complete,alcanzado,,,True,,,line
+#2-4-E2,complete,progreso,,,,,,line
+#2-5-1,notstarted,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#2-5-2,notstarted,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#2-a-1,complete,noevaluado,Food and Agriculture Organization of the United Nations (FAO),,True,,,line
+#2-a-2,notstarted,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
+#2-b-1,notstarted,notstarted,The World Trade Organization (WTO),,,,,line
+#2-c-1,complete,retroceso,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#3-1-1,complete,alcanzado,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,,,,,line
+#3-1-2,complete,alcanzado,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),,,,,line
+#3-2-1,complete,alcanzado,United Nations Children&apos;s Fund (UNICEF),,,,,line
+#3-2-2,complete,alcanzado,United Nations Children&apos;s Fund (UNICEF) ,,,,,line
+#3-3-1,complete,progreso,The Joint United Nations Programme on HIV/AIDS (UNAIDS),,,,,line
+#3-3-2,complete,progreso,World Health Organization (WHO),,,,,line
+#3-3-3,complete,noevaluado,Global Malaria Programme at World Health Organization (WHO),,,,,line
+#3-3-4,complete,alcanzado,World Health Organization ,,,,,line
+#3-3-5,notstarted,notstarted,World Health Organization (WHO),,,,,line
+#3-4-1,complete,progreso,World Health Organization (WHO) ,,,,,line
 #3-4-2,retroceso,retroceso,World Health Organization (WHO) ,,,,,line
-#3-4-E1,alcanzado,alcanzado,,,,,,line
-#3-4-E2,noevaluado,noevaluado,,,,,,line
-#3-5-1,noevaluado,noevaluado,"World Health Organization (WHO) 
+#3-4-E1,complete,alcanzado,,,,,,line
+#3-4-E2,complete,noevaluado,,,,,,line
+#3-5-1,complete,noevaluado,"World Health Organization (WHO) 
 United Nations Office on Drugs and Crime (UNODC) ",,,,,line
-#3-5-2,retroceso,retroceso,World Health Organization (WHO) ,,,,,line
-#3-6-1,retroceso,retroceso,World Health Organization (WHO) ,,,,,line
-#3-7-1,noevaluado,noevaluado,"Population Division, Department of Economic and Social Affairs (DESA)
+#3-5-2,complete,retroceso,World Health Organization (WHO) ,,,,,line
+#3-6-1,complete,retroceso,World Health Organization (WHO) ,,,,,line
+#3-7-1,complete,noevaluado,"Population Division, Department of Economic and Social Affairs (DESA)
 United Nations Population Fund (UNFPA)",,,,,line
-#3-7-2,alcanzado,alcanzado,"Population Division, Department of Economic and Social Affairs (DESA) 
+#3-7-2,complete,alcanzado,"Population Division, Department of Economic and Social Affairs (DESA) 
 United Nations Population Fund (UNFPA)",,,,,line
-#3-8-1,alcanzado,alcanzado,World Health Organization (WHO) ,,,,,line
-#3-8-2,retroceso,retroceso,World Health Organization (WHO) and the World Bank,,,,,line
-#3-9-1,notstarted,,World Health Organization (WHO),,,,,line
-#3-9-2,notstarted,,World Health Organization (WHO),,,,,line
-#3-9-3,retroceso,retroceso,"World Health Organization (WHO)
+#3-8-1,complete,alcanzado,World Health Organization (WHO) ,,,,,line
+#3-8-2,complete,retroceso,World Health Organization (WHO) and the World Bank,,,,,line
+#3-9-1,notstarted,notstarted,World Health Organization (WHO),,,,,line
+#3-9-2,notstarted,notstarted,World Health Organization (WHO),,,,,line
+#3-9-3,complete,retroceso,"World Health Organization (WHO)
  ",,,,,line
-#3-a-1,alcanzado,alcanzado,World Health Organization; Secretariat of the WHO Framework Convention on Tobacco Control (co-custodians) ,,,,,line
-#3-b-1,retroceso,retroceso,"World Health Organization (WHO), United Nations Children&#x2019;s Fund (UNICEF) ",,,,,line
-#3-b-2,notstarted,,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
-#3-b-3,notstarted,,World Health Organization (WHO),,,,,line
-#3-c-1,alcanzado,alcanzado,"Health Workforce Department, World Health Organization (WHO)",,,,,line
-#3-d-1,notstarted,,World Health Organization (WHO),,,,,line
-#3-d-2,notstarted,,World Health Organization (WHO) ,,,,,line
-#4-1-1,retroceso,retroceso,UNESCO Institute of Statistics (UIS),,,,,line
-#4-1-2,progreso,progreso,UNESCO Institute for Statistics (UIS),,,,,line
-#4-1-E1,alcanzado,alcanzado,,,,,,line
-#4-2-1,notstarted,,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#4-2-2,alcanzado,alcanzado,UNESCO Institute for Statistics (UIS),,,,,line
-#4-3-1,alcanzado,alcanzado,UNESCO Institute for Statistics (UIS),,,,,line
-#4-4-1,progreso,progreso,International Telecommunication Union (ITU),,,,,line
-#4-5-1,progreso,progreso,UNESCO Institute for Statistics (UIS),,,,,line
-#4-6-1,alcanzado,alcanzado,UNESCO Institute for Statistics (UIS),,,,,line
-#4-7-1,notstarted,,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
+#3-a-1,complete,alcanzado,World Health Organization; Secretariat of the WHO Framework Convention on Tobacco Control (co-custodians) ,,,,,line
+#3-b-1,complete,retroceso,"World Health Organization (WHO), United Nations Children&#x2019;s Fund (UNICEF) ",,,,,line
+#3-b-2,notstarted,notstarted,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
+#3-b-3,notstarted,notstarted,World Health Organization (WHO),,,,,line
+#3-c-1,complete,alcanzado,"Health Workforce Department, World Health Organization (WHO)",,,,,line
+#3-d-1,notstarted,notstarted,World Health Organization (WHO),,,,,line
+#3-d-2,notstarted,notstarted,World Health Organization (WHO) ,,,,,line
+#4-1-1,complete,retroceso,UNESCO Institute of Statistics (UIS),,,,,line
+#4-1-2,complete,progreso,UNESCO Institute for Statistics (UIS),,,,,line
+#4-1-E1,complete,alcanzado,,,,,,line
+#4-2-1,notstarted,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
+#4-2-2,complete,alcanzado,UNESCO Institute for Statistics (UIS),,,,,line
+#4-3-1,complete,alcanzado,UNESCO Institute for Statistics (UIS),,,,,line
+#4-4-1,complete,progreso,International Telecommunication Union (ITU),,,,,line
+#4-5-1,complete,progreso,UNESCO Institute for Statistics (UIS),,,,,line
+#4-6-1,complete,alcanzado,UNESCO Institute for Statistics (UIS),,,,,line
+#4-7-1,notstarted,notstarted,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
 UNESCO Institute for Statistics (UNESCO-UIS)",,,,,line
-#4-a-1,alcanzado,alcanzado,UNESCO Institute for Statistics (UIS),,,,,line
-#4-b-1,notstarted,,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#4-c-1,alcanzado,alcanzado,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
-#5-1-1,alcanzado,alcanzado,"UN Women, World Bank Group, OECD Development Centre",,,,,line
-#5-2-1,retroceso,retroceso,"World Health Organization (WHO)
+#4-a-1,complete,alcanzado,UNESCO Institute for Statistics (UIS),,,,,line
+#4-b-1,notstarted,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
+#4-c-1,complete,alcanzado,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
+#5-1-1,complete,alcanzado,"UN Women, World Bank Group, OECD Development Centre",,,,,line
+#5-2-1,complete,retroceso,"World Health Organization (WHO)
 United Nations Children&apos;s Fund (UNICEF)
 United Nations Entity for Gender Equality and the Empowerment of Women (UN Women)
 United Nations Office on Drugs and Crime (UNODC)
 United Nations Population Fund (UNFPA)
 United Nations Statistics Division (UNSD)",,True,,,line
-#5-2-2,retroceso,retroceso,"United Nations Entity for Gender Equality and the Empowerment of Women (UN Women)
+#5-2-2,complete,retroceso,"United Nations Entity for Gender Equality and the Empowerment of Women (UN Women)
 United Nations Children&apos;s Fund (UNICEF)
 United Nations Statistics Division (UNSD)
 World Health Organization (WHO)
 United Nations Population Fund (UNFPA)",,True,,,line
-#5-3-1,alcanzado,alcanzado,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#5-3-2,notstarted,,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#5-4-1,progreso,progreso,UN Statistics Division (UNSD) and UN WOMEN,,,,,line
-#5-5-1,progreso,progreso,Inter-Parliamentary Union (IPU),,,,,line
-#5-5-2,retroceso,retroceso,International Labour Organization (ILO),,,,,line
-#5-6-1,notstarted,,United Nations Population Fund (UNFPA),,,,,line
-#5-6-2,notstarted,,United Nations Population Fund (UNFPA),,,,,line
-#5-a-1,progreso,progreso,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#5-a-2,alcanzado,alcanzado,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#5-b-1,alcanzado,alcanzado,International Telecommunication Union (ITU),,,,,line
-#5-c-1,notstarted,,United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) in collaboration with Organisation for Economic Co-operation and Development (OECD) and United Nations Development Programme (UNDP),,,,,line
+#5-3-1,complete,alcanzado,United Nations Children&apos;s Fund (UNICEF),,,,,line
+#5-3-2,notstarted,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
+#5-4-1,complete,progreso,UN Statistics Division (UNSD) and UN WOMEN,,,,,line
+#5-5-1,complete,progreso,Inter-Parliamentary Union (IPU),,,,,line
+#5-5-2,complete,retroceso,International Labour Organization (ILO),,,,,line
+#5-6-1,notstarted,notstarted,United Nations Population Fund (UNFPA),,,,,line
+#5-6-2,notapplicable,notapplicable,United Nations Population Fund (UNFPA),,,,,line
+#5-a-1,complete,progreso,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#5-a-2,complete,alcanzado,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#5-b-1,complete,alcanzado,International Telecommunication Union (ITU),,,,,line
+#5-c-1,notapplicable,notapplicable,United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) in collaboration with Organisation for Economic Co-operation and Development (OECD) and United Nations Development Programme (UNDP),,,,,line
 #6-1-1,alcanzado,alcanzado,"World Health Organization (WHO)
 United Nations Children&apos;s Fund (UNICEF)",,,,,line
 #6-2-1,alcanzado,alcanzado,"World Health Organization (WHO)

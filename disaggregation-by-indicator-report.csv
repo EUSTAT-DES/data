@@ -6,3 +6,49 @@ Indicator,Disaggregations,Number of disaggregations
 #1-5-1,"Sexo, Territorio, Comarca, Municipio",4
 #1-5-2,Territorio,1
 #1-a-2,ServEsencial,1
+#2-2-2,Sexo,1
+#2-3-1,Territorio,1
+#2-3-2,Territorio,1
+#2-4-E1,"Territorio, Comarca, Municipio",3
+#2-4-E2,Actividad,1
+#2-a-1,"Territorio, Comarca, Municipio",3
+#2-c-1,"Territorio, Producto",2
+#3-1-1,Territorio,1
+#3-1-2,Territorio,1
+#3-2-1,"Sexo, Territorio",2
+#3-2-2,"Sexo, Territorio",2
+#3-3-1,Sexo,1
+#3-3-2,Sexo,1
+#3-3-3,Sexo,1
+#3-3-4,Sexo,1
+#3-4-1,"Sexo, Territorio, NCD",3
+#3-4-E1,Sexo,1
+#3-4-E2,"Sexo, Territorio",2
+#3-5-1,"Sexo, Adiccion",2
+#3-6-1,"Sexo, Territorio",2
+#3-7-1,Edad,1
+#3-7-2,Edad,1
+#3-8-1,Sexo,1
+#3-8-2,Gasto,1
+#3-9-3,"Sexo, Territorio",2
+#3-a-1,"Sexo, Territorio, Edad",3
+#3-b-1,Vacuna,1
+#3-c-1,"Sexo, Territorio, Profesion",3
+#4-1-1,"Sexo, Competencia",2
+#4-1-2,Educacion,1
+#4-1-E1,Sexo,1
+#4-2-2,"Sexo, Territorio, Edad",3
+#4-3-1,"Sexo, Territorio, Edad",3
+#4-4-1,"Sexo, Territorio, Edad, Habilidad_IT",4
+#4-5-1,"Sexo, Territorio, Edad",3
+#4-6-1,"Sexo, Competencia",2
+#4-a-1,ServBasico,1
+#4-c-1,Educacion,1
+#5-2-1,"Territorio, Comarca, Municipio",3
+#5-2-2,"Territorio, Comarca, Municipio",3
+#5-3-1,Territorio,1
+#5-4-1,"Sexo, Territorio",2
+#5-5-1,"Territorio, Institucion",2
+#5-5-2,"Territorio, Ocupacion",2
+#5-a-1,"Sexo, Tenencia, Territorio",3
+#5-b-1,"Sexo, Territorio",2
