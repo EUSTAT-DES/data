@@ -27,7 +27,7 @@ page_content: GRAFICO.9-3-1-contenido
 permalink: ''
 precision: []
 progress_status: retroceso
-reporting_status: retroceso
+reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.Eustat
@@ -36,5 +36,5 @@ sources:
     url_text: FUENTE.Eustat_cindus
     logo: FUENTE.Eustat_logo
 standalone: false
-tags:
-  - status.territorio
+tags: ''
+

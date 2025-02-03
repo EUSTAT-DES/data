@@ -27,7 +27,7 @@ page_content: GRAFICO.9-c-1-contenido
 permalink: ''
 precision: []
 progress_status: alcanzado
-reporting_status: alcanzado
+reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.GE_Transformacion
@@ -36,5 +36,4 @@ sources:
     url_text: FUENTE.GE_Transformacion_cba
     logo: FUENTE.GE_logo
 standalone: false
-tags:
-  - status.territorio
+tags: ''
