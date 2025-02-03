@@ -27,7 +27,7 @@ page_content: GRAFICO.16-6-2-contenido
 permalink: ''
 precision: []
 progress_status: progreso
-reporting_status: progreso
+reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.CIS
@@ -36,6 +36,5 @@ sources:
     url_text: FUENTE.CIS_oppf
     logo: FUENTE.CIS_logo
 standalone: false
-tags:
-  - status.territorio
-  - status.sexo
+tags: ''
+

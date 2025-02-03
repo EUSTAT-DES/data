@@ -27,7 +27,7 @@ page_content: GRAFICO.12-5-1-contenido
 permalink: ''
 precision: []
 progress_status: alcanzado
-reporting_status: alcanzado
+reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.Euskadi_Industria
@@ -36,5 +36,4 @@ sources:
     url_text: FUENTE.Euskadi_Industria_ru
     logo: FUENTE.Euskadi_logo
 standalone: false
-tags:
-  - status.territorio
+tags: ''
