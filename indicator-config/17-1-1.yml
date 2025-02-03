@@ -27,7 +27,7 @@ page_content: GRAFICO.17-1-1-contenido
 permalink: ''
 precision: []
 progress_status: noevaluado
-reporting_status: noevaluado
+reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.Eustat
@@ -36,5 +36,4 @@ sources:
     url_text: FUENTE.Eustat_ceav
     logo: FUENTE.Eustat_logo
 standalone: false
-tags:
-  - status.territorio
+tags: ''

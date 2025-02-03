@@ -27,7 +27,7 @@ page_content: GRAFICO.17-6-1-contenido
 permalink: ''
 precision: []
 progress_status: progreso
-reporting_status: progreso
+reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.CNMC
@@ -36,5 +36,4 @@ sources:
     url_text: FUENTE.CNMC_tsa
     logo: FUENTE.CNMC_logo
 standalone: false
-tags:
-  - status.territorio
+tags: ''

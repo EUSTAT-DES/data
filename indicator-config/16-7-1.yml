@@ -27,7 +27,7 @@ page_content: GRAFICO.16-7-1-contenido
 permalink: ''
 precision: []
 progress_status: noevaluado
-reporting_status: noevaluado
+reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.GE_Territorial
@@ -36,5 +36,5 @@ sources:
     url_text: FUENTE.GE_Territorial_bep
     logo: FUENTE.GE_logo
 standalone: false
-tags:
-  - status.territorio
+tags: ''
+

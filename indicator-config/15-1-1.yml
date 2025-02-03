@@ -27,7 +27,7 @@ page_content: GRAFICO.15-1-1-contenido
 permalink: ''
 precision: []
 progress_status: alcanzado
-reporting_status: alcanzado
+reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.Euskadi_Alimentacion
@@ -36,6 +36,5 @@ sources:
     url_text: FUENTE.Euskadi_Alimentacion_invfor
     logo: FUENTE.Euskadi_logo
 standalone: false
-tags:
-  - status.municipio
+tags: ''
 x_axis_label: ''

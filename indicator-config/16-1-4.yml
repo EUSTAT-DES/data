@@ -27,7 +27,7 @@ page_content: GRAFICO.16-1-4-contenido
 permalink: ''
 precision: []
 progress_status: retroceso
-reporting_status: retroceso
+reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.Eustat
@@ -36,6 +36,4 @@ sources:
     url_text: FUENTE.Eustat_epb
     logo: FUENTE.Eustat_logo
 standalone: false
-tags:
-  - status.territorio
-  - status.sexo
+tags: ''
