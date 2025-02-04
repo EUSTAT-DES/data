@@ -12,32 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Territorio",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
-                ""
-              ]
-            },
-            "title": "Territorio"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Porcentaje",
-                ""
-              ]
-            },
-            "title": "Unidad"
           },
           {
             "name": "Value",
