@@ -1,316 +1,255 @@
-Indicator,Reporting status,Progress status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
-#1-1-1,complete,alcanzado,International Labour Organization (ILO),,,,,line
-#1-2-1,complete,progreso,World Bank,,,,,line
-#1-2-2,complete,progreso,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",,,,,line
-#1-3-1,complete,progreso,International Labour Organization (ILO),,,,,line
-#1-4-1,complete,alcanzado,"United Nations Human Settlements Programme (UN-Habitat)
-WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (1.4.1a, b and c)",,True,,,line
-#1-4-2,notstarted,notstarted,UN-Habitat and World Bank,,,,,line
-#1-5-1,complete,alcanzado,United Nations Office for Disaster Reduction (UNDRR),,True,,,line
-#1-5-2,complete,alcanzado,United Nations Office for Disaster Reduction (UNDRR),,,,,line
-#1-5-3,notapplicable,notapplicable,United Nations Office for Disaster Reduction (UNDRR),,,,,line
-#1-5-4,notstarted,alcanzado,United Nations Office for Disaster Reduction (UNDRR),,,,,line
-#1-a-1,notapplicable,notapplicable,OECD,,,,,line
-#1-a-2,complete,alcanzado,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
-#1-b-1,notstarted,notstarted,"UNICEF, Save the Children",,,,,line
-#10-1-1,complete,retroceso,World Bank (WB),,,,,line
-#10-2-1,complete,progreso,World Bank (WB),,,,,line
-#10-3-1,notstarted,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
-#10-4-1,complete,noevaluado,International Labour Organization (ILO),,,,,line
-#10-4-2,complete,progreso,"Institutional information: The World Bank Group is the official custodian for this indicator. This metadata documentation was developed and agreed by the three institutional data providers, CEQ Institute, OECD and The World Bank.",,,,,line
-#10-5-1,notstarted,notstarted,International Monetary Fund (IMF),,,,,line
-#10-6-1,notapplicable,notapplicable,"Financing for Sustainable Development Office (FSDO), United Nations Department of Economic and Social Affairs (UN-DESA)
-",,,,,line
-#10-7-1,notstarted,notstarted,International Labour Organization (ILO) and World Bank (WB),,,,,line
-#10-7-2,notapplicable,notapplicable,International Organization for Migration (IOM) and United Nations Department of Economic and Social Affairs (DESA) as custodian agencies,,,,,line
-#10-7-3,notstarted,notstarted,International Organization for Migration (IOM),,,,,line
-#10-7-4,notstarted,notstarted,United Nations High Commissioner for Refugees (UNHCR),,,,,line
-#10-a-1,notstarted,notstarted,"International Trade Centre (ITC)
-United Nations Conference on Trade and Development (UNCTAD)
-The World Trade Organization (WTO)",,,,,line
-#10-b-1,notstarted,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#10-c-1,notstarted,notstarted,World Bank,,,,,line
-#11-1-1,complete,retroceso,United Nations Human Settlements Programme (UN-Habitat) ,,,,,line
-#11-2-1,notstarted,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
-#11-3-1,notstarted,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
-#11-3-2,complete,alcanzado,UN-Habitat,,,,,line
-#11-4-1,complete,alcanzado,UNESCO Institute for Statistics (UIS),,,,,line
-#11-5-1,complete,alcanzado,United Nations Office for Disaster Reduction (UNDRR),,True,,,line
-#11-5-2,complete,alcanzado,United Nations Office for Disaster Reduction (UNDRR),,,,,line
-#11-5-3,notstarted,notstarted,United Nations Office for Disaster Reduction (UNDRR),,,,,line
-#11-6-1,complete,alcanzado,"UN-Habitat, UNSD",,,,,line
-#11-6-2,complete,retroceso,World Health Organization (WHO),,,,,line
-#11-7-1,complete,alcanzado,UN-HABITAT,,,,,line
-#11-7-2,complete,retroceso,"United Nations Office on Drugs and Crime (UNODC)
-",,,,,line
-#11-a-1,complete,alcanzado,"UN-Habitat
-UNFPA",,,,,line
-#11-b-1,notapplicable,notapplicable,United Nations Office for Disaster Reduction (UNDRR),,,,,line
-#11-b-2,notstarted,notstarted,United Nations Office for Disaster Reduction (UNDRR),,,,,line
-#12-1-1,complete,alcanzado,United Nations Environment Programme (UNEP),,,,,line
-#12-2-1,notstarted,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#12-2-2,complete,progreso,United Nations Environment Programme (UNEP),,,,,line
-#12-3-1,notstarted,notstarted,United Nations Environment Programme (UNEP) ,,,,,line
-#12-4-1,notapplicable,notapplicable,United Nations Environment Programme (UNEP),,,,,line
-#12-4-2,complete,alcanzado,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",,,,,line
-#12-5-1,complete,alcanzado,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",,,,,line
-#12-6-1,complete,alcanzado,"United Nations Conference on Trade and Development (UNCTAD)
-United Nations Environment Programme (UNEP)",,,,,line
-#12-7-1,notstarted,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#12-8-1,notstarted,notstarted,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
-UNESCO Institute for Statistics (UNESCO-UIS)",,,,,line
-#12-a-1,notstarted,notstarted,International Renewable Energy Agency (IRENA),,,,,line
-#12-b-1,notstarted,notstarted,World Tourism Organization (UNWTO),,,,,line
-#12-c-1,notstarted,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#13-1-1,complete,alcanzado,United Nations Office for Disaster Reduction (UNDRR),,True,,,line
-#13-1-2,notapplicable,notapplicable,United Nations Office for Disaster Reduction (UNDRR),,,,,line
-#13-1-3,notstarted,notstarted,United Nations Office for Disaster Reduction (UNDRR),,,,,line
-#13-2-1,notstarted,notstarted,UN Climate Change (UNFCCC Secretariat),,,,,line
-#13-2-2,complete,progreso,UN Climate Change (UNFCCC Secretariat),,,,,line
-#13-3-1,notstarted,notstarted,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
-UNESCO Institute for Statistics (UNESCO-UIS)",,,,,line
-#13-a-1,notapplicable,notapplicable,UN Climate Change (UNFCCC Secretariat),,,,,line
-#13-b-1,notapplicable,notapplicable,UN Climate Change (UNFCCC Secretariat),,,,,line
-#14-1-1,notstarted,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#14-2-1,notapplicable,notapplicable,United Nations Environment Programme (UNEP),,,,,line
-#14-3-1,notstarted,notstarted,Intergovernmental Oceanographic Commission (IOC) of UNESCO,,,,,line
-#14-4-1,notstarted,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#14-5-1,notstarted,notstarted,"BirdLife International (BLI)
-International Union for Conservation of Nature (IUCN)
-UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)
-UN Environment Programme",,,,,line
-#14-6-1,notstarted,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#14-7-1,notstarted,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#14-a-1,notstarted,notstarted,Intergovernmental Oceanographic Commission of UNESCO (IOC-UNESCO),,,,,line
-#14-b-1,notstarted,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#14-c-1,notstarted,notstarted,"Division for Ocean Affairs and the Law of the Sea (DOALOS), Office of Legal Affairs (OLA), United Nations Secretariat",,,,,line
-#15-1-1,complete,alcanzado,Food and Agriculture Organization of the United Nations (FAO),,True,,,line
-#15-1-2,notstarted,notstarted,"BirdLife International (BLI)
-International Union for Conservation of Nature (IUCN)
-UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)
-UN Environment Programme",,,,,line
-#15-2-1,complete,progreso,Food and Agriculture Organization of the United Nations (FAO) ,,,,,line
-#15-3-1,complete,progreso,"United Nations Convention to Combat Desertification (UNCCD) and partners, including: Conservation International (CI), European Space Agency (ESA), Food and Agriculture Organization of the United Nations (FAO), Group on Earth Observation Land Degradation Neutrality Initiative (GEO-LDN), International Soil Reference and Information Centre (ISRIC), International Union for Conservation of Nature (IUCN), Joint Research Centre of the European Commission (JRC), United Nations Statistics Division (UNSD), United Nations Development Programme (UNDP), United Nations Environment (UNEP), World Resources Institute (WRI), United Nations Framework Convention on Climate Change (UNFCCC) and Convention on Biological Diversity (CBD).",,,,,line
-#15-4-1,notstarted,notstarted,"BirdLife International (BLI)
-International Union for Conservation of Nature (IUCN)
-UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)
-UN Environment Programme",,,,,line
-#15-4-2,notstarted,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#15-5-1,notstarted,notstarted,International Union for Conservation of Nature (IUCN),,,,,line
-#15-6-1,notstarted,notstarted,Secretariat of the Convention on Biological Diversity (CBD),,,,,line
-#15-7-1,notstarted,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#15-8-1,complete,alcanzado,International Union for Conservation of Nature (IUCN),,,,,line
-#15-9-1,notapplicable,,"United Nations Environment Programme (UNEP), Convention on Biological Diversity (CBD), United Nations Statistics Division (UNSD) ",,,,,line
-#15-a-1,notstarted,notstarted,Organisation for Economic Cooperation and Development (OECD),,,,,line
-#15-b-1,notstarted,notstarted,Organisation for Economic Cooperation and Development (OECD),,,,,line
-#15-c-1,notstarted,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#16-1-1,notstarted,notstarted,"United Nations Office on Drugs and Crime (UNODC), World Health Organization (WHO)",,,,,line
-#16-1-2,notstarted,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
-#16-1-3,notstarted,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#16-1-4,complete,retroceso,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#16-10-1,notstarted,notstarted,"Office of the United Nations High Commissioner for Human Rights (OHCHR) United Nations Educational, Scientific and Cultural Organization (UNESCO) International Labour Organization (ILO)",,,,,line
-#16-10-2,notstarted,notstarted,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",,,,,line
-#16-2-1,notstarted,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#16-2-2,complete,retroceso,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#16-2-3,notstarted,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#16-3-1,notstarted,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#16-3-2,complete,retroceso,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#16-3-3,notstarted,notstarted,"United Nations Development Programme (UNDP), United Nations Office on Drugs and Crime (UNODC) and Organization for Economic Cooperation and Development (OECD)",,,,,line
-#16-4-1,notstarted,notstarted,United Nations Office on Drugs and Crime (UNODC) and United Nations Conference on Trade and Development (UNCTAD),,,,,line
-#16-4-2,notstarted,notstarted,United Nations Office on Drugs and Crime (UNODC) and United Nations Office for Disarmement Affairs (UNODA),,,,,line
-#16-5-1,notstarted,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#16-5-2,notstarted,notstarted,World Bank (WB),,,,,line
-#16-6-1,notstarted,notstarted,World Bank (WB),,,,,line
-#16-6-2,complete,progreso,United Nations Development Programme (UNDP) ,,,,,line
-#16-7-1,complete,noevaluado,Inter-Parliamentary Union (IPU),,,,,line
-#16-7-2,notstarted,notstarted,UNDP Oslo Governance Centre,,,,,line
-#16-8-1,notapplicable,notapplicable,"Financing for Sustainable Development Office (FSDO), United Nations Department of Economic and Social Affairs (UN-DESA)
-",,,,,line
-#16-9-1,complete,progreso,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#16-a-1,notstarted,notstarted,United Nations Office of the High Commissioner for Human Rights,,,,,line
-#16-b-1,notstarted,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
-#17-1-1,complete,noevaluado,International Monetary Fund (IMF) Statistics Department (Government Finance Division),,,,,line
-#17-1-2,complete,noevaluado,International Monetary Fund (IMF) Statistics Department (Government Finance Division),,,,,line
-#17-10-1,notapplicable,notapplicable,"International Trade Centre (ITC)
-United Nations Conference on Trade and Development (UNCTAD)
-The World Trade Organization (WTO)",,,,,line
-#17-11-1,notapplicable,notapplicable,"International Trade Centre (ITC)
-United Nations Conference on Trade and Development (UNCTAD)
-The World Trade Organization (WTO)",,,,,line
-#17-12-1,notapplicable,notapplicable,"International Trade Centre (ITC)
-United Nations Conference on Trade and Development (UNCTAD)
-The World Trade Organization (WTO)",,,,,line
-#17-13-1,complete,noevaluado,World Bank,,,,,line
-#17-14-1,notstarted,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#17-15-1,notstarted,notstarted,"Organisation for Economic Co-operation and Development (OECD)
-United Nations Development Programme (UNDP)",,,,,line
-#17-16-1,notstarted,notstarted,"Organisation for Economic Co-operation and Development (OECD)
-United Nations Development Programme (UNDP)",,,,,line
-#17-17-1,notstarted,notstarted,World Bank,,,,,line
-#17-18-1,notstarted,notstarted,Open Data Watch (ODW),,,,,line
-#17-18-2,complete,alcanzado,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
-#17-18-3,complete,alcanzado,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
-#17-19-1,notstarted,notstarted,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
-#17-19-2,complete,alcanzado,"United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations (UN DESA)",,,,,line
-#17-2-1,complete,progreso,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#17-3-1,complete,progreso,International Forum on TOSSD (independent entity hosted by the OECD) and UNCTAD,,,,,line
-#17-3-2,complete,noevaluado,World Bank (WB),,,,,line
-#17-4-1,notstarted,notstarted,World Bank (WB),,,,,line
-#17-5-1,notapplicable,notapplicable,United Nations Conference on Trade and Development (UNCTAD),,,,,line
-#17-6-1,complete,progreso,International Telecommunication Union (ITU),,,,,line
-#17-7-1,notstarted,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#17-8-1,complete,alcanzado,International Telecommunication Union (ITU),,,,,line
-#17-9-1,notstarted,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#2-1-1,notstarted,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#2-1-2,notstarted,notstarted,Food and Agriculture Organisation of the United Nations (FAO),,,,,line
-#2-2-1,notstarted,notstarted,"United Nations Children&apos;s Fund (UNICEF)
-World Health Organization (WHO)
-World Bank (WB)",,,,,line
-#2-2-2,complete,retroceso,"United Nations Children&apos;s Fund (UNICEF)
-World Health Organization (WHO)
-World Bank (WB)",,,,,line
-#2-2-3,notstarted,notstarted,World Health Organization (WHO),,,,,line
-#2-3-1,complete,alcanzado,Food and Agriculture Organization (FAO),,,,,line
-#2-3-2,complete,retroceso,Food and Agriculture Organization (FAO),,,,,line
-#2-4-1,complete,progreso,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#2-4-E1,complete,alcanzado,,,True,,,line
-#2-4-E2,complete,progreso,,,,,,line
-#2-5-1,notstarted,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#2-5-2,notstarted,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#2-a-1,complete,noevaluado,Food and Agriculture Organization of the United Nations (FAO),,True,,,line
-#2-a-2,notstarted,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#2-b-1,notstarted,notstarted,The World Trade Organization (WTO),,,,,line
-#2-c-1,complete,retroceso,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#3-1-1,complete,alcanzado,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,,,,,line
-#3-1-2,complete,alcanzado,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),,,,,line
-#3-2-1,complete,alcanzado,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#3-2-2,complete,alcanzado,United Nations Children&apos;s Fund (UNICEF) ,,,,,line
-#3-3-1,complete,progreso,The Joint United Nations Programme on HIV/AIDS (UNAIDS),,,,,line
-#3-3-2,complete,progreso,World Health Organization (WHO),,,,,line
-#3-3-3,complete,noevaluado,Global Malaria Programme at World Health Organization (WHO),,,,,line
-#3-3-4,complete,alcanzado,World Health Organization ,,,,,line
-#3-3-5,notstarted,notstarted,World Health Organization (WHO),,,,,line
-#3-4-1,complete,progreso,World Health Organization (WHO) ,,,,,line
-#3-4-2,complete,retroceso,World Health Organization (WHO) ,,,,,line
-#3-4-E1,complete,alcanzado,,,,,,line
-#3-4-E2,complete,noevaluado,,,,,,line
-#3-5-1,complete,noevaluado,"World Health Organization (WHO) 
-United Nations Office on Drugs and Crime (UNODC) ",,,,,line
-#3-5-2,complete,retroceso,World Health Organization (WHO) ,,,,,line
-#3-6-1,complete,retroceso,World Health Organization (WHO) ,,,,,line
-#3-7-1,complete,noevaluado,"Population Division, Department of Economic and Social Affairs (DESA)
-United Nations Population Fund (UNFPA)",,,,,line
-#3-7-2,complete,alcanzado,"Population Division, Department of Economic and Social Affairs (DESA) 
-United Nations Population Fund (UNFPA)",,,,,line
-#3-8-1,complete,alcanzado,World Health Organization (WHO) ,,,,,line
-#3-8-2,complete,retroceso,World Health Organization (WHO) and the World Bank,,,,,line
-#3-9-1,notstarted,notstarted,World Health Organization (WHO),,,,,line
-#3-9-2,notstarted,notstarted,World Health Organization (WHO),,,,,line
-#3-9-3,complete,retroceso,"World Health Organization (WHO)
- ",,,,,line
-#3-a-1,complete,alcanzado,World Health Organization; Secretariat of the WHO Framework Convention on Tobacco Control (co-custodians) ,,,,,line
-#3-b-1,complete,retroceso,"World Health Organization (WHO), United Nations Children&#x2019;s Fund (UNICEF) ",,,,,line
-#3-b-2,notstarted,notstarted,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
-#3-b-3,notstarted,notstarted,World Health Organization (WHO),,,,,line
-#3-c-1,complete,alcanzado,"Health Workforce Department, World Health Organization (WHO)",,,,,line
-#3-d-1,notstarted,notstarted,World Health Organization (WHO),,,,,line
-#3-d-2,notstarted,notstarted,World Health Organization (WHO) ,,,,,line
-#4-1-1,complete,retroceso,UNESCO Institute of Statistics (UIS),,,,,line
-#4-1-2,complete,progreso,UNESCO Institute for Statistics (UIS),,,,,line
-#4-1-E1,complete,alcanzado,,,,,,line
-#4-2-1,notstarted,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#4-2-2,complete,alcanzado,UNESCO Institute for Statistics (UIS),,,,,line
-#4-3-1,complete,alcanzado,UNESCO Institute for Statistics (UIS),,,,,line
-#4-4-1,complete,progreso,International Telecommunication Union (ITU),,,,,line
-#4-5-1,complete,progreso,UNESCO Institute for Statistics (UIS),,,,,line
-#4-6-1,complete,alcanzado,UNESCO Institute for Statistics (UIS),,,,,line
-#4-7-1,notstarted,notstarted,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
-UNESCO Institute for Statistics (UNESCO-UIS)",,,,,line
-#4-a-1,complete,alcanzado,UNESCO Institute for Statistics (UIS),,,,,line
-#4-b-1,notstarted,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#4-c-1,complete,alcanzado,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
-#5-1-1,complete,alcanzado,"UN Women, World Bank Group, OECD Development Centre",,,,,line
-#5-2-1,complete,retroceso,"World Health Organization (WHO)
-United Nations Children&apos;s Fund (UNICEF)
-United Nations Entity for Gender Equality and the Empowerment of Women (UN Women)
-United Nations Office on Drugs and Crime (UNODC)
-United Nations Population Fund (UNFPA)
-United Nations Statistics Division (UNSD)",,True,,,line
-#5-2-2,complete,retroceso,"United Nations Entity for Gender Equality and the Empowerment of Women (UN Women)
-United Nations Children&apos;s Fund (UNICEF)
-United Nations Statistics Division (UNSD)
-World Health Organization (WHO)
-United Nations Population Fund (UNFPA)",,True,,,line
-#5-3-1,complete,alcanzado,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#5-3-2,notstarted,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#5-4-1,complete,progreso,UN Statistics Division (UNSD) and UN WOMEN,,,,,line
-#5-5-1,complete,progreso,Inter-Parliamentary Union (IPU),,,,,line
-#5-5-2,complete,retroceso,International Labour Organization (ILO),,,,,line
-#5-6-1,notstarted,notstarted,United Nations Population Fund (UNFPA),,,,,line
-#5-6-2,notapplicable,notapplicable,United Nations Population Fund (UNFPA),,,,,line
-#5-a-1,complete,progreso,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#5-a-2,complete,alcanzado,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#5-b-1,complete,alcanzado,International Telecommunication Union (ITU),,,,,line
-#5-c-1,notapplicable,notapplicable,United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) in collaboration with Organisation for Economic Co-operation and Development (OECD) and United Nations Development Programme (UNDP),,,,,line
-#6-1-1,complete,alcanzado,"World Health Organization (WHO)
-United Nations Children&apos;s Fund (UNICEF)",,,,,line
-#6-2-1,complete,alcanzado,"World Health Organization (WHO)
-United Nations Children&apos;s Fund (UNICEF)",,True,,,line
-#6-3-1,notstarted,notstarted,"United Nations Human Settlements Programme (UN-Habitat)
-World Health Organization (WHO)
-United Nations Statistics Division (UNSD)",,,,,line
-#6-3-2,complete,retroceso,United Nations Environment Programme (UNEP),,,,,line
-#6-4-1,notstarted,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#6-4-2,complete,noevaluado,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#6-5-1,notstarted,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#6-5-2,complete,alcanzado,"Intergovernmental Hydrological Programme of United Nations Educational, Scientific and Cultural Organization (UNESCO-IHP)
-United Nations Economic Commission for Europe (UNECE)",,,,,line
-#6-6-1,notstarted,notstarted,Secretariat of the Ramsar Convention on Wetlands,,,,,line
-#6-a-1,notstarted,notstarted,"World Health Organization (WHO)
-United Nations Environment Programme (UNEP)
-Organisation for Economic Co-operation and Development (OECD)",,,,,line
-#6-b-1,complete,alcanzado,"World Health Organization (WHO)
-United Nations Environment Programme (UNEP)
-Organisation for Economic Co-operation and Development (OECD)",,,,,line
-#7-1-1,complete,alcanzado,World Bank Group,,,,,line
-#7-1-2,complete,alcanzado,World Health Organization (WHO),,,,,line
-#7-2-1,complete,progreso,"International Energy Agency (IEA) 
-United Nations Statistics Division (UNSD) 
-International Renewable Energy Agency (IRENA)",,,,,line
-#7-3-1,complete,progreso,"International Energy Agency (IEA) 
-United Nations Statistics Division (UNSD)",,,,,line
-#7-a-1,notstarted,notstarted,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),,,,,line
-#7-b-1,complete,progreso,International Renewable Energy Agency (IRENA),,True,,,line
-#8-1-1,complete,alcanzado,United Nations Statistics Division (UNSD),,,,,line
-#8-10-1,complete,noevaluado,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,,,line
-#8-10-2,complete,alcanzado,World Bank ,,,,,line
-#8-2-1,complete,alcanzado,International Labour Organization (ILO) ,,,,,line
-#8-3-1,notstarted,notstarted,International Labour Organization (ILO),,,,,line
-#8-4-1,notstarted,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#8-4-2,complete,progreso,United Nations Environment Programme (UNEP),,,,,line
-#8-5-1,complete,progreso,International Labour Organization (ILO),,,,,line
-#8-5-2,complete,progreso,International Labour Organization (ILO) ,,True,,,line
-#8-5-E1,complete,progreso,,,True,,,line
-#8-6-1,complete,progreso,International Labour Organization (ILO),,,,,line
-#8-7-1,notstarted,notstarted,"United Nations Children&apos;s Fund (UNICEF)
-International Labour Organization (ILO)",,,,,line
-#8-8-1,notstarted,notstarted,International Labour Organisation (ILO),,,,,line
-#8-8-2,notstarted,notstarted,International Labour Organization (ILO),,,,,line
-#8-9-1,complete,noevaluado,World Tourism Organization (UNWTO) ,,,,,line
-#8-a-1,notstarted,notstarted,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
-#8-b-1,complete,noevaluado,International Labour Organization (ILO) ,,,,,line
-#9-1-1,complete,alcanzado,World Bank,,,,,line
-#9-1-2,notstarted,notstarted,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); United Nations Conference on Trade and Development (UNCTAD).,,,,,line
-#9-2-1,complete,retroceso,United Nations Industrial Development Organization (UNIDO),,,,,line
-#9-2-2,complete,retroceso,"United Nations Industrial Development Organization (UNIDO)
-(with the collaboration of the International Labour Organization &#x2013; ILO)",,,,,line
-#9-3-1,complete,retroceso,United Nations Industrial Development Organization (UNIDO),,,,,line
-#9-3-2,notstarted,notstarted,"United Nations Industrial Development Organization (UNIDO)
-World Bank",,,,,line
-#9-4-1,complete,retroceso,"International Energy Agency (IEA)
-United Nations Industrial Development Organization (UNIDO)",,,,,line
-#9-5-1,complete,progreso,UNESCO Institute for Statistics (UIS),,,,,line
-#9-5-2,complete,progreso,UNESCO Institute for Statistics (UIS) ,,,,,line
-#9-a-1,notstarted,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#9-b-1,complete,progreso,United Nations Industrial Development Organization (UNIDO),,,,,line
-#9-c-1,complete,alcanzado,International Telecommunication Union (ITU),,,,,line
+Indicator,Reporting status,Progress status,Show map,Indicador OCECA,Graph type
+#1-1-1,complete,alcanzado,,,line
+#1-2-1,complete,progreso,,,line
+#1-2-2,complete,progreso,,,line
+#1-3-1,complete,progreso,,,line
+#1-4-1,complete,alcanzado,True,,line
+#1-4-2,notstarted,notstarted,,,line
+#1-5-1,complete,alcanzado,True,,line
+#1-5-2,complete,alcanzado,,,line
+#1-5-3,notapplicable,notapplicable,,,line
+#1-5-4,notstarted,alcanzado,,,line
+#1-a-1,notapplicable,notapplicable,,,line
+#1-a-2,complete,alcanzado,,,line
+#1-b-1,notstarted,notstarted,,,line
+#10-1-1,complete,retroceso,,,line
+#10-2-1,complete,progreso,,,line
+#10-3-1,notstarted,notstarted,,,line
+#10-4-1,complete,noevaluado,,,line
+#10-4-2,complete,progreso,,,line
+#10-5-1,notstarted,notstarted,,,line
+#10-6-1,notapplicable,notapplicable,,,line
+#10-7-1,notstarted,notstarted,,,line
+#10-7-2,notapplicable,notapplicable,,,line
+#10-7-3,notstarted,notstarted,,,line
+#10-7-4,notstarted,notstarted,,,line
+#10-a-1,notstarted,notstarted,,,line
+#10-b-1,notstarted,notstarted,,,line
+#10-c-1,notstarted,notstarted,,,line
+#11-1-1,complete,retroceso,,,line
+#11-2-1,notstarted,notstarted,,,line
+#11-3-1,notstarted,notstarted,,,line
+#11-3-2,complete,alcanzado,,,line
+#11-4-1,complete,alcanzado,,,line
+#11-5-1,complete,alcanzado,True,,line
+#11-5-2,complete,alcanzado,,,line
+#11-5-3,notstarted,notstarted,,,line
+#11-6-1,complete,alcanzado,,,line
+#11-6-2,complete,retroceso,,,line
+#11-7-1,complete,alcanzado,,,line
+#11-7-2,complete,retroceso,,,line
+#11-a-1,complete,alcanzado,,,line
+#11-b-1,notapplicable,notapplicable,,,line
+#11-b-2,notstarted,notstarted,,,line
+#12-1-1,complete,alcanzado,,,line
+#12-2-1,notstarted,notstarted,,,line
+#12-2-2,complete,progreso,,,line
+#12-3-1,notstarted,notstarted,,,line
+#12-4-1,notapplicable,notapplicable,,,line
+#12-4-2,complete,alcanzado,,,line
+#12-5-1,complete,alcanzado,,,line
+#12-6-1,complete,alcanzado,,,line
+#12-7-1,notstarted,notstarted,,,line
+#12-8-1,notstarted,notstarted,,,line
+#12-a-1,notstarted,notstarted,,,line
+#12-b-1,notstarted,notstarted,,,line
+#12-c-1,notstarted,notstarted,,,line
+#13-1-1,complete,alcanzado,True,,line
+#13-1-2,notapplicable,notapplicable,,,line
+#13-1-3,notstarted,notstarted,,,line
+#13-2-1,notstarted,notstarted,,,line
+#13-2-2,complete,progreso,,,line
+#13-3-1,notstarted,notstarted,,,line
+#13-a-1,notapplicable,notapplicable,,,line
+#13-b-1,notapplicable,notapplicable,,,line
+#14-1-1,notstarted,notstarted,,,line
+#14-2-1,notapplicable,notapplicable,,,line
+#14-3-1,notstarted,notstarted,,,line
+#14-4-1,notstarted,notstarted,,,line
+#14-5-1,notstarted,notstarted,,,line
+#14-6-1,notstarted,notstarted,,,line
+#14-7-1,notstarted,notstarted,,,line
+#14-a-1,notstarted,notstarted,,,line
+#14-b-1,notstarted,notstarted,,,line
+#14-c-1,notstarted,notstarted,,,line
+#15-1-1,complete,alcanzado,True,,line
+#15-1-2,notstarted,notstarted,,,line
+#15-2-1,complete,progreso,,,line
+#15-3-1,complete,progreso,,,line
+#15-4-1,notstarted,notstarted,,,line
+#15-4-2,notstarted,notstarted,,,line
+#15-5-1,notstarted,notstarted,,,line
+#15-6-1,notstarted,notstarted,,,line
+#15-7-1,notstarted,notstarted,,,line
+#15-8-1,complete,alcanzado,,,line
+#15-9-1,notapplicable,,,,line
+#15-a-1,notstarted,notstarted,,,line
+#15-b-1,notstarted,notstarted,,,line
+#15-c-1,notstarted,notstarted,,,line
+#16-1-1,notstarted,notstarted,,,line
+#16-1-2,notstarted,notstarted,,,line
+#16-1-3,notstarted,notstarted,,,line
+#16-1-4,complete,retroceso,,,line
+#16-10-1,notstarted,notstarted,,,line
+#16-10-2,notstarted,notstarted,,,line
+#16-2-1,notstarted,notstarted,,,line
+#16-2-2,complete,retroceso,,,line
+#16-2-3,notstarted,notstarted,,,line
+#16-3-1,notstarted,notstarted,,,line
+#16-3-2,complete,retroceso,,,line
+#16-3-3,notstarted,notstarted,,,line
+#16-4-1,notstarted,notstarted,,,line
+#16-4-2,notstarted,notstarted,,,line
+#16-5-1,notstarted,notstarted,,,line
+#16-5-2,notstarted,notstarted,,,line
+#16-6-1,notstarted,notstarted,,,line
+#16-6-2,complete,progreso,,,line
+#16-7-1,complete,noevaluado,,,line
+#16-7-2,notstarted,notstarted,,,line
+#16-8-1,notapplicable,notapplicable,,,line
+#16-9-1,complete,progreso,,,line
+#16-a-1,notstarted,notstarted,,,line
+#16-b-1,notstarted,notstarted,,,line
+#17-1-1,complete,noevaluado,,,line
+#17-1-2,complete,noevaluado,,,line
+#17-10-1,notapplicable,notapplicable,,,line
+#17-11-1,notapplicable,notapplicable,,,line
+#17-12-1,notapplicable,notapplicable,,,line
+#17-13-1,complete,noevaluado,,,line
+#17-14-1,notstarted,notstarted,,,line
+#17-15-1,notstarted,notstarted,,,line
+#17-16-1,notstarted,notstarted,,,line
+#17-17-1,notstarted,notstarted,,,line
+#17-18-1,notstarted,notstarted,,,line
+#17-18-2,complete,alcanzado,,,line
+#17-18-3,complete,alcanzado,,,line
+#17-19-1,notstarted,notstarted,,,line
+#17-19-2,complete,alcanzado,,,line
+#17-2-1,complete,progreso,,,line
+#17-3-1,complete,progreso,,,line
+#17-3-2,complete,noevaluado,,,line
+#17-4-1,notstarted,notstarted,,,line
+#17-5-1,notapplicable,notapplicable,,,line
+#17-6-1,complete,progreso,,,line
+#17-7-1,notstarted,notstarted,,,line
+#17-8-1,complete,alcanzado,,,line
+#17-9-1,notstarted,notstarted,,,line
+#2-1-1,notstarted,notstarted,,,line
+#2-1-2,notstarted,notstarted,,,line
+#2-2-1,notstarted,notstarted,,,line
+#2-2-2,complete,retroceso,,,line
+#2-2-3,notstarted,notstarted,,,line
+#2-3-1,complete,alcanzado,,,line
+#2-3-2,complete,retroceso,,,line
+#2-4-1,complete,progreso,,,line
+#2-4-E1,complete,alcanzado,True,,line
+#2-4-E2,complete,progreso,,,line
+#2-5-1,notstarted,notstarted,,,line
+#2-5-2,notstarted,notstarted,,,line
+#2-a-1,complete,noevaluado,True,,line
+#2-a-2,notstarted,notstarted,,,line
+#2-b-1,notstarted,notstarted,,,line
+#2-c-1,complete,retroceso,,,line
+#3-1-1,complete,alcanzado,,,line
+#3-1-2,complete,alcanzado,,,line
+#3-2-1,complete,alcanzado,,,line
+#3-2-2,complete,alcanzado,,,line
+#3-3-1,complete,progreso,,,line
+#3-3-2,complete,progreso,,,line
+#3-3-3,complete,noevaluado,,,line
+#3-3-4,complete,alcanzado,,,line
+#3-3-5,notstarted,notstarted,,,line
+#3-4-1,complete,progreso,,,line
+#3-4-2,complete,retroceso,,,line
+#3-4-E1,complete,alcanzado,,,line
+#3-4-E2,complete,noevaluado,,,line
+#3-5-1,complete,noevaluado,,,line
+#3-5-2,complete,retroceso,,,line
+#3-6-1,complete,retroceso,,,line
+#3-7-1,complete,noevaluado,,,line
+#3-7-2,complete,alcanzado,,,line
+#3-8-1,complete,alcanzado,,,line
+#3-8-2,complete,retroceso,,,line
+#3-9-1,notstarted,notstarted,,,line
+#3-9-2,notstarted,notstarted,,,line
+#3-9-3,complete,retroceso,,,line
+#3-a-1,complete,alcanzado,,,line
+#3-b-1,complete,retroceso,,,line
+#3-b-2,notstarted,notstarted,,,line
+#3-b-3,notstarted,notstarted,,,line
+#3-c-1,complete,alcanzado,,,line
+#3-d-1,notstarted,notstarted,,,line
+#3-d-2,notstarted,notstarted,,,line
+#4-1-1,complete,retroceso,,,line
+#4-1-2,complete,progreso,,,line
+#4-1-E1,complete,alcanzado,,,line
+#4-2-1,notstarted,notstarted,,,line
+#4-2-2,complete,alcanzado,,,line
+#4-3-1,complete,alcanzado,,,line
+#4-4-1,complete,progreso,,,line
+#4-5-1,complete,progreso,,,line
+#4-6-1,complete,alcanzado,,,line
+#4-7-1,notstarted,notstarted,,,line
+#4-a-1,complete,alcanzado,,,line
+#4-b-1,notstarted,notstarted,,,line
+#4-c-1,complete,alcanzado,,,line
+#5-1-1,complete,alcanzado,,,line
+#5-2-1,complete,retroceso,True,,line
+#5-2-2,complete,retroceso,True,,line
+#5-3-1,complete,alcanzado,,,line
+#5-3-2,notstarted,notstarted,,,line
+#5-4-1,complete,progreso,,,line
+#5-5-1,complete,progreso,,,line
+#5-5-2,complete,retroceso,,,line
+#5-6-1,notstarted,notstarted,,,line
+#5-6-2,notapplicable,notapplicable,,,line
+#5-a-1,complete,progreso,,,line
+#5-a-2,complete,alcanzado,,,line
+#5-b-1,complete,alcanzado,,,line
+#5-c-1,notapplicable,notapplicable,,,line
+#6-1-1,complete,alcanzado,,,line
+#6-2-1,complete,alcanzado,True,,line
+#6-3-1,notstarted,notstarted,,,line
+#6-3-2,complete,retroceso,,,line
+#6-4-1,notstarted,notstarted,,,line
+#6-4-2,complete,noevaluado,,,line
+#6-5-1,notstarted,notstarted,,,line
+#6-5-2,complete,alcanzado,,,line
+#6-6-1,notstarted,notstarted,,,line
+#6-a-1,notstarted,notstarted,,,line
+#6-b-1,complete,alcanzado,,,line
+#7-1-1,complete,alcanzado,,,line
+#7-1-2,complete,alcanzado,,,line
+#7-2-1,complete,progreso,,,line
+#7-3-1,complete,progreso,,,line
+#7-a-1,notstarted,notstarted,,,line
+#7-b-1,complete,progreso,True,,line
+#8-1-1,complete,alcanzado,,,line
+#8-10-1,complete,noevaluado,,,line
+#8-10-2,complete,alcanzado,,,line
+#8-2-1,complete,alcanzado,,,line
+#8-3-1,notstarted,notstarted,,,line
+#8-4-1,notstarted,notstarted,,,line
+#8-4-2,complete,progreso,,,line
+#8-5-1,complete,progreso,,,line
+#8-5-2,complete,progreso,True,,line
+#8-5-E1,complete,progreso,True,,line
+#8-6-1,complete,progreso,,,line
+#8-7-1,notstarted,notstarted,,,line
+#8-8-1,notstarted,notstarted,,,line
+#8-8-2,notstarted,notstarted,,,line
+#8-9-1,complete,noevaluado,,,line
+#8-a-1,notstarted,notstarted,,,line
+#8-b-1,complete,noevaluado,,,line
+#9-1-1,complete,alcanzado,,,line
+#9-1-2,notstarted,notstarted,,,line
+#9-2-1,complete,retroceso,,,line
+#9-2-2,complete,retroceso,,,line
+#9-3-1,complete,retroceso,,,line
+#9-3-2,notstarted,notstarted,,,line
+#9-4-1,complete,retroceso,,,line
+#9-5-1,complete,progreso,,,line
+#9-5-2,complete,progreso,,,line
+#9-a-1,notstarted,notstarted,,,line
+#9-b-1,complete,progreso,,,line
+#9-c-1,complete,alcanzado,,,line

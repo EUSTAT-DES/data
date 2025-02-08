@@ -1,0 +1,37 @@
+Value,es,eu,en,Disaggregation combinations using this value,Number of indicators
+BOOL_YES_NO,"Lógica (1=Sí, 0=No)","Lógica (1=Sí, 0=No)","Lógica (1=Sí, 0=No)",6,5
+EUR,Euros,Euros,Euros,13,3
+EUR_1000000,Millones de euros,Millones de euros,Millones de euros,4,4
+EUR_PER_CAPITA,Euro per cápita,Euro per cápita,Euro per cápita,7,2
+GPERM3,Microgramos por metro cúbico,Microgramos por metro cúbico,Microgramos por metro cúbico,2,1
+HA,Hectáreas,Hectáreas,Hectáreas,2,2
+IX,Índice,Índice,Índice,7,3
+KG_CO2_PER_GDP_EUR,Kg de CO2 equivalente por euro de PIB,Kg de CO2 equivalente por euro de PIB,Kg de CO2 equivalente por euro de PIB,3,2
+KG_PER_CAPITA,Kg per cápita,Kg per cápita,Kg per cápita,8,2
+KG_PER_GDP_1000_EUR,Kg por euro de PIB,Kg por euro de PIB,Kg por euro de PIB,1,1
+KG_PER_HA,Kg por hectárea,Kg por hectárea,Kg por hectárea,3,1
+KT,Kilotoneladas,Kilotoneladas,Kilotoneladas,5,3
+LICENCES,Licencias,Licencias,Licencias,4,1
+LITRES,Litros,Litros,Litros,4,1
+LITRES_PURE_ALCOHOL,Litros de alcohol puro,Litros de alcohol puro,Litros de alcohol puro,1,1
+MN,Minutos,Minutos,Minutos,12,1
+ORGANISATIONS,Organizaciones,Organizaciones,Organizaciones,4,1
+PER_1000,Por 1.000,Por 1.000,Por 1.000,6,2
+PER_10000,Por 10.000,Por 10.000,Por 10.000,550,2
+PER_100000,Por 100.000,Por 100.000,Por 100.000,25,6
+PER_1000000_POP,Por millón de habitantes,Por millón de habitantes,Por millón de habitantes,4,1
+PER_100000_LIVE_BIRTHS,Por 100.000 nacidos vivos,Por 100.000 nacidos vivos,Por 100.000 nacidos vivos,4,1
+PER_100000_POP,Por 100.000 habitantes,Por 100.000 habitantes,Por 100.000 habitantes,2571,7
+PER_10000_POP,Por 10.000 habitantes,Por 10.000 habitantes,Por 10.000 habitantes,48,1
+PER_1000_LIVE_BIRTHS,Por 1.000 nacidos vivos,Por 1.000 nacidos vivos,Por 1.000 nacidos vivos,24,2
+PER_1000_POP,Por 1.000 habitantes,Por 1.000 habitantes,Por 1.000 habitantes,2,1
+PER_100_POP,Por 100 personas,Por 100 personas,Por 100 personas,20,1
+PP,Puntos porcentuales,Puntos porcentuales,Puntos porcentuales,12,1
+PT,Porcentaje,Porcentaje,Porcentaje,4726,86
+RO,Ratio,Ratio,Ratio,70,2
+T_CO2_PER_CAPITA,Toneladas de CO2 equivalente per cápita,Toneladas de CO2 equivalente per cápita,Toneladas de CO2 equivalente per cápita,1,1
+T_MILLON_EUR,Toneladas por millon de euros,Toneladas por millon de euros,Toneladas por millon de euros,1,1
+T_OE_PER_1000000_EUR,Toneladas equivalentes de petróleo por millón de euros,Toneladas equivalentes de petróleo por millón de euros,Toneladas equivalentes de petróleo por millón de euros,1,1
+T_PER_CAPITA,Toneladas per cápita,Toneladas per cápita,Toneladas per cápita,2,2
+W_PER_CAPITA,Watts per cápita,Watts per cápita,Watts per cápita,1375,1
+YR,Años,Años,Años,20,1
