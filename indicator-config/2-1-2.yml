@@ -29,5 +29,11 @@ precision: []
 progress_status: alcanzado
 reporting_status: complete
 sort: ''
+sources:
+  - organisation: FUENTE.Euskadi_Bienestar
+    periodicity: FUENTE.FREQ_A2
+    url: FUENTE.Euskadi_Bienestar_epds_url
+    url_text: FUENTE.Euskadi_Bienestar_epds
+    logo: FUENTE.Euskadi_logo
 standalone: false
 tags: []
