@@ -138,7 +138,7 @@ docs_metadata_fields:
     - key: progress_status
       label: Progress status
     - key: data_show_map
-      label: Show map
+      label: Mapa
     - key: texto_oceca
       label: Indicador OCECA
     - key: graph_type
