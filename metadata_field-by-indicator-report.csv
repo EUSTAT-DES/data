@@ -26,7 +26,7 @@ Indicator,Reporting status,Progress status,Show map,Indicador OCECA,Graph type
 #10-a-1,notstarted,notstarted,,,line
 #10-b-1,notstarted,notstarted,,,line
 #10-c-1,notstarted,notstarted,,,line
-#11-1-1,complete,retroceso,,,line
+#11-1-1,complete,progreso,,,line
 #11-2-1,notstarted,notstarted,,,line
 #11-3-1,notstarted,notstarted,,,line
 #11-3-2,complete,alcanzado,,,line
@@ -135,7 +135,7 @@ Indicator,Reporting status,Progress status,Show map,Indicador OCECA,Graph type
 #17-8-1,complete,alcanzado,,,line
 #17-9-1,notstarted,notstarted,,,line
 #2-1-1,notstarted,notstarted,,,line
-#2-1-2,notstarted,notstarted,,,line
+#2-1-2,complete,alcanzado,,,line
 #2-2-1,notstarted,notstarted,,,line
 #2-2-2,complete,retroceso,,,line
 #2-2-3,notstarted,notstarted,,,line

@@ -11,7 +11,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-2-1,"Units, Series, Umbral, Ingreso_cuantil",4
 #10-4-1,"Territorio, Units, Series",3
 #10-4-2,"Units, Series",2
-#11-1-1,Units,1
+#11-1-1,"Units, Series",2
 #11-3-2,Units,1
 #11-4-1,"Units, Administracion",2
 #11-5-1,"Territorio, Units, Comarca, Municipio, Sexo",5
@@ -49,6 +49,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-3-2,"Units, Series",2
 #17-6-1,"Territorio, Units, Velocidad",3
 #17-8-1,"Territorio, Units, Sexo",3
+#2-1-2,"Units, Series",2
 #2-2-2,"Units, Series, Sexo",3
 #2-3-1,"Territorio, Units",2
 #2-3-2,"Territorio, Units",2

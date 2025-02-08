@@ -16,6 +16,21 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vivienda con problemas de humedad",
+                "Sin retrete o bañera/ducha",
+                "Superficie < 20 metros cuadrados/persona",
+                "Exposición a ruidos/contaminación",
+                "No iluminada, sin luz suficiente",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

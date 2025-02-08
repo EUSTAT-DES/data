@@ -16,6 +16,21 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU_INDQTHSNG_HUMID",
+                "EU_INDQTHSNG_TOILET",
+                "EU_INDQTHSNG_OVERCROWD",
+                "EU_INDQTHSNG_NOISE",
+                "EU_INDQTHSNG_LIGHT",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
