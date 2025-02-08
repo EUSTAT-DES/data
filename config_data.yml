@@ -128,7 +128,7 @@ docs_translate_disaggregations: true
 # This can be uncommented to show additional columns in the disaggregation report.
 # This is mainly intended to show units of measurement and series, which are not
 # normally considered "disaggregation".
-# docs_extra_disaggregations: ['Units', 'Series']
+docs_extra_disaggregations: ['Units', 'Series']
 
 # This controls the metadata report which is part of the automatic documentation.
 # More info can be found at https://open-sdg.readthedocs.io/en/latest/data-configuration/#docs_metadata_fields
@@ -137,15 +137,9 @@ docs_metadata_fields:
       label: Reporting status
     - key: progress_status
       label: Progress status
-    - key: SDG_CUSTODIAN_AGENCIES__GLOBAL
-      label: UN custodian agency
-    - key: data_non_statistical
-      label: Non-statistical
     - key: data_show_map
       label: Show map
-    - key: national_geographical_coverage
-      label: Geographical coverage
-    - key: computation_units
-      label: Units
+    - key: oceca
+      label: Indicador OCECA
     - key: graph_type
       label: Graph type
