@@ -15,7 +15,10 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: PT
+    minimum: 0
+    maximum: 5
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.7-1-1-title
 graph_titles: []
@@ -30,10 +33,10 @@ progress_status: alcanzado
 reporting_status: complete
 sort: ''
 sources:
-  - organisation: FUENTE.BM
-    periodicity: FUENTE.FREQ_A
-    url: FUENTE.BM_url
-    url_text: FUENTE.BM
-    logo: FUENTE.BM_logo
+  - organisation: FUENTE.Euskadi_Bienestar
+    periodicity: FUENTE.FREQ_A2
+    url: FUENTE.Euskadi_Bienestar_epds_url
+    url_text: FUENTE.Euskadi_Bienestar_epds
+    logo: FUENTE.Euskadi_logo
 standalone: false
 tags: []
