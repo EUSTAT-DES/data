@@ -1512,11 +1512,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Vivienda con problemas de humedad",
-                "Sin retrete o bañera/ducha",
-                "Superficie < 20 metros cuadrados/persona",
-                "Exposición a ruidos/contaminación",
-                "No iluminada, sin luz suficiente",
+                "Proporción de personas que vive en una vivienda con problemas de humedad",
+                "Proporción de personas que vive en una vivienda sin retrete o bañera/ducha",
+                "Proporción de personas que vive en una vivienda con una superficie menor a 20 metros cuadrados por persona",
+                "Proporción de personas que vive en una vivienda con problemas de exposición a ruidos y contaminación",
+                "Proporción de personas que vive en una vivienda oscura, sin luz suficiente, o escasez de luz natural",
                 ""
               ]
             },
@@ -7363,8 +7363,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prevalencia de la inseguridad alimentaria moderada o severa",
-                "Prevalencia de la inseguridad alimentaria severa",
+                "Prevalencia de la inseguridad alimentaria grave o muy grave",
+                "Prevalencia de la inseguridad alimentaria grave",
                 ""
               ]
             },

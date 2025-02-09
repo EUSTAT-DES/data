@@ -6,8 +6,8 @@ AG_LND_FRSTMGT,Proporción de la superficie forestal con instrumentos de gestió
 AG_LND_FRSTMGT_HA,Superficie forestal con instrumentos de gestión sostenible vigentes,Superficie forestal con instrumentos de gestión sostenible vigentes,Superficie forestal con instrumentos de gestión sostenible vigentes,1,1
 AG_LND_NFI,Proporción de la superficie de tierras agrícolas que ha alcanzado un nivel aceptable o deseable de ingresos agrícolas netos,AG_LND_NFI,AG_LND_NFI,1,1
 AG_LND_PUB,Superficie forestal pública,Superficie forestal pública,Superficie forestal pública,275,1
-AG_PRD_FIESMS,Prevalencia de la inseguridad alimentaria moderada o severa,AG_PRD_FIESMS,AG_PRD_FIESMS,1,1
-AG_PRD_FIESS,Prevalencia de la inseguridad alimentaria severa,AG_PRD_FIESS,AG_PRD_FIESS,1,1
+AG_PRD_FIESMS,Prevalencia de la inseguridad alimentaria grave o muy grave,AG_PRD_FIESMS,AG_PRD_FIESMS,1,1
+AG_PRD_FIESS,Prevalencia de la inseguridad alimentaria grave,AG_PRD_FIESS,AG_PRD_FIESS,1,1
 BX_TRF_PWKR,Volumen de remesas enviadas al extranjero en proporción al PIB,Volumen de remesas enviadas al extranjero en proporción al PIB,Volumen de remesas enviadas al extranjero en proporción al PIB,2,2
 BX_TRF_PWKRV,Volumen de remesas enviadas al extranjero,Volumen de remesas enviadas al extranjero,Volumen de remesas enviadas al extranjero,1,1
 DP_DOD_DLD2_CR_CG_Z1,Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB ,Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB ,Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB ,1,1
@@ -53,11 +53,11 @@ EU_GOB_TAX,Proporción de los ingresos de las administraciones públicas autonó
 EU_GOB_TAX_NOFIN,Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuesto,Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuesto,Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuesto,1,1
 EU_GPI_TRN,Índice de paridad de género,Índice de paridad de género,Índice de paridad de género,4,1
 EU_HLY_Y0,Esperanza de vida en buena salud,Esperanza de vida en buena salud,Esperanza de vida en buena salud,8,1
-EU_INDQTHSNG_HUMID,Vivienda con problemas de humedad,EU_INDQTHSNG_HUMID,EU_INDQTHSNG_HUMID,1,1
-EU_INDQTHSNG_LIGHT,"No iluminada, sin luz suficiente",EU_INDQTHSNG_LIGHT,EU_INDQTHSNG_LIGHT,1,1
-EU_INDQTHSNG_NOISE,Exposición a ruidos/contaminación,EU_INDQTHSNG_NOISE,EU_INDQTHSNG_NOISE,1,1
-EU_INDQTHSNG_OVERCROWD,Superficie < 20 metros cuadrados/persona,EU_INDQTHSNG_OVERCROWD,EU_INDQTHSNG_OVERCROWD,1,1
-EU_INDQTHSNG_TOILET,Sin retrete o bañera/ducha,EU_INDQTHSNG_TOILET,EU_INDQTHSNG_TOILET,1,1
+EU_INDQTHSNG_HUMID,Proporción de personas que vive en una vivienda con problemas de humedad,EU_INDQTHSNG_HUMID,EU_INDQTHSNG_HUMID,1,1
+EU_INDQTHSNG_LIGHT,"Proporción de personas que vive en una vivienda oscura, sin luz suficiente, o escasez de luz natural",EU_INDQTHSNG_LIGHT,EU_INDQTHSNG_LIGHT,1,1
+EU_INDQTHSNG_NOISE,Proporción de personas que vive en una vivienda con problemas de exposición a ruidos y contaminación,EU_INDQTHSNG_NOISE,EU_INDQTHSNG_NOISE,1,1
+EU_INDQTHSNG_OVERCROWD,Proporción de personas que vive en una vivienda con una superficie menor a 20 metros cuadrados por persona,EU_INDQTHSNG_OVERCROWD,EU_INDQTHSNG_OVERCROWD,1,1
+EU_INDQTHSNG_TOILET,Proporción de personas que vive en una vivienda sin retrete o bañera/ducha,EU_INDQTHSNG_TOILET,EU_INDQTHSNG_TOILET,1,1
 EU_LE_Y0,Esperanza de vida al nacer,Esperanza de vida al nacer,Esperanza de vida al nacer,12,1
 EU_LND_REM,Superficie de suelo recuperado para nuevos usos (acumulado),Superficie de suelo recuperado para nuevos usos (acumulado),Superficie de suelo recuperado para nuevos usos (acumulado),1,1
 EU_LND_REM_PT,Porcentaje de suelo recuperado para nuevos usos (acumulado),Superficie de suelo recuperado en proporción al total,Superficie de suelo recuperado en proporción al total,1,1
