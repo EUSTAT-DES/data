@@ -60,13 +60,13 @@ _L_ES_010A02_02: Proporción del gasto de las administraciones públicas autonó
 
 EU_OVWGT_Y2T17: Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años
 EU_OVWGT_GE18: Tasa de obesidad de la población adulta
-AG_PRD_FIESMS: Prevalencia de la inseguridad alimentaria moderada o severa
-AG_PRD_FIESS: Prevalencia de la inseguridad alimentaria severa
-EU_INDQTHSNG_HUMID: Vivienda con problemas de humedad
-EU_INDQTHSNG_TOILET: Sin retrete o bañera/ducha
-EU_INDQTHSNG_OVERCROWD: Superficie < 20 metros cuadrados/persona
-EU_INDQTHSNG_NOISE: Exposición a ruidos/contaminación
-EU_INDQTHSNG_LIGHT: No iluminada, sin luz suficiente
+AG_PRD_FIESMS: Prevalencia de la inseguridad alimentaria grave o muy grave
+AG_PRD_FIESS: Prevalencia de la inseguridad alimentaria grave
+EU_INDQTHSNG_HUMID: Proporción de personas que vive en una vivienda con problemas de humedad
+EU_INDQTHSNG_TOILET: Proporción de personas que vive en una vivienda sin retrete o bañera/ducha
+EU_INDQTHSNG_OVERCROWD: Proporción de personas que vive en una vivienda con una superficie menor a 20 metros cuadrados por persona
+EU_INDQTHSNG_NOISE: Proporción de personas que vive en una vivienda con problemas de exposición a ruidos y contaminación
+EU_INDQTHSNG_LIGHT: Proporción de personas que vive en una vivienda oscura, sin luz suficiente, o escasez de luz natural
 EU_AG_LND_AGRWAG: "Índice de salarios agrarios"
 ADM_AUT: "Administración autonómica"
 ADM_MUN: "Administración local"
