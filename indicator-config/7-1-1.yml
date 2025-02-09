@@ -18,7 +18,7 @@ graph_annotations: []
 graph_limits:
   - unit: PT
     minimum: 0
-    maximum: 5
+    maximum: 10
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.7-1-1-title
 graph_titles: []
