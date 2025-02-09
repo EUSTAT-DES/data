@@ -15,6 +15,18 @@
             "type": "integer"
           },
           {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES211",
+                "ES212",
+                "ES213",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -26,7 +38,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

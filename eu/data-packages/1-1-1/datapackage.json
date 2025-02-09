@@ -12,19 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Porcentaje",
-                ""
-              ]
-            },
-            "title": "Unidad"
           },
           {
             "name": "Value",

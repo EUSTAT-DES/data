@@ -16,6 +16,19 @@
             "title": "Año"
           },
           {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Gipuzkoa",
+                "Bizkaia",
+                ""
+              ]
+            },
+            "title": "Territorio histórico"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -28,7 +41,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Valor"
           }
         ]
