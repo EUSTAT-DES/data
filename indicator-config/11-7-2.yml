@@ -29,5 +29,11 @@ precision: []
 progress_status: retroceso
 reporting_status: complete
 sort: ''
+sources:
+  - organisation: FUENTE.GE_Interior
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.GE_Interior_esap_url
+    url_text: FUENTE.GE_Interior_esap
+    logo: FUENTE.GE_logo
 standalone: false
 tags: []
