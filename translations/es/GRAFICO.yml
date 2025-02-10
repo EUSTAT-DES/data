@@ -14,8 +14,8 @@
 2-3-1-titulo: Volumen de producción por unidad de trabajo
 2-3-2-titulo: Media de ingresos de los productores de alimentos en pequeña escala
 2-4-1-titulo: "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible"
-2-4-E1-titulo: Superficie dedicada a la agricultura ecológica (<b>Indicador UE</b>)
-2-4-E2-titulo: Emisiones de amoníaco de la agricultura y ganadería (<b>Indicador UE</b>)
+2-4-E1-titulo: Superficie dedicada a la agricultura ecológica (<b>Indicador UE sdg_02_40</b>)
+2-4-E2-titulo: Emisiones de amoníaco de la agricultura y ganadería (<b>Indicador UE sdg_02_60</b>)
 2-a-1-titulo: "Valor añadido de la Agricultura como porcentaje del PIB"
 2-c-1-titulo: "Índice de precios de los alimentos"
 
@@ -43,7 +43,6 @@
 5-3-1-titulo: "Proporción de mujeres de 16 y 17 años que han contraído matrimonio con un hombre"
 5-4-1-titulo: "Tiempo dedicado al hogar y familia en un día promedio"
 5-5-1-titulo: "Proporción de escaños ocupados por mujeres en a) el parlamento autonómico y b) los gobiernos autonómicos, forales y locales"
-5-a-E1-titulo: Renta personal y brecha de género (<b>Indicador Gobierno Vasco</b>)
 5-a-2-titulo: "Grado en que el marco jurídico garantiza la igualdad de derechos de la mujer a la propiedad o el control de tierras"
 5-b-1-titulo: "Proporción de personas entre 16 y 74 años que han usado el móvil en los últimos tres meses"
 
@@ -54,10 +53,15 @@
 
 8-5-1-titulo: Ingreso medio por hora de personas empleadas, desglosado por sexo y personas con
   o sin discapacidad
-8-5-E1-titulo: Tasa de ocupación de la población (<b>Indicador UE</b>) 
+8-5-E1-titulo: Tasa de ocupación de la población (<b>Indicador UE sdg_08_30</b>) 
 8-10-1-titulo: "Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años"
 8-10-2-titulo: "Proporción de personas entre 18 y 79 años que tienen una cuenta corriente"
 8-b-1-titulo: Gasto de las administraciones públicas autonómicas en fomento del empleo
+
+9-4-E1-titulo: Intensidad de las emisiones atmosféricas de la industria (<b>Indicador UE sdg_09_70</b>) 
+
+
+
 10-4-2-titulo: "Índice de Gini"
 
 11-1-1-titulo: "Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda"
@@ -106,6 +110,9 @@ OCECA-1-2-2-1A: "Proporción de personas en riesgo de pobreza o exclusión socia
 OCECA-1-a-2-1: Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación
 OCECA-1-a-2-2: Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud
 OCECA-6-1-1: Proporción de personas en zonas de abastecimiento que notifican al Sistema de Información Nacional de Agua de Consumo (SINAC)
+OCECA-9-4-1-5: Emisiones de CO2 respecto al año 1990
+OCECA-9-4-1-6: Emisiones de CO2 respecto al año 2005
+
 
 # CONTENIDO
 
@@ -214,6 +221,7 @@ OCECA-6-1-1: Proporción de personas en zonas de abastecimiento que notifican al
 9-2-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 9-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 9-4-1-contenido: "<b>Dirección deseada:</b> Descenso"
+9-4-E1-contenido:"<b>Dirección deseada:</b> Descenso"
 9-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 9-5-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 9-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
