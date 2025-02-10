@@ -28,17 +28,6 @@
             "title": "Serie"
           },
           {
-            "name": "Actividad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Manufactura",
-                ""
-              ]
-            },
-            "title": "Actividad económica"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

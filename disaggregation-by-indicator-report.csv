@@ -108,13 +108,13 @@ Indicator,Disaggregations,Number of disaggregations
 #6-4-2,"Territorio, Units",2
 #6-5-2,Units,1
 #6-b-1,"Units, Series",2
-#7-1-1,Units,1
+#7-1-1,"Units, Series",2
 #7-1-2,"Units, Series",2
 #7-2-1,Units,1
 #7-3-1,Units,1
 #7-b-1,"Territorio, Units, Series, Comarca, Municipio, Energia",6
 #8-1-1,"Territorio, Units",2
-#8-10-1,"Territorio, Units, Series",3
+#8-10-1,"Territorio, Units",2
 #8-10-2,"Units, Sexo",2
 #8-2-1,"Territorio, Units",2
 #8-4-2,"Units, Series",2
@@ -128,7 +128,8 @@ Indicator,Disaggregations,Number of disaggregations
 #9-2-1,"Territorio, Units, Series",3
 #9-2-2,"Territorio, Units, Sexo",3
 #9-3-1,"Territorio, Units, Series",3
-#9-4-1,"Units, Series, Actividad",3
+#9-4-1,"Units, Series",2
+#9-4-E1,"Units, PM",2
 #9-5-1,"Territorio, Units, Series",3
 #9-5-2,"Territorio, Units, Series",3
 #9-b-1,"Units, Series, Actividad",3

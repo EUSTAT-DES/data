@@ -599,7 +599,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -612,8 +612,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "3,5G",
-                "4G",
+                "Proporción de hogares cubiertos con redes móviles 5G",
+                "Proporción de hogares cubiertos con redes móviles 3,5G",
+                "Proporción de hogares cubiertos con redes móviles 4G",
                 ""
               ]
             },
@@ -624,9 +625,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1.0",
-                "48.0",
-                "20.0",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
@@ -2468,6 +2469,52 @@
         ]
       },
       "title": "Renewable energy share in the total final energy consumption"
+    },
+    {
+      "path": "OCECA-9-4-1-5/data.csv",
+      "name": "OCECA-9-4-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES_090401_05",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Índice",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Emisiones de CO2 respecto al año 1990"
     },
     {
       "path": "15-8-1/data.csv",
@@ -4575,7 +4622,7 @@
           }
         ]
       },
-      "title": "Superficie dedicada a la agricultura ecológica (<b>Indicador UE</b>)"
+      "title": "Superficie dedicada a la agricultura ecológica (<b>Indicador UE sdg_02_40</b>)"
     },
     {
       "path": "17-3-2/data.csv",
@@ -5351,7 +5398,7 @@
           }
         ]
       },
-      "title": "Tasa de ocupación de la población (<b>Indicador UE</b>)"
+      "title": "Tasa de ocupación de la población (<b>Indicador UE sdg_08_30</b>)"
     },
     {
       "path": "10-4-2/data.csv",
@@ -5588,6 +5635,53 @@
         ]
       },
       "title": "Proportion of population living below the national poverty line, by sex and age"
+    },
+    {
+      "path": "9-4-E1/data.csv",
+      "name": "9-4-E1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "PM",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PM 2,5",
+                "PM 10",
+                ""
+              ]
+            },
+            "title": "Partículas en suspensión"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gramo por euro de PIB",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Intensidad de las emisiones atmosféricas de la industria (<b>Indicador UE sdg_09_70</b>)"
     },
     {
       "path": "5-5-1/data.csv",
@@ -8076,6 +8170,52 @@
       "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
     },
     {
+      "path": "OCECA-9-4-1-6/data.csv",
+      "name": "OCECA-9-4-1-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES_090401_06",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Índice",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Emisiones de CO2 respecto al año 2005"
+    },
+    {
       "path": "3-3-2/data.csv",
       "name": "3-3-2",
       "profile": "tabular-data-resource",
@@ -8450,24 +8590,13 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Número de sucursales de bancos comerciales por cada 100.000 adultos ",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gipuzkoa",
                 "Araba/Álava",
                 "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
@@ -8519,17 +8648,6 @@
               ]
             },
             "title": "Serie"
-          },
-          {
-            "name": "Actividad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Manufactura",
-                ""
-              ]
-            },
-            "title": "Actividad económica"
           },
           {
             "name": "Units",
@@ -9478,7 +9596,7 @@
           }
         ]
       },
-      "title": "Emisiones de amoníaco de la agricultura y ganadería (<b>Indicador UE</b>)"
+      "title": "Emisiones de amoníaco de la agricultura y ganadería (<b>Indicador UE sdg_02_60</b>)"
     },
     {
       "path": "3-7-2/data.csv",
@@ -10075,6 +10193,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de la población con acceso a la electricidad",
+                ""
+              ]
+            },
+            "title": "Serie"
           },
           {
             "name": "Units",

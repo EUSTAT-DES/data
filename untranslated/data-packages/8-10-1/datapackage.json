@@ -15,23 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FB_CBK_BRCH",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES212",
                 "ES211",
                 "ES213",
+                "ES212",
                 ""
               ]
             }

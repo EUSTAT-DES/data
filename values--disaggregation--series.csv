@@ -11,6 +11,7 @@ AG_PRD_FIESS,Prevalencia de la inseguridad alimentaria grave,AG_PRD_FIESS,AG_PRD
 BX_TRF_PWKR,Volumen de remesas enviadas al extranjero en proporción al PIB,Volumen de remesas enviadas al extranjero en proporción al PIB,Volumen de remesas enviadas al extranjero en proporción al PIB,2,2
 BX_TRF_PWKRV,Volumen de remesas enviadas al extranjero,Volumen de remesas enviadas al extranjero,Volumen de remesas enviadas al extranjero,1,1
 DP_DOD_DLD2_CR_CG_Z1,Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB ,Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB ,Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB ,1,1
+EG_ACS_ELEC,Proporción de la población con acceso a la electricidad,Proporción de la población con acceso a la electricidad,Proporción de la población con acceso a la electricidad,1,1
 EG_EGY_CLEAN,Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios,EG_EGY_CLEAN,EG_EGY_CLEAN,1,1
 EG_EGY_RNEW,Capacidad de generación de electricidad renovable instalada (vatios per cápita),Capacidad de generación de electricidad renovable instalada (vatios per cápita),Capacidad de generación de electricidad renovable instalada (vatios per cápita),1375,1
 EN_ATM_CO2GDP,Emisiones de CO2 por unidad de valor añadido,Emisiones de dióxido de carbono procedentes de la quema de combustibles,Emisiones de dióxido de carbono procedentes de la quema de combustibles,1,1
@@ -72,13 +73,13 @@ EU_sdg_02_60_KT,Emisiones de amoníaco de la agricultura y ganadería,Emisiones 
 EU_SESPI,Índice de paridad en ingresos (quintiles superior e inferior),Índice de paridad en ingresos (quintiles superior e inferior),Índice de paridad en ingresos (quintiles superior e inferior),3,1
 EU_SH_DTH_NCOM,Tasa de mortalidad,Tasa de mortalidad,Tasa de mortalidad,60,1
 EU_W_GENPCAP,Residuos urbanos recogidos per cápita,Residuos urbanos recogidos per cápita,Residuos urbanos recogidos per cápita,4,1
-FB_CBK_BRCH,Número de sucursales de bancos comerciales por cada 100.000 adultos ,Número de sucursales de bancos comerciales por cada 100.000 adultos ,Número de sucursales de bancos comerciales por cada 100.000 adultos ,4,1
 FP_CPI_TOTL_ZG,Tasa de variación interanual del índice de precios de consumo,Tasa de variación interanual del índice de precios de consumo,Tasa de variación interanual del índice de precios de consumo,4,1
 GB_POP_SCIERD,Número de investigadores (en equivalente a tiempo completo) por cada millón de habitantes,Número de investigadores (en equivalente a tiempo completo) por cada millón de habitantes,Número de investigadores (en equivalente a tiempo completo) por cada millón de habitantes,4,1
 GB_XPD_RSDV,Gastos en investigación y desarrollo en proporción al PIB,Gastos en investigación y desarrollo en proporción al PIB,Gastos en investigación y desarrollo en proporción al PIB,4,1
 GC_BAL_CASH_GD_ZS,Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB ,Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB ,Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB ,1,1
-IT_MOB_3GNTWK,"3,5G","3,5G","3,5G",4,1
-IT_MOB_4GNTWK,4G,4G,4G,4,1
+IT_MOB_3GNTWK,"Proporción de hogares cubiertos con redes móviles 3,5G","3,5G","3,5G",4,1
+IT_MOB_4GNTWK,Proporción de hogares cubiertos con redes móviles 4G,4G,4G,4,1
+IT_MOB_5GNTWK,Proporción de hogares cubiertos con redes móviles 5G,IT_MOB_5GNTWK,IT_MOB_5GNTWK,4,1
 NV_IND_MANF,Valor añadido del sector manufacturo en proporción al PIB,Valor añadido del sector manufacturo en proporción al PIB,Valor añadido del sector manufacturo en proporción al PIB,4,1
 NV_IND_MANFPC,Valor añadido del sector manufacturo per cápita,Valor añadido del sector manufacturo,Valor añadido del sector manufacturo,4,1
 NV_IND_SSIS,Proporción del valor añadido total del sector manufacturero correspondiente a las pequeñas empresas,Proporción del valor añadido total del sector manufacturero correspondiente a las pequeñas empresas,Proporción del valor añadido total del sector manufacturero correspondiente a las pequeñas empresas,4,1

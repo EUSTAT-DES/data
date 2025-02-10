@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -20,8 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "3,5G",
-                "4G",
+                "Proporción de hogares cubiertos con redes móviles 5G",
+                "Proporción de hogares cubiertos con redes móviles 3,5G",
+                "Proporción de hogares cubiertos con redes móviles 4G",
                 ""
               ]
             },
@@ -32,9 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1.0",
-                "48.0",
-                "20.0",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

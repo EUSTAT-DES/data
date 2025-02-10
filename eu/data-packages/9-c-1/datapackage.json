@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "IT_MOB_5GNTWK",
                 "3,5G",
                 "4G",
                 ""
@@ -32,9 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1.0",
-                "48.0",
-                "20.0",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
