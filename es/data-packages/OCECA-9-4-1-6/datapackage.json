@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_ES_090401_06",
+                "Emisiones de CO2 respecto al año 2005",
                 ""
               ]
             },

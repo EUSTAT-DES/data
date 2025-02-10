@@ -9,7 +9,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "gb2312",
       "schema": {
         "fields": [
           {
@@ -22,7 +22,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_ES_010201_2A",
+                "Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza",
                 ""
               ]
             },
@@ -2018,7 +2018,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_ES_010201_1A",
+                "Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza",
                 ""
               ]
             },
@@ -2490,7 +2490,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_ES_090401_05",
+                "Emisiones de CO2 respecto al año 1990",
                 ""
               ]
             },
@@ -2792,7 +2792,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_ES_010202_1A",
+                "Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza",
                 ""
               ]
             },
@@ -3873,7 +3873,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_ES_010A02_02",
+                "Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud",
                 ""
               ]
             },
@@ -3919,7 +3919,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_ES_010201_2B",
+                "Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza",
                 ""
               ]
             },
@@ -8190,7 +8190,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_ES_090401_06",
+                "Emisiones de CO2 respecto al año 2005",
                 ""
               ]
             },
@@ -8737,7 +8737,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_ES_010A02_01",
+                "Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación",
                 ""
               ]
             },

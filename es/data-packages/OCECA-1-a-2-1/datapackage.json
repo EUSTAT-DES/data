@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_ES_010A02_01",
+                "Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación",
                 ""
               ]
             },

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_ES_010201_1A",
+                "Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza",
                 ""
               ]
             },

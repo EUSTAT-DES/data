@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_ES_010201_2B",
+                "Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza",
                 ""
               ]
             },
