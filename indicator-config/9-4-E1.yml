@@ -10,30 +10,30 @@ data_show_map: false
 data_start_values: []
 embedded_feature_footer: ''
 embedded_feature_html: ''
-embedded_feature_tab_title: indicator.relacionados
+embedded_feature_tab_title: '' 
 embedded_feature_title: ''
-embedded_feature_url: GRAFICO.embeded-6-1-1
+embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.6-1-1-title
+graph_title: GRAFICO.9-4-E1-titulo
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.6-1-1-title
-indicator_number: '6.1.1'
+indicator_name: GRAFICO.9-4-E1-titulo
+indicator_number: '9.4.E1'
 national_geographical_coverage: ''
-page_content: GRAFICO.6-1-1-contenido
+page_content: GRAFICO.9-4-E1-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
+progress_status: progreso
 reporting_status: complete
 sort: ''
 sources:
-  - organisation: FUENTE.Euskadi
+  - organisation: FUENTE.Euskadi_Industria
     periodicity: FUENTE.FREQ_A
-    url: FUENTE.Euskadi_Salud_ekuis_url
-    url_text: FUENTE.Euskadi_Salud_ekuis
+    url: FUENTE.Euskadi_Industria_gei_url
+    url_text: FUENTE.Euskadi_Industria_gei
     logo: FUENTE.Euskadi_logo
 standalone: false
 tags: []

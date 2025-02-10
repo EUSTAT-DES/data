@@ -10,25 +10,21 @@ data_show_map: false
 data_start_values: ''
 embedded_feature_footer: ''
 embedded_feature_html: ''
-embedded_feature_tab_title: indicator.relacionados
+embedded_feature_tab_title: ''
 embedded_feature_title: ''
-embedded_feature_url: GRAFICO.embeded-1-2-1
+embedded_feature_url: ''
 expected_disaggregations: []
 footer_fields: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_target_lines:
-  - series: ''
-    unit: ''
-    label_content: indicator.annotation_2030_target
-    value: 9.25
-graph_title: GRAFICO.1-2-1-titulo
+graph_target_lines: []
+graph_title: ''
 graph_titles: []
 graph_type: line
 indicator_available: ''
-indicator_name: global_indicators.1-2-1-title
-indicator_number: 1.2.1
+indicator_name: GRAFICO.OCECA-9-4-1-5
+indicator_number: 'OCECA-9-4-1-5'
 indicator_tabs:
   override: false
   tab_1: ''
@@ -36,23 +32,22 @@ indicator_tabs:
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: ''
-page_content: GRAFICO.1-2-1-contenido
-permalink: ''
+page_content: ''
+permalink: OCECA-9-4-1-5
 placeholder: ''
 precision: []
 proxy: ''
 proxy_series: []
 publications: []
 related_indicators: []
-progress_status: progreso
 reporting_status: complete
 sort: ''
 sources:
-  - organisation: FUENTE.Euskadi_Bienestar
-    periodicity: FUENTE.FREQ_A2
-    url: FUENTE.Euskadi_Bienestar_epds_url
-    url_text: FUENTE.Euskadi_Bienestar_epds
+  - organisation: FUENTE.Euskadi_Industria
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Euskadi_Industria_gei_url
+    url_text: FUENTE.Euskadi_Industria_gei
     logo: FUENTE.Euskadi_logo
-standalone: false
-tags: ''
+standalone: true
+tags: []
 x_axis_label: ''
