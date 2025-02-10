@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES_090401_05",
+                "_L_ES_090401_05",
                 ""
               ]
             },

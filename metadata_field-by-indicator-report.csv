@@ -15,12 +15,12 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #10-1-1,complete,retroceso,,line
 #10-2-1,complete,progreso,,line
 #10-3-1,notstarted,notstarted,,line
-#10-4-1,complete,noevaluado,,line
-#10-4-2,complete,progreso,,line
+#10-4-1,complete,retroceso,,line
+#10-4-2,complete,noevaluado,,line
 #10-5-1,notstarted,notstarted,,line
 #10-6-1,notapplicable,notapplicable,,line
 #10-7-1,notstarted,notstarted,,line
-#10-7-2,notapplicable,notapplicable,,line
+#10-7-2,notstarted,notstarted,,line
 #10-7-3,notstarted,notstarted,,line
 #10-7-4,notstarted,notstarted,,line
 #10-a-1,notstarted,notstarted,,line

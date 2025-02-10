@@ -16,40 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
-            "name": "Umbral",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Autonómico",
-                "Nacional",
-                ""
-              ]
-            },
-            "title": "Umbral de pobreza"
-          },
-          {
-            "name": "Ingreso_cuantil",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "El 50 % más pobre",
-                ""
-              ]
-            },
-            "title": "Grupo de ingresos"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

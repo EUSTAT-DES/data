@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud",
+                "_L_ES_010A02_02",
                 ""
               ]
             },

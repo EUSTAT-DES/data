@@ -2490,7 +2490,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES_090401_05",
+                "_L_ES_090401_05",
                 ""
               ]
             },
@@ -4077,6 +4077,41 @@
       "title": "Indicator of food price anomalies"
     },
     {
+      "path": "OCECA-10-2-1-1A/data.csv",
+      "name": "OCECA-10-2-1-1A",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "GRAFICO.OCECA-10-2-1-1A"
+    },
+    {
       "path": "4-1-E1/data.csv",
       "name": "4-1-E1",
       "profile": "tabular-data-resource",
@@ -4225,40 +4260,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Año"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
-            "name": "Umbral",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Autonómico",
-                "Nacional",
-                ""
-              ]
-            },
-            "title": "Umbral de pobreza"
-          },
-          {
-            "name": "Ingreso_cuantil",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "El 50 % más pobre",
-                ""
-              ]
-            },
-            "title": "Grupo de ingresos"
           },
           {
             "name": "Units",
@@ -8189,7 +8190,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES_090401_06",
+                "_L_ES_090401_06",
                 ""
               ]
             },
