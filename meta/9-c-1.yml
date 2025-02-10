@@ -11,9 +11,9 @@ meta_global: meta_largo.9-c-titulo
 definicion:  |
   Proporción de hogares cubiertos con redes móviles de tercera generación (3G) basadas 
   en el estándar UMTS (Universal Mobile Telecommunications System) y equipadas con HSPA 
-  (High Speed Packet Access), también conocidas como 3,5G, y con redes móviles LTE 
+  (High Speed Packet Access), también conocidas como 3,5G, con redes móviles LTE 
   (Long Term Evolution), también conocidas como 4G (evolución de las redes 3,5G 
-  de comunicaciones móviles)
+  de comunicaciones móviles), o con redes móviles 5G
 
 formula:  |
 
@@ -27,7 +27,7 @@ formula:  |
 
 
 desagregacion: >- 
-  Tecnología de las redes móviles: 3,5G, 4G
+  Tecnología de las redes móviles: 3,5G, 4G, 5G
 
 observaciones: >- 
 

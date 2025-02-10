@@ -1,0 +1,82 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.9-4-1-titulo
+objetivo_global: objetivo_largo.9-titulo
+meta_global: meta_largo.9-4-titulo
+#  indicador_onu_global: indicador_largo.9-4-1-titulo
+
+
+definicion: >- 
+  Emisiones de PM10 y PM2,5 por unidad de valor añadido del sector manufacturero
+
+formula:  |
+
+  $$PVABEPM_{manufacturero}^{t} = \frac{EPM_{manufacturero}^{t}}{VAB__{manufacturero\, 2022}^{t}} $$
+
+  donde:
+
+  $EPM_{manufacturero}^{t} =$ emisiones de partículas en suspensión del sector manufacturero en el año $t$
+
+  $VAB__{manufacturero\, 2022}^{t} =$ valor añadido bruto del sector manufacturero en volumen encadenado con referencia 2022 en el año  $t$
+
+
+desagregacion: >- 
+  
+  Partículas en suspensión: partículas de tamaño inferior a 10 micras (PM10), partículas de tamaño inferior a 2,5 micras (PM25)
+
+observaciones:
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  El indicador forma parte del conjunto de indicadores de los Objetivos de Desarrollo 
+  Sostenible (ODS) de la UE. Se utiliza para supervisar el progreso hacia el ODS 9 sobre 
+  industria, innovación e infraestructura, que está integrado en las prioridades de la 
+  Comisión Europea en el marco del Pacto Verde Europeo, una economía al servicio de las 
+  personas y un modo de vida europeo. 
+
+  El ODS 9 reconoce la importancia del progreso tecnológico y la innovación para 
+  encontrar soluciones duraderas a los desafíos sociales, económicos y medioambientales, 
+  como la creación de nuevos puestos de trabajo y la promoción de la eficiencia energética 
+  y de los recursos. Para fomentar la innovación y el espíritu emprendedor, el ODS 9 
+  también busca aumentar el acceso a los servicios financieros para las pequeñas empresas 
+  y reducir la brecha digital aumentando el acceso a las tecnologías de la información y la comunicación.
+
+  Este indicador mide la intensidad de las emisiones de partículas en suspensión (PM10 y PM2,5) 
+  del sector manufacturero (sector C de la NACE Rev. 2). Las emisiones atmosféricas se definen como 
+  flujos de materiales gaseosos y particulados emitidos a la atmósfera. 
+
+  Las partículas finas y gruesas 
+  (PM10) tienen un diámetro inferior a 10 micrómetros y pueden llegar a las zonas más profundas de 
+  los pulmones, donde pueden causar inflamación y agravar el estado de salud de las personas que 
+  padecen enfermedades cardíacas y pulmonares. 
+
+  Las partículas finas (PM2,5) tienen un 
+  diámetro inferior a 2,5 micrómetros y, por tanto, son un subconjunto de las partículas PM10. 
+  Sus efectos negativos para la salud son más graves que los de las PM10 porque pueden llegar a 
+  mayores niveles en los pulmones y pueden ser más tóxicas. 
+
+  La intensidad de las emisiones 
+  se calcula dividiendo las emisiones de PM del sector por su valor añadido bruto (VAB), que 
+  se define como la producción (a precios básicos) menos el consumo intermedio (a precios de comprador).
+
+dato_global: | 
+
+ <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_09_70/default/table?lang=en&category=sdg.sdg_09">Intensidad de las emisiones atmosféricas de la industria (sdg_09_70)</a> Eurostat
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de la Unión Europea.
+
+indicador_meta_enlace: >- 
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_09_70_esmsip2.htm">Metadata sdg_09_70.pdf</a> (solo en inglés)
+
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'
