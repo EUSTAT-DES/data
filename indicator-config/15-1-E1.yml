@@ -17,18 +17,28 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.14-3-1-title
+graph_title: GRAFICO.15-1-E1-titulo
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.14-3-1-title
-indicator_number: '14.3.1'
+indicator_name: GRAFICO.15-1-E1-titulo
+indicator_number: '15.1.E1'
 national_geographical_coverage: ''
-page_content: GRAFICO.14-3-1-contenido
+page_content: GRAFICO.15-1-E1-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
+progress_status: progreso
 reporting_status: complete
 sort: ''
-sources: ''
+sources:
+  - organisation: FUENTE.Euskadi_Industria
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Euskadi_Industria_ind_url
+    url_text: FUENTE.Euskadi_Industria_ind
+    logo: FUENTE.Euskadi_logo
+  - organisation: FUENTE.Geoeuskadi
+    url: FUENTE.Geoeuskadi_url
+    url_text: FUENTE.Geoeuskadi
+    logo: FUENTE.Euskadi_logo
 standalone: false
-tags: []
+tags: ''
+x_axis_label: ''
