@@ -81,6 +81,7 @@
 13-2-2-titulo: Emisiones totales de gases de efecto invernadero (GEI) por unidad de PIB real, 
   per cápita, y tasas de variación respecto a 1990 y 2005
 
+15-1-E1-titulo: Superficie de las áreas terrestres protegidas (km2 y porcentaje)
 15-3-1-titulo: "Superficie de suelos potencialmente contaminados y recuperados para nuevos usos"
 15-8-1-titulo: "Se dispone de legislación nacional pertinente y se destinan recursos para la prevención o el control de las especies exóticas invasoras"
 
@@ -251,9 +252,13 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 13-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
 13-2-2-contenido: "<b>Dirección deseada:</b> Descenso en la serie Emisiones totales de gases de efecto invernadero per cápita"
 
+14-3-1-contenido: "<b>Dirección deseada:</b> Mantenimiento"
+
 15-1-1-contenido: "<b>Dirección deseada:</b> Mantenimiento o ascenso"
+15-1-E1-contenido: "<b>Dirección deseada:</b> Mantenimiento o ascenso"
 15-2-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 15-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+15-4-2-contenido: "<b>Dirección deseada:</b> Mantenimiento o ascenso"
 15-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
 16-1-4-contenido: "<b>Dirección deseada:</b> Ascenso"
