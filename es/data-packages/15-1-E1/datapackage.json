@@ -1,0 +1,70 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Superficie de las áreas terrestres protegidas (Km2)",
+                "Superficie de las áreas terrestres protegidas (Porcentaje)",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Ecosistema",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pastizales",
+                "Humedales",
+                "Asentamientos",
+                "Otras tierras",
+                "Bosques",
+                "Tierras de cultivo",
+                ""
+              ]
+            },
+            "title": "Ecosistema"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kilómetros cuadrados",
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-1-E1",
+  "title": "Superficie de las áreas terrestres protegidas (km2 y porcentaje)"
+}

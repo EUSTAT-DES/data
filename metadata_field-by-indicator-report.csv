@@ -64,7 +64,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #13-b-1,notapplicable,notapplicable,,line
 #14-1-1,notstarted,notstarted,,line
 #14-2-1,notstarted,notstarted,,line
-#14-3-1,notstarted,notstarted,,line
+#14-3-1,complete,alcanzado,,line
 #14-4-1,notstarted,notstarted,,line
 #14-5-1,complete,alcanzado,,line
 #14-6-1,notstarted,notstarted,,line
@@ -74,10 +74,11 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #14-c-1,notstarted,notstarted,,line
 #15-1-1,complete,alcanzado,True,line
 #15-1-2,complete,noevaluado,,bar
+#15-1-E1,complete,progreso,,line
 #15-2-1,complete,progreso,,line
 #15-3-1,complete,progreso,,line
 #15-4-1,notstarted,notstarted,,line
-#15-4-2,notstarted,notstarted,,line
+#15-4-2,complete,alcanzado,,line
 #15-5-1,notstarted,notstarted,,line
 #15-6-1,notstarted,notstarted,,line
 #15-7-1,notstarted,notstarted,,line
