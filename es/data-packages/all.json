@@ -5421,7 +5421,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Índice de Gini",
+                "Índice de Gini del ingreso disponible equivalente (postfiscal)",
                 ""
               ]
             },
