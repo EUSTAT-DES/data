@@ -37,7 +37,6 @@ reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.Geoeuskadi
-    periodicity: FUENTE.FREQ_A
     url: FUENTE.Geoeuskadi_url
     url_text: FUENTE.Geoeuskadi
     logo: FUENTE.Euskadi_logo
