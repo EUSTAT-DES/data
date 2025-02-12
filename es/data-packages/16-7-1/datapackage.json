@@ -21,7 +21,8 @@
             "constraints": {
               "enum": [
                 "Sector público (total)",
-                "Proporción de mujeres parlamentarias (proporción de mujeres en el parlamento en relación con la proporción de mujeres en la población",
+                "Proporción de mujeres en el poder judicial en relación con la proporción de mujeres en la población",
+                "Proporción de mujeres en el parlamento en relación con la proporción de mujeres en la población",
                 ""
               ]
             },
@@ -33,9 +34,9 @@
             "constraints": {
               "enum": [
                 "Sector público autonómico",
-                "Centros educativos no universitarios autonómicos",
-                "Instituciones sanitarias autonómicas",
                 "Diputaciones forales",
+                "Instituciones sanitarias autonómicas",
+                "Centros educativos no universitarios autonómicos",
                 "Policía autonómica",
                 "Universidades",
                 "Administración de Justicia autonómica",
@@ -56,8 +57,8 @@
             "constraints": {
               "enum": [
                 "Bizkaia",
-                "Gipuzkoa",
                 "Araba/Álava",
+                "Gipuzkoa",
                 ""
               ]
             },

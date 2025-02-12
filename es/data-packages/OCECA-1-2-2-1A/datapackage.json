@@ -16,17 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

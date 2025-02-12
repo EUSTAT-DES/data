@@ -29,7 +29,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TRT_MULTIPLE",
                 "TRT_FV",
                 "TRT_HYDROPOWER",
                 "TRT_WIND",

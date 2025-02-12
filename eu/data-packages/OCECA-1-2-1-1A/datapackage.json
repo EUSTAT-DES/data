@@ -16,17 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_ES_010201_1A",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

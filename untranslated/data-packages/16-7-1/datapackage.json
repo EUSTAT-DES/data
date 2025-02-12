@@ -20,6 +20,7 @@
             "constraints": {
               "enum": [
                 "SG_DMK_PSRVC",
+                "SG_DMK_JDC",
                 "SG_DMK_PARLMP_LC",
                 ""
               ]
@@ -31,9 +32,9 @@
             "constraints": {
               "enum": [
                 "EU_DMK_PSRVC_AUT",
-                "EU_DMK_EDU_AUT",
-                "EU_DMK_SAN_AUT",
                 "EU_DMK_DF",
+                "EU_DMK_SAN_AUT",
+                "EU_DMK_EDU_AUT",
                 "EU_DMK_POL_AUT",
                 "EU_DMK_UNI",
                 "EU_DMK_JUST_AUT",
@@ -53,8 +54,8 @@
             "constraints": {
               "enum": [
                 "ES213",
-                "ES212",
                 "ES211",
+                "ES212",
                 ""
               ]
             }

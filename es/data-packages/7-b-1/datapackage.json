@@ -31,7 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fotovoltaica, hidraúlica, eólica y solar térmica",
                 "Fotovoltaica",
                 "Hidraúlica",
                 "Eólica",

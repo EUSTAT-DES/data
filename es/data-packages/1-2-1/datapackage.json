@@ -16,6 +16,17 @@
             "title": "Año"
           },
           {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_POV_NAHC",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
             "name": "Sexo",
             "type": "string",
             "constraints": {
@@ -26,19 +37,6 @@
               ]
             },
             "title": "Sexo"
-          },
-          {
-            "name": "Territorio",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
-                ""
-              ]
-            },
-            "title": "Territorio histórico"
           },
           {
             "name": "Units",

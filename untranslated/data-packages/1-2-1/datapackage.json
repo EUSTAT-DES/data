@@ -15,24 +15,22 @@
             "type": "integer"
           },
           {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_POV_NAHC",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
                 "F",
                 "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Territorio",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
                 ""
               ]
             }

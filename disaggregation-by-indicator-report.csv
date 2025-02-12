@@ -1,10 +1,11 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-2-1,"Sexo, Territorio, Units",3
+#1-2-1,"Sexo, Units, Serie",3
 #1-2-2,"Sexo, Units, Pobreza",3
 #1-3-1,"Sexo, Territorio, Units, Series",4
 #1-4-1,"Territorio, Units, Series, Comarca, Municipio",5
 #1-5-1,"Sexo, Territorio, Units, Comarca, Municipio",5
 #1-5-2,"Territorio, Units",2
+#1-5-4,"Territorio, Units, Series, Comarca, Municipio",5
 #1-a-2,"Units, ServEsencial",2
 #10-1-1,"Territorio, Units, Series, Ingreso_cuantil",4
 #10-2-1,Units,1
@@ -25,7 +26,9 @@ Indicator,Disaggregations,Number of disaggregations
 #12-4-2,"Territorio, Units, Series, Tratamiento",4
 #12-5-1,"Territorio, Units, Series",3
 #12-6-1,"Territorio, Units, Series",3
+#12-a-1,"Territorio, Units, Series, Energia, Comarca, Municipio",6
 #13-1-1,"Sexo, Territorio, Units, Comarca, Municipio",5
+#13-1-3,"Territorio, Units, Series, Comarca, Municipio",5
 #13-2-2,"Units, Series",2
 #14-3-1,Units,1
 #14-5-1,Units,1
@@ -91,7 +94,6 @@ Indicator,Disaggregations,Number of disaggregations
 #4-1-2,"Units, Series, Educacion",3
 #4-1-E1,"Sexo, Units",2
 #4-2-2,"Sexo, Territorio, Units, Edad",4
-#4-3-1,"Sexo, Territorio, Units, Series, Edad",5
 #4-4-1,"Sexo, Territorio, Units, Edad, Habilidad_IT",5
 #4-5-1,"Sexo, Territorio, Units, Series, Edad",5
 #4-6-1,"Sexo, Units, Competencia",3
