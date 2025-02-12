@@ -25,8 +25,6 @@ formula: |
 desagregacion: |
   Sexo
 
-  Territorio histórico
-
 periodicidad: FUENTE.FREQ_A2
 
 observaciones: |
@@ -34,10 +32,6 @@ observaciones: |
   se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
   primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
   más años y un peso de 0,3 a las personas de menos de 14 años.
-
-  El umbral de los ingresos inferiores al 60% de la mediana de la C.A. de Euskadi 
-  está situado en el año 2022 en 12.983€ anuales (siendo la mediana de ingresos 
-  de 21.638€).
 
 texto_oceca: FUENTE.oceca
 
@@ -64,12 +58,14 @@ justificacion_global: |
   equivalentes (unidades de consumo). En la UE se aplica un factor de equivalencia calculado según 
   la escala modificada de la OCDE propuesta en 1994.
 
+    Fuente: Eurostat
+
 dato_global: >-
   <a href="https://ec.europa.eu/eurostat/databrowser/bookmark/7d6a8537-b602-4526-aff8-4fcbd2b48dee?lang=en">Tasa de riesgo de pobreza por umbral de pobreza, edad y sexo (ilc_li02)</a> Eurostat
 
 comparabilidad: |
   El indicador disponible cumple con los metadatos del indicador de Naciones Unidas. Para el cálculo 
-  de la tasa de pobreza de la Comunidad Autónoma de Euskadi y sus territorios históricos, se aplica 
+  de la tasa de pobreza de la Comunidad Autónoma de Euskadi y sexo, se aplica 
   el umbral de la pobreza de la Comunidad Autónoma.
 
 indicador_meta_enlace: >- 
