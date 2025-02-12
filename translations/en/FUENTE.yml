@@ -5,6 +5,7 @@ OMS: Organización Mundial de la Salud
 BM: Banco Mundial
 CIS: Centro de Investigaciones Sociológicas (CIS)
 CNMC: Comisión Nacional de los Mercados y la Competencia (CNMC)
+CGPD: Consejo General del Poder Judicial
 Consorcio: Consorcio de Compensación de Seguros
 EC_REG: DG Política Regional y Urbana, Comisión Europea
 EVE: Ente Vasco de la Energía (EVE)
@@ -167,6 +168,7 @@ GE_Vivienda_siu: Sistema de información urbana
 CNMC_tsa: Telecomunicaciones y sector audiovisual
 GE_Interior_tesh: Trata y explotación de seres humanos en España. Balance estadístico
 Euskadi_Vivienda_udalplan: Sistema de Información Geográfica del planeamiento urbanístico de la CAE (UDALPLAN)
+CGPD_ejud: Estadística Judicial
 
 
 # URL
@@ -282,6 +284,7 @@ GE_Vivienda_siu_url: https://www.mivau.gob.es/urbanismo-y-suelo/sistema-de-infor
 CNMC_tsa_url: https://data.cnmc.es/telecomunicaciones-y-sector-audiovisual
 GE_Interior_tesh_url: https://www.interior.gob.es/opencms/es/servicios-al-ciudadano/trata/situacion-en-espana/
 Euskadi_Vivienda_udalplan_url: https://www.euskadi.eus/udalplan_es/web01-a2lurral/es/
+CGPD_ejud_url: https://www.poderjudicial.es/cgpj/es/Temas/Estadistica-Judicial/
 
 
 
