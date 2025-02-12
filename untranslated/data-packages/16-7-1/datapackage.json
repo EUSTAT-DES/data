@@ -15,17 +15,27 @@
             "type": "integer"
           },
           {
-            "name": "Institucion",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "SG_DMK_PSRVC",
+                "SG_DMK_PARLMP_LC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Institucion",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "EU_DMK_PSRVC_AUT",
-                "EU_DMK_SAN_AUT",
                 "EU_DMK_EDU_AUT",
+                "EU_DMK_SAN_AUT",
                 "EU_DMK_DF",
-                "EU_DMK_UNI",
                 "EU_DMK_POL_AUT",
+                "EU_DMK_UNI",
                 "EU_DMK_JUST_AUT",
                 "EU_DMK_PSRVC_LOC",
                 "EU_DMK_MUN",
@@ -42,9 +52,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
                 "ES213",
                 "ES212",
+                "ES211",
                 ""
               ]
             }

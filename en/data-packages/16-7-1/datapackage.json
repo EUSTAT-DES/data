@@ -16,17 +16,28 @@
             "title": "Año"
           },
           {
-            "name": "Institucion",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Sector público (total)",
+                "SG_DMK_PARLMP_LC",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Institucion",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Sector público autonómico",
-                "Instituciones sanitarias autonómicas",
                 "Centros educativos no universitarios autonómicos",
+                "Instituciones sanitarias autonómicas",
                 "Diputaciones forales",
-                "Universidades",
                 "Policía autonómica",
+                "Universidades",
                 "Administración de Justicia autonómica",
                 "Sector público local",
                 "Ayuntamientos",
@@ -44,9 +55,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
                 "Bizkaia",
                 "Gipuzkoa",
+                "Araba/Álava",
                 ""
               ]
             },

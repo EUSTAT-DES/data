@@ -5,7 +5,6 @@ AG_LND_FRST,Superficie forestal en proporción a la superficie total,Superficie 
 AG_LND_FRSTMGT,Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes,Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes,Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes,1,1
 AG_LND_FRSTMGT_HA,Superficie forestal con instrumentos de gestión sostenible vigentes,Superficie forestal con instrumentos de gestión sostenible vigentes,Superficie forestal con instrumentos de gestión sostenible vigentes,1,1
 AG_LND_NFI,Proporción de la superficie de tierras agrícolas que ha alcanzado un nivel aceptable o deseable de ingresos agrícolas netos,AG_LND_NFI,AG_LND_NFI,1,1
-AG_LND_PUB,Superficie forestal pública,Superficie forestal pública,Superficie forestal pública,275,1
 AG_PRD_FIESMS,Prevalencia de la inseguridad alimentaria grave o muy grave,AG_PRD_FIESMS,AG_PRD_FIESMS,1,1
 AG_PRD_FIESS,Prevalencia de la inseguridad alimentaria muy grave,AG_PRD_FIESS,AG_PRD_FIESS,1,1
 BX_TRF_PWKR,Volumen de remesas enviadas al extranjero en proporción al PIB,Volumen de remesas enviadas al extranjero en proporción al PIB,Volumen de remesas enviadas al extranjero en proporción al PIB,2,2
@@ -91,6 +90,8 @@ POSTFIS_DIS_INC,Índice de Gini del ingreso disponible equivalente (postfiscal),
 SE_ADT_EDUCTRN,Tasa de participación en la enseñanza y formación académica y no académica en las últimas 4 semanas,Tasa de participación en la enseñanza y formación académica y no académica,Tasa de participación en la enseñanza y formación académica y no académica,36,1
 SE_TOT_CPLR,Tasa de finalización (educación secundaria inferior y educación secundaria superior),Tasa de finalización (educación secundaria inferior y educación secundaria superior),Tasa de finalización (educación secundaria inferior y educación secundaria superior),2,1
 SE_TRA_GRDL,"Proporción de docentes con las calificaciones mínimas requeridas, desglosada por nivel educativo","Proporción de docentes con las calificaciones mínimas requeridas, desglosada por nivel educativo","Proporción de docentes con las calificaciones mínimas requeridas, desglosada por nivel educativo",4,1
+SG_DMK_PARLMP_LC,Proporción de mujeres parlamentarias (proporción de mujeres en el parlamento en relación con la proporción de mujeres en la población,SG_DMK_PARLMP_LC,SG_DMK_PARLMP_LC,1,1
+SG_DMK_PSRVC,Sector público (total),Sector público (total),Sector público (total),56,1
 SG_LGL_GENEQEMP,Area 3: empleo y subsidios económicos,Area 3: empleo y subsidios económicos,Area 3: empleo y subsidios económicos,1,1
 SG_LGL_GENEQLFP,Area 1: marco legal global y vida pública,Area 1: marco legal global y vida pública,Area 1: marco legal global y vida pública,1,1
 SG_LGL_GENEQMAR,Area 4: matrimonio y familia,Area 4: matrimonio y familia,Area 4: matrimonio y familia,1,1

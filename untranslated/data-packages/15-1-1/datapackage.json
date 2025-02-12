@@ -20,7 +20,6 @@
             "constraints": {
               "enum": [
                 "AG_LND_FRST",
-                "AG_LND_PUB",
                 ""
               ]
             }
