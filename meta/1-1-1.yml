@@ -1,13 +1,11 @@
  
 # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: >-
-
-  GRAFICO.nodisponible
+indicador_disponible: GRAFICO.nodisponible
 
 
-objetivo_global: objetivo_largo.1-titulo
- # meta_global: meta_largo.1-1-titulo
+# objetivo_global: objetivo_largo.1-titulo
+# meta_global: meta_largo.1-1-titulo
 #  indicador_onu_global: indicador_largo.1-1-1-titulo
 
 
