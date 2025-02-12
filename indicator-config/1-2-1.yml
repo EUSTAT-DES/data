@@ -18,11 +18,7 @@ footer_fields: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_target_lines:
-  - series: ''
-    unit: ''
-    label_content: indicator.annotation_2030_target
-    value: 9.25
+graph_target_lines: []
 graph_title: GRAFICO.1-2-1-titulo
 graph_titles: []
 graph_type: line
