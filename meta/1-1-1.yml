@@ -2,37 +2,27 @@
 # Metadatos nacionales (ficha metodológica)
  
 indicador_disponible: >-
-  GRAFICO.1-1-1-titulo
+
+  GRAFICO.nodisponible
+
 
 objetivo_global: objetivo_largo.1-titulo
-meta_global: meta_largo.1-1-titulo
+ # meta_global: meta_largo.1-1-titulo
 #  indicador_onu_global: indicador_largo.1-1-1-titulo
 
 
-definicion: |
-  Proporción de personas con ingresos por unidad de consumo por debajo del 
-  umbral internacional de la pobreza, actualmente fijada en 2,15 dólares al día 
-  a precios internacionales de 2017 
+definicion:
 
-formula: |
 
-  $$PP_{UIP}^{t} = \frac{P_{UIP}^{t}}{P^{t}} \cdot 100$$
+formula:
 
-  donde:
 
-  $P_{UIP}^{t} =$ población con ingresos por debajo del umbral internacional de la pobreza en el año $t$
 
-  $P^{t} =$ población total en el año $t$
+desagregacion: 
 
-desagregacion: >-
+periodicidad:  
 
-periodicidad: FUENTE.FREQ_A2
-
-observaciones: |
-  El número de unidades de consumo de un hogar
-  se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
-  primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
-  más años y un peso de 0,3 a las personas de menos de 14 años.
+observaciones:
 
 
 

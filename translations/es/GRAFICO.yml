@@ -1,5 +1,7 @@
 # TITULOS
 
+nodisponible: No hay datos disponibles para este indicador
+
 1-1-1-titulo: "Proporción de la población que vive por debajo del umbral internacional de la pobreza"
 1-2-1-titulo: "Proporción de la población que vive por debajo del umbral de la pobreza"
 1-2-2-titulo: "Tasa AROPE. Proporción de personas en riesgo de pobreza o exclusión social"
@@ -7,6 +9,7 @@
 1-4-1-titulo: "Proporción de viviendas principales con acceso a servicios básicos (abastecimiento de agua corriente y baño)"
 1-5-1-titulo: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
 1-5-2-titulo: "Indemnizaciones por daños personales, pérdidas pecuniarias y daños de bienes pagadas y/o provisionadas en proporción al PIB"
+1-5-4-titulo: "Proporción de gobiernos locales que adoptan e implementan estrategias locales de reducción del riesgo de desastres"
 1-a-2-titulo: "Proporción del gasto público total que se dedica a servicios esenciales (educación, salud y protección social)"
 1-b-1-titulo: "Gasto en prestaciones de garantía de ingresos (RGI) y ayudas de emergencia social (AES)"
 
@@ -82,12 +85,12 @@
   per cápita, y tasas de variación respecto a 1990 y 2005
 
 15-1-2-titulo: "Proporción de lugares importantes para la biodiversidad terrestre y del agua dulce incluidos en zonas protegidas"
-15-1-E1-titulo: "Superficie de las áreas terrestres protegidas (km2 y porcentaje) (<b>Indicador UE sdg_15_20</b>)" 
+15-1-E1-titulo: "Superficie de las áreas terrestres protegidas (km2 y porcentaje)" (<b>Indicador UE sdg_15_20</b>) 
 15-3-1-titulo: "Superficie de suelos potencialmente contaminados y recuperados para nuevos usos"
 15-8-1-titulo: "Se dispone de legislación nacional pertinente y se destinan recursos para la prevención o el control de las especies exóticas invasoras"
 
 16-1-1-titulo: "Número de víctimas de homicidios intencionales por cada 100.000 habitantes"
-16-1-E1-titulo: "Población que reporta ocurrencia de delitos, violencia o vandalismo en su área (<b>Indicador UE sdg_16_20</b>)" 
+16-1-E1-titulo: "Población que reporta ocurrencia de delitos, violencia o vandalismo en su área" (<b>Indicador UE sdg_16_20</b>) 
 16-2-2-titulo: "Número de víctimas detectadas de tráfico de personas por cada 100.000 habitantes, desglosado por tipo de explotación"
 
 16-6-1-titulo: "Gasto liquidado en proporción al gasto inicial de los presupuestos de 
@@ -301,6 +304,7 @@ OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
 1-2-2-notapie: Los datos a partir del 2022 del Indicador de pobreza y exclusion AROPE se 
   calculan con la nueva definicion de la tasa (metodología Eurostat del año 2021), 
   mientras que los datos anteriores corresponden a la definición antigua.
+1-5-4-notapie: Los municipios que disponen de un plan (municipal o territorial) de emergencias tienen un valor de 100%
 8-1-1-notapie: Los datos del último año son provisionales
 8-2-1-notapie: Los datos del último año son provisionales
 
