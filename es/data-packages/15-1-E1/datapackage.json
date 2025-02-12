@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Superficie de las áreas terrestres protegidas (Km2)",
-                "Superficie de las áreas terrestres protegidas (Porcentaje)",
+                "Proporción de la superficie terrestre protegida respecto a la superficie terrestre",
                 ""
               ]
             },
