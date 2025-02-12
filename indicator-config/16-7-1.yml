@@ -30,11 +30,20 @@ progress_status: noevaluado
 reporting_status: complete
 sort: ''
 sources:
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A2
+    url: FUENTE.Eustat_iig_url
+    url_text: FUENTE.Eustat_iig
+    logo: FUENTE.Eustat_logo
   - organisation: FUENTE.GE_Territorial
     periodicity: FUENTE.FREQ_A
     url: FUENTE.GE_Territorial_bep_url
     url_text: FUENTE.GE_Territorial_bep
     logo: FUENTE.GE_logo
+  - organisation: FUENTE.CGPD
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.CGPD_ejud_url
+    url_text: FUENTE.CGPD_ejud
 standalone: false
 tags: ''
 
