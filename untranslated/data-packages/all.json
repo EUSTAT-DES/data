@@ -8746,8 +8746,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_sdg_02_60_KG_PER_HA",
-                "EU_sdg_02_60_KT",
+                "EU_SDG_02_60_KT",
+                "EU_SDG_02_60_KG_PER_HA",
                 ""
               ]
             }
@@ -8768,8 +8768,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KG_PER_HA",
                 "KT",
+                "KG_PER_HA",
                 ""
               ]
             }
