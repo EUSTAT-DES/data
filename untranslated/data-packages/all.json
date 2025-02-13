@@ -270,16 +270,6 @@
             "type": "integer"
           },
           {
-            "name": "Serie",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SI_POV_NAHC",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {
