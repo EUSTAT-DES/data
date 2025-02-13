@@ -14,12 +14,11 @@ definicion: >-
   
 
 formula: |
+  <b>Porcentaje de gobiernos locales con planes territoriales de emergencias</b>
 
   $$PMUN_{RRD\, territorial}^{t} = \frac{MUN_{RRD\, territorial}^{t}}{MUN^{t}} \cdot 100$$
 
   donde:
-
-  <b>Porcentaje de gobiernos locales con planes territoriales de emergencias</b>
 
   $MUN_{RRD\, territorial} =$ número de gobiernos locales con planes territoriales de emergencias en el año $t$
 
