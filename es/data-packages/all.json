@@ -8158,8 +8158,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de gobiernos locales que disponen de un plan municipal de emergencias",
-                "Proporción de gobiernos locales que disponen de un plan territorial de emergencias",
+                "Proporción de municipios que disponen de un plan municipal de emergencias",
+                "Proporción de municipios cubiertos por un plan de emergencias territorial",
                 ""
               ]
             },
@@ -10629,8 +10629,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de gobiernos locales que disponen de un plan municipal de emergencias",
-                "Proporción de gobiernos locales que disponen de un plan territorial de emergencias",
+                "Proporción de municipios que disponen de un plan municipal de emergencias",
+                "Proporción de municipios cubiertos por un plan de emergencias territorial",
                 ""
               ]
             },

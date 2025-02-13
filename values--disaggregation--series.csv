@@ -34,7 +34,7 @@ EU_CNCR_BCI,Cáncer de mama,Cáncer de mama,Cáncer de mama,1,1
 EU_CNCR_CCR,Cáncer colorrectal,Cáncer colorrectal,Cáncer colorrectal,3,1
 EU_COV_PENSN,Proporción de la población que supera la edad legal de jubilación y recibe una pensión,Proporción de personas perceptoras de pensiones contributivas,Proporción de personas perceptoras de pensiones contributivas,12,1
 EU_COV_UNEMPLOY,Proporción de personas desempleadas que reciben prestaciones por desempleo,EU_COV_UNEMPLOY,EU_COV_UNEMPLOY,12,1
-EU_DSR_SILS_TH,Proporción de gobiernos locales que disponen de un plan territorial de emergencias,EU_DSR_SILS_TH,EU_DSR_SILS_TH,552,2
+EU_DSR_SILS_TH,Proporción de municipios cubiertos por un plan de emergencias territorial,EU_DSR_SILS_TH,EU_DSR_SILS_TH,552,2
 EU_ECOLABEL,Número de licencias de Ecolabel (Etiqueta Ecológica Europea ),Número de licencias de Ecolabel (Etiqueta Ecológica Europea ),Número de licencias de Ecolabel (Etiqueta Ecológica Europea ),4,1
 EU_EMAS,Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental (EMAS),Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental (EMAS),Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental (EMAS),4,1
 EU_EMP_LFS,Tasa de ocupación,Tasa de ocupación,Tasa de ocupación,837,1
@@ -94,7 +94,7 @@ SE_TRA_GRDL,"Proporción de docentes con las calificaciones mínimas requeridas,
 SG_DMK_JDC,Proporción de mujeres en el poder judicial en relación con la proporción de mujeres en la población,SG_DMK_JDC,SG_DMK_JDC,1,1
 SG_DMK_PARLMP_LC,Proporción de mujeres en el parlamento en relación con la proporción de mujeres en la población,SG_DMK_PARLMP_LC,SG_DMK_PARLMP_LC,1,1
 SG_DMK_PSRVC,Proporción de mujeres en la administración pública en relación con la proporción de mujeres en la población,Sector público (total),Sector público (total),56,1
-SG_DSR_SILS,Proporción de gobiernos locales que disponen de un plan municipal de emergencias,SG_DSR_SILS,SG_DSR_SILS,552,2
+SG_DSR_SILS,Proporción de municipios que disponen de un plan municipal de emergencias,SG_DSR_SILS,SG_DSR_SILS,552,2
 SG_LGL_GENEQEMP,Area 3: empleo y subsidios económicos,Area 3: empleo y subsidios económicos,Area 3: empleo y subsidios económicos,1,1
 SG_LGL_GENEQLFP,Area 1: marco legal global y vida pública,Area 1: marco legal global y vida pública,Area 1: marco legal global y vida pública,1,1
 SG_LGL_GENEQMAR,Area 4: matrimonio y familia,Area 4: matrimonio y familia,Area 4: matrimonio y familia,1,1
