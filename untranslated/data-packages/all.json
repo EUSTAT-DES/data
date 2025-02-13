@@ -4503,6 +4503,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EN_ATM_GHGT_AIP",
                 "EN_ATM_GHGGDP",
                 "EN_ATM_GHGPC",
                 "EU_GHG_TV1990",
@@ -4516,6 +4517,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "TCO2E",
                 "KG_CO2_PER_GDP_EUR",
                 "T_CO2_PER_CAPITA",
                 "PT",

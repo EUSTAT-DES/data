@@ -4771,6 +4771,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EN_ATM_GHGT_AIP",
                 "Emisiones totales de gases de efecto invernadero por unidad de PIB",
                 "Emisiones totales de gases de efecto invernadero per cápita",
                 "Emisiones de gases de efecto invernadero respecto al año 1990",
@@ -4785,6 +4786,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Toneladas de CO2 - equivalente",
                 "Kg de CO2 equivalente por euro de PIB",
                 "Toneladas de CO2 equivalente per cápita",
                 "Porcentaje",
