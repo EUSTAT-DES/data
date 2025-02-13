@@ -12,20 +12,32 @@ definicion: >-
   Emisiones de dióxido de carbono (CO2) por unidad de PIB real
 
 formula:  |
+  <b>Emisiones de CO2 por unidad de valor añadido</b>
 
-  $$PPIBECO2^{t} = \frac{ECO2^{t}}{PIB_{2015}^{t}} $$
+  $$PPIBECO2^{t} = \frac{ECO2^{t}}{PIB_{2022}^{t}} $$
 
   donde:
 
   $ECO2^{t} =$ emisiones de CO2 en el año $t$
 
-  $PIB_{2015}^{t} =$ producto interior bruto en volumen encadenado con referencia 2015 en el año $t$
+  $PIB_{2022}^{t} =$ producto interior bruto en volumen encadenado con referencia 2022 en el año $t$
+
+   <br><br>
+   
+   <b>Emisiones de CO2 por unidad de valor añadido del sector manufacturero</b>
+
+  $$PVABECO2_{manufacturero}^{t} = \frac{ECO2_{manufacturero}^{t}}{VAB_{manufacturero\, 2022}^{t}} $$
+
+  donde:
+
+  $ECO2_{manufacturero}^{t} =$ emisiones de CO2 del sector manufacturero en el año $t$
+
+  $VAB_{manufacturero\, 2022}^{t} =$ valor añadido bruto del sector manufacturero en volumen encadenado con referencia 2015 en el año $t$
 
 
-desagregacion:  |
-  Actividad económica: sector manufacturero
+desagregacion:
 
-observaciones: >-
+observaciones:
 
 periodicidad: FUENTE.FREQ_A
 
@@ -62,6 +74,8 @@ justificacion_global: |
 
   Las emisiones de CO2 representan alrededor del 80% de todas las emisiones de GEI de 
   los procesos de fabricación.
+
+    Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: | 
 
