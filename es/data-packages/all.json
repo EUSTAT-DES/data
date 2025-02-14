@@ -8891,17 +8891,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -8935,17 +8924,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Año"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud",
-                ""
-              ]
-            },
-            "title": "Serie"
           },
           {
             "name": "Units",
