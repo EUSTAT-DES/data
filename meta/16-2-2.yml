@@ -8,25 +8,26 @@ meta_global: meta_largo.16-2-titulo
 #  indicador_onu_global: indicador_largo.16-2-2-titulo
 
 definicion: >-
-  Número de víctimas detectadas de trata de seres humanos con fines de explotación sexual, laboral, obtención de órganos, matrimonios forzados, criminalidad forzada y/o mendicidad por cada 100.000 habitantes
+  Número de víctimas detectadas de trata de seres humanos con fines de explotación sexual, laboral, obtención de órganos, matrimonios 
+  forzados, criminalidad forzada y/o mendicidad por cada 100.000 habitantes
 
 formula: |
 
-  $$TVTP^{t} = \frac{VTP_{explotación\, sexual}^{t}+VTP_{explotación\, laboral}^{t}+VTP_{obtención\, de\, órganos}^{t}+VTP_{otros\, fines}^{t}}{P^{t}} \cdot 100.000$$ 
+  $$TVTP^{t} = \frac{VTP_{exp\, sexual}^{t}+VTP_{exp\, laboral}^{t}+VTP_{obtención\, órganos}^{t}+VTP_{otros\, fines}^{t}}{P^{t}} \cdot 100.000$$ 
 
 donde:
 
-  $VTP_{explotación\, sexual}^{t} =$ número de víctimas detectadas de trata de seres humanos con fines de explotación sexual en el año $t$ 
+  $VTP_{exp\, sexual}^{t} =$ número de víctimas detectadas de trata de seres humanos con fines de explotación sexual en el año $t$ 
 
-  $VTP_{explotación\, laboral}^{t} =$ número de víctimas detectadas de trata de seres humanos con fines de explotación laboral en el año $t$ 
+  $VTP_{exp\, laboral}^{t} =$ número de víctimas detectadas de trata de seres humanos con fines de explotación laboral en el año $t$ 
 
-  $VTP_{obtención\, de\, órganos}^{t} =$ número de víctimas detectadas de trata de seres humanos para la obtención de órganos en el año $t$
+  $VTP_{obtención\, órganos}^{t} =$ número de víctimas detectadas de trata de seres humanos para la obtención de órganos en el año $t$
 
   $VTP_{otros\, fines}^{t} =$ número de víctimas detectadas de trata de seres humanos con fines de matrimonios forzados, criminalidad forzada y/o mendicidad en el año $t$ <br>$P^{t} =$ población a 1 de julio del año $t$
 
 
 desagregacion: |
-  Tipo de explotación: explotación sexual, laboral, obtención de órganos, matrimonios forzados, criminalidad forzada y/o mendicidad
+  Tipo de explotación: explotación sexual, explotación laboral, obtención de órganos, otros fines (matrimonios forzados, criminalidad forzada y/o mendicidad)
 
 
 observaciones: |
@@ -48,6 +49,7 @@ observaciones: |
   formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o 
   las prácticas análogas a la esclavitud, la servidumbre o la extracción de órganos.
 
+
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
 
@@ -67,13 +69,15 @@ justificacion_global: |
   el perfil de las víctimas y las formas de explotación, y hacer un seguimiento de 
   los avances mundiales, regionales y nacionales en la lucha contra este delito.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
+
 dato_global: 
 
 
 comparabilidad: >-
   El indicador disponible cumple con los metadatos de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-02.pdf">Metadata 16-2-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-02.pdf">Metadatos 16-2-2.pdf</a> (solo en inglés)'
 informacion_interes: 
 
 national_data_updated_date: '2024-07-29'

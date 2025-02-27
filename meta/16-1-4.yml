@@ -1,14 +1,14 @@
  # Metadatos nacionales (ficha metodológica)
  
 indicador_disponible: >-
-  global_indicators.16-1-4-title
+  GRAFICO.16-1-4-titulo
 
 objetivo_global: objetivo_largo.16-titulo
 meta_global: meta_largo.16-1-titulo
 #  indicador_onu_global: indicador_largo.16-1-4-titulo
 
 definicion: >-
-  Proporción de personas de 16 y más años que se sienten seguras (muy o bastante seguras) al caminar solas en su zona de residencia
+  Proporción de personas de 16 y más años que se sienten seguras (muy o bastante seguras) al caminar solas de noche en la zona en la que vive
 
 formula: |
 
@@ -16,7 +16,7 @@ formula: |
 
   donde:
 
-  $PSSC_{16+}^{t} =$ población de 16 y más años que se siente segura (muy o bastante segura) al caminar sola en su zona de residencia en el año $t$ 
+  $PSSC_{16+}^{t} =$ población de 16 y más años que se siente segura (muy o bastante segura) al caminar sola de noche en la zona en la que vive en el año $t$ 
 
   $P^{t} =$ población de 16 y más años en el año $t$
 
@@ -55,6 +55,8 @@ justificacion_global: |
   la comunidad y, por lo tanto, representar un obstáculo para el desarrollo. El miedo 
   al delito también difiere entre los grupos demográficos y este indicador ayuda a 
   identificar a los grupos vulnerables.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: 
 

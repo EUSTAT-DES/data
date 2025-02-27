@@ -1,0 +1,46 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-4-titulo
+#  indicador_onu_global: indicador_largo.16-4-1-titulo
+
+
+definicion: >-
+formula: >-
+desagregacion: >-
+periodicidad: >-
+
+observaciones: >-
+ 
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Un desafío importante para el desarrollo sostenible de las sociedades de todo el mundo, 
+  en particular de los países en desarrollo, está representado por varias actividades delictivas 
+  y prácticas comerciales e impositivas ilícitas que son la causa o están asociadas a los flujos 
+  financieros ilícitos. 
+
+  Los ingresos provenientes de actividades delictivas suelen transferirse entre países para blanquearlos, 
+  utilizarlos y reinvertirlos en actividades lícitas o ilícitas. Los flujos financieros ilícitos 
+  también pueden tener su origen en actividades económicas legales, pero convertirse en ilícitos cuando 
+  los flujos financieros se gestionan o transfieren de manera ilícita; por ejemplo, para evadir 
+  impuestos o financiar actividades ilegales. Los flujos financieros ilícitos drenan recursos 
+  del desarrollo sostenible. 
+
+  Por lo tanto, combatirlos es un componente crucial del objetivo de promover la paz, la justicia y 
+  las instituciones sólidas, como se establece en el Objetivo 16 de la Agenda 2030 para el Desarrollo Sostenible.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+comparabilidad: >-
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-04-01.pdf">Metadatos 16-4-1.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'
