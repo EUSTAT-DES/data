@@ -19,7 +19,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SP_PSR_SATIS",
                 "EU_PSR_SATIS_EDU",
                 "SP_PSR_SATIS_HLTH",
                 "EU_PSR_SATIS_PENSN",

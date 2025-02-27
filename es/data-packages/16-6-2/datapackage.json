@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Servicios públicos (total)",
                 "Enseñanza",
                 "Asistencia sanitaria",
                 "Gestión de pensiones",
