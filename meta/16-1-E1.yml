@@ -5,7 +5,7 @@ indicador_disponible: >-
 
 objetivo_global: objetivo_largo.16-titulo
 meta_global: meta_largo.16-1-titulo
-#  indicador_onu_global: indicador_largo.16-1-4-titulo
+
 
 definicion: >-
   Proporción de personas que declaran que viven en una zona con problemas de delincuencia o vandalismo
@@ -54,6 +54,8 @@ justificacion_global: |
   falta objetiva de seguridad medida a partir de las estadísticas de delincuencia. Por tanto, este indicador 
   complementa al indicador sobre tasas de homicidios al centrarse en la percepción de inseguridad.
 
+  Fuente: Eurostat
+
 dato_global: 
 
   <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_16_20/default/table?lang=en&category=sdg.sdg_16">Población que reporta ocurrencia de delitos, violencia o vandalismo en su área según estado de pobreza (sdg_16_20)</a> Eurostat
@@ -62,7 +64,7 @@ dato_global:
 comparabilidad: >-
   El indicador disponible cumple con los metadatos del indicador de la UE.
 
-indicador_meta_enlace: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_16_20_esmsip2.htm">Metadata sdg_16_20</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_16_20_esmsip2.htm">Metadatos del indicador sdg_16_20</a> (solo en inglés)'
 informacion_interes: 
 
 national_data_updated_date: '2024-07-29'

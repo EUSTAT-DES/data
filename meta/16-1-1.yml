@@ -14,7 +14,7 @@ definicion: >-
 
 
 formula: |
-  $$THD^{t} = \frac{HD^{t}}{P^{t}} \cdot 100000$$
+  $$THD^{t} = \frac{HD^{t}}{P^{t}} \cdot 100.000$$
 
   donde:
 
