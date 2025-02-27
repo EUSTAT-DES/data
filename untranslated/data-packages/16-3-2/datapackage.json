@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2.0",
-                "1.0",
+                "F",
+                "M",
                 ""
               ]
             }

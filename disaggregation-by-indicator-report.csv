@@ -1,145 +1,145 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1-1,Units,1
-#1-2-1,"Sexo, Units",2
-#1-2-2,"Sexo, Units, Pobreza",3
-#1-3-1,"Sexo, Territorio, Units, Series",4
-#1-4-1,"Territorio, Units, Series, Comarca, Municipio",5
-#1-5-1,"Sexo, Territorio, Units, Comarca, Municipio",5
-#1-5-2,"Territorio, Units",2
-#1-5-4,"Territorio, Units, Series, Comarca, Municipio",5
+#1-2-1,"Units, Sexo",2
+#1-2-2,"Units, Sexo, Pobreza",3
+#1-3-1,"Series, Units, Sexo, Territorio",4
+#1-4-1,"Series, Units, Territorio, Comarca, Municipio",5
+#1-5-1,"Units, Sexo, Territorio, Comarca, Municipio",5
+#1-5-2,"Units, Territorio",2
+#1-5-4,"Series, Units, Territorio, Comarca, Municipio",5
 #1-a-2,"Units, ServEsencial",2
-#10-1-1,"Territorio, Units, Series, Ingreso_cuantil",4
+#10-1-1,"Series, Units, Territorio, Ingreso_cuantil",4
 #10-2-1,Units,1
-#10-4-1,"Territorio, Units, Series",3
-#10-4-2,"Units, Series",2
-#11-1-1,"Units, Series",2
+#10-4-1,"Series, Units, Territorio",3
+#10-4-2,"Series, Units",2
+#11-1-1,"Series, Units",2
 #11-3-2,Units,1
 #11-4-1,"Units, Administracion",2
-#11-5-1,"Sexo, Territorio, Units, Comarca, Municipio",5
-#11-5-2,"Territorio, Units",2
-#11-6-1,"Territorio, Units, Series, Tratamiento",4
-#11-6-2,"Units, Series, PM",3
+#11-5-1,"Units, Sexo, Territorio, Comarca, Municipio",5
+#11-5-2,"Units, Territorio",2
+#11-6-1,"Series, Units, Territorio, Tratamiento",4
+#11-6-2,"Series, Units, PM",3
 #11-7-1,Units,1
 #11-7-2,Units,1
 #11-a-1,Units,1
 #12-1-1,Units,1
-#12-2-2,"Units, Series",2
-#12-4-2,"Territorio, Units, Series, Tratamiento",4
-#12-5-1,"Territorio, Units, Series",3
-#12-6-1,"Territorio, Units, Series",3
-#12-a-1,"Territorio, Units, Series, Energia, Comarca, Municipio",6
-#13-1-1,"Sexo, Territorio, Units, Comarca, Municipio",5
-#13-1-3,"Territorio, Units, Series, Comarca, Municipio",5
-#13-2-2,"Units, Series",2
+#12-2-2,"Series, Units",2
+#12-4-2,"Series, Units, Territorio, Tratamiento",4
+#12-5-1,"Series, Units, Territorio",3
+#12-6-1,"Series, Units, Territorio",3
+#12-a-1,"Series, Units, Territorio, Comarca, Municipio, Energia",6
+#13-1-1,"Units, Sexo, Territorio, Comarca, Municipio",5
+#13-1-3,"Series, Units, Territorio, Comarca, Municipio",5
+#13-2-2,"Series, Units",2
 #14-3-1,Units,1
 #14-5-1,Units,1
-#15-1-1,"Territorio, Units, Series, Comarca, Municipio",5
-#15-1-2,"Territorio, Units",2
-#15-1-E1,"Units, Series, Ecosistema",3
-#15-2-1,"Units, Series",2
-#15-3-1,"Units, Series",2
+#15-1-1,"Series, Units, Territorio, Comarca, Municipio",5
+#15-1-2,"Units, Territorio",2
+#15-1-E1,"Series, Ecosistema, Units",3
+#15-2-1,"Series, Units",2
+#15-3-1,"Series, Units",2
 #15-4-2,Units,1
 #15-8-1,Units,1
-#16-1-1,"Territorio, Units",2
-#16-1-4,"Sexo, Territorio, Units",3
-#16-1-E1,"Territorio, Units",2
+#16-1-1,"Units, Territorio",2
+#16-1-4,"Units, Sexo, Territorio",3
+#16-1-E1,"Units, Territorio",2
 #16-2-2,"Units, Explotacion",2
-#16-3-2,"Sexo, Territorio, Units",3
-#16-6-2,"Sexo, Territorio, Units, ServPub",4
-#16-7-1,"Territorio, Units, Series, Institucion",4
+#16-3-2,"Units, Sexo, Territorio",3
+#16-6-2,"Units, Sexo, Territorio, ServPub",4
+#16-7-1,"Series, Units, Territorio, Institucion",4
 #16-9-1,Units,1
-#17-1-1,"Territorio, Units",2
-#17-1-2,"Units, Series",2
-#17-13-1,"Territorio, Units, Series",3
+#17-1-1,"Units, Territorio",2
+#17-1-2,"Series, Units",2
+#17-13-1,"Series, Units, Territorio",3
 #17-18-2,Units,1
 #17-18-3,Units,1
-#17-19-2,"Units, Series",2
-#17-2-1,"Units, Series",2
-#17-3-1,"Units, Series",2
-#17-3-2,"Units, Series",2
-#17-6-1,"Territorio, Units, Velocidad",3
-#17-8-1,"Sexo, Territorio, Units",3
-#2-1-2,"Units, Series",2
-#2-2-2,"Sexo, Units, Series",3
-#2-3-1,"Territorio, Units",2
-#2-3-2,"Territorio, Units",2
-#2-4-1,"Units, Series",2
-#2-4-E1,"Territorio, Units, Comarca, Municipio",4
-#2-4-E2,"Units, Series, Actividad",3
-#2-a-1,"Territorio, Units, Comarca, Municipio",4
-#2-c-1,"Territorio, Units, Series, Producto",4
-#3-1-1,"Territorio, Units",2
-#3-1-2,"Territorio, Units",2
-#3-2-1,"Sexo, Territorio, Units",3
-#3-2-2,"Sexo, Territorio, Units",3
-#3-3-1,"Sexo, Units, Series",3
-#3-3-2,"Sexo, Units, Series",3
-#3-3-3,"Sexo, Units, Series",3
-#3-3-4,"Sexo, Units",2
-#3-4-1,"Sexo, Territorio, Units, Series, NCD",5
-#3-4-2,"Sexo, Territorio, Units, Series",4
-#3-4-E1,"Sexo, Units, Series",3
-#3-4-E2,"Sexo, Territorio, Units, Series",4
-#3-5-1,"Sexo, Units, Adiccion",3
-#3-5-2,"Units, Series",2
-#3-6-1,"Sexo, Territorio, Units, Series",4
+#17-19-2,"Series, Units",2
+#17-2-1,"Series, Units",2
+#17-3-1,"Series, Units",2
+#17-3-2,"Series, Units",2
+#17-6-1,"Units, Territorio, Velocidad",3
+#17-8-1,"Units, Sexo, Territorio",3
+#2-1-2,"Series, Units",2
+#2-2-2,"Series, Units, Sexo",3
+#2-3-1,"Units, Territorio",2
+#2-3-2,"Units, Territorio",2
+#2-4-1,"Series, Units",2
+#2-4-E1,"Units, Territorio, Comarca, Municipio",4
+#2-4-E2,"Series, Units, Actividad",3
+#2-a-1,"Units, Territorio, Comarca, Municipio",4
+#2-c-1,"Series, Units, Territorio, Producto",4
+#3-1-1,"Units, Territorio",2
+#3-1-2,"Units, Territorio",2
+#3-2-1,"Units, Sexo, Territorio",3
+#3-2-2,"Units, Sexo, Territorio",3
+#3-3-1,"Series, Units, Sexo",3
+#3-3-2,"Series, Units, Sexo",3
+#3-3-3,"Series, Units, Sexo",3
+#3-3-4,"Units, Sexo",2
+#3-4-1,"Series, Units, Sexo, Territorio, NCD",5
+#3-4-2,"Series, Units, Sexo, Territorio",4
+#3-4-E1,"Series, Units, Sexo",3
+#3-4-E2,"Series, Units, Sexo, Territorio",4
+#3-5-1,"Units, Sexo, Adiccion",3
+#3-5-2,"Series, Units",2
+#3-6-1,"Series, Units, Sexo, Territorio",4
 #3-7-1,"Units, Edad",2
-#3-7-2,"Units, Series, Edad",3
-#3-8-1,"Sexo, Units",2
+#3-7-2,"Series, Units, Edad",3
+#3-8-1,"Units, Sexo",2
 #3-8-2,"Units, Gasto",2
-#3-9-3,"Sexo, Territorio, Units, Series",4
-#3-a-1,"Sexo, Territorio, Units, Edad",4
+#3-9-3,"Series, Units, Sexo, Territorio",4
+#3-a-1,"Units, Sexo, Territorio, Edad",4
 #3-b-1,"Units, Vacuna",2
-#3-c-1,"Sexo, Territorio, Units, Series, Profesion",5
-#4-1-1,"Sexo, Units, Competencia",3
-#4-1-2,"Units, Series, Educacion",3
-#4-1-E1,"Sexo, Units",2
-#4-2-2,"Sexo, Territorio, Units, Edad",4
-#4-3-1,"Sexo, Territorio, Units, Series, Edad",5
-#4-4-1,"Sexo, Territorio, Units, Edad, Habilidad_IT",5
-#4-5-1,"Sexo, Territorio, Units, Series, Edad",5
-#4-6-1,"Sexo, Units, Competencia",3
+#3-c-1,"Series, Units, Sexo, Territorio, Profesion",5
+#4-1-1,"Units, Competencia, Sexo",3
+#4-1-2,"Series, Units, Educacion",3
+#4-1-E1,"Units, Sexo",2
+#4-2-2,"Units, Sexo, Territorio, Edad",4
+#4-3-1,"Series, Units, Sexo, Territorio, Edad",5
+#4-4-1,"Units, Sexo, Territorio, Edad, Habilidad_IT",5
+#4-5-1,"Series, Units, Sexo, Territorio, Edad",5
+#4-6-1,"Units, Competencia, Sexo",3
 #4-a-1,"Units, ServBasico",2
-#4-c-1,"Units, Series, Educacion",3
-#5-1-1,"Units, Series",2
-#5-2-1,"Territorio, Units, Comarca, Municipio",4
-#5-2-2,"Territorio, Units, Comarca, Municipio",4
-#5-3-1,"Territorio, Units",2
-#5-4-1,"Sexo, Territorio, Units",3
-#5-5-1,"Territorio, Units, Institucion",3
-#5-5-2,"Territorio, Units, Ocupacion",3
-#5-a-1,"Sexo, Territorio, Units, Series, Tenencia",5
+#4-c-1,"Series, Units, Educacion",3
+#5-1-1,"Series, Units",2
+#5-2-1,"Units, Territorio, Comarca, Municipio",4
+#5-2-2,"Units, Territorio, Comarca, Municipio",4
+#5-3-1,"Units, Territorio",2
+#5-4-1,"Units, Sexo, Territorio",3
+#5-5-1,"Units, Territorio, Institucion",3
+#5-5-2,"Units, Territorio, Ocupacion",3
+#5-a-1,"Series, Units, Sexo, Territorio, Tenencia",5
 #5-a-2,Units,1
-#5-b-1,"Sexo, Territorio, Units",3
-#6-1-1,"Units, Series",2
-#6-2-1,"Territorio, Units, Series, Comarca, Municipio",5
-#6-3-2,"Units, Series",2
-#6-4-2,"Territorio, Units",2
+#5-b-1,"Units, Sexo, Territorio",3
+#6-1-1,"Series, Units",2
+#6-2-1,"Series, Units, Territorio, Comarca, Municipio",5
+#6-3-2,"Series, Units",2
+#6-4-2,"Units, Territorio",2
 #6-5-2,Units,1
-#6-b-1,"Units, Series",2
-#7-1-1,"Units, Series",2
-#7-1-2,"Units, Series",2
+#6-b-1,"Series, Units",2
+#7-1-1,"Series, Units",2
+#7-1-2,"Series, Units",2
 #7-2-1,Units,1
 #7-3-1,Units,1
-#7-b-1,"Territorio, Units, Series, Energia, Comarca, Municipio",6
-#8-1-1,"Territorio, Units",2
-#8-10-1,"Territorio, Units",2
-#8-10-2,"Sexo, Units",2
-#8-2-1,"Territorio, Units",2
-#8-4-2,"Units, Series",2
-#8-5-1,"Sexo, Units, Series, Discapacidad",4
-#8-5-2,"Sexo, Territorio, Units, Comarca, Municipio, Edad, Discapacidad, Residencia",8
-#8-5-E1,"Sexo, Territorio, Units, Series, Comarca, Municipio, Edad, EmpCont",8
-#8-6-1,"Sexo, Territorio, Units, Series, Edad",5
-#8-9-1,"Territorio, Units, Series",3
-#8-b-1,"Units, Series",2
-#9-1-1,"Territorio, Units",2
-#9-2-1,"Territorio, Units, Series",3
-#9-2-2,"Sexo, Territorio, Units",3
-#9-3-1,"Territorio, Units, Series",3
-#9-4-1,"Units, Series",2
+#7-b-1,"Series, Units, Territorio, Comarca, Municipio, Energia",6
+#8-1-1,"Units, Territorio",2
+#8-10-1,"Units, Territorio",2
+#8-10-2,"Units, Sexo",2
+#8-2-1,"Units, Territorio",2
+#8-4-2,"Series, Units",2
+#8-5-1,"Series, Units, Sexo, Discapacidad",4
+#8-5-2,"Units, Sexo, Territorio, Comarca, Municipio, Edad, Discapacidad, Residencia",8
+#8-5-E1,"Series, Units, Sexo, Territorio, Comarca, Municipio, Edad, EmpCont",8
+#8-6-1,"Series, Units, Sexo, Territorio, Edad",5
+#8-9-1,"Series, Units, Territorio",3
+#8-b-1,"Series, Units",2
+#9-1-1,"Units, Territorio",2
+#9-2-1,"Series, Units, Territorio",3
+#9-2-2,"Units, Sexo, Territorio",3
+#9-3-1,"Series, Units, Territorio",3
+#9-4-1,"Series, Units",2
 #9-4-E1,"Units, PM",2
-#9-5-1,"Territorio, Units, Series",3
-#9-5-2,"Territorio, Units, Series",3
-#9-b-1,"Units, Series, Actividad",3
-#9-c-1,"Territorio, Units, Series",3
+#9-5-1,"Series, Units, Territorio",3
+#9-5-2,"Series, Units, Territorio",3
+#9-b-1,"Series, Units, Actividad",3
+#9-c-1,"Series, Units, Territorio",3
