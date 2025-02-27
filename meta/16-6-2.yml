@@ -12,29 +12,15 @@ definicion: >-
 
 formula: |
 
-  $$PPS^{t} = promedio (PPS_{enseñanza}^{t}, PPS_{asistencia \, sanitaria}^{t}, PPS_{gestión \, de \, pensiones}^{t}, PPS_{administración \, de \, justicia}^{t}, PPS_{seguridad \, ciudadana}^{t}, PPS_{servicios \, sociales}^{t}, PPS_{transporte \, público}^{t}, PPS_{obras \, públicas}^{t}, PPS_{ayuda \, a \, personas \, dependientes}^{t}) $$ 
+  $$PPS^t = \frac{1}{n} \sum_{i=1}^{n} PPS_{i}^{t}$$
 
   donde:
 
-  $PPS_{enseñanza}^{t}$ proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de enseñanza en el año $t$
-
-  $PPS_{asistencia \, sanitaria}^{t}$ proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de asistencia sanitaria en el año $t
-
-  $PPS_{gestión \, de \, pensiones}^{t}$ proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de gestión de pensiones en el año $t
-
-  $PPS_{administración \, de \, justicia}^{t}$ proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de administración de justicia en el año $t$
-
-  $PPS_{seguridad \, ciudadana}^{t}$ proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de seguridad ciudadana en el año $t
-
-  $PPS_{servicios \, sociales}^{t}$ proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de servicios sociales en el año $t
-
-  $PPS_{transporte \, público}^{t}$ proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de transporte público en el año $t$
-
-  $PPS_{obras \, públicas}^{t}$ proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de obras públicas en el año $t$
-
-  $PPS_{ayuda \, a \, personas \, dependientes}^{t}$ proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de ayuda a personas dependientes en el año $t$
-
-
+  $PPS_{i}^{t}$ representa la proporción de la población satisfecha con el funcionamiento de los servicios públicos en el año $t$ 
+  para las siguientes áreas: enseñanza, asistencia sanitaria, gestión de pensiones, 
+  administración de justicia, seguridad ciudadana, servicios sociales, transporte 
+  público, obras públicas y ayuda a personas dependientes
+  
 desagregacion: |
 
   Servicios públicos: enseñanza, asistencia sanitaria, gestión de pensiones, 
