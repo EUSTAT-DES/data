@@ -1,23 +1,43 @@
  
 # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >-
+  GRAFICO.1-1-1-titulo
 
-
-# objetivo_global: objetivo_largo.1-titulo
-# meta_global: meta_largo.1-1-titulo
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-1-titulo
 #  indicador_onu_global: indicador_largo.1-1-1-titulo
 
 
-definicion:
+definicion: >- 
+  Proporción de personas cuyo ingreso neto equivalente, después de las transferencias sociales, 
+  es inferior al umbral internacional de pobreza, establecido en 2,15 dólares estadounidenses 
+  en paridad de poder adquisitivo (PPA) de 2017.
 
-formula:
+formula: |
+
+  $$PP_{UIC}^{t} = \frac{P_{UIC}^{t}}{P^{t}} \cdot 100$$
+
+  donde:
+
+  $P_{UIC}^{t} =$ población con ingresos neto equivalente inferior al umbral internacional de la pobreza, en el año $t$
+
+  $P^{t} =$ población total en el año $t$
 
 desagregacion: 
 
-periodicidad:  
+periodicidad: FUENTE.FREQ_A2
 
-observaciones:
+observaciones: >- 
+
+  Para tener en cuenta el impacto de las diferencias en el tamaño y la composición del hogar,
+  el ingreso disponible de un hogar se divide por el número de miembros del hogar convertidos en adultos 
+  equivalentes (unidades de consumo). 
+
+  El número de unidades de consumo de un hogar
+  se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
+  primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
+  más años y un peso de 0,3 a las personas de menos de 14 años.
 
 
 
@@ -50,5 +70,11 @@ indicador_meta_enlace: |
 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01b.pdf">Metadatos 1-1-1 (2).pdf</a> (solo en inglés)
 
+comparabilidad: |
+  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta
+  información similar.
+
 dato_global: >- 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.1.1&seriesCode=SI_POV_DAY1&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAGE%20%7C%20ALLAREA%20%7C%20BOTHSEX">Proporción de población por debajo del umbral internacional de pobreza (%) SI_POV_DAY1</a> UNSTATS
+
+informacion_interes: <a href="https://pip.worldbank.org/home">Plataforma de Pobreza y Desigualdad del Banco Mundial</a>
