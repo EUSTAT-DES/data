@@ -16,11 +16,11 @@ definicion: >-
 
 formula: |
 
-  $$PP_{UIC}^{t} = \frac{P_{UIC}^{t}}{P^{t}} \cdot 100$$
+  $$PP_{UIP}^{t} = \frac{P_{UIP}^{t}}{P^{t}} \cdot 100$$
 
   donde:
 
-  $P_{UIC}^{t} =$ población con ingresos neto equivalente inferior al umbral internacional de la pobreza, en el año $t$
+  $P_{UIP}^{t} =$ población con ingresos neto equivalente inferior al umbral internacional de la pobreza, en el año $t$
 
   $P^{t} =$ población total en el año $t$
 
