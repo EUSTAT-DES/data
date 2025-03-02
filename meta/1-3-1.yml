@@ -30,6 +30,8 @@ formula: |
 
   $P_{desempleo}^{t} =$ población desempleada en el año $t$
 
+  <br>
+
   <b>Proporción de la población que supera la edad legal de jubilación y recibe una pensión</b>
 
   $$PP_{jubilación}^{t} = \frac{P_{pensionista\,edad\, jubilación}^{t}}{P_{edad\, jubilación}^{t}} \cdot 100$$
@@ -73,6 +75,8 @@ justificacion_global: |
   sistemas de protección social proporciona una indicación de hasta qué punto se
   logra la universalidad  y, por tanto, de cuán seguras son las condiciones de
   vida de la población.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: >-
 

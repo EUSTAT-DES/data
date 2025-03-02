@@ -111,14 +111,16 @@ justificacion_global: |
   social debería reducirse en al menos 15 millones de aquí a 2030, y de ellas, 
   al menos 5 millones deberían ser niños.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-02.pdf">Metadata 1-2-2.pdf (solo en inglés)</a>'
+  Fuente: División de Estadísticas de las Naciones Unidas, Eurostat
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-02.pdf">Metadatos 1-2-2.pdf (solo en inglés)</a>'
 
 dato_global: >-
   <a href="https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en">
   Personas en riesgo de pobreza o exclusión social por edad y sexo (ilc_peps01n)</a> Eurostat
 
 comparabilidad: >-
-  El indicador disponible en la C.A. de Euskadi cumple con los metadatos de Naciones Unidas.
+  El indicador disponible cumple con los metadatos de Naciones Unidas.
 
 informacion_interes: 
 
