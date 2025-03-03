@@ -116,8 +116,8 @@ SL_EMP_EARN,Salario medio por hora,Salario medio por hora,Salario medio por hora
 SL_EMP_GTOTL,Proporción del PIB generada por el trabajo,Proporción del PIB generada por el trabajo,Proporción del PIB generada por el trabajo,4,1
 SL_TLF_NEET_19ICLS,"Proporción de jóvenes  que no cursan estudios, no están empleados ni reciben capacitación","Proporción de jóvenes  que no cursan estudios, no están empleados ni reciben capacitación","Proporción de jóvenes  que no cursan estudios, no están empleados ni reciben capacitación",12,1
 SL_TLF_UEM,Tasa de desempleo,Tasa de desempleo,Tasa de desempleo,4,1
-SP_ACS_BSRVH2O,Proporción de viviendas familiares principales con acceso a agua corriente,SP_ACS_BSRVH2O,SP_ACS_BSRVH2O,550,2
-SP_ACS_BSRVSAN,Proporción de viviendas familiares principales que disponen de baño,SP_ACS_BSRVSAN,SP_ACS_BSRVSAN,550,2
+SP_ACS_BSRVH2O,Proporción de viviendas con agua corriente,SP_ACS_BSRVH2O,SP_ACS_BSRVH2O,550,2
+SP_ACS_BSRVSAN,Proporción de viviendas con baño,SP_ACS_BSRVSAN,SP_ACS_BSRVSAN,550,2
 SP_DYN_ADKL,Tasa de fecundidad de las adolescentes (entre 10 y 14 años y entre 15 y 19 años),Tasa de fecundidad de las adolescentes (entre 10 y 14 años y entre 15 y 19 años),Tasa de fecundidad de las adolescentes (entre 10 y 14 años y entre 15 y 19 años),2,1
 SP_GNP_WNOWNS,"Proporción de mujeres entre los propietarios o los titulares de derechos sobre tierras agrícolas, desglosada por tipo de tenencia","Proporción de mujeres entre los propietarios o los titulares de derechos sobre tierras agrícolas, desglosada por tipo de tenencia","Proporción de mujeres entre los propietarios o los titulares de derechos sobre tierras agrícolas, desglosada por tipo de tenencia",12,1
 SP_LGL_LNDAGSEC,Proporción del total de la población agrícola con derechos de propiedad o derechos seguros sobre tierras agrícolas,Proporción del total de la población agrícola con derechos de propiedad o derechos seguros sobre tierras agrícolas,Proporción del total de la población agrícola con derechos de propiedad o derechos seguros sobre tierras agrícolas,12,1

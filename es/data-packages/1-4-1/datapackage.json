@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de viviendas familiares principales con acceso a agua corriente",
-                "Proporción de viviendas familiares principales que disponen de baño",
+                "Proporción de viviendas con agua corriente",
+                "Proporción de viviendas con baño",
                 ""
               ]
             },
