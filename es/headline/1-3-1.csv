@@ -1,22 +1,24 @@
 Year,Value,Units,Series
-2023,66.4,Porcentaje,Proporción de personas desempleadas que reciben prestaciones por desempleo
-2018,46.7,Porcentaje,Proporción de personas desempleadas que reciben prestaciones por desempleo
-2017,45.7,Porcentaje,Proporción de personas desempleadas que reciben prestaciones por desempleo
-2020,92.6,Porcentaje,Proporción de personas desempleadas que reciben prestaciones por desempleo
-2022,61.3,Porcentaje,Proporción de personas desempleadas que reciben prestaciones por desempleo
-2021,59.1,Porcentaje,Proporción de personas desempleadas que reciben prestaciones por desempleo
-2019,53.5,Porcentaje,Proporción de personas desempleadas que reciben prestaciones por desempleo
-2012,82.3,Porcentaje,Proporción de la población que supera la edad legal de jubilación y recibe una pensión
-2017,82.8,Porcentaje,Proporción de la población que supera la edad legal de jubilación y recibe una pensión
-2021,82.5,Porcentaje,Proporción de la población que supera la edad legal de jubilación y recibe una pensión
-2022,82.1,Porcentaje,Proporción de la población que supera la edad legal de jubilación y recibe una pensión
-2019,83.0,Porcentaje,Proporción de la población que supera la edad legal de jubilación y recibe una pensión
-2011,82.4,Porcentaje,Proporción de la población que supera la edad legal de jubilación y recibe una pensión
-2014,82.9,Porcentaje,Proporción de la población que supera la edad legal de jubilación y recibe una pensión
-2016,82.8,Porcentaje,Proporción de la población que supera la edad legal de jubilación y recibe una pensión
-2018,82.9,Porcentaje,Proporción de la población que supera la edad legal de jubilación y recibe una pensión
-2015,82.7,Porcentaje,Proporción de la población que supera la edad legal de jubilación y recibe una pensión
-2010,82.4,Porcentaje,Proporción de la población que supera la edad legal de jubilación y recibe una pensión
-2013,82.8,Porcentaje,Proporción de la población que supera la edad legal de jubilación y recibe una pensión
-2023,81.8,Porcentaje,Proporción de la población que supera la edad legal de jubilación y recibe una pensión
-2020,82.9,Porcentaje,Proporción de la población que supera la edad legal de jubilación y recibe una pensión
+2014,82.9,Porcentaje,SI_COV_PENSN
+2016,82.8,Porcentaje,SI_COV_PENSN
+2012,82.3,Porcentaje,SI_COV_PENSN
+2024,82.5,Porcentaje,SI_COV_PENSN
+2022,61.3,Porcentaje,SI_COV_UEMP
+2024,70.0,Porcentaje,SI_COV_UEMP
+2020,92.6,Porcentaje,SI_COV_UEMP
+2022,82.1,Porcentaje,SI_COV_PENSN
+2015,82.7,Porcentaje,SI_COV_PENSN
+2011,82.4,Porcentaje,SI_COV_PENSN
+2013,82.8,Porcentaje,SI_COV_PENSN
+2019,53.5,Porcentaje,SI_COV_UEMP
+2020,82.9,Porcentaje,SI_COV_PENSN
+2017,45.7,Porcentaje,SI_COV_UEMP
+2018,46.7,Porcentaje,SI_COV_UEMP
+2018,82.9,Porcentaje,SI_COV_PENSN
+2019,83.0,Porcentaje,SI_COV_PENSN
+2010,82.4,Porcentaje,SI_COV_PENSN
+2021,82.5,Porcentaje,SI_COV_PENSN
+2023,66.4,Porcentaje,SI_COV_UEMP
+2021,59.1,Porcentaje,SI_COV_UEMP
+2017,82.8,Porcentaje,SI_COV_PENSN
+2023,81.8,Porcentaje,SI_COV_PENSN

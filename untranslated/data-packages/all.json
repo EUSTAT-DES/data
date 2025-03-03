@@ -7945,8 +7945,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_COV_UNEMPLOY",
-                "EU_COV_PENSN",
+                "SI_COV_PENSN",
+                "SI_COV_UEMP",
                 ""
               ]
             }

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_COV_UNEMPLOY",
-                "Proporción de personas perceptoras de pensiones contributivas",
+                "SI_COV_PENSN",
+                "SI_COV_UEMP",
                 ""
               ]
             },
