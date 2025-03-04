@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Proporción de la población que supera la edad legal de jubilación y recibe una pensión",
-                "SI_COV_UEMP",
+                "Proporción de personas desempleadas que reciben prestaciones por desempleo",
                 ""
               ]
             },
