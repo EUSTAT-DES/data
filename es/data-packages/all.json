@@ -8430,7 +8430,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SI_COV_PENSN",
+                "Proporción de la población que supera la edad legal de jubilación y recibe una pensión",
                 "SI_COV_UEMP",
                 ""
               ]
