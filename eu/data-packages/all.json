@@ -1678,6 +1678,18 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_AGR_LSFP",
+                "SI_AGR_SSFP",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
             "name": "Ambito",
             "type": "string",
             "constraints": {

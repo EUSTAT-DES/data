@@ -1669,13 +1669,25 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ingresos medios de los grandes productores de alimentos",
+                "Ingresos medios de los pequeños productores de alimentos",
+                ""
+              ]
+            },
+            "title": "Serie"
           },
           {
             "name": "Ambito",
@@ -6016,7 +6028,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -6030,7 +6042,7 @@
             "constraints": {
               "enum": [
                 "PD_AGR_LSFP",
-                "PD_AGR_SSFP",
+                "Productividad de los pequeños productores de alimentos",
                 ""
               ]
             },

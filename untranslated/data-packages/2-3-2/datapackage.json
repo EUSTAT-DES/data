@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_AGR_LSFP",
+                "SI_AGR_SSFP",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Ambito",
             "type": "string",
             "constraints": {

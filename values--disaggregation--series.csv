@@ -87,7 +87,7 @@ NV_IND_SSIS,Proporción del valor añadido total del sector manufacturero corres
 NV_IND_TECH,Proporción del valor añadido por la industria de tecnología mediana y alta en el valor añadido total,Proporción del valor añadido por la industria de tecnología mediana y alta en el valor añadido total,Proporción del valor añadido por la industria de tecnología mediana y alta en el valor añadido total,1,1
 NY_GDP_MKTP_KD_ZG,Tasa de variación interanual del PIB,Tasa de variación interanual del PIB,Tasa de variación interanual del PIB,4,1
 PD_AGR_LSFP,PD_AGR_LSFP,PD_AGR_LSFP,PD_AGR_LSFP,4,1
-PD_AGR_SSFP,PD_AGR_SSFP,PD_AGR_SSFP,PD_AGR_SSFP,4,1
+PD_AGR_SSFP,Productividad de los pequeños productores de alimentos,PD_AGR_SSFP,PD_AGR_SSFP,4,1
 POSTFIS_DIS_INC,Índice de Gini del ingreso disponible equivalente (postfiscal),Índice de Gini,Índice de Gini,1,1
 SE_ADT_EDUCTRN,Tasa de participación en la enseñanza y formación académica y no académica en las últimas 4 semanas,Tasa de participación en la enseñanza y formación académica y no académica,Tasa de participación en la enseñanza y formación académica y no académica,36,1
 SE_TOT_CPLR,Tasa de finalización (educación secundaria inferior y educación secundaria superior),Tasa de finalización (educación secundaria inferior y educación secundaria superior),Tasa de finalización (educación secundaria inferior y educación secundaria superior),2,1
@@ -112,6 +112,8 @@ SH_STA_POISN,Tasa de mortalidad atribuida a intoxicaciones involuntarias,Tasa de
 SH_STA_SCIDE,Tasa de mortalidad por suicidio,Tasa de mortalidad por suicidio,Tasa de mortalidad por suicidio,12,1
 SH_STA_TRAF,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,12,1
 SH_TBS_INCD,Incidencia de la tuberculosis por cada 100.000 habitantes,Proporción de personas de 15 y más años que fuman a diario,Proporción de personas de 15 y más años que fuman a diario,3,1
+SI_AGR_LSFP,Ingresos medios de los grandes productores de alimentos,SI_AGR_LSFP,SI_AGR_LSFP,4,1
+SI_AGR_SSFP,Ingresos medios de los pequeños productores de alimentos,SI_AGR_SSFP,SI_AGR_SSFP,4,1
 SI_COV_PENSN,Proporción de la población que supera la edad legal de jubilación y recibe una pensión,SI_COV_PENSN,SI_COV_PENSN,12,1
 SI_COV_UEMP,Proporción de personas desempleadas que reciben prestaciones por desempleo,SI_COV_UEMP,SI_COV_UEMP,12,1
 SL_EMP_EARN,Salario medio por hora,Salario medio por hora,Salario medio por hora,5,1
