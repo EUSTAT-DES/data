@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PD_AGR_LSFP",
+                "Productividad de los grandes productores de alimentos",
                 "Productividad de los pequeños productores de alimentos",
                 ""
               ]
