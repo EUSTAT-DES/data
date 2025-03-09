@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -16,24 +16,25 @@
             "title": "Año"
           },
           {
-            "name": "Territorio",
+            "name": "Ambito",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Gipuzkoa",
-                "Bizkaia",
+                "01",
+                "20",
+                "48",
+                "_T",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Ámbito"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Euros",
+                "Euros constantes",
                 ""
               ]
             },

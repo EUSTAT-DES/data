@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -16,24 +16,37 @@
             "title": "Año"
           },
           {
-            "name": "Territorio",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Gipuzkoa",
-                "Bizkaia",
+                "PD_AGR_LSFP",
+                "PD_AGR_SSFP",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Serie"
+          },
+          {
+            "name": "Ambito",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "01",
+                "20",
+                "48",
+                "_T",
+                ""
+              ]
+            },
+            "title": "Ámbito"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Euros",
+                "Euros constantes",
                 ""
               ]
             },

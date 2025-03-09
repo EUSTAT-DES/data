@@ -15,13 +15,25 @@
             "type": "integer"
           },
           {
-            "name": "Territorio",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES212",
-                "ES213",
+                "PD_AGR_LSFP",
+                "PD_AGR_SSFP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ambito",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "01",
+                "20",
+                "48",
+                "_T",
                 ""
               ]
             }
@@ -31,7 +43,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EUR",
+                "CON_EUR",
                 ""
               ]
             }
