@@ -628,6 +628,8 @@ OVERNIGHT_STAY: "Pernoctaciones"
 P: "Provisional"
 P_KM: "Pasajero por kilómetro"
 PD: "Persona con discapacidad"
+PD_AGR_LSFPP: Productividad de los grandes productores de alimentos
+PD_AGR_SSFP: Productividad de los pequeños productores de alimentos 
 PER_100_LIVE_BIRTHS: "Por 100 nacidos vivos"
 PER_100_POP: "Por 100 personas"
 PER_1000: "Por 1.000"
@@ -703,6 +705,8 @@ SH_STA_TRAF: "Tasa de mortalidad por lesiones debidas a accidentes de tráfico"
 SH_TBS_INCD: "Incidencia de la tuberculosis por cada 100.000 habitantes"
 SH_XPD_EARN10: "Superiores al 10% "
 SH_XPD_EARN25: "Superiores al 25% "
+SI_AGR_SSFP: Ingresos medios de los pequeños productores de alimentos
+SI_AGR_LSFP: Ingresos medios de los grandes productores de alimentos
 SI_HEI_TOTL: "Tasas de crecimiento per cápita de los gastos o ingresos de los hogares"
 SI_POV_50MI: "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos"
 SKILL_LTRCY: "Comprensión lectora"

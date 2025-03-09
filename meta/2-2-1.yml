@@ -1,0 +1,37 @@
+
+# Metadatos nacionales (ficha metodológica)
+
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.2-titulo
+# meta_global: meta_largo.2-2-titulo
+# indicador_onu_global: indicador_largo.2-2-1-titulo
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  El crecimiento infantil refleja el estado nutricional del niño. El retraso del 
+  crecimiento infantil se refiere a un niño que es demasiado bajo para su edad 
+  y es el resultado de la desnutrición crónica o recurrente.
+
+  El retraso del crecimiento es un factor de riesgo que contribuye a la 
+  mortalidad infantil y también es un indicador de desigualdades en el 
+  desarrollo humano. Los niños con retraso del crecimiento no logran alcanzar su 
+  potencial físico y cognitivo. El retraso del crecimiento infantil es uno 
+  de los indicadores de las metas de nutrición de la Asamblea Mundial de la Salud.
+
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.2.1&seriesCode=SH_STA_STNT&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=%3C5Y">Proporción de niños con retraso del crecimiento moderado o grave (%) SH_STA_STNT</a> UNSTATS
+
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-01.pdf">Metadatos 2-2-1.pdf (solo en inglés)</a>
+
+
+
