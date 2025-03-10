@@ -1,0 +1,121 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.6-3-1-titulo
+
+objetivo_global: objetivo_largo.6-titulo
+meta_global: meta_largo.6-3-titulo
+#  indicador_onu_global: indicador_largo.6-3-1-titulo
+
+
+definicion: |
+
+  El indicador está constituido por 2 series:
+
+    - Proporción de la carga contaminante correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes 
+      equivalentes que depuran adecuadamente sus aguas residuales: Proporción de la carga contaminante 
+      correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes equivalentes que depuran sus aguas 
+      residuales reduciendo su nivel de contaminación hasta un límte aceptable para las aguas receptoras
+
+    - Proporción de la carga contaminante correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes 
+      equivalentes conectadas a un sistema de colectores de aguas residuales: Proporción de la carga contaminante 
+      correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes equivalentes conectadas a un sistema 
+      de conductos que recoja y conduzca sus aguas residuales hasta una instalación de tratamiento o a un punto de vertido final
+
+
+formula: |
+
+  <b>Proporción de la carga contaminante correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes 
+      equivalentes que depuran adecuadamente sus aguas residuales</b>
+
+    $$PCC_{\text{depuración}}^{t} =
+    \left( \frac{CC_{\text{depuración}}^{t}}{CC^{t}} \cdot 100$$
+
+  donde:
+
+  $CC_{\text{depuración}}^{t} =$ carga contaminante correspondiente a las aglomeraciones urbanas de más de 
+  2.000 habitantes equivalentes que depuran adecuadamente sus aguas residuales en el año $t$
+
+  $CC^{t} =$ carga contaminante correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes equivalentes en el año $t$
+
+  </b>
+
+  <b>Proporción de la carga contaminante correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes 
+      equivalentes conectadas a un sistema de colectores de aguas residuales</b>
+
+    $$PCC_{\text{colectores}}^{t} =
+    \left( \frac{CC_{\text{colectores}}^{t}}{CC^{t}} \cdot 100$$
+
+  donde:
+
+  $CC_{\text{colectores}}^{t} =$ carga contaminante correspondiente a las aglomeraciones urbanas de más de 2.000 
+  habitantes equivalentes conectadas a un sistema de colectores de aguas residuales en el año $t$
+
+  $CC^{t} =$ carga contaminante correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes equivalentes en el año $t$
+
+
+desagregacion:
+
+observaciones: |
+  
+  La carga contaminante de una aglomeración urbana se mide en habitantes equivalentes, definiéndose un 
+  habitante equivalente como la carga orgánica biodegradable con una demanda bioquímica de oxígeno de 
+  cinco días de 60 gramos de oxígeno por día. Un habitante equivalente viene a representar la carga 
+  orgánica biodegradable generada por una persona en un día en una vivienda normal. 
+
+  Se debe tener en cuenta que la carga contaminante de una aglomeración urbana no solo incluye 
+  la contaminación debida a las excreciones humanas, sino también la contaminación procedente 
+  de aquellos locales utilizados para efectuar una actividad comercial o industrial, siempre 
+  que sea de naturaleza orgánica biodegradable. Así pues, el número de habitantes equivalentes de 
+  una aglomeración urbana siempre es superior a su número de habitantes reales.
+
+  Este indicador solo tiene en cuenta a las aglomeraciones urbanas de más de 2.000 habitantes equivalentes, 
+  en consonancia con los artículos 3 y 4 de la Directiva 91/271/CEE sobre el tratamiento de las aguas residuales urbanas.
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Los datos sobre aguas residuales son cruciales para promover estrategias de uso sostenible y 
+  seguro de las aguas residuales o su reutilización en beneficio de la salud de la población 
+  mundial y el medio ambiente global, pero también para responder a las crecientes demandas 
+  de agua, el aumento de las cargas de contaminación del agua y los impactos del cambio 
+  climático en los recursos hídricos. 
+
+  El Objetivo de Desarrollo Sostenible 6 (ODS 6) trata de garantizar la disponibilidad 
+  y sostenibilidad del agua y el saneamiento para todos para 2030. La meta 6.3 de los 
+  ODS se propone mejorar la calidad del agua ambiental, que es esencial para proteger 
+  tanto los ecosistemas como la salud humana, eliminando, minimizando y reduciendo s
+  ignificativamente las diferentes corrientes de contaminación en los cuerpos de agua. 
+
+  El propósito de monitorear el progreso utilizando el indicador 6.3.1 de los ODS es proporcionar 
+  la información necesaria y oportuna a los tomadores de decisiones y las partes interesadas 
+  para que tomen decisiones informadas para acelerar el progreso hacia la reducción de la 
+  contaminación del agua, minimizando la liberación de productos químicos peligrosos y 
+  aumentando el tratamiento y la reutilización de las aguas residuales. 
+
+  La redacción de la meta cubre el reciclaje de aguas residuales y la reutilización segura con 
+  implicancias en la eficiencia del uso del agua, aunque no se aborda completamente en el indicador 
+  y la metodología globales. El indicador 6.3.1 de los ODS rastrea la proporción de flujos de 
+  aguas residuales de hogares, servicios y actividades económicas industriales que son tratados 
+  de manera segura en la fuente o mediante plantas centralizadas de tratamiento de aguas residuales 
+  antes de ser descargados al medio ambiente, del volumen total de aguas residuales generadas.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global:
+
+comparabilidad: >- 
+  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta información similar.
+
+indicador_meta_enlace: 
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-01.pdf">Metadatos 6-3-1.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

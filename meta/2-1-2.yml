@@ -30,13 +30,11 @@ observaciones: |
   El indicador mide la proporción de personas que experimentan alguna situación de
   inseguridad alimentaria según el siguiente cuestionario:
 
-  A- Se les agotan los alimentos que compran y no disponen de dinero para conseguir más
-  B- No pueden conseguir una alimentación equilibrada y variada
-  C- ¿Han recortado la cantidad de comida o incluso se han saltado algunas comidas porque 
-   no disponían de dinero suficiente para alimentación?
-  E- ¿Han comido menos de lo que hubiesen querido porque no disponían de suficiente dinero 
-  para comprar alimentos?
-  F- ¿Han tenido ustedes hambre pero no comieron porque no pudieron conseguir comida suficiente?
+   - A- Se les agotan los alimentos que compran y no disponen de dinero para conseguir más
+   - B- No pueden conseguir una alimentación equilibrada y variada
+   - C- ¿Han recortado la cantidad de comida o incluso se han saltado algunas comidas porque no disponían de dinero suficiente para alimentación?
+   - E- ¿Han comido menos de lo que hubiesen querido porque no disponían de suficiente dinero para comprar alimentos?
+   - F- ¿Han tenido ustedes hambre pero no comieron porque no pudieron conseguir comida suficiente?
 
 
 periodicidad: FUENTE.FREQ_A2

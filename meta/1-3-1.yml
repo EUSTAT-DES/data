@@ -52,6 +52,10 @@ desagregacion: |
 
 observaciones:
 
+  La serie "Proporción de personas desempleadas que reciben prestaciones por desempleo" debe ser tomada con cautela y no se 
+  debe interpretar como la proporción de personas desempleadas que perciben una prestación, ya que un 
+  elevado volumen de trabajadores fijos dicontinuos puede dar lugar a una elevada tasa de cobertura, incluso superior a 100
+
 periodicidad: FUENTE.FREQ_A
 
 
