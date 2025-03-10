@@ -44,6 +44,11 @@ progress_status: progreso
 reporting_status: complete
 sort: ''
 sources:
+  - organisation: FUENTE.GE_Agricultura
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.GE_Agricultura_recan_url
+    url_text: FUENTE.GE_Agricultura_recan
+    logo: FUENTE.GE_logo
 standalone: false
 tags:
 x_axis_label: ''

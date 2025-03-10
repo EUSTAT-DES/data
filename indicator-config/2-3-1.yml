@@ -40,10 +40,15 @@ proxy: ''
 proxy_series: []
 publications: []
 related_indicators: []
-progress_status: alcanzado
+progress_status: retroceso
 reporting_status: complete
 sort: ''
 sources:
+  - organisation: FUENTE.Euskadi_Alimentacion
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Euskadi_Alimentacion_ricav_url
+    url_text: FUENTE.Euskadi_Alimentacion_ricav
+    logo: FUENTE.Euskadi_logo
 standalone: false
 tags:
 x_axis_label: ''
