@@ -1222,7 +1222,6 @@
               "enum": [
                 "AG_LND_FOVH",
                 "AG_LND_NFI",
-                "EU_AG_LND_AGRWAG",
                 ""
               ]
             }
@@ -1233,7 +1232,6 @@
             "constraints": {
               "enum": [
                 "PT",
-                "IX",
                 ""
               ]
             }
@@ -1819,6 +1817,49 @@
       "title": "Total greenhouse gas emissions per year"
     },
     {
+      "path": "6-3-1/data.csv",
+      "name": "6-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU_WWT_COLECT",
+                "EN_WWT_WWDS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of domestic and industrial wastewater flows safely treated"
+    },
+    {
       "path": "15-2-1/data.csv",
       "name": "15-2-1",
       "profile": "tabular-data-resource",
@@ -2248,8 +2289,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_SDG_02_60_KT",
                 "EU_SDG_02_60_KG_PER_HA",
+                "EU_SDG_02_60_KT",
                 ""
               ]
             }
@@ -2270,8 +2311,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KT",
                 "KG_PER_HA",
+                "KT",
                 ""
               ]
             }
@@ -3440,7 +3481,6 @@
                 "ES01053",
                 "ES48082",
                 "ES20070",
-                "ES48084",
                 "ES48904",
                 "ES48085",
                 "ES48086",
@@ -8890,6 +8930,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EN_H2O_GRAMBQ",
                 "EN_H2O_OPAMBQ",
                 "EN_H2O_RVAMBQ",
                 ""
@@ -13506,28 +13547,6 @@
         ]
       },
       "title": "Debt service as a proportion of exports of goods and services"
-    },
-    {
-      "path": "6-3-1/data.csv",
-      "name": "6-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of domestic and industrial wastewater flows safely treated"
     },
     {
       "path": "6-a-1/data.csv",

@@ -19,6 +19,7 @@ EN_ATM_GHGGDP,Emisiones totales de gases de efecto invernadero por unidad de PIB
 EN_ATM_GHGPC,Emisiones totales de gases de efecto invernadero per cápita,Emisiones totales de gases de efecto invernadero per cápita,Emisiones totales de gases de efecto invernadero per cápita,1,1
 EN_ATM_GHGT_AIP,Emisiones totales de gases de efecto invernadero por año,EN_ATM_GHGT_AIP,EN_ATM_GHGT_AIP,1,1
 EN_ATM_PM25,Niveles medios anuales de partículas finas en suspensión (PM2.5 y PM10) en las ciudades (ponderados según la población),Niveles medios anuales de partículas finas en suspensión (PM2.5 y PM10) en las ciudades (ponderados según la población),Niveles medios anuales de partículas finas en suspensión (PM2.5 y PM10) en las ciudades (ponderados según la población),2,1
+EN_H2O_GRAMBQ,Proporción de masas de agua subterráneas de buena calidad,EN_H2O_GRAMBQ,EN_H2O_GRAMBQ,1,1
 EN_H2O_OPAMBQ,Proporción de masas de agua superficiales de buena calidad,Proporción de masas de agua superficiales de buena calidad,Proporción de masas de agua superficiales de buena calidad,1,1
 EN_H2O_RVAMBQ,Proporción de masas de agua de río de buena calidad,Proporción de masas de agua de río de buena calidad,Proporción de masas de agua de río de buena calidad,1,1
 EN_HAZ_PCAP,Residuos peligrosos generados per cápita,Residuos peligrosos generados per cápita,Residuos peligrosos generados per cápita,4,1
@@ -29,7 +30,7 @@ EN_MAT_DOMCMPT,Consumo doméstico de materiales en términos absolutos,Consumo d
 EN_MWT_RCYR,Proporción de residuos urbanos reciclados,Proporción de residuos urbanos reciclados,Proporción de residuos urbanos reciclados,4,1
 EN_MWT_TREATV,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento","Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento","Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",12,1
 EN_REF_WASCOL,Proporción de residuos sólidos municipales recogidos y administrados en instalaciones controladas ,Proporción de residuos sólidos municipales recogidos y administrados en instalaciones controladas ,Proporción de residuos sólidos municipales recogidos y administrados en instalaciones controladas ,4,1
-EU_AG_LND_AGRWAG,Índice de salarios agrarios,EU_AG_LND_AGRWAG,EU_AG_LND_AGRWAG,1,1
+EN_WWT_WWDS,EN_WWT_WWDS,EN_WWT_WWDS,EN_WWT_WWDS,1,1
 EU_BATH_PARTIC,Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión de aguas de baño,Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión de aguas de baño,Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión de aguas de baño,1,1
 EU_CNCR_BCI,Cáncer de mama,Cáncer de mama,Cáncer de mama,1,1
 EU_CNCR_CCR,Cáncer colorrectal,Cáncer colorrectal,Cáncer colorrectal,3,1
@@ -72,6 +73,7 @@ EU_SDG_15_20_PT,Proporción de la superficie terrestre protegida respecto a la s
 EU_SESPI,Índice de paridad en ingresos (quintiles superior e inferior),Índice de paridad en ingresos (quintiles superior e inferior),Índice de paridad en ingresos (quintiles superior e inferior),3,1
 EU_SH_DTH_NCOM,Tasa de mortalidad,Tasa de mortalidad,Tasa de mortalidad,60,1
 EU_W_GENPCAP,Residuos urbanos recogidos per cápita,Residuos urbanos recogidos per cápita,Residuos urbanos recogidos per cápita,4,1
+EU_WWT_COLECT,EU_WWT_COLECT,EU_WWT_COLECT,EU_WWT_COLECT,1,1
 FP_CPI_TOTL_ZG,Tasa de variación interanual del índice de precios de consumo,Tasa de variación interanual del índice de precios de consumo,Tasa de variación interanual del índice de precios de consumo,4,1
 GB_POP_SCIERD,Número de investigadores (en equivalente a tiempo completo) por cada millón de habitantes,Número de investigadores (en equivalente a tiempo completo) por cada millón de habitantes,Número de investigadores (en equivalente a tiempo completo) por cada millón de habitantes,4,1
 GB_XPD_RSDV,Gastos en investigación y desarrollo en proporción al PIB,Gastos en investigación y desarrollo en proporción al PIB,Gastos en investigación y desarrollo en proporción al PIB,4,1

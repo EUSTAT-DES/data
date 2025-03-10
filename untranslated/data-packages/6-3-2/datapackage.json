@@ -19,6 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EN_H2O_GRAMBQ",
                 "EN_H2O_OPAMBQ",
                 "EN_H2O_RVAMBQ",
                 ""

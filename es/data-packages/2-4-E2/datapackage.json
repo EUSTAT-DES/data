@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Emisiones de amoníaco de la agricultura y ganadería",
                 "Emisiones de amoníaco de la agricultura y ganadería por hectárea",
+                "Emisiones de amoníaco de la agricultura y ganadería",
                 ""
               ]
             },
@@ -44,8 +44,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilotoneladas",
                 "Kg por hectárea",
+                "Kilotoneladas",
                 ""
               ]
             },

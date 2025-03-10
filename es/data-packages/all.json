@@ -1309,7 +1309,6 @@
               "enum": [
                 "Proporción de superficie agrícola que ha alcanzado un nivel aceptable o deseable de valor de producción agrícola por hectárea",
                 "Proporción de la superficie de tierras agrícolas que ha alcanzado un nivel aceptable o deseable de ingresos agrícolas netos",
-                "Índice de salarios agrarios",
                 ""
               ]
             },
@@ -1321,7 +1320,6 @@
             "constraints": {
               "enum": [
                 "Porcentaje",
-                "Índice",
                 ""
               ]
             },
@@ -1960,6 +1958,53 @@
       "title": "Total greenhouse gas emissions per year"
     },
     {
+      "path": "6-3-1/data.csv",
+      "name": "6-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU_WWT_COLECT",
+                "EN_WWT_WWDS",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Proportion of domestic and industrial wastewater flows safely treated"
+    },
+    {
       "path": "15-2-1/data.csv",
       "name": "15-2-1",
       "profile": "tabular-data-resource",
@@ -2428,8 +2473,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Emisiones de amoníaco de la agricultura y ganadería",
                 "Emisiones de amoníaco de la agricultura y ganadería por hectárea",
+                "Emisiones de amoníaco de la agricultura y ganadería",
                 ""
               ]
             },
@@ -2452,8 +2497,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilotoneladas",
                 "Kg por hectárea",
+                "Kilotoneladas",
                 ""
               ]
             },
@@ -3684,7 +3729,6 @@
                 "San Millán/Donemiliaga",
                 "Santurtzi",
                 "Segura",
-                "Sestao",
                 "Sondika",
                 "Sopela",
                 "Sopuerta",
@@ -9438,6 +9482,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proporción de masas de agua subterráneas de buena calidad",
                 "Proporción de masas de agua superficiales de buena calidad",
                 "Proporción de masas de agua de río de buena calidad",
                 ""
@@ -14356,30 +14401,6 @@
         ]
       },
       "title": "Debt service as a proportion of exports of goods and services"
-    },
-    {
-      "path": "6-3-1/data.csv",
-      "name": "6-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "Proportion of domestic and industrial wastewater flows safely treated"
     },
     {
       "path": "6-a-1/data.csv",
