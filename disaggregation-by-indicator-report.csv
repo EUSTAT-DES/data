@@ -60,9 +60,10 @@ Indicator,Disaggregations,Number of disaggregations
 #17-6-1,"Units, Territorio, Velocidad",3
 #17-8-1,"Units, Sexo, Territorio",3
 #2-1-2,"Series, Units",2
-#2-2-2,"Series, Units, Sexo",3
-#2-3-1,"Series, Units, Ambito",3
-#2-3-2,"Series, Units, Ambito",3
+#2-2-2,"Units, Sexo",2
+#2-2-E1,"Units, Sexo",2
+#2-3-1,"Series, Units, Territorio",3
+#2-3-2,"Series, Units, Territorio",3
 #2-4-1,"Series, Units",2
 #2-4-E1,"Units, Territorio, Comarca, Municipio",4
 #2-4-E2,"Series, Units, Actividad",3

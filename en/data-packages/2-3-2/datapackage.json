@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -28,18 +28,17 @@
             "title": "Serie"
           },
           {
-            "name": "Ambito",
+            "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "01",
-                "20",
-                "48",
-                "_T",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Ámbito"
+            "title": "Territorio"
           },
           {
             "name": "Units",

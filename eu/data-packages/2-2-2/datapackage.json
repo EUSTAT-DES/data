@@ -16,18 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EU_OVWGT_Y2T17",
-                "EU_OVWGT_GE18",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {

@@ -26,14 +26,13 @@
             }
           },
           {
-            "name": "Ambito",
+            "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "01",
-                "20",
-                "48",
-                "_T",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             }

@@ -1690,18 +1690,17 @@
             "title": "Serie"
           },
           {
-            "name": "Ambito",
+            "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "01",
-                "20",
-                "48",
-                "_T",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Ámbito"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -2236,18 +2235,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Año"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años",
-                "Tasa de obesidad de la población adulta",
-                ""
-              ]
-            },
-            "title": "Serie"
           },
           {
             "name": "Sexo",
@@ -6049,18 +6036,17 @@
             "title": "Serie"
           },
           {
-            "name": "Ambito",
+            "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "01",
-                "20",
-                "48",
-                "_T",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Ámbito"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -8510,6 +8496,53 @@
         ]
       },
       "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
+    },
+    {
+      "path": "2-2-E1/data.csv",
+      "name": "2-2-E1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mujer",
+                "Hombre",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Tasa de obesidad de la población adulta según el índice de masa corporal (IMC) (Indicador UE sdg_02_10)"
     },
     {
       "path": "14-3-1/data.csv",
@@ -13147,30 +13180,6 @@
         ]
       },
       "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
-    },
-    {
-      "path": "2-2-E1/data.csv",
-      "name": "2-2-E1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "Tasa de obesidad de la población adulta según el índice de masa corporal (IMC) (Indicador UE sdg_02_10)"
     },
     {
       "path": "11-2-1/data.csv",
