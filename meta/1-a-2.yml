@@ -14,20 +14,24 @@ definicion: >-
 
 formula: |
 
-  $$PG_{servicios\, esenciales}^{t} = \frac{G_{servicios\, esenciales}^{t}}{G^{t}} \cdot 100$$
+  $$PE_{t} = \frac{TE_{t} + TH_{t} + TS_{t}}{TG_{t}} \cdot 100$$
 
   donde:
 
-  $G_{servicios\, esenciales}^{t} =$ gasto de las administraciones públicas que se dedica a servicios esenciales, grupos funcionales 07, 09 y 10 de la 
-  Clasificación de Funciones del Gobierno (COFOG), en el año $t$
-
-  $G^{t} =$ gasto total de las administraciones públicas en el año $t$
+  $PE_{t}$ = gasto del gobierno en servicios esenciales (educación, salud y protección social) como porcentaje del gasto total del gobierno en el año fiscal $t$.
+  $TE_{t}$ = gasto total del gobierno en educación en el año fiscal $t$.
+  $TH_{t}$ = gasto total del gobierno en salud en el año fiscal $t$.
+  $TS_{t}$ = gasto total del gobierno en protección social en el año fiscal $t$.
+  $TG_{t}$ = gasto total del gobierno en el año fiscal $t$.
 
 
 desagregacion: |
   Servicios esenciales: educación, salud, protección social
 
 observaciones: |
+
+  El indicador se calcula para el gobierno general, que incluye diferentes unidades
+  gubernamentales: gobierno central, gobierno autonómico, diputaciones forales y gobiernos locales.
 
   La Clasificación de Funciones del Gobierno (COFOG), desarrollada por la 
   Organización para la Cooperación y el Desarrollo Económicos (OCDE) y publicada 
@@ -57,6 +61,15 @@ justificacion_global: |
   (MEFP 2014), proporciona a los analistas un conjunto de datos comparable entre países y garantiza 
   el establecimiento de conclusiones analíticas sólidas para respaldar el seguimiento de los ODS utilizando
   datos fiscales.
+
+  Una alta proporción del gasto público en servicios esenciales (educación, salud y protección social) 
+  demuestra una alta prioridad gubernamental para estas funciones de gasto.
+
+  Para informar este indicador, se considera que el gobierno general es el nivel más apropiado de cobertura 
+  institucional, ya que abarcará las unidades gubernamentales pertinentes, incluidos los gobiernos locales, 
+  ya que en muchos países se debe considerar la descentralización de estas categorías de gasto. Un país puede tener un 
+  gobierno central; varios gobiernos estatales, provinciales o regionales; y muchos gobiernos locales, y el 
+  MEFP 2014 recomienda que se compilen estadísticas para todas esas unidades de gobierno general.
 
   Fuente: División de Estadísticas de las Naciones Unidas
 
