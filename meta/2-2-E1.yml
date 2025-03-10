@@ -1,0 +1,67 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.2-2-E1-titulo
+
+objetivo_global: objetivo_largo.2-titulo
+meta_global: meta_largo.2-2-titulo
+
+
+
+definicion: |
+  
+  El indicador mide la proporción de personas obesas en función de su índice de masa corporal (IMC). 
+  El IMC se define como el peso en kilos dividido por el cuadrado de la altura en metros.
+
+  Se considera obesas a las personas de 18 años o más con un IMC igual o superior a 30.
+
+formula: |
+
+  $$PPO_{>18}^{t} = \frac{PO_{>18}^{t}}{P_{>18}^{t}} \cdot 100$$
+
+  donde:
+
+  $PPO_{>18}^{t} =$ población adulta con obesidad (IMC>=30) en el año $t$
+
+  $P_{>18}^{t} =$ población adulta en el año $t$
+
+
+desagregacion: >-
+  Sexo
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_I
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Aunque la UE ha superado en gran medida los problemas del hambre, están surgiendo nuevos desafíos
+  relacionados con la nutrición, como el aumento de la obesidad.
+
+  Por ello, el indicador europeo mide la obesidad en la edad adulta, y se utiliza para 
+  hacer el seguimiento del progreso hacia el ODS 2
+  (poner fin al hambre y la malnutrición) y el ODS 3 (buena salud y bienestar), que están
+  incluidos en las prioridades de la Comisión Europea en el marco del "Acuerdo Verde Europeo", 
+  "Una economía que funcione para las personas" y "Promoción de nuestro modo de vida europeo".
+
+  La política alimentaria 
+  de la UE incluye iniciativas de nutrición y trabaja con los Estados miembros de la UE 
+  en diversas iniciativas de salud pública en el área de la nutrición y la actividad 
+  física para promover un estilo de vida saludable y equilibrado.
+
+dato_global: >-
+
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_02_10/default/table?lang=en&category=sdg.sdg_02">Tasa de obesidad por índice de masa corporal (IMC) (sdg_02)</a> Eurostat <br>
+
+comparabilidad: >-
+  La tasa de obesidad
+  de la población adulta es comparable con el indicador europeo.
+
+indicador_meta_enlace: |
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_02_10_esmsip2.htm">Metadatos sdg_02_10</a> (solo en inglés)
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'
