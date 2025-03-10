@@ -15,18 +15,18 @@ nodisponible: No hay datos disponibles para este indicador
 
 2-1-2-titulo: "Prevalencia de la inseguridad alimentaria grave o muy grave"
 2-2-2-titulo: "Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años"
-2-2-E1-titulo: "Tasa de obesidad de la población adulta según índice de masa corporal (IMC)"
+2-2-E1-titulo: "Tasa de obesidad de la población adulta según el índice de masa corporal (IMC) (Indicador UE sdg_02_10)"
 2-3-1-titulo: Volumen de producción por unidad de trabajo
 2-3-2-titulo: Media de ingresos de los productores de alimentos en pequeña escala
 2-4-1-titulo: "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible"
-2-4-E1-titulo: Superficie dedicada a la agricultura ecológica (<b>Indicador UE sdg_02_40</b>)
-2-4-E2-titulo: Emisiones de amoníaco de la agricultura y ganadería (<b>Indicador UE sdg_02_60</b>)
+2-4-E1-titulo: Superficie dedicada a la agricultura ecológica (Indicador UE sdg_02_40)
+2-4-E2-titulo: Emisiones de amoníaco de la agricultura y ganadería (Indicador UE sdg_02_60)
 2-a-1-titulo: "Valor añadido de la Agricultura como porcentaje del PIB"
 2-c-1-titulo: "Índice de precios de los alimentos"
 
 3-3-1-titulo: "Número de infecciones por el VIH por cada 1.000 habitantes, desglosado por sexo"
-3-4-E1-titulo: Tasa de participación en los programas de cribado poblacional de cáncer (<b>Indicador Gobierno Vasco</b>)
-3-4-E2-titulo: Esperanza de vida y esperanza de vida en buena salud (<b>Indicador Gobierno Vasco</b>)
+3-4-E1-titulo: Tasa de participación en los programas de cribado poblacional de cáncer (Indicador Gobierno Vasco)
+3-4-E2-titulo: Esperanza de vida y esperanza de vida en buena salud (Indicador Gobierno Vasco)
 3-5-1-titulo: "Número de admisiones a tratamiento por abuso o dependencia de alcohol y drogas ilegales por cada 100.000 habitantes"
 3-5-2-titulo: "Consumo anual de alcohol en litros de alcohol puro por persona de 15 y más años"
 3-7-1-titulo: "Proporción de mujeres en edad de procrear (entre 18 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos"
@@ -54,16 +54,16 @@ nodisponible: No hay datos disponibles para este indicador
 6-2-1-titulo: "Proporción de viviendas principales con acceso a servicios básicos (abastecimiento de agua corriente y baño)"
 6-4-2-titulo: Extracción de agua (consumo de agua)
 
-7-3-E1-titulo: Consumo de energía eléctrica (<b>Indicador Gobierno Vasco</b>)
+7-3-E1-titulo: Consumo de energía eléctrica (Indicador Gobierno Vasco)
 
 8-5-1-titulo: Ingreso medio por hora de personas empleadas, desglosado por sexo y personas con
   o sin discapacidad
-8-5-E1-titulo: Tasa de ocupación de la población (<b>Indicador UE sdg_08_30</b>) 
+8-5-E1-titulo: Tasa de ocupación de la población (Indicador UE sdg_08_30) 
 8-10-1-titulo: "Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años"
 8-10-2-titulo: "Proporción de personas entre 18 y 79 años que tienen una cuenta corriente"
 8-b-1-titulo: Gasto de las administraciones públicas autonómicas en fomento del empleo
 
-9-4-E1-titulo: Intensidad de las emisiones atmosféricas de la industria (<b>Indicador UE sdg_09_70</b>) 
+9-4-E1-titulo: Intensidad de las emisiones atmosféricas de la industria (Indicador UE sdg_09_70) 
 
 10-2-1-titulo: "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos"
 10-4-2-titulo: "Índice de Gini del ingreso disponible equivalente (postfiscal)"
@@ -87,13 +87,13 @@ nodisponible: No hay datos disponibles para este indicador
   per cápita, y tasas de variación respecto a 1990 y 2005
 
 15-1-2-titulo: "Proporción de lugares importantes para la biodiversidad terrestre y del agua dulce incluidos en zonas protegidas"
-15-1-E1-titulo: "Superficie de las áreas terrestres protegidas (km2 y porcentaje) (<b>Indicador UE sdg_15_20</b>)"
+15-1-E1-titulo: "Superficie de las áreas terrestres protegidas (km2 y porcentaje) (Indicador UE sdg_15_20)"
 15-3-1-titulo: "Superficie de suelos potencialmente contaminados y recuperados para nuevos usos"
 15-8-1-titulo: "Se dispone de legislación nacional pertinente y se destinan recursos para la prevención o el control de las especies exóticas invasoras"
 
 16-1-1-titulo: "Número de víctimas de homicidios intencionales por cada 100.000 habitantes"
 16-1-4-titulo: "Proporción de la población que se siente segura al caminar sola en su zona de residencia después de que oscurece"
-16-1-E1-titulo: "Población que reporta ocurrencia de delitos, violencia o vandalismo en su área (<b>Indicador UE sdg_16_20</b>)" 
+16-1-E1-titulo: "Población que reporta ocurrencia de delitos, violencia o vandalismo en su área (Indicador UE sdg_16_20)" 
 16-2-2-titulo: "Número de víctimas detectadas de tráfico de personas por cada 100.000 habitantes, desglosado por tipo de explotación"
 
 16-6-1-titulo: "Gasto liquidado en proporción al gasto inicial de los presupuestos de 
