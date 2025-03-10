@@ -14,8 +14,6 @@ definicion: |
 
 formula: |
 
-  <b>Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años</b>
-
   $$PPM_{2-17}^{t} = \frac{PM_{2-17}^{t}}{P_{2-17}^{t}} \cdot 100$$
 
   donde:
@@ -30,7 +28,7 @@ desagregacion: >-
 
 observaciones: >-
 
-periodicidad: FUENTE.FREQ_I
+periodicidad: FUENTE.FREQ_A5
 texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  

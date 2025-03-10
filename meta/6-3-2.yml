@@ -1,7 +1,7 @@
  # Metadatos nacionales (ficha metodológica)
  
 indicador_disponible: >- 
-  global_indicators.6-3-2-title
+  GRAFICO.6-3-2-titulo
 
 objetivo_global: objetivo_largo.6-titulo
 meta_global: meta_largo.6-3-titulo
@@ -23,6 +23,13 @@ definicion: |
   relacionada con factores climatológicos y geológicos, junto con los 
   principales impactos en la calidad del agua.
 
+  Se presentan 3 series diferentes para distintas masas de agua: 
+
+    - ríos
+    - aguas subterráneas
+    - aguas superficiales (incluye aguas costeras, aguas de transición, embalses, lagos y humedales y ríos)
+
+
 formula: |
 
   $$PMABC^{t} = \frac{MBC_{agua}^{t}}{M_{agua}^{t}} \cdot 100$$
@@ -31,11 +38,28 @@ formula: |
 
   $MBC_{agua}^{t} =$ masas de agua de buena calidad en el año $t$
 
-  $M_{agua}^{t} =$ masas de agua en el año $t$
+  $M_{agua}^{t} =$ masas de agua evaluadas en el año $t$
 
 desagregacion: >- 
 
+observaciones: |
+  
+  La evaluación de las aguas superficiales (estado ecológico) se realiza según la Directiva 2000/60/CE del Parlamento Europeo y del Consejo.
+
+  La evaluación de aguas subterráneas se realiza según la Guía para la evaluación del estado de las aguas superficiales y subterráneas, 
+  aprobada por Instrucción del 14 de octubre de 2020 del secretario de Estado de Medio Ambiente (SEMA)
+
+  El censo de masas de agua se corresponde con las masas que cuentan con presencia relevante dentro de la 
+  Comunidad Autónoma del País Vasco de acuerdo con el Real Decreto 35/2023, de 24 de enero, por el que se 
+  aprueba la revisión de los planes hidrológicos de las demarcaciones hidrográficas del Cantábrico Occidental, 
+  Guadalquivir, Ceuta, Melilla, Segura y Júcar, y de la parte española de las demarcaciones hidrográficas del Cantábrico 
+  Oriental, Miño-Sil, Duero, Tajo, Guadiana y Ebro.
+
+  Para el periodo indicado, las evaluaciones se corresponden con revisiones de estado mediante criterios 
+  homogéneos atendiendo al Real Decreto 35/2023 y a los avances técnicos habidos.
+
 periodicidad: FUENTE.FREQ_A
+
 
 
  # Metadatos mundiales (Descripción del indicador)  
@@ -79,10 +103,10 @@ dato_global: |
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_WBAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proporción de masas de agua con buena calidad ambiental del agua (%) EN_H2O_WBAMBQ</a> UNSTATS
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta información similar.
 
 indicador_meta_enlace: 
-  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-02.pdf">Metadata 6-3-2.pdf</a> (solo en inglés)'
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-02.pdf">Metadatos 6-3-2.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

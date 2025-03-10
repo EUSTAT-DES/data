@@ -62,6 +62,7 @@ Geoeuskadi: Geoeuskadi
 GE_Inclusion_ebcss: Estadística de bases de cotización de la seguridad social
 Euskadi_Bienestar_esses: Estadística de servicios sociales y acción social
 Euskadi_Alimentacion_edgt: Estadística sobre la distribución general de tierras y sobre las producciones agrarias
+Euskadi_Alimentacion_ricav: Red de Información Contable Agraria Vasca (RICAV)
 BE_bp: Balanza de pagos
 GE_Territorial_bep: Boletín estadístico del personal al servicio de las administraciones públicas
 GE_Sanidad_cach: Calidad de las Aguas de Consumo Humano
@@ -112,6 +113,7 @@ Eustat_ceens: Estadística de la Actividad Escolar
 Euskadi_Industria_cma: Estadística de la calidad de las masas de agua
 Ekolurra_epe: Estadística de la producción ecológica
 GE_Agricultura_esyrce: Encuesta de superficies y rendimientos de cultivo (ESYRCE)
+GE_Agricultura_recan: Red contable agraria nacional
 Eustat_emat: Estadística de matrimonios
 Eustat_cemm: Estadística de movimientos migratorios
 Eustat_enac: Estadística de nacimientos
@@ -134,6 +136,7 @@ Eustat_ida: Indicadores demográficos anuales
 Eustat_cepsp: Estadística presupuestaria del sector público
 Eustat_cid: Estadística sobre actividades de investigación científica y desarrollo tecnológico-I+D
 GE_Transicion_egfs: Estadística sobre gestión forestal sostenible
+GE_Transicion_tratar: Tratamiento de las aguas residuales urbanas
 GE_Educacion_sinf: Estadística sobre la sociedad de la información y la comunicación en los centros educativos no universitarios
 BE_eap: Estadísticas de Administraciones Públicas
 GE_Transicion_ecocirc: Estrategia española de economía circular, España circular 2030
@@ -179,6 +182,7 @@ Geoeuskadi_url: https://www.geo.euskadi.eus/
 GE_Inclusion_ebcss_url: https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/c9bd51e5-79bc-44f2-9618-14d6094eb585
 Euskadi_Bienestar_esses_url: https://www.euskadi.eus/web01-a2inghon/es/contenidos/informacion/essec_oe/es_def/index.shtml
 Euskadi_Alimentacion_edgt_url: https://www.euskadi.eus/web01-a1estadi/es/
+Euskadi_Alimentacion_ricav_url: https://www.euskadi.eus/ricav-agroganaderia/web01-a2estadi/es/
 BE_bp_url: https://www.bde.es/webbe/es/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/capitulo-17.html
 GE_Territorial_bep_url: https://digital.gob.es
 GE_Sanidad_cach_url: https://www.miteco.gob.es/es/agua/temas/estado-y-calidad-de-las-aguas/aguas-superficiales/programas-seguimiento/control-adiciona-zonas-protegidas-abastecimientos.html
@@ -230,6 +234,7 @@ Eustat_ceens_url: https://www.eustat.eus/estadisticas/tema_68/opt_1/ti_estadisti
 Euskadi_Industria_cma_url: https://www.euskadi.eus/informacion/estadistica-de-calidad-de-las-masas-de-aguas-090214/web01-s2ing/es/
 Ekolurra_epe_url: https://www.euskadi.eus/produccion-ecologica/web01-a2estadi/es/
 GE_Agricultura_esyrce_url: https://www.mapa.gob.es/es/estadistica/temas/estadisticas-agrarias/agricultura/esyrce/
+GE_Agricultura_recan_url: https://www.mapa.gob.es/es/estadistica/temas/estadisticas-agrarias/economia/red-contable-recan/
 Eustat_emat_url: https://www.eustat.eus/estadisticas/tema_50/opt_1/tipo_1/ti_estadistica-de-matrimonios/temas.html
 Eustat_cemm_url: https://www.eustat.eus/estadisticas/tema_30/opt_0/ti_movimientos-migratorios/temas.html
 Eustat_enac_url: https://es.eustat.eus/estadisticas/tema_48/opt_1/ti_estadistica-de-nacimientos/temas.html
@@ -249,6 +254,7 @@ GE_Interior_esap_url: https://www.interior.gob.es/opencms/es/archivos-y-document
 Eustat_cempa_url: https://www.eustat.eus/estadisticas/tema_276/opt_1/ti_censo-de-poblacion-y-viviendas-actividad/temas.html
 Eustat_cid_url: https://www.eustat.eus/estadisticas/tema_179/opt_0/ti_estadistica-sobre-actividades-de-investigacion-cientifica-y-desarrollo-tecnologico-id/temas.html
 GE_Transicion_egfs_url: https://www.miteco.gob.es/es/ministerio/servicios/estadisticas/estadisticas-forestales/estadistica-sobre-gestion-forestal-sostenible.html
+GE_Transicion_tratar_url: https://www.miteco.gob.es/es/agua/temas/saneamiento-depuracion.html
 GE_Educacion_sinf_url: https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/no-universitaria/centros/sice.html
 BE_eap_url: https://www.bde.es/webbe/es/estadisticas/temas/administraciones-publicas.html
 Eustat_cepsp_url: https://www.eustat.eus/estadisticas/tema_151/opt_1/ti_estadisticas-presupuestarias-del-sector-publico/temas.html

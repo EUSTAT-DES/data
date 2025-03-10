@@ -9,31 +9,31 @@ meta_global: meta_largo.2-3-titulo
  # indicador_onu_global: indicador_largo.2-3-1-titulo
 
 
-definicion: >-
+definicion: |
   Producción total de cultivos y derivados, ganado, productos ganaderos y otras producciones 
   de las explotaciones agrícolas, ya sean pequeñas o grandes, expresada por Unidad de Trabajo 
   Anual (UTA).
 
-  Una explotación se considera **pequeña** cuando cumple ambas condiciones:
-  - Opera una cantidad de tierra que se encuentra en los dos primeros quintiles 
-    (el 40% inferior) de la distribución acumulada del tamaño de la tierra a nivel de la 
-    Comunidad Autónoma de Euskadi (medida en hectáreas).
-  - Obtiene un ingreso económico anual de las actividades agrícolas que se encuentra en los 
-    dos primeros quintiles (el 40% inferior) de la distribución acumulada de los ingresos 
-    económicos agrícolas por unidad de producción a nivel de la Comunidad Autónoma de Euskadi.
+  Una explotación se considera pequeña cuando cumple ambas condiciones:
+   - Opera una cantidad de tierra que se encuentra en los dos primeros quintiles 
+     (el 40% inferior) de la distribución acumulada del tamaño de la tierra a nivel de la 
+     Comunidad Autónoma de Euskadi (medida en hectáreas).
+   - Obtiene un ingreso económico anual de las actividades agrícolas que se encuentra en los 
+     dos primeros quintiles (el 40% inferior) de la distribución acumulada de los ingresos 
+     económicos agrícolas por unidad de producción a nivel de la Comunidad Autónoma de Euskadi.
 
 formula: |
 
-  $$PUT_{pe}^{t} = \frac{SE131_{pe}^{t}}{SE010_{pe}^{t}}$$
+  $$PUT^{t} = \frac{SE131^{t}}{SE010^{t}}$$
 
   donde:
 
-  $SE131_{pe}^{t}$ = Producción total de cultivos y derivados, ganado, productos ganaderos 
-    y otras producciones de las explotaciones agrícolas (pequeñas o grandes) en el año $t$.
+  $SE131^{t}$ = Producción total de cultivos y derivados, ganado, productos ganaderos 
+    y otras producciones de las explotaciones agrícolas (pequeñas o grandes) en el año $t$
 
-  $SE010_{pe}^{t}$ = Total de la mano de obra en las explotaciones agrícolas (pequeñas o grandes) 
-    en el año $t$, expresada en **Unidades de Trabajo Anual (UTA)**, donde **1 UTA equivale a una 
-    persona trabajando a tiempo completo durante un año**.
+  $SE010^{t}$ = Total de la mano de obra en las explotaciones agrícolas (pequeñas o grandes) 
+    en el año $t$, expresada en Unidades de Trabajo Anual (UTA), donde 1 UTA equivale a una 
+    persona trabajando a tiempo completo durante un año
 
 desagregacion: 
   Territorio histórico

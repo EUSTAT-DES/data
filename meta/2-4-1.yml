@@ -8,16 +8,63 @@ meta_global: meta_largo.2-4-titulo
 #  indicador_onu_global: indicador_largo.2-4-1-titulo
 
 
+definicion: |
 
-definicion: >-
+  Proporción de la superficie agrícola donde se ha alcanzado un nivel deseable o aceptable de:
+   - producción por hectárea
+   - ingresos netos
 
 
-formula:
+formula: |
+
+  <b>Proporción de la superficie agrícola donde se ha alcanzado un nivel deseable o aceptable de producción por hectárea</b>
+
+  $$PSANR_{\text{deseable o aceptable}}^{t} = \frac{SANR_{\text{deseable}}^{t} + SANR_{\text{aceptable}}^{t}}{SANR_{\text{deseable}}^{t} + SANR_{\text{aceptable}}^{t} + SANR_{\text{insostenible}}^{t}}$$
+
+  donde:
+
+  $SANR_{\text{deseable}}^{t}$ = superficie agrícola correspondiente a aquellas explotaciones donde su producción por 
+  hectárea es mayor o igual que 2/3 del percentil 90 de la producción por hectárea de las explotaciones de su mismo 
+  territorio y orientación técnico-económica (agricultura, ganadería o mixta) en el año $t$
+
+  $SANR_{\text{aceptable}}^{t}$ = superficie agrícola correspondiente a aquellas explotaciones donde su producción 
+  por hectárea es menor que 2/3 pero mayor o igual que 1/3 del percentil 90 de la producción por hectárea de las 
+  explotaciones de su mismo territorio y orientación técnico-económica (agricultura, ganadería o mixta) en el año $t$
+
+  $SANR_{\text{insostenible}}^{t}$ = superficie agrícola correspondiente a aquellas explotaciones donde su producción 
+  por hectárea es menor que 1/3 del percentil 90 de la producción por hectárea de las explotaciones de su mismo 
+  territorio y orientación técnico-económica (agricultura, ganadería o mixta) en el año $t$
+
+  <br>
+
+  <b>Proporción de la superficie agrícola donde se ha alcanzado un nivel deseable o aceptable de ingresos netos</b>
+
+  $$PSANR_{\text{deseable o aceptable}}^{t} = 
+    \frac{SANR_{\text{deseable}}^{t} + SANR_{\text{aceptable}}^{t}}
+    {SANR_{\text{deseable}}^{t} + SANR_{\text{aceptable}}^{t} + SANR_{\text{insostenible}}^{t}}$$
 
 
-desagregacion: >-
+  donde:
+
+  $SANR_{\text{deseable}}^t$: Superficie agrícola correspondiente a aquellas explotaciones donde sus ingresos netos han sido positivos en los años $t$, $t-1$ y $t-2$
+    
+  $SANR_{\text{aceptable}}^t$: Superficie agrícola correspondiente a aquellas explotaciones donde sus ingresos netos han sido positivos en al menos uno de los años $t$, $t-1$ y $t-2$, pero no en todos ellos
+    
+  $SANR_{\text{insostenible}}^t$: Superficie agrícola correspondiente a aquellas explotaciones donde sus ingresos netos no han sido positivos en ninguno de los años $t$, $t-1$ y $t-2$
+
+desagregacion: 
 
 observaciones: >-
+
+  A la hora de interpretar la serie "Proporción de la superficie agrícola donde se ha alcanzado un nivel deseable o 
+  aceptable de producción por hectárea" se debe tener en cuenta que es un indicador relativo, ya que 
+  el nivel de productividad de una explotación no depende únicamente de cómo es su producción por hectárea, 
+  sino también de cómo es la producción por hectárea de las explotaciones de su mismo territorio y orientación 
+  técnico-económica (agricultura, ganadería o mixta).
+
+  A la hora de interpretar la serie "Proporción de la superficie agrícola donde se ha alcanzado un nivel deseable o aceptable de ingresos netos"
+  se debe tener en cuenta que es un indicador absoluto, ya que el 
+  nivel de rentabilidad de una explotación depende exclusivamente de sus ingresos netos en los últimos tres años
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
@@ -49,7 +96,7 @@ justificacion_global: |
    - Gestión de pesticidas 
    - Uso de prácticas que apoyan la agrobiodiversidad 
    - Salarios en la agricultura 
-   - Escala de experiencia (FIES) 
+   - Escala de experiencia de inseguridad alimentaria (FIES) 
    - Tenencia de la tierra 
    - Derechos de tenencia seguros de la tierra
 
@@ -60,9 +107,9 @@ comparabilidad: >-
   El indicador disponible cumple parcialmente con los metadatos del indicador de Naciones Unidas.
 
 indicador_meta_enlace: |
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-04-01.pdf">Metadata 2-4-1 (1).pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-04-01.pdf">Metadatos 2-4-1 (1).pdf</a> (solo en inglés)
 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-04-01proxy.pdf">Metadata 2-4-1 (2).pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-04-01proxy.pdf">Metadatos 2-4-1 (2).pdf</a> (solo en inglés)
 
 national_data_updated_date: '2024-07-29'
 national_metadata_updated_date: '2024-07-29'

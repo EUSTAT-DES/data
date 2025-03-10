@@ -9,30 +9,30 @@ meta_global: meta_largo.2-3-titulo
  # indicador_onu_global: indicador_largo.2-3-2-titulo
 
 
-definicion: >-
+definicion: |
   Ingreso Bruto de la Explotación de las explotaciones agrícolas, pequeñas y grandes.
 
-  Una explotación se considera **pequeña** cuando cumple ambas condiciones:
-  - Opera una cantidad de tierra que se encuentra en los dos primeros quintiles 
-    (el 40% inferior) de la distribución acumulada del tamaño de la tierra a nivel de la 
-    Comunidad Autónoma de Euskadi (medida en hectáreas).
-  - Obtiene un ingreso económico anual de las actividades agrícolas que se encuentra en los 
-    dos primeros quintiles (el 40% inferior) de la distribución acumulada de los ingresos 
-    económicos agrícolas por unidad de producción a nivel de la Comunidad Autónoma de Euskadi.
+  Una explotación se considera pequeña cuando cumple ambas condiciones:
+   - Opera una cantidad de tierra que se encuentra en los dos primeros quintiles 
+     (el 40% inferior) de la distribución acumulada del tamaño de la tierra a nivel de la 
+     Comunidad Autónoma de Euskadi (medida en hectáreas).
+   - Obtiene un ingreso económico anual de las actividades agrícolas que se encuentra en los 
+     dos primeros quintiles (el 40% inferior) de la distribución acumulada de los ingresos 
+     económicos agrícolas por unidad de producción a nivel de la Comunidad Autónoma de Euskadi.
 
 formula: |
 
-  $$IBM_{pe}^{t} = SE131_{pe}^{t} - SE275_{pe}^{t} - SE365_{pe}^{t}$$
+  $$IBM^{t} = SE131^{t} - SE275^{t} - SE365^{t}$$
 
   donde:
 
-  $SE131_{pe}^{t}$ = producción total de cultivos y derivados, ganado y productos ganaderos y 
-  otras producciones de las explotaciones en el año $t$
+  $SE131^{t}$ = producción total de cultivos y derivados, ganado y productos ganaderos y 
+  otras producciones en el año $t$
 
-  $SE275_{pe}^{t}$ =  costes específicos de cultivos y ganado como los costes generales de las pequeñas explotaciones en el año $t$
+  $SE275^{t}$ = costes específicos de cultivos y ganado como los costes generales en el año $t$
 
-  $SE365_{pe}^{t}$ = remuneración de los factores de producción (trabajo, tierra y capital) que no 
-  son propiedad del agricultor (salarios, arrendamientos e intereses pagados) en las explotaciones en el año $t$
+  $SE365^{t}$ = remuneración de los factores de producción (trabajo, tierra y capital) que no 
+  son propiedad del agricultor (salarios, arrendamientos e intereses pagados)en el año $t$
 
 desagregacion: 
   Territorio histórico
