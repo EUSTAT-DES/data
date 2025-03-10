@@ -12400,6 +12400,28 @@
       "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
     },
     {
+      "path": "2-2-E1/data.csv",
+      "name": "2-2-E1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "GRAFICO.2-2-E1-titulo"
+    },
+    {
       "path": "11-2-1/data.csv",
       "name": "11-2-1",
       "profile": "tabular-data-resource",
