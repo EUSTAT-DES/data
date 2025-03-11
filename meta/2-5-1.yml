@@ -1,0 +1,51 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.2-titulo
+# meta_global: meta_largo.2-5-titulo
+# indicador_onu_global: indicador_largo.2-5-1-titulo
+
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+descripcion_global: |
+  Los recursos genéticos para la alimentación y la agricultura constituyen 
+  los elementos básicos de la seguridad alimentaria y, directa o indirectamente, 
+  sustentan los medios de vida de todas las personas de la Tierra. 
+
+  Como la conservación 
+  y la accesibilidad a estos recursos son de vital importancia, se han establecido 
+  instalaciones de conservación a mediano o largo plazo (bancos de genes) para preservar 
+  y hacer accesibles estos recursos y la información asociada a ellos para la cría y 
+  la investigación a nivel nacional, regional y mundial. Los inventarios de los fondos 
+  de los bancos de genes proporcionan una medida dinámica de la diversidad vegetal y 
+  animal existente y su nivel de conservación. Los datos pertinentes a este indicador 
+  facilitan el seguimiento de la diversidad asegurada y accesible a través de los 
+  bancos de genes y apoyan la elaboración y actualización de estrategias para la 
+  conservación y el uso sostenible de los recursos genéticos. 
+
+  El indicador está relacionado con un marco de seguimiento aprobado por la Comisión 
+  de Recursos Genéticos para la Alimentación y la Agricultura de la FAO en el 
+  que se describe el estado y las tendencias de los recursos genéticos vegetales 
+  y animales mediante indicadores acordados a nivel mundial y evaluaciones periódicas 
+  impulsadas por los países. 
+
+  El número de materiales conservados en condiciones de almacenamiento a mediano o 
+  largo plazo proporciona una medición indirecta de la diversidad genética total, 
+  que se gestiona para asegurar su uso futuro. En términos generales, las 
+  variaciones positivas se aproximan a un aumento de la agrobiodiversidad 
+  asegurada, mientras que las variaciones negativas a una pérdida de la misma.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >- 
+
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-05-01a.pdf">Metadatos 2-5-1(1).pdf (solo en inglés)</a>
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-05-01b.pdf">Metadatos 2-5-1(2).pdf (solo en inglés)</a>
+

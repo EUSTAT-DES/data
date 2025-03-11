@@ -1,0 +1,46 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.3-titulo
+# meta_global: meta_largo.3-9-titulo
+#  indicador_onu_global: indicador_largo.3-9-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Como parte de un proyecto más amplio para evaluar los principales factores 
+  de riesgo para la salud, se evaluó la mortalidad resultante de la exposición 
+  a la contaminación del aire ambiental (exterior) y la contaminación del aire 
+  doméstico (interior) causada por el uso de combustibles contaminantes para cocinar. 
+
+  La contaminación del aire ambiental es el resultado de las emisiones de la 
+  actividad industrial, los hogares, los automóviles y los camiones, que son 
+  mezclas complejas de contaminantes del aire, muchos de los cuales son nocivos 
+  para la salud. De todos estos contaminantes, las partículas finas son las que 
+  tienen el mayor efecto sobre la salud humana. 
+
+  Por combustibles contaminantes se entiende la madera, el carbón, el 
+  estiércol animal, el carbón vegetal y los desechos de los cultivos, así 
+  como el queroseno. La contaminación del aire es el mayor riesgo ambiental 
+  para la salud. La mayor parte de la carga recae sobre las poblaciones de 
+  los países de ingresos bajos y medios.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-01.pdf">Metadatos 3-9-1.pdf</a> (solo en inglés)

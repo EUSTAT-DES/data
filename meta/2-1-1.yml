@@ -1,5 +1,11 @@
  # Metadatos nacionales (ficha metodológica)
  
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.2-titulo
+# meta_global: meta_largo.2-1-titulo
+# indicador_onu_global: indicador_largo.2-1-1-titulo
+
 
 
 
@@ -32,7 +38,7 @@ dato_global: >-
   Prevalencia de desnutrición (%) SN_ITK_DEFC</a> UNSTATS
 
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-01-01.pdf">Metadata 2-1-1.pdf (solo en inglés)</a>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-01-01.pdf">Metadat0s 2-1-1.pdf (solo en inglés)</a>
 
 
 

@@ -6,17 +6,31 @@ objetivo_global: objetivo_largo.2-titulo
 meta_global: meta_largo.2-a-titulo
 #  indicador_onu_global: global_indicators.2-a-1-title
 
-definicion: >-
+definicion: |
 
+  Valor Añadido Bruto (VAB) del sector de la agricultura, ganadería y pesca respecto 
+  al VAB del total de los sectores, a precios corrientes.
+ 
+  El valor agregado agrícola y el PIB se basan en el Sistema Europeo de Cuentas (SEC-2010). La agricultura se refiere 
+  al sector de agricultura, silvicultura, pesca y caza (Sección A de la CNAE 2009 o CIIU Rev4)
 
 formula: |
+
+  $$PVAB_{agricultura}^{t} = \frac{VAB_{agricultura}^{t}}{PIB^{t}} \cdot 100$$
+
+  donde:
+
+  $VAB_{agricultura}^{t} =$ valor añadido bruto del sector de la agricultura, ganadería y pesca a precios corrientes en el año $t$
+
+  $PIB^{t} =$  producto interior bruto a precios corrientes en el año $t$
 
 
 desagregacion: |
   Territorio histórico/Comarca/Municipio
 
-observaciones: >-
-
+observaciones: 
+  Los datos difundidos en el PIB Municipal se elaboran mediante estimaciones realizadas en base a la 
+  metodología establecida en el Sistema Europeo de Cuentas (SEC-2010).
 
 periodicidad: FUENTE.FREQ_A
 
@@ -55,7 +69,7 @@ comparabilidad: >-
   El indicador disponible es una de las series del indicador de Naciones Unidas, pero no es el indicador principal.
 
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0A-01.pdf">Metadata 2-a-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0A-01.pdf">Metadatos 2-a-1.pdf</a> (solo en inglés)
 
 national_data_updated_date: '2024-07-29'
 national_metadata_updated_date: '2024-07-29'
