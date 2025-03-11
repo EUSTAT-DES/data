@@ -34,9 +34,9 @@
               "enum": [
                 "Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",
                 "Enfermedades cardiovasculares",
+                "Enfermedades respiratorias crónicas",
                 "Cáncer",
                 "Diabetes",
-                "Enfermedades respiratorias crónicas",
                 ""
               ]
             },
@@ -68,6 +68,26 @@
             "title": "Territorio histórico"
           },
           {
+            "name": "Comarca",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Comarca"
+          },
+          {
+            "name": "Municipio",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Municipio"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -78,6 +98,11 @@
               ]
             },
             "title": "Unidad"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

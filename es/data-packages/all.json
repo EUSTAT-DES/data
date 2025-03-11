@@ -1524,9 +1524,9 @@
               "enum": [
                 "Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",
                 "Enfermedades cardiovasculares",
+                "Enfermedades respiratorias crónicas",
                 "Cáncer",
                 "Diabetes",
-                "Enfermedades respiratorias crónicas",
                 ""
               ]
             },
@@ -1558,6 +1558,26 @@
             "title": "Territorio histórico"
           },
           {
+            "name": "Comarca",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Comarca"
+          },
+          {
+            "name": "Municipio",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Municipio"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -1568,6 +1588,11 @@
               ]
             },
             "title": "Unidad"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -1977,8 +2002,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_WWT_COLECT",
-                "EN_WWT_WWDS",
+                "Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores",
+                "Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada",
                 ""
               ]
             },
@@ -11017,6 +11042,350 @@
       "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
     },
     {
+      "path": "2-a-1/data.csv",
+      "name": "2-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio histórico"
+          },
+          {
+            "name": "Comarca",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Añana (comarca)",
+                "Arabako Errioxa / Rioja Alavesa",
+                "Arabako Kantaurialdea / Cantábrica Alavesa",
+                "Arabako Lautada / Llanada Alavesa",
+                "Arabako Mendialdea / Montaña Alavesa",
+                "Arratia Nerbioi / Arratia-Nervión",
+                "Bidasoa Beherea / Bajo Bidasoa",
+                "Bilbo Handia / Gran Bilbao",
+                "Debabarrena / Bajo Deba",
+                "Debagoiena / Alto Deba",
+                "Donostialdea",
+                "Durangaldea / Duranguesado",
+                "Enkartazioak / Encartaciones",
+                "Gernika-Bermeo",
+                "Goierri",
+                "Gorbeialdea / Estribaciones del Gorbea",
+                "Markina-Ondarroa",
+                "Plentzia-Mungia",
+                "Tolosaldea",
+                "Urola Kosta",
+                ""
+              ]
+            },
+            "title": "Comarca"
+          },
+          {
+            "name": "Municipio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abadiño",
+                "Abaltzisketa",
+                "Abanto y Ciérvana-Abanto Zierbena",
+                "Aduna",
+                "Agurain/Salvatierra",
+                "Aia",
+                "Aizarnazabal",
+                "Ajangiz",
+                "Albiztur",
+                "Alegia",
+                "Alegría-Dulantzi",
+                "Alkiza",
+                "Alonsotegi",
+                "Altzaga",
+                "Altzo",
+                "Amezketa",
+                "Amorebieta-Etxano",
+                "Amoroto",
+                "Amurrio",
+                "Andoain",
+                "Anoeta",
+                "Antzuola",
+                "Añana",
+                "Arakaldo",
+                "Arama",
+                "Aramaio",
+                "Arantzazu",
+                "Areatza",
+                "Aretxabaleta",
+                "Armiñón",
+                "Arraia-Maeztu",
+                "Arrankudiaga-Zollo",
+                "Arrasate/Mondragón",
+                "Arratzu",
+                "Arratzua-Ubarrundia",
+                "Arrieta",
+                "Arrigorriaga",
+                "Artea",
+                "Artzentales",
+                "Artziniega",
+                "Asparrena",
+                "Asteasu",
+                "Astigarraga",
+                "Ataun",
+                "Atxondo",
+                "Aulesti",
+                "Ayala/Aiara",
+                "Azkoitia",
+                "Azpeitia",
+                "Bakio",
+                "Baliarrain",
+                "Balmaseda",
+                "Baños de Ebro/Mañueta",
+                "Barakaldo",
+                "Barrika",
+                "Barrundia",
+                "Basauri",
+                "Beasain",
+                "Bedia",
+                "Beizama",
+                "Belauntza",
+                "Berango",
+                "Berantevilla",
+                "Berastegi",
+                "Bergara",
+                "Bermeo",
+                "Bernedo",
+                "Berriatua",
+                "Berriz",
+                "Berrobi",
+                "Bidania-Goiatz",
+                "Bilbao",
+                "Busturia",
+                "Campezo/Kanpezu",
+                "Deba",
+                "Derio",
+                "Dima",
+                "Donostia / San Sebastián",
+                "Durango",
+                "Ea",
+                "Eibar",
+                "Elantxobe",
+                "Elburgo/Burgelu",
+                "Elciego",
+                "Elduain",
+                "Elgeta",
+                "Elgoibar",
+                "Elorrio",
+                "Elvillar/Bilar",
+                "Erandio",
+                "Ereño",
+                "Ermua",
+                "Errenteria",
+                "Errezil",
+                "Erriberagoitia/Ribera Alta",
+                "Errigoiti",
+                "Eskoriatza",
+                "Etxebarri",
+                "Etxebarria",
+                "Ezkio-Itsaso",
+                "Forua",
+                "Fruiz",
+                "Gabiria",
+                "Gaintza",
+                "Galdakao",
+                "Galdames",
+                "Gamiz-Fika",
+                "Garai",
+                "Gatika",
+                "Gautegiz Arteaga",
+                "Gaztelu",
+                "Gernika-Lumo",
+                "Getaria",
+                "Getxo",
+                "Gizaburuaga",
+                "Gordexola",
+                "Gorliz",
+                "Güeñes",
+                "Harana/Valle de Arana",
+                "Hernani",
+                "Hernialde",
+                "Hondarribia",
+                "Ibarra",
+                "Ibarrangelu",
+                "Idiazabal",
+                "Igorre",
+                "Ikaztegieta",
+                "Irun",
+                "Iruña Oka/Iruña de Oca",
+                "Irura",
+                "Iruraiz-Gauna",
+                "Ispaster",
+                "Itsasondo",
+                "Iurreta",
+                "Izurtza",
+                "Karrantza Harana/Valle de Carranza",
+                "Kortezubi",
+                "Kripan",
+                "Kuartango",
+                "Labastida/Bastida",
+                "Lagrán",
+                "Laguardia",
+                "Lanciego/Lantziego",
+                "Lanestosa",
+                "Lantarón",
+                "Lapuebla de Labarca",
+                "Larrabetzu",
+                "Larraul",
+                "Lasarte-Oria",
+                "Laudio/Llodio",
+                "Laukiz",
+                "Lazkao",
+                "Leaburu",
+                "Legazpi",
+                "Legorreta",
+                "Legutio",
+                "Leintz-Gatzaga",
+                "Leioa",
+                "Lekeitio",
+                "Lemoa",
+                "Lemoiz",
+                "Leza",
+                "Lezama",
+                "Lezo",
+                "Lizartza",
+                "Loiu",
+                "Mallabia",
+                "Mañaria",
+                "Markina-Xemein",
+                "Maruri-Jatabe",
+                "Mendaro",
+                "Mendata",
+                "Mendexa",
+                "Meñaka",
+                "Moreda de Álava/Moreda Araba",
+                "Morga",
+                "Mundaka",
+                "Mungia",
+                "Munitibar-Arbatzegi Gerrikaitz",
+                "Murueta",
+                "Muskiz",
+                "Mutiloa",
+                "Mutriku",
+                "Muxika",
+                "Nabarniz",
+                "Navaridas",
+                "Oiartzun",
+                "Okondo",
+                "Olaberria",
+                "Ondarroa",
+                "Oñati",
+                "Ordizia",
+                "Orendain",
+                "Orexa",
+                "Orio",
+                "Ormaiztegi",
+                "Orozko",
+                "Ortuella",
+                "Otxandio",
+                "Oyón-Oion",
+                "Pasaia",
+                "Peñacerrada-Urizaharra",
+                "Plentzia",
+                "Portugalete",
+                "Ribera Baja/Erriberabeitia",
+                "Samaniego",
+                "San Millán/Donemiliaga",
+                "Santurtzi",
+                "Segura",
+                "Sestao",
+                "Sondika",
+                "Sopela",
+                "Sopuerta",
+                "Soraluze-Placencia de las Armas",
+                "Sukarrieta",
+                "Tolosa",
+                "Trucios-Turtzioz",
+                "Ubide",
+                "Ugao-Miraballes",
+                "Urduliz",
+                "Urduña/Orduña",
+                "Urkabustaiz",
+                "Urnieta",
+                "Urretxu",
+                "Usurbil",
+                "Valdegovía/Gaubea",
+                "Valle de Trápaga-Trapagaran",
+                "Villabona",
+                "Villabuena de Álava/Eskuernaga",
+                "Vitoria-Gasteiz",
+                "Yécora/Iekora",
+                "Zaldibar",
+                "Zaldibia",
+                "Zalduondo",
+                "Zalla",
+                "Zambrana",
+                "Zamudio",
+                "Zaratamo",
+                "Zarautz",
+                "Zeanuri",
+                "Zeberio",
+                "Zegama",
+                "Zerain",
+                "Zestoa",
+                "Zierbena",
+                "Zigoitia",
+                "Ziortza-Bolibar",
+                "Zizurkil",
+                "Zuia",
+                "Zumaia",
+                "Zumarraga",
+                ""
+              ]
+            },
+            "title": "Municipio"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "The agriculture orientation index for government expenditures"
+    },
+    {
       "path": "17-6-1/data.csv",
       "name": "17-6-1",
       "profile": "tabular-data-resource",
@@ -12929,30 +13298,6 @@
         ]
       },
       "title": "Total net official development assistance to medical research and basic health sectors"
-    },
-    {
-      "path": "2-a-1/data.csv",
-      "name": "2-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "The agriculture orientation index for government expenditures"
     },
     {
       "path": "11-5-3/data.csv",
@@ -15569,6 +15914,30 @@
         ]
       },
       "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+    },
+    {
+      "path": "3-3-5 /data.csv",
+      "name": "3-3-5 ",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "3-3-5 "
     }
   ]
 }
