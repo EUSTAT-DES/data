@@ -29,7 +29,7 @@ formula: |
       equivalentes que depuran adecuadamente sus aguas residuales</b>
 
     $$PCC_{\text{depuración}}^{t} =
-    \left( \frac{CC_{\text{depuración}}^{t}}{CC^{t}} \cdot 100$$
+    \left( \frac{CC_{\text{depuración}}^{t}}{CC^{t}} \cdot 100 \right)$$
 
   donde:
 
@@ -44,7 +44,7 @@ formula: |
       equivalentes conectadas a un sistema de colectores de aguas residuales</b>
 
     $$PCC_{\text{colectores}}^{t} =
-    \left( \frac{CC_{\text{colectores}}^{t}}{CC^{t}} \cdot 100$$
+    \left( \frac{CC_{\text{colectores}}^{t}}{CC^{t}} \cdot 100 \right)$$
 
   donde:
 

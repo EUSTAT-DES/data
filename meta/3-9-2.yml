@@ -1,0 +1,38 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.3-titulo
+# meta_global: meta_largo.3-9-titulo
+#  indicador_onu_global: indicador_largo.3-9-2-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  El indicador expresa el número de muertes causadas por la falta de agua, 
+  saneamiento e higiene (con especial atención a los servicios de agua, saneamiento 
+  e higiene) que podrían evitarse mejorando esos servicios y prácticas. 
+
+  Se basa tanto en la prestación de servicios de agua, saneamiento e higiene en 
+  el país como en los resultados sanitarios relacionados, por lo que proporciona 
+  información importante sobre las enfermedades reales causadas por los riesgos 
+  medidos en las metas 6.1 y 6.2.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-02.pdf">Metadatos 3-9-2.pdf</a> (solo en inglés)

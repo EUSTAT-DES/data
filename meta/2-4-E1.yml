@@ -47,12 +47,13 @@ justificacion_global: |
   El indicador mide la proporción del área agrícola utilizada (SAU) total ocupada por la 
   agricultura orgánica (áreas existentes cultivadas orgánicamente y áreas en proceso de conversión).
 
+  Fuente: Eurostat
 
 dato_global: >-
   <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_02_40/default/table?lang=en&category=sdg.sdg_02">Superficie dedicada a la agricultura ecológica (sdg_02_40)</a> Eurostat
 
 comparabilidad: |
-  El indicador disponible es comparable con el indicador europeo "superficie dedicada a la agricultura ecológica".
+  El indicador disponible es comparable con el indicador europeo.
 
 indicador_meta_enlace: |
   <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_02_40_esmsip2.htm">Metadatos Eurostat (sdg_02_40)</a> (solo en inglés)

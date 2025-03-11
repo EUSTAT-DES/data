@@ -1,0 +1,47 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.3-titulo
+# meta_global: meta_largo.3-d-titulo
+#  indicador_onu_global: indicador_largo.3-d-2-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  La resistencia a los antimicrobianos (RAM) es una amenaza mundial para la salud, 
+  los medios de vida, la seguridad alimentaria y el logro de muchos de los Objetivos 
+  de Desarrollo Sostenible. Los antibióticos, antivirales, agentes antiparasitarios 
+  y antifúngicos son cada vez más ineficaces debido a la resistencia desarrollada 
+  por su uso excesivo o inadecuado, con graves consecuencias para la salud humana y 
+  animal (terrestre y acuática) y la salud de las plantas, e impactos negativos en 
+  la producción de alimentos, el medio ambiente y la economía mundial. 
+
+  En particular, la resistencia a los antimicrobianos afectará negativamente 
+  el logro de muchas de las metas enumeradas en el Objetivo 3 debido a la 
+  reducción de las opciones de tratamiento para las infecciones por 
+  patógenos resistentes; afectará a las metas del Objetivo 2 al afectar 
+  la productividad agrícola, incluida la producción de animales destinados 
+  al consumo; y afectará a las metas del Objetivo 1, ya que el aumento de 
+  la resistencia a los antimicrobianos dará lugar a grandes disminuciones 
+  del crecimiento económico, aumentará la desigualdad económica y llevará 
+  a otros 24 millones de personas a la pobreza extrema para 2030. 
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0d-02.pdf">Metadatos 3-d-2.pdf</a> (solo en inglés)
