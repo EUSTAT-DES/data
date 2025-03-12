@@ -51,6 +51,7 @@
             "constraints": {
               "enum": [
                 "16-24 años",
+                "16-74 años",
                 "25-74 años",
                 ""
               ]
