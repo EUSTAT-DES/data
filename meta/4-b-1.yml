@@ -1,0 +1,39 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.4-titulo
+# meta_global: meta_largo.4-b-titulo
+#  indicador_onu_global: indicador_largo.4-b-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Los flujos totales de ayuda oficial al desarrollo (AOD) a los países en 
+  desarrollo cuantifican el esfuerzo público que los donantes proporcionan a los 
+  países en desarrollo para becas.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-0b-01.pdf">Metadatos 4-b-1.pdf</a> (solo en inglés)
+
+dato_global:
+informacion_interes: 
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -1,0 +1,47 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.5-titulo
+# meta_global: meta_largo.5-3-titulo
+#  indicador_onu_global: indicador_largo.5-3-2-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  La mutilación genital femenina (MGF) constituye una violación de los derechos 
+  humanos de las niñas y las mujeres. Existe una amplia bibliografía que 
+  documenta las consecuencias negativas para la salud de la MGF, tanto 
+  a corto como a largo plazo. Esta práctica es una manifestación directa 
+  de la desigualdad de género. Diversos tratados y convenios internacionales 
+  condenan la MGF. 
+
+  Dado que se considera una práctica tradicional perjudicial para la salud 
+  infantil y, en la mayoría de los casos, se practica en menores de edad, 
+  viola la Convención sobre los Derechos del Niño. La legislación nacional 
+  vigente en muchos países también incluye prohibiciones explícitas contra la MGF.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-03-02.pdf">Metadatos 5-3-2.pdf</a> (solo en inglés)
+
+dato_global:
+informacion_interes: 
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

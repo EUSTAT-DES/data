@@ -1,0 +1,45 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.4-titulo
+# meta_global: meta_largo.4-2-titulo
+#  indicador_onu_global: indicador_largo.4-2-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  El desarrollo de la primera infancia (DPI) sienta las bases para un desarrollo 
+  integral a lo largo de la vida. Invertir en DPI es una de las inversiones más 
+  cruciales y rentables que un país puede realizar para mejorar la salud, la educación 
+  y la productividad de los adultos, con el fin de fortalecer el capital humano y 
+  promover el desarrollo sostenible. 
+
+  El DPI implica equidad desde el principio y constituye un buen indicador 
+  del desarrollo nacional. Los esfuerzos para mejorar el DPI pueden generar 
+  mejoras humanas, sociales y económicas tanto para las personas como para las sociedades.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-02-01.pdf">Metadatos 4-2-1.pdf</a> (solo en inglés)
+
+dato_global:
+informacion_interes: 
+national_data_updated_date: ''
+national_metadata_updated_date: ''
