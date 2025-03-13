@@ -6456,16 +6456,6 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EG_EGY_RNEW",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Energia",
             "type": "string",
             "constraints": {
@@ -8220,16 +8210,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EG_EGY_RNEW",
-                ""
-              ]
-            }
           },
           {
             "name": "Energia",

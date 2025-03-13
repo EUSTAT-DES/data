@@ -6855,17 +6855,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Capacidad de generación de electricidad renovable instalada (vatios per cápita)",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Energia",
             "type": "string",
             "constraints": {
@@ -8732,17 +8721,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Año"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Capacidad de generación de electricidad renovable instalada (vatios per cápita)",
-                ""
-              ]
-            },
-            "title": "Serie"
           },
           {
             "name": "Energia",
