@@ -3940,7 +3940,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Toneladas equivalentes de petróleo por millón de euros",
+                "Megajulios por USD constante de PPA (PIB)",
                 ""
               ]
             },

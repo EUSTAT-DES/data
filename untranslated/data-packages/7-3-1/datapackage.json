@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T_OE_PER_1000000_EUR",
+                "MJ_PER_GDP_CON_PPP_USD",
                 ""
               ]
             }

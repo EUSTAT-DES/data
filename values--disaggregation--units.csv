@@ -17,6 +17,7 @@ KT,Kilotoneladas,Kilotoneladas,Kilotoneladas,5,3
 LICENCES,Licencias,Licencias,Licencias,4,1
 LITRES,Litros,Litros,Litros,4,1
 LITRES_PURE_ALCOHOL,Litros de alcohol puro,Litros de alcohol puro,Litros de alcohol puro,1,1
+MJ_PER_GDP_CON_PPP_USD,Megajulios por USD constante de PPA (PIB),Megajulios por USD constante de PPA (PIB),Megajulios por USD constante de PPA (PIB),1,1
 MN,Minutos,Minutos,Minutos,12,1
 ORGANISATIONS,Organizaciones,Organizaciones,Organizaciones,4,1
 PER_1000,Por 1.000,Por 1.000,Por 1.000,6,2
@@ -35,7 +36,6 @@ PT,Porcentaje,Porcentaje,Porcentaje,5577,96
 RO,Ratio,Ratio,Ratio,72,2
 T_CO2_PER_CAPITA,Toneladas de CO2 equivalente per cápita,Toneladas de CO2 equivalente per cápita,Toneladas de CO2 equivalente per cápita,1,1
 T_MILLON_EUR,Toneladas por millon de euros,Toneladas por millon de euros,Toneladas por millon de euros,1,1
-T_OE_PER_1000000_EUR,Toneladas equivalentes de petróleo por millón de euros,Toneladas equivalentes de petróleo por millón de euros,Toneladas equivalentes de petróleo por millón de euros,1,1
 T_PER_CAPITA,Toneladas per cápita,Toneladas per cápita,Toneladas per cápita,2,2
 TCO2E,Toneladas de CO2 - equivalente,Toneladas de CO2 - equivalente,Toneladas de CO2 - equivalente,1,1
 W_PER_CAPITA,Watts per cápita,Watts per cápita,Watts per cápita,2750,2
