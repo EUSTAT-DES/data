@@ -10,7 +10,7 @@ meta_global: meta_largo.1-3-titulo
 
 definicion: | 
 
-  El indicador refleja la proporción de personas efectivamente cubiertas por un sistema de protección social. Se presentan series diferentes para distinguir 
+  El indicador refleja la proporción de personas efectivamente cubiertas por un sistema de protección social. Los datos se presentan en diferentes series para distinguir 
   entre los distintos componentes del sistema de protección social. Para cada caso, la cobertura se expresa como porcentaje de la población respectiva.
 
   Series disponibles: 
@@ -96,9 +96,9 @@ comparabilidad: El indicador disponible en la C.A de Euskadi cumple con
   los metadatos de Naciones Unidas para las series analizadas.
 
 indicador_meta_enlace: |
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01a.pdf">Metadata 1-3-1 (1).pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01a.pdf">Metadatos 1-3-1 (1).pdf</a> (solo en inglés)
 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01b.pdf">Metadata 1-3-1 (2).pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01b.pdf">Metadatos 1-3-1 (2).pdf</a> (solo en inglés)
 informacion_interes: 
 
 national_data_updated_date: '2024-07-29'

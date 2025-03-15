@@ -90,18 +90,16 @@ justificacion_global: |
 
   En la Unión Europea, la población en riesgo de pobreza o exclusión social, 
   abreviado como AROPE, 
-  corresponde a la suma de personas que están en riesgo de pobreza (probreza de ingresos), 
+  corresponde a la suma de personas que están en riesgo de pobreza (pobreza de ingresos), 
   gravemente desfavorecidas material y socialmente, o que viven en un hogar con una 
   intensidad laboral muy baja. 
   Las personas se incluyen sólo una vez incluso si se encuentran en más de una de las 
   situaciones mencionadas anteriormente. La tasa AROPE es la proporción de la población total 
   que está en riesgo de pobreza o exclusión social.
 
- 
   La tasa AROPE es el principal indicador para hacer el seguimiento del
   objetivo de pobreza y exclusión social de la UE para 2030 y fue el indicador principal 
   para hacer el seguimiento del objetivo de pobreza de la Estrategia UE 2020.
-
 
   El <a href="https://ec.europa.eu/social/main.jsp?catId=1606&langId=es">Pilar 
   Europeo de Derechos Sociales</a> propone tres objetivos a nivel 
@@ -113,7 +111,11 @@ justificacion_global: |
 
   Fuente: División de Estadísticas de las Naciones Unidas, Eurostat
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-02.pdf">Metadatos 1-2-2.pdf (solo en inglés)</a>'
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-02.pdf">Metadatos 1-2-2.pdf (solo en inglés)</a>
+
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_10_esmsip2.htm>Metadatos Eurostat (sdg_01_10)</a> (solo en inglés)
+
 
 dato_global: >-
   <a href="https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en">

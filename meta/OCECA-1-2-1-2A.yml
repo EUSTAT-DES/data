@@ -15,16 +15,21 @@ formula: |
 
   donde:
 
-  $PRPRAI_{NAC}^{t} =$ población en riesgo de pobreza relativa con alquiler imputado considerando el umbral nacional de pobreza (60% de la mediana nacional de los ingresos con alquiler imputado por unidad de consumo (escala OCDE modificada) en el año $t$
+  $PRPRAI_{NAC}^{t} =$ población en riesgo de pobreza relativa con alquiler imputado considerando el umbral nacional de pobreza (60% de la mediana nacional de los ingresos con alquiler imputado por unidad de consumo -escala OCDE modificada-) en el año $t$
 
-  $P^{t} =$ población total en el año  $t$
+  $P^{t} =$ población total en el año $t$
 
-periodicidad: FUENTE.FREQ_A4
+periodicidad: FUENTE.FREQ_A
 
 observaciones: |
-  El número de unidades de consumo de un hogar se calcula utilizando la escala OCDE modificada, 
-  que asigna un peso de 1 a la primera persona de 14 o más años, un peso de 0,5 al resto 
-  de personas de 14 o más años y un peso de 0,3 a las personas de menos de 14 años.
+
+  Los ingresos que se utilizan en el cálculo de este indicador corresponden 
+  al año anterior al de la encuesta.
+
+  El número de unidades de consumo de un hogar
+  se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
+  primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
+  más años y un peso de 0,3 a las personas de menos de 14 años.
 
   El alquiler imputado se aplica a los hogares que no pagan un alquiler completo por
    ser propietarios o por ocupar una vivienda alquilada a un precio inferior al de 

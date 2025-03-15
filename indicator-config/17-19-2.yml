@@ -33,7 +33,7 @@ sources:
   - organisation: FUENTE.Eustat
     periodicity: FUENTE.FREQ_A
     url: FUENTE.Eustat_cepv_url
-    url_text: FUENTE.Eustat_cepv_url
+    url_text: FUENTE.Eustat_cepv
     logo: FUENTE.Eustat_logo
 standalone: false
 tags: []
