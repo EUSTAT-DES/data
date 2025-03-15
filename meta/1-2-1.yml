@@ -41,7 +41,7 @@ texto_oceca: FUENTE.oceca
 justificacion_global: |
 
   El indicador de riesgo de pobreza relativa (At-Risk-of-Poverty Rate en inglés) o pobreza monetaria
-  es uno de los indicadores clave para hacer el seguimiento de la pobreza en la UE.
+  es uno de los indicadores clave para hacer el seguimiento de la pobreza en la Unión Europea.
 
   Este indicador no mide ni la riqueza ni la pobreza, sino bajos ingresos en comparación con otros 
   residentes del territorio, lo que no necesariamente implica un bajo nivel de vida.
@@ -61,15 +61,18 @@ justificacion_global: |
     Fuente: Eurostat
 
 dato_global: >-
-  <a href="https://ec.europa.eu/eurostat/databrowser/bookmark/7d6a8537-b602-4526-aff8-4fcbd2b48dee?lang=en">Tasa de riesgo de pobreza por umbral de pobreza, edad y sexo (ilc_li02)</a> Eurostat
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_01_20/default/table?lang=en&category=sdg.sdg_01">Personas en riesgo de pobreza monetaria tras las transferencias sociales - Encuestas EU-SILC y ECHP(sdg_01_20)</a> Eurostat
 
 comparabilidad: >-
   El indicador disponible cumple con los metadatos del indicador de Naciones Unidas. Para el cálculo 
   de la tasa de pobreza de la Comunidad Autónoma de Euskadi y sexo, se aplica 
   el umbral de la pobreza de la Comunidad Autónoma.
 
-indicador_meta_enlace: >- 
+indicador_meta_enlace: |
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadatos 1-2-1.pdf</a> (solo en inglés)
+
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_20_esmsip2.htm">Metadatos Eurostat (sdg_01_20)</a> (solo en inglés)
+
 
 informacion_interes: 
 
