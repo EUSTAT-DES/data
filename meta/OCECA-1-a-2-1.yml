@@ -5,7 +5,7 @@ meta_global: meta_largo.1-a-titulo
 #  indicador_onu_global: indicador_largo.1-a-2-titulo
 
 definicion: >-
-  Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación (grupo funcional 09 de la Classifications of the Functions of Government (COFOG), utilizada a nivel internacional para clasificar los propósitos de las actividades gubernamentales)
+  Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación (grupo funcional 09 de la Clasificación de las Funciones de las Administraciones Públicas (COFOG), utilizada a nivel internacional para clasificar los propósitos de las actividades gubernamentales)
 
 formula: |
 
@@ -13,7 +13,7 @@ formula: |
 
   donde:
 
-  $G_{educación}^{t} =$ gasto de las administraciones públicas autonómicas que se dedica a educación (grupo funcional 09 de la Classifications of the Functions of Government (COFOG)) en el año $t$
+  $G_{educación}^{t} =$ gasto de las administraciones públicas autonómicas que se dedica a educación (grupo funcional 09 de la Clasificación de las Funciones de las Administraciones Públicas -COFOG-) en el año $t$
 
   $G^{t} =$ gasto total de las administraciones públicas autonómicas en el año $t$
 
@@ -22,7 +22,7 @@ desagregacion: >-
 
 observaciones: |
 
-  La Classifications of the Functions of Government (COFOG), desarrollada por la 
+  La Clasificación de las Funciones de las Administraciones Públicas (COFOG), desarrollada por la 
   Organización para la Cooperación y el Desarrollo Económicos (OCDE) y publicada 
   por la División de Estadística de las Naciones Unidas, estructura el gasto público
   en 10 grupos funcionales:

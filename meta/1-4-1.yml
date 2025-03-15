@@ -20,16 +20,30 @@ definicion: |
 
 
 formula: |
-  $$PVP_{servicios\, básicos}^{t} = \frac{VP_{servicios\, básicos}^{t}}{VP^{t}} \cdot 100$$
+
+  <b>Proporción de viviendas con agua corriente</b>
+
+  $$PVP_{agua\, corriente}^{t} = \frac{VP_{agua\, corriente}^{t}}{VP^{t}} \cdot 100$$
 
   donde:
 
-  $VP_{servicios\, básicos}^{t} =$ viviendas principales con acceso a servicios básicos en el año $t$
+  $VP_{agua\, corriente}^{t} =$ viviendas principales con abastecimiento de agua corriente en el año $t$
 
   $VP^{t} =$ viviendas principales en el año $t$
 
-desagregacion: |
-  Servicios básicos: abastecimiento de agua corriente y baño
+  <br>
+
+  <b>Proporción de viviendas con baño</b>
+
+  $$PVP_{baño}^{t} = \frac{VP_{baño}^{t}}{VP^{t}} \cdot 100$$
+
+  donde:
+
+  $VP_{baño}^{t} =$ viviendas principales con baño en el año $t$
+
+  $VP^{t} =$ viviendas principales en el año $t$
+
+desagregacion: >-
 
   Territorio histórico/Comarca/Municipio
 
@@ -83,10 +97,10 @@ dato_global: |
   Proporción de población que utiliza servicios básicos de saneamiento, por ubicación (%) SP_ACS_BSRVSAN</a> UNSTATS
 
 comparabilidad: >-
-  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas. Algunos
-  de los servicios básicos se miden en otros indicadores de desarrollo sostenible de esta plataforma.
+  El indicador disponible en la C.A de Euskadi cumple con 
+  los metadatos de Naciones Unidas para las series analizadas. Otras series se presentan en otros indicadores de desarrollo sostenible de esta plataforma (3-8-1, 4-1-1, 7-1-2, 9-1-1, 9-c-1, 11-2-1, 11-6-1)
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-01.pdf">Metadata 1-4-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-01.pdf">Metadatos 1-4-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 
