@@ -112,8 +112,16 @@ CUR_LCU: "Moneda local"
 DIABTS: "Diabetes"
 DP_DOD_DLD2_CR_CG_Z1: "Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB "
 DRUG_TOTAL: "Todas las sustancias adictivas"
-ECOICOP_011: "Alimentos"
-ECOICOP_0111: "Pan y cereales"
+ECOICOP011: "Alimentos (total)"
+ECOICOP11112: "Cereales y derivados"
+ECOICOP01111: Pan
+ECOICOP1142: Huevos
+ECOICOP1141: Leche
+ECOICOP115: Aceites y grasas
+ECOICOP112: Frutas frescas
+ECOICOP113: Legumbres y hortalizas frescas
+AG_FPA_CFPI: Indicador de anomalías en los precios de los alimentos 
+EU_FPA_IPC: Índice de precio de los alimentos
 EG_ACS_ELEC: "Proporción de la población con acceso a la electricidad"
 EG_EGY_CLEAN: "Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios"
 EG_EGY_RNEW: "Capacidad de generación de electricidad renovable instalada (vatios per cápita)"
