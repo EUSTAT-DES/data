@@ -6,10 +6,10 @@ objetivo_global: objetivo_largo.1-titulo
 meta_global: meta_largo.1-a-titulo
 #  indicador_onu_global: indicador_largo.1-a-2-titulo
 
-definicion: >-
+definicion: |
   Proporción del gasto de las administraciones públicas en la C.A. de Euskadi que se dedica a servicios
-  esenciales (educación, salud y protección social -  grupos funcionales 09, 07 y 10 de la Clasificación 
-  de Funciones del Gobierno (COFOG), utilizada a nivel 
+  esenciales: educación, salud y protección social (grupos funcionales 09, 07 y 10 de la Clasificación 
+  de Funciones del Gobierno -COFOG-, utilizada a nivel 
   internacional para clasificar los propósitos de las actividades gubernamentales)
 
 formula: |
@@ -34,7 +34,7 @@ desagregacion: |
 observaciones: |
 
   El indicador se calcula para el gobierno general, que incluye diferentes unidades
-  gubernamentales: gobierno central, gobierno autonómico, diputaciones forales y gobiernos locales.
+  gubernamentales: gobierno central, gobierno autonómico, gobiernos forales y gobiernos locales.
 
   La Clasificación de Funciones del Gobierno (COFOG), desarrollada por la 
   Organización para la Cooperación y el Desarrollo Económicos (OCDE) y publicada 
@@ -108,5 +108,5 @@ indicador_meta_enlace: |
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
