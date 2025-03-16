@@ -19,19 +19,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_FPA_CPI_GR",
-                "EU_FPA_CPI_I21",
+                "AG_FPA_CFPI",
+                "EU_FPA_IPC",
                 ""
               ]
             }
           },
           {
-            "name": "Producto",
+            "name": "Alimento",
             "type": "string",
             "constraints": {
               "enum": [
-                "ECOICOP_011",
-                "ECOICOP_0111",
+                "ECOICOP011",
+                "ECOICOP01111",
+                "ECOICOP11112",
+                "ECOICOP112",
+                "ECOICOP113",
+                "ECOICOP1141",
+                "ECOICOP1142",
+                "ECOICOP115",
+                "ECOICOP1111",
                 ""
               ]
             }
@@ -41,9 +48,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "1.0",
+                "20.0",
+                "48.0",
                 ""
               ]
             }
@@ -53,7 +60,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
                 "IX",
                 ""
               ]

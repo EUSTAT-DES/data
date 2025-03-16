@@ -20,33 +20,40 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tasa de variación interanual del índice de precios de los alimentos",
-                "Índice de precios de los alimentos (2021=100)",
+                "AG_FPA_CFPI",
+                "EU_FPA_IPC",
                 ""
               ]
             },
             "title": "Serie"
           },
           {
-            "name": "Producto",
+            "name": "Alimento",
             "type": "string",
             "constraints": {
               "enum": [
-                "Alimentos",
-                "Pan y cereales",
+                "ECOICOP011",
+                "ECOICOP01111",
+                "ECOICOP11112",
+                "ECOICOP112",
+                "ECOICOP113",
+                "ECOICOP1141",
+                "ECOICOP1142",
+                "ECOICOP115",
+                "ECOICOP1111",
                 ""
               ]
             },
-            "title": "Producto"
+            "title": "Alimento"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "1.0",
+                "20.0",
+                "48.0",
                 ""
               ]
             },
@@ -57,7 +64,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
                 "Índice",
                 ""
               ]

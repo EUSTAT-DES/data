@@ -1,5 +1,6 @@
 Value,es,eu,en,Disaggregation combinations using this value,Number of indicators
 AES_EDUCTRN,Tasa de participación en actividades educativas en los últimos 12 meses,Índice de paridad entre mujeres y hombres que han realizado actividades educativas (AES),Índice de paridad entre mujeres y hombres que han realizado actividades educativas (AES),3,1
+AG_FPA_CFPI,AG_FPA_CFPI,AG_FPA_CFPI,AG_FPA_CFPI,11,1
 AG_LND_FOVH,Proporción de superficie agrícola que ha alcanzado un nivel aceptable o deseable de valor de producción agrícola por hectárea,AG_LND_FOVH,AG_LND_FOVH,1,1
 AG_LND_FRST,Superficie forestal en proporción a la superficie total,Superficie forestal en proporción a la superficie total,Superficie forestal en proporción a la superficie total,275,1
 AG_LND_FRSTMGT,Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes,Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes,Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes,1,1
@@ -40,8 +41,7 @@ EU_EMP_LFS,Tasa de ocupación,Tasa de ocupación,Tasa de ocupación,837,1
 EU_EMP_LFS_GAP,Brecha de género en la ocupación,Brecha de género en la ocupación,Brecha de género en la ocupación,12,1
 EU_EXP_EMP,Gasto de las administraciones públicas autonómicas en fomento del empleo,Gasto de las administraciones públicas autonómicas en fomento del empleo,Gasto de las administraciones públicas autonómicas en fomento del empleo,1,1
 EU_EXP_EMPGDP,Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al PIB,Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al PIB,Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al PIB,1,1
-EU_FPA_CPI_GR,Tasa de variación interanual del índice de precios de los alimentos,Tasa de variación interanual del índice de precios de los alimentos,Tasa de variación interanual del índice de precios de los alimentos,5,1
-EU_FPA_CPI_I21,Índice de precios de los alimentos (2021=100),Índice de precios de los alimentos (2021=100),Índice de precios de los alimentos (2021=100),5,1
+EU_FPA_IPC,EU_FPA_IPC,EU_FPA_IPC,EU_FPA_IPC,2,1
 EU_FRN_FDI_EUR,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo,1,1
 EU_FRN_FDI_GDP,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB,1,1
 EU_GDP_ZS_GR,Tasa de crecimiento del PIB generado por el turismo,Tasa de crecimiento del PIB generado por el turismo,Tasa de crecimiento del PIB generado por el turismo,4,1
