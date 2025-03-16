@@ -152,7 +152,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #2-a-1,complete,noevaluado,True,line
 #2-a-2,notstarted,notstarted,,line
 #2-b-1,notstarted,notstarted,,line
-#2-c-1,complete,retroceso,,line
+#2-c-1,complete,retroceso,,BAR
 #3-1-1,complete,alcanzado,,line
 #3-1-2,complete,alcanzado,,line
 #3-2-1,complete,alcanzado,,line
