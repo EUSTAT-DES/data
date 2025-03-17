@@ -7,15 +7,26 @@ objetivo_global: objetivo_largo.2-titulo
 meta_global: meta_largo.2-c-titulo
 #  indicador_onu_global: global_indicators.2-c-1-title
 
-definicion: >-
-  <p>Índice de precios de consumo de los alimentos y tasa de variación interanual</p>
+definicion: |
 
-  <p>Este indicador se compone de dos series temporales:<br>
-  - Índice de precios de consumo de los alimentos<br>
-  - Tasa de variación interanual de precios de consumo de los alimentos</p>
+  Este indicador se compone de dos series temporales:
+
+  - Indicador de anomalías en los precios de los alimentos
+  - Índice de precios de consumo de los alimentos
 
 
 formula: |
+
+  <b>Indicador de anomalías en los precios de los alimentos</b>
+
+  $$IFPA_t = \frac{1}{m} \sum_{i=1}^{m} IFPA_{tm}$$
+
+  donde:
+
+  $IFPA_{tm}$ = indicador de anomalías en los precios de los alimentos en el año $t$ y el mes $m$
+
+
+  <br>
 
   <b>Índice de precios de consumo de los alimentos</b>
 
@@ -26,18 +37,10 @@ formula: |
   $IPC_{alimentos,m}^{t}$ índice de precios de consumo de los alimentos del mes $m$ del año $t$
 
 
-  <b>Tasa de variación interanual de precios de consumo de los alimentos</b>
-
-  $$TVIPC_{t} = \left( \frac{IPC_{alimentos}^{t}}{IPC_{alimentos}^{t-1}} - 1 \right) \cdot 100$$
-
-  $IPC_{alimentos,m}^{t}$ índice de precios de consumo de los alimentos del año $t$
-
-  $IPC_{alimentos,m}^{t-1}$ índice de precios de consumo de los alimentos del año $t-1$, teniendo en cuenta que los índices de precios de consumo anuales se calculan 
-  como la media aritmética de los índices de precios de consumo mensuales
-
 
 desagregacion: |
-  Productos: alimentos (todos), pan y cereales
+  Productos: alimentos (todos), cereales y derivados, pan, huevos, leche
+  aceites y grasas, frutas frescas y legumbres y hortalizas frescas
 
   Territorio histórico
 
@@ -45,7 +48,10 @@ observaciones: >-
 
 
 periodicidad: FUENTE.FREQ_A
-texto_oceca: FUENTE.oceca
+texto_oceca: >- 
+
+  La serie "Índice de precios de consumo de los alimentos" está calculada utilizando una 
+  metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas.
 
  # Metadatos mundiales (Descripción del indicador)  
 
@@ -71,8 +77,7 @@ dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.c.1&seriesCode=AG_FPA_HMFP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ABNORMAL">Proporción de países que registran precios de los alimentos anormalmente altos o moderadamente altos, según el Indicador de anomalías de los precios de los alimentos (%) AG_FPA_HMFP</a> UNSTATS
 
 comparabilidad: >-
-  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero
-  aporta información complementaria.
+  La serie "Indicador de anomalías de los precios de los alimentos" cumple con los metadatos del indicador de Naciones Unidas.
 
 indicador_meta_enlace: >-
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0C-01.pdf">Metadata 2-c-1.pdf</a> (solo en inglés)
