@@ -1,4 +1,5 @@
 # VARIABLES
+
 Year: "Año"
 Value: "Valor"
 Actividad: "Actividad económica"
@@ -36,7 +37,6 @@ Territorio: "Territorio histórico"
 Municipio: "Municipio"
 Tratamiento: "Operación de tratamiento de residuos"
 Umbral: "Umbral de pobreza"
-Unidad: "Unidad"
 Units: "Unidad"
 Vacuna: "Tipo de vacuna"
 Valor: "Tipo de valor"
@@ -57,7 +57,6 @@ _L_ES_090401_05: "Emisiones de CO2 respecto al año 1990"
 _L_ES_090401_06: "Emisiones de CO2 respecto al año 2005"
 
 _L_ES_100201_1A: "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional"
-
 
 EU_OVWGT_Y2T17: "Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años"
 EU_OVWGT_GE18: "Tasa de obesidad de la población adulta"
@@ -708,10 +707,10 @@ SH_STA_POISN: "Tasa de mortalidad atribuida a intoxicaciones involuntarias"
 SH_STA_SCIDE: "Tasa de mortalidad por suicidio"
 SH_STA_TRAF: "Tasa de mortalidad por lesiones debidas a accidentes de tráfico"
 SH_TBS_INCD: "Incidencia de la tuberculosis por cada 100.000 habitantes"
-SH_XPD_EARN10: "Superiores al 10% "
-SH_XPD_EARN25: "Superiores al 25% "
-SI_AGR_SSFP: Ingresos medios de los pequeños productores de alimentos
-SI_AGR_LSFP: Ingresos medios de los grandes productores de alimentos
+SH_XPD_EARN10: "Superiores al 10%"
+SH_XPD_EARN25: "Superiores al 25%"
+SI_AGR_SSFP: "Ingresos medios de los pequeños productores de alimentos"
+SI_AGR_LSFP: "Ingresos medios de los grandes productores de alimentos"
 SI_HEI_TOTL: "Tasas de crecimiento per cápita de los gastos o ingresos de los hogares"
 SI_POV_50MI: "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos"
 SKILL_LTRCY: "Comprensión lectora"
