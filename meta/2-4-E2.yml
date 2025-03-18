@@ -7,10 +7,19 @@ objetivo_global: objetivo_largo.2-titulo
 meta_global: meta_largo.2-4-titulo
 #  indicador_onu_global:
 
-definicion: >-
-  Emisiones de amoníaco ($NH_3$) de la agricultura y ganadería
+definicion: |
+
+  Series disponibles: 
+
+  <b> Emisiones de amoníaco ($NH_3$) de la agricultura y ganadería:</b>
+  
+  <b>Emisiones de amoníaco ($NH_3$) de la agricultura y ganadería por hectárea:</b>
+  Emisiones de amoníaco (NH3) de la agricultura y ganadería por cada hectárea destinada a tierras de cultivo, prados y pastizales
+
 
 formula: |
+
+  <b> Emisiones de amoníaco ($NH_3$) de la agricultura y ganadería:</b>
 
   $$ENH3_{agricultura\, y\, ganadería}^{t} = ENH3_{agricultura}^{t} + ENH3_{ganadería}^{t}$$
 
@@ -19,6 +28,22 @@ formula: |
   $ENH3_{agricultura}^{t}$ emisiones de $NH_3$ de la agricultura en el año $t$
 
   $ENH3_{ganadería}^{t}$ emisiones de $NH_3$ de la ganadería en el año $t$
+
+  <br>
+
+  <b>Emisiones de amoníaco ($NH_3$) de la agricultura y ganadería por hectárea:</b>
+
+  $$ENH3S_{agricultura\, y\, ganadería}^{t} = \frac{ENH3_{agricultura}^{t} + ENH3_{ganadería}^{t}}{S_{tierras\, de\, cultivo}^{t} + S_{prados\, y\, pastizales}^{t}}$$
+
+  donde:
+
+  $ENH3_{agricultura}^{t}$ emisiones de NH3 de la agricultura en el año $t$
+
+  $ENH3_{ganadería}^{t}$ emisiones de NH3 de la ganadería en el año $t$
+
+  $S_{tierras\, de\, cultivo}^{t}$ superficie destinada a tierras de cultivo en el año $t$
+
+  $S_{prados\, y\, pastizales}^{t}$ superficie destinada a prados y pastizales en el año $t$
 
 
 desagregacion: >-

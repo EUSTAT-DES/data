@@ -20,6 +20,8 @@ definicion: |
      dos primeros quintiles (el 40% inferior) de la distribución acumulada de los ingresos 
      económicos agrícolas por unidad de producción a nivel de la Comunidad Autónoma de Euskadi.
 
+  Si una explotación no cumple alguna de estas condiciones, se considera grande.
+
 formula: |
 
   $$IBM^{t} = SE131^{t} - SE275^{t} - SE365^{t}$$

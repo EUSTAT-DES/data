@@ -11,14 +11,13 @@ indicador_disponible: GRAFICO.nodisponible
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: |
-  La prevalencia de la desnutrición o sub-alimentación (PoU) 
+justificacion_global: |
+  La prevalencia de la desnutrición o sub-alimentación
   es una estimación de la proporción de la población cuyo consumo habitual de 
   alimentos es insuficiente para proporcionar la niveles de energía dietética 
   necesarios para mantener una vida normal, activa y saludable. Se expresa como 
   porcentaje.
 
-justificacion_global: |
   El indicador ha sido utilizado por la FAO para hacer el seguimiento de la meta de la 
   Cumbre Mundial sobre la Alimentación y la meta 1C de los ODM, a nivel nacional, 
   regional y global, desde 1999. 
@@ -38,7 +37,7 @@ dato_global: >-
   Prevalencia de desnutrición (%) SN_ITK_DEFC</a> UNSTATS
 
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-01-01.pdf">Metadat0s 2-1-1.pdf (solo en inglés)</a>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-01-01.pdf">Metadatos 2-1-1.pdf (solo en inglés)</a>
 
 
 

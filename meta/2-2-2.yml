@@ -9,8 +9,7 @@ meta_global: meta_largo.2-2-titulo
 
 
 definicion: |
-  La población malnutrida es aquella que tiene obesidad, 
-  sobrepeso o peso insuficiente.
+  Proporción de menores entre 2 y 17 años con obesidad, sobrepeso o peso insuficiente.
 
 formula: |
 
@@ -18,7 +17,7 @@ formula: |
 
   donde:
 
-  $PPM_{2-17}^{t} =$ población entre 2 y 17 años con malnutrición en el año $t$
+  $PPM_{2-17}^{t} =$ población entre 2 y 17 años con malnutrición (obesidad, sobrepeso o peso insuficiente) en el año $t$
 
   $P_{2-17}^{t} =$ población entre 2 y 17 años en el año $t$
 
@@ -36,17 +35,13 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |
   Está aceptado internacionalmente que el crecimiento infantil 
-  refleja el estado nutricional del niño. El sobrepeso infantil se refiere a un 
-  niño que pesa demasiado para su altura. Esta forma de desnutrición se debe a que se 
-  gastan muy pocas calorías para la cantidad de alimentos consumidos y aumenta el riesgo 
-  de enfermedades no transmisibles en el futuro. El sobrepeso infantil es uno de los
-  indicadores objetivo de nutrición de la Asamblea Mundial de la Salud.
+  refleja el estado nutricional del niño. 
 
-  Por ello, el indicador de Naciones Unidas hace referencia al crecimiento infantil, 
-  y mide la prevalencia 
-  del sobrepeso (peso para la talla >+2 desviación estándar de la mediana de los 
-  estándares de crecimiento infantil de la Organización Mundial de la Salud (OMS)) entre niños 
-  menores de 5 años.
+  El sobrepeso infantil se refiere a un niño con un peso excesivo para su 
+  estatura. Esta forma de malnutrición se debe a un gasto calórico insuficiente para la 
+  cantidad de alimentos consumidos y aumenta el riesgo de enfermedades no transmisibles 
+  en etapas posteriores de la vida. El sobrepeso infantil es uno de los indicadores de nutrición de la Asamblea Mundial de la Salud.
+
 
   Fuente: División de Estadísticas de las Naciones Unidas
 
@@ -59,9 +54,9 @@ comparabilidad: >-
   utilizar la misma forma de cálculo del sobrepeso, ni el mismo grupo de edad.
 
 indicador_meta_enlace: |
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-02a.pdf">Metadata 2-2-2 (1).pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-02a.pdf">Metadatos 2-2-2 (1).pdf</a> (solo en inglés)
 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-02b.pdf">Metadata 2-2-2 (2).pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-02b.pdf">Metadatos 2-2-2 (2).pdf</a> (solo en inglés)
 
 national_data_updated_date: '2024-07-29'
 national_metadata_updated_date: '2024-07-29'

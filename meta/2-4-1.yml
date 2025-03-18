@@ -11,9 +11,8 @@ meta_global: meta_largo.2-4-titulo
 definicion: |
 
   Proporción de la superficie agrícola donde se ha alcanzado un nivel deseable o aceptable de:
-   - producción por hectárea
-   - ingresos netos
-
+   - valor de la producción agrícola por hectárea
+   - ingresos agrícolas netos
 
 formula: |
 
@@ -64,7 +63,7 @@ observaciones: >-
 
   A la hora de interpretar la serie "Proporción de la superficie agrícola donde se ha alcanzado un nivel deseable o aceptable de ingresos netos"
   se debe tener en cuenta que es un indicador absoluto, ya que el 
-  nivel de rentabilidad de una explotación depende exclusivamente de sus ingresos netos en los últimos tres años
+  nivel de rentabilidad de una explotación depende exclusivamente de sus ingresos netos en los últimos tres años.
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
