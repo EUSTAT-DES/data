@@ -1,86 +1,77 @@
-nombre: >-
-  Proporción de personas en riesgo de pobreza relativa, considerando el umbral
-  autonómico y nacional de la pobreza
-indicador_onu_global: >-
-  Proporción de la población que vive por debajo del umbral nacional de
-  pobreza, desglosada por sexo y edad
-meta_global: >-
-  De aquí a 2030, reducir al menos a la mitad la proporción de hombres,
-  mujeres y niños de todas las edades que viven en la pobreza en todas sus
-  dimensiones con arreglo a las definiciones nacionales
-objetivo_global: Poner fin a la pobreza en todas sus formas y en todo el mundo
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.1-2-1-titulo
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-2-titulo
+#  indicador_onu_global: indicador_largo.1-2-1-titulo
+
+
 definicion: >-
-  Proporción de personas con ingresos por unidad de consumo por debajo del 60%
-  de la mediana autonómica y nacional de los ingresos por unidad de consumo
-  (escala OCDE modificada).
+  Kontsumo-unitate bakoitzeko diru-sarrerak 
+  Euskal AEko medianaren % 60 (ELGA eskala aldatua)
+
 formula: |
-  $$PPRPR_{CCAA}^{t} = \frac{PRPR_{CCAA}^{t}}{P^{t}} \cdot 100$$ <br>
-  donde: <br>
-  $PRPR_{CCAA}^{t} =$ población en riesgo de pobreza relativa considerando el umbral autonómico de pobreza (60% de la mediana autonómica de los ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$ <br>
-  $P^{t} =$ población total en el año $t$
-periodicidad: Bienal
+
+  $$PP_{RPR}^{t} = \frac{P_{RPR}^{t}}{P^{t}} \cdot 100$$
+
+  non:
+
+  $P_{RPR}^{t} =$ diru-sarreren medianaren % 60tik beherako diru-sarrerak dituzten biztanleak $t$ urtean, kontsumo-unitatearen arabera (ELGA eskala aldatua)
+
+  $P^{t} =$ biztanleria $t$ urtean
+
+desagregacion: >-
+  Sexua
+
+periodicidad: FUENTE.FREQ_A2
+
 observaciones: >-
-  Los ingresos que se utilizan en el cálculo de este indicador corresponden al
-  año anterior al de la encuesta. El número de unidades de consumo de un hogar
-  se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
-  primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
-  más años y un peso de 0,3 a las personas de menos de 14 años.
+  Etxe bateko kontsumo-unitateen kopurua aldatutako ELGE eskala erabiliz kalkulatzen da; 
+  eskala horrek 1 14 urte edo gehiagoko lehen pertsona, 0,5eko pisua 14 urte edo gehiagoko 
+  gainerako pertsonentzat edo urte gehiago eta 0,3 urte baino gutxiagoko pertsonen artean.  
+
 texto_oceca: FUENTE.oceca
-descripcion_global: >-
-  El porcentaje de personas que viven en hogares considerados en riesgo de
-  pobreza en el contexto nacional.
-justificacion_global: >-
-  Hacer el seguimiento de la pobreza nacional es importante para las agendas de
-  desarrollo específicas de cada país. Las líneas de pobreza nacionales se
-  utilizan para hacer estimaciones más precisas de la pobreza consistentes con
-  las circunstancias económicas y sociales específicas del país, y no están
-  destinadas a comparaciones internacionales de tasas de pobreza
-indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadata 1-2-1 PDF</a>
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Pobrezia erlatiboaren arrisku-adierazlea (At-Risk-of-Poverty Rate ingelesez) edo diru-pobrezia 
+  Europar Batasunean pobreziaren jarraipena egiteko funtsezko adierazleetako bat da.
+
+  Adierazle horrek ez ditu neurtzen aberastasuna eta pobrezia, baizik eta diru-sarrera txikiak, beste batzuekin alderatuta 
+  Horrek ez du esan nahi, nahitaez, bizi-maila baxua denik.
+
+  Pobrezia-arriskuaren tasa pertsonen proportzioa da 
+  errenta erabilgarri baliokidea (transferentzia sozialen ondoren) 
+  pobreziaren arrisku-atalasea, konbentzio bidez EBn finkatuta dagoena, 
+  Errenta erabilgarri baliokidearen batez bestekoaren % 60, transferentzien ondoren 
+  lurralde batean.
+
+  Etxekoen unitatearen tamainan eta osaeran dauden desberdintasunen eragina kontuan hartzeko, 
+  etxekoen unitate baten diru-sarrera erabilgarria (guztizko diru-sarrera, zergen eta bestelako kenkarien ondoren, 
+  gastatzeko edo aurrezteko), heldu bihurtutako etxekoen unitateko kideen kopuruarekin zatitzen da. 
+  baliokideak (kontsumo-unitateak). EBn baliokidetasun-faktore bat aplikatzen da, 
+  1994an proposatutako ELGAren eskala aldatua.
+
+    Iturria: Eurostat
+
 dato_global: >-
-  Eurostat <a href="https://ec.europa.eu/eurostat/databrowser/bookmark/7d6a8537-b602-4526-aff8-4fcbd2b48dee?lang=en">(ilc_li02)</a><br>
-  UNSTAT<a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.1.1&seriesCode=SI_POV_DAY1&areaCode=1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=4&table=ALLAGE%20%7C%20ALLAREA%20%7C%20BOTHSEX">(1.2.1)</a>
-META_LAST_UPDATE__GLOBAL: '2024-07-29'
-SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>World Bank</p>
-SDG_INDICATOR_INFO: ''
-SDG_GOAL: ''
-SDG_TARGET: ''
-SDG_INDICATOR: ''
-SDG_SERIES_DESCR: ''
-META_LAST_UPDATE: ''
-SDG_RELATED_INDICATORS: ''
-CONTACT: ''
-CONTACT_ORGANISATION: ''
-CONTACT_NAME: ''
-ORGANISATION_UNIT: ''
-CONTACT_FUNCT: ''
-CONTACT_PHONE: ''
-CONTACT_MAIL: ''
-CONTACT_EMAIL: ''
-IND_DEF_CON_CLASS: ''
-STAT_CONC_DEF: ''
-UNIT_MEASURE: ''
-CLASS_SYSTEM: ''
-SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: ''
-COLL_METHOD: ''
-FREQ_COLL: ''
-REL_CAL_POLICY: ''
-DATA_SOURCE: ''
-COMPILING_ORG: ''
-INST_MANDATE: ''
-OTHER_METHOD: ''
-RATIONALE: ''
-REC_USE_LIM: ''
-DATA_COMP: ''
-DATA_VALIDATION: ''
-DOC_METHOD: ''
-QUALITY_MGMNT: ''
-QUALITY_ASSURE: ''
-QUALITY_ASSMNT: ''
-COVERAGE: ''
-COMPARABILITY: ''
-OTHER_DOC: ''
-national_data_updated_date: '2024-08-27'
-national_metadata_updated_date: '2024-08-13'
-un_designated_tier: ''
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_01_20/default/table?lang=en&category=sdg.sdg_01">Gizarte-transferentzien ondoren moneta-pobreziaren arriskuan dauden pertsonak - EU-SILC eta ECHP inkestak(sdg_01_20)</a> Eurostat
+
+comparabilidad: >-
+  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu. Euskal Autonomia 
+  Erkidegoko pobrezia-tasa eta sexua kalkulatzeko, autonomia-erkidegoko pobrezia-atalasea aplikatzen da.
+
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadatuak 1-2-1.pdf</a> (ingelesez bakarrik)
+
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_20_esmsip2.htm">Metadatuak Eurostat (sdg_01_20)</a> (ingelesez bakarrik)
+
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'
