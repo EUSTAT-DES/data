@@ -93,8 +93,9 @@ dato_global: >-
   Proporción de niños/hogares que reciben prestaciones en efectivo por hijo/familia, por sexo(%)
   SI_COV_CHLD</a> UNSTATS
 
-comparabilidad: The indicator available in the Basque Country complies with
-the United Nations metadata for the series analysed.
+comparabilidad: >-
+  The indicator available in the Basque Country complies with
+  the United Nations metadata for the series analysed.
 
 indicador_meta_enlace: |
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01a.pdf">Metadata 1-3-1 (1).pdf</a>
