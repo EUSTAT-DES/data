@@ -13,34 +13,34 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Población que utiliza servicios de suministro de agua potable gestionados sin riesgos",
+                "SH_H2O_SAFE",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

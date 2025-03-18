@@ -13,36 +13,36 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Superficie de suelo recuperado para nuevos usos (acumulado)",
-                "Superficie de suelo recuperado en proporción al total",
+                "EU_LND_REM",
+                "EU_LND_REM_PT",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Hectáreas",
-                "Porcentaje",
+                "HA",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

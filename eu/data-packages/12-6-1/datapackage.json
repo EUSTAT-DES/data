@@ -13,28 +13,28 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Número de licencias de Ecolabel (Etiqueta Ecológica Europea )",
-                "Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental (EMAS)",
+                "EU_ECOLABEL",
+                "EU_EMAS",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
@@ -45,17 +45,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Licencias",
-                "Organizaciones",
+                "LICENCES",
+                "ORGANISATIONS",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

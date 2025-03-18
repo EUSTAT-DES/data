@@ -7,34 +7,34 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Pobreza",
             "type": "string",
             "constraints": {
               "enum": [
-                "Riesgo de pobreza (monetaria)",
-                "Carencia material y social severa",
-                "Baja intensidad de trabajo",
+                "NAHC",
+                "SMSD",
+                "VLWI",
                 ""
               ]
             },
-            "title": "Dimensión de la pobreza"
+            "title": "Pobreza"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -45,16 +45,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

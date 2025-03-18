@@ -13,40 +13,40 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Densidad y distribución del personal sanitario",
+                "SH_MED_DEN",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Profesion",
             "type": "string",
             "constraints": {
               "enum": [
-                "Médico",
-                "Profesionales en enfermería y partería ",
-                "Dentista",
-                "Farmaceútico",
+                "ISCO08_221",
+                "ISCO08_2221_3221",
+                "ISCO08_2261",
+                "ISCO08_2262",
                 ""
               ]
             },
-            "title": "Profesión"
+            "title": "Profesion"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -57,9 +57,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
@@ -70,16 +70,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Por 10.000 habitantes",
+                "PER_10000_POP",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

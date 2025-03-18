@@ -1,5 +1,5 @@
 Value,es,eu,en,Disaggregation combinations using this value,Number of indicators
-TRT_FV,Fotovoltaica,Fotovoltaica,Fotovoltaica,550,2
-TRT_HYDROPOWER,Hidraúlica,Hidraúlica,Hidraúlica,550,2
-TRT_SOLARTHERMAL,Solar térmica,Solar térmica,Solar térmica,550,2
-TRT_WIND,Eólica,Eólica,Eólica,550,2
+TRT_FV,Fotovoltaica,TRT_FV,TRT_FV,550,2
+TRT_HYDROPOWER,Hidraúlica,TRT_HYDROPOWER,TRT_HYDROPOWER,550,2
+TRT_SOLARTHERMAL,Solar térmica,TRT_SOLARTHERMAL,TRT_SOLARTHERMAL,550,2
+TRT_WIND,Eólica,TRT_WIND,TRT_WIND,550,2

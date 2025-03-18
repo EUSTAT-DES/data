@@ -13,16 +13,16 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Ocupacion",
             "type": "string",
             "constraints": {
               "enum": [
-                "Cargos directivo",
-                "Alta dirección",
-                "Empresaria",
+                "CNO2011_1",
+                "CNO2011_11_12_13",
+                "SELF_EMP",
                 ""
               ]
             },
@@ -33,9 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
@@ -46,16 +46,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

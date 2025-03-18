@@ -1,29 +1,29 @@
-Year,Tipo de vacuna,Units,Value
-2019,"Difteria, tétanos y tosferina en la población infantil ",Porcentaje,93.1
-2023,"Difteria, tétanos y tosferina en la población infantil ",Porcentaje,94.9
-2018,"Difteria, tétanos y tosferina en la población infantil ",Porcentaje,92.5
-2021,"Difteria, tétanos y tosferina en la población infantil ",Porcentaje,90.8
-2017,"Difteria, tétanos y tosferina en la población infantil ",Porcentaje,93.0
-2022,"Difteria, tétanos y tosferina en la población infantil ",Porcentaje,94.2
-2020,"Difteria, tétanos y tosferina en la población infantil ",Porcentaje,85.5
-2017,Neumococo en la población infantil ,Porcentaje,88.3
-2020,Neumococo en la población infantil ,Porcentaje,85.4
-2021,Neumococo en la población infantil ,Porcentaje,90.6
-2019,Neumococo en la población infantil ,Porcentaje,93.3
-2022,Neumococo en la población infantil ,Porcentaje,94.2
-2023,Neumococo en la población infantil ,Porcentaje,94.7
-2018,Neumococo en la población infantil ,Porcentaje,91.3
-2017,"Sarampión, rubeola y parotiditis en la población infantil",Porcentaje,94.7
-2018,"Sarampión, rubeola y parotiditis en la población infantil",Porcentaje,93.5
-2019,"Sarampión, rubeola y parotiditis en la población infantil",Porcentaje,94.2
-2020,"Sarampión, rubeola y parotiditis en la población infantil",Porcentaje,90.2
-2021,"Sarampión, rubeola y parotiditis en la población infantil",Porcentaje,83.3
-2022,"Sarampión, rubeola y parotiditis en la población infantil",Porcentaje,88.1
-2023,"Sarampión, rubeola y parotiditis en la población infantil",Porcentaje,91.3
-2017,Papiloma humano (VPH) en las adolescentes ,Porcentaje,93.4
-2019,Papiloma humano (VPH) en las adolescentes ,Porcentaje,85.5
-2018,Papiloma humano (VPH) en las adolescentes ,Porcentaje,92.6
-2020,Papiloma humano (VPH) en las adolescentes ,Porcentaje,88.5
-2021,Papiloma humano (VPH) en las adolescentes ,Porcentaje,69.1
-2022,Papiloma humano (VPH) en las adolescentes ,Porcentaje,85.3
-2023,Papiloma humano (VPH) en las adolescentes ,Porcentaje,92.8
+Year,Vacuna,Units,Value
+2019,SH_ACS_DTP3,PT,93.1
+2023,SH_ACS_DTP3,PT,94.9
+2018,SH_ACS_DTP3,PT,92.5
+2021,SH_ACS_DTP3,PT,90.8
+2017,SH_ACS_DTP3,PT,93.0
+2022,SH_ACS_DTP3,PT,94.2
+2020,SH_ACS_DTP3,PT,85.5
+2017,SH_ACS_PCV3,PT,88.3
+2020,SH_ACS_PCV3,PT,85.4
+2021,SH_ACS_PCV3,PT,90.6
+2019,SH_ACS_PCV3,PT,93.3
+2022,SH_ACS_PCV3,PT,94.2
+2023,SH_ACS_PCV3,PT,94.7
+2018,SH_ACS_PCV3,PT,91.3
+2017,SH_ACS_MCV2,PT,94.7
+2018,SH_ACS_MCV2,PT,93.5
+2019,SH_ACS_MCV2,PT,94.2
+2020,SH_ACS_MCV2,PT,90.2
+2021,SH_ACS_MCV2,PT,83.3
+2022,SH_ACS_MCV2,PT,88.1
+2023,SH_ACS_MCV2,PT,91.3
+2017,SH_ACS_HPV,PT,93.4
+2019,SH_ACS_HPV,PT,85.5
+2018,SH_ACS_HPV,PT,92.6
+2020,SH_ACS_HPV,PT,88.5
+2021,SH_ACS_HPV,PT,69.1
+2022,SH_ACS_HPV,PT,85.3
+2023,SH_ACS_HPV,PT,92.8

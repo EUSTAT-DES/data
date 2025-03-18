@@ -13,45 +13,45 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción del valor añadido por la industria de tecnología mediana y alta en el valor añadido total",
+                "NV_IND_TECH",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Actividad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Manufactura",
+                "ISIC4_C",
                 ""
               ]
             },
-            "title": "Actividad económica"
+            "title": "Actividad"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

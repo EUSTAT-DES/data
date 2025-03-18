@@ -13,28 +13,28 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Valor añadido del sector manufacturo en proporción al PIB",
-                "Valor añadido del sector manufacturo",
+                "NV_IND_MANF",
+                "NV_IND_MANFPC",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Gipuzkoa",
-                "Bizkaia",
+                "ES211",
+                "ES212",
+                "ES213",
                 ""
               ]
             },
@@ -45,17 +45,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
-                "Euro per cápita",
+                "PT",
+                "EUR_PER_CAPITA",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

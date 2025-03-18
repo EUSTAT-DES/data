@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Administracion",
@@ -21,28 +21,28 @@
             "constraints": {
               "enum": [
                 "ADM_MUN_AUT",
-                "Administración autonómica",
-                "Administración municipal",
+                "ADM_AUT",
+                "ADM_MUN",
                 ""
               ]
             },
-            "title": "Administración pública"
+            "title": "Administracion"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Euro per cápita",
+                "EUR_PER_CAPITA",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

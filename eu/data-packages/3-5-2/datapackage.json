@@ -13,34 +13,34 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Consumo de alcohol per cápita (a partir de los 15 años de edad) durante un año civil ",
+                "SH_ALC_CONSPT",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Litros de alcohol puro",
+                "LITRES_PURE_ALCOHOL",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

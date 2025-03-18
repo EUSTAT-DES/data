@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Ecosistema",
@@ -48,17 +48,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilómetros cuadrados",
-                "Porcentaje",
+                "KM2",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

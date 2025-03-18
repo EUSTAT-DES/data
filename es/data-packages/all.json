@@ -1131,7 +1131,7 @@
             "constraints": {
               "enum": [
                 "Emisiones de CO2 por unidad de valor añadido",
-                "Emisiones de CO2 del sector manufacturero por unidad de valor añadido del sector manufacturero ",
+                "Emisiones de CO2 del sector manufacturero por unidad de valor añadido del sector manufacturero",
                 ""
               ]
             },
@@ -4980,8 +4980,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Superiores al 10% ",
-                "Superiores al 25% ",
+                "Superiores al 10%",
+                "Superiores al 25%",
                 ""
               ]
             },
@@ -5383,12 +5383,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Contrato temporal",
+                "LTD",
                 "Contrato a tiempo parcial",
                 ""
               ]
             },
-            "title": "Tipo de contrato laboral"
+            "title": "EmpCont"
           },
           {
             "name": "Territorio",
@@ -7604,7 +7604,7 @@
             "constraints": {
               "enum": [
                 "Residuos urbanos recogidos per cápita",
-                "Proporción de residuos sólidos municipales recogidos y administrados en instalaciones controladas ",
+                "Proporción de residuos sólidos municipales recogidos y administrados en instalaciones controladas",
                 "Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",
                 ""
               ]
@@ -8370,8 +8370,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AG_FPA_CFPI",
-                "EU_FPA_IPC",
+                "Indicador de anomalías en los precios de los alimentos",
+                "Índice de precio de los alimentos",
                 ""
               ]
             },
@@ -8382,14 +8382,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ECOICOP011",
-                "ECOICOP01111",
-                "ECOICOP11112",
-                "ECOICOP112",
-                "ECOICOP113",
-                "ECOICOP1141",
-                "ECOICOP1142",
-                "ECOICOP115",
+                "Alimentos (total)",
+                "Pan",
+                "Cereales y derivados",
+                "Frutas frescas",
+                "Legumbres y hortalizas frescas",
+                "Leche",
+                "Huevos",
+                "Aceites y grasas",
                 "ECOICOP1111",
                 ""
               ]

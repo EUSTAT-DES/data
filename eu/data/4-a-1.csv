@@ -1,64 +1,64 @@
-Year,Servicios básicos,Units,Value
-2011,Electricidad,Porcentaje,100.0
-2016,Electricidad,Porcentaje,100.0
-2021,Electricidad,Porcentaje,100.0
-2022,Electricidad,Porcentaje,100.0
-2017,Electricidad,Porcentaje,100.0
-2010,Electricidad,Porcentaje,100.0
-2014,Electricidad,Porcentaje,100.0
-2013,Electricidad,Porcentaje,100.0
-2015,Electricidad,Porcentaje,100.0
-2012,Electricidad,Porcentaje,100.0
-2023,Electricidad,Porcentaje,100.0
-2018,Electricidad,Porcentaje,100.0
-2020,Electricidad,Porcentaje,100.0
-2019,Electricidad,Porcentaje,100.0
-2021,Ordenadores con fines pedagógicos ,Porcentaje,98.1
-2015,Ordenadores con fines pedagógicos ,Porcentaje,100.0
-2013,Ordenadores con fines pedagógicos ,Porcentaje,92.2
-2019,Ordenadores con fines pedagógicos ,Porcentaje,96.8
-2014,Ordenadores con fines pedagógicos ,Porcentaje,93.1
-2011,Ordenadores con fines pedagógicos ,Porcentaje,83.5
-2012,Ordenadores con fines pedagógicos ,Porcentaje,89.7
-2017,Agua potable,Porcentaje,100.0
-2014,Agua potable,Porcentaje,100.0
-2018,Agua potable,Porcentaje,100.0
-2015,Agua potable,Porcentaje,100.0
-2016,Agua potable,Porcentaje,100.0
-2012,Agua potable,Porcentaje,100.0
-2019,Agua potable,Porcentaje,100.0
-2013,Agua potable,Porcentaje,100.0
-2010,Agua potable,Porcentaje,100.0
-2011,Agua potable,Porcentaje,100.0
-2020,Agua potable,Porcentaje,100.0
-2021,Agua potable,Porcentaje,100.0
-2022,Agua potable,Porcentaje,100.0
-2023,Agua potable,Porcentaje,100.0
-2011,Baños separados por sexo,Porcentaje,100.0
-2012,Baños separados por sexo,Porcentaje,100.0
-2013,Baños separados por sexo,Porcentaje,100.0
-2015,Baños separados por sexo,Porcentaje,100.0
-2023,Baños separados por sexo,Porcentaje,100.0
-2019,Baños separados por sexo,Porcentaje,100.0
-2017,Baños separados por sexo,Porcentaje,100.0
-2018,Baños separados por sexo,Porcentaje,100.0
-2020,Baños separados por sexo,Porcentaje,100.0
-2021,Baños separados por sexo,Porcentaje,100.0
-2022,Baños separados por sexo,Porcentaje,100.0
-2016,Baños separados por sexo,Porcentaje,100.0
-2014,Baños separados por sexo,Porcentaje,100.0
-2010,Baños separados por sexo,Porcentaje,100.0
-2010,Instalaciones básicas para el lavado de manos,Porcentaje,100.0
-2011,Instalaciones básicas para el lavado de manos,Porcentaje,100.0
-2012,Instalaciones básicas para el lavado de manos,Porcentaje,100.0
-2013,Instalaciones básicas para el lavado de manos,Porcentaje,100.0
-2014,Instalaciones básicas para el lavado de manos,Porcentaje,100.0
-2015,Instalaciones básicas para el lavado de manos,Porcentaje,100.0
-2016,Instalaciones básicas para el lavado de manos,Porcentaje,100.0
-2017,Instalaciones básicas para el lavado de manos,Porcentaje,100.0
-2021,Instalaciones básicas para el lavado de manos,Porcentaje,100.0
-2018,Instalaciones básicas para el lavado de manos,Porcentaje,100.0
-2019,Instalaciones básicas para el lavado de manos,Porcentaje,100.0
-2020,Instalaciones básicas para el lavado de manos,Porcentaje,100.0
-2022,Instalaciones básicas para el lavado de manos,Porcentaje,100.0
-2023,Instalaciones básicas para el lavado de manos,Porcentaje,100.0
+Year,ServBasico,Units,Value
+2011,SE_ACS_ELECT,PT,100.0
+2016,SE_ACS_ELECT,PT,100.0
+2021,SE_ACS_ELECT,PT,100.0
+2022,SE_ACS_ELECT,PT,100.0
+2017,SE_ACS_ELECT,PT,100.0
+2010,SE_ACS_ELECT,PT,100.0
+2014,SE_ACS_ELECT,PT,100.0
+2013,SE_ACS_ELECT,PT,100.0
+2015,SE_ACS_ELECT,PT,100.0
+2012,SE_ACS_ELECT,PT,100.0
+2023,SE_ACS_ELECT,PT,100.0
+2018,SE_ACS_ELECT,PT,100.0
+2020,SE_ACS_ELECT,PT,100.0
+2019,SE_ACS_ELECT,PT,100.0
+2021,SE_ACS_CMPTR,PT,98.1
+2015,SE_ACS_CMPTR,PT,100.0
+2013,SE_ACS_CMPTR,PT,92.2
+2019,SE_ACS_CMPTR,PT,96.8
+2014,SE_ACS_CMPTR,PT,93.1
+2011,SE_ACS_CMPTR,PT,83.5
+2012,SE_ACS_CMPTR,PT,89.7
+2017,SE_ACS_H2O,PT,100.0
+2014,SE_ACS_H2O,PT,100.0
+2018,SE_ACS_H2O,PT,100.0
+2015,SE_ACS_H2O,PT,100.0
+2016,SE_ACS_H2O,PT,100.0
+2012,SE_ACS_H2O,PT,100.0
+2019,SE_ACS_H2O,PT,100.0
+2013,SE_ACS_H2O,PT,100.0
+2010,SE_ACS_H2O,PT,100.0
+2011,SE_ACS_H2O,PT,100.0
+2020,SE_ACS_H2O,PT,100.0
+2021,SE_ACS_H2O,PT,100.0
+2022,SE_ACS_H2O,PT,100.0
+2023,SE_ACS_H2O,PT,100.0
+2011,SE_ACS_SANIT,PT,100.0
+2012,SE_ACS_SANIT,PT,100.0
+2013,SE_ACS_SANIT,PT,100.0
+2015,SE_ACS_SANIT,PT,100.0
+2023,SE_ACS_SANIT,PT,100.0
+2019,SE_ACS_SANIT,PT,100.0
+2017,SE_ACS_SANIT,PT,100.0
+2018,SE_ACS_SANIT,PT,100.0
+2020,SE_ACS_SANIT,PT,100.0
+2021,SE_ACS_SANIT,PT,100.0
+2022,SE_ACS_SANIT,PT,100.0
+2016,SE_ACS_SANIT,PT,100.0
+2014,SE_ACS_SANIT,PT,100.0
+2010,SE_ACS_SANIT,PT,100.0
+2010,SE_ACS_HNDWSH,PT,100.0
+2011,SE_ACS_HNDWSH,PT,100.0
+2012,SE_ACS_HNDWSH,PT,100.0
+2013,SE_ACS_HNDWSH,PT,100.0
+2014,SE_ACS_HNDWSH,PT,100.0
+2015,SE_ACS_HNDWSH,PT,100.0
+2016,SE_ACS_HNDWSH,PT,100.0
+2017,SE_ACS_HNDWSH,PT,100.0
+2021,SE_ACS_HNDWSH,PT,100.0
+2018,SE_ACS_HNDWSH,PT,100.0
+2019,SE_ACS_HNDWSH,PT,100.0
+2020,SE_ACS_HNDWSH,PT,100.0
+2022,SE_ACS_HNDWSH,PT,100.0
+2023,SE_ACS_HNDWSH,PT,100.0

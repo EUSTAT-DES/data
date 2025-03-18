@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
@@ -45,16 +45,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Por 1.000 nacidos vivos",
+                "PER_1000_LIVE_BIRTHS",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

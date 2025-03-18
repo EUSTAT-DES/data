@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Competencia",
@@ -25,15 +25,15 @@
                 ""
               ]
             },
-            "title": "Tipo de competencia"
+            "title": "Competencia"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -44,16 +44,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

@@ -13,26 +13,26 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de personas de 15 y más años que fuman a diario",
+                "SH_TBS_INCD",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -43,16 +43,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Por 100.000",
+                "PER_100000",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

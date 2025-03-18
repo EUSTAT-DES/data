@@ -13,48 +13,48 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de docentes con las calificaciones mínimas requeridas, desglosada por nivel educativo",
+                "SE_TRA_GRDL",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Educacion",
             "type": "string",
             "constraints": {
               "enum": [
-                "Preescolar",
-                "Primaria",
-                "Secundaria inferior",
-                "Secundaria superior",
+                "ISCED11_0",
+                "ISCED11_1",
+                "ISCED11_2",
+                "ISCED11_3",
                 ""
               ]
             },
-            "title": "Nivel educativo"
+            "title": "Educacion"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

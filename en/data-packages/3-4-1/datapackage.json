@@ -13,42 +13,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Tasa de mortalidad prematura (entre 30 y 70 años)",
-                "Tasa de mortalidad",
+                "SH_DTH_NCOM",
+                "EU_SH_DTH_NCOM",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "NCD",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",
-                "Enfermedades cardiovasculares",
-                "Enfermedades respiratorias crónicas",
-                "Cáncer",
-                "Diabetes",
+                "NCOM",
+                "CARDIO",
+                "CRESPD",
+                "CNCR",
+                "DIABTS",
                 ""
               ]
             },
-            "title": "Enfermedad no transmisible"
+            "title": "NCD"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -59,9 +59,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
@@ -92,12 +92,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
-                "Por 100.000 habitantes",
+                "PT",
+                "PER_100000_POP",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "GeoCode",
@@ -107,7 +107,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

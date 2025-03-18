@@ -7,22 +7,22 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Gipuzkoa",
-                "Bizkaia",
+                "ES211",
+                "ES212",
+                "ES213",
                 ""
               ]
             },
@@ -33,16 +33,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

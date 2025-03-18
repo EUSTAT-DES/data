@@ -1,27 +1,27 @@
 Year,Value,Units,Series
-2011,0.2,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono procedentes de la quema de combustibles
-2014,0.19,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono procedentes de la quema de combustibles
-2017,0.19,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono procedentes de la quema de combustibles
-2020,0.18,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono procedentes de la quema de combustibles
-2010,0.22,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono procedentes de la quema de combustibles
-2022,0.18,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono procedentes de la quema de combustibles
-2015,0.19,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono procedentes de la quema de combustibles
-2016,0.18,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono procedentes de la quema de combustibles
-2021,0.18,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono procedentes de la quema de combustibles
-2018,0.18,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono procedentes de la quema de combustibles
-2012,0.21,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono procedentes de la quema de combustibles
-2019,0.18,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono procedentes de la quema de combustibles
-2013,0.2,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono procedentes de la quema de combustibles
-2010,0.49,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero 
-2011,0.45,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero 
-2012,0.45,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero 
-2013,0.47,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero 
-2014,0.47,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero 
-2015,0.45,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero 
-2016,0.44,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero 
-2017,0.43,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero 
-2018,0.41,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero 
-2019,0.4,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero 
-2020,0.4,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero 
-2021,0.41,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero 
-2022,0.38,Kg de CO2 equivalente por euro de PIB,Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero 
+2011,0.2,KG_CO2_PER_GDP_EUR,EN_ATM_CO2GDP
+2014,0.19,KG_CO2_PER_GDP_EUR,EN_ATM_CO2GDP
+2017,0.19,KG_CO2_PER_GDP_EUR,EN_ATM_CO2GDP
+2020,0.18,KG_CO2_PER_GDP_EUR,EN_ATM_CO2GDP
+2010,0.22,KG_CO2_PER_GDP_EUR,EN_ATM_CO2GDP
+2022,0.18,KG_CO2_PER_GDP_EUR,EN_ATM_CO2GDP
+2015,0.19,KG_CO2_PER_GDP_EUR,EN_ATM_CO2GDP
+2016,0.18,KG_CO2_PER_GDP_EUR,EN_ATM_CO2GDP
+2021,0.18,KG_CO2_PER_GDP_EUR,EN_ATM_CO2GDP
+2018,0.18,KG_CO2_PER_GDP_EUR,EN_ATM_CO2GDP
+2012,0.21,KG_CO2_PER_GDP_EUR,EN_ATM_CO2GDP
+2019,0.18,KG_CO2_PER_GDP_EUR,EN_ATM_CO2GDP
+2013,0.2,KG_CO2_PER_GDP_EUR,EN_ATM_CO2GDP
+2010,0.49,KG_CO2_PER_GDP_EUR,EN_ATM_CO2MVA
+2011,0.45,KG_CO2_PER_GDP_EUR,EN_ATM_CO2MVA
+2012,0.45,KG_CO2_PER_GDP_EUR,EN_ATM_CO2MVA
+2013,0.47,KG_CO2_PER_GDP_EUR,EN_ATM_CO2MVA
+2014,0.47,KG_CO2_PER_GDP_EUR,EN_ATM_CO2MVA
+2015,0.45,KG_CO2_PER_GDP_EUR,EN_ATM_CO2MVA
+2016,0.44,KG_CO2_PER_GDP_EUR,EN_ATM_CO2MVA
+2017,0.43,KG_CO2_PER_GDP_EUR,EN_ATM_CO2MVA
+2018,0.41,KG_CO2_PER_GDP_EUR,EN_ATM_CO2MVA
+2019,0.4,KG_CO2_PER_GDP_EUR,EN_ATM_CO2MVA
+2020,0.4,KG_CO2_PER_GDP_EUR,EN_ATM_CO2MVA
+2021,0.41,KG_CO2_PER_GDP_EUR,EN_ATM_CO2MVA
+2022,0.38,KG_CO2_PER_GDP_EUR,EN_ATM_CO2MVA

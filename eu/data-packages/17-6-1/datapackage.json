@@ -13,30 +13,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Velocidad",
             "type": "string",
             "constraints": {
               "enum": [
-                "DSL",
-                "Fibra óptica (FTTH)",
-                "Híbrido de Fibra Coaxial (HFC)",
-                "Otra tecnología",
+                "NET_DSL",
+                "NET_FTTH",
+                "NET_HFC",
+                "NET_OTHER",
                 ""
               ]
             },
-            "title": "Tecnología de acceso"
+            "title": "Velocidad"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
@@ -47,16 +47,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Por 100 personas",
+                "PER_100_POP",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

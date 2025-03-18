@@ -13,27 +13,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción del total de la población agrícola con derechos de propiedad o derechos seguros sobre tierras agrícolas",
-                "Proporción de mujeres entre los propietarios o los titulares de derechos sobre tierras agrícolas, desglosada por tipo de tenencia",
+                "SP_LGL_LNDAGSEC",
+                "SP_GNP_WNOWNS",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -44,21 +44,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "En propiedad",
-                "En arrendamiento",
+                "PROP",
+                "RENT",
                 ""
               ]
             },
-            "title": "Tipo de tenencia"
+            "title": "Tenencia"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
@@ -69,16 +69,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

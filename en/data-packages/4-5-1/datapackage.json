@@ -13,29 +13,29 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Índice de paridad de género",
-                "Índice de paridad en ingresos (quintiles superior e inferior)",
-                "Índice de paridad en localización (municipios de más y menos de 10.000 habitantes)",
-                "Índice de paridad en salud",
+                "EU_GPI_TRN",
+                "EU_SESPI",
+                "EU_RUPI_TRN",
+                "EU_PI_HEALTH",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -46,8 +46,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-64 años",
-                "18-64 años",
+                "Y15T64",
+                "Y18T64",
                 ""
               ]
             },
@@ -58,9 +58,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
@@ -71,16 +71,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ratio",
+                "RO",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

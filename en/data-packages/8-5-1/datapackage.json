@@ -13,27 +13,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Salario medio por hora",
-                "Brecha de género en el salario medio por hora",
+                "SL_EMP_EARN",
+                "EU_GENDERPAY_GAP",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -45,28 +45,28 @@
             "constraints": {
               "enum": [
                 "PWD",
-                "Persona con discapacidad",
+                "PD",
                 ""
               ]
             },
-            "title": "Personas sin y con discapacidad"
+            "title": "Discapacidad"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Euros",
-                "Porcentaje",
+                "EUR",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

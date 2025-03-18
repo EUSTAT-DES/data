@@ -1,36 +1,36 @@
 Disaggregation,es,eu,en,Number of indicators,Number of values
-Actividad,Actividad económica,Actividad económica,Actividad económica,2,3
-Adiccion,Sustancia adictiva,Sustancia adictiva,Sustancia adictiva,1,3
-Administracion,Administración pública,Administración pública,Administración pública,1,3
+Actividad,Actividad económica,Actividad,Actividad,2,3
+Adiccion,Sustancia adictiva,Adiccion,Adiccion,1,3
+Administracion,Administración pública,Administracion,Administracion,1,3
 Alimento,Alimento,Alimento,Alimento,1,9
 Comarca,Comarca,Comarca,Comarca,16,20
-Competencia,Tipo de competencia,Tipo de competencia,Tipo de competencia,2,4
-Discapacidad,Personas sin y con discapacidad,Personas sin y con discapacidad,Personas sin y con discapacidad,2,2
+Competencia,Tipo de competencia,Competencia,Competencia,2,4
+Discapacidad,Personas sin y con discapacidad,Discapacidad,Discapacidad,2,2
 Ecosistema,Ecosistema,Ecosistema,Ecosistema,1,6
 Edad,Edad,Edad,Edad,10,16
-Educacion,Nivel educativo,Nivel educativo,Nivel educativo,2,4
-EmpCont,Tipo de contrato laboral,EmpCont,EmpCont,1,2
-Energia,Tipo de tecnología renovable,Tipo de tecnología renovable,Tipo de tecnología renovable,2,4
-Explotacion,Tipo de explotación,Tipo de explotación,Tipo de explotación,1,5
+Educacion,Nivel educativo,Educacion,Educacion,2,4
+EmpCont,EmpCont,EmpCont,EmpCont,1,2
+Energia,Tipo de tecnología renovable,Energia,Energia,2,4
+Explotacion,Tipo de explotación,Explotacion,Explotacion,1,5
 Gasto,Gasto,Gasto,Gasto,1,2
-Habilidad_IT,Habilidad informática,Habilidad informática,Habilidad informática,1,8
-Ingreso_cuantil,Grupo de ingresos,Grupo de ingresos,Grupo de ingresos,1,1
-Institucion,Institución,Institución,Institución,2,19
+Habilidad_IT,Habilidad informática,Habilidad_IT,Habilidad_IT,1,8
+Ingreso_cuantil,Grupo de ingresos,Ingreso_cuantil,Ingreso_cuantil,1,1
+Institucion,Institución,Institucion,Institucion,2,19
 Municipio,Municipio,Municipio,Municipio,16,252
-NCD,Enfermedad no transmisible,Enfermedad no transmisible,Enfermedad no transmisible,1,5
+NCD,Enfermedad no transmisible,NCD,NCD,1,5
 Ocupacion,Ocupacion,Ocupacion,Ocupacion,1,3
-PM,Partículas en suspensión,Partículas en suspensión,Partículas en suspensión,2,2
-Pobreza,Dimensión de la pobreza,Dimensión de la pobreza,Dimensión de la pobreza,1,3
-Profesion,Profesión,Profesión,Profesión,1,4
+PM,Partículas en suspensión,PM,PM,2,2
+Pobreza,Dimensión de la pobreza,Pobreza,Pobreza,1,3
+Profesion,Profesión,Profesion,Profesion,1,4
 Residencia,Residencia,Residencia,Residencia,1,1
-Series,Serie,Serie,Serie,70,128
-ServBasico,Servicios básicos,Servicios básicos,Servicios básicos,1,5
-ServEsencial,Servicios esenciales,Servicios esenciales,Servicios esenciales,1,3
-ServPub,Servicios públicos,Servicios públicos,Servicios públicos,1,9
+Series,Serie,Series,Series,70,128
+ServBasico,Servicios básicos,ServBasico,ServBasico,1,5
+ServEsencial,Servicios esenciales,ServEsencial,ServEsencial,1,3
+ServPub,Servicios públicos,ServPub,ServPub,1,9
 Sexo,Sexo,Sexo,Sexo,44,2
-Tenencia,Tipo de tenencia,Tipo de tenencia,Tipo de tenencia,1,2
+Tenencia,Tipo de tenencia,Tenencia,Tenencia,1,2
 Territorio,Territorio histórico,Territorio,Territorio,73,6
-Tratamiento,Operación de tratamiento de residuos,Operación de tratamiento de residuos,Operación de tratamiento de residuos,2,4
-Units,Unidad,Unidad,Unidad,146,41
-Vacuna,Tipo de vacuna,Tipo de vacuna,Tipo de vacuna,1,4
-Velocidad,Tecnología de acceso,Tecnología de acceso,Tecnología de acceso,1,4
+Tratamiento,Operación de tratamiento de residuos,Tratamiento,Tratamiento,2,4
+Units,Unidad,Units,Units,146,41
+Vacuna,Tipo de vacuna,Vacuna,Vacuna,1,4
+Velocidad,Tecnología de acceso,Velocidad,Velocidad,1,4

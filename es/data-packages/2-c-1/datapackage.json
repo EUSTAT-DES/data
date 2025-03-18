@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AG_FPA_CFPI",
-                "EU_FPA_IPC",
+                "Indicador de anomalías en los precios de los alimentos",
+                "Índice de precio de los alimentos",
                 ""
               ]
             },
@@ -32,14 +32,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ECOICOP011",
-                "ECOICOP01111",
-                "ECOICOP11112",
-                "ECOICOP112",
-                "ECOICOP113",
-                "ECOICOP1141",
-                "ECOICOP1142",
-                "ECOICOP115",
+                "Alimentos (total)",
+                "Pan",
+                "Cereales y derivados",
+                "Frutas frescas",
+                "Legumbres y hortalizas frescas",
+                "Leche",
+                "Huevos",
+                "Aceites y grasas",
                 "ECOICOP1111",
                 ""
               ]

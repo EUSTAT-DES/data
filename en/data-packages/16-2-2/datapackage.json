@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Explotacion",
@@ -21,30 +21,30 @@
             "constraints": {
               "enum": [
                 "EU_HTF_DETVFL",
-                "Obtención de órganos",
-                "Trata de personas (todos los fines)",
-                "Explotación sexual",
-                "Otros fines",
+                "VC_HTF_DETVOGR",
+                "EU_HTF_DETVR",
+                "EU_HTF_DETVSXR",
+                "VC_HTF_DETVOP",
                 ""
               ]
             },
-            "title": "Tipo de explotación"
+            "title": "Explotacion"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Por 100.000",
+                "PER_100000",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

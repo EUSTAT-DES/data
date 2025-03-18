@@ -13,36 +13,36 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo",
-                "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB",
+                "EU_ODA_EUR",
+                "EU_ODA_GDP",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Millones de euros",
-                "Porcentaje",
+                "EUR_1000000",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

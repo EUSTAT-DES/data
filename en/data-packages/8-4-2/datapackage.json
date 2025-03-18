@@ -13,38 +13,38 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Consumo doméstico de materiales per cápita",
-                "Consumo doméstico de materiales por PIB",
-                "Consumo doméstico de materiales en términos absolutos",
+                "EN_MAT_DOMCMPC",
+                "EN_MAT_DOMCMPG",
+                "EN_MAT_DOMCMPT",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Toneladas per cápita",
-                "Kg por euro de PIB",
-                "Kilotoneladas",
+                "T_PER_CAPITA",
+                "KG_PER_GDP_1000_EUR",
+                "KT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

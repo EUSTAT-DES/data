@@ -13,52 +13,52 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sector público (total)",
+                "SG_DMK_PSRVC",
                 "SG_DMK_JDC",
                 "SG_DMK_PARLMP_LC",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Institucion",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sector público autonómico",
-                "Diputaciones forales",
-                "Instituciones sanitarias autonómicas",
-                "Centros educativos no universitarios autonómicos",
-                "Policía autonómica",
-                "Universidades",
-                "Administración de Justicia autonómica",
-                "Sector público local",
-                "Ayuntamientos",
-                "Sector público estatal",
-                "Fuerzas armadas",
-                "Fuerzas y cuerpos de seguridad del Estado",
-                "Administración de Justicia del Estado",
+                "EU_DMK_PSRVC_AUT",
+                "EU_DMK_DF",
+                "EU_DMK_SAN_AUT",
+                "EU_DMK_EDU_AUT",
+                "EU_DMK_POL_AUT",
+                "EU_DMK_UNI",
+                "EU_DMK_JUST_AUT",
+                "EU_DMK_PSRVC_LOC",
+                "EU_DMK_MUN",
+                "EU_DMK_PSRVC_NAC",
+                "EU_DMK_FA",
+                "EU_DMK_FCSE",
+                "EU_DMK_JUST_NAC",
                 ""
               ]
             },
-            "title": "Institución"
+            "title": "Institucion"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bizkaia",
-                "Araba/Álava",
-                "Gipuzkoa",
+                "ES213",
+                "ES211",
+                "ES212",
                 ""
               ]
             },
@@ -69,16 +69,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ratio",
+                "RO",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

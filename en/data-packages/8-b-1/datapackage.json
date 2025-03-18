@@ -13,36 +13,36 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gasto de las administraciones públicas autonómicas en fomento del empleo",
-                "Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al PIB",
+                "EU_EXP_EMP",
+                "EU_EXP_EMPGDP",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Millones de euros",
-                "Porcentaje",
+                "EUR_1000000",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
