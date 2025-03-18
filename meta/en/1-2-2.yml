@@ -1,39 +1,126 @@
-nombre: >-
-  Proporción de personas en riesgo de pobreza relativa, considerando el umbral
-  autonómico de la pobreza
-indicador_onu_global: global_indicators.1-2-2-title
-meta_global: global_targets.1-2-title
-objetivo_global: global_goals.1-title
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+indicador_disponible: >-
+  GRAFICO.1-2-2-titulo
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-2-titulo
+ # indicador_onu_global: indicador_largo.1-2-2-titulo
+
+
 definicion: >-
-  Proporción de personas con ingresos por unidad de consumo por debajo del 60%
-  de la mediana autonómica  de los ingresos por unidad de consumo
-  (escala OCDE modificada).
+  
+  Proportion of people who meet at least one of the three criteria for risk of poverty
+  or social exclusion (being at risk of relative poverty, in a situation of material and social deprivation
+  or living in a household with low work intensity)
+
 formula: |
-  <p>$$PPRPR_{CCAA}^{t} = \frac{PRPR_{CCAA}^{t}}{P^{t}} \cdot 100$$ </p>
-  <p>donde: </p>
-  <p>$PRPR_{CCAA}^{t} =$ población en riesgo de pobreza relativa considerando el umbral autonómico de pobreza (60% de la mediana autonómica de los ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$ </p>
-  <p>$P^{t} =$ población total en el año $t$</p>
-periodicidad: FUENTE.FREQ_B
-observaciones: >-
-  Los ingresos que se utilizan en el cálculo de este indicador corresponden al
-  año anterior al de la encuesta. El número de unidades de consumo de un hogar
-  se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
-  primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
-  más años y un peso de 0,3 a las personas de menos de 14 años.
+
+  $$T_{AROPE}^{t} = \frac{P_{AROPE}^{t}}{P^{t}} \cdot 100$$
+
+  where:
+
+  $P_{AROPE}^{t} =$ population at risk of poverty or social exclusion in $t$
+
+  $P^{t} =$ total population in $t$
+
+desagregacion: |
+  Dimensions of poverty: risk of poverty, severe material and social deprivation,
+  low work intensity
+
+  Sex
+
+observaciones: |
+  The indicator measures the proportion of people who meet at least one of the following criteria:
+
+  <b>People at risk of relative poverty:</b> people with income per unit of consumption
+  below 60% of the median (modified OECD scale).
+
+  The number of consumption units in a household
+  is calculated using the modified OECD scale, which assigns a weight of 1 to the
+  first person aged 14 or over, a weight of 0.5 for other people aged 14 or over
+  and a weight of 0.3 for people under 14 years of age
+
+  <b>People in a situation of severe material and social deprivation:</b> people who suffer from at least
+  seven from the following list of thirteen limitations (seven defined at the household level and six at the individual level):
+
+   At the household level:
+   1. You can't afford to go on vacation for at least one week a year.
+   2. You cannot afford a meal of meat, chicken or fish at least every other day.
+   3. You cannot afford to keep the home at an adequate temperature.
+   4. You do not have the capacity to face unforeseen expenses.
+   5. You have had delays in the payment of expenses related to the main home (mortgage or rent, gas bills, community...)
+   or in installment purchases in the last 12 months.
+   6. You can't afford a car.
+   7. You cannot replace damaged or old furniture.
+
+  At the individual level:
+   8. You cannot afford to replace damaged clothes with new ones.
+   9. You can't afford to have two pairs of shoes in good condition.
+   10. You can't afford to meet friends/family for food or drinks at least once a month.
+   11. You cannot afford to regularly participate in leisure activities.
+   12. You can't afford to spend a small amount of money on yourself.
+   13. Cannot afford internet connection.
+  In the case of minors under 16 years of age, the six concepts listed above are not available at the individual level.
+  For these minors, the values of these elements are imputed from the values collected for the members of their household aged 16 or over.
+
+  <b>Low work intensity:</b>these are households in which their working age members (people from 18 to 64 years old, excluding 
+  students from 18 to 24 years old, retirees or retirees, as well as inactive people between 60 and 64 whose main source of household income 
+  are pensions) worked less than 20% of their total work potential during the reference year.
+  This variable does not apply for people aged 65 and over.
+
+
 texto_oceca: FUENTE.oceca
-descripcion_global: >-
-  El porcentaje de personas que viven en hogares considerados en riesgo de
-  pobreza en el contexto nacional.
-justificacion_global: >-
-  Hacer el seguimiento de la pobreza nacional es importante para las agendas de
-  desarrollo específicas de cada país. Las líneas de pobreza nacionales se
-  utilizan para hacer estimaciones más precisas de la pobreza consistentes con
-  las circunstancias económicas y sociales específicas del país, y no están
-  destinadas a comparaciones internacionales de tasas de pobreza
-indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadatos del indicador 1-2-1 PDF</a>
+
+periodicidad: FUENTE.FREQ_A2
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+
+  Traditionally, poverty has been defined as a lack of money.
+  However, poverty must be understood much more broadly.
+  A poor person can suffer multiple disadvantages at the same time; For example, you can
+  suffer from poor health or malnutrition, lack of drinking water or electricity, poor quality of
+  work or little schooling. Focusing on a single factor, such as income, is not
+  enough to capture the true reality of poverty.
+
+  In the European Union, the population at risk of poverty or social exclusion,
+  abbreviated as AROPE, corresponds to the sum of people who are at risk of poverty (income poverty),
+  severely disadvantaged materially and socially, or living in a household with a
+  very low work intensity.
+  People are included only once, even if they are in more than one of the
+  situations mentioned above. The AROPE rate is the proportion of the total population
+  who are at risk of poverty or social exclusion.
+
+  The AROPE rate is the main indicator for monitoring the
+  EU poverty and social exclusion target for 2030 and was the leading indicator
+  to monitor the poverty target of the EU 2020 strategy.
+  
+
+  The <a href="https://employment-social-affairs.ec.europa.eu/european-pillar-social-rights-20-principles_en">
+  European Pillar of Social Rights</a> proposes three objectives at the level of EU
+  to be achieved by 2030 in the areas of employment, skills and social protection.
+  Poverty and social exclusion is one of the objectives. The number of people at risk of poverty or exclusion
+  should be reduced by at least 15 million by 2030, and of these, at least 5 million should be children.
+
+  Source: United Nations Statistics Division, Eurostat
+
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-02.pdf">Metadata 1-2-2.pdf</a>
+
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_10_esmsip2.htm">Metadata Eurostat (sdg_01_10)</a>
+
+
 dato_global: >-
-  Eurostat <a href="https://ec.europa.eu/eurostat/databrowser/bookmark/7d6a8537-b602-4526-aff8-4fcbd2b48dee?lang=en">(ilc_li02)</a><br>
-  UNSTAT<a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.1.1&seriesCode=SI_POV_DAY1&areaCode=1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=4&table=ALLAGE%20%7C%20ALLAREA%20%7C%20BOTHSEX">(1.2.1)</a>
-national_data_updated_date: ''
-national_metadata_updated_date: ''
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en">
+  People at risk of poverty or social exclusion by age and sex (ilc_peps01n)</a> Eurostat
+
+comparabilidad: >-
+  The available indicator complies with United Nations metadata.
+
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

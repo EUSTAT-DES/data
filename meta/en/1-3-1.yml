@@ -1,39 +1,108 @@
-nombre: >-
-  Población perceptora de prestaciones sociales (pensiones contributivas, RGI y AES) y plazas en servicios asistenciales
-indicador_onu_global: indicador_largo.1-3-1-titulo
-meta_global: meta_largo.1-3-titulo
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.1-3-1-titulo
+
 objetivo_global: objetivo_largo.1-titulo
-definicion: >-
-  Proporción de personas con ingresos por unidad de consumo por debajo del 60%
-  de la mediana autonómica  de los ingresos por unidad de consumo
-  (escala OCDE modificada).
+meta_global: meta_largo.1-3-titulo
+ # indicador_onu_global: indicador_largo.1-3-1-titulo
+
+
+definicion: | 
+
+  The indicator reflects the proportion of people actually covered by a social protection system. The data are presented in different series to distinguish
+  between the different components of the social protection system. For each case, coverage is expressed as a percentage of the respective population.  
+
+
+  Available series: 
+
+  <b>Proportion of unemployed people receiving unemployment benefits:</b>
+  Ratio of unemployment benefit recipients to the number of unemployed
+  
+  <b>Proportion of the population that exceeds the legal retirement age and receives a pension:</b>
+  Ratio of persons over the legal retirement age who receive a pension (contributory or non-contributory) to persons over the legal retirement age 
+
 formula: |
-  <p><b>Proporción de la población que es perceptora de pensiones contributivas</b> </p>
-  <p>$$PPPC^{t} = \frac{PPC^{t}}{P^{t}} \cdot 100$$ </p>
-  <p>donde: </p>
-  <p>$PPC^{t} =$ población perceptora de pensiones contributivas en el año $t$ </p>
-  <p>$P^{t} =$ población a 1 de julio del año $t$</p>
-  <p><b>Población perceptora de la Renta de Garantía de Ingresos (RGI)</b> </p>
-  <p>Número de titulares y beneficiarios no titulares de la prestación</p>
+
+  <b>Proportion of unemployed people receiving unemployment benefits</b>
+
+  $$PP_{unemployed}^{t} = \frac{P_{unemployment\, benefit}^{t}}{P_{unemployment}^{t}} \cdot 100$$
+
+  where:
+
+  $P_{unemployment\, benefit}^{t} =$ Population receiving unemployment benefits in $t$
+
+  $P_{unemployed}^{t} =$ unemployed population in $t$
+
+  <br>
+
+  <b>Proportion of the population that exceeds the legal retirement age and receives a pension</b>
+
+  $$PP_{retired}^{t} = \frac{P_{pension\,retirement\, age}^{t}}{P_{retirement\, age}^{t}} \cdot 100$$
+
+  where:
+
+  $P_{pension\,retirement\, age} =$ population that exceeds the legal retirement age and receives a pension in $t$
+
+  $PP_{retirement\, age}^{t} =$ Population over the legal retirement age on 1 July $t$
+
+desagregacion: |
+  Sex 
+
+  Province
+
+observaciones:
+
+  The series "Proportion of unemployed persons receiving unemployment benefits" should be taken with caution and
+  should not be interpreted as the proportion of unemployed persons who receive a benefit, since a
+  high volume of permanent discontinuous workers can lead to a high coverage rate, even above 100.
+
+
 periodicidad: FUENTE.FREQ_A
-observaciones: >-
-  No hay datos municipales para las prestaciones de RGI y AES en municipios con menos de 5 personas perceptoras.
 
 
-descripcion_global: >-
-  El indicador refleja la proporción de personas efectivamente cubiertas por un sistema de protección social, 
-  incluidos los niveles mínimos de protección social. También refleja los principales componentes de la protección social: 
-  prestaciones infantiles y de maternidad, apoyo a las personas desempleadas, personas con discapacidad, víctimas 
-  de accidentes laborales y personas mayores. La cobertura efectiva de la protección social se mide por el número 
-  de personas que contribuyen activamente a un plan de seguro social o reciben prestaciones (contributivas o no contributivas). 
-justificacion_global: >-
-  El acceso a al menos un nivel básico de protección social durante todo el ciclo de vida es un derecho humano. 
-  El principio de universalidad de la protección social evidencia la importancia de los sistemas de protección social 
-  para garantizar condiciones de vida dignas a toda la población, durante toda su vida. La proporción de la población 
-  cubierta por sistemas de protección social proporciona una indicación de hasta qué punto se logra la universalidad 
-  y, por tanto, de cuán seguras son las condiciones de vida de la población.
-indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01a.pdf">Metadatos del indicador 1-3-1 (1) PDF</a><br>
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01b.pdf">Metadatos del indicador 1-3-1 (2) PDF</a>
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  The United Nations indicator aims to reflect the proportion of people
+  effectively covered by a social protection system, including
+  minimum levels of social protection. It also reflects the main
+  components of social protection (child and maternity benefits,
+  support for the unemployed, people with disabilities, victims of
+  occupational accidents and the elderly). Effective coverage of the
+  Social protection is measured by the number of people who contribute
+  actively to a social insurance plan or receive benefits (contributory or
+  non-contributory).
+
+  Access to at least a basic level of social protection
+  throughout the life cycle is a human right. The principle of
+  The universality of social protection shows the importance of the social protection
+  systems to guarantee decent living conditions for all the population, throughout their lives.
+  The proportion of the population covered by social protection systems provides
+  an indication of the extent to which universality is achieved, and therefore of how safe
+  the living conditions of the population are
+
+  Source: United Nations Statistics Division
+
 dato_global: >-
-  UNSTAT, Proporción de niños que reciben prestaciones en efectivo por familia, por sexo (%)<a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.3.1&seriesCode=SI_COV_CHLD&areaCode=1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">SI_COV_CHLD</a>
+
+  <a
+  href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.3.1&seriesCode=SI_COV_CHLD&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">
+  Proporción de niños/hogares que reciben prestaciones en efectivo por hijo/familia, por sexo(%)
+  SI_COV_CHLD</a> UNSTATS
+
+comparabilidad: >-
+  The indicator available in the Basque Country complies with
+  the United Nations metadata for the series analysed.
+
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01a.pdf">Metadata 1-3-1 (1).pdf</a>
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01b.pdf">Metadata 1-3-1 (2).pdf</a>
+
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'
