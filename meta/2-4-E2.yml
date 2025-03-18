@@ -7,16 +7,15 @@ objetivo_global: objetivo_largo.2-titulo
 meta_global: meta_largo.2-4-titulo
 #  indicador_onu_global:
 
-definicion: >-
+definicion: |
 
-   Series disponibles: 
+  Series disponibles: 
 
   <b> Emisiones de amoníaco ($NH_3$) de la agricultura y ganadería:</b>
   
   <b>Emisiones de amoníaco ($NH_3$) de la agricultura y ganadería por hectárea:</b>
   Emisiones de amoníaco (NH3) de la agricultura y ganadería por cada hectárea destinada a tierras de cultivo, prados y pastizales
 
-  
 
 formula: |
 
