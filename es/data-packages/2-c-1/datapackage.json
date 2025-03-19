@@ -32,15 +32,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "ECOICOP_RUB_01",
+                "ECOICOP_RUB_13",
+                "ECOICOP_RUB_11",
+                "ECOICOP_RUB_02",
                 "Alimentos (total)",
-                "Pan",
-                "Cereales y derivados",
-                "Frutas frescas",
-                "Legumbres y hortalizas frescas",
-                "Leche",
-                "Huevos",
-                "Aceites y grasas",
-                "ECOICOP1111",
+                "ECOICOP_RUB_01_02",
+                "ECOICOP_RUB_14",
+                "ECOICOP_RUB_16",
+                "ECOICOP_RUB_10",
                 ""
               ]
             },
@@ -51,9 +51,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1.0",
-                "20.0",
-                "48.0",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

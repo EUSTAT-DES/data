@@ -32,15 +32,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "ECOICOP_RUB_01",
+                "ECOICOP_RUB_13",
+                "ECOICOP_RUB_11",
+                "ECOICOP_RUB_02",
                 "ECOICOP011",
-                "ECOICOP01111",
-                "ECOICOP11112",
-                "ECOICOP112",
-                "ECOICOP113",
-                "ECOICOP1141",
-                "ECOICOP1142",
-                "ECOICOP115",
-                "ECOICOP1111",
+                "ECOICOP_RUB_01_02",
+                "ECOICOP_RUB_14",
+                "ECOICOP_RUB_16",
+                "ECOICOP_RUB_10",
                 ""
               ]
             },
@@ -51,9 +51,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1.0",
-                "20.0",
-                "48.0",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
