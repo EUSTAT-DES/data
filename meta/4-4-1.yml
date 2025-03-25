@@ -26,6 +26,11 @@ formula: |
 
 
 desagregacion: | 
+  Habilidades informáticas: descargar o instalar software o apps; cambiar la configuración del 
+  software, la app o del dispositivo; copiar o mover ficheros entre carpetas, dispositivos o en la 
+  nube; crear presentaciones que integren texto, imágenes o tablas; programar en un lenguaje 
+  de programación y usar funciones básicas de una hoja de cálculo
+
   Edad: 16-24, 25-74
 
   Sexo
@@ -53,14 +58,17 @@ justificacion_global: |
   fundamental de la Lista básica de indicadores de la Alianza para la medición de las TIC para el 
   desarrollo, que ha sido aprobada por la Comisión de Estadística de las Naciones Unidas (en 2020).
 
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+
 dato_global:
 
 comparabilidad: >- 
   El indicador disponible cumple con los metadatos de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-04-01.pdf">Metadata 4-4-1.pdf </a>(solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-04-01.pdf">Metadatos 4-4-1.pdf </a>(solo en inglés)'
 
 informacion_interes: 
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

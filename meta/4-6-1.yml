@@ -34,16 +34,16 @@ periodicidad: FUENTE.FREQ_A10
 
 observaciones: |
 
-  El Programa de evaluación internacional de competencias de adultos utiliza una escala de 500 puntos para evaluar 
-  la comprensión lectora y la competencia en matemáticas. Para ayudar a interpretar esas puntuaciones, la escala 
-  se divide en seis categorías de  competencia:
+  El Programa de evaluación internacional de competencias de adultos utiliza una escala de 500 puntos 
+  para evaluar la comprensión lectora y la competencia en matemáticas. Para ayudar a 
+  interpretar esas puntuaciones, la escala se divide en seis categorías de  competencia:
 
-  -Inferior al nivel 1: puntuación inferior a 176
-  -Nivel 1: puntuación entre 176 y 225
-  -Nivel 2: puntuación entre 226 y 275
-  -Nivel 3: puntuación entre 276 y 325
-  -Nivel 4: puntuación entre 326 y 375
-  -Nivel 5: puntuación entre 376 y 500
+   -Inferior al nivel 1: puntuación inferior a 176
+   -Nivel 1: puntuación entre 176 y 225
+   -Nivel 2: puntuación entre 226 y 275
+   -Nivel 3: puntuación entre 276 y 325
+   -Nivel 4: puntuación entre 326 y 375
+   -Nivel 5: puntuación entre 376 y 500
 
   Una persona alcanza al menos el nivel 2 de competencia en la escala de comprensión lectora cuando 
   habitualmente es capaz de entender textos sobre temas que no conoce, aunque tenga dificultades ante 
@@ -78,13 +78,16 @@ justificacion_global: >-
   alfabetización es necesaria para el funcionamiento eficaz de su grupo y comunidad y también le permite 
   seguir utilizando la lectura, la escritura y el cálculo para su propio desarrollo y el de la comunidad.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+
 dato_global: >-
 
 
 comparabilidad: >- 
   El indicador disponible cumple con los metadatos de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-06-01.pdf">Metadata 4-6-1.pdf </a>(solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-06-01.pdf">Metadatos 4-6-1.pdf </a>(solo en inglés)'
 
 informacion_interes: 
 
