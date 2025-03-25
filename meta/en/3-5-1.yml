@@ -1,0 +1,98 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.3-5-1-titulo
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-5-titulo
+#  indicador_onu_global: indicador_largo.3-5-1-titulo
+
+
+definicion: >-
+  
+  Number of first-time outpatient treatment admissions for addictive substance abuse or dependence 
+  at a treatment center in a given year per 100,000 population
+
+formula: |
+
+  $$TAT_{addictive\, substances}^{t} = \frac{AT_{addictive\, substances}^{t}}{P^{t}} \cdot 100.000$$
+
+  where:
+
+  $AT_{addictive\, substances}^{t} =$ Number of admissions to outpatient treatment for addictive substance abuse or 
+  dependence at a treatment center for the first time in the year $t$
+
+  $P^{t} =$ population on July 1 of year $t$
+
+
+desagregacion: | 
+  Addictive substances: illegal drugs, alcohol
+
+  Sex 
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: |
+
+  There may be some overestimation of the indicator at the state level, given that the same person may 
+  have been notified in two or more different communities and their identification is not possible for 
+  confidentiality reasons.
+
+  Treatment: Any intervention performed by qualified professionals to eliminate, reduce, or control drug use.
+
+  Outpatient: the person does not spend the night at the facility. This criterion does not apply to penitentiary centers.
+
+  Illegal drugs: Alcohol and nicotine (tobacco) are not considered illegal drugs.
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  This United Nations indicator measures the coverage of treatment interventions for substance 
+  use disorders is defined as the number of people who received treatment in a year divided by 
+  the total number of people with substance use disorders in the same year. This indicator is 
+  disaggregated by two broad groups of psychoactive substances: (1) drugs, (2) alcohol and other 
+  psychoactive substances.
+
+  According to United Nations Office on Drugs and Crime (UNODC) and World Health Organization (WHO) 
+  data, around 296 million people aged 15 to 64 years worldwide used an illicit drug at least once in 
+  2021, about 2.3 billion people are current drinkers of alcohol, some 35 million of people suffer 
+  from drug use disorders and 289 million from alcohol use disorders.
+
+  Substance use disorders are serious health conditions that present a significant burden for affected 
+  individuals, their families and communities. Untreated substance use disorders trigger substantial costs 
+  to society including lost productivity, increased health care expenditure, and costs related to criminal 
+  justice, social welfare, and other social consequences.
+ 
+  Strengthening treatment services entails providing access to a comprehensive set of evidence-based 
+  interventions (-laid down in the international standards and guidelines) that should be available 
+  to all population groups in need. The indicator will inform the extent to which a range of evidence-based
+  interventions for treatment of substance use disorder are available and are accessed by the population 
+  in need at country, regional and global level.
+
+  Even though effective treatment exists, only a small amount of people with substance use disorders 
+  receive it. For instance, it is estimated that globally one out of 7 people with drug use disorders 
+  have access to or provided drug treatment services (World Drug Report 2019). WHO ATLAS-Substance 
+  Use data showed that in 2014 only 11.9 % (out of 103 responding) countries reported high coverage (40% 
+  or more) for alcohol dependence. SDG indicator 3.5.1 is crucial for measurement the progress 
+  towards strengthening the treatment of substance abuse worldwide as formulated in the Target 3.5.
+
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.5.1&seriesCode=SH_SUD_TREAT&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX%20%7C%20DRUG_TOTAL">Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation
+  and aftercare services) for substance use disorders (%) SH_SUD_TREAT</a> UNSTATS
+
+comparabilidad: >- 
+  The available indicator does not meet the UN indicator metadata requirements, but provides 
+  complementary information.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-05-01.pdf">Metadata 3-5-1.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

@@ -1,0 +1,78 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.3-7-1-titulo
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-7-titulo
+#  indicador_onu_global: indicador_largo.3-7-1-titulo
+
+
+definicion: >-
+  Proportion of women aged 18–49 years married to a man or with a male partner, who use 
+  modern methods of contraception with respect to those who do not wish to become pregnant, 
+  i.e. who use methods of contraception or who have an unmet need for family planning
+
+formula: |
+
+  $$PM_{18-49,modern\, contraception}^{t} = \frac{M_{18-49,modern\, contraception}^{t}}{M_{18-49,contraception}^{t}+M_{18-49,unmet}^{t}} \cdot 100$$
+
+  where:
+
+  $M_{18-49,modern\, contraception}^{t} =$ women aged 18–49 years married to a man or with a male partner, who use modern methods of contraception in year $t$
+
+  $M_{18-49,contraception}^{t} =$ women aged 18–49 years married to a man or with a male partner, who use methods of contraception in year $t$
+
+  $M_{18-49,unmet}^{t} =$ women aged 18–49 years married to a man or with a male partner, who have an unmet need for family planning in year $t$
+
+desagregacion: >- 
+
+
+periodicidad: FUENTE.FREQ_I
+
+
+observaciones: >-
+
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+
+  The indicator measures the percentage of women of reproductive age (15-49 years) currently 
+  using a modern method of contraception among those who desire either to have no (additional) 
+  children or to postpone the next pregnancy. The indicator is also referred to as the demand 
+  for family planning satisfied with modern methods.
+
+  The proportion of demand for family planning satisfied with modern methods is useful in 
+  assessing overall levels of coverage for family planning programmes and services. Access 
+  to and use of an effective means to prevent pregnancy helps enable women and their partners 
+  to exercise their rights to decide freely and responsibly the number and spacing of their 
+  children and to have the information, education and means to do so. Meeting demand for family 
+  planning with modern methods also contributes to maternal and child health by preventing 
+  unintended pregnancies and closely spaced pregnancies, which are at higher risk for poor 
+  obstetrical outcomes.
+
+  Levels of demand for family planning satisfied with modern methods of 75 percent or more are 
+  generally considered high, and values of 50 percent or less are generally considered as very low. 
+  The indicator has no global numerical ‘target’ value set to be achieved by 2030. Looking at the 
+  highest values of the indicator, in 22 countries representing regions such as Europe and Northern 
+  America, Latin America and the Caribbean and Eastern and South-Eastern Asia, more than 85 percent 
+  of women who want to avoid pregnancy are using a modern contraceptive method but for no country 
+  is this estimate above 91 percent.
+  
+  dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.7.1&seriesCode=SH_FPL_MTMM&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15-49%20%7C%20FEMALE"> Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (% of women aged 15-49 years) SH_FPL_MTMM</a> UNSTATS
+
+
+comparabilidad: >- 
+  The available indicator does not strictly comply with the metadata of the UN indicator because it uses a different age group, but provides similar information.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-01.pdf">Metadata 3-7-1.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

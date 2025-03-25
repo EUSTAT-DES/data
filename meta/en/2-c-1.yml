@@ -1,0 +1,80 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.2-c-1-titulo
+
+objetivo_global: objetivo_largo.2-titulo
+meta_global: meta_largo.2-c-titulo
+#  indicador_onu_global: global_indicators.2-c-1-title
+
+definicion: >-
+  <p>Food Consumer Price Index and annual variation rate</p>
+
+  <p>This indicator is composed of two time series:<br>
+  - Consumer Price Index for Food<br>
+  - Year-on-year variation rate in food consumer prices</p>
+
+
+formula: |
+
+  <b>Consumer Price Index for Food</b>
+
+  $$IPC_{food}^{t} = \frac{1}{12} \cdot \sum_{m=1}^{12} IPC_{food,m}^{t}$$
+
+  where:
+
+  $IPC_{food,m}^{t}$ consumer price index for food for the month $m$ of year $t$
+
+
+  <b>Year-on-year variation rate in food consumer prices</b>
+
+  $$TVIPC_{t} = \left( \frac{IPC_{food}^{t}}{IPC_{food}^{t-1}} - 1 \right) \cdot 100$$
+
+  $IPC_{food,m}^{t}$ consumer price index for food in the year $t$
+
+  $IPC_{food,m}^{t-1}$ consumer price index for food in the year $t-1$, considering that annual 
+  consumer price indices are calculated as the arithmetic mean of the monthly consumer price indices.
+
+
+desagregacion: |
+  Products: food (all), bread and cereals
+
+  Province
+
+observaciones: >-
+
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  
+  The Food Price Anomaly Indicator (FPAI) identifies abnormally high market prices. 
+  The FPIAI is based on a weighted compound growth rate that represents both intra- 
+  and year-over-year price growth.
+
+  The indicator directly assesses price growth during a particular month over many years, 
+  taking into account seasonality in agricultural markets and inflation, thereby answering 
+  the question of whether a price change is abnormal for a given period.
+
+  The indicator is only a guide to understanding market dynamics. As such, it cannot be relied 
+  upon as the sole indicator to determine whether the price of a food product in a particular 
+  market at a given time is abnormally high or low due to the direct effects of local policies. 
+  The results must be weighed against other available information on market fundamentals, the 
+  macroeconomic context, and external shocks.
+
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.c.1&seriesCode=AG_FPA_HMFP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ABNORMAL">Proportion of countries experiencing abnormally high or moderately high food prices, according to the Food Price Anomaly Indicator (%) AG_FPA_HMFP</a> UNSTATS
+
+comparabilidad: >-
+  The available indicator does not comply with the UN indicator metadata, but provides 
+  complementary information.
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0C-01.pdf">Metadata 2-c-1.pdf</a>
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

@@ -1,0 +1,76 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.3-a-1-titulo
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-a-titulo
+#  indicador_onu_global: indicador_largo.3-a-1-titulo
+
+
+definicion: >-
+  Proportion of people aged 15 and over who smoke daily
+
+formula: |
+
+  $$PPFD_{15+}^{t} = \frac{PFD_{15+}^{t}}{P_{15+}^{t}} \cdot 100$$
+
+  donde:
+
+  $PFD_{15+}^{t} =$ population aged 15 and over who smoke daily in the year $t$
+  $P_{15y+}^{t} =$ population aged 15 and over in year $t$
+
+desagregacion: | 
+  Sex
+
+  Province
+
+periodicidad: FUENTE.FREQ_A5
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+
+  The United Nations indicator is defined as the percentage of the population 
+  aged 15 years and over who currently use any tobacco product (smoked and/or 
+  smokeless tobacco) on a daily or non-daily basis.
+
+  Tobacco use is a major contributor to illness and death from non-communicable 
+  diseases (NCDs). There is no proven safe level of tobacco use or of second-hand 
+  smoke exposure. All daily and non-daily users of tobacco are at risk of a variety 
+  of poor health outcomes across the life-course, including NCDs.
+
+  Reducing the prevalence of current tobacco use will make a large contribution to 
+  reducing premature mortality from NCDs (Target 3.4).
+
+  Routine and regular monitoring of this indicator is necessary to enable accurate 
+  monitoring and evaluation of the impact of implementation of the WHO Framework 
+  Convention on Tobacco Control (WHO FCTC), or tobacco control policies in the 
+  countries that are not yet Parties to the WHO FCTC, over time.
+
+  Tobacco use prevalence levels are an appropriate indicator of implementation 
+  of SDG Target 3.a “Strengthen the implementation of the World Health Organization 
+  Framework Convention on Tobacco Control in all countries, as appropriate”.
+
+
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.a.1&seriesCode=SH_PRV_SMOK&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15%2B%20%7C%20BOTHSEX"> Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) SH_PRV_SMOK</a> UNSTATS
+
+
+comparabilidad: >- 
+  The available indicator does not strictly comply with the United Nations metadata 
+  but provides similar information.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0a-01.pdf">Metadata 3-a-1.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

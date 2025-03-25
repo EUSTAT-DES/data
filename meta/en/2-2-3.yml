@@ -1,0 +1,46 @@
+
+# Metadatos nacionales (ficha metodológica)
+
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.2-titulo
+# meta_global: meta_largo.2-2-titulo
+# indicador_onu_global: indicador_largo.2-2-3-titulo
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+
+justificacion_global: |
+  
+  Anaemia is highly prevalent globally, disproportionately affecting 
+  children and women of reproductive age. It negatively affects cognitive 
+  and motor development and work capacity, and among pregnant women iron 
+  deficiency anaemia is associated with adverse reproductive outcomes, including 
+  preterm delivery, low-birth-weight infants, and decreased iron stores for the 
+  baby, which may lead to impaired development.
+
+  Iron deficiency is considered the most common cause of anaemia, but there 
+  are other nutritional and non-nutritional causes. Blood haemoglobin concentrations 
+  are affected by many factors, including altitude (metres above sea level), 
+  smoking, trimester of pregnancy, age and sex.
+
+  Anaemia can be assessed by measuring blood haemoglobin, and when used in 
+  combination with other indicators of iron status, blood haemoglobin provides 
+  information about the severity of iron deficiency. The anaemia prevalence for 
+  the population is used to classify the public health significance of the problem.
+
+  Source: United Nations Statistics Division
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.2.3&seriesCode=SH_STA_ANEM&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15-49%20%7C%20FEMALE">Proportion of women aged 15-49 years with anaemia (%) SH_STA_ANEM</a> UNSTATS
+
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-03.pdf">Metadata 2-2-3.pdf</a>
+
+
+

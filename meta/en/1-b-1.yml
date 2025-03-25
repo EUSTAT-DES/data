@@ -1,0 +1,46 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.1-titulo
+# meta_global: meta_largo.1-b-titulo
+#  indicador_onu_global: indicador_largo.1-b-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  The indicator measures the extent to which public spending in three key areas which 
+  are critical for poverty eradication, including health, education, and other direct 
+  transfers is directly allocated to individuals or households in the monetary poor 
+  as per the national definition. 
+  
+  The indicator measures if public spending is targeting the monetary poor. Pro-poor 
+  social spending is defined if the proportion of government expenditures on social 
+  services is higher than the proportion of the population, measured at the level determined 
+  by national definition of income/consumption poverty (consistent with SDG 1.2.1). For instance, 
+  if the proportion of public spending received by the poor exceeds (falls below) the proportion 
+  of poor as defined by national definitions, public expenditures can be interpreted as pro-poor 
+  (not pro-poor). This is a strong measurement of the financial commitment governments make to 
+  target their services and transfers on the poor groups of society, reinforcing propoor 
+  development strategies. 
+  
+  Further developments of the methodology and improvements in data availability may allow to expand
+  this indicator to other vulnerable groups, such as women and children.
+
+  Source: United Nations Statistics Division
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0b-01.pdf">Metadata 1-b-1.pdf</a>

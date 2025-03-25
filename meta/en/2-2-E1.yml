@@ -1,0 +1,67 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.2-2-E1-titulo
+
+objetivo_global: objetivo_largo.2-titulo
+meta_global: meta_largo.2-2-titulo
+
+
+
+definicion: |
+  
+  The indicator measures the share of obese people based on their body mass index (BMI). 
+  BMI is defined as the weight in kilos divided by the square of the height in meters. 
+  People aged 18 years or over are considered obese with a BMI equal or greater than 30.
+
+
+formula: |
+
+  $$PPO_{>18}^{t} = \frac{PO_{>18}^{t}}{P_{>18}^{t}} \cdot 100$$
+
+  where:
+
+  $PPO_{>18}^{t} =$ adult population with obesity (BMI>=30) in the year $t$
+
+  $P_{>18}^{t} =$ adult population in the year $t$
+
+
+desagregacion: >-
+  Sex
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_I
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Although the EU has largely overcome hunger problems, new nutrition-related 
+  challenges are emerging, such as rising obesity.
+
+  Therefore, the European indicator measures obesity in adulthood and is used 
+  to monitor progress towards SDG 2 (ending hunger and malnutrition) and SDG 3 
+  (good health and well-being), which are included in the European Commission's 
+  priorities within the framework of the "European Green Deal," "An economy that 
+  works for people," and "Promoting our European way of life."
+
+  The EU's food policy includes nutrition initiatives and works with EU Member 
+  States on various public health initiatives in the areas of nutrition and physical 
+  activity to promote a healthy and balanced lifestyle.
+
+  Source: Eurostat
+
+dato_global: >-
+
+  <a href="https://ec.europa.eu/eurostat/databrowser/bookmark/4a2b0f6f-97a9-496c-9336-19b95f81ddc1?lang=en">Obesity rate by body mass index (BMI) (sdg_02)</a> Eurostat <br>
+
+comparabilidad: >-
+  The obesity rate among the adult population is comparable to the European indicator.
+
+indicador_meta_enlace: |
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_02_10_esmsip2.htm">Metadata sdg_02_10</a>
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

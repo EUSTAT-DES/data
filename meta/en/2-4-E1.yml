@@ -1,0 +1,60 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.2-4-E1-titulo
+
+objetivo_global: objetivo_largo.2-titulo
+meta_global: meta_largo.2-4-titulo
+#  indicador_onu_global: indicador_largo.2-4-1-titulo
+
+
+
+definicion: >-
+  Proportion of agricultural land (crops and meadows and pastures) devoted to organic production
+
+formula: |
+  $$PSA_{organic}^{t} = \frac{SA_{organic}^{t}}{SA^{t}} \cdot 100$$
+
+  donde:
+
+  $SA_{organic}^t =$ agricultural area used for organic production in the year $t$
+
+  $SA^{t} =$ agricultural area (crops, meadows and pastures) in the year $t$
+
+desagregacion: >-
+  Province/County/Municipality
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |  
+  
+  Although organic farming is not explicitly mentioned in the 2030 Agenda, the EU considers organic 
+  farming to be a production method that places the greatest emphasis on environmental and wildlife 
+  protection and, with respect to livestock production, on animal welfare considerations. It avoids 
+  or greatly reduces the use of synthetic chemical inputs such as fertilizers, pesticides, additives, 
+  and medical products. The production of genetically modified organisms (GMOs) and their use in animal 
+  feed are prohibited.
+
+  The "Area under organic farming" indicator is part of the EU Sustainable Development Goals (SDG) 
+  indicator set and is included in the European Commission's Priorities under the European Green Deal. 
+  The indicator measures the proportion of the total utilized agricultural area (UAA) occupied by organic 
+  farming (existing organically farmed areas and areas in the process of conversion). 
+
+  Source: Eurostat
+
+dato_global: >-
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_02_40/default/table?lang=en&category=sdg.sdg_02">Area under organic farming (sdg_02_40)</a> Eurostat
+
+comparabilidad: |
+  The available indicator is comparable with the European indicator.
+
+indicador_meta_enlace: |
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_02_40_esmsip2.htm">Metadata Eurostat (sdg_02_40)</a>
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

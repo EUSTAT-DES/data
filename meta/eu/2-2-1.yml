@@ -1,0 +1,36 @@
+
+# Metadatos nacionales (ficha metodológica)
+
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.2-titulo
+# meta_global: meta_largo.2-2-titulo
+# indicador_onu_global: indicador_largo.2-2-1-titulo
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Haurren hazkundeak haurraren nutrizio-egoera islatzen du. Haurren hazkundearen 
+  atzerapena bere adinerako baxuegia den haur bati dagokio, eta desnutrizio kronikoaren 
+  edo errepikariaren emaitza da.
+
+  Hazkundearen atzerapena haurren hilkortasunari laguntzen dion arrisku-faktore bat da, 
+  eta giza garapeneko desberdintasunen adierazle bat ere bada. Hazteko atzerapena duten 
+  haurrek ez dute lortzen beren potentzial fisikoa eta kognitiboa lortzea. Haurren 
+  hazkundearen atzerapena da Osasunaren Mundu Batzarraren nutrizio-helburuen adierazleetako bat.
+
+  Iturria: Nazio Batuen Estatistika Dibisioa  
+
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.2.1&seriesCode=SH_STA_STNT&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=%3C5Y">Hazkunde ertaina edo larria atzeratuta duten haurren proportzioa (%) SH_STA_STNT</a> UNSTATS
+
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-01.pdf">Metadatuak 2-2-1.pdf (ingelesez bakarrik)</a>
+
+
+

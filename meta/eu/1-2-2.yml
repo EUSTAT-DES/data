@@ -10,67 +10,67 @@ meta_global: meta_largo.1-2-titulo
 
 
 definicion: >-
-  Proporción de personas que cumplen al menos uno de los tres criterios del riesgo de pobreza  
-  o exclusión social (estar en riesgo de pobreza relativa, en situación de carencia material y social 
-  severa o viviendo en hogares con baja intensidad de trabajo)
+  Pobreziako edo gizarte-bazterketako arriskuaren hiru irizpideetako bat gutxienez betetzen 
+  duten pertsonen proportzioa (pobrezia erlatiboko arriskuan egotea, gabezia material eta 
+  sozial larriko egoeran egotea edo lan-intentsitate txikiko etxekoen unitateetan bizitzea)  
 
 formula: |
 
   $$T_{AROPE}^{t} = \frac{P_{AROPE}^{t}}{P^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $P_{AROPE}^{t} =$ población en riesgo de pobreza o exclusión social el año $t$
+  $P_{AROPE}^{t} =$ pobrezia edo gizarte-bazterkeria izateko arriskuan erlatiboan daudenak $t$ urtean
 
-  $P^{t} =$ población total en el año $t$
+  $P^{t} =$ biztanleria $t$ urtean
 
 desagregacion: |
-  Dimensiones de la pobreza: riesgo de pobreza, carencia material y social severa, 
-  baja intensidad de trabajo
+  Pobreziaren dimentsioak: pobrezia-arriskua, gabezia material eta sozial larria, 
+  lan-intentsitate txikia  
 
-  Sexo
+  Sexua
 
 observaciones: |
-  El indicador mide la proporción de personas que cumplen al menos uno de los siguientes criterios:
+  Adierazleak irizpide hauetako bat gutxienez betetzen duten pertsonen proportzioa neurtzen du:
 
-  <b>Personas en riesgo de pobreza relativa:</b> personas con ingresos por unidad de consumo por
-  debajo del 60% de la mediana (escala OCDE modificada).
+  <b>Pobrezia erlatiborako arriskuan dauden pertsonak:</b> kontsumo-unitate bakoitzeko diru-sarrerak
+  medianaren % 60tik behera dituzten pertsonak (ELGA eskala aldatua).
 
-  El número de unidades de consumo de un hogar se calcula utilizando la escala OCDE modificada, 
-  que asigna un peso de 1 a la primera  persona de 14 o más años, un peso de 0,5 al resto de personas de 
-  14 o más años y un peso de 0,3 a las personas de menos de 14 años.
+  Etxekoen unitate baten kontsumo-unitateen kopurua kalkulatzeko, ELGA eskala aldatua erabiltzen da. 
+  Eskala horrek 1 pisua esleitzen dio 14 urte edo gehiagoko lehen pertsonari, 0,5 pisua 14 urte edo 
+  gehiagoko gainerako pertsonei eta 0,3 pisua 14 urtetik beherako pertsonei.  
 
-  <b>Personas en situación de carencia material y social severa:</b> personas que padecen al menos 
-  siete de la siguiente lista de trece limitaciones (siete definidas a nivel de hogar y seis a nivel de persona):
+  <b>Gabezia material eta sozial larria duten pertsonak:</b> hamahiru mugako zerrenda honetako 
+  zazpi gutxienez pairatzen dituzten pertsonak (zazpi etxekoen unitateari dagokionez eta sei pertsonari dagokionez):
 
-  A nivel de hogar:
-   1. No puede permitirse ir de vacaciones al menos una semana al año.
-   2. No puede permitirse una comida de carne, pollo o pescado al menos cada dos días.
-   3. No puede permitirse mantener la vivienda con una temperatura adecuada.
-   4. No tiene capacidad para afrontar gastos imprevistos.
-   5. Ha tenido retrasos en el pago de gastos relacionados con la vivienda principal 
-  (hipoteca o alquiler, recibos de gas, comunidad, etc) o en
-  compras a plazos en los últimos 12 meses.
-   6. No puede permitirse disponer de un automóvil.
-   7. No puede sustituir muebles estropeados o viejos.
+  Etxekoen unitateari dagokionez:
+   1. Ezin da urtean gutxienez astebetez oporretara joan.
+   2. Ezin da haragi-, oilasko- edo arrain-bazkaririk egin bi egunetik behin, gutxienez.
+   3. Ezin da etxebizitza tenperatura egokian mantendu.
+   4. Ez du ustekabeko gastuei aurre egiteko gaitasunik.
+   5. Atzerapenak izan ditu etxebizitza nagusiarekin lotutako gastuen ordainketan 
+  (hipoteka edo alokairua, gas-ordainagiriak, komunitatea, etab.) edo epeka egindako 
+  erosketetan azken 12 hilabeteetan.
+   6. Ezin da automobilik eduki.
+   7. Ezin ditu ordezkatu hondatutako altzariak edo zaharrak.
 
-  A nivel de persona:
-   8. No puede permitirse sustituir ropa estropeada por otra nueva.
-   9. No puede permitirse tener dos pares de zapatos en buenas condiciones.
-   10. No puede permitirse reunirse con amigos/familia para comer o tomar algo al menos una vez al mes.
-   11. No puede permitirse participar regularmente en actividades de ocio.
-   12. No puede permitirse gastar una pequeña cantidad de dinero en sí mismo.
-   13. No puede permitirse conexión a internet.
+  Pertsona-mailan:
+   8. Ezin da hondatutako arroparen ordez arropa berria jarri.
+   9. Ezin dira bi zapata pare baldintza onetan eduki.
+   10. Ezin da lagunekin/familiarekin elkartu hilean behin gutxienez jateko edo zerbait hartzeko.
+   11. Ezin da aldizka aisialdiko jardueretan parte hartu.
+   12. Ezin da diru kopuru txiki bat gastatu.
+   13. Ezin da Interneteko konexiorik egin.
 
-  En el caso de menores de 16 años no se dispone de los seis conceptos enumerados anteriormente a 
-  nivel de persona. Para estos menores los valores de esos elementos se imputan a partir de los valores
-  recogidos para los miembros de su hogar con 16 o más años.
+  16 urtetik beherakoen kasuan, ez daude aurrez pertsona-mailan zerrendatutako sei kontzeptuak. 
+  Adingabe horien kasuan, elementu horien balioak 16 urte edo gehiago dituzten etxekoen unitateko 
+  kideentzat jasotako balioetatik abiatuta egozten dira.  
 
-  <b>Baja intensidad en el empleo:</b> son los hogares en los que sus miembros en edad de trabajar 
-  (personas de 18 a 64 años, excluyendo los estudiantes de 18 a 24 años, los jubilados o retirados, 
-  así como las personas inactivas entre 60 y 64 cuya fuente principal de ingresos del hogar sean las pensiones)
-  lo hicieron menos del 20% del total de su potencial de trabajo durante el año de referencia.
-  Esta variable no se aplica en el caso de las personas de 65 y más años.
+  <b>Intentsitate txikia enpleguan:</b> lan egiteko adinean dauden kideek (18-64 urteko pertsonak, 
+  18 eta 24 urte bitarteko ikasleak, erretiratuak eta 60-64 urte bitarteko pertsona ez-aktiboak izan 
+  ezik, horien etxeko diru-sarreren iturri nagusia pentsioak badira) beren lan-potentzial osoaren % 20 
+  baino gutxiago lan egin zuten erreferentziako urtean. Aldagai hori ez da aplikatzen 65 urte edo 
+  gehiagoko pertsonen kasuan.
 
 texto_oceca: FUENTE.oceca
 
@@ -80,49 +80,45 @@ periodicidad: FUENTE.FREQ_A2
 
 justificacion_global: |
 
-  Tradicionalmente se ha definido la pobreza como la falta de dinero. 
-  Sin embargo, la pobreza hay que entenderla de manera mucho más amplia.
-  Una persona pobre puede sufrir múltiples desventajas al mismo tiempo; por ejemplo, puede 
-  tener mala salud o desnutrición, falta de agua potable o electricidad, mala calidad del 
-  trabajo o poca escolaridad. Centrarse en un solo factor, como el ingreso, no es 
-  suficiente para captar la verdadera realidad de la pobreza.
+  Tradizionalki, pobrezia diru falta bezala definitu izan da. Hala ere, pobrezia 
+  askoz ere modu zabalagoan ulertu behar da. Pertsona pobre batek desabantaila ugari 
+  izan ditzake aldi berean; adibidez, osasun edo desnutrizio txarra, edateko ur edo 
+  elektrizitate falta, lanaren kalitate txarra edo eskolatze txikia izan ditzake. Faktore 
+  bakar batean zentratzea, hala nola diru-sarreran, ez da nahikoa pobreziaren benetako 
+  errealitatea atzemateko.
 
+  Europar Batasunean, pobrezia- edo gizarte-bazterketako arriskuan dagoen biztanleria, 
+  AROPE gisa laburtua, pobrezia-arriskuan (diru-sarreren pobrezia) dauden, materialki 
+  eta sozialki egoera larrian dauden edo lan-intentsitate oso baxuko etxekoen unitatean 
+  bizi diren pertsonen baturari dagokio. Pertsonak behin bakarrik sartzen dira, baita 
+  lehen aipatutako egoera batean baino gehiagotan badaude ere. AROPE tasa pobreziako edo 
+  gizarte-bazterketako arriskuan dagoen biztanleria osoaren proportzioa da.  
 
-  En la Unión Europea, la población en riesgo de pobreza o exclusión social, 
-  abreviado como AROPE, 
-  corresponde a la suma de personas que están en riesgo de pobreza (pobreza de ingresos), 
-  gravemente desfavorecidas material y socialmente, o que viven en un hogar con una 
-  intensidad laboral muy baja. 
-  Las personas se incluyen sólo una vez incluso si se encuentran en más de una de las 
-  situaciones mencionadas anteriormente. La tasa AROPE es la proporción de la población total 
-  que está en riesgo de pobreza o exclusión social.
+  AROPE tasa adierazle nagusia da EBren 2030erako pobreziaren eta gizarte-bazterketaren 
+  helburuaren jarraipena egiteko, eta adierazle nagusia izan zen EB 2020 Estrategiaren 
+  pobrezia-helburuaren jarraipena egiteko.
+  
+  <a href="https://ec.europa.eu/social/main.jsp?catId=1606&langId=es">Gizarte Eskubideen Europako 
+  Zutabea</a>k hiru helburu proposatzen ditu EB mailan, hemendik 
+  2030era lortu beharrekoak enpleguaren, gaitasunen eta gizarte-babesaren eremuetan. 
+  Pobrezia eta gizarte-bazterketa da helburuetako bat. Pobreziako edo gizarte-bazterketako 
+  arriskuan dauden pertsonen kopurua gutxienez 15 milioi murriztu beharko litzateke hemendik 
+  2030era, eta horietatik gutxienez 5 milioi haurrak izan beharko lirateke.
 
-  La tasa AROPE es el principal indicador para hacer el seguimiento del
-  objetivo de pobreza y exclusión social de la UE para 2030 y fue el indicador principal 
-  para hacer el seguimiento del objetivo de pobreza de la Estrategia UE 2020.
-
-  El <a href="https://ec.europa.eu/social/main.jsp?catId=1606&langId=es">Pilar 
-  Europeo de Derechos Sociales</a> propone tres objetivos a nivel 
-  de la UE que deben alcanzarse de aquí a 2030 en los ámbitos del empleo, 
-  las capacidades y la protección social. La pobreza y la exclusión social 
-  es uno de los objetivos. El número de personas en riesgo de pobreza o exclusión
-  social debería reducirse en al menos 15 millones de aquí a 2030, y de ellas, 
-  al menos 5 millones deberían ser niños.
-
-  Fuente: División de Estadísticas de las Naciones Unidas, Eurostat
+  Iturria: Nazio Batuen Estatistika Dibisioa, Eurostat
 
 indicador_meta_enlace: |
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-02.pdf">Metadatos 1-2-2.pdf (solo en inglés)</a>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-02.pdf">Metadatuak 1-2-2.pdf (ingelesez bakarrik)</a>
 
-  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_10_esmsip2.htm">Metadatos Eurostat (sdg_01_10)</a> (solo en inglés)
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_10_esmsip2.htm">Eurostat Metadatuak (sdg_01_10)</a> (ingelesez bakarrik)
 
 
 dato_global: >-
   <a href="https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en">
-  Personas en riesgo de pobreza o exclusión social por edad y sexo (ilc_peps01n)</a> Eurostat
+  Pobreziako edo gizarte-bazterketako arriskuan dauden pertsonak, adinaren eta sexuaren arabera (ilc_peps01n)</a> Eurostat
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos de Naciones Unidas.
+  Eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 
 informacion_interes: 
 

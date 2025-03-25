@@ -1,0 +1,45 @@
+
+# Metadatos nacionales (ficha metodológica)
+
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.2-titulo
+# meta_global: meta_largo.2-2-titulo
+# indicador_onu_global: indicador_largo.2-2-3-titulo
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+
+justificacion_global: |
+  Anemiaren prebalentzia oso handia da mundu osoan, eta ugalketa-adinean dauden haurrei 
+  eta emakumeei neurriz kanpo eragiten die. Garapen kognitibo eta motorrari eta lanerako 
+  gaitasunari negatiboki eragiten die, eta haurdun dauden emakumeen artean, burdina-eskasiak 
+  eragindako anemia ugalketa-emaitza kaltegarriekin lotzen da, erditze goiztiarrak, 
+  jaiotzean pisu txikia duten haurtxoak eta haurtxoaren burdina-erreserben murrizketa barne, 
+  eta horrek garapen txikia ekar dezake.
+
+  Burdinaren urritasuna da anemiaren kausa ohikoena, baina badira beste arrazoi nutrizional
+  eta ez-nutrizional batzuk ere. Odoleko hemoglobina-kontzentrazioei faktore askok eragiten 
+  diete, hala nola altitudeak (itsas mailatik metro batzuetara), tabakismoak, haurdunaldiaren 
+  hiruhilekoak, adinak eta sexuak.
+
+  Anemia odoleko hemoglobina neurtuz ebalua daiteke, eta burdinaren egoeraren beste adierazle 
+  batzuekin batera erabiltzen denean, odoleko hemoglobinak burdin eskasiaren larritasunari 
+  buruzko informazioa ematen du. Biztanleriaren anemiaren prebalentzia arazoak osasun publikoan 
+  duen garrantzia sailkatzeko erabiltzen da.
+
+  Iturria: Nazio Batuen Estatistika Dibisioa 
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.2.3&seriesCode=SH_STA_ANEM&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15-49%20%7C%20FEMALE">Anemia duten 15-49 urteko emakumeen proportzioa (%) SH_STA_ANEM</a> UNSTATS
+
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-03.pdf">Metadatuak 2-2-3.pdf (ingelesez bakarrik)</a>
+
+
+

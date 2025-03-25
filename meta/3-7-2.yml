@@ -14,13 +14,13 @@ definicion: >-
 
 formula: |
 
-  $$TF_{grupo\, de\, edad}^{t} = \frac{N_{grupo\, de\, edad}^{t}}{P_{mujeres,grupo\, de\, edad}^{t}} \cdot 1.000$$
+  $$TF_{grupo\, de\, edad}^{t} = \frac{N_{grupo\, de\, edad}^{t}}{P_{mujeres\, grupo\, de\, edad}^{t}} \cdot 1.000$$
 
   donde:
 
   $N_{grupo\, de\, edad}^{t} =$ nacimientos de madres en un grupo de edad en el año $t$
 
-  $P_{mujeres,grupo\, de\, edad}^{t} =$ mujeres en el grupo de edad correspondiente a 1 de julio del año $t$
+  $P_{mujeres\, grupo\, de\, edad}^{t} =$ mujeres en el grupo de edad correspondiente a 1 de julio del año $t$
 
 desagregacion: >- 
   Grupo de edad: 10-14 años y 15-19 años

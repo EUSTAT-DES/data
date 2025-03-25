@@ -1,0 +1,109 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.2-4-1-titulo
+
+objetivo_global: objetivo_largo.2-titulo
+meta_global: meta_largo.2-4-titulo
+#  indicador_onu_global: indicador_largo.2-4-1-titulo
+
+
+definicion: |
+
+  Maila desiragarria edo onargarria lortu den nekazaritza-azaleraren proportzioa:
+   - hektareako ekoizpena
+   - diru-sarrera garbiak
+
+
+formula: |
+
+  <b>Hektareako ekoizpen-maila nahigarria edo onargarria lortu den nekazaritza-azaleraren proportzioa</b>
+
+  $$PSANR_{\text{nahigarria edo onargarria}}^{t} = \frac{SANR_{\text{nahigarria}}^{t} + SANR_{\text{onargarria}}^{t}}{SANR_{\text{nahigarria}}^{t} + SANR_{\text{onargarria}}^{t} + SANR_{\text{eutsiezin}}^{t}}$$
+
+  non:
+
+  $SANR_{\text{nahigarria}}^{t}$ = nekazaritza-azalera, hektareako ekoizpena lurralde bereko ustiategietako 
+  hektareako produkzioaren 2/3 baino handiagoa edo handiagoa eta orientazio tekniko-ekonomikoa (nekazaritza, 
+  abeltzaintza edo mistoa) duten ustiategiei dagokiena $t$ urtean
+
+  $SANR_{\text{onargarria}}^{t}$ = hektareako ekoizpena 2/3 baino txikiagoa baina bere lurralde bereko 
+  ustiategietako hektareako ekoizpenaren 1/3 edo handiagoa eta orientazio tekniko-ekonomikoa (nekazaritza, 
+  abeltzaintza edo mistoa) duten ustiategiei dagokien nekazaritza-azalera $t$ urtean
+
+  $SANR_{\text{eutsiezin}}^{t}$ = nekazaritza-azalera, hektareako ekoizpena lurralde bereko ustiategietako 
+  hektareako ekoizpeneko 90garren pertzentilaren 1/3 baino txikiagoa eta orientazio tekniko-ekonomikoa (nekazaritza, 
+  abeltzaintza edo mistoa) duten ustiategiei dagokiena $t$ urtean
+
+  <br>
+
+  <b>Diru-sarrera garbien maila desiragarria edo onargarria lortu den nekazaritza-azaleraren proportzioa</b>
+
+  $$PSANR_{\text{nahigarria edo onargarria}}^{t} = 
+    \frac{SANR_{\text{nahigarria}}^{t} + SANR_{\text{onargarria}}^{t}}
+    {SANR_{\text{nahigarria}}^{t} + SANR_{\text{onargarria}}^{t} + SANR_{\text{eutsiezin}}^{t}}$$
+
+
+  non:
+
+  $SANR_{\text{nahigarria}}^t$: Diru-sarrera garbiak positiboak izan dituzten ustiategiei dagokien nekazaritza-azalera $t$, $t-1$ eta $t-2$ urteetan
+    
+  $SANR_{\text{onargarria}}^t$: Diru-sarrera garbiak positiboak izan dituzten ustiategiei dagokien nekazaritza-azalera $t$, $t-1$ eta $t-2$ urteetako batean gutxienez, baina ez guztietan
+    
+  $SANR_{\text{eutsiezin}}^t$: Diru-sarrera garbiak positiboak izan ez diren ustiategietako nekazaritza-azalera ez $t$, ez $t-1$ eta ez $t-2$ urtean
+
+desagregacion: 
+
+observaciones: >-
+
+  "Hektareako ekoizpen-maila desiragarria edo onargarria lortu duen nekazaritza-azaleraren proportzioa" 
+  seriea interpretatzeko orduan, kontuan hartu behar da adierazle erlatiboa dela; izan ere, ustiategi 
+  baten produktibitate-maila ez dago soilik hektareako duen ekoizpenaren mende, baita lurralde bereko 
+  ustiategien hektareako ekoizpena eta orientazio tekniko-ekonomikoa ere (nekazaritza, abeltzaintza edo mistoa).
+
+  "Diru-sarrera garbien maila desiragarria edo onargarria lortu den nekazaritza-azaleraren proportzioa" 
+  seriea interpretatzeko orduan, kontuan hartu behar da adierazle absolutua dela, ustiategi baten 
+  errentagarritasun-maila azken hiru urteetan izan dituen diru-sarrera garbien mende baitago soilik.  
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |  
+
+  Nekazaritza jasangarria definitzeko ikuspegiak aldatu egiten dira iraunkortasunaren hiru dimentsio 
+  nagusien estaldurari dagokionez, hau da, ekonomikoa, ingurumenekoa eta soziala, eta iraunkortasuna 
+  ebaluatzeko erabiltzen den eskalari dagokionez, hau da, landa-eskalatik eta baserri-eskalatik eskala 
+  nazional eta globaleraino. Ikuspegi batzuek iraunkortasunaren ezaugarri desberdinak hartzen dituzte 
+  kontuan; adibidez, egungo praktikak ekonomikoki bideragarriak diren, ingurumena errespetatzen duten 
+  eta sozialki desiragarriak diren. Beste ikuspegi batzuk praktika berezietan oinarritzen dira, hala 
+  nola nekazaritza organikoa, birsortzailea edo intsumo txikikoa, eta nekazaritza jasangarriarekin 
+  pareka ditzakete.
+
+  GJHen 2.4.1 adierazlea iraunkortasunaren hiru dimentsioak estaltzen dituzten azpiadierazleetan oinarritzen da:
+   - Nekazaritza-ekoizpenaren balioa hektareako
+   - Nekazaritzako diru-sarrera garbiak
+   - Arriskuak arintzeko mekanismoak
+   - Lurzoruaren degradazioaren prebalentzia
+   - Ur-erabilgarritasunaren aldaketa
+   - Ongarrien kudeaketa
+   - Pestiziden kudeaketa
+   - Agrobioaniztasuna babesten duten praktikak erabiltzea
+   - Soldatak nekazaritzan
+   - Elikagaien segurtasun-ezaren esperientzia-eskala
+   - Lurrerako jabetza-eskubideak bermatzea
+
+dato_global: | 
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.4.1&seriesCode=AG_LND_SUST_PRXCSS&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Nekazaritza produktibo eta jasangarri bateranzko aurrerapena, egungo egoeraren puntajea AG_LND_SUST_PRXCSS</a> UNSTATS
+
+comparabilidad: >-
+  Eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen adierazlearen metadatuak.
+
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-04-01.pdf">Metadatuak 2-4-1 (1).pdf</a> (ingelesez bakarrik)
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-04-01proxy.pdf">Metadatuak 2-4-1 (2).pdf</a> (ingelesez bakarrik)
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'
