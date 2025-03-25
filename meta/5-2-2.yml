@@ -41,6 +41,8 @@ justificacion_global: |
   Disponer de datos sobre este indicador ayudará a comprender el alcance y la naturaleza 
   de esta forma de violencia y a elaborar políticas y programas adecuados.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
+
 
 dato_global: >-
 
@@ -49,9 +51,9 @@ comparabilidad: >-
   El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta
   información complementaria.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-02-02.pdf">Metadata 5-2-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-02-02.pdf">Metadatos 5-2-2.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

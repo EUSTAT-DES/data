@@ -1,0 +1,50 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.4-1-E1-titulo
+
+objetivo_global: objetivo_largo.4-titulo
+meta_global: meta_largo.4-1-titulo
+#  indicador_onu_global: 
+
+
+definicion: >-
+  Porcentaje de población que ha completado como máximo la primera etapa de la educación 
+  secundaria y no sigue ningún estudio o formación
+
+formula: |
+
+  $$PP_{abandono}^{t}  = \frac{P_{abandono,18-24}^{t}}{P_{18-24}^{t}}$$
+
+  donde:
+
+  $P_{abandono,18-24}^{t} =$ población de 18 a 24 años que ha completado como máximo la primera etapa de la educación secundaria y no ha seguido ningún estudio o formación en el año $t$
+
+  $P_{18-24}^{t} =$ población de 18 a 24 años en el año $t$
+
+
+desagregacion: >-
+
+  Sexo
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: 
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global:
+
+dato_global:
+
+comparabilidad: 
+
+indicador_meta_enlace:
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

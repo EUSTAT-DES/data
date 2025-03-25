@@ -67,7 +67,10 @@ justificacion_global: |
   competencia en (i) lectura y (ii) matemáticas. La combinación de la tasa de finalización con el 
   indicador 4.1.1 proporciona información sobre el porcentaje de niños o jóvenes de una cohorte que alcanzan 
   un nivel mínimo de competencia, y no solo sobre el porcentaje de niños en la escuela que alcanzan la
-   competencia mínima
+   competencia mínima.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
 
 dato_global: >-
 
@@ -77,7 +80,7 @@ dato_global: >-
 comparabilidad: >- 
   El indicador disponible cumple con los metadatos de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-01-02.pdf">Metadata 4-1-2.pdf </a>(solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-01-02.pdf">Metadatos 4-1-2.pdf </a>(solo en inglés)'
 
 informacion_interes: 
 
