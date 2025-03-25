@@ -1,0 +1,47 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.3-titulo
+# meta_global: meta_largo.3-9-titulo
+#  indicador_onu_global: indicador_largo.3-9-2-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  The indicator expresses the number of deaths from inadequate water, sanitation and 
+  hygiene (with focus on WASH services) which could be prevented by improving those 
+  services and practices. 
+
+  It is based on both the WASH service provision in the country, as well as the related 
+  health outcomes, and therefore provides important information on the actual disease 
+  caused by the risks measured in targets 6.1 and 6.2.
+
+  Source: United Nations Statistics Division
+
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-02.pdf">Metadata 3-9-2.pdf</a>
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.9.2&seriesCode=SH_STA_WASHARI&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene from diarrhoea, intestinal nematode infections, malnutrition and acute respiratory infections (deaths per 100,000 population) SH_STA_WASHARI</a> UNSTATS
+
+informacion_interes: 
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

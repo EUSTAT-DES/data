@@ -1,0 +1,107 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: global_indicators.1-a-2-title
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-a-titulo
+#  indicador_onu_global: indicador_largo.1-a-2-titulo
+
+definicion: |
+  
+  Proportion of public administration spending in the Basque Country dedicated 
+  to essential services: education, health, and social protection (functional groups 09, 
+  07, and 10 of the Classification of Government Functions (COFOG), used internationally to 
+  classify the purposes of government activities)
+
+formula: |
+
+  $$PE_{t} = \frac{TE_{t} + TH_{t} + TS_{t}}{TG_{t}} \cdot 100$$
+
+  donde:
+
+  $PE_{t}$ = Government expenditure on essential services (education, health, and social protection) as a percentage of total government expenditure in the fiscal year $t$
+
+  $TE_{t}$ = total government expenditure on education in the fiscal year $t$
+
+  $TH_{t}$ = total government expenditure on health in the fiscal year $t$
+
+  $TS_{t}$ = total government expenditure on social protection in the fiscal year $t$
+
+  $TG_{t}$ = total government expenditure in the fiscal year $t$
+
+desagregacion: |
+  Essential services: education, health, social protection  
+
+observaciones: |
+
+  The indicator is calculated for the general government, which includes 
+  different governmental units: central government, regional government, regional governments, 
+  and local governments.
+
+  The Classification of Functions of Government (COFOG), developed by the Organization for Economic Cooperation and Development (OECD) and published by the United Nations Statistics Division, structures public expenditure into 10 functional groups:
+
+   - 01 General public services
+   - 02 Defence
+   - 03 Public order and safety
+   - 04 Economic affairs
+   - 05 Environmental protection
+   - 06 Housing and community services
+   - 07 Health
+   - 08 Leisure, culture and religion
+   - 09 Education
+   - 10 Social Protection
+
+
+periodicidad: FUENTE.FREQ_A
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  The indicator is used to assess government's expenditure on essential services 
+  (education, health and social protection) relative to the amount of total government 
+  spending. Since it comes from an international framework, the GFSM 2014, it provides 
+  analysts with a cross-country comparable dataset and ensures establishing robust 
+  analytical findings to support SDG monitoring using fiscal data.
+
+  A high proportion of government expenditure on essential services (education, health and social
+  protection) demonstrates a high government priority for these functions of spending.
+
+  For reporting this indicator, general government is considered the most appropriate 
+  level of institutional coverage as it will encompass relevant government units, 
+  including local governments, since in many countries descentralization of these 
+  categories of expense are to be considered. A country may have one central 
+  government; several state, provincial, or regional governments; and many local 
+  governments, and the GFSM 2014 recommends that statistics should be compiled for all 
+  such general government units.
+
+  Source: United Nations Statistics Division
+
+
+comparabilidad: >-
+  The indicator available in the Basque Country uses the COFOG classification, which does not 
+  comply with the metadata of the United Nations indicator but provides similar information. 
+  The global indicator uses the Manual of Government Finance Statistics (GFSM), where the concept 
+  of expenditure is applied slightly differently.
+
+dato_global: |
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_ESSRV&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Proportion of total public expenditure on essential services (%) SG_XPD_ESSRV</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_PROT&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Proportion of total public expenditure on essential services, social protection (%) SG_XPD_PROT</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_EDUC&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Proportion of total public expenditure on essential services, education (%) SG_XPD_EDUC</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_HLTH&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Proportion of total public expenditure on essential services, health (%) SG_XPD_HLTH</a> UNSTATS
+
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02a.pdf">Metadata 1-a-2 (1).pdf</a>
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02b.pdf">Metadata 1-a-2 (2).pdf</a>
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

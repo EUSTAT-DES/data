@@ -1,0 +1,62 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.3-4-2-title
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-4-titulo
+#  indicador_onu_global: indicador_largo.3-4-2-titulo
+
+
+definicion: >-
+  Deaths attributed to suicide per 100.000 inhabitants.
+
+formula: |
+
+  $$TM_{suicide }^{t} = \frac{D_{suicide }^{t}}{P^{t}} \cdot 100.000$$
+
+  where:
+
+  $D_{suicide }^{t} =$ deaths attributed to suicide (codes X60-X84 of theCIE-10) in year $t$
+
+  $P^{t} =$ population as of 1 July of year $t$
+
+desagregacion: |
+  Sex 
+
+  Province
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: >-
+
+  Mental disorders occur in all regions and cultures of the world. The most prevalent 
+  of these disorders are depression and anxiety, which are estimated to affect nearly 
+  1 in 10 people. At its worst, depression can lead to suicide. In 2019, it is estimated 
+  that there were more than 700,000 deaths by suicide worldwide.
+
+  Suicide mortality rate is defined as the number of suicide deaths in a year, divided 
+  by the population, and multiplied by 100,000. Suicides are defined in terms of the 
+  International Classification of Diseases, Tenth Revision (ICD-10).
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.4.2&seriesCode=SH_STA_SCIDE&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">Suicide mortality rate, by sex (deaths per 100,000 population) SH_STA_SCIDE</a> UNSTATS
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-04-02.pdf">Metadata 3-4-2.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

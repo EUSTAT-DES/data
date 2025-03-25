@@ -1,0 +1,59 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.3-9-3-title
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-9-titulo
+#  indicador_onu_global: indicador_largo.3-9-3-titulo
+
+
+definicion: >-
+  Deaths attributed to unintentional poisoning per 100.000 inhabitants
+
+formula: |
+
+  $$TM_{\text{unintentional poisoning}}^{t} = \frac{D_{\text{unintentional poisoning}}^{t}}{P^{t}} \cdot 100.000$$
+
+  donde:
+
+  $D_{\text{unintentional poisoning}}^{t} =$ deaths attributed to unintentional poisoning (codes X40, X43, X44 y X46-X49 of the CIE-10) in year $t$
+
+  $P^{t} =$ population as of 1 July of year $t$
+
+desagregacion: | 
+  Sex
+
+  Province
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: | 
+  The measure of mortality rate from unintentional poisonings provides an indication of the extent 
+  of inadequate management of hazardous chemicals and pollution, and of the effectiveness of a country’s 
+  health system. It includes codes X40, X43, X46-X48, X49 of the International Classification of Diseases, 
+  Tenth Revision (ICD-10).
+
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.9.3&seriesCode=SH_STA_POISN&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX"> Mortality rate attributed to unintentional poisonings, by sex (deaths per 100,000 population) SH_STA_POISN</a> UNSTATS
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-03.pdf">Metadata 3-9-3.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

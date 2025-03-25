@@ -1,0 +1,75 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  Proporción de la población con grandes gastos sanitarios por hogar como porcentaje del total de gasto del hogar
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-8-titulo
+#  indicador_onu_global: indicador_largo.3-8-2-titulo
+
+
+definicion: >-
+  Proportion of people who live in households with large expenditure on health that exceeds 10% or 25% of total household expenditure
+
+
+formula: |
+
+  $$PPGGS_{\gt x\%}^{t} = \frac{PGGS_{\gt x\%}^{t}}{P^{t}} \cdot 100$$
+
+  where:
+
+  $PGGS_{\gt x\%}^{t} =$ population who live in households with large expenditures on health, greater than $x\%$ of total household expenditure, in year,  $t$
+
+  $P^{t} =$ total population in year $t$
+
+desagregacion: >- 
+  Spending threshold: 10% and 25% of total household expenditure
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  The indicator measures the proportion of the population with large household expenditure on health as a 
+  share of total household expenditure or income. Two thresholds are used to define “large household 
+  expenditure on health”: greater than 10% and greater than 25% of total household expenditure or income.
+
+  Target 3.8 is about universal health coverage (UHC) and is defined as “Achieve universal health coverage, 
+  including financial risk protection, access to quality essential health-care services and access to safe, 
+  effective, quality and affordable essential medicines and vaccines for all”. 
+
+  The concern is with all people and communities receiving the quality health services they need (including 
+  medicines and other health products) without financial hardship. Financial hardship is a key consequence 
+  of inadequate financial risk protection mechanisms and can be experienced in any country, regardless of the 
+  income level and type of health system.
+
+  Indicator 3.8.2 is about identifying people with out-of-pocket health spending on health exceeding their 
+  ability to pay, which might lead to cutting spending on other basic needs such as education, food, housing 
+  and utilities.
+
+  Reducing financial hardship in health is important on the global development agenda as well as a priority 
+  of the health sector of many countries across all regions.
+
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.8.2&seriesCode=SH_XPD_EARN25&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income (%) SH_XPD_EARN25</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.8.2&seriesCode=SH_XPD_EARN10&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income (%) SH_XPD_EARN10</a> UNSTATS
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-08-02.pdf">Metadata 3-8-2.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

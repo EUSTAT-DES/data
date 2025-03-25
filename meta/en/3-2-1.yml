@@ -1,0 +1,63 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.3-2-1-title
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-2-titulo
+#  indicador_onu_global: indicador_largo.3-2-1-titulo
+
+
+definicion: >-
+  Deaths of children under 5 years old per 1.000 births
+
+formula: |
+
+  $$TM_{0-4}^{t} = \frac{D_{0-4}^{t}}{N^{t}} \cdot 1.000$$
+
+  where:
+
+  $D_{0-4}^{t} =$ deaths of children under 5 years of age in year $t$
+
+  $N^{t} =$  births in year $t$
+
+desagregacion: |
+  Sex
+
+  Province
+
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  
+  Mortality rates among young children are a key output indicator for child 
+  health and well-being, and, more broadly, for social and economic development. 
+  It is a closely watched public health indicator because it reflects the access 
+  of children and communities to basic health interventions such as vaccination, 
+  medical treatment of infectious diseases and adequate nutrition.
+
+  The under-five mortality rate is the probability of a child born in a specific 
+  year or period dying before reaching the age of 5 years, if subject to age-specific 
+  mortality rates of that period, expressed as deaths per 1000 live births.
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.2.1&seriesCode=SH_DYN_MORT&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=%3C5Y%20%7C%20BOTHSEX">Under-five mortality rate, by sex (deaths per 1,000 live births) SH_DYN_MORT</a> UNSTATS
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-02-01.pdf">Metadata 3-2-1.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

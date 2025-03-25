@@ -1,0 +1,63 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.3-2-2-title
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-2-titulo
+#  indicador_onu_global: indicador_largo.3-2-2-titulo
+
+
+definicion: >-
+  Deaths of infants under 28 days old per 1.000 births
+
+formula: |
+
+  $$TM_{neonatal}^{t} = \frac{D_{neonatal}^{t}}{N^{t}} \cdot 1.000$$
+
+  where:
+
+  $D_{neonatal}^{t} =$ deaths of children under 28 days old in year $t$
+
+  $N^{t} =$  births in year $t$
+
+desagregacion: | 
+  Sex
+
+  Province
+
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  
+  Mortality rates among young children are a key output indicator for child 
+  health and well-being, and, more broadly, for social and economic development. 
+  It is a closely watched public health indicator because it reflects the access 
+  of children and communities to basic health interventions such as vaccination, 
+  medical treatment of infectious diseases and adequate nutrition.
+
+  The neonatal mortality rate is the probability that a child born in a specific 
+  year or period will die during the first 28 completed days of life, if subject 
+  to age-specific mortality rates of that period, expressed per 1000 live births.
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.2.2&seriesCode=SH_DYN_NMRT&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=%3C1M%20%7C%20BOTHSEX">Neonatal mortality rate (deaths per 1,000 live births) SH_DYN_NMRT</a> UNSTATS
+ 
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-02-02.pdf">Metadata 3-2-2.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

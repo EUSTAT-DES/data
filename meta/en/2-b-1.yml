@@ -1,0 +1,28 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.2-titulo
+# meta_global: meta_largo.2-b-titulo
+# indicador_onu_global: indicador_largo.2-b-1-titulo
+
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |  
+  
+  The purpose of this indicator is to give detailed information on 
+  the level of export subsidies applied annually per product or group 
+  of products, as notified by WTO Members.
+
+  Source: United Nations Statistics Division
+
+dato_global: >- 
+
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0b-01.pdf">Metadata 2-b-1.pdf</a>
+
+

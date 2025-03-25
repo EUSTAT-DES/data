@@ -9,8 +9,8 @@ meta_global: meta_largo.1-1-titulo
 
 
 definicion: >- 
-  Proportion of people whose net equivalent income, after social transfers,
-  is below the international poverty line of US$2.15
+  Proportion of people whose net equivalent income, after social transfers, 
+  is below the international poverty line of USD2.15 
   in purchasing power parity (PPP) of 2017.
 
 formula: |
@@ -19,9 +19,9 @@ formula: |
 
   where:
 
-  $P_{IPL}^{t} =$ population with net equivalent income below the international poverty line, in $t$
+  $P_{IPL}^{t} =$ population with net equivalent income below the international poverty line, in year $t$
 
-  $P^{t} =$ total population in $t$
+  $P^{t} =$ total population in year $t$
 
 desagregacion: 
 
@@ -29,13 +29,13 @@ periodicidad: FUENTE.FREQ_A2
 
 observaciones: >- 
 
-  To account for the impact of differences in household size and composition,
-  a household's disposable income is divided by the number of household members converted to adults
+  To account for the impact of differences in household size and composition, 
+  a household's disposable income is divided by the number of household members converted to adult 
   equivalents (units of consumption).
 
-  The number of consumption units in a household
-  is calculated using the modified OECD scale, which assigns a weight of 1 to the
-  first person aged 14 or over, a weight of 0.5 for other people aged 14 or over
+  The number of consumption units in a household 
+  is calculated using the modified OECD scale, which assigns a weight of 1 to the 
+  first person aged 14 or over, a weight of 0.5 for other people aged 14 or over 
   and a weight of 0.3 for people under 14 years of age.
 
 
@@ -44,32 +44,32 @@ observaciones: >-
 
 
 justificacion_global: |
-  Poverty lines vary according to the purchasing power of countries and
-  have a strong economic gradient, so that the richest countries
+  Poverty lines vary according to the purchasing power of countries and 
+  have a strong economic gradient, so that the richest countries 
   tend to adopt higher standards of living to define poverty.
 
-  However, to consistently measure global absolute poverty in
-  terms of consumption, it is necessary to treat two people with the same
-  purchasing power over basic goods in the same way—both are poor or not poor—
+  However, to consistently measure global absolute poverty in 
+  terms of consumption, it is necessary to treat two people with the same 
+  purchasing power over basic goods in the same way —both are poor or not poor— 
   even if they live in different countries.
 
-  Since the 1990 World Development Report, the World Bank has
-  proposed to apply a common standard to measure extreme poverty, based on
-  on what poverty means in the poorest countries of the world. The
-  well-being of people living in different countries can be measured in
-  a common scale adjusting for differences in the purchasing power of the
+  Since the 1990 World Development Report, the World Bank has 
+  proposed to apply a common standard to measure extreme poverty, based on 
+  on what poverty means in the poorest countries of the world. The 
+  well-being of people living in different countries can be measured in 
+  a common scale adjusting for differences in the purchasing power of the 
   currencies.
 
-  The commonly used standard of $1 a day, measured at 1985 prices
-  and adjusted to the local currency using rates
-  of purchasing power parity (PPP), was chosen for the
-  World Development Report of 1990 because it was typical of the
-  poverty lines in low-income countries at the time. Bespoke
-  that differences in the cost of living are evolving worldwide, the
-  International Poverty Line must be updated regularly
-  using new PPP price data to reflect these changes.
-  The last change occurred in September 2022, when the World Bank
-  adopted $2.15 as international poverty line
+  The commonly used standard of USD1 a day, measured at 1985 prices 
+  and adjusted to the local currency using rates 
+  of purchasing power parity (PPP), was chosen for the 
+  World Development Report of 1990 because it was typical of the 
+  poverty lines in low-income countries at the time. Bespoke 
+  that differences in the cost of living are evolving worldwide, the 
+  International Poverty Line must be updated regularly 
+  using new PPP price data to reflect these changes. 
+  The last change occurred in September 2022, when the World Bank 
+  adopted USD2.15 as international poverty line 
   using the 2017 PPP.
 
   Source: United Nations Statistics Division
@@ -80,11 +80,11 @@ indicador_meta_enlace: |
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01b.pdf">Metadata 1-1-1 (2).pdf</a>
 
 comparabilidad: |
-  The available indicator does not comply with the metadata of the United Nations indicator, but provides
+  The available indicator does not comply with the metadata of the United Nations indicator, but provides 
   similar information.
 
 
 dato_global: >- 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.1.1&seriesCode=SI_POV_DAY1&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAGE%20%7C%20ALLAREA%20%7C%20BOTHSEX">Proporción de población por debajo del umbral internacional de pobreza (%) SI_POV_DAY1</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.1.1&seriesCode=SI_POV_DAY1&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAGE%20%7C%20ALLAREA%20%7C%20BOTHSEX">Proportion of population below the international poverty line (%) SI_POV_DAY1</a> UNSTATS
 
 informacion_interes: <a href="https://pip.worldbank.org/home">World Bank Poverty and Inequality Platform </a>

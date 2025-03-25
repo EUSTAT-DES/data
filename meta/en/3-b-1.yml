@@ -1,0 +1,120 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.3-b-1-title
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-b-titulo
+#  indicador_onu_global: indicador_largo.3-b-1-titulo
+
+
+definicion: >-
+  Proportion of the target population covered by all vaccines included in their national programme
+
+formula: |
+
+  $$PPV_{\text{vacuna}}^{t} = \frac{PV_{\text{vaccine}}^{\text{cohort}\, t - c}}{P^{\text{cohort}\, t - c}} \cdot 100$$
+
+  where:
+
+  $PV_{\text{vaccine}}^{\text{cohort}\, t - c}=$ population vaccinated with the specified type of vaccine, 
+  belonging to the cohort born in $t-c$
+
+  $P^{\text{cohort}\, t - c}=$ total population of the cohort born in $t-c$
+
+  ${c}=$ el interval of years that defines the specific cohort for each vaccine (c=1 or cohort born at t-1 for DPTa and VNC, c=5 for SRP and c=13 for VPH)
+
+desagregacion:  |
+  Vaccine type: 
+  - booster vaccination against diphtheria, tetanus, and whooping cough in children (DPTa) 
+  - booster vaccination against pneumococcus in the pediatric population (VNC)  
+  - second dose of the measles, mumps, and rubella vaccine in children (SRP) 
+  - second dose of the human papillomavirus (HPV) vaccine in adolescents 
+
+  Sex
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: |
+
+  The results are obtained using the definitions proposed by the Vaccination Registry and 
+  Program Report and agreed by the Public Health Commission in October 2017. Since then, 
+  vaccination coverage has been calculated by population birth cohorts. 
+  
+  Vaccines purchased in pharmacies or administered by the private health sector are not included.
+
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  
+
+HEMENDIK AURRERA JARRAITU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Este indicador tiene por objeto medir el acceso a las vacunas, incluidas las vacunas recientemente 
+  disponibles o las que se utilizan de forma insuficiente, a nivel nacional.
+
+  En las últimas décadas, todos los países 
+  han añadido numerosas vacunas nuevas y que se utilizan de forma insuficiente a sus calendarios nacionales de 
+  vacunación y hay varias vacunas en la fase final de desarrollo que se introducirán de aquí a 2030. Para supervisar el 
+  control de enfermedades y el impacto de las vacunas, es importante medir la cobertura de cada vacuna del calendario nacional 
+  de vacunación. La medición directa de la proporción de la población cubierta con todas las vacunas del programa solo es posible 
+  si el país cuenta con un registro electrónico nacional de vacunación que funcione bien y permita estimar 
+  fácilmente la cobertura por cohorte.
+
+  Se miden las siguientes vacunas:
+
+   - Cobertura de la vacuna DTP (tercera dosis): porcentaje de lactantes supervivientes que recibieron 
+  las 3 dosis de la vacuna contra la difteria, el tétanos y la tos ferina en un año determinado.
+
+   - Cobertura de la vacuna contra el sarampión (segunda dosis): porcentaje de niños que recibieron dos dosis de la vacuna contra el sarampión según el calendario recomendado a nivel nacional a través de los servicios de vacunación de rutina
+   en un año determinado.
+
+   - Cobertura de la vacuna antineumocócica conjugada (última dosis del calendario): porcentaje de lactantes 
+  supervivientes que recibieron las dosis de vacuna antineumocócica conjugada recomendadas a nivel nacional en un año determinado.
+
+   - Cobertura de la vacuna contra el VPH (última dosis del calendario): porcentaje de niñas de 15 años que recibieron 
+  las dosis recomendadas de la vacuna contra el VPH. Actualmente se utiliza el desempeño del programa en el año 
+  calendario anterior en función del grupo de edad objetivo.
+
+
+dato_global: |
+
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.b.1&seriesCode=SH_ACS_DTP3&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Proporción de la población objetivo que recibió 3 dosis de la vacuna contra la difteria, el tétanos y la tos ferina (DTP3) (%) SH_ACS_DTP3</a> UNSTATS 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.b.1&seriesCode=SH_ACS_MCV2&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Proporción de la población objetivo que recibió la segunda dosis de la vacuna contra el sarampión (MCV2) (%) SH_ACS_MCV2</a> UNSTATS 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.b.1&seriesCode=SH_ACS_PCV3&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Proporción de la población objetivo que recibió una tercera dosis de la vacuna antineumocócica conjugada (PCV3) (%) SH_ACS_PCV3</a> UNSTATS 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.b.1&seriesCode=SH_ACS_HPV&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proporción de la población objetivo que recibió la dosis final de la vacuna contra el virus del papiloma humano (VPH) (%) SH_ACS_HPV</a> UNSTATS 
+
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0b-01.pdf">Metadata 3-b-1.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

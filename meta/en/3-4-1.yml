@@ -1,0 +1,101 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.3-4-1-title
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-4-titulo
+#  indicador_onu_global: indicador_largo.3-4-1-titulo
+
+
+definicion: |
+
+  This indicator is composed of two time series:
+
+   <b>-Premature mortality rate (between ages 30 and 70) attributed to non-communicable diseases: 
+   probability of dying between ages 30 and 70 from cardiovascular disease, cancer, diabetes, or 
+   chronic respiratory disease.
+
+   <b>-Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory 
+   disease per 100,000 inhabitants </b>: Deaths attributed to cardiovascular disease, cancer, diabetes 
+   or chronic respiratory disease per 100,000 inhabitants.
+
+formula: |
+
+  <b>Premature mortality rate attributed to non-communicable diseases</b>
+
+  $$^{5}M_x = \frac{DENT_{x,x+5}^{t}}{PENT_{x,x+5}^{t}}$$
+
+  where:
+
+  $DENT_{x,x+5}^{t} =$ Deaths attributed to the 4 non-communicable diseases
+  between exact age $x$ and exact age $x+5$ in year $t$
+
+  $P^{t} =$ population between exact age $x$ and exact age $x+5$ in year $t$
+
+
+  <b>Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory 
+   disease per 100,000 inhabitants</b>
+
+
+  $$TM_{ENT}^{t} = \frac{D_{ENT}^{t}}{P^{t}} \cdot 100.000$$
+
+
+  where:
+
+  $D_{ENT}^{t} =$ Deaths attributed to non-communicable diseases in year $t$
+
+  $P^{t} =$ population as of 1 July of year $t$
+
+
+desagregacion: | 
+
+  Non-communicable disease (NCD): cardiovascular diseases, cancer, diabetes, or chronic respiratory disease
+
+  Sex
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: |
+
+  The following International Classification of Diseases codes are used for each of the non-communicable diseases:
+  - cardiovascular diseases (ICD-10 codes I00-I99) 
+  - cancer (ICD-10 codes C00-C97)
+  - diabetes (ICD-10 codes E10-E14)
+  - chronic respiratory disease (ICD-10 codes J30-J98) 
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Morbidity from noncommunicable diseases (NCDs) among adults is increasing rapidly globally due to aging 
+  and epidemiological transitions. Cardiovascular disease, cancer, diabetes, and chronic respiratory 
+  diseases are the four leading causes of the NCD burden. Measuring the risk of dying from these four 
+  leading causes is important for assessing the extent of the premature NCD mortality burden in a population, 
+  assuming they would experience current mortality rates at any age and would not die from any other cause 
+  of death (e.g., injuries or HIV/AIDS).
+
+  The mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory disease 
+  is the probability of dying between ages 30 and 70 from cardiovascular disease, cancer, diabetes, or 
+  chronic respiratory disease, defined as the percentage of 30-year-olds who would die before reaching age 70
+  from cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming they would 
+  experience current mortality rates at any age and would not die from any other cause of death (e.g., 
+  injuries or HIV/AIDS).
+  
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.4.1&seriesCode=SH_DTH_NCOM&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=30-70%20%7C%20BOTHSEX">Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability) SH_DTH_NCOM</a> UNSTATS
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-04-01.pdf">Metadata 3-4-1.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

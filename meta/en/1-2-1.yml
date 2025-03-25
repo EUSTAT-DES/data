@@ -17,9 +17,9 @@ formula: |
 
   where:
 
-  $P_{RPR}^{t} =$ population with income below 60% of median income per unit of consumption (modified OECD scale) in $t$
+  $P_{RPR}^{t} =$ population with income below 60% of median income per unit of consumption (modified OECD scale) in year $t$
 
-  $P^{t} =$ total population in $t$
+  $P^{t} =$ total population in year $t$
 
 desagregacion: >-
   Sex
@@ -27,9 +27,9 @@ desagregacion: >-
 periodicidad: FUENTE.FREQ_A2
 
 observaciones: >-
-  The number of consumption units in a household
-  is calculated using the modified OECD scale, which assigns a weight of 1 to the
-  first person aged 14 or over, a weight of 0.5 for other people aged 14 or over
+  The number of consumption units in a household 
+  is calculated using the modified OECD scale, which assigns a weight of 1 to the 
+  first person aged 14 or over, a weight of 0.5 for other people aged 14 or over 
   and a weight of 0.3 for people under 14 years of age.
 
 texto_oceca: FUENTE.oceca
@@ -42,19 +42,19 @@ justificacion_global: |
   The At-Risk-of-Poverty Rate or monetary poverty is one of the key indicators 
   for monitoring poverty in the European Union.
 
-  This indicator measures neither wealth nor poverty, but low income in comparison with other residents of the territory,
+  This indicator measures neither wealth nor poverty, but low income in comparison with other residents of the territory, 
   which does not necessarily imply a low standard of living.
 
-  The at-risk-of-poverty rate is the proportion of people
-  with an equivalent disposable income (after social transfers) below the
-  at-risk-of-poverty threshold, which is set by convention in the EU in the
-  60% of the median equivalent disposable income after social transfers
+  The at-risk-of-poverty rate is the proportion of people 
+  with an equivalent disposable income (after social transfers) below the 
+  at-risk-of-poverty threshold, which is set by convention in the EU in the 
+  60% of the median equivalent disposable income after social transfers 
   in a territory.
 
-  To account for the impact of differences in household size and composition,
-  a household's disposable income (total income, after taxes and other deductions, which is
-  available to spend or save) is divided by the number of household members converted into adult
-  equivalents (units of consumption). In the EU, an equivalence factor calculated according to
+  To account for the impact of differences in household size and composition, 
+  a household's disposable income (total income, after taxes and other deductions, which is 
+  available to spend or save) is divided by the number of household members converted into adult 
+  equivalents (units of consumption). In the EU, an equivalence factor calculated according to 
   the modified OECD scale proposed in 1994 is applied.
 
   Source: Eurostat
@@ -65,8 +65,8 @@ dato_global: >-
 
 comparabilidad: >-
   
-  The available indicator complies with the metadata of the United Nations indicator. For the calculation
-  of the poverty rate of the Autonomous Community of the Basque Country and sex, the poverty threshold 
+  The available indicator complies with the metadata of the United Nations indicator. For the calculation 
+  of the poverty rate of the Autonomous Community of the Basque Country and sex, the poverty threshold  
   of the Autonomous Community applies.
 
 indicador_meta_enlace: |

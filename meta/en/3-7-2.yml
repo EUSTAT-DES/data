@@ -1,0 +1,69 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.3-7-2-title
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-7-titulo
+#  indicador_onu_global: indicador_largo.3-7-2-titulo
+
+
+definicion: >-
+
+  Births to mothers aged 10-14 years and 15-19 year per 1.000 women in these age groups
+
+formula: |
+
+  $$TF_{age\, group}^{t} = \frac{N_{age\, group}^{t}}{P_{women\, age\, group}^{t}} \cdot 1.000$$
+
+  where:
+
+  $N_{age\, group}^{t} =$ births to mothers in age group in year $t$
+
+  $P_{women\, age\, group}^{t} =$ women in age group as of 1 July in year $t$
+
+desagregacion: >- 
+  Age group: 10-14 years and 15-19 years
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: 
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Reducing adolescent fertility and addressing the multiple factors underlying it are essential 
+  for improving sexual and reproductive health and the social and economic well-being of adolescents. 
+  There is substantial agreement in the literature that women who become pregnant and give birth 
+  very early in their reproductive lives are subject to higher risks of complications or even death 
+  during pregnancy and birth and their children are also more vulnerable. Therefore, preventing births 
+  very early in a woman’s life is an important measure to improve maternal health and reduce infant 
+  mortality.
+
+  Furthermore, women having children at an early age experience reduced opportunities for socioeconomic 
+  advancement, particularly because young mothers are less likely to complete their education and, if they 
+  need to work, may find it especially difficult to combine family and work responsibilities. The 
+  adolescent birth rate also provides indirect evidence on access to pertinent health services since young 
+  people, and in particular unmarried adolescent women, often experience difficulties in access to sexual 
+  and reproductive health services.
+
+
+dato_global: |
+ 
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.7.2&seriesCode=SP_DYN_ADKL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=10-14%20%7C%20FEMALE">Adolescent birth rate (per 1,000 women aged 10-14 years) SP_DYN_ADKL</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.7.2&seriesCode=SP_DYN_ADKL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15-19%20%7C%20FEMALE">Adolescent birth rate (per 1,000 women aged 15-19) SP_DYN_ADKL</a> UNSTATS
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-02.pdf">Metadata 3-7-2.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

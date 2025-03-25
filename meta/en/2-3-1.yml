@@ -1,0 +1,71 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+indicador_disponible: >-
+  GRAFICO.2-3-1-titulo
+
+objetivo_global: objetivo_largo.2-titulo
+meta_global: meta_largo.2-3-titulo
+ # indicador_onu_global: indicador_largo.2-3-1-titulo
+
+
+definicion: |
+  Total production of crops and derivatives, livestock, livestock products, and other production 
+  of agricultural holdings, whether small or large, expressed per Annual Work Unit (AWU).
+
+  An agricultural holding is considered small when it meets both conditions:
+   - It operates an amount of land that falls within the first two quintiles (the bottom 40%) 
+     of the cumulative distribution of land size at the level of the Autonomous Community of 
+     the Basque Country (measured in hectares).
+   - Obtains an annual income from agricultural activities that falls within the first two 
+     quintiles (the bottom 40%) of the cumulative distribution of agricultural income per unit 
+     of production at the level of the Autonomous Community of the Basque Country.
+
+  If an agricultural holding does not meet any of these conditions, it is considered large.
+
+formula: |
+
+  $$PUT^{t} = \frac{SE131^{t}}{SE010^{t}}$$
+
+  where:
+
+  $SE131^{t}$ = Total production of crops and derivatives, livestock, livestock products, 
+  and other production from agricultural holdings (small or large) in the year $t$
+
+  $SE010^{t}$ = Total labor force on agricultural holdings (small or large) in the year $t$, 
+  expressed in Annual Work Units (AWU), where 1 AWU is equivalent to one person working full-time 
+  for one year.
+
+desagregacion: 
+  Province
+
+observaciones: 
+
+periodicidad: FUENTE.FREQ_A
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+
+  The 2030 Sustainable Development Agenda has emphasized the importance of enhancing 
+  productivity of small-scale food producers, as these producers play an important role 
+  in the global production of food. The indicator monitors progress in this area, where 
+  the target is to double productivity by year 2030.
+
+  The enhancement of labour productivity in small-scale production units also has 
+  implications on poverty reduction, as small-scale food producers are often poor, 
+  and are frequently found to be close to subsistence conditions.
+
+  Source: United Nations Statistics Division, Eurostat
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-03-01.pdf">Metadata 2-3-1.pdf</a>'
+
+dato_global:
+
+comparabilidad: >-
+  The available indicator does not comply with United Nations metadata but provides similar information.
+
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

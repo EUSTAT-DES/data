@@ -1,0 +1,81 @@
+ 
+indicador_disponible: >-
+  GRAFICO.2-a-1-titulo
+
+objetivo_global: objetivo_largo.2-titulo
+meta_global: meta_largo.2-a-titulo
+#  indicador_onu_global: global_indicators.2-a-1-title
+
+definicion: |
+
+  Gross Value Added (VAB) of agriculture, livestock and fishing with respect to the GVA 
+  of the total sectors, at current prices.
+
+  Agricultural value added and GDP are based on the European System of Accounts (ESA-2010). 
+  Agriculture refers to the agriculture, forestry, fishing, and hunting sectors (Section A of 
+  the CNAE 2009 or ISIC Rev4).
+
+ 
+formula: |
+
+  $$PVAB_{agriculture}^{t} = \frac{VAB_{agriculture}^{t}}{PIB^{t}} \cdot 100$$
+
+  where:
+
+  $VAB_{agriculture}^{t} =$ gross added value of the agriculture, livestock and fishing sector at current prices in the year $t$
+
+  $PIB^{t} =$ gross domestic product at current prices in the year $t$
+
+
+desagregacion: |
+  Province/County/Municipality
+
+observaciones: 
+  The data published in the Municipal GDP are compiled using estimates based on the methodology 
+  established in the European System of Accounts (ESA-2010).
+
+periodicidad: FUENTE.FREQ_A
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  
+  An Agriculture Orientation Index (AOI) greater than 1 reflects a higher orientation towards the agriculture 
+  sector, which receives a higher share of government spending relative to its contribution to economic 
+  value-added.
+
+  An AOI less than 1 reflects a lower orientation to agriculture, while an AOI equal to 1 
+  reflects neutrality in a government’s orientation to the agriculture sector. 
+
+  Government spending in agriculture includes spending on sector policies and programs; soil improvement 
+  and soil degradation control; irrigation and reservoirs for agricultural use; animal health management, 
+  livestock research and training in animal husbandry; marine/freshwater biological research; afforestation 
+  and other forestry projects; etc.
+
+  Spending in these agricultural activities helps to increase sector efficiency, productivity and income 
+  growth by increasing physical or human capital and/or reducing inter-temporal budget constraints. 
+
+  However, the private sector typically under-invests in these activities due to the presence of market 
+  failure (e.g. the public good nature of research and development; the positive externalities from 
+  improved soil and water conditions; lack of access to competitive credit due to asymmetric information 
+  between producers and financial institutions, etc.). 
+
+  Similarly, the high risk faced by agricultural producers, particular smallholders unable to hedge 
+  against risk, often requires government intervention in terms of income redistribution to support 
+  smallholders in distress following crop failures and livestock loss from pests, droughts, floods, 
+  infrastructure failure, or severe price changes.
+
+  Source: United Nations Statistics Division
+
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.a.1&seriesCode=AG_PRD_AGVAS&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Agricultural value added as a percentage of GDP (%) AG_PRD_AGVAS</a> UNSTATS
+
+comparabilidad: >-
+  The available indicator is one of the series of the United Nations indicator, but it is not the main indicator.
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0A-01.pdf">Metadata 2-a-1.pdf</a>
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

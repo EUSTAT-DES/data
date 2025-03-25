@@ -11,8 +11,8 @@ meta_global: meta_largo.1-2-titulo
 
 definicion: >-
   
-  Proportion of people who meet at least one of the three criteria for risk of poverty
-  or social exclusion (being at risk of relative poverty, in a situation of material and social deprivation
+  Proportion of people who meet at least one of the three criteria for risk of poverty 
+  or social exclusion (being at risk of relative poverty, in a situation of material and social deprivation 
   or living in a household with low work intensity)
 
 formula: |
@@ -21,12 +21,12 @@ formula: |
 
   where:
 
-  $P_{AROPE}^{t} =$ population at risk of poverty or social exclusion in $t$
+  $P_{AROPE}^{t} =$ population at risk of poverty or social exclusion in year $t$
 
-  $P^{t} =$ total population in $t$
+  $P^{t} =$ total population in year $t$
 
 desagregacion: |
-  Dimensions of poverty: risk of poverty, severe material and social deprivation,
+  Dimensions of poverty: risk of poverty, severe material and social deprivation, 
   low work intensity
 
   Sex
@@ -37,12 +37,12 @@ observaciones: |
   <b>People at risk of relative poverty:</b> people with income per unit of consumption
   below 60% of the median (modified OECD scale).
 
-  The number of consumption units in a household
-  is calculated using the modified OECD scale, which assigns a weight of 1 to the
-  first person aged 14 or over, a weight of 0.5 for other people aged 14 or over
+  The number of consumption units in a household 
+  is calculated using the modified OECD scale, which assigns a weight of 1 to the 
+  first person aged 14 or over, a weight of 0.5 for other people aged 14 or over 
   and a weight of 0.3 for people under 14 years of age
 
-  <b>People in a situation of severe material and social deprivation:</b> people who suffer from at least
+  <b>People in a situation of severe material and social deprivation:</b> people who suffer from at least 
   seven from the following list of thirteen limitations (seven defined at the household level and six at the individual level):
 
    At the household level:
@@ -50,7 +50,7 @@ observaciones: |
    2. You cannot afford a meal of meat, chicken or fish at least every other day.
    3. You cannot afford to keep the home at an adequate temperature.
    4. You do not have the capacity to face unforeseen expenses.
-   5. You have had delays in the payment of expenses related to the main home (mortgage or rent, gas bills, community...)
+   5. You have had delays in the payment of expenses related to the main home (mortgage or rent, gas bills, community...) 
    or in installment purchases in the last 12 months.
    6. You can't afford a car.
    7. You cannot replace damaged or old furniture.
@@ -79,23 +79,23 @@ periodicidad: FUENTE.FREQ_A2
 
 justificacion_global: |
 
-  Traditionally, poverty has been defined as a lack of money.
-  However, poverty must be understood much more broadly.
-  A poor person can suffer multiple disadvantages at the same time; For example, you can
-  suffer from poor health or malnutrition, lack of drinking water or electricity, poor quality of
-  work or little schooling. Focusing on a single factor, such as income, is not
+  Traditionally, poverty has been defined as a lack of money. 
+  However, poverty must be understood much more broadly. 
+  A poor person can suffer multiple disadvantages at the same time; For example, you can 
+  suffer from poor health or malnutrition, lack of drinking water or electricity, poor quality of 
+  work or little schooling. Focusing on a single factor, such as income, is not 
   enough to capture the true reality of poverty.
 
-  In the European Union, the population at risk of poverty or social exclusion,
-  abbreviated as AROPE, corresponds to the sum of people who are at risk of poverty (income poverty),
-  severely disadvantaged materially and socially, or living in a household with a
+  In the European Union, the population at risk of poverty or social exclusion, 
+  abbreviated as AROPE, corresponds to the sum of people who are at risk of poverty (income poverty), 
+  severely disadvantaged materially and socially, or living in a household with a 
   very low work intensity.
-  People are included only once, even if they are in more than one of the
-  situations mentioned above. The AROPE rate is the proportion of the total population
+  People are included only once, even if they are in more than one of the 
+  situations mentioned above. The AROPE rate is the proportion of the total population 
   who are at risk of poverty or social exclusion.
 
-  The AROPE rate is the main indicator for monitoring the
-  EU poverty and social exclusion target for 2030 and was the leading indicator
+  The AROPE rate is the main indicator for monitoring the 
+  EU poverty and social exclusion target for 2030 and was the leading indicator 
   to monitor the poverty target of the EU 2020 strategy.
   
 
