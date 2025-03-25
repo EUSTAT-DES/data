@@ -1,0 +1,90 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.1-5-4-titulo
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-5-titulo
+#  indicador_onu_global: indicador_largo.1-5-4-titulo
+
+
+definicion: >-
+  Larrialdietako lurralde-planen eta larrialdietako udal-planen bidez hondamendi-arriskua 
+  murrizteko tokiko estrategiak hartzen eta ezartzen dituzten tokiko gobernuen ehunekoa   
+
+formula: |
+  <b>Larrialdietarako udal-plan bat duten udalerrien ehunekoa</b>
+
+  $$PMUN_{RRD\, udalerri}^{t} = \frac{MUN_{RRD\, udalerri}^{t}}{MUN^{t}} \cdot 100$$
+
+  non:
+
+  $MUN_{RRD\, udalerri}^{t} =$ larrialdietarako udal-planak dituzten tokiko gobernuen kopurua, $t$ urtean
+
+  $MUN^{t} =$ tokiko gobernuak, $t$ urtean
+
+   <br>
+
+  <b>Larrialdietako lurralde-plan batek estalitako udalerrien ehunekoa</b>
+
+  $$PMUN_{RRD\, lurralde}^{t} = \frac{MUN_{RRD\, lurralde}^{t}}{MUN^{t}} \cdot 100$$
+
+  non:
+
+  $MUN_{RRD\, lurralde}^{t} =$ larrialdietarako lurralde-planak dituzten tokiko gobernuen kopurua, $t$ urtean
+
+  $MUN^{t} =$ tokiko gobernuak, $t$ urtean
+  
+desagregacion: 
+
+  Lurralde historikoa/Eskualdea/Udalerria
+
+
+observaciones: |
+
+  Euskadin, Euskadiko Babes Zibileko Planak (LABI) ezarritakoaren arabera, 20.000 biztanletik gorako 
+  udalerriek larrialdietarako udal-planak (IHP) egin eta onartu behar dituzte.
+
+  5.000 biztanletik gorako udalerrietan, Toki Araubidearen Oinarriak arautzen dituen Estatuko araudiarekin 
+  bat etorriz, jarraibide hau gomendagarria da. 2024an, 5.000 eta 20.000 biztanle arteko udalerrien % 96k 
+  eta 1.000 eta 5.000 biztanle arteko udalerrien % 25ek Udal Larrialdi Plan homologatua dute.
+  
+
+periodicidad: FUENTE.FREQ_A
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  2015-2030 Hondamendi Arriskua Murrizteko Sendai Esparrua 2015eko martxoan onartu zuten Nazio 
+  Batuetako estatu kideek, hondamendi-arriskua murrizteko politika global gisa. Sendaiko Markoak 
+  espero duen emaitza da "hondamendien arriskua eta galerak nabarmen murriztea bizitzetan, biziraupen- 
+  eta osasun-baliabideetan eta pertsonen, enpresen, komunitateen eta herrialdeen aktibo ekonomiko, 
+  fisiko, sozial, kultural eta ingurumenekoetan".
+
+  Sendaiko Esparruaren helburu globalen artean, "E helburua: 2020rako hondamendi-arriskua murrizteko 
+  estrategia nazionalak eta tokikoak dituzten herrialdeen kopurua nabarmen handitzea" dago, hondamendi-arriskua 
+  murrizteko estrategia eta politika nazional eta lokalen aurrerapena eta estaldura orokorra hobetzeko.
+
+  Hondamendi-arriskua murrizteko plan, estrategia eta politika nazionalen helburuak dira hondamendi-arrisku 
+  berriak prebenitzea eta daudenak murriztea, neurri ekonomiko, egiturazko, legal, sozial, osasun, kultura, 
+  hezkuntza, ingurumen, teknologia, politika eta erakunde integratu eta inklusiboak ezarriz, arriskuekiko 
+  esposizioa eta hondamendiekiko urrakortasuna prebenitu eta murrizteko, erantzuteko eta berreskuratzeko 
+  prestakuntza areagotzeko eta, horrela, erresilientzia indartzeko.
+
+  Sendaiko Esparruak eskatzen duen bezala, hondamendi-arriskua murrizteko tokiko estrategiak hartzen eta 
+  ezartzen dituzten tokiko gobernuen proportzioa handitzeak garapen jasangarria bultzatuko du eta 
+  erresilientzia ekonomikoa, soziala, sanitarioa eta ingurumenekoa indartuko ditu.
+
+  Iturria: Nazio Batuen Estatistika Dibisioa  
+
+comparabilidad: >-
+  Eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-04.pdf">Metadatuak 1-5-4.pdf</a> (ingelesez bakarrik)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

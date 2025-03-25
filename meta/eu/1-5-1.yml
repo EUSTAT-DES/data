@@ -1,0 +1,63 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.1-5-1-titulo
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-5-titulo
+#  indicador_onu_global: indicador_largo.1-5-1-titulo
+
+definicion: >-
+  Hondamendi naturalei esleitutako heriotzak 100.000 biztanleko
+
+formula: |
+
+  $$TM_{desastres}^{t} = \frac{D_{desastres}^{t}}{P^{t}} \cdot 100$$
+
+  donde:
+
+  $D_{hondamendiak}^{t} =$ hondamendi naturalei esleitutako heriotzak (GNS-10eko X30-X39 kodeak) $t$ urtean
+
+  $P^{t} =$ biztanleria $t$ urtean
+
+desagregacion: |
+  Sexua
+  
+  Lurralde historikoa/Eskualdea/Udalerria
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  2015-2030 Hondamendi Arriskua Murrizteko Sendai Esparrua 2015eko martxoan onartu 
+  zuten Nazio Batuetako estatu kideek, hondamendi-arriskua murrizteko politika global gisa.  
+
+  Besteak beste, helburu hauek ditu:
+
+  A helburua: 2030erako hondamendiengatiko hilkortasun globala nabarmen murriztea, 2020-2030 
+  bitartean 100.000 biztanleko batez besteko hilkortasun globala murrizteko, 2005-2015 aldiarekin alderatuta.
+
+  2030erako hondamendiengatiko hilkortasun globala nabarmen murriztea, 2020-2030 bitartean 100.000 
+  biztanleko batez besteko hilkortasun globala murrizteko, 2005-2015 aldiarekin alderatuta.
+
+  B helburua: 2030erako mundu mailan eragindako pertsonen kopurua nabarmen murriztea, 2020tik 2030era 
+  bitartean 100.000 biztanleko munduko batez besteko zifra murrizteko, 2005-2015 aldiarekin alderatuta.
+
+  Helburuak lortzeak garapen iraunkorrari lagunduko dio, eta erresilientzia ekonomikoa, soziala, 
+  sanitarioa eta ingurumenekoa indartuko ditu.
+
+  Iturria: Nazio Batuen Estatistika Dibisioa
+
+comparabilidad: >-
+  Eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-01.pdf">Metadatuak 1-5-1.pdf</a> (ingelesez bakarrik)'
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

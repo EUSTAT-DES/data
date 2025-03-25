@@ -1,0 +1,57 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+#objetivo_global: objetivo_largo.1-titulo
+#meta_global: meta_largo.1-5-titulo
+#indicador_onu_global: indicador_largo.1-5-3-titulo
+
+
+definicion: 
+formula: 
+desagregacion: 
+periodicidad: 
+observaciones: 
+ 
+# Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  2015-2030 Hondamendi Arriskua Murrizteko Sendai Esparrua 2015eko martxoan onartu zuten 
+  Nazio Batuetako estatu kideek, hondamendi-arriskua murrizteko politika global gisa.
+
+  Sendaiko Markoak espero duen emaitza hau da: "Hondamendi-arriskua eta galerak nabarmen 
+  murriztea bizitzetan, biziraupen- eta osasun-baliabideetan eta pertsonen, enpresen, 
+  komunitateen eta herrialdeen aktibo ekonomiko, fisiko, sozial, kultural eta ingurumenekoetan". 
+  Sendaiko Markoaren helburu globalen artean, "E helburua: 2020rako hondamendi-arriskua murrizteko 
+  estrategia nazionalak eta tokikoak dituzten herrialdeen kopurua nabarmen handitzea" dago, eta 
+  horren helburua da hondamendi arriskua murrizteko estrategia eta politika nazional eta lokalen 
+  aurrerapen globala eta estaldura hobetzea.
+
+  Hondamendi-arriskua murrizteko plan, estrategia eta politika nazionalen helburuak dira 
+  hondamendi-arrisku berriak prebenitzea eta daudenak murriztea, neurri ekonomiko, egiturazko, 
+  legal, sozial, osasun-, kultura-, hezkuntza-, ingurumen-, teknologia-, politika- eta erakunde-neurri 
+  integratu eta inklusiboak ezarriz, arriskuekiko esposizioa eta hondamendiekiko urrakortasuna prebenitu 
+  eta murrizteko, erantzuteko eta berreskuratzeko prestakuntza areagotzeko eta, horrela, erresilientzia 
+  indartzeko.
+
+  Adierazleak zubi bat sortuko du GJHen eta Sendai Esparruaren artean, Hondamendien Arriskua Murrizteko. 
+  Hondamendi arriskua murrizteko estrategia nazionalak eta tokikoak onartzen eta ezartzen dituzten gero 
+  eta gobernu nazional gehiagok, Sendaiko Markoak eskatzen duen bezala, garapen jasangarriari lagunduko diote ekonomiaren, ingurumenaren eta gizartearen ikuspegitik.
+
+  Iturria: Nazio Batuen Estatistika Dibisioa
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.5.3&seriesCode=SG_DSR_SFDRR&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Sendaiko Esparruarekin lerrokatutako HAM Estrategia Nazionala zutela jakinarazi zuten herrialdeen kopurua SG_DSR_SFDRR</a> UNSTATS
+
+comparabilidad: >-
+
+indicador_meta_enlace: >-
+   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-03.pdf">Metadatuak 1-5-3.pdf</a> (ingelesez bakarrik)
+
+informacion_interes: 
+
+national_data_updated_date:
+national_metadata_updated_date: '2024-07-29'

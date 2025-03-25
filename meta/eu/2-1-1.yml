@@ -1,0 +1,42 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.2-titulo
+# meta_global: meta_largo.2-1-titulo
+# indicador_onu_global: indicador_largo.2-1-1-titulo
+
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+descripcion_global: |
+  Desnutrizioaren edo azpielikaduraren prebalentzia bizimodu normala, 
+  aktiboa eta osasungarria izateko behar den energia dietetikoaren maila 
+  emateko nahikoa elikagai kontsumitu ohi duen biztanleriaren proportzioaren 
+  estimazio bat da. Ehuneko gisa adierazten da.  
+
+justificacion_global: |
+  Adierazlea FAOk erabili du Elikadurari buruzko Munduko Gailurraren helmugaren 
+  eta MGHen 1C helmugaren jarraipena egiteko, nazio, eskualde eta mundu mailan, 
+  1999tik.
+
+  Biztanleriak denboran zehar elikadura-energia gutxiegitasunaren mailan dituen 
+  joeren jarraipena egitea ahalbidetzen du. Joera horiek elikagaien eskuragarritasun 
+  orokorrean, horiek eskuratzeko etxekoen unitateen gaitasunean eta biztanleriaren 
+  ezaugarri soziodemografikoetan izandako aldaketen eta une jakin batean herrialdeen 
+  eta eskualdeen artean izandako desberdintasunen konbinazioaren emaitza dira.
+
+  Iturria: Nazio Batuen Estatistika Dibisioa  
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.1.1&seriesCode=SN_ITK_DEFC&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Desnutrizioaren prebalentzia (%) SN_ITK_DEFC</a> UNSTATS
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-01-01.pdf">Metadatuak 2-1-1.pdf (ingelesez bakarrik)</a>
+
+
+

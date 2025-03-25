@@ -1,0 +1,71 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+indicador_disponible: >-
+  GRAFICO.2-3-1-titulo
+
+objetivo_global: objetivo_largo.2-titulo
+meta_global: meta_largo.2-3-titulo
+ # indicador_onu_global: indicador_largo.2-3-1-titulo
+
+
+definicion: |
+  Laboreen eta eratorrien, abereen, abeltzaintzako produktuen eta nekazaritza-ustiategietako 
+  beste ekoizpen batzuen (txikiak edo handiak) guztizko ekoizpena, Urteko Lan Unitatearen 
+  (NLU) arabera adierazita.
+
+  Ustiategia txikitzat hartzen da bi baldintzak betetzen dituenean:
+   - Euskal Autonomia Erkidegoan lurraren tamainak metatutako banaketaren lehen bi kintiletan 
+     (% 40 txikiagoa) dagoen lur-kantitate bat erabiltzen du (hektareatan neurtua).
+   - Nekazaritza-jardueren urteko diru-sarrera ekonomikoa Euskal Autonomia Erkidegoan 
+     nekazaritzako diru-sarrera ekonomikoen ekoizpen-unitateko banaketa metatuaren lehen bi 
+     kintiletan dago (% 40 txikiagoa).
+
+  Ustiategiak baldintza horietakoren bat betetzen ez badu, handitzat joko da.
+  
+formula: |
+
+  $$PUT^{t} = \frac{SE131^{t}}{SE010^{t}}$$
+
+  non:
+
+  $SE131^{t}$ = laboreen eta eratorrien, abereen, abeltzaintzako produktuen eta nekazaritzako 
+    ustiategietako (txikiak edo handiak) beste ekoizpen batzuen guztizko ekoizpena $t$ urtean
+
+  $SE010^{t}$ = nekazaritzako ustiategietako (txikiak edo handiak) eskulana, guztira, $t$ urtean, Urteko 
+    Lan Unitateetan (NLU) adierazita. Bertan, NLU 1 urte batean lanaldi osoan lan egiten duen 
+    pertsona baten baliokidea da
+
+desagregacion: 
+  Lurralde historikoa
+
+observaciones: 
+
+periodicidad: FUENTE.FREQ_A
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+
+  Garapen Iraunkorrerako 2030 Agendak elikagaien ekoizle txikien produktibitatea hobetzearen 
+  garrantzia azpimarratu du, horiek paper garrantzitsua betetzen baitute elikagaien munduko 
+  ekoizpenean. Adierazleak arlo horretako aurrerapenak monitorizatzen ditu; 2030erako produktibitatea 
+  bikoiztea da helburua.
+
+  Eskala txikiko produkzio-unitateetan lan-produktibitatea hobetzeak ere berekin dakar pobrezia 
+  murriztea; izan ere, elikagai-ekoizle txikiak pobreak izaten dira, eta biziraupenetik hurbil 
+  egoten dira maiz.
+
+  Iturria: Nazio Batuen Estatistika Dibisioa, Eurostat  
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-03-01.pdf">Metadatuak 2-3-1.pdf (ingelesez bakarrik)</a>'
+
+dato_global:
+
+comparabilidad: >-
+  Eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du.  
+
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

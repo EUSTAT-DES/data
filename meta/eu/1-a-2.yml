@@ -1,0 +1,105 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: global_indicators.1-a-2-title
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-a-titulo
+#  indicador_onu_global: indicador_largo.1-a-2-titulo
+
+definicion: |
+  Funtsezko zerbitzuetara (hezkuntza, osasuna eta gizarte-babesa) bideratzen den Euskal AEko 
+  herri-administrazioen gastuaren proportzioa (Jaurlaritzaren Funtzioen Sailkapeneko 09, 
+  07 eta 10 funtzio-taldeak, gobernu-jardueren helburuak sailkatzeko nazioartean erabiltzen direnak)  
+
+formula: |
+
+  $$PE_{t} = \frac{TE_{t} + TH_{t} + TS_{t}}{TG_{t}} \cdot 100$$
+
+  donde:
+
+  $PE_{t}$ = gobernuaren gastua funtsezko zerbitzuetan (hezkuntza, osasuna eta gizarte-babesa), fiskaleko gobernuaren gastu osoaren ehuneko gisa, $t$ urtean
+
+  $TE_{t}$ = gobernuak hezkuntzan egiten duen guztizko gastua, $t$ urte fiskalean
+
+  $TH_{t}$ = gobernuak osasunean egiten duen guztizko gastua, $t$ urte fiskalean
+
+  $TS_{t}$ = gobernuak gizarte-babesean egiten duen guztizko gastua, $t$ urte fiskalean
+
+  $TG_{t}$ = gobernuaren guztizko gastua, $t$ urte fiskalean
+
+desagregacion: |
+  Funtsezko zerbitzuak: hezkuntza, osasuna, gizarte-babesa
+
+observaciones: |
+
+  Adierazlea gobernu orokorrerako kalkulatzen da, gobernu-unitate desberdinak barne hartzen dituena: 
+  gobernu zentrala, gobernu autonomikoa, foru gobernuak eta tokiko gobernuak.
+
+  Gobernuaren Funtzioen Sailkapenak (COFOG), Ekonomia Lankidetza eta Garapenerako Erakundeak (ELGA) 
+  garatu eta Nazio Batuen Estatistika Atalak argitaratutakoak, gastu publikoa 10 talde funtzionaletan 
+  egituratzen du:
+
+  - 01 Zerbitzu publiko orokorrak
+  - 02 Defentsa
+  - 03 Ordena publikoa eta segurtasuna
+  - 04 Gai ekonomikoak
+  - 05 Ingurumena babestea
+  - 06 Etxebizitza eta zerbitzu komunitarioak
+  - 07 Osasuna
+  - 08 Aisia, kultura eta erlijioa
+  - 09 Hezkuntza
+  - 10 Gizarte-babesa
+
+
+periodicidad: FUENTE.FREQ_A
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Adierazlea gobernuak funtsezko zerbitzuetan (hezkuntza, osasuna eta gizarte-babesa) 
+  egindako gastua ebaluatzeko erabiltzen da, gobernuaren guztizko gastuaren zenbatekoari 
+  dagokionez. Nazioarteko esparru batetik datorrenez, Finantza Publikoen Estatistiken 
+  Eskuliburuak (FPEE 2014) herrialdeen arteko datu alderagarriak ematen dizkie analistei, 
+  eta GJHen jarraipena datu fiskalak erabiliz egiteko ondorio analitiko sendoak ezartzea 
+  bermatzen du.
+
+  Funtsezko zerbitzuetako (hezkuntza, osasuna eta gizarte-babesa) gastu publikoaren proportzio 
+  handi batek erakusten du gobernuak lehentasun handia duela gastu-funtzio horietarako.
+
+  Adierazle horren berri emateko, uste da gobernu orokorra dela estaldura instituzionalaren 
+  mailarik egokiena; izan ere, dagozkion gobernu-unitateak hartuko ditu, tokiko gobernuak barne, 
+  herrialde askotan kontuan hartu behar baita gastu-kategoria horien deszentralizazioa. Herrialde 
+  batek gobernu zentral bat izan dezake; estatuetako, probintzietako edo eskualdeetako hainbat 
+  gobernu; eta tokiko gobernu asko, eta MEFP 2014k gomendatzen du estatistikak biltzea gobernu 
+  orokorreko unitate horietarako guztietarako.
+
+  Iturria: Nazio Batuen Estatistika Dibisioa  
+
+comparabilidad: >-
+  Euskal Autonomia Erkidegoan eskuragarri dagoen adierazleak COFOG sailkapena erabiltzen du. 
+  Sailkapen horrek ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko 
+  informazioa ematen du. Munduko adierazleak gobernu finantzen estatistiken eskuliburua 
+  (GFEE) erabiltzen du, non gastuaren kontzeptua pixka bat desberdin aplikatzen den.  
+
+dato_global: |
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_ESSRV&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Funtsezko zerbitzuetako guztizko gastu publikoaren proportzioa (%) SG_XPD_ESSRV</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_PROT&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Funtsezko zerbitzuetako guztizko gastu publikoaren proportzioa, gizarte-babesa (%) SG_XPD_PROT</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_EDUC&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Funtsezko zerbitzuetako guztizko gastu publikoaren proportzioa, hezkuntza (%) SG_XPD_EDUC</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_HLTH&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Funtsezko zerbitzuetako guztizko gastu publikoaren proportzioa, osasuna (%) SG_XPD_HLTH</a> UNSTATS
+
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02a.pdf">Metadatuak 1-a-2 (1).pdf</a> (ingelesez bakarrik)
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02b.pdf">Metadatuak 1-a-2 (2).pdf</a> (ingelesez bakarrik)
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
