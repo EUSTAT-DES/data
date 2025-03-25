@@ -50,27 +50,8 @@ texto_oceca: FUENTE.oceca
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: |
-  
-
-HEMENDIK AURRERA JARRAITU
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Este indicador tiene por objeto medir el acceso a las vacunas, incluidas las vacunas recientemente 
+justificacion_global: | 
+  Este indicador tiene por objeto medir el acceso a las vacunas, incluidas las vacunas recientemente 
   disponibles o las que se utilizan de forma insuficiente, a nivel nacional.
 
   En las últimas décadas, todos los países 
@@ -99,7 +80,6 @@ Este indicador tiene por objeto medir el acceso a las vacunas, incluidas las vac
 
 dato_global: |
 
-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.b.1&seriesCode=SH_ACS_DTP3&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Proporción de la población objetivo que recibió 3 dosis de la vacuna contra la difteria, el tétanos y la tos ferina (DTP3) (%) SH_ACS_DTP3</a> UNSTATS 
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.b.1&seriesCode=SH_ACS_MCV2&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Proporción de la población objetivo que recibió la segunda dosis de la vacuna contra el sarampión (MCV2) (%) SH_ACS_MCV2</a> UNSTATS 
@@ -116,5 +96,5 @@ indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Meta
 
 informacion_interes: 
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
