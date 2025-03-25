@@ -31,7 +31,7 @@ observaciones: >-
 
   Las necesidades insatisfechas autoinformadas se refieren a la propia evaluación de una persona 
   sobre si necesitaba un examen o tratamiento médico (excluido el cuidado dental), pero no lo tuvo 
-  o no lo buscó
+  o no lo buscó.
 
 texto_oceca: FUENTE.oceca
 
@@ -59,6 +59,7 @@ justificacion_global: |
   la salud. Los indicadores de cobertura de servicios (definidos como las personas que reciben el servicio que necesitan) 
   son la mejor manera de seguir el progreso en la prestación de servicios en el marco de la cobertura sanitaria universal (CSU).
 
+  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: >-
 
@@ -68,7 +69,7 @@ dato_global: >-
 comparabilidad: >- 
   El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta información complementaria.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-08-01.pdf">Metadata 3-8-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-08-01.pdf">Metadatos 3-8-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

@@ -34,6 +34,8 @@ observaciones: |
   autóctonas   (infecciones producidas en el territorio nacional) como infecciones no autóctonas (infecciones producidas 
   en el extranjero).
 
+  Fuente: División de Estadísticas de las Naciones Unidas
+
 texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
@@ -53,7 +55,7 @@ comparabilidad: >-
   El indicador disponible no cumple estrictamente con los metadatos de Naciones Unidas 
   al no cuantificar la tasa sobre la población no infectada, sino por toda la población.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-01.pdf">Metadata 3-3-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-01.pdf">Metadatos 3-3-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

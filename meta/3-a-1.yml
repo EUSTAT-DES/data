@@ -18,6 +18,7 @@ formula: |
   donde:
 
   $PFD_{15+}^{t} =$ población de 15 y más años que fuma a diario en el año $t$
+
   $P_{15y+}^{t} =$ población de 15 y más años en el año $t$
 
 desagregacion: | 
@@ -56,6 +57,7 @@ justificacion_global: |
   de la meta 3.a de los ODS “Fortalecer la aplicación del Convenio Marco de la Organización Mundial de la Salud para el 
   Control del Tabaco en todos los países, según proceda”.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: >-
 
@@ -65,7 +67,7 @@ dato_global: >-
 comparabilidad: >- 
   El indicador disponible no cumple estrictamente con los metadatos de Naciones Unidas pero aporta información similar.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0a-01.pdf">Metadata 3-a-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0a-01.pdf">Metadatos 3-a-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

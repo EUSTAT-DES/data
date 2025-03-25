@@ -45,6 +45,7 @@ justificacion_global: |
   no intencional en un año, dividido por la población y multiplicado por 100.000.Incluye los códigos de la 
   Clasificación Internacional de Enfermedades, Décima Revisión (CIE-10) X40, X43, X46-X48 y X49.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: >-
 
@@ -54,7 +55,7 @@ dato_global: >-
 comparabilidad: >- 
   El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-03.pdf">Metadata 3-9-3.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-03.pdf">Metadatos 3-9-3.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

@@ -43,11 +43,11 @@ justificacion_global: |
   Las objetivos de muertes y casos de tuberculosis están fijados para 2030 (reducción del 80% en la tasa de incidencia en 
   comparación con el nivel de 2015) y 2035 (reducción del 90% en la tasa de incidencia), en el contexto de los ODS.
 
-
-
   La incidencia de tuberculosis (TB) se define como el número estimado de casos nuevos y recurrentes de 
   tuberculosis (toda forma de tuberculosis, incluidos los casos en personas que viven con el VIH) que surgen en 
   un año determinado. Generalmente se expresa como tasa por 100.000 habitantes.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
 
 
 dato_global: >-
@@ -57,7 +57,7 @@ dato_global: >-
 comparabilidad: >- 
   El indicador disponible cumple con los metadatos de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-02.pdf">Metadata 3-3-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-02.pdf">Metadatos 3-3-2.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 
