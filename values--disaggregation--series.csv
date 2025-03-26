@@ -115,7 +115,7 @@ SI_AGR_LSFP,Ingresos medios de los grandes productores de alimentos,SI_AGR_LSFP,
 SI_AGR_SSFP,Ingresos medios de los pequeños productores de alimentos,SI_AGR_SSFP,SI_AGR_SSFP,4,1
 SI_COV_PENSN,Proporción de la población que supera la edad legal de jubilación y recibe una pensión,SI_COV_PENSN,SI_COV_PENSN,12,1
 SI_COV_UEMP,Proporción de personas desempleadas que reciben prestaciones por desempleo,SI_COV_UEMP,SI_COV_UEMP,12,1
-SL_EMP_EARN,Salario medio por hora,SL_EMP_EARN,SL_EMP_EARN,5,1
+SL_EMP_EARN,Ingreso medio por hora de las personas empleadas,SL_EMP_EARN,SL_EMP_EARN,5,1
 SL_EMP_GTOTL,Proporción del PIB generada por el trabajo,SL_EMP_GTOTL,SL_EMP_GTOTL,4,1
 SL_TLF_NEET_19ICLS,"Proporción de jóvenes  que no cursan estudios, no están empleados ni reciben capacitación",SL_TLF_NEET_19ICLS,SL_TLF_NEET_19ICLS,12,1
 SL_TLF_UEM,Tasa de desempleo,SL_TLF_UEM,SL_TLF_UEM,4,1
