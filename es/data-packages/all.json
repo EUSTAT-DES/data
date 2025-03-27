@@ -3261,7 +3261,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Litros",
+                "Metros cúbicos",
                 ""
               ]
             },
@@ -3269,7 +3269,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Valor"
           }
         ]
@@ -13032,7 +13032,7 @@
             "constraints": {
               "enum": [
                 "Toneladas per cápita",
-                "Toneladas por millon de euros",
+                "Kg por euro de PIB",
                 "Kilotoneladas",
                 ""
               ]

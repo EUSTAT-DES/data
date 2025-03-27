@@ -3032,14 +3032,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LITRES",
+                "M3",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -12293,7 +12293,7 @@
             "constraints": {
               "enum": [
                 "T_PER_CAPITA",
-                "T_MILLON_EUR",
+                "KG_PER_GDP_1000_EUR",
                 "KT",
                 ""
               ]

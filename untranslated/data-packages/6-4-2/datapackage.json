@@ -31,14 +31,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LITRES",
+                "M3",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
