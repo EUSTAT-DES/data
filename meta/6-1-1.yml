@@ -59,6 +59,7 @@ justificacion_global: |
   de los servicios de agua potable, incluidas las dimensiones de 
   accesibilidad, disponibilidad y calidad.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: >-
 
@@ -67,9 +68,9 @@ dato_global: >-
 comparabilidad: >- 
   El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf">Metadata 6-1-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf">Metadatos 6-1-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
