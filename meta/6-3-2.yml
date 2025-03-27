@@ -16,13 +16,6 @@ definicion: |
   y representa una combinación de influencias naturales junto con los impactos 
   de todas las actividades antropogénicas.
 
-  El indicador se basa en datos de calidad del agua derivados de mediciones 
-  in situ y el análisis de muestras recolectadas de aguas superficiales y 
-  subterráneas. La calidad del agua se evalúa por medio de parámetros 
-  físicos y químicos básicos que reflejan la calidad natural del agua 
-  relacionada con factores climatológicos y geológicos, junto con los 
-  principales impactos en la calidad del agua.
-
   Se presentan 3 series diferentes para distintas masas de agua: 
 
     - ríos
@@ -40,7 +33,7 @@ formula: |
 
   $M_{agua}^{t} =$ masas de agua evaluadas en el año $t$
 
-desagregacion: >- 
+desagregacion:
 
 observaciones: |
   
@@ -91,6 +84,7 @@ justificacion_global: |
   con el agua, así como a la meta 14.1 sobre contaminación 
   marina (eutrofización costera).
 
+  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: |
 
@@ -110,5 +104,5 @@ indicador_meta_enlace:
 
 informacion_interes: 
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
