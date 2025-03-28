@@ -33,6 +33,7 @@ formula:  |
 
   $Exp^t =$ Exportaciones en el año $t$
 
+  <br>
 
   <b>Consumo doméstico de materiales per cápita:</b>
 
@@ -40,16 +41,21 @@ formula:  |
 
   donde:
 
-  $P{t} =$ población a 1 de julio del año $t$
+  $CMD^{t} =$ consumo doméstico de materiales en el año $t$
 
+  $P^{t} =$ población a 1 de julio del año $t$
+
+  <br>
 
   <b>Consumo doméstico de materiales per cápita por unidad de PIB:</b>
 
-  $$CMDPIB^{t} = \frac{{CMD^{t}}}{PIB_{15}^{t}}$$
+  $$CMDPIB^{t} = \frac{{CMD^{t}}}{PIB_{2022}^{t}}$$
 
   donde:
 
-  $PIB_{15}^{t} =$ Producto interior bruto en volumen encadenado con referencia 2015 
+  $CMD^{t} =$ consumo doméstico de materiales en el año $t$
+
+  $PIB_{2022}^{t} =$ Producto interior bruto en volumen encadenado con referencia 2022 
   en millones de euros en el año $t$ 
 
 desagregacion:
@@ -77,15 +83,16 @@ justificacion_global: |
   describe el nivel promedio de uso de materiales en una economía (un indicador 
   de presión ambiental) y también se lo conoce como perfil metabólico.
 
-dato_global: >-
+  Fuente: División de Estadísticas de las Naciones Unidas
 
+dato_global:
 
 comparabilidad: >- 
   El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-04-02.pdf">Metadata 8-4-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-04-02.pdf">Metadatos 8-4-2.pdf</a> (solo en inglés)'
 
 informacion_interes: >-
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
