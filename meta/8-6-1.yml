@@ -21,9 +21,7 @@ formula:  |
 
   $PNINI_{15-24}^{t} =$ población entre 15 y 24 años que no tiene empleo ni ha realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas en el añoo $t$
 
-  $P_{15-24}^{t} =$ población entre 15 y 24 años en el año $t$ <br>
-
-  teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año
+  $P_{15-24}^{t} =$ población entre 15 y 24 años en el año $t$
 
 
 desagregacion:  |
@@ -58,6 +56,8 @@ justificacion_global: |
   que están fuera de la fuerza laboral y están recibiendo educación, y por lo tanto 
   están mejorando sus habilidades y calificaciones.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
+
 dato_global: >-
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=8.6.1&seriesCode=SL_TLF_NEET&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15-24%20%7C%20BOTHSEX">Proporción de jóvenes que no estudian, ni trabajan ni reciben formación, por sexo y edad - 13.ª CIET (%) SL_TLF_NEET</a> UNSTATS
@@ -65,9 +65,9 @@ dato_global: >-
 comparabilidad: >- 
   El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-06-01.pdf">Metadata 8-6-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-06-01.pdf">Metadatos 8-6-1.pdf</a> (solo en inglés)'
 
 informacion_interes: >-
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
