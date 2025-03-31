@@ -14,7 +14,7 @@ nodisponible: No hay datos disponibles para este indicador
 1-b-1-titulo: "Gasto en prestaciones de garantía de ingresos (RGI) y ayudas de emergencia social (AES)"
 
 2-1-2-titulo: "Prevalencia de la inseguridad alimentaria grave o muy grave"
-2-2-2-titulo: "Tasa de obesidad, sobrepeso o peso insuficiente de la población entre 2 y 17 años"
+2-2-2-titulo: "Proporción de menores entre 2 y 17 años con obesidad, sobrepeso o peso insuficiente"
 2-2-E1-titulo: "Tasa de obesidad de la población adulta según el índice de masa corporal (IMC) (Indicador UE sdg_02_10)"
 2-3-1-titulo: Volumen de producción por unidad de trabajo desglosado por tamaño
 2-3-2-titulo: Media de ingresos de los productores de alimentos en pequeña escala
@@ -57,19 +57,22 @@ nodisponible: No hay datos disponibles para este indicador
 6-4-2-titulo: "Consumo de agua (volumen de agua extraída)"
 6-5-2-titulo: "Proporción de la superficie de cuencas transfronterizas sujetas a arreglos operacionales para la cooperación en materia de aguas"
 
-7-3-E1-titulo: Consumo de energía eléctrica (Indicador Gobierno Vasco)
+7-3-E1-titulo: "Consumo de energía eléctrica (Indicador Gobierno Vasco)"
 
-8-5-1-titulo: Ingreso medio por hora de personas empleadas, desglosado por sexo y personas con
-  o sin discapacidad
-8-5-E1-titulo: Tasa de ocupación de la población (Indicador UE sdg_08_30) 
+8-5-1-titulo: "Ingreso medio por hora de personas empleadas, desglosado por sexo y personas con
+  o sin discapacidad"
+8-5-E1-titulo: "Tasa de ocupación de la población (Indicador UE sdg_08_30)" 
+8-8-1-titulo: "Índice de incidencia de accidentes con baja en jornada/in itinere, según gravedad" 
+8-9-1-titulo: "PIB generado directamente por el turismo en proporción al PIB total y tasa de crecimiento"
 8-10-1-titulo: "Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años"
 8-10-2-titulo: "Proporción de personas entre 18 y 79 años que tienen una cuenta corriente"
-8-b-1-titulo: Gasto de las administraciones públicas autonómicas en fomento del empleo
-
-9-4-E1-titulo: Intensidad de las emisiones atmosféricas de la industria (Indicador UE sdg_09_70) 
+8-b-1-titulo: "Gasto de las administraciones públicas autonómicas en fomento del empleo"
+ 
+9-4-E1-titulo: "Intensidad de las emisiones atmosféricas de la industria (Indicador UE sdg_09_70)" 
 
 10-2-1-titulo: "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos"
 10-4-2-titulo: "Índice de Gini del ingreso disponible equivalente (postfiscal)"
+10-7-3-titulo: "Número de personas refugiadas por cada 100.000 habitantes"
 
 11-1-1-titulo: "Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda"
 11-4-1-titulo: "Total de gastos per cápita de fuente de financiación pública destinados a la preservación, protección y conservación de todo el patrimonio cultural, desglosado por nivel de gobierno (autonómico y local/municipal)"
@@ -241,7 +244,14 @@ OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
 8-9-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 8-10-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 8-10-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-8-b-1-contenido: "<b>Dirección deseada:</b> No evaluable"
+8-b-1-contenido: |
+  La C.A. de Euskadi cuenta con una Estrategia Vasca 2030 de Emancipación Juvenil y un 
+  <a href="https://www.euskadi.eus/planes-proyectos-juventud/web01-a2gazter/es/">V Plan Joven 2022-2026</a>, 
+  cuyo objetivo es facilitar la transición de las personas jóvenes hacia la vida adulta, promoviendo su autonomía y su incorporación al ámbito laboral, especialmente de aquellas alejadas actualmente del mercado de trabajo.
+
+  La Estrategia Vasca de Empleo 2030 y el 
+  <a href="https://www.euskadi.eus/contenidos/plan_gubernamental/04_planest_xiileg/es_def/adjuntos/Plan-Estrategico-Empleo-2021-2024-final-_cas.pdf">
+  Plan Estratégico de Empleo 2021-2024</a> también incluyen líneas de actuación específicas para fomentar el empleo juvenil, mediante programas de formación, incentivos a la contratación y apoyo al emprendimiento joven.
 
 9-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 9-2-1-contenido: "<b>Dirección deseada:</b> Mantenimiento o ascenso"

@@ -17,6 +17,7 @@ formula: |
   $$TAT_{sustancias\, adictivas}^{t} = \frac{AT_{sustancias\, adictivas}^{t}}{P^{t}} \cdot 100.000$$
 
   donde:
+
   $AT_{sustancias\, adictivas}^{t} =$ número de admisiones a tratamiento ambulatorio por abuso o dependencia de sustancias adictivas en un centro de tratamiento por primera vez en el año $t$
 
   $P^{t} =$ población a 1 de julio del año $t$
@@ -80,7 +81,6 @@ justificacion_global: |
 
   Fuente: División de Estadísticas de las Naciones Unidas
 
-
 dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.5.1&seriesCode=SH_SUD_TREAT&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX%20%7C%20DRUG_TOTAL">Cobertura de intervenciones de tratamiento (farmacológicas, psicosociales y de rehabilitación y servicios de seguimiento) para trastornos por consumo de sustancias (%) SH_SUD_TREAT</a> UNSTATS
 
@@ -92,5 +92,5 @@ indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Meta
 
 informacion_interes: 
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
