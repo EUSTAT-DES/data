@@ -13,13 +13,13 @@ definicion: >-
 
 formula: |
 
-  $IACC_{gravedad}^{t} = \frac{ACC_{gravedad}^{t}}{P_{OIT}^{t}} \cdot 100.000$$
+  $IACC_{gravedad}^{t} = \frac{ACC_{gravedad}^{t}}{PE_{OIT}^{t}} \cdot 100.000$$
 
   donde:
 
   $ACC_{gravedad}^{t} =$ número de accidentes con baja en jornada/in itinere, según gravedad en el año $t$
 
-  $P_{OIT} =$ personas empleadas en el año $t$
+  $PE_{OIT}^{t} =$ personas empleadas en el año $t$
 
 desagregacion: |
 
