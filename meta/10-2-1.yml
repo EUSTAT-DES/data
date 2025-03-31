@@ -52,14 +52,15 @@ justificacion_global: |
   Eurostat) y se utilizan cada vez más también como una medida complementaria de la desigualdad 
   y la pobreza en los países de ingresos bajos y medios.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
+
 dato_global: >-
 
 comparabilidad: >- 
   El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-02-01.pdf">Metadata 10-2-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-02-01.pdf">Metadatos 10-2-1.pdf</a> (solo en inglés)
 
-
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -1,7 +1,8 @@
  # Metadatos nacionales (ficha metodológica)
  
 indicador_disponible: >- 
-  GRAFICO.9-4-1-titulo
+  GRAFICO.9-4-E1-titulo
+
 objetivo_global: objetivo_largo.9-titulo
 meta_global: meta_largo.9-4-titulo
 #  indicador_onu_global: indicador_largo.9-4-1-titulo
@@ -10,15 +11,15 @@ meta_global: meta_largo.9-4-titulo
 definicion: >- 
   Emisiones de PM10 y PM2,5 por unidad de valor añadido del sector manufacturero
 
-formula:  |
+formula: |
 
-  $$PVABEPM_{manufacturero}^{t} = \frac{EPM_{manufacturero}^{t}}{VAB__{manufacturero\, 2022}^{t}} $$
+  $$PVABEPM_{manufacturero}^{t} = \frac{EPM_{manufacturero}^{t}}{VAB_{manufacturero\, 2022}^{t}} $$
 
   donde:
 
   $EPM_{manufacturero}^{t} =$ emisiones de partículas en suspensión del sector manufacturero en el año $t$
 
-  $VAB__{manufacturero\, 2022}^{t} =$ valor añadido bruto del sector manufacturero en volumen encadenado con referencia 2022 en el año  $t$
+  $VAB_{manufacturero\, 2022}^{t} =$ valor añadido bruto del sector manufacturero en volumen encadenado con referencia 2022 en el año  $t$
 
 
 desagregacion: >- 
@@ -67,6 +68,8 @@ justificacion_global: |
   se calcula dividiendo las emisiones de PM del sector por su valor añadido bruto (VAB), que 
   se define como la producción (a precios básicos) menos el consumo intermedio (a precios de comprador).
 
+  Fuente: Eurostat
+
 dato_global: | 
 
  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_09_70/default/table?lang=en&category=sdg.sdg_09">Intensidad de las emisiones atmosféricas de la industria (sdg_09_70)</a> Eurostat
@@ -77,6 +80,5 @@ comparabilidad: >-
 indicador_meta_enlace: >- 
   <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_09_70_esmsip2.htm">Metadata sdg_09_70.pdf</a> (solo en inglés)
 
-
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

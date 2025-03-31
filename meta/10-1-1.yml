@@ -12,7 +12,6 @@ definicion: >-
   Tasa de crecimiento promedio anualizada en un período de cinco años de los ingresos y gastos por persona de los hogares del 40% más pobre de la población de la comunidad autónoma (40% de las personas con menores ingresos por unidad de consumo (escala OCDE modificada)) y del total de la población.
 
 
-
 formula: |
 
   El crecimiento anualizado del ingreso real medio per cápita o del consumo se calcula 
@@ -63,14 +62,15 @@ justificacion_global: |
   del bienestar de los menos favorecidos, y al analizar la prosperidad compartida en 
   el contexto de un país, es importante considerar una amplia gama de indicadores de bienestar.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
+
 dato_global: >-
 
 comparabilidad: >- 
   El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-01-01.pdf">Metadata 10-1-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-01-01.pdf">Metadatos 10-1-1.pdf</a> (solo en inglés)
 
-
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

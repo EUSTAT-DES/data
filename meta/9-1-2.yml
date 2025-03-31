@@ -1,6 +1,14 @@
  # Metadatos nacionales (ficha metodológica)
  
+definicion:
 
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
 
 
  # Metadatos mundiales (Descripción del indicador)  
@@ -29,6 +37,7 @@ justificacion_global: |
   pasajeros correspondientes al transporte público permite obtener información 
   sobre la sostenibilidad general del sistema de transporte mundial.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: |
 
@@ -44,8 +53,7 @@ comparabilidad:
 
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-01-02.pdf">Metadata 9-1-2.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-01-02.pdf">Metadatos 9-1-2.pdf</a> (solo en inglés)
 
-
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
