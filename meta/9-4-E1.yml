@@ -5,7 +5,7 @@ indicador_disponible: >-
 
 objetivo_global: objetivo_largo.9-titulo
 meta_global: meta_largo.9-4-titulo
-#  indicador_onu_global: indicador_largo.9-4-1-titulo
+
 
 
 definicion: >- 
@@ -24,7 +24,7 @@ formula: |
 
 desagregacion: >- 
   
-  Partículas en suspensión: partículas de tamaño inferior a 10 micras (PM10), partículas de tamaño inferior a 2,5 micras (PM25)
+  Partículas en suspensión: partículas de tamaño inferior a 10 micras (PM10); partículas de tamaño inferior a 2,5 micras (PM25)
 
 observaciones:
 
@@ -78,7 +78,7 @@ comparabilidad: >-
   El indicador disponible cumple con los metadatos del indicador de la Unión Europea.
 
 indicador_meta_enlace: >- 
-  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_09_70_esmsip2.htm">Metadata sdg_09_70.pdf</a> (solo en inglés)
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_09_70_esmsip2.htm">Metadatos sdg_09_70.pdf</a> (solo en inglés)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

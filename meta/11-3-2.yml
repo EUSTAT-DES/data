@@ -28,7 +28,6 @@ desagregacion:
 observaciones: >-
   El indicador es del 100% dada la legislación estatal del suelo, de aplicación general a todas las ciudades
 
-
 periodicidad: FUENTE.FREQ_A
 
 texto_oceca: FUENTE.oceca
@@ -38,12 +37,10 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  Este indicador mide el progreso y la voluntad de los funcionarios electos, 
+  Este indicador mide el progreso y la voluntad de los representantes electos, 
   los administradores urbanos y los planificadores para integrar la participación de 
   los residentes y la sociedad civil en la planificación y la gestión urbanas 
-  a distintos niveles.
-
-  Las autoridades locales y los gobiernos, junto con la comunidad internacional, 
+  a distintos niveles. Las autoridades locales y los gobiernos, junto con la comunidad internacional, 
   reconocen cada vez más el valor de la participación de la sociedad civil y los 
   residentes en el fortalecimiento de los procesos de desarrollo urbano.
 
@@ -60,20 +57,7 @@ justificacion_global: |
   a los encargados de la toma de decisiones a comprender las interrelaciones y la naturaleza de 
   los problemas y las posibles soluciones que enfrentan los diferentes entornos urbanos.
 
-  El desarrollo urbano es un reflejo de la ideología y las instituciones nacionales. 
-  La participación pública significa que se crea un consenso más amplio, lo que mejora en 
-  gran medida la interacción política entre los ciudadanos y el gobierno, y mejora la 
-  legitimidad del proceso de planificación y del plan en sí. Un plan es más eficaz si una 
-  amplia coalición apoya la propuesta y trabaja en conjunto para implementarla.
-
-  La participación de la sociedad civil y del público en la gestión y gobernanza urbanas 
-  también muestra respeto por la opinión, las necesidades, las aspiraciones y los activos de 
-  los participantes. Puede impulsar su entusiasmo por la ciudadanía y la política, y fortalecer 
-  su influencia en la planificación urbana y la vida pública. Cuando se consideran reclamos 
-  y opiniones contradictorias, hay una probabilidad mucho mayor de que aumente la confianza 
-  y la aceptación del público en el resultado. Esto tiene implicaciones más amplias para 
-  la construcción de una sociedad activa, inclusiva y equitativa y entornos urbanos más 
-  inclusivos y sostenibles.
+  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global:
 
@@ -81,8 +65,8 @@ comparabilidad: >-
   El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta información similar.
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-01-01.pdf">Metadata 11-1-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-03-02.pdf">Metadatos 11-3-2.pdf</a> (solo en inglés)
 
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

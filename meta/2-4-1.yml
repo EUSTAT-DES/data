@@ -45,11 +45,11 @@ formula: |
 
   donde:
 
-  $SANR_{\text{deseable}}^t$: Superficie agrícola correspondiente a aquellas explotaciones donde sus ingresos netos han sido positivos en los años $t$, $t-1$ y $t-2$
+  $SANR_{\text{deseable}}^t$ = superficie agrícola correspondiente a aquellas explotaciones donde sus ingresos netos han sido positivos en los años $t$, $t-1$ y $t-2$
     
-  $SANR_{\text{aceptable}}^t$: Superficie agrícola correspondiente a aquellas explotaciones donde sus ingresos netos han sido positivos en al menos uno de los años $t$, $t-1$ y $t-2$, pero no en todos ellos
+  $SANR_{\text{aceptable}}^t$ = superficie agrícola correspondiente a aquellas explotaciones donde sus ingresos netos han sido positivos en al menos uno de los años $t$, $t-1$ y $t-2$, pero no en todos ellos
     
-  $SANR_{\text{insostenible}}^t$: Superficie agrícola correspondiente a aquellas explotaciones donde sus ingresos netos no han sido positivos en ninguno de los años $t$, $t-1$ y $t-2$
+  $SANR_{\text{insostenible}}^t$ = superficie agrícola correspondiente a aquellas explotaciones donde sus ingresos netos no han sido positivos en ninguno de los años $t$, $t-1$ y $t-2$
 
 desagregacion: 
 

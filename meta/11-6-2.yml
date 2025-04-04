@@ -41,6 +41,8 @@ justificacion_global: |
   aumentar la mortalidad por infecciones y enfermedades respiratorias, cáncer de 
   pulmón y determinadas enfermedades cardiovasculares.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
+
 comparabilidad: >-
   El indicador disponible cumple con los metadatos de Naciones Unidas.
 
@@ -50,9 +52,9 @@ dato_global: >-
 
 
 indicador_meta_enlace: 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-06-02.pdf">Metadata 11-6-2.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-06-02.pdf">Metadatos 11-6-2.pdf</a> (solo en inglés)
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
