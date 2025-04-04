@@ -13,13 +13,12 @@ definicion: >-
 
 formula:  |
 
-  $$PVAB_{manufacturero,media-alta\, y\, alta}^{t} = \frac{VAB_{manufacturero,media-alta\, y\, alta}^{t}}{VAB_{manufacturero}^{t}} \cdot 100$$
-
+  $$PVAB_{manufacturero\,media-alta\, y\, alta}^{t} = \frac{VAB_{manufacturero\,media-alta\, y\, alta}^{t}}{VAB_{manufacturero}^{t}} \cdot 100$$
   donde:
 
-  $VAB_{manufacturero,media-alta\, y\, alta}^{t} $ valor añadido bruto correspondiente a las ctividades manufactureras de media-alta y alta tecnología en el año $t$
+  $VAB_{manufacturero\,media-alta\, y\, alta}^{t}$ = valor añadido bruto correspondiente a las ctividades manufactureras de media-alta y alta tecnología en el año $t$
 
-  $VAB_{manufacturero}^{t} $ valor añadido bruto total del sector manufacturero en el año $t$
+  $VAB_{manufacturero}^{t}$ = valor añadido bruto total del sector manufacturero en el año $t$
 
 
 desagregacion:  

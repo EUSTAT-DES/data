@@ -13,13 +13,13 @@ definicion: >-
 
 formula: |
 
-  $$PMAT_{mujeres,16-17}^{t} = \frac{MAT_{mujeres,16-17}^{t}}{P_{mujeres,16-17}^{t}} \cdot 100$$
+  $$PMAT_{mujeres\, 16-17}^{t} = \frac{MAT_{mujeres\, 16-17}^{t}}{P_{mujeres\, 16-17}^{t}} \cdot 100$$
 
   donde:
 
-  $MAT_{mujeres,16-17}^{t} =$ matrimonios de mujeres de 16 y 17 años con un hombre en el año $t$
+  $MAT_{mujeres\, 16-17}^{t} =$ matrimonios de mujeres de 16 y 17 años con un hombre en el año $t$
 
-  $P_{mujeres,16-17}^{t} =$ mujeres de 16 y 17 años a 1 de julio del año $t$
+  $P_{mujeres\, 16-17}^{t} =$ mujeres de 16 y 17 años a 1 de julio del año $t$
 
 desagregacion: >-
   Territorio histórico
@@ -49,7 +49,6 @@ justificacion_global: |
   tradicionales nocivas.
 
   Fuente: División de Estadísticas de las Naciones Unidas
-
 
 
 dato_global: >-

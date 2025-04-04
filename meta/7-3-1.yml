@@ -20,7 +20,7 @@ formula: |
 
   $CE^{t} =$ consumo interior bruto de energía en el año $t$
 
-  $PIB^{t} =$ producto interior bruto en paridad de poder adquisitivo en precios constantes de USD de 2017 en el año $t$ 
+  $PIB_{2017PPA}^{t} =$ producto interior bruto en paridad de poder adquisitivo en precios constantes de USD de 2017 en el año $t$ 
 
 
 desagregacion: >- 

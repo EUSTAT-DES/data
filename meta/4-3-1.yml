@@ -9,7 +9,8 @@ meta_global: meta_largo.4-3-titulo
 
 
 definicion: >-
-  Proporción de personas han realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas o 12 meses, según grupos de edad
+  Proporción de personas que han realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas o 12 meses, desglosada
+  por sexo y grupos de edad
 
 formula: |
 
@@ -45,7 +46,7 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  El indicador de Naciones Unidas define el indicador como el Porcentaje de jóvenes y adultos en un rango 
+  Naciones Unidas define el indicador como el porcentaje de jóvenes y adultos en un rango 
   de edad determinado (15-24 años, 25-54 años, 55-64 años, 15-64 años) que participaron en educación y capacitación formal 
   o no formal en los 12 meses anteriores.
 
@@ -66,5 +67,5 @@ indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Meta
 
 informacion_interes: 
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

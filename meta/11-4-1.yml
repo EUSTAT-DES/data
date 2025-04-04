@@ -60,14 +60,17 @@ justificacion_global: |
   saber si los países están reforzando o no sus esfuerzos para salvaguardar su patrimonio cultural 
   y natural. Ayudará a identificar áreas que requieren más atención a efectos de políticas.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
+
 dato_global:
 
 comparabilidad: >- 
-  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta información similar.
+  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas. Solo se incluye
+  el patrimonio cultural, y no el patrimonio natural.
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-04-01.pdf">Metadata 11-4-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-04-01.pdf">Metadatos 11-4-1.pdf</a> (solo en inglés)
 
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

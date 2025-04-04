@@ -15,7 +15,7 @@ definicion:  |
   por remuneración o beneficio, o bien no trabajó, pero tuvo un empleo del que estuvo ausente temporalmente.
 
 formula:  |
-  <b>Tasa de ocupación:</b>
+  <b>Tasa de ocupación</b>
 
   $$TA^{t} = \frac{PO^{t}}{P^{t}} $$
 
@@ -27,7 +27,7 @@ formula:  |
 
   <br>
 
-  <b>Brecha género en el empleo:</b>
+  <b>Brecha género en el empleo</b>
 
   $$BGE^{t} ={TA_{hombre}^{t} - TA_{mujer}^{t}}$$
 

@@ -13,7 +13,7 @@ definicion:  |
 
 formula:  |
 
-  <b>PIB generado por el turismo en proporción al PIB:</b>
+  <b>PIB generado por el turismo en proporción al PIB</b>
 
   $$PPIB_{turístico}^{t} = \frac{PIB_{turístico}^{t}}{PIB^{t}} \cdot 100$$
 
@@ -26,7 +26,7 @@ formula:  |
 
   <br>
 
-  <b>Tasa de crecimiento anual del PIB generado por el turismo:</b>
+  <b>Tasa de crecimiento anual del PIB generado por el turismo</b>
 
   $$TCPIB^{t}_{turístico} = \left( \frac{PIB^{t}_{turístico} - PIB^{t-1}_{turístico}}{PIB^{t-1}_{turístico}} \right) \cdot 100$$
 

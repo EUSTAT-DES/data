@@ -38,7 +38,7 @@ justificacion_global: |
 
   La participación del trabajo en el PIB busca informar sobre la proporción relativa del PIB 
   que corresponde a los trabajadores en comparación con la que corresponde al capital en 
-  un período de referencia determinado.
+  un período de referencia determinado. 
 
   Para interpretar este indicador de manera efectiva, es importante considerarlo junto 
   con las tendencias de crecimiento económico. La proporción de la remuneración del trabajo 
@@ -55,13 +55,13 @@ justificacion_global: |
   Para cualquier nivel dado de PIB y ganancias, la participación del 
   ingreso laboral puede caer como resultado de la caída de los salarios, la caída de los ingresos 
   de los trabajadores por cuenta propia, cambios en la composición del empleo por ingresos o 
-  una combinación de estos.
+  una combinación de estos. 
 
   El aumento de la producción y del PIB a menudo conduce a mejores niveles de vida de los individuos 
   en la economía, pero esto dependerá de la distribución del ingreso real y de las políticas 
-  públicas, entre otros factores.
+  públicas, entre otros factores. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+  Fuente: División de Estadísticas de las Naciones Unidas 
 
 dato_global: >-
 
@@ -69,10 +69,10 @@ dato_global: >-
 
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  TEl indicador disponible cumple con los metadatos de Naciones Unidas.
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-04-01.pdf">Metadata 10-4-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-04-01.pdf">Metadatos 10-4-1.pdf</a> (solo en inglés)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

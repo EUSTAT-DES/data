@@ -11,15 +11,15 @@ meta_global: meta_largo.9-3-titulo
 definicion: >- 
   Proporción del valor añadido bruto correspondiente a las empresas del sector manufacturero que tienen menos de 20 trabajadores respecto al valor añadido bruto total del sector manufacturero
 
-formula:  |
+formula: |
 
-  $$PVAB_{manufacturero,pequeñas\, empresas}^{t} = \frac{VAB_{manufacturero,pequeñas\, empresas}^{t}}{VAB_{manufacturero}^{t}} \cdot 100$$
+  $$PVAB_{pequeñas\, empresas\, manufactura}^{t} = \frac{VAB_{pequeñas\, empresas\, manufactura}^{t}}{VAB_{manufactura}^{t}} \cdot 100$$
 
   donde:
 
-  $VAB_{manufacturero,pequeñas\, empresas}^{t} =$ valor añadido bruto correspondiente a las empresas del sector manufacturero que tienen menos de 20 trabajadores en el año $t$
+  $VAB_{pequeñas\, empresas\, manufactura}^{t} =$ valor añadido bruto correspondiente a las empresas del sector manufacturero que tienen menos de 20 trabajadores en el año $t$
 
-  $VAB_{manufacturero}^{t} =$ valor añadido bruto total del sector manufacturero en el año $t$
+  $VAB_{manufactura}^{t} =$ valor añadido bruto total del sector manufacturero en el año $t$
 
 
 desagregacion:  |
@@ -53,10 +53,7 @@ justificacion_global: |
 
   Fuente: División de Estadísticas de las Naciones Unidas
 
-dato_global: | 
-
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.2.2&seriesCode=SL_TLF_MANF&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ISIC4_C"> Empleo manufacturero como proporción del empleo total - 13.ª CIET (%) SL_TLF_MANF</a> UNSTATS
-
+dato_global:
 
 comparabilidad: >- 
   El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.

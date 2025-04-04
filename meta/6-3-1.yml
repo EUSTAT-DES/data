@@ -12,11 +12,11 @@ definicion: |
 
   El indicador está constituido por 2 series:
 
-    - <b>Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada</b>: Proporción de la carga contaminante 
+    - Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada: Proporción de la carga contaminante 
       correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes equivalentes que depuran sus aguas 
       residuales reduciendo su nivel de contaminación hasta un límte aceptable para las aguas receptoras
 
-    - <b> Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores</b>: Proporción de la carga contaminante 
+    - Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores: Proporción de la carga contaminante 
       correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes equivalentes conectadas a un sistema 
       de conductos que recoja y conduzca sus aguas residuales hasta una instalación de tratamiento o a un punto de vertido final
 
@@ -113,5 +113,5 @@ indicador_meta_enlace:
 
 informacion_interes: 
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

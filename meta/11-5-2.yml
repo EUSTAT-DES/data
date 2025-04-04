@@ -14,7 +14,11 @@ definicion: >-
   en relación al PIB a precios corrientes
 
 formula: |
-  $$INDEMPIB^{t} = \frac{(IDP^{t}+IPP^{t}+IDB^{t})/IUIPC_{refT}^{t}}{PIB^{t}} \cdot 100 \quad \mathrm t=1,\dots,\mathrm T$$ <br>$$IUIPC_{refT}^{T} = 1$$ <br>$$IUIPC_{refT}^{t-1} = IUIPC_{refT}^{t} \cdot \frac{(100+TIPC_{dic}^{t})}{100} \quad \mathrm t=\mathrm T,\mathrm T-1,\dots,\mathrm 2$$
+  $$INDEMPIB^{t} = \frac{(IDP^{t}+IPP^{t}+IDB^{t})/IUIPC_{refT}^{t}}{PIB^{t}} \cdot 100 \quad \mathrm t=1,\dots,\mathrm T$$
+
+  $$IUIPC_{refT}^{T} = 1$$
+
+  $$IUIPC_{refT}^{t-1} = IUIPC_{refT}^{t} \cdot \frac{(100+TIPC_{dic}^{t})}{100} \quad \mathrm t=\mathrm T,\mathrm T-1,\dots,\mathrm 2$$
 
   donde:
 
@@ -53,14 +57,16 @@ justificacion_global: |
   La consecución de sus metas contribuirá al desarrollo sostenible y fortalecerá la 
   resiliencia económica, social, sanitaria y ambiental.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
+
 
 comparabilidad: >-
   El indicador disponible no cumple con los metadatos de Naciones Unidas, 
   pero aporta información similar
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-05-02.pdf">Metadata 11-5-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-02.pdf">Metadatos 1-5-2.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

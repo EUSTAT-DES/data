@@ -18,8 +18,8 @@ formula: |
 
   donde:
 
-  $PNIAM_{16+}^{t} =$ población de 16 y más años que indica necesidades insatisfechas de atención médica en el año $t$
-  $P_{16+}^{t} =$ población de 16 y más años en el año $t$
+  $PNIAM_{16+}^{t} =$ población de 16 y más años que indica necesidades insatisfechas de atención médica en el año $t$ 
+  $P_{16+}^{t} =$ población de 16 y más años en el año $t$ 
 
 desagregacion: >- 
   Sexo

@@ -13,7 +13,7 @@ definicion: >-
 
 formula: |
 
-  $IACC_{gravedad}^{t} = \frac{ACC_{gravedad}^{t}}{PE_{OIT}^{t}} \cdot 100.000$$
+  $$IACC_{gravedad}^{t} = \frac{ACC_{gravedad}^{t}}{PE_{OIT}^{t}} \cdot 100.000$$
 
   donde:
 
@@ -23,7 +23,7 @@ formula: |
 
 desagregacion: |
 
-  Gravedad: mortal, no mortal
+  Gravedad: mortal; no mortal
 
   Sexo
 

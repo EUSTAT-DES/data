@@ -22,15 +22,15 @@ formula: |
 
   donde:
 
-  $IDP^{t}$ indemnizaciones por daños personales pagadas y/o provisionadas en el año $t$ a precios del año $T$
+  $IDP^{t}$ = indemnizaciones por daños personales pagadas y/o provisionadas en el año $t$ a precios del año $T$
 
-  $IPP^{t}$ indemnizaciones por pérdidas pecuniarias pagadas y/o provisionadas en el año $t$ a precios del año $T$
+  $IPP^{t}$ = indemnizaciones por pérdidas pecuniarias pagadas y/o provisionadas en el año $t$ a precios del año $T$
 
-  $IDB^{t}$ indemnizaciones por daños de bienes pagadas y/o provisionadas en el año $t$ a precios del año $T$
+  $IDB^{t}$ = indemnizaciones por daños de bienes pagadas y/o provisionadas en el año $t$ a precios del año $T$
 
-  $TIPC_{dic}^{t}$ tasa de variación anual del IPC nacional en el mes de diciembre del año $t$ 
+  $TIPC_{dic}^{t}$ = tasa de variación anual del IPC nacional en el mes de diciembre del año $t$ 
 
-  $PIB^{t}$ producto interior bruto en términos corrientes en el año $t$
+  $PIB^{t}$ = producto interior bruto en términos corrientes en el año $t$
 
 desagregacion: Territorio histórico
 
@@ -68,5 +68,5 @@ indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Meta
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

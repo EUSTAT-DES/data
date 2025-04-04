@@ -14,11 +14,11 @@ definicion: >-
 
 formula: |
 
-  $$PPN2_{c}^{t} = \frac{PN2_{16-65,c}^{t}}{P_{16-65}^{t}}$$
+  $$PPN2_{c}^{t} = \frac{PN2_{16-65\,c}^{t}}{P_{16-65}^{t}}$$
 
   donde:
 
-  $PN2_{16-65,c}^{t} =$ población entre 16 y 65 años que ha alcanzado al menos el nivel 2 de competencia 
+  $PN2_{16-65\,c}^{t} =$ población entre 16 y 65 años que ha alcanzado al menos el nivel 2 de competencia 
   en la escala del tipo de competencia $c$ en el año $t$
 
   $P_{16-65}^{t} =$ población entre 16 y 65 años años en el año $t$
@@ -38,12 +38,12 @@ observaciones: |
   para evaluar la comprensión lectora y la competencia en matemáticas. Para ayudar a 
   interpretar esas puntuaciones, la escala se divide en seis categorías de  competencia:
 
-   -Inferior al nivel 1: puntuación inferior a 176
-   -Nivel 1: puntuación entre 176 y 225
-   -Nivel 2: puntuación entre 226 y 275
-   -Nivel 3: puntuación entre 276 y 325
-   -Nivel 4: puntuación entre 326 y 375
-   -Nivel 5: puntuación entre 376 y 500
+   - Inferior al nivel 1: puntuación inferior a 176
+   - Nivel 1: puntuación entre 176 y 225
+   - Nivel 2: puntuación entre 226 y 275
+   - Nivel 3: puntuación entre 276 y 325
+   - Nivel 4: puntuación entre 326 y 375
+   - Nivel 5: puntuación entre 376 y 500
 
   Una persona alcanza al menos el nivel 2 de competencia en la escala de comprensión lectora cuando 
   habitualmente es capaz de entender textos sobre temas que no conoce, aunque tenga dificultades ante 
@@ -76,7 +76,7 @@ justificacion_global: >-
   definiciones de la UNESCO, que ubren un continuo de niveles de competencia en lugar de una dicotomía. 
   Una persona es alfabetizada funcionalmente si puede participar en todas aquellas actividades en las que la 
   alfabetización es necesaria para el funcionamiento eficaz de su grupo y comunidad y también le permite 
-  seguir utilizando la lectura, la escritura y el cálculo para su propio desarrollo y el de la comunidad.
+  seguir utilizando la lectura, la escritura y el cálculo para su propio desarrollo y el de la comunidad. 
 
   Fuente: División de Estadísticas de las Naciones Unidas
 

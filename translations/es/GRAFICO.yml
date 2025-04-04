@@ -39,7 +39,7 @@ nodisponible: No hay datos disponibles para este indicador
 4-1-2-titulo: "Tasa de finalización (educación secundaria inferior y educación secundaria superior)"
 4-2-2-titulo: "Tasa neta de escolarización a los 5 años"
 4-3-1-titulo: "Tasa de participación de jóvenes y adultos en la educación y formación académica y no académica, desglosada por sexo"
-4-5-1-titulo: "Índices de paridad (entre mujeres y hombres, quintiles de riqueza superior e inferior, municipios de más y menos de 10.000 habitantes y personas con y sin limitaciones por problemas de salud) en la realización de actividades educativas (formales o no formales) en los últimos 12 o 4 semanas"
+4-5-1-titulo: "Índices de paridad (entre mujeres y hombres, quintiles de riqueza superior e inferior, municipios de más y menos de 10.000 habitantes y personas con y sin limitaciones por problemas de salud) en la realización de actividades educativas (formales o no formales) en los últimos 12 meses o 4 semanas"
 4-6-1-titulo: "Proporción de personas entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de comprensión lectora y en matemáticas"
 
 5-1-1-titulo: "Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género"
@@ -80,8 +80,9 @@ nodisponible: No hay datos disponibles para este indicador
 11-5-2-titulo: "Indemnizaciones por daños personales, pérdidas pecuniarias y daños de bienes pagadas y/o provisionadas en proporción al PIB" 
 11-6-1-titulo: "Residuos urbanos recogidos per cápita y proporción de residuos tratados, desglosados por tipo de tratamiento"
 11-6-2-titulo: "Niveles medios anuales de partículas finas en suspensión (PM2.5 y PM10) en las ciudades (ponderados según la población)"
+11-7-1-titulo: "Proporción media de la superficie edificada de las ciudades que se dedica a espacios abiertos para uso público de todos"
 11-7-2-titulo: "Número de personas que han sido víctimas de acoso no sexual o sexual en los últimos 12 meses por cada 100.000 habitantes"
-11-a-1-titulo: "Proporción de la población residente en municipios que disponen de Plan General o Normas Subsidiarias o figuras equivalentes"
+11-a-1-titulo: "Proporción de la población residente en municipios que cuentan con un plan de ordenación territorial, o que dispone de Plan General, Normas Subsidiarias o figuras equivalentes"
 
 
 12-1-1-titulo: "Se elaboran, adoptan o aplican instrumentos de política destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles"
@@ -197,7 +198,7 @@ OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
 4-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 4-4-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
-4-5-1-contenido: "Se mide el indicador educativo: realización de actividades educativas (formales o no formales). <b>Dirección deseada:</b> Índice=1"
+4-5-1-contenido: "Se mide el siguiente indicador de educación: realización de actividades educativas (formales o no formales). <b>Dirección deseada:</b> Índice=1"
 4-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 4-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 4-c-1-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -276,8 +277,14 @@ OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
 11-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
 11-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 11-6-2-contenido: "<b>Dirección deseada:</b> Descenso"
-11-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-
+11-a-1-contenido:  |
+  Las <a href="https://www.euskadi.eus/directrices-de-ordenacion-territorial-dot/web01-a3lurral/es/">
+  Directrices de Ordenación Territorial</a> proporcionan los criterios relativos a la cuantificación residencial del planeamiento de los municipios vascos
+  atendiendo a la variación de la población residente, la variación del tamaño medio familiar o la demanda de vivienda.
+  Los <a href="https://www.euskadi.eus/informacion/planes-territoriales-parciales-ptp/web01-a3lurral/es/">
+  Planes Territoriales Parciales</a> desarrollan las Directrices de Ordenación Territorial en los quince ámbitos geográficos, 
+  denominados Areas Funcionales, y definen los objetivos de la ordenación a partir del análisis del estado del territorio, 
+  de la situación socioeconómica y de sus posibilidades de evolución.
 12-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 12-2-2-contenido: "<b>Dirección deseada:</b> Descenso en la serie Consumo material interno por PIB"
 12-4-2-contenido: "<b>Dirección deseada:</b> Ascenso en la proporción de residuos peligrosos reciclados"
