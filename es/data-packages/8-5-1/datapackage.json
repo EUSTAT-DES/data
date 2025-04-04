@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ingreso medio por hora de las personas empleadas",
+                "Salario medio por hora",
                 "Brecha de género en el salario medio por hora",
                 ""
               ]

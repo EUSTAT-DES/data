@@ -29,12 +29,12 @@ EN_MAT_DOMCMPG,Consumo doméstico de materiales por PIB,EN_MAT_DOMCMPG,EN_MAT_DO
 EN_MAT_DOMCMPT,Consumo doméstico de materiales en términos absolutos,EN_MAT_DOMCMPT,EN_MAT_DOMCMPT,2,2
 EN_MWT_RCYR,Proporción de residuos urbanos reciclados,EN_MWT_RCYR,EN_MWT_RCYR,4,1
 EN_MWT_TREATV,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",EN_MWT_TREATV,EN_MWT_TREATV,12,1
-EN_REF_WASCOL,Proporción de residuos sólidos municipales recogidos y administrados en instalaciones controladas,EN_REF_WASCOL,EN_REF_WASCOL,4,1
+EN_REF_WASCOL,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,EN_REF_WASCOL,EN_REF_WASCOL,4,1
 EN_WWT_WWDS,Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada,EN_WWT_WWDS,EN_WWT_WWDS,1,1
 EU_BATH_PARTIC,Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión de aguas de baño,EU_BATH_PARTIC,EU_BATH_PARTIC,1,1
 EU_CNCR_BCI,Cáncer de mama,EU_CNCR_BCI,EU_CNCR_BCI,1,1
 EU_CNCR_CCR,Cáncer colorrectal,EU_CNCR_CCR,EU_CNCR_CCR,3,1
-EU_DSR_SILS_TH,Proporción de municipios cubiertos por un plan de emergencias territorial,EU_DSR_SILS_TH,EU_DSR_SILS_TH,552,2
+EU_DSR_SILS_TH,Proporción de municipios cubiertos por un plan de emergencias territorial,EU_DSR_SILS_TH,EU_DSR_SILS_TH,828,3
 EU_ECOLABEL,Número de licencias de Ecolabel (Etiqueta Ecológica Europea ),EU_ECOLABEL,EU_ECOLABEL,4,1
 EU_EMAS,Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental (EMAS),EU_EMAS,EU_EMAS,4,1
 EU_EMP_LFS,Tasa de ocupación,EU_EMP_LFS,EU_EMP_LFS,837,1
@@ -94,7 +94,7 @@ SE_TRA_GRDL,"Proporción de docentes con las calificaciones mínimas requeridas,
 SG_DMK_JDC,Proporción de mujeres en el poder judicial en relación con la proporción de mujeres en la población,SG_DMK_JDC,SG_DMK_JDC,1,1
 SG_DMK_PARLMP_LC,Proporción de mujeres en el parlamento en relación con la proporción de mujeres en la población,SG_DMK_PARLMP_LC,SG_DMK_PARLMP_LC,1,1
 SG_DMK_PSRVC,Proporción de mujeres en la administración pública en relación con la proporción de mujeres en la población,SG_DMK_PSRVC,SG_DMK_PSRVC,56,1
-SG_DSR_SILS,Proporción de municipios que disponen de un plan municipal de emergencias,SG_DSR_SILS,SG_DSR_SILS,552,2
+SG_DSR_SILS,Proporción de municipios que disponen de un plan municipal de emergencias,SG_DSR_SILS,SG_DSR_SILS,828,3
 SG_LGL_GENEQEMP,Area 3: empleo y subsidios económicos,SG_LGL_GENEQEMP,SG_LGL_GENEQEMP,1,1
 SG_LGL_GENEQLFP,Area 1: marco legal global y vida pública,SG_LGL_GENEQLFP,SG_LGL_GENEQLFP,1,1
 SG_LGL_GENEQMAR,Area 4: matrimonio y familia,SG_LGL_GENEQMAR,SG_LGL_GENEQMAR,1,1
@@ -115,7 +115,7 @@ SI_AGR_LSFP,Ingresos medios de los grandes productores de alimentos,SI_AGR_LSFP,
 SI_AGR_SSFP,Ingresos medios de los pequeños productores de alimentos,SI_AGR_SSFP,SI_AGR_SSFP,4,1
 SI_COV_PENSN,Proporción de la población que supera la edad legal de jubilación y recibe una pensión,SI_COV_PENSN,SI_COV_PENSN,12,1
 SI_COV_UEMP,Proporción de personas desempleadas que reciben prestaciones por desempleo,SI_COV_UEMP,SI_COV_UEMP,12,1
-SL_EMP_EARN,Ingreso medio por hora de las personas empleadas,SL_EMP_EARN,SL_EMP_EARN,5,1
+SL_EMP_EARN,Salario medio por hora,SL_EMP_EARN,SL_EMP_EARN,5,1
 SL_EMP_GTOTL,Proporción del PIB generada por el trabajo,SL_EMP_GTOTL,SL_EMP_GTOTL,4,1
 SL_TLF_NEET_19ICLS,"Proporción de jóvenes  que no cursan estudios, no están empleados ni reciben capacitación",SL_TLF_NEET_19ICLS,SL_TLF_NEET_19ICLS,12,1
 SL_TLF_UEM,Tasa de desempleo,SL_TLF_UEM,SL_TLF_UEM,4,1
