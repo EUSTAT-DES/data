@@ -20,7 +20,7 @@ formula: |
 
   donde:
 
-  $MUN_{RRD\, municipal} =$ número de gobiernos locales con planes municipales de emergencias en el año $t$
+  $MUN_{RRD\, municipal}^{t} =$ número de gobiernos locales con planes municipales de emergencias en el año $t$
 
   $MUN^{t} =$ número de gobiernos locales en el año $t$
 
@@ -32,7 +32,7 @@ formula: |
 
   donde:
 
-  $MUN_{RRD\, territorial} =$ número de gobiernos locales con planes territoriales de emergencias en el año $t$
+  $MUN_{RRD\, territorial}^{t} =$ número de gobiernos locales con planes territoriales de emergencias en el año $t$
 
   $MUN^{t} =$ número de gobiernos locales en el año $t$
   
@@ -50,8 +50,8 @@ observaciones: |
   Bases del Régimen Local, esta directriz es recomendatoria. En 2024, el 96% de los municipios de 5.000 a 20.000 habitantes 
   y el 25% de los municipios de 1.000 a 5.000 habitantes disponen de Plan de Emergencia Municipal homologado.
 
-
 periodicidad: FUENTE.FREQ_A
+
 
 
  # Metadatos mundiales (Descripción del indicador)  

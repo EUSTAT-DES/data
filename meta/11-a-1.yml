@@ -15,7 +15,7 @@ definicion: |
 
 formula: |
 
-  <b>Indicador de anomalías en los precios de los alimentosProporción de la población residente en municipios que cuentan con un plan de ordenación territorial
+  <b>Proporción de la población residente en municipios que cuentan con un plan de ordenación territorial</b>
   
   $$PPTP^{t} = \frac{PTP^{t}}{P^{t}} \cdot 100$$
 
@@ -86,5 +86,5 @@ dato_global: >-
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-0a-01.pdf">Metadatos 11-a-1.pdf</a> (solo en inglés)'
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
