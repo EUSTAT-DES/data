@@ -20,7 +20,7 @@ formula: |
 
   where:
 
-  $MUN_{RRD\, municipal} =$ number of local governments with municipal emergency plans in the year $t$
+  $MUN_{RRD\, municipal}^{t} =$ number of local governments with municipal emergency plans in the year $t$
 
   $MUN^{t} =$ number of local governments in the year $t$
 
@@ -32,7 +32,7 @@ formula: |
 
   where:
 
-  $MUN_{RRD\, territorial} =$ number of local governments with territorial emergency plans in the year $t$
+  $MUN_{RRD\, territorial}^{t} =$ number of local governments with territorial emergency plans in the year $t$
 
   $MUN^{t} =$ number of local governments in the year $t$
   
