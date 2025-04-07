@@ -1,0 +1,68 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.12-titulo
+# meta_global: meta_largo.12-4-titulo
+#  indicador_onu_global: indicador_largo.12-4-1-titulo
+
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  El indicador propuesto está orientado a procesos y se centra en el cumplimiento 
+  de las obligaciones que contribuyen al objetivo general de lograr la gestión 
+  ambientalmente racional de las sustancias químicas y todos 
+  los residuos a lo largo de su ciclo de vida. 
+
+  No mide la cantidad de sustancias químicas presentes en los medios 
+  ni cuantifica los impactos adversos en la salud humana y el medio ambiente. 
+  Sin embargo, los acuerdos ambientales multilaterales se desarrollaron y adoptaron para abordar los 
+  desafíos más urgentes para la salud humana y el medio ambiente y, 
+  por lo tanto, mediante su implementación, se avanzará en la reducción de
+  las emisiones al aire, el agua y el suelo, así como de la presencia de 
+  sustancias químicas peligrosas en los productos.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.4.1&seriesCode=SG_HAZ_CMRMNTRL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Partes que cumplen sus compromisos y obligaciones en la transmisión de información según lo exige 
+  el Protocolo de Montreal sobre residuos peligrosos y otros productos químicos (%) SG_HAZ_CMRMNTRL</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.4.1&seriesCode=SG_HAZ_CMRROTDAM&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Partes que cumplen sus compromisos y obligaciones en la transmisión de información según lo exige 
+  el Convenio de Rotterdam sobre residuos peligrosos y otros productos químicos (%) SG_HAZ_CMRROTDAM</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.4.1&seriesCode=SG_HAZ_CMRBASEL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Partes que cumplen sus compromisos y obligaciones en la transmisión de información según lo exige 
+  el Convenio de Basilea sobre residuos peligrosos y otros productos químicos (%) SG_HAZ_CMRBASEL</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.4.1&seriesCode=SG_HAZ_CMRSTHOLM&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Partes que cumplen sus compromisos y obligaciones en la transmisión de información según lo exige 
+  el Convenio de Estocolmo sobre residuos peligrosos y otros productos químicos (%) SG_HAZ_CMRSTHOLM</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.4.1&seriesCode=SG_HAZ_CMRMNMT&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Partes que cumplen sus compromisos y obligaciones en la transmisión de información según lo exige el 
+  Convenio de Minamata sobre residuos peligrosos y otros productos químicos (%) SG_HAZ_CMRMNMT</a> UNSTATS
+
+
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-04-01.pdf">Metadatos 12-4-1.pdf</a> (solo en inglés)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

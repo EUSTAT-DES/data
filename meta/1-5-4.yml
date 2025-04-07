@@ -7,11 +7,10 @@ objetivo_global: objetivo_largo.1-titulo
 meta_global: meta_largo.1-5-titulo
 #  indicador_onu_global: indicador_largo.1-5-4-titulo
 
-
 definicion: >-
   Porcentaje de gobiernos locales que adoptan e implementan estrategias locales de reducción del riesgo de desastres mediante
   planes territoriales de emergencias y planes municipales de emergencias
-  
+
 
 formula: |
   <b>Porcentaje de municipios que disponen de un plan municipal de emergencias</b>
@@ -20,7 +19,7 @@ formula: |
 
   donde:
 
-  $MUN_{RRD\, municipal} =$ número de gobiernos locales con planes municipales de emergencias en el año $t$
+  $MUN_{RRD\, municipal}^{t} =$ número de gobiernos locales con planes municipales de emergencias en el año $t$
 
   $MUN^{t} =$ número de gobiernos locales en el año $t$
 
@@ -32,7 +31,7 @@ formula: |
 
   donde:
 
-  $MUN_{RRD\, territorial} =$ número de gobiernos locales con planes territoriales de emergencias en el año $t$
+  $MUN_{RRD\, territorial}^{t} =$ número de gobiernos locales con planes territoriales de emergencias en el año $t$
 
   $MUN^{t} =$ número de gobiernos locales en el año $t$
   
@@ -90,5 +89,5 @@ indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Meta
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

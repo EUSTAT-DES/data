@@ -12,22 +12,23 @@ definicion: >-
 
 formula: |
 
-  $$PSC_{espacios\, públicos\, abiertos\, y\, calles}^{t} = \frac{SC_{espacios\, públicos\, abiertos}^{t}}+{SC_{calles}^{t}}{SC^{t}} \cdot 100$$
+  $$PSC_{espacios\, públicos\, abiertos\, y\, calles}^{t} = \frac{SC_{espacios\, públicos\, abiertos}^{t} + SC_{calles}^{t}}{SC^{t}} \cdot 100$$
 
   donde:
 
-  $SC_{espacios\, públicos\, abiertos} =$ superficie construida destinada a espacios públicos abiertos en el año $t$
+  $SC_{espacios\, públicos\, abiertos}^{t} =$ superficie construida destinada a espacios públicos abiertos en el año $t$
 
-  $SC_{calles}^{t}} =$ superficie construida destinada a calles en el año $t$
+  $SC_{calles}^{t} =$ superficie construida destinada a calles en el año $t$
 
-  $SC^{t}} =$ superficie total construida en el año $t$
+  $SC^{t} =$ superficie total construida en el año $t$
 
 desagregacion:
 
 observaciones:
 
-periodicidad: FUENTE.FREQ_A
+periodicidad: FUENTE.FREQ_I
 texto_oceca: FUENTE.oceca
+
 
  # Metadatos mundiales (Descripción del indicador)  
 

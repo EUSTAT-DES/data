@@ -8,28 +8,26 @@ meta_global: meta_largo.12-5-titulo
 #  indicador_onu_global: indicador_largo.12-5-1-titulo
 
 definicion: >-
-  Proporción de residuos municipales reciclados respecto del total de residuos municipales 
+  Proporción de residuos urbanos o municipales reciclados respecto del total de residuos urbanos 
   generados y tratados procedentes de los hogares y del sector servicios (comercios, 
-  oficinas e instituciones públicas o privadas), cuya gestión es asumida por las Entidades Locales
+  oficinas e instituciones públicas o privadas), cuya gestión es asumida por las entidades locales
 
 formula: |
 
-  $$RURP^{t} = \frac{\frac{RUR^{t}}{P^{t}}}{365} $$
+  $$PRU_{reciclados}^{t} = \frac{\frac{RU_{reciclados}^{t}}{P^{t}}}{365} $$
 
   donde: 
 
-  $RUR^{t} =$ cantidad de residuos urbanos recogidos en el año $t$
+  ${RU_{reciclados}^{t} =$ cantidad de residuos urbanos o municipales reciclados en el año en el año $t$
 
-  $P^{t} =$ población a 1 de julio del año $t$
+  $RU^{t} =$ cantidad total de residuos urbanos o municipales generados y tratados en el año $t$
+
 
 desagregacion: |
   Territorio histórico
 
 
-observaciones: >-
-
-  La recogida de residuos urbanos comprende los residuos domésticos y aquellos residuos comerciales o industriales similares a los anteriores que sean de competencia municipal, recogidos mediante contenedores urbanos, puntos limpios u otros sistemas de recogida municipal. También incluye los residuos de la limpieza viaria y los residuos biodegradables de la limpieza de parques y jardines.
-
+observaciones: 
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
@@ -48,6 +46,8 @@ justificacion_global: |
   abordar los principales flujos de residuos, por ejemplo, los desechos electrónicos 
   o el plástico.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
+
 comparabilidad: >-
   El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas.
 
@@ -58,5 +58,5 @@ indicador_meta_enlace:
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

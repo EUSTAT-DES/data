@@ -9,7 +9,7 @@ meta_global: meta_largo.11-6-titulo
 
 definicion: >-
   Residuos urbanos recogidos per cápita y proporción de residuos urbanos tratados (incinerados, 
-  vertidos y reciclados) en relación al total de residuos municipales generados. Se 
+  vertidos y reciclados) en relación al total de residuos urbanos generados. Se 
   consideran residuos urbanos los procedentes de los hogares y del sector servicios 
   (comercios, oficinas e instituciones públicas o privadas), cuya gestión es asumida por 
   las entidades locales
@@ -28,7 +28,7 @@ formula: |
 
   <br>
 
-  Proporción de residuos urbanos recogidos y gestionados en instalaciones controladas
+  <b> Proporción de residuos urbanos recogidos y gestionados en instalaciones controladas</b>
 
   $$PRUR^{t} = \frac{RUG^{t}}{RUR^{t}} \cdot 100$$
 
@@ -51,7 +51,7 @@ formula: |
 
 desagregacion: |
   Operación de tratamiento de residuos: reciclaje, incineración con recuperación de energía,
-  depósito en vertedero.
+  depósito en vertedero
 
   Territorio histórico
 

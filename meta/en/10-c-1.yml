@@ -1,0 +1,56 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.10-titulo
+# meta_global: meta_largo.10-c-titulo
+#  indicador_onu_global: indicador_largo.10-c-1-titulo
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:
+
+texto_oceca:
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  
+  Data for this indicator have been collected by the World Bank 
+  through the Remittance Prices Worldwide (RPW) database since 2008 
+  for the purpose of monitoring the G8/G20 target on reducing remittance 
+  prices. Also known as the “5x5 Objective”, this goal was adopted by 
+  the G8 in 2009, and it refers to the reduction of the global average 
+  total cost of migrant remittances by 5 percentage points in 5 years. 
+
+  To achieve this objective, the governments in both sending and receiving 
+  countries should consider implementing reforms based upon the General 
+  Principles for International Remittances Services by the World Bank/Committee 
+  on Payment and Settlement Systems (January 2007). This internationally agreed 
+  framework has proven effective in helping reduce the cost of remittances and 
+  guiding actions to enhance the efficiency of international remittances. 
+
+  The World Bank’s RPW database is the only global database that monitors 
+  remittance prices across all regions of the world. RPW was launched by the 
+  World Bank in September 2008, and is a key tool in monitoring the evolution 
+  of costs to the remitters and the beneficiaries from sending and receiving 
+  money in major country corridors. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=10.c.1&seriesCode=SI_RMT_COST&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Average remittance costs of sending $200 to a receiving country as a proportion of the amount remitted (%) SI_RMT_COST</a> UNSTATS
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-0c-01.pdf">Metadata 10-c-1.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

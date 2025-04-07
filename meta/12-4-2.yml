@@ -24,6 +24,8 @@ formula: |
 
   $P^{t} =$ población a 1 de julio del año $t$
 
+  <br>
+
   <b> Proporción de residuos peligrosos tratados, por tipo de tratamiento</b> 
 
   $$PRP_{tratamiento}^{t} = \frac{RP_{tratamiento}^{t}}{RP^{t}} \cdot 100$$ <br> 
@@ -45,6 +47,7 @@ observaciones: >-
 
 
 periodicidad: FUENTE.FREQ_A
+
 
  # Metadatos mundiales (Descripción del indicador)  
 
@@ -73,15 +76,17 @@ justificacion_global: |
   (laminados y envases multicapa), pero que presentan peligrosidad de diversas 
   maneras cuando se desechan de manera inadecuada y terminan en el aire, el agua o se queman.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
+
 comparabilidad: >-
   El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas.
 
 dato_global:
 
 indicador_meta_enlace: 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-04-02.pdf">Metadata 12-4-2.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-04-02.pdf">Metadatos 12-4-2.pdf</a> (solo en inglés)
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
