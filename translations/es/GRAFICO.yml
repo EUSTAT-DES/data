@@ -75,11 +75,11 @@ nodisponible: No hay datos disponibles para este indicador
 10-7-3-titulo: "Número de personas refugiadas por cada 100.000 habitantes"
 
 11-1-1-titulo: "Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda"
-11-4-1-titulo: "Total de gastos per cápita de fuente de financiación pública destinados a la preservación, protección y conservación de todo el patrimonio cultural, desglosado por nivel de gobierno (autonómico y local/municipal)"
+11-4-1-titulo: "Gasto per cápita de las administraciones públicas autonómicas y locales en la preservación, protección y conservación del patrimonio cultural"
 11-5-1-titulo: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
 11-5-2-titulo: "Indemnizaciones por daños personales, pérdidas pecuniarias y daños de bienes pagadas y/o provisionadas en proporción al PIB" 
 11-6-1-titulo: "Residuos urbanos recogidos per cápita y proporción de residuos tratados, desglosados por tipo de tratamiento"
-11-6-2-titulo: "Niveles medios anuales de partículas finas en suspensión (PM2.5 y PM10) en las ciudades (ponderados según la población)"
+11-6-2-titulo: "Niveles medios anuales de partículas finas en suspensión ($PM_{2,5}$ y $PM_{10}$) en las ciudades (ponderados según la población)"
 11-7-1-titulo: "Proporción media de la superficie edificada de las ciudades que se dedica a espacios abiertos para uso público de todos"
 11-7-2-titulo: "Número de personas que han sido víctimas de acoso no sexual o sexual en los últimos 12 meses por cada 100.000 habitantes"
 11-a-1-titulo: "Proporción de la población residente en municipios que cuentan con un plan de ordenación territorial, o que dispone de Plan General, Normas Subsidiarias o figuras equivalentes"
@@ -287,6 +287,25 @@ OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
   de la situación socioeconómica y de sus posibilidades de evolución.
 12-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 12-2-2-contenido: "<b>Dirección deseada:</b> Descenso en la serie Consumo material interno por PIB"
+12-4-1-contenido:  |
+  El indicador se refiere al número de Estados (Partes) que han ratificado, aceptado, aprobado o se han adherido a los 
+  siguientes cinco Acuerdos Ambientales Multilaterales (AAM). Estos acuerdos están regulados en el ámbito de la 
+  Unión Europea, aunque la información requerida por las Secretarías de las respectivas Convenciones se gestiona a 
+  nivel estatal. Los cinco acuerdos y las bases legales europeas son:
+
+   1. <a href="http://www.basel.int/">Convenio de Basilea</a> sobre el control de los movimientos transfronterizos de los residuos peligrosos y su eliminación:
+    <a href="https://eur-lex.europa.eu/legal-content/ES/ALL/?uri=celex%3A32006R1013">
+  Reglamento (CE)  1013/2006 del Parlamento Europeo y del Consejo</a>, de 14 de junio de 2006 , relativo a los traslados de residuos 
+
+   2. <a href="http://www.pic.int/">Convenio de Róterdam</a> sobre el procedimiento de consentimiento fundamentado previo aplicable a ciertos plaguicidas y productos químicos peligrosos objeto de comercio internacional: <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?qid=1616424284711&uri=CELEX%3A32012R0649">Reglamento (UE) 649/2012 del Parlamento Europeo y del Consejo</a>, de 4 de julio de 2012 , relativo a la exportación e importación de productos químicos peligrosos
+
+   3. <a href="http://www.pops.int/">Convenio de Estocolmo</a> sobre contaminantes orgánicos persistentes: <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?qid=1616424312742&uri=CELEX%3A32019R1021">Reglamento (UE) 2019/1021 del Parlamento Europeo y del Consejo</a>, de 20 de junio de 2019, sobre contaminantes orgánicos persistentes
+
+   4. <a href="https://ozone.unep.org/treaties/montreal-protocol">Protocolo de Montreal</a> relativo a las sustancias que agotan la capa de ozono: <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?qid=1616423953157&uri=CELEX%3A32009R1005">Reglamento (CE) n o 1005/2009 del Parlamento Europeo y del Consejo</a>, de 16 de septiembre de 2009 , sobre las sustancias que agotan la capa de ozono
+
+   5. <a href="http://www.mercuryconvention.org/">Convenio de Minamata</a> sobre el mercurio: <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?qid=1616424340862&uri=CELEX%3A32017R0852">Reglamento (UE) 2017/852 del Parlamento Europeo y del Consejo</a>, de 17 de mayo de 2017, sobre el mercurio
+
+
 12-4-2-contenido: "<b>Dirección deseada:</b> Ascenso en la proporción de residuos peligrosos reciclados"
 12-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 12-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -300,6 +319,7 @@ OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
 
   En octubre de 2021, el gobierno vasco adoptó el Plan de Transición Energética y Cambio Climático 2021-2024, en el que se fijan los objetivos climáticos para el año 2024:
   reducir en un 30% la emisión de gases de efecto invernadero; lograr que la cuota de energías renovables represente el 20% del consumo final de energía; y asegurar la resiliencia del territorio vasco al cambio climático.
+
 13-2-2-contenido: "<b>Dirección deseada:</b> Descenso en la serie Emisiones totales de gases de efecto invernadero"
 
 14-3-1-contenido: "<b>Dirección deseada:</b> Mantenimiento"
