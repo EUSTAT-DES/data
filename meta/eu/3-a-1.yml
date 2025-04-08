@@ -1,0 +1,76 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.3-a-1-titulo
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-a-titulo
+#  indicador_onu_global: indicador_largo.3-a-1-titulo
+
+
+definicion: >-
+  Egunero erretzen duten 15 urteko eta gehiagoko pertsonen proportzioa
+
+formula: |
+
+  $$PPFD_{15+}^{t} = \frac{PFD_{15+}^{t}}{P_{15+}^{t}} \cdot 100$$
+
+  donde:
+
+  $PFD_{15+}^{t} =$ Egunero erretzen duten 15 urteko eta gehiagoko biztanleak $t$ urtean
+
+  $P_{15y+}^{t} =$ 15 urteko eta gehiagoko biztanleak $t$ urtean
+
+
+desagregacion: | 
+  Sexua
+
+  Lurralde historikoa
+
+periodicidad: FUENTE.FREQ_A5
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+
+  Nazio Batuen adierazlea honela definitzen da: gaur egun tabako-produkturen bat (tabakoa erreta eta/edo 
+  kerik gabe) egunero edo egunero kontsumitzen duen 15 urteko edo gehiagoko biztanleriaren ehunekoa.
+
+  Tabako-kontsumoa gaixotasun ez-kutsakorren (GEK) ondoriozko gaixotasun- eta heriotza-kausa nagusietako 
+  bat da. Ez da frogatu tabakoaren kontsumoa edo besteren tabako-kearen esposizioa seguruak direnik. Tabakoa 
+  egunero eta ez egunero kontsumitzen duten guztiek hainbat osasun-arazo izateko arriskua dute bizitzan zehar, 
+  ENTak barne.
+
+  Tabakoaren egungo kontsumoaren prebalentzia murrizteak GEKagatiko hilkortasun goiztiarra murrizten lagunduko 
+  du neurri handi batean (3.4 helburua).
+
+  Adierazle horren jarraipen sistematikoa eta erregularra beharrezkoa da OMEren Tabakoa Kontrolatzeko Esparru 
+  Hitzarmenaren (MOEren CMCT) aplikazioaren edo OMEren CMCTko kide ez diren herrialdeetan tabakoa kontrolatzeko 
+  politiken aplikazioaren jarraipen eta ebaluazio zehatza egin ahal izateko, denboran zehar.
+
+  Tabako-kontsumoaren prebalentzia-mailak adierazle egokiak dira GJHen 3.a helburua aplikatzeko: "Tabakoa 
+  Kontrolatzeko Osasunaren Mundu Erakundearen Esparru Hitzarmenaren aplikazioa indartzea herrialde guztietan, 
+  dagokionaren arabera".
+
+  Iturria: Nazio Batuen Estatistika Dibisioa  
+
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.a.1&seriesCode=SH_PRV_SMOK&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15%2B%20%7C%20BOTHSEX"> 15 urte edo gehiagoko pertsonen egungo tabako-kontsumoaren prebalentzia estandarizatua adinaren arabera, sexuaren arabera (%) SH_PRV_SMOK</a> UNSTATS
+
+
+comparabilidad: >- 
+  El indicador disponible no cumple estrictamente con los metadatos de Naciones Unidas pero aporta información similar.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0a-01.pdf">Metadatuak 3-a-1.pdf</a> (ingelesez bakarrik)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

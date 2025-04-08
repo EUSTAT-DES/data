@@ -1,0 +1,79 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.7-2-1-title
+
+objetivo_global: objetivo_largo.7-titulo
+meta_global: meta_largo.7-2-titulo
+#  indicador_onu_global: indicador_largo.7-2-1-titulo
+
+
+definicion: >- 
+
+  Energia berriztagarrien proportzioa energiaren azken kontsumo gordinean
+
+formula: |
+
+  $$PER^{t} = \frac{ER^{t}}{CFE^{t}^{t}} \cdot 100$$ 
+
+  non:
+
+  $ER^{t} =$ iturri berriztagarrietatik sortutako energiaren kontsumoa $t$ urtean
+
+  $CFE^{t} =$ energiaren azken kontsumo gordina $t$ urtean 
+
+
+desagregacion: >- 
+ 
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >- 
+
+
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  “Hemendik 2030era, munduko energia-matrizean energia berriztagarriaren 
+  proportzioa nabarmen handitzea” helburuak garapen jasangarriaren hiru 
+  dimentsioei eragiten die. 
+
+  Energia berriztagarrien teknologiak elementu garrantzitsuak dira mundu 
+  osoko ekonomiak ekologikoagoak egiteko eta klima-aldaketaren mundu mailako 
+  arazo kritikoari aurre egiteko estrategietan.
+
+  Energia berriztagarriaren definizio bat baino gehiago dago. Haien ezaugarria 
+  da energia-mota guztiak berriztagarri gisa nabarmentzea, baldin eta energia-mota 
+  horien kontsumoak ez badu agortzen haien eskuragarritasuna etorkizunean. Besteak 
+  beste, eguzki-energia, energia eolikoa, ozeanikoa, energia hidroelektrikoa, iturri 
+  geotermikoak eta bioenergia (bioenergia agortu egin daiteke, baina bioenergia-iturriak 
+  epe laburrean edo ertainean ordezka daitezke). 
+
+  Garrantzitsua da nabarmentzea adierazle hau benetan kontsumitutako energia 
+  berriztagarriaren kopuruan zentratzen dela, eta ez energia berriztagarria ekoizteko 
+  gaitasunean, zeina ezin baita beti osorik erabili. Azken erabiltzailearen kontsumoan 
+  zentratzen denez, energia-iturri konbentzionalek ekoizpen-katean energia-galera 
+  nabarmenak izateak eragindako distortsioak saihesten ditu. 
+
+ 
+  Iturria: Nazio Batuen Estatistika Saila
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EG_FEC_RNEW&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Energia berriztagarrien parte-hartzea energiaren azken kontsumo osoan (%) EG_FEC_RNEW</a> UNSTATS
+
+
+comparabilidad: >- 
+  Erabilgarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu
+
+indicador_meta_enlace: 
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-02-01.pdf">Metadatuak 7-2-1.pdf</a> (ingelesez bakarrik)'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

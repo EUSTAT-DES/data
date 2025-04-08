@@ -1,0 +1,69 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.4-2-2-titulo
+
+objetivo_global: objetivo_largo.4-titulo
+meta_global: meta_largo.4-2-titulo
+#  indicador_onu_global: indicador_largo.4-2-2-titulo
+
+
+definicion: >-
+  Haur hezkuntzan, lehen hezkuntzan eta hezkuntza berezian matrikulatutako 
+  5 urteko haurren proportzioa, 5 urteko haur guztiekiko
+
+formula: |
+
+  $$TE_{5}^{t} = \frac{AM_{5}^{t}}{P_{5}^{t}} \cdot 100$$
+
+  donde:
+ 
+  $AM_{5}^{t} =$ haur hezkuntzan, lehen hezkuntzan eta maila berezian matrikulatutako 5 urteko ikasleak $t-1/t$ ikasturtean 
+
+  $P_{5}^{t} =$ urteko biztanleria urtarrilaren 1ean $t$ urtean
+
+
+desagregacion: | 
+  Sexua
+
+  Lurralde historiakoa
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Antolatutako ikaskuntzan parte hartzeko tasa (lehen hezkuntzan sartzeko adin ofiziala baino urtebete 
+  lehenago), sexuaren arabera, honela definitzen da: adin-tarte jakin batean, antolatutako ikaskuntza-programa 
+  batean edo gehiagotan parte hartzen duten haurren ehunekoa, hezkuntza eta zaintza uztartzen dituzten programak 
+  barne. Lehen haurtzaroan eta lehen hezkuntzan parte hartzea sartzen da. Adin-tartea aldatu egingo da 
+  herrialdearen arabera, lehen hezkuntzan sartzeko adin ofizialaren arabera.
+
+  Adierazleak haurrek lehen eskola hasi aurreko urtean antolatutako ikaskuntza-jarduerekiko duten esposizioa 
+  neurtzen du. Adierazlearen balio altu batek lehen hezkuntzan sartzeko adin ofiziala baino lehentxeago antolatutako 
+  ikaskuntzan parte-hartze maila handia erakusten du.
+
+  Iturria: Nazio Batuen Estatistika Dibisioa
+
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.2.2&seriesCode=SE_PRE_PARTN&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">Antolatutako ikaskuntzan parte hartzearen tasa (lehen hezkuntzan sartzeko adin ofiziala baino urtebete lehenago) (%) SE_PRE_PARTN</a> UNSTATS<br> 
+
+
+comparabilidad: >- 
+  Eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-02-02.pdf">Metadatuak 4-2-2.pdf </a>(ingelesez bakarrik)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

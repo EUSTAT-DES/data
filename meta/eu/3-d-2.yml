@@ -1,0 +1,57 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.3-titulo
+# meta_global: meta_largo.3-d-titulo
+#  indicador_onu_global: indicador_largo.3-d-2-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Antimikrobianoekiko erresistentzia (RAM) munduko mehatxu bat da osasunerako, bizitzeko baliabideetarako, 
+  elikadura-segurtasunerako eta Garapen Jasangarriko Helburu askoren lorpenerako. Antibiotikoak, antibiralak, 
+  parasitoen aurkako eragileak eta antifungikoak gero eta deseraginkorragoak dira, gehiegizko edo desegoki 
+  erabiltzeagatik erresistentzia garatzen delako, eta ondorio larriak eragiten ditu gizakien eta animalien 
+  osasunean (lehorrekoa eta uretakoa) eta landareen osasunean, eta inpaktu negatiboak eragiten ditu elikagaien 
+  ekoizpenean, ingurumenean eta munduko ekonomian.
+
+  Bereziki, antimikrobianoekiko erresistentziak eragin negatiboa izango du 3. Helburuan zerrendatutako jomuga 
+  asko lortzean, patogeno erresistenteek eragindako infekzioetarako tratamendu-aukerak murriztu egingo baitira; 2. 
+  helburuko jomugei eragingo die, nekazaritza-produktibitateari eragingo baitie, kontsumorako animalien ekoizpena 
+  barne; eta 1. helburuko jomugei eragingo die; izan ere, antimikrobianoekiko erresistentzia handitzeak hazkunde 
+  ekonomikoaren murrizketa handiak ekarriko ditu, desberdintasun ekonomikoa areagotuko du eta beste 24 milioi 
+  pertsona muturreko pobreziara eramango ditu 2030erako.
+
+  Iturria: Nazio Batuen Estatistika Dibisioa  
+
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.d.2&seriesCode=SH_BLD_MRSA&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Metizilinarekiko erresistentea den Staphylococcus aureus-ek eragindako odol-uholdearen infekzioaren ehunekoa, arreta bilatzen duten eta odol-lagina hartu eta aztertzen duten pazienteen artean (%) SH_BLD_MRSA</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.d.2&seriesCode=SH_BLD_ECOLI&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Hirugarren belaunaldiko (adibidez, ESBL-E. coli) zefalosporinekiko erresistentea den Escherichia coli-ren ondoriozko odol-uholdearen infekzio-ehunekoa, arreta bilatzen duten eta odol-lagina hartu eta aztertzen zaien pazienteen artean (%) SH_BLD_ECOLI</a> UNSTATS
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0d-02.pdf">Metadatuak 3-d-2.pdf</a> (ingelesez bakarrik)
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'
