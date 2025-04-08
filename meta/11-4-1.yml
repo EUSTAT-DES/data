@@ -19,11 +19,11 @@ formula: |
 
   donde: 
 
-  $GLPC_{CCAA}^{t}$ gasto liquidado por la comunidad autónoma en la preservación, protección y conservación del patrimonio cultural (patrimonio histórico y artístico, archivos y bibliotecas) en el año $t$
+  $GLPC_{CCAA}^{t}$ = gasto liquidado por la comunidad autónoma en la preservación, protección y conservación del patrimonio cultural (patrimonio histórico y artístico, archivos y bibliotecas) en el año $t$
 
-  $GLPC_{EELL}^{t}$ gasto liquidado por las entidades locales de la comunidad autónoma en la preservación, protección y conservación del patrimonio cultural (patrimonio histórico y artístico, archivos y bibliotecas) en el año $t$
+  $GLPC_{EELL}^{t}$ = gasto liquidado por las entidades locales de la comunidad autónoma en la preservación, protección y conservación del patrimonio cultural (patrimonio histórico y artístico, archivos y bibliotecas) en el año $t$
 
-  $P^{t}$ población a 1 de julio del año $t$
+  $P^{t}$ = población a 1 de julio del año $t$
 
 desagregacion: >-
   Administración pública: administración autonómica, administración local
