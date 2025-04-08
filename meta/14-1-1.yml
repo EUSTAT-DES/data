@@ -1,0 +1,60 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.14-titulo
+# meta_global: meta_largo.14-1-titulo
+#  indicador_onu_global: indicador_largo.14-1-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Las zonas costeras son áreas de alta productividad donde convergen los aportes de 
+  la tierra, el mar, el aire y las personas. Con más del 40% de la población humana 
+  residiendo en zonas costeras, la degradación de los ecosistemas en estas áreas 
+  puede tener efectos desproporcionados en la sociedad (IGOS, 2006). 
+
+  Una de las mayores presiones sobre los entornos costeros es la eutrofización, 
+  resultante principalmente del aporte de nutrientes terrestres procedentes de la 
+  escorrentía agrícola y el vertido de aguas residuales domésticas. La eutrofización 
+  costera puede provocar graves daños a los ecosistemas marinos y a los hábitats 
+  marinos vitales, y puede provocar la propagación de floraciones de algas nocivas.
+
+  La basura marina se encuentra en todos los océanos y mares del mundo. Constituye un 
+  riesgo creciente para la salud de los ecosistemas y la biodiversidad, a la vez que 
+  conlleva importantes costes económicos por sus impactos en la salud pública, 
+  el turismo, la pesca y la acuicultura. Los plásticos marinos revisten especial 
+  interés debido a que, en los últimos 50 años, la producción de plástico se ha 
+  multiplicado por más de 22, mientras que la tasa mundial de reciclaje de 
+  plásticos en 2015 se estimaba en tan solo un 9 %. Este aumento en la producción 
+  de plástico y la falta de gestión de los residuos plásticos ha supuesto una 
+  amenaza creciente para los entornos marinos, con un estimado de entre 5 y 13 
+  millones de toneladas de plástico procedente de fuentes terrestres que acaban en ellos.
+
+  La Meta 14.1 busca reducir el impacto de la contaminación mediante la prevención 
+  y la reducción de la contaminación marina de todo tipo, en particular la procedente 
+  de actividades terrestres, incluidos los detritos marinos y la contaminación por nutrientes.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=14.1.1&seriesCode=EN_MAR_BEALIT_PUSA&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Elementos de basura de playa por unidad de superficie (Número de elementos por cada 100 metros cuadrados) EN_MAR_BEALIT_PUSA</a> UNSTATS
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-14-01-01.pdf">Metadatos 14-1-1.pdf</a> (solo en inglés)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
