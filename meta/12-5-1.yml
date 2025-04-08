@@ -8,19 +8,19 @@ meta_global: meta_largo.12-5-titulo
 #  indicador_onu_global: indicador_largo.12-5-1-titulo
 
 definicion: >-
-  Proporción de residuos urbanos o municipales reciclados respecto del total de residuos urbanos 
+  Proporción de residuos urbanos reciclados respecto del total de residuos urbanos 
   generados y tratados procedentes de los hogares y del sector servicios (comercios, 
   oficinas e instituciones públicas o privadas), cuya gestión es asumida por las entidades locales
 
 formula: |
 
-  $$PRU_{reciclados}^{t} = \frac{\frac{RU_{reciclados}^{t}}{P^{t}}}{365} $$
+  $$PRU_{reciclados}^{t} = \frac{\frac{RU_{reciclados}^{t}}{P^{t}}}{365}$$
 
   donde: 
 
-  ${RU_{reciclados}^{t} =$ cantidad de residuos urbanos o municipales reciclados en el año en el año $t$
+  $RU_{reciclados}^{t} =$ cantidad de residuos urbanos reciclados en el año en el año $t$
 
-  $RU^{t} =$ cantidad total de residuos urbanos o municipales generados y tratados en el año $t$
+  $RU^{t} =$ cantidad total de residuos urbanos generados y tratados en el año $t$
 
 
 desagregacion: |
@@ -54,7 +54,7 @@ comparabilidad: >-
 dato_global:
 
 indicador_meta_enlace: 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-05-01.pdf">Metadata 12-5-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-05-01.pdf">Metadatos 12-5-1.pdf</a> (solo en inglés)
 
 informacion_interes: 
 

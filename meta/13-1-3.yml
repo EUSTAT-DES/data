@@ -20,7 +20,7 @@ formula: |
 
   donde:
 
-  $MUN_{RRD} =$ número de gobiernos locales con planes municipales de emergencias en el año $t$
+  $MUN_{RRD}^{t} =$ número de gobiernos locales con planes municipales de emergencias en el año $t$
 
   $MUN^{t} =$ número de gobiernos locales en el año $t$
 
@@ -32,7 +32,7 @@ formula: |
 
   donde:
 
-  $MUN_{RRD\, territorial} =$ número de gobiernos locales con planes territoriales de emergencias en el año $t$
+  $MUN_{RRD\, territorial}^{t} =$ número de gobiernos locales con planes territoriales de emergencias en el año $t$
 
   $MUN^{t} =$ número de gobiernos locales en el año $t$
 
@@ -91,5 +91,5 @@ indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Meta
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

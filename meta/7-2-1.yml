@@ -14,11 +14,11 @@ definicion: |
 
 formula: |
 
-  $$PER^{t} = \frac{GR^{t}}{CFE^{t}} \cdot 100$$ 
+  $$PER^{t} = \frac{ER^{t}}{CFE^{t}} \cdot 100$$ 
 
   donde:
 
-  $GR^{t} =$ generación de energía eléctrica procedente de fuentes renovables en el año $t$ 
+  $ER^{t} =$ consumo de energía procedente de fuentes renovables en el año $t$ 
 
   $CFE^{t} =$ consumo final bruto de energía en el año $t$
 
