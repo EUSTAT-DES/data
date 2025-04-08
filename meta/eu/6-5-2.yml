@@ -1,0 +1,60 @@
+ # Metadatos nacionales (ficha metodológica)
+
+indicador_disponible: >-
+  GRAFICO.6-5-2-titulo
+
+objetivo_global: objetivo_largo.6-titulo
+meta_global: meta_largo.6-5-titulo
+#  indicador_onu_global: indicador_largo.6-5-2-titulo
+
+definicion: >-
+  Uraren arloko lankidetzarako akordio operatibo batek estalitako mugaz gaindiko arroen eremuaren proportzioa
+
+formula: |
+
+  $$PSTCOOP^{t} = \frac{STCOOP^{t}}{ST^{t}} \cdot 100$$
+
+  non:
+
+  $STCOOP^{t} =$ mugaz gaindiko arroen eremua, uraren arloko lankidetza-akordio operatibo batek estalia $t$ urtean 
+
+  $ST^{t} =$ mugaz gaindiko arroen eremua $t$ urtean
+
+desagregacion:
+
+observaciones: 
+
+periodicidad: FUENTE.FREQ_A
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+
+  La mayoría de los recursos hídricos del mundo son compartidos: en 2021 se identificaron 468 acuíferos 
+  transfronterizos y 310 cuencas fluviales y lacustres transfronterizas cubren casi la mitad de la superficie 
+  terrestre y representan aproximadamente el 60 % del agua dulce mundial. Aproximadamente el 40 % de la 
+  población mundial vive en cuencas fluviales y lacustres compartidas por dos o más países, y más del 90 % 
+  vive en países que comparten cuencas. 
+
+  El desarrollo de los recursos hídricos tiene impactos en las cuencas transfronterizas, potencialmente 
+  en los países que las comparten, y el uso de las aguas superficiales o subterráneas puede afectar a 
+  estos otros recursos, que a menudo están interrelacionados. El uso intensivo del agua, la regulación del 
+  caudal o la contaminación corren el riesgo de comprometer las aspiraciones de desarrollo de los países que 
+  comparten cuencas transfronterizas, por lo que se requiere cooperación transfronteriza. 
+  Sin embargo, en muchos casos, la cooperación no ha avanzado.
+  
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.5.2&seriesCode=EG_TBA_H2CO&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Mugaz gaindiko arroen proportzioa (ibai-arroak, aintzira-arroak eta akuiferoak), lankidetza hidrikoko akordio operatibo batekin (%) EG_TBA_H2CO</a> UNSTATS
+
+comparabilidad: >-
+  Adierazleak Nazio Batuen metadatuak betetzen ditu.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-05-02.pdf">Metadatuak 6-5-2.pdf</a> (ingelesez bakarrik)'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

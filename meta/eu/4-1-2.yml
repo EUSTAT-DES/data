@@ -1,0 +1,83 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.4-1-2-titulo
+
+objetivo_global: objetivo_largo.4-titulo
+meta_global: meta_largo.4-1-titulo
+#  indicador_onu_global: indicador_largo.4-1-2-titulo
+
+
+definicion: >-
+  Gutxienez bigarren hezkuntzako lehen etapa (ISNI 2) amaitu duten 18 eta 20 urte bitarteko pertsonen proportzioa, 
+  18 eta 20 urte bitarteko pertsona guztiekiko eta Gutxienez bigarren hezkuntzako bigarren etapa (ISNI 3) amaitu 
+  duten 20-22 urteko pertsonen proportzioa, 20 eta 22 urte bitarteko pertsona guztiekiko.
+
+formula: |
+
+  $$PCINE_n = \frac{P_{n,Adina_a+3t5}}{P_{Adina_a+3t5}}$$
+
+  non:
+
+  $P_{n,Adina_a+3t5} =$ $3$ eta $5$ urte arteko biztanleria, $a$ sartzeko adin ofizialaren gainetik, maila hori osatu duen $n$ hezkuntza-mailaren azken graduan.
+
+  $P_{Adina_a+3t5} =$ $3$ eta $5$ urte arteko biztanleria, $a$ sartzeko adin ofizialaren gainetik, $n$ hezkuntza mailaren azken graduan
+
+  $n =$ ISNI 2 maila (Bigarren Hezkuntzako lehen etapa) eta ISNI 3 (bigarren hezkuntzako bigarren etapa)
+
+
+desagregacion: |
+  Hezkuntza-maila: bigarren hezkuntzako lehen eta bigarren etapak
+
+  Adina
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: |
+
+  ISNI: Hezkuntzaren Nazioarteko Sailkapen Normalizatua (UNESCO - 2011). Erreferentziako sailkapen estatistiko 
+  bat da, hezkuntza-programak eta dagozkien ziurtagiriak hezkuntza-mailen eta ikasketa-eremuen arabera 
+  ordenatzeko aukera ematen duena.
+
+  ISNI aren definizioak eta oinarrizko kontzeptuak nazioartean baliozkoak izateko eta hezkuntza-sistema guztiak 
+  sartzeko pentsatuta daude. UNESCOko Estatu Kideen Konferentzia Orokorrak formalki onartutako nazioarteko 
+  akordio baten emaitza da.
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Adierazlea berariaz aipatzen da 4.1 helburuko testuan: "haur guztiek [...] lehen eta bigarren hezkuntza amaituko 
+  dutela bermatzea". % 100eko amaiera-tasak edo hortik hurbil egoteak adierazten du haur eta nerabe guztiek edo 
+  gehienek hezkuntza-maila bat osatu dutela hezkuntza-maila horretako azken graduan sartzeko adin ofiziala baino 
+  3-5 urte gehiago dituztenean. Amaiera-tasa baxu batek adierazten du hezkuntza-maila jakin batean diru-sarrera 
+  txikia edo berantiarra izatea, uzte-indize handia izatea, errepikapen-indize handia izatea, berandu amaitzea 
+  edo faktore horiek konbinatzea.
+
+  Amaiera-tasa adierazle independente gisa erabil daiteke, edo GJHen 4.1.1 adierazlearekin konbinatuta (haur 
+  eta gazteen proportzioa bigarren edo hirugarren graduan; (b) lehen hezkuntzaren amaieran; eta (c) beheko 
+  bigarren hezkuntzaren amaieran, gutxienez (i) irakurketan eta (ii) matematikan gutxieneko gaitasun-maila lortzen 
+  dutenak. Amaiera-tasa 4.1.1 adierazlearekin konbinatzeak informazioa ematen du gutxieneko gaitasun-maila lortzen 
+  duten kohorte bateko haurren edo gazteen ehunekoari buruz, eta ez soilik gutxieneko gaitasuna lortzen duten 
+  eskolako haurren ehunekoari buruz.
+
+  Iturria: Nazio Batuen Estatistika Dibisioa
+
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.1.2&seriesCode=SE_TOT_CPLR&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA%20%7C%20BOTHSEX%20%7C%20UPPSEC%20%7C%20_T">Goi-mailako bigarren hezkuntzaren amaiera-tasa (%) SE_TOT_CPLR</a> UNSTATS
+
+
+comparabilidad: >- 
+  Eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-01-02.pdf">Metadatuak 4-1-2.pdf </a>(ingelesez bakarrik)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

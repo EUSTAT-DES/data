@@ -1,0 +1,87 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  global_indicators.5-a-1-title
+
+objetivo_global: objetivo_largo.5-titulo
+meta_global: meta_largo.5-a-titulo
+#  indicador_onu_global: indicador_largo.5-a-1-titulo
+
+
+definicion: >-
+  Nekazaritza-ustiategietako titularren proportzioa, nekazaritzako langile guztiekiko, eta nekazaritza-ustiategietako 
+  titular guztiekiko emakumeen proportzioa, edukitze-motaren arabera banakatuta.
+
+formula: |
+
+  <b>Nekazaritza-ustiategietako titularren proportzioa nekazaritzako langile guztiekiko</b>
+
+  $$PPOA_{titularrak}^{t} = \frac{TEA^{t}}{POA^{t}} \cdot 100$$
+
+  non:
+
+  $TEA^{t} =$ nekazaritza-ustiategietako titularrak $t$ urtean
+
+  $POA^{t} =$ nekazaritzan diharduten pertsonak $t$ urtean
+
+  <br>
+
+  <b>Nekazaritza-ustiategien titular diren emakumeen proportzioa, nekazaritza-ustiategien 
+  titular guztiekiko, edukitze-motaren arabera banakatuta</b>
+
+  $$PTEA_{emakumeak}^{t} = \frac{TEA_{emakumeak}^{t}}{TEA^{t}} \cdot 100$$
+
+  non:
+
+  $TEA_{emakumeak}^{t} =$ nekazaritza-ustiategietako emakume titularrak $t$ urtean edukitze-motaren arabera
+
+  $TEA^{t} =$ nekazaritza-ustiategietako pertsona titularrak $t$ urtean edukitze-motaren arabera
+
+desagregacion: |
+  Edukitza-mota: jabetza; errentamendua
+
+  Sexua
+
+  Lurralde historikoa
+
+periodicidad: FUENTE.FREQ_I
+
+observaciones: |
+
+  5.a.1 (a) azpiadierazlea prebalentzia-neurri bat da. Nekazaritzako lurren gaineko jabetza edo 
+  eskubide seguruak dituzten pertsonen prebalentzia neurtzen du, sexuaren arabera banakatuta.
+
+  5.a.1 (b) azpiadierazleak genero-parekotasuna du ardatz, eta emakumeak jabetzan edo 
+  nekazaritza-lurren gaineko eskubide seguruetan zein neurritan dauden desabantailan neurtzen du.
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  El indicador 5.a.1 tiene como objetivo monitorear el equilibrio de género en 
+  la propiedad/derechos seguros sobre tierras agrícolas. El subindicador (a) y 
+  el subindicador (b) se basan en los mismos datos y monitorean la propiedad/derechos 
+  desde dos ángulos diferentes.
+
+  Mientras que el subindicador (a) utiliza la población agrícola total masculina/femenina 
+  como población de referencia, y nos dice cuántos hombres/mujeres poseen tierras, 
+  el subindicador (b) se centra en la población agrícola con propiedad de la tierra/derechos 
+  seguros, y nos dice cuántas de ellas son mujeres.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+
+
+comparabilidad: >-
+  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-0a-01.pdf">Metadatuak 5-a-1.pdf</a> (ingelesez bakarrik)
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -1,0 +1,66 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.8-b-1-titulo
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-b-titulo
+#  indicador_onu_global: indicador_largo.8-b-1-titulo
+
+
+definicion:  | 
+  Administrazio autonomikoak enplegua sustatzeko egiten duen gastuaren proportzioa (autonomia-erkidegoetako 
+  aurrekontu-likidazioetan erabilitako sailkapen funtzionalaren 24. gastu-politika) eta guztizko gastua
+
+formula:  |
+
+  $$G_{enplegu\,-\,sustapen}^{t} = \frac{G_{enplegu\,-\,sustapen}^{t}}{G^{t}} \cdot 100$$
+
+  donde:
+
+  $G_{enplegu\,-\,sustapen}^{t} =$ autonomia-erkidegoko aurrekontu bateratuen likidazioan enplegua sustatzeko gastua (sailkapen funtzionalaren 24. gastu-politika) $t$ urtean
+
+  $G^{t} =$ autonomia-erkidegoko aurrekontu bateratuen likidazioko guztizko gastua $t$ urtean
+
+
+desagregacion:  |
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+  Autonomia-erkidegoetako aurrekontu-likidazioen datu bateratuak LAFetik (tokiko finantza-bitartekaritza) 
+  eta NPBtik (nekazaritza-politika erkidea) hartzen dira behin garbituta
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  El objetivo del indicador 8.b.1 de los ODS es proporcionar una indicación del 
+  progreso de los países en la resolución de las cuestiones relacionadas con el 
+  empleo juvenil. 
+
+  En este sentido, se supone que haber adoptado oficialmente lo que puede 
+  reconocerse como una estrategia estructurada para el empleo juvenil 
+  significaría que un país prestaría mayor atención a los desafíos del mercado 
+  laboral juvenil, en comparación con los países que no cuentan con una estrategia. 
+
+  De hecho, el desarrollo de una estrategia de este tipo suele implicar una amplia 
+  participación y consulta/coordinación entre las diferentes partes interesadas.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+
+comparabilidad: >- 
+  Eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-0b-01.pdf">Metadatuak 8-b-1.pdf</a> (ingelesez bakarrik)'
+
+informacion_interes: >-
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

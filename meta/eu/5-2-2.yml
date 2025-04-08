@@ -1,0 +1,59 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.5-2-2-titulo
+
+objetivo_global: objetivo_largo.5-titulo
+meta_global: meta_largo.5-2-titulo
+#  indicador_onu_global: indicador_largo.5-2-2-titulo
+
+
+definicion: >-
+  Familia-eremutik kanpoko egileek egindako emakumeen aurkako sexu-indarkeriaren (biktimizazioak) erregistratutako kasuen kopurua, 10.000 emakumeko
+
+
+formula: |
+  $$TVIS^{t} = \frac{VS^{t}}{P_{emakumeak}^{t}} \cdot 10000$$
+
+  donde:
+
+  $VS^{t} =$ Familia-eremutik kanpoko egileek emakumeen aurka egindako sexu-indarkeriaren erregistratutako kasuen kopurua $t$ urtean
+
+  $P_{mujeres}^{t} =$ emakumeak $t$ urteko uztailaren 1ean
+
+desagregacion: |
+
+  Lurraklde historikoa/Eskualdea/Udalerria
+
+periodicidad: FUENTE.FREQ_A
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  La violencia contra las mujeres y las niñas es una de las formas más 
+  extendidas de violación de los derechos humanos en el mundo. Hay datos que demuestran 
+  que, a nivel mundial, aproximadamente el 7% de las mujeres han sido agredidas 
+  sexualmente por alguien que no es su pareja en algún momento de sus vidas 
+  (OMS et al., 2013).
+
+  Disponer de datos sobre este indicador ayudará a comprender el alcance y la naturaleza 
+  de esta forma de violencia y a elaborar políticas y programas adecuados.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+
+dato_global: >-
+
+
+comparabilidad: >-
+  Eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio 
+  osagarria ematen du.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-02-02.pdf">Metadatuak 5-2-2.pdf</a> (ingelesez bakarrik)'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
