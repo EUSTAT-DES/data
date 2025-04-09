@@ -1,0 +1,70 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.15-1-E1-titulo
+
+# objetivo_global: objetivo_largo.15-titulo
+# meta_global: meta_largo.15-1-titulo
+#  indicador_onu_global: indicador_largo.15-1-E1-titulo
+
+
+definicion:
+  Superficie terrestre incluida en áreas protegidas (Red Natura 2000 y Espacios Naturales Protegidos), 
+  y porcentaje sobre el total de la superficie terrestre
+
+
+formula: |
+
+
+  $$PSTP^{t} = \frac{STP^{t}}{ST^{t}} \cdot 100$$
+
+  donde:
+
+  $STP^{t} =$ superficie terrestre incluida en áreas protegidas en el año $t$
+
+  $ST^{t} =$ superficie terrestre en el año $t$
+
+  La desagregación por tipo de ecosistema se realiza sobre la superficie total del ecosistema, según
+  la siguiente fórmula:
+
+  $$PSTP_{ecosistema}^{t} = \frac{STP_{ecosistema}^{t}}{ST_{ecosistema}^{t}} \cdot 100$$
+
+  donde:
+
+  $STP_{ecosistema}^{t} =$ superficie de un ecosistema determinado incluida en áreas protegidas en el año $t$
+
+  $ST_{ecosistema}^{t} =$ superficie total de un ecosistema determinado en el año $t$
+
+desagregacion: >-
+  Tipo de ecosistema: bosques, humedales, pastizales, tierras de cultivo, 
+  asentamientos, otras tierras
+
+periodicidad: FUENTE.FREQ_A3
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Este indicador mide la extensión de las áreas terrestres protegidas, que incluyen las designadas 
+  a nivel nacional y los espacios Natura 2000. Un área designada a nivel nacional es un 
+  área protegida por la legislación nacional.
+
+  Los espacios Natura 2000 se designan para salvaguardar las especies y los hábitats de 
+  Europa, incluidos en las Directivas de Hábitats y de Aves de la UE.
+
+  Fuente: Eurostat
+
+dato_global: |
+
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_15_20/default/table?lang=en&category=sdg.sdg_15">
+  Superficie de las áreas terrestres protegidas(sdg_15_20)</a> Eurostat
+
+comparabilidad: |
+  El indicador disponible es comparable con el indicador europeo.
+
+indicador_meta_enlace: >- 
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_15_20_esmsip2.htm">Metadatos Eurostat (sdg_15_20)</a> (solo en inglés)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

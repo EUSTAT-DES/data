@@ -1,0 +1,64 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.15-4-2-titulo
+
+# objetivo_global: objetivo_largo.15-titulo
+# meta_global: meta_largo.15-4-titulo
+#  indicador_onu_global: indicador_largo.15-4-2-titulo
+
+
+definicion:
+  Superficie de cobertura verde (bosques, pastizales y tierras de cultivo) 
+  en zonas de montaña sobre el total de la superficie de zonas de montaña
+
+
+formula: |
+
+  $$PSMV^{t} = \frac{SMV^{t}}{SM^{t}} \cdot 100$$
+
+  donde:
+
+  $SMV^{t} =$ superficie de zonas de montaña cubierta por bosques, pastizales y tierras de cultivo en el año $t$
+
+  $SM^{t} =$ superficie de zonas de montaña en el año $t$
+
+
+desagregacion: 
+
+periodicidad: FUENTE.FREQ_A3
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Los ecosistemas montañosos son importantes centros de biodiversidad que brindan 
+  valiosos servicios ecosistémicos a las zonas río arriba y río abajo. Sin embargo, 
+  las montañas son muy frágiles y se ven fácilmente afectadas por factores tanto naturales 
+  como antropogénicos. Estos pueden incluir el cambio climático, la expansión 
+  agrícola no planificada, la urbanización no planificada, la extracción de madera, 
+  las actividades recreativas y los peligros naturales como deslizamientos de tierra e inundaciones.
+
+  La degradación de los ecosistemas montañosos, como la pérdida de la cubierta glaciar, 
+  la biodiversidad montañosa y la cubierta vegetal, afectará la capacidad del ecosistema 
+  para suministrar agua río abajo. La pérdida de la cubierta forestal y vegetal reducirá 
+  la capacidad del ecosistema para retener el suelo y prevenir deslizamientos de tierra 
+  e inundaciones río abajo.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=15.4.2&seriesCode=ER_MTN_GRNCVI&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=MGCI%20%7C%20MONTANE">
+  Índice de cobertura verde de montaña ER_MTN_GRNCVI, MGCI Montano</a> UNSTATS
+
+comparabilidad: >- 
+  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta información similar
+
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-15-04-02.pdf">Metadatos 15-4-2.pdf</a> (solo en inglés)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -51,6 +51,7 @@ justificacion_global: |
   5. Superficie forestal sujeta a un sistema de certificación de la gestión forestal 
   verificado de forma independiente
 
+  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: | 
 
@@ -60,8 +61,8 @@ dato_global: |
 comparabilidad: >-
   El indicador disponible responde al subindicador 4 del indicador propuesto por Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-15-02-01.pdf">Metadata 15-2-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-15-02-01.pdf">Metadatos 15-2-1.pdf</a> (solo en inglés)'
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

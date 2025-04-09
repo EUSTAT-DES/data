@@ -12,7 +12,6 @@ definicion: >-
   Número de víctimas de homicidio doloso/asesinato consumado por cada 100.000 habitantes.
   
 
-
 formula: |
   $$THD^{t} = \frac{HD^{t}}{P^{t}} \cdot 100.000$$
 
@@ -55,6 +54,7 @@ justificacion_global: |
   El homicidio intencional se define como la muerte ilegal infligida a una persona con la intención de 
   causarle la muerte o lesiones graves (Fuente: Clasificación Internacional de Delitos con Fines Estadísticos, ICCS 2015).
 
+  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: >-
 
@@ -63,9 +63,9 @@ dato_global: >-
 comparabilidad: >-
   El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-01.pdf">Metadata 16-1-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-01.pdf">Metadatos 16-1-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
