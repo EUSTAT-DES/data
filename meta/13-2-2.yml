@@ -15,11 +15,11 @@ formula:  |
 
   <b>Emisiones totales de gases de efecto invernadero por unidad de PIB</b>
 
-  $$PPIBGEI^{t} = \frac{GEI2^{t}}{PIB_{2022}^{t}} $$
+  $$PPIBGEI^{t} = \frac{GEI^{t}}{PIB_{2022}^{t}} $$
 
   <b>Emisiones totales de gases de efecto invernadero per cápita</b>
 
-  $$GEIPC^{t} = \frac{GEI2^{t}}{P^{t}} $$
+  $$GEIPC^{t} = \frac{GEI^{t}}{P^{t}} $$
 
   <b>Emisiones de gases de efecto invernadero respecto al año 1990</b>
 

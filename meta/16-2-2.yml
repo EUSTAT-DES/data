@@ -15,7 +15,7 @@ formula: |
 
   $$TVTP^{t} = \frac{VTP_{exp\, sexual}^{t}+VTP_{exp\, laboral}^{t}+VTP_{obtención\, órganos}^{t}+VTP_{otros\, fines}^{t}}{P^{t}} \cdot 100.000$$ 
 
-donde:
+  donde:
 
   $VTP_{exp\, sexual}^{t} =$ número de víctimas detectadas de trata de seres humanos con fines de explotación sexual en el año $t$ 
 
@@ -80,5 +80,5 @@ comparabilidad: >-
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-02.pdf">Metadatos 16-2-2.pdf</a> (solo en inglés)'
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

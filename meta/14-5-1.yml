@@ -8,7 +8,7 @@ indicador_disponible: GRAFICO.14-5-1-titulo
 
 
 definicion:
-  Porcentaje de los sitios importantes para la biodiversidad marina (aquellos que contribuyen 
+  Porcentaje de los lugares importantes para la biodiversidad marina (aquellos que contribuyen 
   significativamente a la persistencia global de la biodiversidad) que está 
   cubierto por áreas protegidas
 
@@ -18,9 +18,9 @@ formula: |
 
   donde:
 
-  $APKBA_{mar}^{t} =$ superficie de los sitios importantes para la biodiversidad marina cubierta por áreas protegidas en el año $t$
+  $APKBA_{mar}^{t} =$ superficie de los lugares importantes para la biodiversidad marina cubierta por áreas protegidas en el año $t$
 
-  $KBA_{mar} =$ superficie de los sitios importantes para la biodiversidad marina en el año $t$
+  $KBA_{mar} =$ superficie de los lugares importantes para la biodiversidad marina en el año $t$
 
 
 desagregacion: 
@@ -33,7 +33,7 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  La protección de sitios importantes es vital para frenar la pérdida de biodiversidad 
+  La protección de lugares importantes es vital para frenar la pérdida de biodiversidad 
   y garantizar el uso sostenible a largo plazo de los recursos naturales marinos. 
   El establecimiento de áreas protegidas es un mecanismo clave para lograr este objetivo, 
   y este indicador sirve para medir el progreso hacia la conservación, la restauración y 

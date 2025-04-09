@@ -1,0 +1,49 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.16-titulo
+# meta_global: meta_largo.16-2-titulo
+#  indicador_onu_global: indicador_largo.16-2-3-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  La violencia sexual es una de las violaciones de los derechos de la infancia más 
+  inquietantes. Las experiencias de violencia sexual en la infancia obstaculizan todos 
+  los aspectos del desarrollo: físico, psicológico/emocional y social. Además de las 
+  lesiones físicas que pueden derivar, los investigadores han constatado sistemáticamente 
+  que el abuso sexual infantil se asocia a una amplia gama de consecuencias para la salud 
+  mental y comportamientos adversos en la edad adulta. 
+
+  El problema es de relevancia universal y el indicador capta una de las formas más 
+  graves de violencia contra la infancia. El derecho de la infancia a la protección 
+  contra todas las formas de violencia está consagrado en la Convención sobre 
+  los Derechos del Niño (CDN) y sus Protocolos Facultativos.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: |
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.2.3&seriesCode=VC_VAW_SXVLN&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=18-29%20%7C%20FEMALE">
+  Proporción de la población de 18 a 29 años que sufrió violencia sexual antes de los 18 años, por sexo (% de la población de 18 a 29 años) VC_VAW_SXVLN</a> UNSTATS
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-03.pdf">Metadatos 16-2-3.pdf</a> (solo en inglés)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -7,12 +7,12 @@ meta_global: meta_largo.16-2-titulo
 #  indicador_onu_global: indicador_largo.16-2-1-titulo
 
 
-definicion: >-
-formula: >-
-desagregacion: >-
-periodicidad: >-
+definicion:
+formula:
+desagregacion:
+periodicidad:
 
-observaciones: >-
+observaciones:
  
  # Metadatos mundiales (Descripción del indicador)  
 
@@ -38,5 +38,5 @@ indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Meta
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
