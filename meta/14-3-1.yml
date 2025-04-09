@@ -1,6 +1,6 @@
 # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: GRAFICO.14-3-1-titulo
 
 # objetivo_global: objetivo_largo.14-titulo
 # meta_global: meta_largo.14-3-titulo
@@ -16,7 +16,7 @@ formula: |
 
   donde:
 
-  $overline{pH^t}=$ media aritmética del pH in-situ recogido el día 15 de cada mes en las estaciones de medición en el año $t$
+  $\overline{pH^t}=$ media aritmética del pH in-situ recogido el día 15 de cada mes en las estaciones de medición en el año $t$
 
 
 desagregacion: 
