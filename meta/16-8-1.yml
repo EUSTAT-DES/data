@@ -1,0 +1,35 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.16-titulo
+# meta_global: meta_largo.16-8-titulo
+# indicador_onu_global: indicador_largo.16-8-1-titulo
+
+
+definicion:
+formula:
+desagregacion:
+periodicidad:
+
+observaciones:
+ 
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  La ONU se basa en el principio de igualdad soberana de todos sus Estados Miembros 
+  (Artículo 2 de la Carta de la ONU). Este indicador busca medir el grado de representación 
+  equitativa de los Estados en las organizaciones internacionales.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global:
+comparabilidad:
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-08-01.pdf">Metadatos 16-8-1.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

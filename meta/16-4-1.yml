@@ -2,17 +2,17 @@
  
 indicador_disponible: GRAFICO.nodisponible
 
-objetivo_global: objetivo_largo.16-titulo
-meta_global: meta_largo.16-4-titulo
-#  indicador_onu_global: indicador_largo.16-4-1-titulo
+# objetivo_global: objetivo_largo.16-titulo
+# meta_global: meta_largo.16-4-titulo
+# indicador_onu_global: indicador_largo.16-4-1-titulo
 
 
-definicion: >-
-formula: >-
-desagregacion: >-
-periodicidad: >-
+definicion:
+formula:
+desagregacion:
+periodicidad:
 
-observaciones: >-
+observaciones:
  
  # Metadatos mundiales (Descripción del indicador)  
 
@@ -35,12 +35,12 @@ justificacion_global: |
 
   Fuente: División de Estadísticas de las Naciones Unidas
 
-dato_global: >-
-comparabilidad: >-
+dato_global:
+comparabilidad:
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-04-01.pdf">Metadatos 16-4-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
