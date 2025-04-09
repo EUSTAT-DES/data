@@ -8,8 +8,7 @@ meta_global: meta_largo.16-7-titulo
 #  indicador_onu_global: indicador_largo.16-7-1-titulo
 
 definicion: >-
-  Gasto liquidado en proporción al gasto inicial de los presupuestos de las 
-  administraciones públicas autonómicas y locales
+  Ratio de la proporción de mujeres en el sector público respecto a la proporción de mujeres en la población entre 16 y 64 años, por institución pública
 
 formula: |
 
@@ -17,17 +16,19 @@ formula: |
 
   siendo:
 
-  $$PM_{SP}^{t} = \frac{P_{SP,mujeres}^{t}}{P_{SP}^{t}} \cdot 100 $$
+  $$PM_{SP}^{t} = \frac{P_{SP\, mujeres}^{t}}{P_{SP}^{t}} \cdot 100 $$
 
-  $$PM_{16-64}^{t} = \frac{P_{16-64,mujeres}^{t}}{P_{16-64}^{t}} \cdot 100 $$<br>
+  $$PM_{16-64}^{t} = \frac{P_{16-64\, mujeres}^{t}}{P_{16-64}^{t}} \cdot 100 $$
 
   donde: 
 
-  $P_{SP,mujeres}^{t} =$ mujeres al servicio del sector público a 1 de enero del año $t
+  $P_{SP\, mujeres}^{t} =$ mujeres al servicio del sector público a 1 de enero del año $t
 
   $P_{SP}^{t} =$ personas al servicio del sector público a 1 de enero del año $t$
 
-  $P_{16-64,mujeres}^{t} =$ mujeres entre 16 y 64 años a 1 de enero del año $t$<br>$P_{16-64}^{t} =$ personas entre 16 y 64 años a 1 de enero del año $t$
+  $P_{16-64\, mujeres}^{t} =$ mujeres entre 16 y 64 años a 1 de enero del año $t$
+
+  $P_{16-64}^{t} =$ personas entre 16 y 64 años a 1 de enero del año $t$
 
 
 desagregacion: |
@@ -75,13 +76,17 @@ justificacion_global: |
   de las decisiones políticas y ayudar a frenar la influencia indebida de intereses 
   creados sobre la toma de decisiones.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
+
 dato_global: 
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.7.1&seriesCode=SG_DMK_PARLMP_LC&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Relación de mujeres miembros de los parlamentos (Relación de la proporción de mujeres en el parlamento con la proporción de mujeres en la población nacional, con la edad de elegibilidad como límite inferior), Cámara Baja o Unicameral SG_DMK_PARLMP_LC</a> UNSTATS
 
 comparabilidad: >-
   El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas. Se centra en el subindicador b).
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01b.pdf">Metadata 16-7-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01b.pdf">Metadatos 16-7-1(b).pdf</a> (solo en inglés)'
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -1,0 +1,39 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.16-titulo
+# meta_global: meta_largo.16-10-titulo
+# indicador_onu_global: indicador_largo.16-10-2-titulo
+
+
+definicion:
+formula:
+desagregacion:
+periodicidad:
+
+observaciones:
+ 
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Para informar sobre el número de países que adoptaron las garantías, los datos recopilados 
+  mediante la encuesta se triangulan mediante una investigación documental. 
+  Los datos, que incluyen los años de adopción de dichas garantías, se monitorean 
+  y actualizan anualmente para reflejar cambios, como:
+   - si un país acaba de aprobar una garantía de acceso a la información
+   - si un país modificó sus garantías existentes de acceso a la información
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global:
+
+comparabilidad:
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-10-02.pdf">Metadatos 16-10-2.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

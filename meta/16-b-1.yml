@@ -1,0 +1,45 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.16-titulo
+# meta_global: meta_largo.16-b-titulo
+# indicador_onu_global: indicador_largo.16-b-1-titulo
+
+
+definicion:
+formula:
+desagregacion:
+periodicidad:
+
+observaciones:
+ 
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  El compromiso de no dejar a nadie atrás y eliminar la discriminación 
+  es un elemento central de la Agenda 2030 para el Desarrollo Sostenible. 
+
+  La eliminación de la discriminación también está consagrada en la Declaración 
+  Universal de Derechos Humanos y en los principales tratados internacionales 
+  de derechos humanos. 
+
+  El propósito de este indicador es medir la prevalencia de la 
+  discriminación a partir de la experiencia personal relatada por las personas. 
+  Se considera un indicador de resultados que ayuda a 
+  medir la eficacia de las leyes, políticas y prácticas no discriminatorias 
+  para los grupos de población afectados.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global:
+
+comparabilidad:
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-0b-01.pdf">Metadatos 16-b-1.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

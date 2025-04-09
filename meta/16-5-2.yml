@@ -2,36 +2,48 @@
  
 indicador_disponible: GRAFICO.nodisponible
 
-objetivo_global: objetivo_largo.16-titulo
-meta_global: meta_largo.16-5-titulo
-#  indicador_onu_global: indicador_largo.16-5-2-titulo
+# objetivo_global: objetivo_largo.16-titulo
+# meta_global: meta_largo.16-5-titulo
+# indicador_onu_global: indicador_largo.16-5-2-titulo
 
 
-definicion: >-
-formula: >-
-desagregacion: >-
-periodicidad: >-
+definicion:
+formula:
+desagregacion:
+periodicidad:
 
-observaciones: >-
+observaciones:
  
  # Metadatos mundiales (Descripción del indicador)  
 
 
 justificacion_global: |
 
+  La corrupción es antónimo de la igualdad de acceso a los servicios públicos y 
+  del correcto funcionamiento de la economía; por lo tanto, tiene un impacto 
+  negativo en la distribución justa de los recursos y las oportunidades de desarrollo. 
+
+  Además, la corrupción erosiona la confianza pública en las autoridades y el Estado 
+  de derecho; cuando el soborno administrativo se convierte en una experiencia 
+  recurrente para amplios sectores de la población y las empresas, sus efectos 
+  negativos tienen un impacto duradero en el Estado de derecho, los procesos democráticos 
+  y la justicia. 
+
+  Al proporcionar una medida directa de la experiencia de soborno, este indicador 
+  proporciona una métrica objetiva de la corrupción, un criterio para 
+  monitorear el progreso en la lucha contra la corrupción.
 
   Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: >-
 
-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.5.2&seriesCode=IC_FRM_BRIB&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Incidencia del soborno (porcentaje de empresas que experimentaron al menos una solicitud de pago de soborno) IC_FRM_BRIB</a> UNSTATS
 
-comparabilidad: >-
+comparabilidad:
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-05-01.pdf">Metadatos 16-5-1.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
