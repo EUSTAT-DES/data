@@ -16,9 +16,9 @@ formula: |
 
   donde:
 
-  $AODN_{CCAA}^{t} =$ Ayuda Oficial al Desarrollo neta de la comunidad autónoma en el año $t$ 
+  $AODN_{CCAA}^{t} =$ Ayuda oficial al desarrollo neta de la comunidad autónoma en el año $t$ 
 
-  $AODN_{EELL}^{t} =$ Ayuda Oficial al Desarrollo neta de las entidades locales de la comunidad autónoma en el año $t$
+  $AODN_{EELL}^{t} =$ Ayuda oficial al desarrollo neta de las entidades locales de la comunidad autónoma en el año $t$
 
   $PIB^{t} =$ producto interior bruto a precios corrientes en el año $t$
 
@@ -29,7 +29,7 @@ observaciones: >-
 
   El Comité de Ayuda al Desarrollo (CAD) de la Organización para la Cooperación y el 
   Desarrollo Económicos (OCDE) establece la lista de países elegibles para recibir Ayuda 
-  Oficial al Desarrollo. Se trata de los países de ingresos bajos y medianos en base 
+  oficial al desarrollo. Se trata de los países de ingresos bajos y medianos en base 
   al ingreso nacional bruto per cápita publicado por el Banco Mundial, con la excepción 
   de los miembros del G8, miembros de la UE y países con fecha firme para entrar en la UE.
 
@@ -40,18 +40,18 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  Los flujos totales de AOD a los países en desarrollo cuantifican el esfuerzo público 
+  Los flujos totales de ayuda oficial al desarrollo (AOD) a los países en desarrollo cuantifican el esfuerzo público 
   que los donantes proporcionan a esos países. 
 
+  Fuente: División de Estadísticas de las Naciones Unidas
 
-dato_global: >- 
-
+dato_global:
 
 comparabilidad: >-
-  El indicador disponible no cumple con los metadatos de Naciones Unidas, pero aporta información similar.
+  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-02-01.pdf">Metadata 17-2-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-02-01.pdf">Metadatos 17-2-1.pdf</a> (solo en inglés)'
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

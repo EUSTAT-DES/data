@@ -1,5 +1,12 @@
- # Metadatos nacionales (ficha metodológica)
+# Metadatos nacionales (ficha metodológica)
  
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.9-titulo
+# meta_global: meta_largo.9-1-titulo
+# indicador_onu_global: indicador_largo.9-1-2-titulo
+
+
 definicion:
 
 formula:
@@ -9,6 +16,7 @@ desagregacion:
 periodicidad:  
 
 observaciones:
+
 
 
  # Metadatos mundiales (Descripción del indicador)  

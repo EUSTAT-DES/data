@@ -6,7 +6,6 @@ indicador_disponible: GRAFICO.nodisponible
 # meta_global: meta_largo.16-10-titulo
 # indicador_onu_global: indicador_largo.16-10-2-titulo
 
-
 definicion:
 formula:
 desagregacion:
@@ -18,12 +17,18 @@ observaciones:
 
 
 justificacion_global: |
-  Para informar sobre el número de países que adoptaron las garantías, los datos recopilados 
-  mediante la encuesta se triangulan mediante una investigación documental. 
-  Los datos, que incluyen los años de adopción de dichas garantías, se monitorean 
-  y actualizan anualmente para reflejar cambios, como:
-   - si un país acaba de aprobar una garantía de acceso a la información
-   - si un país modificó sus garantías existentes de acceso a la información
+  El propósito de este indicador es informar el número total de países que adoptan 
+  garantías legales sobre el acceso a la información, así como las principales 
+  tendencias en la implementación de estas garantías.
+
+  El derecho de acceso a la información pública forma parte del derecho fundamental a la libertad 
+  de expresión, consagrado en el artículo 19 de la Declaración Universal de Derechos Humanos (1948) 
+  y el posterior Pacto Internacional de Derechos Civiles y Políticos. Estos instrumentos establecen 
+  que el derecho fundamental a la libertad de expresión abarca la libertad de "buscar, 
+  recibir y difundir información e ideas por cualquier medio de comunicación y 
+  sin limitación de fronteras". Buscar y recibir es la dimensión 
+  del derecho que resulta inmediatamente relevante para este indicador de los ODS, 
+  mientras que el derecho a difundir información e ideas constituye la otra cara de la moneda.
 
   Fuente: División de Estadísticas de las Naciones Unidas
 

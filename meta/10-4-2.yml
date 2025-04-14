@@ -21,13 +21,13 @@ formula: |
 
   $$I_{gini}^{t}= \frac{\sum_{i=1}^{n-1} (P_i^{t} - Y_i^{t})}{\sum_{i=1}^{n-1} P_i^{t}}$$
 
-
   donde:
 
   $P_i^{t} =$ proporción acumulada de personas, ordenadas por ingreso ascendente, en el año $t$
-  $Y_i^{t} =$ proporción acumulada de ingresos correspondientes a esas personas en el año $t$
-  $n =$ número total de personas
 
+  $Y_i^{t} =$ proporción acumulada de ingresos correspondientes a esas personas en el año $t$
+
+  $n =$ número total de personas
 
 desagregacion: 
 
@@ -56,6 +56,8 @@ justificacion_global: |
   El indicador permite a los responsables de las políticas y a las 
   comunidades más amplias de partes interesadas y promotoras hacer un seguimiento sistemático del 
   progreso a nivel de país en la contribución de la política fiscal a sociedades más equitativas.
+
+  Fuente: División de Estadísticas de las Naciones Unidas 
 
 dato_global:
 

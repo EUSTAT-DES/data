@@ -25,6 +25,7 @@ observaciones: >-
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
 
+
  # Metadatos mundiales (Descripción del indicador)  
 
 
@@ -33,6 +34,7 @@ justificacion_global: |
   Fundamentales de las Estadísticas Oficiales de las Naciones Unidas si 
   contiene disposiciones relacionadas con los diez Principios. 
 
+  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: >- 
 
@@ -41,8 +43,9 @@ dato_global: >-
 comparabilidad: >-
   El indicador disponible cumple con los metadatos de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-18-02.pdf">Metadata 17-18-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-18-02.pdf">Metadatos 17-18-2.pdf</a> (solo en inglés)'
+
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
