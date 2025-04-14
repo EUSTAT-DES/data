@@ -27,7 +27,6 @@ desagregacion: |
 
 observaciones: 
 
-
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
 
@@ -61,6 +60,7 @@ justificacion_global: |
   las personas que utilizan Internet. Esta información puede contribuir al diseño de 
   políticas específicas para superar esas brechas.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: >- 
 
@@ -70,8 +70,8 @@ dato_global: >-
 comparabilidad: >-
   El indicador disponible cumple con los metadatos de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-08-01.pdf">Metadata 17-8-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-08-01.pdf">Metadatos 17-8-1.pdf</a> (solo en inglés)'
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

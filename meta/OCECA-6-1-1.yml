@@ -5,7 +5,6 @@ objetivo_global: objetivo_largo.6-titulo
 meta_global: meta_largo.6-1-titulo
 #  indicador_onu_global: indicador_largo.6-1-1-titulo
 
-
 definicion:  |
   Proporción de personas en zonas de abastecimiento que notifican al Sistema de Información Nacional de Agua de Consumo (SINAC)
 
@@ -31,5 +30,5 @@ texto_oceca: FUENTE.oceca
 
 informacion_interes: 
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -1,0 +1,49 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.17-titulo
+# meta_global: meta_largo.17-5-titulo
+#  indicador_onu_global: indicador_largo.17-5-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  De conformidad con la Política del Banco Mundial sobre Informes de Deuda Externa 
+  y Estados Financieros, los informes de deuda externa son necesarios para satisfacer 
+  las necesidades del Banco Mundial de información fiable y oportuna sobre 
+  la deuda externa a fin de (a) evaluar la situación de la deuda externa, la solvencia 
+  y la gestión económica de un país prestatario; y (b) realizar su labor económica 
+  nacional y evaluar los problemas regionales y mundiales de endeudamiento y 
+  servicio de la deuda.
+
+  El endeudamiento externo de los países informantes se realiza a través 
+  del Sistema de Información de Deudores (SID), establecido en 1951, que 
+  recopila información detallada a nivel de préstamo mediante un conjunto 
+  estandarizado de formularios.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: |
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.4.1&seriesCode=DT_TDS_DECT&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Servicio de la deuda como proporción de las exportaciones de bienes, servicios e ingresos primarios (%) DT_TDS_DECT</a> UNSTATS
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-05-01.pdf">Metadatos 17-5-1.pdf</a> (solo en inglés)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -23,11 +23,19 @@ observaciones: >-
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
 
+
  # Metadatos mundiales (Descripción del indicador)  
 
+justificacion_global: |
+  El indicador «Número de países con un plan estadístico nacional plenamente financiado y en fase de implementación» 
+  se basa en el Informe Anual sobre la Situación de las Estrategias Nacionales para el Desarrollo de la 
+  Estadística (ENDE). En colaboración con sus socios, PARIS21 informa sobre el progreso de los países en el 
+  diseño e implementación de sus planes estadísticos nacionales. 
 
-justificacion_global:
+  Este indicador contabiliza los países que (i) están implementando una estrategia, 
+  (ii) la están diseñando o (iii) están a la espera de su adopción durante el año en curso.
 
+  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: >- 
 
@@ -36,8 +44,8 @@ dato_global: >-
 comparabilidad: >-
   El indicador disponible cumple con los metadatos de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-18-03.pdf">Metadata 17-18-3.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-18-03.pdf">Metadatos 17-18-3.pdf</a> (solo en inglés)'
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

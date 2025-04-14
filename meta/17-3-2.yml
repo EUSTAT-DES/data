@@ -16,7 +16,9 @@ formula: |
 
   donde: 
 
-  $VR^{t} =$ volumen de remesas enviadas al extranjero en el año $t$<br> $PIB^{t} =$ producto interior bruto a precios corrientes en el año $t$
+  $VR^{t} =$ volumen de remesas enviadas al extranjero en el año $t$
+
+  $PIB^{t} =$ producto interior bruto a precios corrientes en el año $t$
 
   Si denotamos: 
 
@@ -30,11 +32,11 @@ formula: |
 
   $$ VR^{t} = \displaystyle \sum_{p \epsilon Países} VR_{España,p}^{t} = \frac{\frac{P_{16-64,p}^{t}+P_{16-64,p}^{t+1}}{2}}{\frac{P_{16-64,España,p}^{t}+P_{16-64,España,p}^{t+1}}{2}} $$ 
 
-  siendo los países: Colombia, Marruecos, Ecuador, República, Dominicana, Honduras, Bolivia, Senegal, Paraguay,Pakistán, Rumanía, resto de países. No se considera a los países pertenecientes a la Unión Europea en "resto de países".
+  siendo los países: Colombia, Marruecos, Ecuador, República, Dominicana, Honduras, Bolivia, Senegal, Paraguay, Pakistán, Rumanía, resto de países. No se considera a los países pertenecientes a la Unión Europea en "resto de países".
 
-desagregacion: >-
+desagregacion: 
 
-observaciones: >-
+observaciones: 
 
 
 periodicidad: FUENTE.FREQ_A
@@ -42,23 +44,24 @@ texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-
 justificacion_global: |
   Disponer de datos precisos sobre los flujos de remesas es crucial para que los responsables 
   de las políticas, los gobiernos y las organizaciones internacionales elaboren 
   estrategias eficaces para promover el desarrollo sostenible y alcanzar los 
   Objetivos de Desarrollo Sostenible (ODS). 
 
+  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: >- 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.3.2&seriesCode=BX_TRF_PWKR&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Volumen de remesas (en dólares estadounidenses) como proporción del PIB total (%) BX_TRF_PWKR</a> UNSTATS
 
 
 comparabilidad: >-
-  El indicador disponible no cumple con los metadatos de Naciones Unidas, pero aporta información similar.
+  El indicador disponible no cumple con los metadatos de Naciones Unidas, pero aporta 
+  información similar. Los datos se presentan en euros y no en dólares de los Estados Unidos
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-03-02.pdf">Metadata 17-3-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-03-02.pdf">Metadatos 17-3-2.pdf</a> (solo en inglés)'
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
