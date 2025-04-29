@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de la población que supera la edad legal de jubilación y recibe una pensión",
-                "Proporción de personas desempleadas que reciben prestaciones por desempleo",
+                "SI_COV_PENSN",
+                "SI_COV_UEMP",
                 ""
               ]
             },
@@ -50,7 +50,7 @@
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Units",

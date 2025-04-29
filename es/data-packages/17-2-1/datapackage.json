@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales",
-                "Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales en proporción al PIB",
+                "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo",
+                "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB",
                 ""
               ]
             },

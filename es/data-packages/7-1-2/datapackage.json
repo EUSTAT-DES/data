@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios",
+                "EG_EGY_CLEAN",
                 ""
               ]
             },

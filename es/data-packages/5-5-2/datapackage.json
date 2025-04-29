@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Cargo directivo",
+                "Cargos directivo",
                 "Alta dirección",
                 "Empresaria",
                 ""
@@ -39,7 +39,7 @@
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Units",

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Productividad de los grandes productores de alimentos",
-                "Productividad de los pequeños productores de alimentos",
+                "PD_AGR_LSFP",
+                "PD_AGR_SSFP",
                 ""
               ]
             },
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Units",

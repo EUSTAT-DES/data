@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de hogares cubiertos con redes móviles 5G",
-                "Proporción de hogares cubiertos con redes móviles 3,5G",
-                "Proporción de hogares cubiertos con redes móviles 4G",
+                "IT_MOB_5GNTWK",
+                "3,5G",
+                "4G",
                 ""
               ]
             },
@@ -39,7 +39,7 @@
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Units",

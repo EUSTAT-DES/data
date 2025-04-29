@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Residuos urbanos recogidos per cápita",
-                "Proporción de residuos urbanos recogidos y administrados en instalaciones controladas",
+                "Proporción de residuos sólidos municipales recogidos y administrados en instalaciones controladas ",
                 "Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",
                 ""
               ]
@@ -52,7 +52,7 @@
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Units",

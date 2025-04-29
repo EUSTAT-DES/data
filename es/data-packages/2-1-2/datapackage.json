@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prevalencia de la inseguridad alimentaria grave o muy grave",
-                "Prevalencia de la inseguridad alimentaria muy grave",
+                "AG_PRD_FIESMS",
+                "AG_PRD_FIESS",
                 ""
               ]
             },

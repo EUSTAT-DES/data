@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administración autonómica y local",
+                "ADM_MUN_AUT",
                 "Administración autonómica",
-                "Administración local",
+                "Administración municipal",
                 ""
               ]
             },

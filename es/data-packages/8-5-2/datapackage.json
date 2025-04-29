@@ -56,7 +56,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Persona sin discapacidad",
+                "PWD",
                 "Persona con discapacidad",
                 ""
               ]
@@ -74,7 +74,7 @@
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Comarca",

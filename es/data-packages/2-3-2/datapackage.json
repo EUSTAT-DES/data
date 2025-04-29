@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ingresos medios de los grandes productores de alimentos",
-                "Ingresos medios de los pequeños productores de alimentos",
+                "SI_AGR_LSFP",
+                "SI_AGR_SSFP",
                 ""
               ]
             },
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Units",

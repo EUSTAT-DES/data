@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Superficie de las áreas terrestres protegidas (Km2)",
-                "Proporción de la superficie terrestre protegida respecto a la superficie terrestre",
+                "EU_SDG_15_20_KM2",
+                "EU_SDG_15_20_PT",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Pastizales",
-                "Humedales",
-                "Asentamientos",
-                "Otras tierras",
-                "Bosques",
-                "Tierras de cultivo",
+                "LC_GRS",
+                "LC_WL",
+                "LC_ART",
+                "LC_OL",
+                "LC_TRE",
+                "LC_CRP",
                 ""
               ]
             },
