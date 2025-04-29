@@ -11,8 +11,8 @@ definicion: |
 
   Este indicador se compone de dos series temporales:
 
-  - Indicador de anomalías en los precios de los alimentos
-  - Índice de precios de consumo de los alimentos
+  <b> - Indicador de anomalías en los precios de los alimentos</b>
+  <b> - Índice de precios de consumo de los alimentos</b>
 
 
 formula: |
@@ -23,18 +23,18 @@ formula: |
 
   donde:
 
-  $IFPA_{m}^{t}$ = indicador de anomalías en los precios de los alimentos del mes $m$ del año $t$ 
+  $IFPA_{m}^{t} $= indicador de anomalías en los precios de los alimentos del mes $m$ del año $t$ 
 
 
   <br>
 
   <b>Índice de precios de consumo de los alimentos</b>
 
-  $$IPC_{alimentos}^{t} = \frac{1}{12} \cdot \sum_{m=1}^{12} IPC_{alimentos,m}^{t}$$
+  $$IPC_{alimentos}^{t} = \frac{1}{12} \cdot \sum_{m=1}^{12} IPC_{alimentos, m}^{t}$$
 
   donde:
 
-  $IPC_{alimentos,m}^{t}$ = índice de precios de consumo de los alimentos del mes $m$ del año $t$
+  $IPC_{alimentos, m}^{t}$ = índice de precios de consumo de los alimentos del mes $m$ del año $t$
 
 
 
