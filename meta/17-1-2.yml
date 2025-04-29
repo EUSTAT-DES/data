@@ -29,9 +29,11 @@ formula: |
 
   <br>
  
-  <b>Proporción de los ingresos no financieros que provienen de impuestos</b>
+  <b>Proporción de los ingresos totales de las administraciones públicas vascas que provienen de impuestos</b>
 
   $$PIT_{imp}^{t} = \frac{I_{imp}^{t}}{I_{tot}^{t}} \cdot 100$$
+
+  donde: 
 
   $I_{imp}^{t}$ = ingresos por impuestos directos e indirectos de la CCAA y EELL en el año $t$
 
@@ -40,10 +42,10 @@ formula: |
 
 desagregacion:
 
-observaciones: >-
+observaciones: |
 
   Los datos consolidados de las liquidaciones presupuestarias de las comunidades autónomas 
-  se toman depurados de IFL (Intermediación Financiera Local) y PAC (política agrícola común)
+  se toman depurados de IFL (Intermediación Financiera Local) y PAC (política agrícola común).
 
   En la primera serie se consideran ingresos por impuestos los incluidos en los capítulos 1 
   (impuestos directos) y 2 (impuestos indirectos) de la clasificación económica. Los ingresos 

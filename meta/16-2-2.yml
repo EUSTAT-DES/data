@@ -21,13 +21,15 @@ formula: |
 
   $VTP_{exp\, laboral}^{t} =$ número de víctimas detectadas de trata de seres humanos con fines de explotación laboral en el año $t$ 
 
-  $VTP_{obtención\, órganos}^{t} =$ número de víctimas detectadas de trata de seres humanos para la obtención de órganos en el año $t$
+  $VTP_{obtención\, órganos}^{t} =$ número de víctimas detectadas de trata de seres humanos para la obtención de órganos en el año $t$ 
 
-  $VTP_{otros\, fines}^{t} =$ número de víctimas detectadas de trata de seres humanos con fines de matrimonios forzados, criminalidad forzada y/o mendicidad en el año $t$ <br>$P^{t} =$ población a 1 de julio del año $t$
+  $VTP_{otros\, fines}^{t} =$ número de víctimas detectadas de trata de seres humanos con fines de matrimonios forzados, criminalidad forzada y/o mendicidad en el año $t$ 
+  
+  $P^{t} =$ población a 1 de julio del año $t$ 
 
 
 desagregacion: |
-  Tipo de explotación: explotación sexual, explotación laboral, obtención de órganos, otros fines (matrimonios forzados, criminalidad forzada y/o mendicidad)
+  Tipo de explotación: explotación sexual; explotación laboral; obtención de órganos; otros fines (matrimonios forzados, criminalidad forzada y/o mendicidad) 
 
 
 observaciones: |
