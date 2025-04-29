@@ -9,7 +9,7 @@ meta_global: meta_largo.8-6-titulo
 
 
 definicion:  | 
-  Proporción de jóvenes entre 15 y 24 años que no tienen empleo ni han realizado 
+  Proporción de jóvenes entre 15 y 24 años que no han tenido empleo ni han realizado 
   estudios o formación (reglada o no reglada) en las últimas cuatro semanas respecto 
   al total de jóvenes entre 15 y 24 años
 
@@ -19,7 +19,7 @@ formula:  |
 
   donde:
 
-  $PNINI_{15-24}^{t} =$ población entre 15 y 24 años que no tiene empleo ni ha realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas en el año $t$
+  $PNINI_{15-24}^{t} =$ población entre 15 y 24 años que no ha tenido empleo ni ha realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas en el año $t$
 
   $P_{15-24}^{t} =$ población entre 15 y 24 años en el año $t$
 

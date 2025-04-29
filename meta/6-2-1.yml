@@ -10,10 +10,10 @@ meta_global: meta_largo.6-2-titulo
 definicion: >-
   Series disponibles: 
 
-   - Proporción de viviendas con agua corriente: Proporción de viviendas principales 
-   con abastecimiento de agua corriente
+   <b> - Proporción de viviendas con agua corriente</b>: Proporción de viviendas principales 
+   con abastecimiento de agua corriente 
   
-   - Proporción de viviendas con baño: Proporción de viviendas principales con baño 
+   <b> - Proporción de viviendas con baño</b>: Proporción de viviendas principales con baño 
 
 formula: |
   <b>Proporción de viviendas con agua corriente</b>
