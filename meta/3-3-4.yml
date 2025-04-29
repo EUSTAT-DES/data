@@ -13,11 +13,11 @@ definicion: >-
 
 formula: |
 
-  $$TCA_{hepatitis B}^{t} = \frac{CA_{hepatitis B}^{t}}{P^{t}} \cdot 100.000$$
+  $$TCA_{hepatitis\, B}^{t} = \frac{CA_{hepatitis\, B}^{t}}{P^{t}} \cdot 100.000$$
 
   donde:
 
-  $CA_{hepatitis B}^{t} =$ casos autóctonos de hepatitis B notificados a la Red Nacional de Vigilancia Epidemiológica (RENAVE) en el año $t$
+  $CA_{hepatitis\, B}^{t} =$ casos autóctonos de hepatitis B notificados a la Red Nacional de Vigilancia Epidemiológica (RENAVE) en el año $t$
 
   $P^{t} =$ población a 1 de julio del año $t$
 
