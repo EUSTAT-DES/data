@@ -17,14 +17,14 @@ formula: |
 
   donde: 
 
-  $NOEMAS_{t}$ número de organizaciones con Sistema comunitario de gestión 
+  $NOEMAS_{t} $= número de organizaciones con Sistema comunitario de gestión 
   y auditoría medioambiental en el año $t$
 
   $$NLEEE_{t}$$
 
   donde:
 
-  $NLEEE_{t}$ número de licencias de Etiqueta Ecológica Europea en el año $t$
+  $NLEEE_{t} $= número de licencias de Etiqueta Ecológica Europea en el año $t$
 
 desagregacion: 
 

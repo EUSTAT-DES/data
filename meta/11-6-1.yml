@@ -45,6 +45,8 @@ formula: |
 
   $$PRU_{tratamiento}^{t} = \frac{RU_{tratamiento}^{t}}{RU^{t}} \cdot 100$$ <br> 
 
+  donde:  
+
   $RU_{tratamiento}^{t} =$ cantidad de residuos urbanos tratados (según tipo de tratamiento) en el año $t$
 
   $RUR^{t} =$ cantidad total de residuos urbanos recogidos y gestionados en instalaciones controladas en el año $t$
