@@ -9,15 +9,15 @@ meta_global: meta_largo.8-b-titulo
 
 
 definicion:  | 
-  Proporción del gasto de la administración autonómica en fomento del empleo (política de gasto 24 de la clasificación funcional empleada en las liquidaciones presupuestarias de las comunidades autónomas) y gasto total
+  Proporción del gasto de la administración autonómica en fomento del empleo (política de gasto 24 de la clasificación funcional empleada en las liquidaciones presupuestarias de las comunidades autónomas) 
 
 formula:  |
 
-  $$G_{fomento\, del\, empleo}^{t} = \frac{G_{fomento\, del\, empleo}^{t}}{G^{t}} \cdot 100$$
+  $$G_{fomento\, empleo}^{t} = \frac{G_{fomento\, empleo}^{t}}{G^{t}} \cdot 100$$
 
   donde:
 
-  $G_{fomento\, del\, empleo}^{t} =$ gasto en fomento del empleo en la liquidación de presupuestos consolidados de la comunidad autónoma (política de gasto 24 de la clasificación funcional) en el año $t$
+  $G_{fomento\, empleo}^{t} =$ gasto en fomento del empleo en la liquidación de presupuestos consolidados de la comunidad autónoma (política de gasto 24 de la clasificación funcional) en el año $t$
 
   $G^{t} =$ gasto total en la liquidación de presupuestos consolidados de la comunidad autónoma en el año $t$
 

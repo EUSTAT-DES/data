@@ -9,7 +9,8 @@ meta_global: meta_largo.9-1-titulo
 
 
 definicion: >- 
-  El Índice de Acceso Rural (IAR) mide la proporción de la población rural que vive a 2 km de una carretera transitable durante todo el año.
+  El Índice de Acceso Rural (IAR) mide la proporción de la población rural que vive a una distancia máxima 
+  de 2 km de una carretera transitable durante todo el año.
 
 formula:  |
 
@@ -17,7 +18,8 @@ formula:  |
 
   donde:
 
-  $PR_{carretera\, transitable}^{t} =$ población rural que vive a 2 km de una carretera transitable durante todo el año en el año $t$
+  $PR_{carretera\, transitable}^{t} =$ población rural que vive a una distancia máxima de 
+  2 km de una carretera transitable durante todo el año en el año $t$
 
   $PR^{t} =$ población rural en el año $t$
 
