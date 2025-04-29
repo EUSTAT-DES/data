@@ -22,18 +22,18 @@ formula: |
 
   donde: 
 
-  $P_{SP\, mujeres}^{t} =$ mujeres al servicio del sector público a 1 de enero del año $t
+  $P_{SP\, mujeres}^{t} =$ mujeres al servicio del sector público a 1 de enero del año $t$ 
 
-  $P_{SP}^{t} =$ personas al servicio del sector público a 1 de enero del año $t$
+  $P_{SP}^{t} =$ personas al servicio del sector público a 1 de enero del año $t$ 
 
-  $P_{16-64\, mujeres}^{t} =$ mujeres entre 16 y 64 años a 1 de enero del año $t$
+  $P_{16-64\, mujeres}^{t} =$ mujeres entre 16 y 64 años a 1 de enero del año $t$ 
 
-  $P_{16-64}^{t} =$ personas entre 16 y 64 años a 1 de enero del año $t$
+  $P_{16-64}^{t} =$ personas entre 16 y 64 años a 1 de enero del año $t$ 
 
 
 desagregacion: |
 
-  Institución pública: sector público (total), sector público autonómico, sector público local, sector público estatal, instituciones sanitarias autonómicas, centros educativos no universitarios autonómicos, diputaciones forales, universidades, policía autonómica, administración de justicia autonómica, sextor público local, ayuntamientos, sector público estatal, fuerzas armadas, fuerzas y cuerpos de seguridad del Estado, administración de justicia del Estado.
+  Institución pública: sector público (total), sector público autonómico, sector público local, sector público estatal, instituciones sanitarias autonómicas, centros educativos no universitarios autonómicos, diputaciones forales, ayuntamientos, universidades, policía autonómica, administración de justicia autonómica, administración de justicia del Estado, fuerzas armadas, fuerzas y cuerpos de seguridad del Estado.
 
 
 observaciones: |
@@ -80,7 +80,7 @@ justificacion_global: |
 
 dato_global: 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.7.1&seriesCode=SG_DMK_PARLMP_LC&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
-  Relación de mujeres miembros de los parlamentos (Relación de la proporción de mujeres en el parlamento con la proporción de mujeres en la población nacional, con la edad de elegibilidad como límite inferior), Cámara Baja o Unicameral SG_DMK_PARLMP_LC</a> UNSTATS
+  Ratio de mujeres miembros de los parlamentos (Relación de la proporción de mujeres en el parlamento con la proporción de mujeres en la población nacional, con la edad de elegibilidad como límite inferior), Cámara Baja o Unicameral SG_DMK_PARLMP_LC</a> UNSTATS
 
 comparabilidad: >-
   El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas. Se centra en el subindicador b).

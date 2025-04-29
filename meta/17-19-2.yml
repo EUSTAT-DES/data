@@ -13,7 +13,7 @@ definicion: >-
 
 formula: |
 
-  $$CPV^{t} = \begin{cases} SÍ, & \text{Se ha realizado al menos un censo de población y vivienda en [t, t − 9]} \\ NO & \text{No se ha realizado al menos un censo de población y vivienda en [t, t − 9]} \end{cases} $$
+  $$CPV^{t} = \begin{cases} SÍ & \text{Se ha realizado al menos un censo de población y vivienda en [t, t − 9]} \\ NO & \text{No se ha realizado al menos un censo de población y vivienda en [t, t − 9]} \end{cases} $$
 
   $$RND^{t} = \begin{cases} 1 & \text{Sí se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones del año 𝑡} \\ 0 & \text{No se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones del año 𝑡} \end{cases} $$
 
