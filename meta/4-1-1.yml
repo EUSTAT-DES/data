@@ -9,8 +9,8 @@ meta_global: meta_largo.4-1-titulo
 
 
 definicion: >-
-  Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en i) lectura y 
-  en ii) matemáticas, desglosada por sexo
+  Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura y 
+  en matemáticas, desglosada por sexo 
 
 formula: |
 
@@ -25,7 +25,7 @@ formula: |
 
 
 desagregacion: | 
-  Tipo de competencia (materia): Comprensión lectora, matemáticas
+  Tipo de competencia (materia): Comprensión lectora; matemáticas
 
   Sexo 
 
@@ -34,7 +34,9 @@ periodicidad: FUENTE.FREQ_A3
 
 observaciones: |
 
-  El Programa para la evaluación internacional de los estudiantes utiliza un sistema de puntuaciones, donde no hay una puntuación máxima ni mínima. Los resultados se escalan de manera que respondan a una distribución normal con una media de 500 puntos y una desviación típica de 100 puntos. Para ayudar a interpretar esas puntuaciones, se establecen categorías de competencia en lectura:
+  El Programa para la evaluación internacional de los estudiantes utiliza un sistema de puntuaciones, donde no hay una puntuación máxima ni mínima. Los resultados se escalan de manera que respondan a una distribución normal con una media de 500 puntos y una desviación típica de 100 puntos. 
+
+  Para ayudar a interpretar esas puntuaciones, se establecen categorías de competencia en lectura:
 
   - Inferior al nivel 1c: puntuación inferior a 189,33
   - Nivel 1c: puntuación entre 189,33 y 262,03
