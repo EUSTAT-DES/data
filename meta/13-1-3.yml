@@ -20,7 +20,7 @@ formula: |
 
   donde:
 
-  $MUN_{RRD}^{t} =$ número de gobiernos locales con planes municipales de emergencias en el año $t$
+  $MUN_{RRD\, municipal}^{t} =$ número de gobiernos locales con planes municipales de emergencias en el año $t$
 
   $MUN^{t} =$ número de gobiernos locales en el año $t$
 
