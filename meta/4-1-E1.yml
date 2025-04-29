@@ -14,11 +14,11 @@ definicion: >-
 
 formula: |
 
-  $$PP_{abandono}^{t}  = \frac{P_{abandono,18-24}^{t}}{P_{18-24}^{t}}$$
+  $$PP_{abandono}^{t}  = \frac{P_{abandono\, 18-24}^{t}}{P_{18-24}^{t}}$$
 
   donde:
 
-  $P_{abandono,18-24}^{t} =$ población de 18 a 24 años que ha completado como máximo la primera etapa de la educación secundaria y no ha seguido ningún estudio o formación en el año $t$
+  $P_{abandono\, 18-24}^{t} =$ población de 18 a 24 años que ha completado como máximo la primera etapa de la educación secundaria y no ha seguido ningún estudio o formación en el año $t$
 
   $P_{18-24}^{t} =$ población de 18 a 24 años en el año $t$
 
