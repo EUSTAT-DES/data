@@ -10,24 +10,24 @@ meta_global: meta_largo.1-4-titulo
 
 definicion: | 
 
-  Serie eskuragarriak: 
+  Eskuragarri dauden serieak: 
 
-  <b> Ur korrontea duten etxebizitzen proportzioa:</b>
+  <b> - Txorrotako ura duten etxebizitzen proportzioa:</b> 
   Ur-hornidura duten etxebizitza nagusien proportzioa
   
-  <b>Bainugela duten etxebizitzen proportzioa:</b>
+  <b> - Bainugela duten etxebizitzen proportzioa:</b> 
   Bainugela duten etxebizitza nagusien proportzioa
 
 
 formula: |
 
-  <b>Ur korrontea duten etxebizitzen proportzioa</b>
+  <b>Txorrotako ura duten etxebizitzen proportzioa</b>
 
-  $$PVP_{ur\, korronte}^{t} = \frac{VP_{ur\, korronte}^{t}}{VP^{t}} \cdot 100$$
+  $$PVP_{txorrotako\, ura}^{t} = \frac{VP_{txorrotako\, ura}^{t}}{VP^{t}} \cdot 100$$
 
   non:
 
-  $VP_{ur\, korronte}^{t} =$ ur korrontearen hornidura duten etxebizitza nagusiak $t$ urtean
+  $VP_{txorrotako\, ura}^{t} =$ ur-hornidura duten etxebizitza nagusiak $t$ urtean
 
   $VP^{t} =$ etxebizitza nagusiak $t$ urtean
 
@@ -39,17 +39,17 @@ formula: |
 
   non:
 
-  $VP_{bainugela}^{t} =$ bainua duten etxebizitza nagusiak $t$ urtean
+  $VP_{bainugela}^{t} =$ bainugela duten etxebizitza nagusiak $t$ urtean
 
-  $VP^{t} =$ txebizitza nagusiak $t$ urtean
+  $VP^{t} =$ etxebizitza nagusiak $t$ urtean
 
 desagregacion: >-
 
-  Lurraklde historikoa/Eskualdea/Udalerria
+  Lurralde historikoa/Eskualdea/Udalerria
 
 observaciones: >-
   Etxebizitza nagusia da urte osoan edo urte gehienean pertsona batek edo gehiagok 
-  ohiko bizileku gisa erabiltzen duten etxebizitza.
+  ohiko bizileku gisa erabiltzen duten etxea.
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
@@ -92,7 +92,7 @@ dato_global: |
   Oinarrizko saneamendu-zerbitzuak erabiltzen dituzten biztanleen proportzioa, kokapenaren arabera (%) SP_ACS_BSRVSAN</a> UNSTATS
 
 comparabilidad: >-
-  Euskal Autonomia Erkidegoan eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu aztertutako serieetarako. Beste serie batzuk plataforma honetako garapen jasangarriaren beste adierazle batzuetan aurkezten dira (3-8-1, 4-1-1, 7-1-2, 9-1-1, 9-c-1, 11-2-1, 11-6-1)
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu aztertutako serieetarako. Beste serie batzuk plataforma honetako garapen jasangarriaren beste adierazle batzuetan aurkezten dira (3-8-1, 4-1-1, 7-1-2, 9-1-1, 9-c-1, 11-2-1, 11-6-1)
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-01.pdf">Metadatuak 1-4-1.pdf</a> (ingelesez bakarrik)'
 

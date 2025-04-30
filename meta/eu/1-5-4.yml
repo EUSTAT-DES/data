@@ -13,27 +13,27 @@ definicion: >-
   murrizteko tokiko estrategiak hartzen eta ezartzen dituzten tokiko gobernuen ehunekoa   
 
 formula: |
-  <b>Larrialdietarako udal-plan bat duten udalerrien ehunekoa</b>
+  <b>Larrialdietarako udal-plana duten udalerrien ehunekoa</b>
 
-  $$PMUN_{RRD\, udalerria}^{t} = \frac{MUN_{RRD\, udalerria}^{t}}{MUN^{t}} \cdot 100$$
+  $$PMUN_{udal\, HAM}^{t} = \frac{MUN_{udal\, HAM}^{t}}{MUN^{t}} \cdot 100$$
 
   non:
 
-  $MUN_{RRD\, udalerria}^{t} =$ larrialdietarako udal-planak dituzten tokiko gobernuen kopurua, $t$ urtean
+  $MUN_{udal\, HAM}^{t} =$ larrialdietarako udal-planak dituzten udalerrien kopurua, $t$ urtean
 
-  $MUN^{t} =$ tokiko gobernuak, $t$ urtean
+  $MUN^{t} =$ udalerriak $t$ urtean
 
    <br>
 
-  <b>Larrialdietako lurralde-plan batek estalitako udalerrien ehunekoa</b>
+  <b>Larrialdietarako lurralde-plan batek estalitako udalerrien ehunekoa</b>
 
-  $$PMUN_{RRD\, lurraldea}^{t} = \frac{MUN_{RRD\, lurraldea}^{t}}{MUN^{t}} \cdot 100$$
+  $$PMUN_{lurralde\, HAM}^{t} = \frac{MUN_{lurralde\, HAM}^{t}}{MUN^{t}} \cdot 100$$
 
   non:
 
-  $MUN_{RRD\, lurraldea}^{t} =$ larrialdietarako lurralde-planak dituzten tokiko gobernuen kopurua, $t$ urtean
+  $MUN_{lurralde\, HAM}^{t} =$ larrialdietarako lurralde-planak dituzten udalerrien kopurua, $t$ urtean
 
-  $MUN^{t} =$ tokiko gobernuak, $t$ urtean
+  $MUN^{t} =$ udalerriak $t$ urtean
   
 desagregacion: 
 
@@ -43,7 +43,7 @@ desagregacion:
 observaciones: |
 
   Euskadin, Euskadiko Babes Zibileko Planak (LABI) ezarritakoaren arabera, 20.000 biztanletik gorako 
-  udalerriek larrialdietarako udal-planak (IHP) egin eta onartu behar dituzte.
+  udalerriek larrialdietarako udal-planak egin eta onartu behar dituzte.
 
   5.000 biztanletik gorako udalerrietan, Toki Araubidearen Oinarriak arautzen dituen Estatuko araudiarekin 
   bat etorriz, jarraibide hau gomendagarria da. 2024an, 5.000 eta 20.000 biztanle arteko udalerrien % 96k 
@@ -63,7 +63,7 @@ justificacion_global: |
   eta osasun-baliabideetan eta pertsonen, enpresen, komunitateen eta herrialdeen aktibo ekonomiko, 
   fisiko, sozial, kultural eta ingurumenekoetan".
 
-  Sendaiko Esparruaren helburu globalen artean, "E helburua: 2020rako hondamendi-arriskua murrizteko 
+  Sendai Esparruaren helburu globalen artean, "E helburua: 2020rako hondamendi-arriskua murrizteko 
   estrategia nazionalak eta tokikoak dituzten herrialdeen kopurua nabarmen handitzea" dago, hondamendi-arriskua 
   murrizteko estrategia eta politika nazional eta lokalen aurrerapena eta estaldura orokorra hobetzeko.
 
@@ -73,14 +73,14 @@ justificacion_global: |
   esposizioa eta hondamendiekiko urrakortasuna prebenitu eta murrizteko, erantzuteko eta berreskuratzeko 
   prestakuntza areagotzeko eta, horrela, erresilientzia indartzeko.
 
-  Sendaiko Esparruak eskatzen duen bezala, hondamendi-arriskua murrizteko tokiko estrategiak hartzen eta 
+  Sendai Esparruak eskatzen duen bezala, hondamendi-arriskua murrizteko tokiko estrategiak hartzen eta 
   ezartzen dituzten tokiko gobernuen proportzioa handitzeak garapen jasangarria bultzatuko du eta 
   erresilientzia ekonomikoa, soziala, sanitarioa eta ingurumenekoa indartuko ditu.
 
   Iturria: Nazio Batuen Estatistika Dibisioa  
 
 comparabilidad: >-
-  Eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-04.pdf">Metadatuak 1-5-4.pdf</a> (ingelesez bakarrik)'
 

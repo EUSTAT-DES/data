@@ -17,7 +17,7 @@ formula: |
 
   non:
 
-  $PAR_{artatutakoak}^{t} =$ espezializatutako osasun-langileek artatutako erditzeak $t$ urtean
+  $PAR_{artatutakoak}^{t} =$ osasun-langile espezializatuek artatutako erditzeak $t$ urtean
 
   $PAR^{t} =$ erditzeak $t$ urtean
 
@@ -49,13 +49,13 @@ justificacion_global: |
 
   - (iii) konplikazioak dituzten emakumeak eta/edo jaioberriak identifikatzea eta artatzea edo bideratzea
 
-  Iturria: Nazio Batuen Estatistika Dibisioa
+  Iturria: Nazio Batuen Estatistika Saila
 
 dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.1.2&seriesCode=SH_STA_BRTC&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Osasun-langile espezializatuek artatutako erditzeen proportzioa (%) SH_STA_BRTC</a> UNSTATS
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-01-02.pdf">Metadatuak 3-1-2.pdf</a> (ingelesez bakarrik)'
 

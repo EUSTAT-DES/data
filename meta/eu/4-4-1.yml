@@ -12,7 +12,7 @@ definicion: |
   Honako trebetasun informatiko hauetakoren bat erabili duten pertsonen proportzioa, adin-taldearen arabera: 
   softwarea edo app-ak deskargatzea edo instalatzea; softwarearen, app-aren edo gailuaren konfigurazioa aldatzea; 
   fitxategiak karpeten, gailuen edo hodeiaren artean kopiatzea edo mugitzea; testua, irudiak edo taulak 
-  integratzen dituzten aurkezpenak sortzea; programazio-lengoaia batean programatzea eta kalkulu-orri baten 
+  integratzen dituzten aurkezpenak sortzea; programazio-lengoaia batean programatzea; eta kalkulu-orri baten 
   oinarrizko funtzioak erabiltzea.
 
 formula: |
@@ -30,10 +30,10 @@ formula: |
 desagregacion: | 
   Trebetasun informatikoak: softwarea edo app-ak deskargatzea edo instalatzea; softwarearen, app-aren edo 
   gailuaren konfigurazioa aldatzea; fitxategiak karpeten, gailuen edo hodeiaren artean kopiatzea edo mugitzea; 
-  testua, irudiak edo taulak integratzen dituzten aurkezpenak sortzea; programazio-lengoaia batean programatzea 
-  eta kalkulu-orri baten oinarrizko funtzioak erabiltzea
+  testua, irudiak edo taulak integratzen dituzten aurkezpenak sortzea; programazio-lengoaia batean programatzea; 
+  kalkulu-orri baten oinarrizko funtzioak erabiltzea
 
-  Adina: 16-24, 25-74
+  Adina: 16-24; 25-74
 
   Sexua
 
@@ -65,7 +65,7 @@ justificacion_global: |
 dato_global:
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-04-01.pdf">Metadatuak 4-4-1.pdf </a>(ingelesez bakarrik)'
 

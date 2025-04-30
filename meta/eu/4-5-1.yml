@@ -13,8 +13,8 @@ definicion: |
   talde hauen arteko proportzioa:
 
    - 18 eta 64 urte bitarteko emakumeak eta gizonak (azken 12 hilabeteetan)
-   - 18 eta 64 urte bitarteko pertsonak, diru-sarrera txikienak eta altuagoak dituzten etxekoen unitateetako kideak (azken 12 hilabeteetan)
-   - 18 eta 64 urte bitarteko pertsonak, osasun-arazoengatik mugak dituztenak eta ez dituztenak (larriak edo ez larriak) (azken 12 hilabeteetan)
+   - 18 eta 64 urte bitarteko pertsonak, diru-sarrera gutxiko etxeeetan eta diru-sarrera altuko etxeetan bizi direnak (azken 12 hilabeteetan)
+   - 18 eta 64 urte bitarteko pertsonak, osasun-arazoengatik muga larriak edo ez larriak dituztenak, eta muga horiek ez dituztenak (azken 12 hilabeteetan)
    - 15 eta 64 urte bitarteko pertsonak, 10.000 biztanle baino gutxiagoko eta 10.000 biztanle baino gehiagoko udalerrietan bizi direnak (azken 4 asteetan)
 
 formula: |
@@ -25,11 +25,11 @@ formula: |
 
   $IPD$ = Dimentsioaren Parekotasun Indizea (Sexua, Aberastasuna, Kokapena, etab.)
 
-  $Ind_i$ = Hezkuntza adierazlea: hezkuntza-jarduerak (formalak edo ez-formalak) egitea azken 12 hilabete edo 4 asteetan.
+  $Ind_i$ = Hezkuntza Indizea: hezkuntza-jarduerak (formalak edo ez-formalak) egitea azken 12 hilabete edo 4 asteetan.
 
-  $d$ = talde behartsua (emakumeak, pertsona pobreagoak, udalerri txikietan bizi diren pertsonak, osasun-arazoengatiko mugak dituzten pertsonak)
+  $d$ = talde baztertua (emakumeak, pertsona pobreagoak, udalerri txikietan bizi diren pertsonak, osasun-arazoengatiko mugak dituzten pertsonak)
 
-  $a$ = lagunduriko taldea (gizonak, pertsona aberatsagoak, udalerri handietan bizi diren pertsonak, osasun-arazoengatik mugarik ez duten pertsonak)
+  $a$ = talde mesedetua (gizonak, pertsona aberatsagoak, udalerri handietan bizi diren pertsonak, osasun-arazoengatik mugarik ez duten pertsonak)
 
 desagregacion: >- 
   Lurralde historikoa
@@ -39,10 +39,11 @@ periodicidad: FUENTE.FREQ_A
 
 observaciones: >-
 
-  Adierazle honen erreferentzia-balioa 1 da, parekotasuna absolutua denean izaten dena. Adierazlearen balioa 
-  1etik zenbat eta urrunago egon, orduan eta handiagoa da desberdintasun-maila; izan ere, zenbakitzailearen 
-  populazio-taldea eta izendatzailearen populazio-taldea egoera txarrean edo aldekoan daude, hurrenez hurren 
-  1etik beherako edo hortik gorako balioa hartzen duten kontuan hartuta.
+  Adierazle honen erreferentzia-balioa 1 da, parekotasun absolutua adierazten duena. Adierazlearen balioa 
+  1etik zenbat eta urrunago egon, orduan eta handiagoa da desberdintasun-maila; balioa 1 baino txikiagoa denean, 
+  zenbakitzaileko populazio taldeak izendatzaileko populazio-taldearekiko egoera baztertua adierazten du, eta 
+  1 baino altuagoa denean, egoera mesedetua. 
+
 
 texto_oceca: FUENTE.oceca
 
@@ -59,10 +60,10 @@ justificacion_global: >-
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.5.1&seriesCode=SE_GPI_PTNPRE&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Genero-parekotasunaren indize doitua ikaskuntza antolatuan parte hartzeko tasarako (lehen hezkuntzan sartzeko adin ofiziala baino urtebete lehenago), (ratio) SE_GPI_PTNPRE</a> UNSTATS<br>
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.5.1&seriesCode=SE_GPI_PTNPRE&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Genero-parekotasunaren indize doitua ikaskuntza antolatuko parte hartzeko tasarako (Lehen Hezkuntzan sartzeko adin ofiziala baino urtebete lehenago), (ratio) SE_GPI_PTNPRE</a> UNSTATS<br>
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-05-01.pdf"> Metadatuak 4-5-1.pdf </a>(ingelesez bakarrik)'
 

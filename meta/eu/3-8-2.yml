@@ -9,7 +9,8 @@ meta_global: meta_largo.3-8-titulo
 
 
 definicion: >-
-  Familia-etxearen guztizko gastuaren % 10 edo 25% baino gehiagoko osasun-gastua duten familia-etxeetan bizi diren pertsonen proportzioa
+  Etxeko guztizko gastuaren % 10 edo % 25 baino gehiago osasun-gastuetara bideratzen den etxeetan bizi diren pertsonen proportzioa
+
 
 formula: |
 
@@ -17,12 +18,12 @@ formula: |
 
   non:
 
-  $PGGS_{\gt x\%}^{t} =$ osasun-gastu handiak (familia-etxearen guztizko gastuaren $%\x$etik gorakoak) dituzten familia-etxeetan bizi den biztanleria $t$ urtean
+  $PGGS_{\gt x\%}^{t} =$ osasun-gastu handiak (etxeko guztizko gastuaren $%\x$etik gorakoak) dituzten etxeetan bizi den biztanleria $t$ urtean
 
   $P^{t} =$ biztanleria $t$ urtean
 
 desagregacion: >- 
-  Gastuaren atalasea: Familia-gastuaren %10 eta %25
+  Gastuaren atalasea: Familia-gastuaren %10; %25
 
 periodicidad: FUENTE.FREQ_A
 
@@ -56,7 +57,7 @@ justificacion_global: |
   Osasunaren arloko finantza-zailtasunak murriztea garrantzitsua da munduko garapen-agendan, baita herrialde askotako 
   osasun-sektoreak eskualde guztietan duen lehentasuna ere.
 
-  Iturria: Nazio Batuen Estatistika Dibisioa 
+  Iturria: Nazio Batuen Estatistika Saila 
 
 dato_global: |
 

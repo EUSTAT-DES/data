@@ -10,16 +10,16 @@ meta_global: meta_largo.2-4-titulo
 
 
 definicion: >-
-  Ekoizpen ekologikora bideratutako nekazaritza-azaleraren proportzioa (laboreak eta belardi eta larreak)
+  Ekoizpen ekologikora bideratutako nekazaritza-azaleraren proportzioa (labore-lurrak, belardiak eta larreak)
 
 formula: |
   $$PSA_{ekologikoa}^{t} = \frac{SA_{ekologikoa}^{t}}{SA^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $SA_{ekologikoa}^t =$ sekoizpen ekologikora bideratutako nekazaritza-azalera $t$ urtean
+  $SA_{ekologikoa}^t =$ ekoizpen ekologikora bideratutako nekazaritza-azalera $t$ urtean
 
-  $SA^{t} =$ nekazaritza-azalera (laboreak eta belardi eta larreak) $t$ urtean
+  $SA^{t} =$ nekazaritza-azalera (labore-lurrak, belardiak eta larreak) $t$ urtean
 
 desagregacion: >-
   Lurralde historikoa/Eskualdea/Udalerria
@@ -51,7 +51,7 @@ dato_global: >-
   <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_02_40/default/table?lang=en&category=sdg.sdg_02">Nekazaritza ekologikora bideratutako azalera (sdg_02_40)</a> Eurostat
 
 comparabilidad: |
-  Eskuragarri dagoen adierazlea Europako adierazlearekin aldera daiteke.
+  EAEn eskuragarri dagoen adierazlea Europako adierazlearekin aldera daiteke.
 
 indicador_meta_enlace: |
   <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_02_40_esmsip2.htm">Metadatuak Eurostat (sdg_02_40)</a> (ingelesez bakarrik)

@@ -9,17 +9,17 @@ meta_global: meta_largo.3-a-titulo
 
 
 definicion: >-
-  Egunero erretzen duten 15 urteko eta gehiagoko pertsonen proportzioa
+  Egunero erretzen duten 15 urte eta gehiagoko pertsonen proportzioa
 
 formula: |
 
   $$PPFD_{15+}^{t} = \frac{PFD_{15+}^{t}}{P_{15+}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PFD_{15+}^{t} =$ Egunero erretzen duten 15 urteko eta gehiagoko biztanleak $t$ urtean
+  $PFD_{15+}^{t} =$ egunero erretzen duten 15 urte eta gehiagoko biztanleak $t$ urtean
 
-  $P_{15y+}^{t} =$ 15 urteko eta gehiagoko biztanleak $t$ urtean
+  $P_{15y+}^{t} =$ 15 urte eta gehiagoko biztanleak $t$ urtean
 
 
 desagregacion: | 
@@ -62,11 +62,11 @@ justificacion_global: |
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.a.1&seriesCode=SH_PRV_SMOK&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15%2B%20%7C%20BOTHSEX"> 15 urte edo gehiagoko pertsonen egungo tabako-kontsumoaren prebalentzia estandarizatua adinaren arabera, sexuaren arabera (%) SH_PRV_SMOK</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.a.1&seriesCode=SH_PRV_SMOK&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15%2B%20%7C%20BOTHSEX"> 15 urte edo gehiagoko pertsonen egungo tabako-kontsumoaren prebalentzia estandarizatua adinaren eta sexuaren arabera (%) SH_PRV_SMOK</a> UNSTATS
 
 
 comparabilidad: >- 
-  El indicador disponible no cumple estrictamente con los metadatos de Naciones Unidas pero aporta información similar.
+  EAEn eskuragarri dagoen adierazleak ez ditu zorrotz betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa eskaintzen du.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0a-01.pdf">Metadatuak 3-a-1.pdf</a> (ingelesez bakarrik)'
 

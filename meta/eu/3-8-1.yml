@@ -9,8 +9,8 @@ meta_global: meta_largo.3-8-titulo
 
 
 definicion: >-
-  Arreta medikoaren premiak ase gabe dituztela dioten 16 urteko eta gehiagoko pertsonen proportzioa, honako arrazoi 
-  hauetakoren batengatik: Finantza-arrazoiak, itxaron-zerrenda eta bidaiatzeko urrunegi
+  Ondoko arrazoiren bategatik arreta medikoaren premiak ase gabe dituztela dioten 16 urteko eta gehiagoko pertsonen proportzioa: 
+  Finantza-arrazoiak, itxaron-zerrenda eta bidaiatzeko urrunegi egotea
 
 formula: |
 
@@ -19,7 +19,8 @@ formula: |
   non:
 
   $PNIAM_{16+}^{t} =$ arreta medikoaren premiak ase gabe dituztela dioten 16 urteko eta gehiagoko pertsonak $t$ urtean 
-  $P_{16+}^{t} =$ 16 urteko eta gehiagoko biztanleria $t$ urtean
+  
+  $P_{16+}^{t} =$ 16 urteko eta gehiagoko biztanleria $t$ urtean 
 
 desagregacion: >- 
   Sexua
@@ -29,8 +30,8 @@ periodicidad: FUENTE.FREQ_A
 
 observaciones: >-
 
-  Ase gabeko behar autoinformatuak pertsona batek azterketa edo tratamendu mediko bat behar ote zuen ebaluatzeari 
-  dagozkio (hortzak zaintzea izan ezik), baina ez zuen izan edo ez zuen bilatu
+  Ase gabeko behar autoinformatuak esan nahi du pertsonak berak ebaluatzen duela azterketa edo 
+  tratamendu medikurik behar duen (hortzen zainketa izan ezik), baina ez duen lortu edo ez duen bilatu 
 
 texto_oceca: FUENTE.oceca
 
@@ -58,7 +59,7 @@ justificacion_global: |
   estalduraren adierazleak (behar duten zerbitzua jasotzen duten pertsonak bezala definituak) dira osasun-estaldura unibertsalaren (OEU) 
   esparruan zerbitzuak ematen aurrera jarraitzeko modurik onena.
 
-  Iturria: Nazio Batuen Estatistika Dibisioa
+  Iturria: Nazio Batuen Estatistika Saila 
 
 dato_global: >-
 
@@ -66,7 +67,7 @@ dato_global: >-
 
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du.
+  EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-08-01.pdf">Metadatuak 3-8-1.pdf</a> (ingelesez bakarrik)'
 

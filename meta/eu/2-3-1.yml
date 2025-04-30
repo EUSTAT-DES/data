@@ -10,16 +10,16 @@ meta_global: meta_largo.2-3-titulo
 
 
 definicion: |
-  Laboreen eta eratorrien, abereen, abeltzaintzako produktuen eta nekazaritza-ustiategietako 
-  beste ekoizpen batzuen (txikiak edo handiak) guztizko ekoizpena, Urteko Lan Unitatearen 
-  (NLU) arabera adierazita.
+  Laboreen eta horien deribatuen, abereen, abeltzaintzako produktuen eta nekazaritzako 
+  beste ekoizpen batzuen guztizko ekoizpena ustiategi txikietan zein handietan, Urteko 
+  Lan Unitatearen (NLU) arabera adierazita. 
 
-  Ustiategia txikitzat hartzen da bi baldintzak betetzen dituenean:
-   - Euskal Autonomia Erkidegoan lurraren tamainak metatutako banaketaren lehen bi kintiletan 
-     (% 40 txikiagoa) dagoen lur-kantitate bat erabiltzen du (hektareatan neurtua).
-   - Nekazaritza-jardueren urteko diru-sarrera ekonomikoa Euskal Autonomia Erkidegoan 
-     nekazaritzako diru-sarrera ekonomikoen ekoizpen-unitateko banaketa metatuaren lehen bi 
-     kintiletan dago (% 40 txikiagoa).
+
+  Ustiategia txikitzat hartzen da ondoko bi baldintzak betetzen baditu:
+   - Erabiltzen duen lur-kantitatea (hektareatan neurtuta) Euskal Autonomia Erkidegoko 
+     nekazaritza-ustiategien tamainaren banaketa metatuaren % 40 baxuenaren barruan dago. 
+   - Nekazaritzako jardueren urteko diru-sarrera Euskal Autonomia Erkidegoko nekazaritzako 
+     diru-sarreren banaketa metatuaren % 40 txikienaren barruan dago.
 
   Ustiategiak baldintza horietakoren bat betetzen ez badu, handitzat joko da.
   
@@ -29,12 +29,12 @@ formula: |
 
   non:
 
-  $SE131^{t}$ = laboreen eta eratorrien, abereen, abeltzaintzako produktuen eta nekazaritzako 
-    ustiategietako (txikiak edo handiak) beste ekoizpen batzuen guztizko ekoizpena $t$ urtean
+  $SE131^{t}$ = laboreen eta horien deribatuen, abereen, abeltzaintzako produktuen eta nekazaritzako 
+  beste ekoizpen batzuen guztizko ekoizpena ustiategi txikietan zein handietan $t$ urtean
 
-  $SE010^{t}$ = nekazaritzako ustiategietako (txikiak edo handiak) eskulana, guztira, $t$ urtean, Urteko 
-    Lan Unitateetan (NLU) adierazita. Bertan, NLU 1 urte batean lanaldi osoan lan egiten duen 
-    pertsona baten baliokidea da
+  $SE010^{t}$ = nekazaritzako ustiategi txiki zein handien eskulana, guztira, $t$ urtean, Urteko 
+    Lan Unitateetan (NLU) adierazita. Bertan, NLU 1 da urte batean lanaldi osoan lan egiten duen 
+    pertsona baten baliokidea
 
 desagregacion: 
   Lurralde historikoa
@@ -56,14 +56,14 @@ justificacion_global: |
   murriztea; izan ere, elikagai-ekoizle txikiak pobreak izaten dira, eta biziraupenetik hurbil 
   egoten dira maiz.
 
-  Iturria: Nazio Batuen Estatistika Dibisioa, Eurostat  
+  Iturria: Nazio Batuen Estatistika Saila, Eurostat  
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-03-01.pdf">Metadatuak 2-3-1.pdf (ingelesez bakarrik)</a>'
 
 dato_global:
 
 comparabilidad: >-
-  Eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du.  
+  EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du.  
 
 informacion_interes: 
 

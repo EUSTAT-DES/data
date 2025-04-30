@@ -8,17 +8,17 @@ meta_global: meta_largo.1-5-titulo
 #  indicador_onu_global: indicador_largo.1-5-1-titulo
 
 definicion: >-
-  Hondamendi naturalei esleitutako heriotzak 100.000 biztanleko
+  Hondamendi naturalei egotzitako heriotzak 100.000 biztanleko
 
 formula: |
 
-  $$TM_{desastres}^{t} = \frac{D_{desastres}^{t}}{P^{t}} \cdot 100$$
+  $$TM_{hondamendiak}^{t} = \frac{D_{hondamendiak}^{t}}{P^{t}} \cdot 100$$
 
   donde:
 
-  $D_{hondamendiak}^{t} =$ hondamendi naturalei esleitutako heriotzak (GNS-10eko X30-X39 kodeak) $t$ urtean
+  $D_{hondamendiak}^{t} =$ hondamendi naturalei egotzitako heriotzak (GNS-10eko X30-X39 kodeak) $t$ urtean
 
-  $P^{t} =$ biztanleria $t$ urtean
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean
 
 desagregacion: |
   Sexua
@@ -54,7 +54,7 @@ justificacion_global: |
   Iturria: Nazio Batuen Estatistika Dibisioa
 
 comparabilidad: >-
-  Eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.
+  EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-01.pdf">Metadatuak 1-5-1.pdf</a> (ingelesez bakarrik)'
 informacion_interes: 

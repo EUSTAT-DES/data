@@ -9,24 +9,24 @@ meta_global: meta_largo.5-5-titulo
 
 
 definicion: >-
-  Legebiltzar autonomikoan emakumeek, gobernu autonomikoko sailetako kontseilariek, Batzar Nagusietako 
-  hautetsiek, foru gobernuetako sailetako diputatuek eta tokiko gobernuetako alkatetzek eta zinegotzigoek 
-  betetzen dituzten eserlekuen proportzioa.
+  Emakumeen proportzioa parlamentu autonomikoko eserlekuetan, gobernu autonomikoko sailburuen artean, 
+  Batzar Nagusietako hautetsien artean, foru gobernuetako sailetako diputatuen artean, eta tokiko gobernuetako 
+  alkateen eta zinegotzien artean. 
 
 formula: |
 
-  $$PINST_{emakumeak}^{t} = \frac{INST_{emakumeak}^{t}}{INST_{emakumeak}^{t}+INST_{gizonak}^{t}} \cdot 100$$
+  $$PINST_{emakumeak}^{t} = \frac{INST_{emakumeak}^{t}}{INST_{emakumeak}^{t}+INST_{gizonak}^{t}} \cdot 100$$ 
 
-  non:
+  non: 
 
-  $INST_{emakumeak}^{t} =$ dagokion erakundean emakumeek betetako lanpostuak $t$ urtean
+  $INST_{emakumeak}^{t} =$ dagokion erakundean emakumeek betetako postuak $t$ urtean 
 
-  $INST_{gizonak}^{t} =$ dagokion erakundean gizonek betetako lanpostuak $t$ urtean
+  $INST_{gizonak}^{t} =$ dagokion erakundean gizonek betetako postuak $t$ urtean 
 
 desagregacion: |
-  Erakundeetako postuak: parlamentu autonomikoko hautetsiak; gobernu autonomikoko sailetako 
-  kontseilariak; Batzar Nagusietako hautetsiak; foru gobernuetako sailetako diputatuak; tokiko 
-  gobernuetako alkatetzak eta zinegotzigoak.
+  Erakundeetako postuak: parlamentu autonomikoko hautetsiak; gobernu autonomikoko sailburuak; 
+  Batzar Nagusietako hautetsiak; foru gobernuetako sailetako diputatuak; tokiko 
+  gobernuetako alkate eta zinegotziak.
 
   Lurralde historikoa
 
@@ -71,13 +71,13 @@ justificacion_global: |
 
 dato_global: |
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.5.1&seriesCode=SG_GEN_PARL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=FEMALE">Proporción de escaños ocupados por mujeres en los parlamentos nacionales (% del número total de escaños) SG_GEN_PARL</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.5.1&seriesCode=SG_GEN_PARL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=FEMALE">Estatuetako parlamentuetan emakumeek okupatutako eserlekuen proportzioa (eserleku guztien %) SG_GEN_PARL</a> UNSTATS
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.5.1&seriesCode=SG_GEN_LOCGELS&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=FEMALE">Proporción de escaños electos ocupados por mujeres en órganos deliberativos de los gobiernos locales (%) SG_GEN_LOCGELS</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.5.1&seriesCode=SG_GEN_LOCGELS&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=FEMALE">Tokiko gobernuetako eztabaida-organoetan emakumeek okupatutako eserleku hautetsien proportzioa (%) SG_GEN_LOCGELS</a> UNSTATS
 
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: |
 

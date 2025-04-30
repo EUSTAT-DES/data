@@ -9,7 +9,7 @@ meta_global: meta_largo.5-4-titulo
 
 
 definicion: >-
-  Etxerako eta familiarako jardueretarako eguneko minutuen batez bestekoa, biztanleko
+  Batez besteko egun batean etxearekin eta familiarekin lotutako jardueretan emandako minutuak, biztanleko
 
 formula: |
 
@@ -17,14 +17,14 @@ formula: |
 
   non:
 
-  $THF^{t} =$ biztanleriak etxeari eta familiari eskainitako minutuak batez besteko egun batean $t$ urtean
+  $THF^{t} =$ biztanleriak batez besteko egun batean etxearekin eta familiarekin lotutako jardueretan emandako minutuak $t$ urtean 
 
-  $PHF^{t} =$ batez besteko egun batean etxean eta familian denbora ematen duen biztanleria $t$ urtean
+  $PHF^{t} =$ batez besteko egun batean etxeari eta familiari denbora ematen dion biztanleria $t$ urtean 
 
 desagregacion: |
   Sexua
 
-  Lorralde historikoa
+  Lurralde historikoa
 
 periodicidad: FUENTE.FREQ_A5
 
@@ -59,9 +59,9 @@ dato_global: >-
 
 
 comparabilidad: >-
-  Eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa ematen du.
+  EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa ematen du.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-04-01.pdf">Metadatuak 5-4-1.pdf</a> (ingelesez bakarrik'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-04-01.pdf">Metadatuak 5-4-1.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 
