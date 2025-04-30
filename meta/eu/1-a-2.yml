@@ -7,17 +7,17 @@ meta_global: meta_largo.1-a-titulo
 #  indicador_onu_global: indicador_largo.1-a-2-titulo
 
 definicion: |
-  Funtsezko zerbitzuetara (hezkuntza, osasuna eta gizarte-babesa) bideratzen den Euskal AEko 
-  herri-administrazioen gastuaren proportzioa (Jaurlaritzaren Funtzioen Sailkapeneko 09, 
-  07 eta 10 funtzio-taldeak, gobernu-jardueren helburuak sailkatzeko nazioartean erabiltzen direnak)  
+  Funtsezko zerbitzuetara (hezkuntza, osasuna eta gizarte-babesa) bideratzen den EAEko 
+  herri-administrazioen gastuaren proportzioa (gobernu-jardueren helburuak sailkatzeko 
+  nazioartean erabiltzen den Gobernuaren Funtzioen Sailkapeneko 09, 07 eta 10 funtzio-taldeak)   
 
 formula: |
 
   $$PE_{t} = \frac{TE_{t} + TH_{t} + TS_{t}}{TG_{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PE_{t}$ = gobernuaren gastua funtsezko zerbitzuetan (hezkuntza, osasuna eta gizarte-babesa), fiskaleko gobernuaren gastu osoaren ehuneko gisa, $t$ urtean
+  $PE_{t}$ = gobernuaren gastua funtsezko zerbitzuetan (hezkuntza, osasuna eta gizarte-babesa), gobernuaren $t$ urte fiskaleko gastu osoaren ehuneko gisa 
 
   $TE_{t}$ = gobernuak hezkuntzan egiten duen guztizko gastua, $t$ urte fiskalean
 
@@ -28,7 +28,7 @@ formula: |
   $TG_{t}$ = gobernuaren guztizko gastua, $t$ urte fiskalean
 
 desagregacion: |
-  Funtsezko zerbitzuak: hezkuntza, osasuna, gizarte-babesa
+  Funtsezko zerbitzuak: hezkuntza; osasuna; gizarte-babesa
 
 observaciones: |
 
@@ -73,7 +73,7 @@ justificacion_global: |
   gobernu; eta tokiko gobernu asko, eta MEFP 2014k gomendatzen du estatistikak biltzea gobernu 
   orokorreko unitate horietarako guztietarako.
 
-  Iturria: Nazio Batuen Estatistika Dibisioa  
+  Iturria: Nazio Batuen Estatistika Saila  
 
 comparabilidad: >-
   Euskal Autonomia Erkidegoan eskuragarri dagoen adierazleak COFOG sailkapena erabiltzen du. 

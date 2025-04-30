@@ -9,8 +9,8 @@ meta_global: meta_largo.1-2-titulo
 
 
 definicion: >-
-  Kontsumo-unitate bakoitzeko diru-sarrerak 
-  Euskal AEko medianaren % 60 (ELGA eskala aldatua)
+  EAEko medianaren % 60tik beherako kontsumo-unitateko diru-sarrerak 
+  dituzten pertsonen proportzioa (ELGA eskala aldatua) 
 
 formula: |
 
@@ -18,7 +18,7 @@ formula: |
 
   non:
 
-  $P_{RPR}^{t} =$ diru-sarreren medianaren % 60tik beherako diru-sarrerak dituzten biztanleak $t$ urtean, kontsumo-unitatearen arabera (ELGA eskala aldatua)
+  $P_{RPR}^{t} =$ diru-sarreren medianaren % 60tik beherako kontsumo-unitateko diru-sarrerak dituzten biztanleak $t$ urtean (ELGA eskala aldatua)
 
   $P^{t} =$ biztanleria $t$ urtean
 
@@ -28,9 +28,9 @@ desagregacion: >-
 periodicidad: FUENTE.FREQ_A2
 
 observaciones: >-
-  Etxe bateko kontsumo-unitateen kopurua aldatutako ELGE eskala erabiliz kalkulatzen da; 
-  eskala horrek 1 14 urte edo gehiagoko lehen pertsona, 0,5eko pisua 14 urte edo gehiagoko 
-  gainerako pertsonentzat edo urte gehiago eta 0,3 urte baino gutxiagoko pertsonen artean.  
+  Etxeko kontsumo-unitateen kopurua kalkulatzeko, ELGA eskala aldatua erabiltzen da. 
+  Eskala horrek 1 pisua esleitzen dio 14 urte edo gehiagoko lehen pertsonari, 0,5 pisua 14 urte edo 
+  gehiagoko gainerako pertsonei eta 0,3 pisua 14 urtetik beherako pertsonei.  
 
 texto_oceca: FUENTE.oceca
 
@@ -60,11 +60,11 @@ justificacion_global: |
     Iturria: Eurostat
 
 dato_global: >-
-  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_01_20/default/table?lang=en&category=sdg.sdg_01">Gizarte-transferentzien ondoren moneta-pobreziaren arriskuan dauden pertsonak - EU-SILC eta ECHP inkestak(sdg_01_20)</a> Eurostat
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_01_20/default/table?lang=en&category=sdg.sdg_01">Gizarte-transferentzien ondoren diru-pobreziaren arriskuan dauden pertsonak - EU-SILC eta ECHP inkestak(sdg_01_20)</a> Eurostat
 
 comparabilidad: >-
-  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu. Euskal Autonomia 
-  Erkidegoko pobrezia-tasa eta sexua kalkulatzeko, autonomia-erkidegoko pobrezia-atalasea aplikatzen da.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu. EAEko pobrezia-tasa 
+  eta sexua kalkulatzeko, autonomia-erkidegoko pobrezia-atalasea aplikatzen da. 
 
 indicador_meta_enlace: |
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadatuak 1-2-1.pdf</a> (ingelesez bakarrik)

@@ -10,9 +10,10 @@ meta_global: meta_largo.1-2-titulo
 
 
 definicion: >-
-  Pobreziako edo gizarte-bazterketako arriskuaren hiru irizpideetako bat gutxienez betetzen 
-  duten pertsonen proportzioa (pobrezia erlatiboko arriskuan egotea, gabezia material eta 
-  sozial larriko egoeran egotea edo lan-intentsitate txikiko etxekoen unitateetan bizitzea)  
+  Pobreziako edo gizarte-bazterketako arriskuaren hiru irizpideetako bat gutxienez 
+  betetzen duten pertsonen proportzioa: pobrezia erlatiboko arriskuan egotea, 
+  gabezia material eta sozial larriko egoeran egotea, edo lan-intentsitate txikiko 
+  etxe batean bizitzea
 
 formula: |
 
@@ -20,57 +21,57 @@ formula: |
 
   non:
 
-  $P_{AROPE}^{t} =$ pobrezia edo gizarte-bazterkeria izateko arriskuan erlatiboan daudenak $t$ urtean
+  $P_{AROPE}^{t} =$ pobreziako edo gizarte-bazterketako arrisku erlatiboan dagoen biztanleria $t$ urtean
 
-  $P^{t} =$ biztanleria $t$ urtean
+  $P^{t} =$ biztanleria osoa $t$ urtean
 
 desagregacion: |
-  Pobreziaren dimentsioak: pobrezia-arriskua, gabezia material eta sozial larria, 
+  Pobreziaren dimentsioak: pobrezia-arriskua; gabezia material eta sozial larria; 
   lan-intentsitate txikia  
 
   Sexua
 
 observaciones: |
-  Adierazleak irizpide hauetako bat gutxienez betetzen duten pertsonen proportzioa neurtzen du:
+  Adierazleak irizpide hauetako bat gutxienez betetzen duten pertsonen proportzioa neurtzen du: 
 
-  <b>Pobrezia erlatiborako arriskuan dauden pertsonak:</b> kontsumo-unitate bakoitzeko diru-sarrerak
-  medianaren % 60tik behera dituzten pertsonak (ELGA eskala aldatua).
+  <b>Pobrezia erlatiboaren arriskuan dauden pertsonak:</b> kontsumo-unitate bakoitzeko diru-sarrerak 
+  medianaren % 60tik behera dituzten pertsonak (ELGA eskala aldatua). 
 
-  Etxekoen unitate baten kontsumo-unitateen kopurua kalkulatzeko, ELGA eskala aldatua erabiltzen da. 
+  Etxeko kontsumo-unitateen kopurua kalkulatzeko, ELGA eskala aldatua erabiltzen da. 
   Eskala horrek 1 pisua esleitzen dio 14 urte edo gehiagoko lehen pertsonari, 0,5 pisua 14 urte edo 
-  gehiagoko gainerako pertsonei eta 0,3 pisua 14 urtetik beherako pertsonei.  
+  gehiagoko gainerako pertsonei eta 0,3 pisua 14 urtetik beherako pertsonei. 
 
-  <b>Gabezia material eta sozial larria duten pertsonak:</b> hamahiru mugako zerrenda honetako 
-  zazpi gutxienez pairatzen dituzten pertsonak (zazpi etxekoen unitateari dagokionez eta sei pertsonari dagokionez):
+  <b>Gabezia material eta sozial larria duten pertsonak:</b> ondoko hamahiru egoeretatik gutxienez 
+  zazpi pairatzen dituzten pertsonak; zazpi egoera etxeari dagokizkonak dira eta sei pertsonari dagozkionak: 
 
-  Etxekoen unitateari dagokionez:
-   1. Ezin da urtean gutxienez astebetez oporretara joan.
-   2. Ezin da haragi-, oilasko- edo arrain-bazkaririk egin bi egunetik behin, gutxienez.
-   3. Ezin da etxebizitza tenperatura egokian mantendu.
+  Etxeari dagozkionak: 
+   1. Ezin du urtean gutxienez astebetez oporretara joan. 
+   2. Ezin du gutxienez bi egunetik behin haragi-, oilasko- edo arrain-otordurik egin.
+   3. Ezin du etxebizitza tenperatura egokian mantendu.
    4. Ez du ustekabeko gastuei aurre egiteko gaitasunik.
    5. Atzerapenak izan ditu etxebizitza nagusiarekin lotutako gastuen ordainketan 
   (hipoteka edo alokairua, gas-ordainagiriak, komunitatea, etab.) edo epeka egindako 
   erosketetan azken 12 hilabeteetan.
-   6. Ezin da automobilik eduki.
+   6. Ezin du kotxerik eduki.
    7. Ezin ditu ordezkatu hondatutako altzariak edo zaharrak.
 
-  Pertsona-mailan:
-   8. Ezin da hondatutako arroparen ordez arropa berria jarri.
-   9. Ezin dira bi zapata pare baldintza onetan eduki.
-   10. Ezin da lagunekin/familiarekin elkartu hilean behin gutxienez jateko edo zerbait hartzeko.
-   11. Ezin da aldizka aisialdiko jardueretan parte hartu.
-   12. Ezin da diru kopuru txiki bat gastatu.
-   13. Ezin da Interneteko konexiorik egin.
+  Pertsonari dagozkionak:
+   8. Ezin du hondatutako arroparen ordez berria erosi.
+   9. Ezin ditu egoera onean dauden bi zapata pare eduki.
+   10. Ezin du zerbait jateko edo edateko lagunekin/familiarekin elkartu hilean behin gutxienez.
+   11. Ezin du aldizka aisialdiko jardueretan parte hartu.
+   12. Ezin du bere buruarentzako gauzetan diru kopuru txiki bat gastatu.
+   13. Ezin du Interneteko konexiorik ordaindu.
 
-  16 urtetik beherakoen kasuan, ez daude aurrez pertsona-mailan zerrendatutako sei kontzeptuak. 
-  Adingabe horien kasuan, elementu horien balioak 16 urte edo gehiago dituzten etxekoen unitateko 
-  kideentzat jasotako balioetatik abiatuta egozten dira.  
+  16 urtetik beherakoen kasuan, pertsonari dagozkion azken sei kontzeptuak ez daude eskuragarri. 
+  Adingabe horien kasuan, elementu horien balioak 16 urte edo gehiago dituzten etxeko kideentzat 
+  jasotako balioetatik abiatuta egozten dira. 
 
-  <b>Intentsitate txikia enpleguan:</b> lan egiteko adinean dauden kideek (18-64 urteko pertsonak, 
-  18 eta 24 urte bitarteko ikasleak, erretiratuak eta 60-64 urte bitarteko pertsona ez-aktiboak izan 
-  ezik, horien etxeko diru-sarreren iturri nagusia pentsioak badira) beren lan-potentzial osoaren % 20 
-  baino gutxiago lan egin zuten erreferentziako urtean. Aldagai hori ez da aplikatzen 65 urte edo 
-  gehiagoko pertsonen kasuan.
+  <b>Lan-intentsitate txikia:</b> etxe horietako lan egiteko adinean dauden kideek beren lan-potentzial osoaren % 20 
+  baino gutxiago lan egin zuten erreferentziako urtean; lan egiteko adinean dauden kidetzat hartzen dira 18 eta 64 
+  urteko arteko pertsonak (salbu eta 18 eta 24 urte bitarteko ikasleak, erretiratuak, eta 60-64 urte bitarteko 
+  pertsona ez-aktiboak, horien etxeko diru-sarreren iturri nagusia pentsioak badira). Aldagai hori ez da aplikatzen 
+  65 urte edo gehiagoko pertsonen kasuan. 
 
 texto_oceca: FUENTE.oceca
 
@@ -108,17 +109,16 @@ justificacion_global: |
   Iturria: Nazio Batuen Estatistika Dibisioa, Eurostat
 
 indicador_meta_enlace: |
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-02.pdf">Metadatuak 1-2-2.pdf (ingelesez bakarrik)</a>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-02.pdf">Metadatuak 1-2-2.pdf</a> (ingelesez bakarrik) 
 
   <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_10_esmsip2.htm">Eurostat Metadatuak (sdg_01_10)</a> (ingelesez bakarrik)
 
 
 dato_global: >-
-  <a href="https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en">
-  Pobreziako edo gizarte-bazterketako arriskuan dauden pertsonak, adinaren eta sexuaren arabera (ilc_peps01n)</a> Eurostat
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en">Pobrezia edo gizarte-bazterketa arriskuan dauden pertsonak, adinaren eta sexuaren arabera (ilc_peps01n)</a> Eurostat
 
 comparabilidad: >-
-  Eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 informacion_interes: 
 

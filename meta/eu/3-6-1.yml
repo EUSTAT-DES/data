@@ -9,24 +9,25 @@ meta_global: meta_largo.3-6-titulo
 
 
 definicion: >-
-  Zirkulazio-istripuei egotziriko heriotzak 100.000 biztanleko
+  Zirkulazio-istripuei egotzitako heriotzak 100.000 biztanleko
 
 formula: |
 
   $$TM_{\text{zirkulazio-istripuak}}^{t} = \frac{D_{\text{zirkulazio-istripuak}}^{t}}{P^{t}} \cdot 100.000$$
 
-  donde: 
+  non: 
 
-  $D_{\text{zirkulazio-istripuak}}^{t} =$ dzirkulazio-istripuei egotziriko heriotzak $t$ urtean (GNS-10en kode-zerrenda luzea, zeina kontsultagai baitago heriotza-kausaren araberako heriotzen estatistikaren metodologian)
+  $D_{\text{zirkulazio-istripuak}}^{t} =$ zirkulazio-istripuei egotzitako heriotzak $t$ urtean (GNS-10en kode-zerrenda luzea, 
+  zeina kontsultagai baitago heriotza-kausaren araberako heriotzen estatistikaren metodologian) 
 
 
-  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean 
 
 
 desagregacion: |
-  Sexua
+  Sexua 
 
-  Lurralde historikoa
+  Lurralde historikoa 
 
 
 periodicidad: FUENTE.FREQ_A
@@ -34,7 +35,7 @@ periodicidad: FUENTE.FREQ_A
 
 observaciones: |
 
-  2016tik aurrera, hauek gehitzen dira: motorrik gabeko ibilgailuen trafiko-istripuak, trafikoaren ondoriozkotzat 
+  2016tik aurrera, hauek gehitu dira: motorrik gabeko ibilgailuen trafiko-istripuak, trafikoaren ondoriozkotzat 
   jotzen ez diren garraio-istripuak eta istripuaren unean ibilgailutik igotzen edo jaisten ari ziren trafiko-istripuen 
   biktimak
 
@@ -47,7 +48,7 @@ justificacion_global: |
   Joan-etorriak eragindako lesioak osasun publikoko arazo garrantzitsuak dira oraindik, batez ere diru-sarrera 
   txikiko eta ertaineko herrialdeetan
 
-  Fuente: Nazio Batuen Estatistika Dibisioa
+  Fuente: Nazio Batuen Estatistika Saila
 
 dato_global: >-
 
@@ -55,7 +56,7 @@ dato_global: >-
 
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-06-01.pdf">Metadatuak 3-6-1.pdf</a> (ingelesez bakarrik)'
 

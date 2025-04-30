@@ -14,9 +14,9 @@ formula: |
 
   $$PPMOV_{16-74}^{t} = \frac{PMOV_{16-74}^{t}}{P_{16-74}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PMOV_{16-74}^{t} =$ 16 eta 74 urte bitarteko biztanleria, azken hiru hilabeteetan $t$ urtean
+  $PMOV_{16-74}^{t} =$ azken hiru hilabeteetan telefono mugikorra erabili duen 16-74 urteko biztanleria $t$ urtean
 
   $P_{16-74}^{t} =$ 16-74 urteko biztanleria $t$ urtean
 
@@ -59,7 +59,7 @@ dato_global: >-
 
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: >-
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-0B-01.pdf">Metadatuak 5-b-1.pdf</a> (ingelesez bakarrik)

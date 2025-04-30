@@ -9,22 +9,23 @@ meta_global: meta_largo.4-1-titulo
 
 
 definicion: >-
-  i)Irakurtzeko eta ii)Matematikako gaitasunaren 2. maila gutxienez lortu duten 15 urteko pertsonen proportzioa
+  Irakurtzeko eta matematikako konpetentzietan gutxienez 2. maila lortu duten 15 
+  urteko pertsonen proportzioa, sexuaren arabera bereizita 
 
 formula: |
 
-  $$PPN2_{gaitasuna}^{t} = \frac{PN2_{gaitasuna}^{t}}{P_{15}^{t}}$$
+  $$PPN2_{konpetentzia}^{t} = \frac{PN2_{konpetentzia}^{t}}{P_{15}^{t}}$$ 
 
-  non:
+  non: 
 
-  $PN2_{gaitasuna}^{t} =$ gai edo konpetentzian 2. mailako gutxieneko konpetentzia-maila lortu edo gainditu 
-  duten 15 urteko pertsonen kopurua $t$ urtean
+  $PN2_{konpetentzia}^{t} =$ konpetentzia bakoitzean 2. mailako gutxieneko maila lortu edo gainditu 
+  duten 15 urteko pertsonen kopurua $t$ urtean 
 
-  $P_{15}^{t} =$ urteko biztanleak $t$ urtean
+  $P_{15}^{t} =$ 15 urteko biztanleak $t$ urtean 
 
 
 desagregacion: | 
-  Gaitasun mota: Irakurmen, matematika
+  Konpetentzia: Irakurketa; matematika 
 
   Sexua 
 
@@ -34,11 +35,12 @@ periodicidad: FUENTE.FREQ_A3
 observaciones: |
 
   Ikasleen nazioarteko ebaluaziorako programak puntuazio-sistema bat erabiltzen du, eta ez dago gehieneko eta 
-  gutxieneko puntuaziorik. Emaitzak eskalatzen dira, batez beste 500 puntuko banaketa normal bati eta 100 puntuko 
-  desbiderapen tipiko bati erantzuteko moduan. Puntuazio horiek interpretatzen laguntzeko, irakurketarako 
-  gaitasun-kategoriak ezartzen dira:
-
-  - 1c maila baino txikiagoa: puntuazioa 189,33 baino txikiagoa.
+  gutxieneko puntuaziorik. Emaitzak eskalatu egiten dira, batez beste 500 puntuko banaketa normal bati eta 100 puntuko 
+  desbiderapen tipiko bati erantzuteko moduan. 
+  
+  Puntuazio horiek interpretatzen laguntzeko, ondoko kategoriak ezartzen dira irakurketa konpetentziarako: 
+  
+  - 1c maila baino txikiagoa: 189,33 puntu baino gutxiago
   - 1c maila: 189,33 eta 262,03 arteko puntuazioa
   - 1b maila: 262,04 eta 334,74 arteko puntuazioa
   - 1. maila: 334,75 eta 407,46 arteko puntuazioa
@@ -48,14 +50,14 @@ observaciones: |
   - 5. maila: 625,61 eta 698,31 arteko puntuazioa
   - 6. maila: 698,31tik gorako puntuazioa  
 
-  Pertsona batek, gutxienez, irakurtzeko gaitasunaren 2. maila lortzen du, baldin eta, hedadura ertaineko testu 
-  baterako, ideia nagusia identifika badezake, bere atalen arteko harremanak uler baditzake, testuaren zati mugatu 
-  baten esanahia oinarrizko inferentzien bidez interpreta badezake, informazio zati bat edo gehiago koka badezake 
+  Pertsona batek, gutxienez, irakurtzeko gaitasunaren 2. maila lortzen du, baldin eta, luzera ertaineko testu 
+  baten ideia nagusia identifika badezake, bere atalen arteko harremanak uler baditzake, testuaren zati mugatu 
+  baten esanahia oinarrizko inferentzien bidez interpreta badezake, informazio zati bat edo gehiago koka baditzake 
   partzialki inplizituak diren hainbat irizpide kontuan hartuta, testuaren helburu orokorrari edo espezifikoari 
-  buruz gogoeta egin badezake, baieztapenak alderatu baditzake eta horiek oinarri dituzten arrazoibideak ebaluatu 
-  baditzake, testuaren eta kanpoko ezagutzaren arteko loturak ezarriz.
+  buruz gogoeta egin badezake, baieztapenak alderatu baditzake, eta baieztapen horien oinarrian dauden arrazoibideak 
+  ebaluatu baditzake, testuaren eta kanpoko ezagutzaren arteko loturak ezarriz.
 
-  Matematikako gaitasun-kategoria hauek ezartzen dira:
+  Matematikako konpetentziarako kategoria hauek ezartzen dira: 
 
   - 1. maila baino txikiagoa: 357,77 puntu baino gutxiago
   - 1. maila: 357,77 eta 420,06 arteko puntuazioa
@@ -65,11 +67,11 @@ observaciones: |
   - 5. maila: 606,99 eta 669,29 arteko puntuazioa
   - 6. maila: 669,29tik gorako puntuazioa
 
-  Pertsona batek matematikako gaitasuneko 2. maila lortzen du, gutxienez, zuzeneko inferentzia baino eskatzen 
+  Pertsona batek matematikako konpetentziako 2. maila lortzen du, gutxienez, zuzeneko inferentzia baino eskatzen 
   ez duten testuinguruetako egoerak interpretatzen eta ezagutzen dakienean, iturri bakar batetik informazio 
-  egokia ateratzen dakienean eta irudikatzeko modu bakarra erabiltzen duenean, algoritmoak, formulak, prozedurak 
-  edo oinarrizko konbentzioak erabiltzen dituenean zenbaki osoekin lotutako problemak ebazteko eta zuzeneko 
-  arrazoibideak eta emaitzen hitzez hitzeko interpretazioak egiteko.
+  egokia ateratzen eta irudikatzeko modu bakarra erabiltzen dakienean, algoritmoak, formulak, prozedurak 
+  edo oinarrizko konbentzioak erabiltzen dituenean zenbaki osoekin lotutako problemak ebazteko, eta zuzeneko 
+  arrazoibideak eta emaitzen hitzez hitzeko interpretazioak egiten baditu.
   
 
 texto_oceca: FUENTE.oceca
@@ -91,7 +93,7 @@ justificacion_global: |
 
 dato_global: |
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.1.1&seriesCode=SE_TOT_PRFL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX%20%7C%20LOWSEC%20%7C%20SKILL_READ"> Beheko bigarren hezkuntzan irakurtzeko gutxieneko gaitasun-maila lortzen duten haur eta gazteen proportzioa (%) SE_TOT_PRFL</a> UNSTATS 
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.1.1&seriesCode=SE_TOT_PRFL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX%20%7C%20LOWSEC%20%7C%20SKILL_READ"> Beheko bigarren hezkuntzan irakurketako gutxieneko gaitasun-maila lortzen duten haur eta gazteen proportzioa (%) SE_TOT_PRFL</a> UNSTATS 
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.1.1&seriesCode=SE_TOT_PRFL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX%20%7C%20LOWSEC%20%7C%20SKILL_MATH"> Beheko bigarren hezkuntzan matematikan gutxieneko gaitasun-maila lortzen duten haur eta gazteen proportzioa (%) SE_TOT_PRFL</a> UNSTATS
 

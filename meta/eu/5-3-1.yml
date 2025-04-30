@@ -9,17 +9,17 @@ meta_global: meta_largo.5-3-titulo
 
 
 definicion: >-
-  16 eta 17 urteko emakumeen ezkontzak gizon batekin, 16 eta 17 urteko 100 emakumeko 
+  16-17 urteko emakumeen ezkontzak gizonekin, 16-17 urteko 100 emakumeko 
 
 formula: |
 
   $$PMAT_{emakumeak\, 16-17}^{t} = \frac{MAT_{emakumeak\, 16-17}^{t}}{P_{emakumeak\, 16-17}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $MAT_{emakumeak\, 16-17}^{t} =$ 16 eta 17 urteko emakumeen eta gizon baten arteko ezkontzak $t$ urtean
+  $MAT_{emakumeak\, 16-17}^{t} =$ 16-17 urteko emakumeen ezkontzak gizonekin $t$ urtean
 
-  $P_{emakumeak\, 16-17}^{t} =$ 16 eta 17 urteko emakumeak $t$ urteko uztailaren 1ean
+  $P_{emakumeak\, 16-17}^{t} =$ 16-17 urteko emakumeak $t$ urteko uztailaren 1ean
 
 desagregacion: >-
   Lurralde historikoa
@@ -54,11 +54,11 @@ justificacion_global: |
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.3.1&seriesCode=SP_DYN_MRBF18&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=20-24%20%7C%20FEMALE">18 urte bete aurretik ezkonduta edo elkartuta zeuden 20-24 urteko emakumeen proportzioa (%) SP_DYN_MRBF18</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.3.1&seriesCode=SP_DYN_MRBF18&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=20-24%20%7C%20FEMALE">18 urte bete aurretik ezkonduta zeuden edo bikotekidea zuten 20-24 urteko emakumeen proportzioa (%) SP_DYN_MRBF18</a> UNSTATS
 
 
 comparabilidad: >-
-  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-03-01.pdf">Metadatuak 5-3-1.pdf</a> (ingelesez bakarrik)'
 

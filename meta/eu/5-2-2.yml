@@ -9,21 +9,21 @@ meta_global: meta_largo.5-2-titulo
 
 
 definicion: >-
-  Familia-eremutik kanpoko egileek egindako emakumeen aurkako sexu-indarkeriaren (biktimizazioak) erregistratutako kasuen kopurua, 10.000 emakumeko
+  Emakumeen aurkako sexu-indarkeria kasu erregistratuen kopurua (biktimizazioak), familia-eremutik kanpoko egileen eskutik, 10.000 emakumeko
 
 
 formula: |
   $$TVIS^{t} = \frac{VS^{t}}{P_{emakumeak}^{t}} \cdot 10000$$
 
-  donde:
+  non:
 
-  $VS^{t} =$ Familia-eremutik kanpoko egileek emakumeen aurka egindako sexu-indarkeriaren erregistratutako kasuen kopurua $t$ urtean
+  $VS^{t} =$ emakumeen aurkako sexu-indarkeria kasu erregistratuen kopurua, familia-eremutik kanpoko egileen eskutik $t$ urtean
 
   $P_{mujeres}^{t} =$ emakumeak $t$ urteko uztailaren 1ean
 
 desagregacion: |
 
-  Lurraklde historikoa/Eskualdea/Udalerria
+  Lurralde historikoa/Eskualdea/Udalerria
 
 periodicidad: FUENTE.FREQ_A
 
@@ -48,7 +48,7 @@ dato_global: >-
 
 
 comparabilidad: >-
-  Eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio 
+  EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio 
   osagarria ematen du.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-02-02.pdf">Metadatuak 5-2-2.pdf</a> (ingelesez bakarrik)'

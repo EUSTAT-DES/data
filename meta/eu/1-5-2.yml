@@ -9,9 +9,9 @@ meta_global: meta_largo.1-5-titulo
 
 
 definicion: >-
-  Kalte pertsonalengatiko, diruzko galerengatiko eta ordaindutako eta/edo hornitutako 
-  ondasunen kalteengatiko (likidatzeko edo ordaintzeko daudenak) kalte-ordainen proportzioa, 
-  BPGrekiko, prezio arruntetan  
+  Kalte pertsonalengatiko, diru galerengatiko eta ondasunen kalteengatiko kalte-ordainen proportzioa 
+  BPGrekiko, prezio arruntetan. Kontuan hartzen dira bai ordaindutako kalte-ordainak, baita hornitutakoak 
+  ere (likidatzeko edo ordaintzeko daudenak). 
 
 formula: |
   $$INDEMPIB^{t} = \frac{(IDP^{t}+IPP^{t}+IDB^{t})/IUIPC_{refT}^{t}}{PIB^{t}} \cdot 100 \quad \mathrm t=1,\dots,\mathrm T$$
@@ -22,17 +22,17 @@ formula: |
 
   non:
 
-  $IDP^{t}$ kalte pertsonalengatik ordaindutako edota hornitutako kalte-ordainak, $T$ urteko prezioetan, $t$ urtean
+  $IDP^{t}$ = kalte pertsonalengatik ordaindutako edota hornitutako kalte-ordainak, $T$ urteko prezioetan, $t$ urtean
 
-  $IPP^{t}$ diru galerengatik ordaindutako edota hornitutako kalte-ordainak,  $T$ urteko prezioetan, $t$ urtean
+  $IPP^{t}$ = diru galerengatik ordaindutako edota hornitutako kalte-ordainak, $T$ urteko prezioetan, $t$ urtean
 
-  $IDB^{t}$ ondasunetan izandako kalteengatik ordaindutako edota hornitutako kalte-ordainak, $T$ urteko prezioetan, $t$ urtean
+  $IDB^{t}$ = ondasunetan izandako kalteengatik ordaindutako edota hornitutako kalte-ordainak, $T$ urteko prezioetan, $t$ urtean
 
-  $TIPC_{abe}^{t}$ KPI nazionalaren urteko aldakuntza-tasa , $t$ urteko abenduan
+  $TIPC_{abe}^{t}$ = KPI nazionalaren urteko aldakuntza-tasa $t$ urteko abenduan
 
-  $PIB^{t}$ barne-produktu gordina, termino arruntetan $t$ urtean
+  $PIB^{t}$ = barne-produktu gordina, uneko prezioetan $t$ urtean
 
-desagregacion: Lurraklde historikoa
+desagregacion: Lurralde historikoa
 
 
 observaciones: >-
@@ -60,7 +60,7 @@ justificacion_global: |
 
 
 comparabilidad: >-
-  Eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina 
+  EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina 
   antzeko informazioa ematen du  
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-02.pdf">Metadatuak 1-5-2.pdf</a> (ingelesez bakarrik)'

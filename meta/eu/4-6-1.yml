@@ -9,7 +9,7 @@ meta_global: meta_largo.4-6-titulo
 
 
 definicion: >-
-  Irakurketa ulermenaren eskalan eta matematiketetan gutxienez 2. maila lortu duten 16-65 urteko pertsonen proportzioa  
+  Irakurketa ulermenaren eskalan eta matematikan gutxienez 2. mailako gaitasuna lortu duten 16-65 urteko pertsonen proportzioa  
 
 
 formula: |
@@ -18,13 +18,13 @@ formula: |
 
   non:
 
-  $PN2_{16-65\,c}^{t} =$ $c$ gaitasun-motaren eskalan gutxienez 2. mailako gaitasuna lortu duten 16-65 urteko biztanleak $t$ urtean
+  $PN2_{16-65\,c}^{t} =$ $c$ konpetentziaren eskalan gutxienez 2. mailako gaitasuna lortu duten 16-65 urteko biztanleak $t$ urtean
 
   $P_{16-65}^{t} =$ 16-65 urteko biztanleria $t$ urtean
 
 
 desagregacion: | 
-  Gaitasun mota: irakurmena, matematika
+  Konpetentzia: irakurketa; matematika
 
   Sexua
 
@@ -33,22 +33,22 @@ periodicidad: FUENTE.FREQ_A10
 
 observaciones: |
 
-  Helduen gaitasunak nazioartean ebaluatzeko programak 500 puntuko eskala erabiltzen du irakurmena eta matematikako 
-  gaitasuna ebaluatzeko. Puntuazio horiek interpretatzen laguntzeko, eskala sei gaitasun-kategoriatan banatzen da:
+  Helduen gaitasunak nazioartean ebaluatzeko programak 500 puntuko eskala erabiltzen du irakurmen eta matematika 
+  gaitasunak ebaluatzeko. Puntuazio horiek interpretatzen laguntzeko, eskala sei kategoriatan banatzen da:
 
-   - 1. maila baino txikiagoa: 176 baino puntuazio txikiagoa
+   - 1. maila baino txikiagoa: 176 puntu baino gutxiago 
    - 1. maila: 176 eta 225 arteko puntuazioa
    - 2. maila: 226 eta 275 arteko puntuazioa
    - 3. maila: 276 eta 325 arteko puntuazioa
    - 4. maila: 326 eta 375 arteko puntuazioa
-   - 5. maila: 376tik 500era bitarteko puntuazioa
+   - 5. maila: 376 eta 500 arteko puntuazioa
 
   Pertsona batek, gutxienez, 2. mailako gaitasuna lortzen du irakurmen-eskalan, normalean gai denean ezagutzen 
   ez dituen gaiei buruzko testuak ulertzeko, nahiz eta zailtasunak izan hainbat testu alderatu eta kontrastatzeko 
   edo ezagutzen ez duen gai jakin bati buruzko testu digitalak bilatzeko.
 
-  Pertsona batek, gutxienez, 2. gaitasun-maila lortzen du matematika-eskalan, normalean bitarteko kalkuluak behar 
-  dituzten galderei erantzuteko gai denean, taula bateko informazio matematikoa ulertzen duenean eta grafiko 
+  Pertsona batek, gutxienez, 2. mailako gaitasuna lortzen du matematika eskalan, normalean gai denean bitarteko kalkuluak behar 
+  dituzten galderei erantzuteko, taula bateko informazio matematikoa ulertzen duenean eta grafiko 
   sinpleak interpretatzeko zailtasunik ez duenean, nahiz eta zailtasunak izan proportzioak maneiatzeko edo grafiko 
   konplexuak interpretatzeko.
 
@@ -79,7 +79,7 @@ dato_global: >-
 
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-06-01.pdf">Metadatuak 4-6-1.pdf </a>(ingelesez bakarrik)'
 

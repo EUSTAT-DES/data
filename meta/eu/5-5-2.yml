@@ -9,7 +9,7 @@ meta_global: meta_largo.5-5-titulo
 
 
 definicion: >-
-  Zuzendaritza-karguetan, goi-zuzendaritzan eta emakumezko enpresaburuetan diharduten emakumeen proportzioa, 
+  Zuzendaritza-karguetan diharduten, goi-zuzendaritzan diharduten, eta enpresaburu diren emakumeen proportzioak, 
   kargu edo jarduera ekonomiko horietan diharduten pertsona guztiekiko  
 
 
@@ -17,14 +17,14 @@ formula: |
 
   $$PDIR_{emakumeak}^{t} = \frac{DIR_{emakumeak}^{t}}{DIR_{emakumeak}^{t}+DIR_{gizonak}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $DIR_{emakumeak}^{t} =$ emakumeak dagokien jardueran $t$ urtean
+  $DIR_{emakumeak}^{t} =$ emakumeak dagokion jardueran $t$ urtean
 
-  $DIR_{gizonak}^{t} =$ gizonak dagokien jardueran $t$ urtean
+  $DIR_{gizonak}^{t} =$ gizonak dagokion jardueran $t$ urtean
 
 desagregacion: |
-  Okupazioa: goi-zuzendaritza; zuzendaritza-kargua; enpresaburua.
+  Jarduera: goi-zuzendaritza; zuzendaritza-kargua; enpresaburua.
 
   Lurralde historiakoa
 
@@ -77,7 +77,7 @@ dato_global: >-
 
 
 comparabilidad: >-
-  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu
 
 indicador_meta_enlace: >-
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-02.pdf">Metadatuak 5-5-2.pdf</a> (ingelesez bakarrik)

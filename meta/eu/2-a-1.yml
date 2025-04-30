@@ -10,8 +10,8 @@ definicion: |
   Nekazaritza, abeltzaintza eta arrantza sektorearen balio erantsi gordina (BEG) sektore guztien BEGarekiko, 
   uneko prezioetan.
 
-  Nekazaritzako balio agregatua eta BPG Europako Kontu Sisteman (KSE-2010) oinarritzen dira. Nekazaritza 
-  nekazaritza, basogintza, arrantza eta ehizaren sektoreari dagokio (EJSNren A atala 2009 edo CIIU Ber4)
+  Nekazaritzako balio erantsia eta BPGa Europako Kontu Sisteman (KSE-2010) oinarritzen dira. Nekazaritza terminoa 
+  nekazaritza, basogintza, arrantza eta ehizaren sektoreari dagokio (EJSN 2009ren edo CIIU Ver4ren A atala)
 
 formula: |
 
@@ -19,16 +19,16 @@ formula: |
 
   non:
 
-  $VAB_{nekazaritza}^{t} =$ nekazaritza, abeltzaintza eta arrantza sektorearen balio erantsi gordina, prezio arruntetan $t$ urtean
+  $VAB_{nekazaritza}^{t} =$ nekazaritza, abeltzaintza eta arrantza sektorearen balio erantsi gordina, uneko prezioetan $t$ urtean
 
-  $PIB^{t} =$  barne-produktu gordina, prezio arruntetan $t$ urtean
+  $PIB^{t} =$  barne-produktu gordina, uneko prezioetan $t$ urtean
 
 
 desagregacion: |
   Lurralde historikoa/Eskualdea/Udalerria
 
 observaciones: 
-  Udal BPGan zabaldutako datuak Kontuen Europako Sisteman (KSE-2010) ezarritako metodologian oinarrituta egindako 
+  Udal BPGan argitaratutako datuak Kontuen Europako Sisteman (KSE-2010) ezarritako metodologian oinarrituta egindako 
   zenbatespenen bidez egiten dira.
 
 periodicidad: FUENTE.FREQ_A
@@ -61,6 +61,7 @@ justificacion_global: |
   laborari txikiei laguntzeko zailtasunetan, izurriteen, lehorteen, uholdeen, azpiegitura-failen edo prezio-aldaketa 
   larrien ondorioz uzta eta ganadua galdu ondoren.  
 
+  Iturria: Nazio Batuen Estatistika Saila
 
 dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.a.1&seriesCode=AG_PRD_AGVAS&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Nekazaritzaren balio erantsia BPGren ehuneko gisa (%) AG_PRD_AGVAS</a> UNSTATS

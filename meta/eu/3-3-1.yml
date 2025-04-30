@@ -9,7 +9,7 @@ meta_global: meta_largo.3-3-titulo
 
 
 definicion: >-
-  Zaintza Epidemiologikoko Sare Nazionalari (RENAVE) jakinarazitako GIBaren diagnostiko berriak 1.000 
+  GIB diagnostiko berriei buruzko informazio-sistemari (SINIVIH) jakinarazitako GIBaren diagnostiko berriak 1.000 
   biztanleko
 
 formula: |
@@ -18,10 +18,10 @@ formula: |
 
   non:
 
-  $ND_{VIH}^{t} =$ GIBaren diagnostiko berriei buruzko informazio-sistemari (SINIVIH) jakinarazitako GIBaren diagnostiko berriak $t$ urtean
+  $ND_{VIH}^{t} =$ GIB diagnostiko berriei buruzko informazio-sistemari (SINIVIH) jakinarazitako GIBaren diagnostiko berriak $t$ urtean
 
 
-  $P^{t} =$ biztanleria uztailaren 1ean $t$ urtean
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean 
 
 desagregacion: >- 
   Sexua
@@ -47,14 +47,14 @@ justificacion_global: |
   izan duela prebentzio-programetan eta, neurri bateraino, tratamendu-programa arrakastatsuetan, GIBaren eragina 
   murriztera ere eramango baitute. 
 
-  Iturria: Nazio Batuen Estatistika Dibisioa  
+  Iturria: Nazio Batuen Estatistika Saila  
 
 
 dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.3.1&seriesCode=SH_HIV_INCD&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=%3C15Y%20%7C%20BOTHSEX">GIBaren infekzio berrien kopurua GIBik ez duten 1.000 biztanleko, sexuaren eta adinaren arabera banatuta (infektatu gabeko 1.000 biztanleko) SH_HIV_INCD</a> UNSTATS
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak ez ditu zorrotz betetzen Nazio Batuen metadatuak, ez baitu kuantifikatzen 
+  EAEn eskuragarri dagoen adierazleak ez ditu zorrotz betetzen Nazio Batuen metadatuak, ez baitu kuantifikatzen 
   infektatu gabeko biztanleriaren gaineko tasa, populazio osoarena baizik.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-01.pdf">Metadatuak 3-3-1.pdf</a> (ingelesez bakarrik)'

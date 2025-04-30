@@ -9,14 +9,14 @@ meta_global: meta_largo.4-3-titulo
 
 
 definicion: >-
-  Azken 12 hilabeteetan hezkuntza-jarduerak (formalak edo ez-formalak) egin dituzten proportzioa, pertsonen 
-  guztizkoarekin alderatuta, adin taldearen arabera
+  Azken 4 asteetan edo 12 hilabeteetan hezkuntza-jarduerak (arautuak edo arautu gabeak) egin dituztenen proportzioa, 
+  sexuaren eta adin taldearen arabera
 
 formula: |
 
   $$PPE_{adin\, taldea}^{t} = \frac{PE_{adin\, taldea}^{t}}{P_{adin\, taldea}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
   $PE_{adin\, taldea}^{t} =$  ikasketak edo prestakuntza (arautua edo arautu gabea) egin duen adin-talde bateko biztanleria $t$ urtean
 
@@ -24,7 +24,7 @@ formula: |
 
 
 desagregacion: | 
-  Adina: 15-24, 15-64, 25-64, 18-64
+  Adina: 15-24; 15-64; 25-64; 18-64 
 
   Sexua
 
@@ -34,7 +34,7 @@ periodicidad: FUENTE.FREQ_A
 
 
 observaciones: | 
-  Biztanleria Jardueraren Arabera Sailkatzeko Inkestatik datozen datuak urteko datuak dira, adin-taldearen arabera, 
+  Biztanleria Jardueraren Arabera Sailkatzeko Inkestatik datozen datuak urtekoak dira, adin-taldearen arabera, 
   eta azken 4 asteetan egindako jarduerei buruz galdetzen da.
 
   Biztanleria helduak ikaskuntza-jardueretan duen parte-hartzeari buruzko inkestatik datozen datuak 18-64 
@@ -60,7 +60,7 @@ dato_global: >-
 
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du.
+  EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-03-01.pdf">Metadatuak 4-3-1.pdf </a>(ingelesez bakarrik)'
 

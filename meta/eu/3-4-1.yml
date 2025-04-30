@@ -12,25 +12,25 @@ definicion: |
 
   Adierazle honek bi denborazko serie ditu: 
 
-   - Transmititu ezin diren gaixotasunei egotzitako heriotza goiztiarren tasa (30-70 urte): gaixotasun kardiobaskularren, 
+   <b> - Transmititu ezin diren gaixotasunei egotzitako heriotza goiztiarren (30-70 urtekoen) tasa:</b>  gaixotasun kardiobaskularren, 
   minbiziaren, diabetesaren edo arnas gaixotasun kronikoen ondorioz 30 eta 70 urte bitartean hiltzeko probabilitatea. 
 
-   - Gaixotasun kardiobaskularrei, minbiziari, diabetesari edo arnas gaixotasun kronikoei egotzitako heriotza-tasa 100.000 
-  biztanleko: gaixotasun kardiobaskularrei, minbiziari, diabetesari edo arnas gaixotasun kronikoei esleitutako 
+   <b> - Gaixotasun kardiobaskularrei, minbiziari, diabetesari edo arnas gaixotasun kronikoei egotzitako heriotza-tasa 100.000 
+  biztanleko:</b> gaixotasun kardiobaskularrei, minbiziari, diabetesari edo arnas gaixotasun kronikoei egotzitako 
   heriotzak 100.000 biztanleko 
 
 formula: |
 
-  <b>Tasa de mortalidad prematura atribuida a las enfermedades no transmisibles</b>
+  <b>Transmititu ezin diren gaixotasunei egotzitako heriotza goiztiarren tasa</b>
 
   $$^{5}M_x = \frac{DENT_{x,x+5}^{t}}{PENT_{x,x+5}^{t}}$$
 
   non:
 
   $DENT_{x,x+5}^{t} =$ $x$ adin zehatzaren eta $x+5$ adin zehatzaren artean transmititu ezin diren 4 gaixotasunei 
-  esleitutako heriotzak $t$ urtean
+  egotzitako heriotzak $t$ urtean
 
-  $P^{t} =$ $x$adin zehatzaren eta $x+5$ adin zehatzaren arteko biztanleria $t$ urtean
+  $P^{t} =$ $x$ adin zehatzaren eta $x+5$ adin zehatzaren arteko biztanleria $t$ urtean
 
 
   <b>Gaixotasun kardiobaskularrei, minbiziari, diabetesari edo arnas gaixotasun kronikoei egotzitako heriotza-tasa 
@@ -49,7 +49,7 @@ formula: |
 
 desagregacion: | 
 
-  Gaixotasun ez-transmitigarria (GET): gaixotasun kardiobaskularrak, minbizia, diabetesa edo arnas gaixotasun 
+  Gaixotasun ez-transmitigarria (GET): gaixotasun kardiobaskularrak; minbizia; diabetesa; arnas gaixotasun 
   kronikoak
 
   Sexua
@@ -59,7 +59,7 @@ periodicidad: FUENTE.FREQ_A
 
 observaciones: |
 
-  Gaixotasunen Nazioarteko Sailkapenaren kode hauek erabiltzen dira transmititu ezin den gaixotasun bakoitzerako:
+  Gaixotasunen Nazioarteko Sailkapenaren kode hauek erabiltzen dira transmititu ezin den gaixotasun bakoitzerako: 
   - gaixotasun kardiobaskularrak (GNS-10eko I00-I99 kodeak)
   - minbizia (GNS-10eko C00-C97 kodeak)
   - diabetesa (GNS-10eko E10-E14 kodeak)
@@ -86,13 +86,13 @@ justificacion_global: |
   heriotza-tasak edozein adinetan izango lituzkeela eta ez litzatekeela beste heriotza-kausa batengatik hilko (adibidez, 
   lesioak edo GIB/HIESa).
 
-  Iturria: Nazio Batuen Estatistika Dibisioa  
+  Iturria: Nazio Batuen Estatistika Saila  
 
 dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.4.1&seriesCode=SH_DTH_NCOM&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=30-70%20%7C%20BOTHSEX">Gaixotasun kardiobaskularrei, minbiziari, diabetesari edo arnas gaixotasun kronikoei egotzitako heriotza-tasa (probabilitatea) SH_DTH_NCOM</a> UNSTATS
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-04-01.pdf">Metadatuak 3-4-1.pdf</a> (ingelesez bakarrik)'
 

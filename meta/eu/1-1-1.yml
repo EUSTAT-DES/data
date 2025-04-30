@@ -10,9 +10,10 @@ meta_global: meta_largo.1-1-titulo
 
 
 definicion: >- 
-  Transferentzia sozialen ondoren diru-sarrera garbi baliokidea duten pertsonen proportzioa.
-  nazioarteko pobrezia-atalasea baino txikiagoa da, AEBetako 2,15 dolarretan ezarrita baitago.
-  2017ko erosteko ahalmenaren parekotasunean.
+  Transferentzia sozialen ondoren, diru-sarrera garbi baliokidea pobreziaren 
+  nazioarteko atalasea baino txikiagoa duten pertsonen proportzioa. Muga hori 
+  AEBetako 2,15 dolarretan dago ezarrita, 2017ko erosteko ahalmenaren parekotasunean.  
+
 
 formula: |
 
@@ -20,7 +21,8 @@ formula: |
 
   non:
 
-  $P_{UIP}^{t} =$ pobreziaren nazioarteko atalasea baino diru-sarrera garbi baliokide txikiagoa duten biztanleak, $t$ urtean
+  $P_{UIP}^{t} =$ pobreziaren nazioarteko atalasea baino diru-sarrera garbi baliokide 
+  txikiagoa duten biztanleak, $t$ urtean
 
   $P^{t} =$ biztanleria $t$ urtean
 
@@ -30,15 +32,13 @@ periodicidad: FUENTE.FREQ_A2
 
 observaciones: >- 
 
-  Etxekoen unitatearen tamainan eta osaeran dauden desberdintasunen eragina kontuan 
-  hartzeko, etxekoen unitate baten diru-sarrera erabilgarria honela banatzen da: heldu 
-  bihurtutako etxekoen unitateko kideen kopurua baliokideak (kontsumo-unitateak). 
+  Etxearen tamainan eta osaeran dauden desberdintasunen eragina kontuan hartzeko, 
+  etxeko diru-sarrera erabilgarria zatitu egiten da heldu baliokide bihurtutako etxeko kideen artean
+  (kontsumo-unitateak). 
 
-  Etxe bateko kontsumo-unitateen kopurua aldatutako ELGE eskala erabiliz kalkulatzen da; 
-  eskala horrek 1 14 urte edo gehiagoko lehen pertsona, 0,5eko pisua 14 urte edo gehiagoko 
-  gainerako pertsonentzat edo urte gehiago eta 0,3 urte baino gutxiagoko pertsonen artean.
-
-
+  Etxeko kontsumo-unitateen kopurua kalkulatzeko, ELGA eskala aldatua erabiltzen da. 
+  Eskala horrek 1 pisua esleitzen dio 14 urte edo gehiagoko lehen pertsonari, 0,5 pisua 14 urte edo 
+  gehiagoko gainerako pertsonei eta 0,3 pisua 14 urtetik beherako pertsonei.
 
  # Metadatos mundiales (Descripción del indicador)  
 
@@ -79,8 +79,8 @@ indicador_meta_enlace: |
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01b.pdf">Metadatuak 1-1-1 (2).pdf</a> (ingelesez bakarrik)
 
 comparabilidad: |
-  Eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina 
-  antzeko informazioa ematen du.
+  EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina 
+  antzeko informazioa ematen du. 
 
 dato_global: >- 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.1.1&seriesCode=SI_POV_DAY1&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAGE%20%7C%20ALLAREA%20%7C%20BOTHSEX">Nazioarteko pobrezia-atalasearen azpitik dagoen biztanleriaren proportzioa (%) SI_POV_DAY1</a> UNSTATS
