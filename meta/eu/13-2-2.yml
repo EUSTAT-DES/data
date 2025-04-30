@@ -1,0 +1,97 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.13-2-2-titulo
+
+objetivo_global: objetivo_largo.13-titulo
+meta_global: meta_largo.13-2-titulo
+#  indicador_onu_global: indicador_largo.13-2-2-titulo
+
+definicion: >-
+  Emisiones totales de gases de efecto invernadero (GEI), emisiones totales de GEI por unidad de PIB real, 
+  per cápita, y tasas de variación respecto a las emisiones en los años 1990 y 2005
+
+formula:  |
+
+  <b>Berotegi-efektua eragiten duten gasen guztizko isurketak, BPG-unitateko</b>
+
+  $$PPIBGEI^{t} = \frac{GEI^{t}}{PIB_{2022}^{t}} $$
+
+  <b>Berotegi-efektua eragiten duten gasen guztizko isurketak per capita</b>
+
+  $$GEIPC^{t} = \frac{GEI^{t}}{P^{t}} $$
+
+  <b>Berotegi-efektua eragiten duten gasen isurketak, 1990. urtearekiko</b>
+
+  $$TVGEI_{1990}^{t} = \frac{GEI^{t}-GEI^{1990}}{GEI^{1990}} \cdot 100$$ 
+
+  <b>Berotegi-efektua eragiten duten gasen isurketak, 2005. urtearekiko</b>
+
+  $$TVGEI_{2005}^{t} = \frac{GEI^{t}-GEI^{2005}}{GEI^{2005}} \cdot 100$$ 
+
+
+  non:
+
+  $GEI^{t} =$ berotegi-efektua eragiten duten gasen isurketak $t$ urtean
+
+  $PIB_{2022}^{t} =$ barne-produktu gordina, kateatutako bolumenean, 2022 erreferentziarekin $t$ urtean
+
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean
+
+  $GEI^{1990} =$ berotegi-efektua eragiten duten gasen isurketak 1990ean
+
+  $GEI^{2005} =$ berotegi-efektua eragiten duten gasen isurketak 2005ean
+
+desagregacion:
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  El objetivo último de la Convención Marco sobre el Cambio Climático (CMNUCC) es lograr 
+  la estabilización de las concentraciones de gases de efecto invernadero en la atmósfera a 
+  un nivel que impida interferencias antropogénicas peligrosas en el sistema climático. 
+  La estimación de los niveles de emisiones y absorciones de gases de efecto invernadero (GEI) 
+  es un elemento importante de los esfuerzos para lograr este objetivo.
+
+  El Acuerdo de París adoptado en 2015 marca el último paso en la evolución del régimen de 
+  cambio climático de la ONU y se basa en el trabajo realizado en el marco de la Convención. 
+  Su objetivo principal es fortalecer la respuesta mundial a la amenaza del cambio 
+  climático manteniendo el aumento de la temperatura global en este siglo muy por debajo de los 
+  2 grados Celsius con respecto a los niveles preindustriales y proseguir los esfuerzos para 
+  limitar el aumento de la temperatura aún más a 1,5 grados Celsius. El Acuerdo también tiene 
+  como objetivo fortalecer la capacidad de los países para hacer frente a los impactos del 
+  cambio climático.
+
+  El indicador forma parte del conjunto de indicadores de los Objetivos de Desarrollo 
+  Sostenible (ODS) de la UE. La normativa europea del clima establece un marco para la acción 
+  climática y aumenta la ambición de la UE para 2030, con un nuevo objetivo de reducir 
+  las emisiones netas de gases de efecto invernadero (GEI) en al menos un 55 % para 
+  ese año (en comparación con 1990) y lograr la neutralidad climática para 2050.
+
+  El año 1990 se utiliza como referencia en la mayoría de los acuerdos climáticos 
+  internacionales (Kioto, Naciones Unidas). El año 2005 es el año base utilizado por la 
+  Directiva del reparto del esfuerzo de mitigación de los gases de efecto 
+  invernadero (ETS, sistema de comercio de emisiones de la UE), 
+  debido a que existe mayor disponibilidad de datos detallados sectoriales a partir
+  de esa fecha.
+
+  Fuente: División de Estadísticas de las Naciones Unidas, Eurostat
+
+dato_global: >- 
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_13_10/default/table?lang=en&category=sdg.sdg_13"> Berotegi-efektua eragiten duten gasen isurketa garbiak (sdg_13_10)</a> Eurostat
+
+comparabilidad: >-
+  "Berotegi-efektua eragiten duten gasen urteko guztizko isurketak" serieak Nazio Batuen metadatuak betetzen ditu. 
+  Horrez gain, Europako helburuekin zerikusia duten beste serie batzuk aurkezten dira. 
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-13-02-02.pdf">Metadatuak 13-2-2.pdf</a> (ingelesez bakarrik)'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

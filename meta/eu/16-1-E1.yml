@@ -1,0 +1,71 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.16-1-E1-titulo
+
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-1-titulo
+
+
+definicion: >-
+  Proporción de personas que declaran que viven en una zona con problemas de delincuencia o vandalismo
+
+formula: |
+
+  $$PPDVZ^{t} = \frac{PDVZ^{t}}{P^{t}} \cdot 100$$
+
+  non:
+
+  $PDVZ^{t} =$ delinkuentzia- edo bandalismo-arazoak dituen eremu batean bizi dela adierazten duen biztanleria $t$ urtean 
+
+  $P^{t} =$ guztizko biztanleria $t$ urtean 
+
+desagregacion: |
+
+  Lurralde historikoa
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  El indicador muestra la proporción de la población que declaró que 
+  enfrenta problemas de delincuencia, violencia o vandalismo en su área local. 
+  Esto describe la situación en la que la persona encuestada siente que la delincuencia, la violencia o el 
+  vandalismo en la zona son un problema para el hogar, aunque esta percepción no se basa 
+  necesariamente en la experiencia personal.
+
+  El 24 de julio de 2020, la Comisión Europea presentó una nueva Estrategia de la Unión de la Seguridad de la 
+  UE para el período 2020-2025, que sustituye a la anterior estrategia de seguridad establecida en la Agenda 
+  Europea de Seguridad (2015-2020). Como componente central de la estrategia, la Comisión define un nuevo camino a 
+  seguir en materia de seguridad interior con acciones en áreas clave: delincuencia organizada; terrorismo y prevención 
+  de la radicalización violenta; resiliencia de nuestras infraestructuras críticas y espacios públicos; ciberdelincuencia, 
+  incluida la lucha contra el abuso sexual infantil; cooperación policial e intercambio de información; e investigación e innovación.
+
+  La seguridad es un aspecto crucial en la vida de las personas. La inseguridad de cualquier tipo es una fuente 
+  de miedo y preocupación, que afectan negativamente a la calidad de vida. La inseguridad física incluye 
+  todos los factores externos que podrían poner en peligro la integridad física del individuo. 
+  Las acciones delictivas son uno de los abusos más evidentes de la inseguridad. Los análisis de la inseguridad 
+  física suelen combinar aspectos tanto subjetivos como objetivos: la percepción subjetiva de la inseguridad y la 
+  falta objetiva de seguridad medida a partir de las estadísticas de delincuencia. Por tanto, este indicador 
+  complementa al indicador sobre tasas de homicidios al centrarse en la percepción de inseguridad.
+
+  Fuente: Eurostat
+
+dato_global: 
+
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_16_20/default/table?lang=en&category=sdg.sdg_16">Bere eremuan delituak, indarkeria edo bandalismoa gertatu direla jakinarazten duten biztanleak, pobrezia-egoeraren arabera (sdg_16_20)</a> Eurostat
+
+
+comparabilidad: >-
+  EAEn erabilgarri dagoen adierazleak EBko adierazlearen metadatuak betetzen ditu.
+
+indicador_meta_enlace: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_16_20_esmsip2.htm">Metadatuak sdg_16_20</a> (ingelesez bakarrik)'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

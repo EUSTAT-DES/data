@@ -1,0 +1,35 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+objetivo_global: objetivo_largo.6-titulo
+meta_global: meta_largo.6-1-titulo
+#  indicador_onu_global: indicador_largo.6-1-1-titulo
+
+definicion:  |
+  Kontsumorako Uraren Informazio Sistema Nazionalari (SINAC) jakinarazitako hornidura-eremuetako pertsonen proportzioa 
+
+formula:  |
+
+  $$PPC^{t} = \frac{PC^{t}}{P^{t}} \cdot 100$$
+
+  non:
+
+  $PC^{t} =$ kontsumorako Uraren Informazio Sistema Nazionalari (SINAC) jakinarazitako hornidura-eremuetako pertsonak $t$ urtean
+
+  $P{t} =$ biztanleria $t$ urteko urtarrilaren 1ean
+
+desagregacion: >- 
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones: >-
+
+  100eko balioak edo kopuru horretatik hurbil daudenak zuhurtziaz hartu behar dira; izan ere, hornidura-eremuen 
+  bat-egiteen eraginez eremu horietako biztanleria bi aldiz kontabilizatu izanaren ondorio izan daiteke. 
+
+texto_oceca: FUENTE.oceca
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

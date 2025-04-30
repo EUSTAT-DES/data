@@ -1,0 +1,77 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.17-8-1-titulo
+
+objetivo_global: objetivo_largo.17-titulo
+meta_global: meta_largo.17-8-titulo
+#  indicador_onu_global: indicador_largo.17-8-1-titulo
+
+definicion: >-
+  Proporción de personas entre 16 y 74 años que han utilizado Internet en los últimos tres meses
+
+formula: |
+
+  $$PPINT_{16-74}^{t} = \frac{PINT_{16-74}^{t}}{P_{16-74}^{t}} \cdot 100$$
+
+  non:
+ 
+  $PINT_{16-74}^{t} =$ azken hiru hilabeteetan Internet erabili duten 16-74 urteko biztanleak $t$ urtean
+
+  $P^{t} =$ 16-74 urteko biztanleak $t$ urtean
+
+desagregacion: |
+  Sexua
+
+  Lurralde historikoa
+
+observaciones: 
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Internet se ha convertido en una herramienta cada vez más importante para acceder a 
+  la información pública, lo que constituye un medio pertinente para proteger las 
+  libertades fundamentales. 
+
+  El número de usuarios de Internet ha aumentado sustancialmente en el último decenio y 
+  el acceso a Internet ha cambiado la forma en que las personas viven, se comunican, 
+  trabajan y hacen negocios. La adopción de Internet es un indicador clave que siguen 
+  los responsables políticos y otros para medir el desarrollo de la sociedad de la 
+  información y el crecimiento del contenido de Internet, incluido el contenido generado 
+  por los usuarios, proporciona acceso a cantidades cada vez mayores de información y 
+  servicios.
+
+  A pesar del crecimiento de las redes, los servicios y las aplicaciones, el acceso 
+  y el uso de las tecnologías de la información y la comunicación (TIC) todavía 
+  distan de estar distribuidos de manera equitativa, y muchas personas aún no pueden 
+  beneficiarse del potencial de Internet. 
+
+  Este indicador destaca la importancia del uso de Internet como facilitador del desarrollo 
+  y ayuda a medir la brecha digital, que, si no se aborda adecuadamente, agravará 
+  las desigualdades en todos los ámbitos del desarrollo. Las variables clasificatorias de 
+  las personas que utilizan Internet, como la edad, el sexo, el nivel de educación o la 
+  situación en la fuerza laboral, pueden ayudar a identificar las brechas digitales en 
+  las personas que utilizan Internet. Esta información puede contribuir al diseño de 
+  políticas específicas para superar esas brechas.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.8.1&seriesCode=IT_USE_ii99&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">Internet erabiltzen duten pertsonen proportzioa (%) IT_USE_ii99</a> UNSTATS
+
+
+comparabilidad: >-
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-08-01.pdf">Metadatuak 17-8-1.pdf</a> (ingelesez bakarrik)'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
