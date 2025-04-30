@@ -1,0 +1,95 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.16-7-1-titulo
+
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-7-titulo
+#  indicador_onu_global: indicador_largo.16-7-1-titulo
+
+definicion: >-
+  Ratio de la proporción de mujeres en el sector público respecto a la proporción de mujeres en la población entre 16 y 64 años, por institución pública
+
+formula: |
+
+  $$RM_{SP}^{t} = \frac{PM_{SP}^{t}}{PM_{16-64}^{t}}$$
+
+  izanik:
+
+  $$PM_{SP}^{t} = \frac{P_{SP\, emakumeak}^{t}}{P_{SP}^{t}} \cdot 100 $$
+
+  $$PM_{16-64}^{t} = \frac{P_{16-64\, emakumeak}^{t}}{P_{16-64}^{t}} \cdot 100 $$
+
+  non: 
+
+  $P_{SP\, emakumeak}^{t} =$ sektore publikoan zerbitzua ematen duten emakumeak $t$ urteko urtarrilaren 1ean
+
+  $P_{SP}^{t} =$ sektore publikoan zerbitzua ematen duten pertsonak $t$ urteko urtarrilaren 1ean
+
+  $P_{16-64\, emakumeak}^{t} =$ 16 eta 64 urte bitarteko emakumeak $t$ urteko urtarrilaren 1ean
+
+  $P_{16-64}^{t} =$ 16 eta 64 urte bitarteko pertsonak $t$ urteko urtarrilaren 1ean
+
+
+desagregacion: |
+
+  Erakunde publikoa: sektore publikoa (guztira); sektore publiko autonomikoa; tokiko sektore publikoa; 
+  estatuko sektore publikoa; osasun-erakunde autonomikoak; unibertsitateaz kanpoko ikastetxe autonomikoak; 
+  foru-aldundiak; udalak; unibertsitateak; polizia autonomikoa; justizia-administrazio autonomikoa; 
+  estatuko justizia-administrazioa; indar armatuak; estatuko segurtasun-indar eta -kidegoak.
+
+
+observaciones: |
+  El valor de referencia de este indicador es 1, que se tiene cuando la representación de la 
+  mujer en la administración pública analizada es perfectamente proporcional a su presencia 
+  en la población entre 16 y 64 años. 
+
+  Si el indicador toma un valor menor que 1 significa que la mujer está 
+  infrarepresentada, mientras que si toma un valor mayor que 1 significa que 
+  está sobrerepresentada.
+
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  El servicio público es la base del gobierno, donde se desarrollan e implementan las 
+  políticas y programas públicos y donde la sociedad interactúa con el gobierno. En la 
+  mayoría de los países, el servicio público es también el mayor empleador. Es en este 
+  contexto que el ODS 16, en su meta 16.7, alienta a los países a garantizar que el 
+  servicio público sea representativo de las personas a las que sirve “en todos 
+  los niveles”. 
+
+  El indicador 16.7.1 se centra en la representación proporcional en las instituciones 
+  públicas; mide el grado en que las instituciones públicas de un país son representativas 
+  de la población general. La representación proporcional (también conocida como 
+  “representación descriptiva”) en el servicio público se relaciona con el grado en que 
+  la composición del servicio público refleja los diversos grupos sociodemográficos de 
+  la población nacional. El supuesto subyacente es que cuando el servicio público 
+  refleja la diversidad social de una nación, esto puede conducir a una mayor 
+  legitimidad del servicio público a los ojos de los ciudadanos, ya que los 
+  funcionarios públicos se asemejan a las personas a las que prestan servicios. 
+
+  Se ha descubierto que la representación proporcional está asociada con niveles más 
+  altos de confianza en las instituciones públicas, ya que las personas perciben 
+  procesos de formulación de políticas más inclusivos para mejorar la calidad y la equidad 
+  de las decisiones políticas y ayudar a frenar la influencia indebida de intereses 
+  creados sobre la toma de decisiones.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: 
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.7.1&seriesCode=SG_DMK_PARLMP_LC&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Parlamentuetako emakume kideen ratioa (Parlamentuko emakumeen proportzioaren eta estatuko biztanleriako emakumeen proportzioaren arteko erlazioa, hautagarritasun-adina beheko muga gisa hartuta), Behe Ganbera edo Ganbera Bakarra SG_DMK_PARLMP_LC</a> UNSTATS
+
+comparabilidad: >-
+  EAEn erabilgarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak. b) azpiadierazlean zentratzen da.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01b.pdf">Metadatuak 16-7-1(b).pdf</a> (ingelesez bakarrik)'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -1,0 +1,67 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.17-3-2-titulo
+
+objetivo_global: objetivo_largo.17-titulo
+meta_global: meta_largo.17-3-titulo
+#  indicador_onu_global: indicador_largo.17-3-2-titulo
+
+definicion: >-
+  Volumen de remesas enviadas al extranjero, y en proporción al PIB
+
+formula: |
+
+  $$PPIBVR^{t} = \frac{VR^{t}}{PIB^{t}} \cdot 100 $$ 
+
+  non: 
+
+  $VR^{t} =$ atzerrira bidalitako diru-igorpenen bolumena $t$ urtean
+
+  $PIB^{t} =$ barne produktu gordina uneko prezioetan $t$ urtean
+
+  honakoa adierazten badugu: 
+
+  $VR_{Espainia,h}^{t} =$ Espainiatik $h$ herrialdera bidalitako diru-igorpenen bolumena $t$ urtean
+
+  $P_{16-64,Espainia,h}^{t} =$ Espainian bizi den $h$ herrialdeko 16 eta 64 urte bitarteko biztanleria atzerritarra $t$ urteko urtarrilaren 1ean 
+
+  $P_{16-64,h}^{t} =$ Autonomia Erkidegoan bizi den $h$ herrialdeko 16 eta 64 urte bitarteko biztanleria atzerritarra $t$ urteko urtarrilaren 1ean 
+
+  orduan:  
+
+  $$ VR^{t} = \displaystyle \sum_{h \epsilon Herrialdeak} VR_{Espainia,h}^{t} = \frac{\frac{P_{16-64,h}^{t}+P_{16-64,h}^{t+1}}{2}}{\frac{P_{16-64,Espainia,h}^{t}+P_{16-64,Espainia,h}^{t+1}}{2}} $$ 
+
+  herrialdeak ondokoak izanda: Kolonbia, Maroko, Ekuador, Dominikar Errepublika, Honduras, Bolivia, Senegal, Paraguay, Pakistan, Errumania, gainerako herrialdeak. Europar Batasuneko herrialdeak ez dira aintzat hartzen "gainerako herrialdeak" kategorian.
+
+desagregacion: 
+
+observaciones: 
+
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Disponer de datos precisos sobre los flujos de remesas es crucial para que los responsables 
+  de las políticas, los gobiernos y las organizaciones internacionales elaboren 
+  estrategias eficaces para promover el desarrollo sostenible y alcanzar los 
+  Objetivos de Desarrollo Sostenible (ODS). 
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >- 
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.3.2&seriesCode=BX_TRF_PWKR&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Diru-igorpenen bolumena (dolar estatubatuarretan), BPG osoaren proportzio gisa (%) BX_TRF_PWKR</a> UNSTATS
+
+
+comparabilidad: >-
+  EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa 
+  eskaintzen du. Datuak eurotan aurkezten dira, ez Estatu Batuetako dolarretan.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-03-02.pdf">Metadatuak 17-3-2.pdf</a> (ingelesez bakarrik)'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

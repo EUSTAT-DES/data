@@ -1,0 +1,42 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.16-titulo
+# meta_global: meta_largo.16-2-titulo
+# indicador_onu_global: indicador_largo.16-2-1-titulo
+
+
+definicion:
+formula:
+desagregacion:
+periodicidad:
+
+observaciones:
+ 
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Con demasiada frecuencia, los niños son criados utilizando métodos que recurren a la fuerza 
+  física o la intimidación verbal para castigar conductas no deseadas y alentar las deseadas. 
+
+  El uso de la disciplina violenta con los niños representa una violación de sus derechos. La disciplina 
+  física y la agresión psicológica tienden a superponerse y con frecuencia ocurren juntas, lo que 
+  exacerba el daño a corto y largo plazo que infligen. Las consecuencias de la disciplina violenta 
+  varían desde efectos inmediatos hasta daños a largo plazo que los niños llevan consigo hasta bien 
+  entrada la edad adulta. La disciplina violenta es el tipo de violencia contra los niños más extendido y socialmente aceptado.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.2.1&seriesCode=VC_VAW_PHYPYV&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=1-14">Azken hilabetean zaintzaileen zigor fisikoa eta/edo eraso psikologikoa jasan duten 1 eta 14 urte bitarteko haurren proportzioa (1 eta 14 urte bitarteko haurren %) VC_VAW_PHYPYV</a> UNSTATS
+
+comparabilidad:
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-01.pdf">Metadatuak 16-2-1.pdf</a> (ingelesez bakarrik)'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

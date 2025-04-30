@@ -1,0 +1,52 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.16-titulo
+# meta_global: meta_largo.16-7-titulo
+# indicador_onu_global: indicador_largo.16-7-2-titulo
+
+
+definicion:
+formula:
+desagregacion:
+periodicidad:
+
+observaciones:
+ 
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  El indicador 16.7.2 de los ODS se refiere al concepto de «eficacia política», 
+  que se remonta a la década de 1950, cuando se debatió junto con la confianza política 
+  como una medida clave de la salud general de un sistema democrático (Craig et al., 1990). 
+  Puede definirse como la «sensación de que el cambio político y social es posible y de 
+  que cada ciudadano puede contribuir a lograrlo» (Campbell, Gurin y Miller, 1954, p. 187). 
+
+  Esta percepción de que las personas pueden influir en la toma de decisiones es 
+  importante, ya que justifica el cumplimiento de sus deberes cívicos (Acok et al., 1985).
+
+  La ​​capacidad de participar en la sociedad, de opinar en la formulación de políticas 
+  y de disentir sin temor son libertades esenciales. La voz política también 
+  proporciona un correctivo a las políticas públicas: puede garantizar la 
+  rendición de cuentas de los funcionarios y las instituciones públicas, 
+  revelar lo que la gente necesita y valora, y llamar la atención sobre 
+  privaciones significativas. 
+
+  La voz política también reduce el potencial 
+  de conflictos y mejora la posibilidad de generar consenso sobre temas 
+  clave, con beneficios para la eficiencia económica, la equidad social y 
+  la inclusión en la vida pública.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global:
+comparabilidad:
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-02.pdf">Metadatuak 16-7-2.pdf</a> (ingelesez bakarrik)'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
