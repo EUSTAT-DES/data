@@ -1,0 +1,51 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.12-titulo
+# meta_global: meta_largo.12-c-titulo
+#  indicador_onu_global: indicador_largo.12-c-1-titulo
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  La magnitud y el impacto de los subsidios a los combustibles fósiles presentan 
+  tanto desafíos como oportunidades para alcanzar los objetivos de la Agenda 2030 
+  para el Desarrollo Sostenible. Por un lado, el uso de combustibles fósiles y su 
+  promoción mediante programas de subsidios afecta negativamente la capacidad de 
+  los gobiernos para alcanzar objetivos clave, como la reducción de la pobreza, 
+  la mejora de la salud, la igualdad de género, el acceso a la energía y 
+  la lucha contra el cambio climático. 
+
+  Al mismo tiempo, es necesario garantizar 
+  que los hogares pobres, especialmente vulnerables a los aumentos de precios, 
+  obtengan o mantengan el acceso a la energía. Los sectores de la economía que 
+  dependen de la energía pueden verse afectados, en particular por cambios 
+  abruptos en los precios. Por lo tanto, cualquier reforma exitosa requiere 
+  un análisis cuidadoso y medidas de mitigación adaptadas. Por otro lado, 
+  la reasignación de los subsidios a los combustibles fósiles a sectores 
+  relevantes para el desarrollo podría impulsar el logro de los ODS.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global:
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.c.1&seriesCode=ER_FFS_CMPT_GDP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Erregai fosilentzako dirulaguntzak (kontsumoa eta ekoizpena), guztizko BPGaren proportzio gisa (%) ER_FFS_CMPT_GDP</a> UNSTATS
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-0c-01.pdf">Metadatuak 12-c-1.pdf</a> (ingelesez bakarrik)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

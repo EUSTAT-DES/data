@@ -11,7 +11,7 @@ meta_global: meta_largo.7-b-titulo
 definicion: |
 
   Energia-iturri berriztagarrietatik elektrizitatea sortzen 
-  duten instalazioen ahalmen instalatua, biztanleriagatik zatitua  
+  duten instalazioen ahalmen instalatua, biztanleriaren arabera zatitua  
 
 formula: |
 
@@ -19,14 +19,14 @@ formula: |
 
   non:
 
-  $CINST_{berriztagarria}^{t} =$ Energia-iturri berriztagarrietatik elektrizitatea sortzeko ahalmen instalatua $t$ urtean 
+  $CINST_{berriztagarria}^{t} =$ energia-iturri berriztagarrietatik elektrizitatea sortzeko ahalmen instalatua $t$ urtean 
 
   $P^{t} =$ biztanleria $t$ urtean
 
 
 desagregacion: |
 
-  Energia berriztagarrien iturri mota: hidraulikoa, fotovoltaikoa, eolikoa, eguzki-energia termikoa
+  Energia berriztagarrien iturri mota: hidraulikoa; fotovoltaikoa; eolikoa; eguzki-energia termikoa
  
 periodicidad: FUENTE.FREQ_A
 
@@ -80,7 +80,7 @@ dato_global: |
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=7.b.1&seriesCode=EG_EGY_RNEW&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALL">Elektrizitate berriztagarria sortzeko ahalmen instalatua (watt per capita) EG_EGY_RNEW</a> UNSTATS
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: 
   '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-0b-01.pdf">Metadatuak 7-b-1.pdf</a> (ingelesez bakarrik)'

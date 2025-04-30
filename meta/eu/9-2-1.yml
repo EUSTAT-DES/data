@@ -1,0 +1,81 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.9-2-1-title
+
+objetivo_global: objetivo_largo.9-titulo
+meta_global: meta_largo.9-2-titulo
+#  indicador_onu_global: indicador_largo.9-2-1-titulo
+
+
+definicion: >- 
+  Manufaktura-sektorearen balio erantsi gordina, BPG errealarekiko proportzioan eta per capita
+
+formula:  |
+
+  <b>Manufaktura-sektorearen balio erantsi gordina BPG errealarekiko proportzioan</b>
+
+  $$PPIBVAB_{manufaktura,2022}^{t} = \frac{VAB_{manufaktura,2022}^{t}}{PIB_{2022}^{t}} \cdot 100$$ 
+
+  non: 
+
+  $VAB_{manufaktura,2022}^{t} =$ manufaktura-sektorearen balio erantsi gordina 2022ko erreferentziarekin kateatutako bolumenean $t$ urtean 
+
+  $PIB^{t} =$ barne-produktu gordina 2022ko erreferentziarekin kateatutako bolumenean $t$ urtean 
+
+  <br>
+
+  <b>Manufaktura-sektorearen balio erantsi gordina per capita</b> 
+
+  $$PPIBPC_{manufaktura,2022}^{t} = \frac{VAB_{manufaktura,2022}^{t}}{P^{t}} \cdot 100$$ 
+
+  non: 
+
+  $VAB_{manufaktura,2022}^{t} =$ manufaktura-sektorearen balio erantsi gordina 2022ko erreferentziarekin kateatutako bolumenean $t$ urtean 
+
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean 
+
+
+desagregacion:  |
+
+  Lurralde historikoa
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  El Valor añadido del sector manufacturero (VAM) es un indicador ampliamente reconocido y 
+  utilizado por investigadores y responsables de políticas para evaluar el nivel 
+  de industrialización de un país. La proporción del VAM en el PIB refleja el 
+  papel de la industria manufacturera en la economía y el desarrollo nacional de un 
+  país en general. 
+
+  El VAM per cápita es el indicador básico del nivel de industrialización de un país 
+  ajustado al tamaño de la economía. Uno de los usos estadísticos del VAM per cápita 
+  es la clasificación de grupos de países según la etapa de desarrollo industrial.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: | 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.2.1&seriesCode=NV_IND_MANF&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ISIC4_C"> Manufaktura-balio erantsia (2015eko dolar estatubatuar konstanteak), BPGren proportzio gisa (%) NV_IND_MANF</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.2.1&seriesCode=NV_IND_MANFPC&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ISIC4_C"> Manufaktura-balio erantsia per capita (2015eko dolar estatubatuar konstanteak) NV_IND_MANFPC</a> UNSTATS
+
+comparabilidad: >- 
+  EAEko adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina 
+  antzeko informazioa ematen du. Datuak eurotan aurkezten dira, ez dolar estatubatuarretan. 
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-02-01.pdf">Metadatuak 9-2-1.pdf</a> (ingelesez bakarrik)
+
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

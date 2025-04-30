@@ -1,0 +1,43 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.10-titulo
+# meta_global: meta_largo.10-5-titulo
+#  indicador_onu_global: indicador_largo.10-5-1-titulo
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  
+  Se incluyen siete Indicadores de Solidez Financiera (ISF) como indicadores de los 
+  ODS para el punto 10.5.1, expresados ​​en porcentaje.
+   (1) Capital de Nivel 1 Regulatorio sobre activos
+   (2) Capital de Nivel 1 Regulatorio sobre activos ponderados por riesgo
+   (3) Préstamos morosos netos de provisiones sobre capital
+   (4) Préstamos morosos sobre préstamos brutos totales
+   (5) Rentabilidad de los activos
+   (6) Activos líquidos sobre pasivos a corto plazo
+   (7) Posición neta abierta en divisas sobre capital
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: 
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-05-01.pdf">Metadatuak 10-5-1.pdf</a> (ingelesez bakarrik)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

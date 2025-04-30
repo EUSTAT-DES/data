@@ -9,7 +9,7 @@ meta_global: meta_largo.8-10-titulo
 
 
 definicion:  | 
-  Kreditu-erakundeen eta kredituko finantza-establezimenduen bulegoen kopurua, 15 urteko eta gehiagoko biztanleriarekiko
+  Kreditu-erakundeen eta kredituko finantza-establezimenduen bulegoen kopurua, 15 urte eta gehiagoko biztanleriarekiko
 
 formula:  |
 
@@ -19,7 +19,7 @@ formula:  |
 
   $OECEFC^{t} =$  kreditu-erakundeen eta kredituko finantza-establezimenduen bulegoak $t$ urtean
 
-  $P_{15+}^{t} =$ 15 urteko eta gehiagoko biztanleak $t$ urteko uztailaren 1ean
+  $P_{15+}^{t} =$ 15 urte eta gehiagoko biztanleak $t$ urteko uztailaren 1ean
 
 
 desagregacion:  |
@@ -56,7 +56,7 @@ dato_global: >-
 
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa ematen du.
+  EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa ematen du.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-10-01.pdf">Metadatuak 8-10-1.pdf</a> (ingelesez bakarrik)'
 

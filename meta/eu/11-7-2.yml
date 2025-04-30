@@ -1,0 +1,55 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.11-7-2-titulo
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-7-titulo
+#  indicador_onu_global: indicador_largo.11-7-2-titulo
+
+definicion: >-
+  Número de personas que han sido víctimas de acoso contra la libertad de las personas, acoso inmobiliario, acoso laboral o funcionarial, o acoso sexual en los últimos 12 meses por cada 100.000 habitantes
+
+formula: |
+
+  $$TVACOSO^{t} = \frac{VACOSO^{t}}{P^{t}} \cdot 100$$
+
+  non:
+
+  $VACOSO^{t} =$ azken 12 hilabeteetan sexu-jazarpena edo jazarpen ez-sexuala pairatu duen biztanleria $t$ urtean
+
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean
+
+desagregacion:
+
+observaciones: >-
+
+  Se contabiliza como acoso no sexual el acoso contra la libertad de las personas (art. 172 ter del código penal), 
+  el acoso inmobiliario (art. 172,1.3 del código penal) y el acoso laboral o funcionarial (art. 173.1 del código penal).
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  La experiencia del acoso sexual y no sexual puede tener efectos negativos de gran alcance en las 
+  víctimas. 
+
+  Además del daño emocional y psicológico sufrido, el acoso puede tener consecuencias negativas 
+  en la capacidad de las víctimas para participar plenamente en la vida pública y para participar y 
+  contribuir al desarrollo de sus comunidades. Por ejemplo, la incidencia generalizada del acoso sexual 
+  en el lugar de trabajo puede dar lugar a una menor participación de las mujeres en la fuerza laboral, 
+  especialmente en ocupaciones dominadas por los hombres, y reducir su capacidad de generar ingresos.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+comparabilidad: >-
+  EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-07-02.pdf">Metadatuak 11-7-2.pdf</a> (ingelesez bakarrik)'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

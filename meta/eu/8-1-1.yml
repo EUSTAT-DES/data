@@ -15,11 +15,11 @@ formula:  |
 
   $$TCPIBPC^{t} = \frac{{\frac{PIB_{2022}^{t}}{P^t}-\frac{PIB_{2022}^{t-1}}{P^{t-1}}}}{\frac{PIB_{2022}^{t-1}}{P^{t-1}}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PIB_{2022}^{t} =$ barne-produktu gordina, kateatutako bolumenean, 2022 erreferentziarekin $t$ urtean
+  $PIB_{2022}^{t} =$ barne-produktu gordina, 2022 erreferentziarekin kateatutako bolumenean $t$ urtean
 
-  $P^{t} =$ $t$ urteko uztailaren 1eko biztanleria
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean
 
 desagregacion: >- 
   Lurralde historikoa
@@ -55,7 +55,7 @@ indicador_meta_enlace: >-
 
 informacion_interes: >-
 
-  <a href="https://www.eustat.eus/estadisticas/tema_489/opt_0/ti_pib-municipal/temas.html">PIB Municipal</a> Eustat
+  <a href="https://eu.eustat.eus/estadisticas/tema_489/opt_0/temas.html">Udal BPG</a> Eustat
 
 
 national_data_updated_date: ''

@@ -9,8 +9,8 @@ meta_global: meta_largo.8-6-titulo
 
 
 definicion:  | 
-  Azken lau asteetan lanik ez duten eta ikasketarik edo prestakuntzarik (arautua edo arautu 
-  gabea) egin ez duten 15-24 urteko gazteen proportzioa, 15-24 urteko gazteen guztizkoarekiko
+  Azken lau asteetan lanik izan ez duten eta araututako zein arautu gabeko ikasketa edo prestakuntzarik 
+  egin ez duten 15-24 urteko gazteen proportzioa, 15-24 urteko gazte guztiekiko
 
 formula:  |
 
@@ -18,7 +18,8 @@ formula:  |
 
   non:
 
-  $PNINI_{15-24}^{t} =$ azken lau asteetan lanik ez duen eta ikasketarik edo prestakuntzarik (arautua edo arautu gabea) egin ez duen 15-24 urteko biztanleria $t$ urtean
+  $PNINI_{15-24}^{t} =$ azken lau asteetan lanik izan ez duen eta araututako zein arautu gabeko ikasketarik 
+  edo prestakuntzarik egin ez duen 15-24 urteko biztanleria $t$ urtean
 
   $P_{15-24}^{t} =$ 15-24 urteko biztanleak $t$ urtean
 
@@ -59,10 +60,10 @@ justificacion_global: |
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=8.6.1&seriesCode=SL_TLF_NEET&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15-24%20%7C%20BOTHSEX">Ikasten, lan egiten edo prestakuntzarik jasotzen ez duten gazteen proportzioa, sexuaren eta adinaren arabera - 13.ª CIET (%) SL_TLF_NEET</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=8.6.1&seriesCode=SL_TLF_NEET&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15-24%20%7C%20BOTHSEX">Ikasi, lan egin edo prestakuntzarik jasotzen ez duten gazteen proportzioa, sexuaren eta adinaren arabera - 13.ª CIET (%) SL_TLF_NEET</a> UNSTATS
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-06-01.pdf">Metadatuak 8-6-1.pdf</a> (ingelesez bakarrik)'
 

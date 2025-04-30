@@ -10,11 +10,11 @@ meta_global: meta_largo.6-1-titulo
 
 definicion:  |
   Modu seguruan kudeatutako edateko uraren zerbitzuak erabiltzen dituzten biztanleen proportzioa 
-  honela definitzen da: edateko uraren iturri hobetua erabiltzen duten biztanleen proportzioa, 
-  bertara jo daitekeena, behar denean eskuragarri dagoena eta kutsadura fekal eta kimikorik ez duena.
+  honela definitzen da: edateko uraren iturri hobetua, irisgarria, behar denean eskuragarri dagoena 
+  eta kutsadura fekal eta kimikorik ez duena erabiltzen duten biztanleen proportzioa 
 
-  Honako hauek dira hobetu diren edateko uraren iturriak: hodien bidezko hornidura, zulatutako eta 
-  hodietako putzuak, zulatutako putzu babestuak, iturburu babestuak, euri-ura, ur-kioskoak eta 
+  Honako hauek dira edateko uraren iturri hobetuak: hodien bidezko hornidura, zulatu eta 
+  hodiratutako putzuak, zulatutako putzu babestuak, iturburu babestuak, euri-ura, ur-kioskoak eta 
   ontziratutako eta etxera eramandako ura.
 
 formula:  |
@@ -23,9 +23,9 @@ formula:  |
 
   non:
 
-  $PC^{t} =$ modu seguruan kudeatutako edateko uraren zerbitzuak erabiltzen dituzten biztanleak $t$ urtean
+  $PC^{t} =$ modu seguruan kudeatutako edateko uraren zerbitzuak erabiltzen dituzten biztanleak $t$ urtean 
 
-  $P{t} =$ $t$ urteko uztailaren 1eko biztanleria
+  $P{t} =$ biztanleria $t$ urteko uztailaren 1ean 
 
 desagregacion: >- 
 
@@ -62,7 +62,7 @@ dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.1.1&seriesCode=SH_H2O_SAFE&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA">Modu seguruan kudeatutako edateko uraren zerbitzuak erabiltzen dituzten biztanleen proportzioa (%) SH_H2O_SAFE</a> UNSTATS
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf">Metadatuak 6-1-1.pdf</a> (ingelesez bakarrik)'
 

@@ -1,0 +1,82 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.9-c-1-title
+
+objetivo_global: objetivo_largo.9-titulo
+meta_global: meta_largo.9-c-titulo
+#  indicador_onu_global: indicador_largo.9-c-1-titulo
+
+
+definicion:  |
+  Ondoko sare mugikorrekin estalitako etxeen proportzioa: UMTS (Universal Mobile Telecommunications System) 
+  estandarrean oinarritutako eta HSPA (High Speed Packet Access) duten hirugarren belaunaldiko (3G) sare 
+  mugikorrak (3,5G bezala ere ezagutzen direnak), LTE (Long Term Evolution) sare mugikorrak (4G bezala ere 
+  ezagutzen direnak), eta 5G sare mugikorrak
+
+formula:  |
+
+  $$PHRM^{t} = \frac{HRM_{teknologia}^{t}}{HRM^{t}} \cdot 100$$
+
+  non:
+
+  $HRM_{teknologia}^{t} =$ sare mugikorrekin estalitako etxeak $t$ urtean
+
+  $HRM^{t} =$ etxeak $t$ urtean
+
+
+desagregacion: >- 
+  Sare mugikorraren teknologia: 3,5G; 4G; 5G
+
+observaciones:
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  El porcentaje de la población cubierta por una red móvil 
+  puede considerarse un indicador mínimo de acceso a las Tecnologías de la 
+  Información y la Comunicación (TIC), ya que brinda a las personas la posibilidad 
+  de suscribirse y utilizar servicios móviles para comunicarse. 
+
+  Durante la última década, las redes móviles se han expandido 
+  rápidamente y han ayudado a superar barreras de infraestructura muy básicas 
+  que existían cuando las redes de telefonía fija, a menudo limitadas a áreas 
+  urbanas y densamente pobladas, eran la infraestructura de telecomunicaciones dominante.
+
+  Mientras que las redes móviles 2G (de banda estrecha) ofrecen servicios 
+  limitados (y principalmente basados ​​en voz), las redes de mayor velocidad (3G y LTE) 
+  brindan un acceso cada vez más rápido, confiable y de alta calidad a Internet 
+  y su creciente cantidad de información, contenido, servicios y aplicaciones. 
+
+  Las redes móviles son, por lo tanto, esenciales para superar las barreras de 
+  infraestructura, ayudando a las personas a unirse a la sociedad de la información y 
+  beneficiarse del potencial de las TIC, en particular en los países menos desarrollados.
+
+  El indicador destaca la importancia de las redes móviles para la prestación de servicios 
+  de comunicación básicos y avanzados y ayudará a diseñar políticas específicas para 
+  superar las barreras de infraestructura restantes y abordar la brecha digital. 
+  Muchos gobiernos hacen un seguimiento de este indicador y han establecido objetivos 
+  específicos en términos de la cobertura de la población móvil (por tecnología) 
+  que los operadores deben lograr. 
+
+  Fuente: División de Estadísticas de las Naciones Unidas 
+
+dato_global: | 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.c.1&seriesCode=IT_MOB_4GNTWK&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Gutxienez 4G sare mugikor batek estaltzen duen biztanleriaren proportzioa (%) IT_MOB_4GNTWK</a> UNSTATS
+
+
+comparabilidad: >- 
+  EAEko adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu. 
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-0C-01.pdf">Metadatuak 9-c-1.pdf</a> (ingelesez bakarrik)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

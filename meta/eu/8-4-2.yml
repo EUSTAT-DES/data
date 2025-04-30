@@ -9,10 +9,10 @@ meta_global: meta_largo.8-4-titulo
 
 
 definicion:  | 
-  Materialaren barne kontsumoa (MBK), materialen fluxuaren kontabilitatearen adierazle estandarra 
+  Materialaren bertako kontsumoa (MBK), material-fluxuaren kontabilitate-adierazle estandarra 
   da, eta Euskal AEko ekonomian materialen itxurazko kontsumoaren berri ematen du.
 
-  MBKak ekonomia batean zuzenean erabilitako eta materialen fluxu zuzenen kontuetan oinarritutako 
+  MBKak ekonomia batean zuzenean erabilitako eta material-fluxu zuzenen kontuetan oinarritutako 
   material kantitate osoa neurtzen du (biomasa, erregai fosilak, mineral metalikoak eta mineral 
   ez-metalikoak), hau da, erauzitako materiala, inportazioak eta esportazio fisikoak.
 
@@ -20,41 +20,41 @@ definicion:  |
 
 
 formula:  |
-  <b>Materialaren barne kontsumoa</b>
+  <b>Materialaren bertako kontsumoa</b>
 
   $$CDM^t = Extr^t + Imp^t - Exp^t$$
 
   non:
 
-  $Extr^t =$ Bertako erauzketa $t$ urtean
+  $Extr^t =$ bertako erauzketa $t$ urtean
 
-  $Imp^t =$ Inportazioak $t$ urtean
+  $Imp^t =$ inportazioak $t$ urtean
 
-  $Exp^t =$ Esportazioak $t$ urtean
+  $Exp^t =$ esportazioak $t$ urtean
 
   <br>
 
-  <b>Per capita materialaren barne kontsumoa</b>
+  <b>Materialaren bertako kontsumoa Per capita </b>
 
   $$CMDPC^{t} = \frac{{CMD^{t}}}{P^{t}}$$
 
   non:
 
-  $CMD^{t} =$ materialaren barne kontsumoa $t$ urtean
+  $CMD^{t} =$ materialaren bertako kontsumoa $t$ urtean
 
-  $P^{t} =$ $t$ urteko uztailaren 1eko biztanleria
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean
 
   <br>
 
-  <b>Per capita materialaren barne kontsumoa BPGren arabera</b>
+  <b>Materialaren bertako kontsumoa per capita BPG unitateko</b>
 
   $$CMDPIB^{t} = \frac{{CMD^{t}}}{PIB_{2022}^{t}}$$
 
   non:
 
-  $CMD^{t} =$ materialaren barne kontsumoa $t$ urtean
+  $CMD^{t} =$ materialaren bertako kontsumoa $t$ urtean
 
-  $PIB_{2022}^{t} =$ Barne-produktu gordina bolumen kateatuan, erreferentzia: 2022 milioi euro $t$ urtean 
+  $PIB_{2022}^{t} =$ Barne-produktu gordina, kateatutako bolumenean, 2022ko erreferentziarekin, milioi eurotan $t$ urtean 
 
 desagregacion:
 
@@ -86,7 +86,7 @@ justificacion_global: |
 dato_global:
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-04-02.pdf">Metadatuak 8-4-2.pdf</a> (ingelesez bakarrik)'
