@@ -15,7 +15,7 @@ formula: |
 
   $$IACC_{larritasuna}^{t} = \frac{ACC_{larritasuna}^{t}}{PE_{OIT}^{t}} \cdot 100.000$$
 
-  donde:
+  non:
 
   $ACC_{larritasuna}^{t} =$ lanaldian/in itinere baja eragin duten istripuen kopurua, larritasunaren arabera $t$ urtean
 
@@ -23,7 +23,7 @@ formula: |
 
 desagregacion: |
 
-  Larritasuna: hilkorra; ez hilkorra
+  Larritasuna: heriotza eragindakoa; heriotzarik gabea
 
   Sexua
 
@@ -63,7 +63,7 @@ justificacion_global: |
 dato_global:
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-08-01.pdf">Metadatuak 8-8-1.pdf</a> (ingelesez bakarrik)'
 

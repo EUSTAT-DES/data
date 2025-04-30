@@ -9,13 +9,13 @@ meta_global: meta_largo.8-5-titulo
 
 
 definicion:  | 
-  langabeen proportzioa ekonomikoki aktiboak diren pertsonekiko
+  Langabeen proportzioa ekonomikoki aktiboak diren pertsonekiko
 
 formula:  |
 
   $$TD^{t} = \frac{D^{t}}{A^{t}} \cdot 100$$
 
-  donde:
+  non:
 
   $D^{t} =$ langabeak $t$ urtean
 
@@ -63,7 +63,7 @@ dato_global: >-
 
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-02.pdf">Metadatuak 8-5-2.pdf</a> (ingelesez bakarrik)'
 

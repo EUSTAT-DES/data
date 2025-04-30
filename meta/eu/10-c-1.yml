@@ -1,0 +1,59 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.10-titulo
+# meta_global: meta_largo.10-c-titulo
+#  indicador_onu_global: indicador_largo.10-c-1-titulo
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:
+
+texto_oceca:
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  
+  El Banco Mundial ha recopilado datos para este indicador a través de la base 
+  de datos Precios de Remesas a Nivel Mundial (RPW) desde 2008 con el fin de 
+  monitorear el objetivo del G8/G20 de reducir los precios de las remesas. También 
+  conocido como el "Objetivo 5x5", este objetivo fue adoptado por el 
+  G8 en 2009 y se refiere a la reducción del costo total promedio mundial de 
+  las remesas de los migrantes en 5 puntos porcentuales en 5 años. 
+
+  Para lograr 
+  este objetivo, los gobiernos de los países emisores y receptores deberían 
+  considerar la implementación de reformas basadas en los Principios Generales 
+  para los Servicios de Remesas Internacionales del Banco Mundial/Comité de 
+  Sistemas de Pago y Liquidación (enero de 2007). Este marco, acordado 
+  internacionalmente, ha demostrado ser eficaz 
+  para ayudar a reducir el costo de las remesas y orientar las acciones 
+  para mejorar la eficiencia de las remesas internacionales. 
+
+  La base de datos RPW del Banco Mundial es la única base de datos global que monitorea 
+  los precios de las remesas en todas las regiones del mundo. El RPW fue 
+  lanzado por el Banco Mundial en septiembre de 2008 y es una herramienta 
+  clave para monitorear la evolución de los costos para los remitentes y 
+  los beneficiarios del envío y recepción de dinero en los principales 
+  corredores nacionales.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=10.c.1&seriesCode=SI_RMT_COST&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">200 $-ko bidalketaren batez besteko kostuak herrialde hartzaile batera, igorritako zenbatekoaren proportzio gisa (%) SI_RMT_COST</a> UNSTATS
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-0c-01.pdf">Metadatuak 10-c-1.pdf</a> (ingelesez bakarrik)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

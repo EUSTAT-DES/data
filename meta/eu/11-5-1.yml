@@ -1,0 +1,64 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.11-5-1-titulo
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-5-titulo
+#  indicador_onu_global: indicador_largo.11-5-1-titulo
+
+definicion: >-
+  Defunciones atribuidas a desastres naturales por cada 100.000 habitantes
+
+formula: |
+
+  $$TM_{hondamendiak}^{t} = \frac{D_{hondamendiak}^{t}}{P^{t}} \cdot 100$$
+
+  non:
+
+  $D_{hondamendiak}^{t} =$ hondamendi naturalei egotzitako heriotzak (GNS-10eko X30-X39 kodeak) $t$ urtean
+
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean
+
+desagregacion: |
+  Sexua
+  
+  Lurralde historikoa/Eskualdea/Udalerria
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  El Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030 fue 
+  adoptado por los Estados miembros de las Naciones Unidas en marzo de 2015 
+  como una política global de reducción del riesgo de desastres.
+
+  Entre sus metas se encuentran:
+
+  Meta A: Reducir sustancialmente la mortalidad global por desastres para 
+  2030, con el objetivo de reducir el promedio de mortalidad global por cada 100.000 habitantes entre 
+  2020-2030 en comparación con 2005-2015
+
+  Meta B: Reducir sustancialmente el número de personas afectadas
+  a nivel mundial para 2030 , con el objetivo de reducir la cifra promedio 
+  mundial por cada 100.000 habitantes 
+  entre 2020 y 2030 en comparación con el período 2005-2015.
+
+  La consecución de sus metas contribuirá al desarrollo sostenible y fortalecerá la 
+  resiliencia económica, social, sanitaria y ambiental.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+comparabilidad: >-
+  Eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-05-01.pdf">Metadatuak 11-5-1.pdf</a> (ingelesez bakarrik)'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

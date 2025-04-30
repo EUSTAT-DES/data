@@ -9,10 +9,10 @@ meta_global: meta_largo.8-5-titulo
 
 
 definicion:  | 
-  20 eta 64 urte bitarteko pertsona okupatuen edo enplegatuen proportzioa, adin-tarteen arabera, eta generoen arteko aldea enpleguan.
+  20 eta 64 urte bitarteko pertsona okupatuen edo enplegatuen proportzioa, adin-tarteen arabera, eta genero-arrakala enpleguan.
 
-  Enplegatutzat jotzen da erreferentziako astebetean gutxienez ordubetez lan egin zuena ordainsari edo onura bakoitzeko, edo 
-  lanik egin ez zuena, baina aldi baterako lanik izan ez zuena.
+  Enplegatutzat jotzen da erreferentziako astean ondoko bi egoeretako batean egon zena: gutxienez ordubetez lan egin zuena ordainsari edo 
+  onura baten truke, edo lanpostu bat izanda ere lanik egin ez zuena, aldi baterako lanpostutik kanpo zegoelako.
 
 formula:  |
   <b>Okupazio-tasa</b>
@@ -27,7 +27,7 @@ formula:  |
 
   <br>
 
-  <b>Generoen arteko aldea enpleguan</b>
+  <b>Genero-arrakala enpleguan</b>
 
   $$BGE^{t} ={TA_{gizona}^{t} - TA_{emakumea}^{t}}$$
 
@@ -75,7 +75,7 @@ dato_global: >-
   Enplegu-tasa sexuaren arabera (sdg_08_30)</a> Eurostat
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazlea "Enplegu-tasa sexuaren arabera (sdg_08_30)" Europako adierazlearekin aldera daiteke
+  EAEn eskuragarri dagoen adierazlea "Enplegu-tasa sexuaren arabera (sdg_08_30)" Europako adierazlearekin aldera daiteke
 
 indicador_meta_enlace:
   <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_08_30_esmsip2.htm"> Eurostat metadatuak sdg_08_30 </a> (ingelesez bakarrik)

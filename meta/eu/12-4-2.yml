@@ -1,0 +1,92 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  global_indicators.12-4-2-title
+
+objetivo_global: objetivo_largo.12-titulo
+meta_global: meta_largo.12-4-titulo
+#  indicador_onu_global: indicador_largo.12-4-2-titulo
+
+definicion: >-
+  Residuos peligrosos generados per cápita y proporción de residuos peligrosos tratados 
+  según operación de tratamiento (incinerados, 
+  vertidos y reciclados) en relación al total de residuos peligrosos generados y tratados
+
+formula: |
+
+  <b> Sortutako hondakin arriskutsuak per capita</b> 
+
+  $$RPPC^{t} = \frac{RP^{t}}{P^{t}} $$
+
+  non:
+
+  $RP^{t} =$ sortutako hondakin arriskutsuen kantitatea $t$ urtean 
+
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean
+
+  <br>
+
+  <b> Tratatutako hondakin arriskutsuen proportzioa, tratamendu motaren arabera</b> 
+
+  $$PRP_{tratamendua}^{t} = \frac{RP_{tratamendua}^{t}}{RP^{t}} \cdot 100$$ <br> 
+
+  $RP_{tratamendua}^{t} =$ tratatutako hondakin arriskutsuen kantitatea (tratamendu motaren arabera) $t$ urtean 
+
+  $RP^{t} =$ sortutako eta tratatutako hondakin arriskutsuen guztizko kantitatea $t$ urtean 
+
+desagregacion: |
+  Hondakinak tratatzeko eragiketa: birziklatzea; erraustea energia berreskuratuta; erraustea energia 
+  berreskuratu gabe; zabortegian uztea
+
+  Lurralde historikoa
+
+
+observaciones: >-
+
+  Operaciones de tratamiento R1 de acuerdo con la Directiva 2008/98/CE de residuos.
+
+
+periodicidad: FUENTE.FREQ_A
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Los productos químicos forman parte de la vida cotidiana. Se utilizan más de 140.000 
+  sustancias diferentes en todos los sectores económicos del mundo. Sus beneficios son 
+  muchos y también lo es su potencial para afectar negativamente a la 
+  salud humana y al medio ambiente si no se gestionan adecuadamente. Todos los países, 
+  especialmente los de ingresos medios y bajos, se enfrentan al complejo desafío de 
+  gestionar los residuos peligrosos de acuerdo con las normas internacionales de 
+  buenas prácticas. La situación se complica por la limitación de los recursos 
+  humanos, financieros y/o técnicos. 
+
+  Por ello, es necesario adoptar medidas para apoyar el uso sostenible de los productos 
+  químicos y la gestión ambientalmente racional de los residuos peligrosos. También 
+  se está produciendo un rápido aumento de la generación de residuos peligrosos. 
+
+  Si bien la mayoría de los residuos peligrosos convencionales se producen en 
+  operaciones industriales y manufactureras, se generan cantidades significativas 
+  en sectores no industriales, incluidos los lodos del sector sanitario, las plantas 
+  de tratamiento de aguas residuales, los aceites usados ​​y las baterías usadas. 
+
+  También hay un aumento en la complejidad de los productos y de componentes peligrosos 
+  no identificados, como recubrimientos y/o artículos que no son peligrosos 
+  (laminados y envases multicapa), pero que presentan peligrosidad de diversas 
+  maneras cuando se desechan de manera inadecuada y terminan en el aire, el agua o se queman.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+comparabilidad: >-
+  EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.
+
+dato_global:
+
+indicador_meta_enlace: 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-04-02.pdf">Metadatuak 12-4-2.pdf</a> (ingelesez bakarrik)
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

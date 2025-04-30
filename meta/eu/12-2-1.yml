@@ -1,0 +1,39 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.12-titulo
+# meta_global: meta_largo.12-2-titulo
+#  indicador_onu_global: indicador_largo.12-2-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  La huella material del consumo informa la cantidad de materias primas necesarias 
+  para satisfacer la demanda final de un país y puede interpretarse como un indicador 
+  del nivel de vida material/nivel de capitalización de una economía. La huella material 
+  per cápita describe el uso promedio de materiales para la demanda final.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-02-01.pdf">Metadatuak 12-2-1.pdf</a> (ingelesez bakarrik)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -1,0 +1,67 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.10-2-1-titulo
+
+objetivo_global: objetivo_largo.10-titulo
+meta_global: meta_largo.10-2-titulo
+#  indicador_onu_global: indicador_largo.10-2-1-titulo
+
+
+definicion: >- 
+  Kontsumo-unitate bakoitzeko diru-sarreren mediana nazionalaren % 50etik beherako diru-sarrerekin bizi diren 
+  pertsonen proportzioa (ELGAren eskala aldatua) 
+
+
+formula: |
+
+  $$PP50ME^{t} = \frac{P50ME^{t}}{P^{t}} \cdot 100$$
+
+  non:
+
+  $P50ME^{t} =$ Kontsumo-unitate bakoitzeko diru-sarreren mediana nazionalaren % 50etik beherako diru-sarrerekin bizi den 
+  biztanleria (ELGAren eskala aldatua) $t$ urtean
+
+  $P^{t} =$ biztanleria $t$ urtean
+  
+
+desagregacion: 
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Abordar la inclusión social y la desigualdad es importante en la agenda de desarrollo global 
+  así como en la agenda de desarrollo nacional de muchos países. La proporción de la población 
+  que vive por debajo del 50% del ingreso nacional medio es una medida útil para monitorear 
+  el nivel y las tendencias de la inclusión social, la pobreza relativa y la desigualdad 
+  dentro de un país.
+
+  La proporción de personas que viven por debajo del 50% de la mediana es un indicador 
+  de la pobreza relativa y la desigualdad de la distribución del ingreso dentro de un país. 
+
+  Este indicador y otras medidas relativas similares se utilizan comúnmente para medir la pobreza 
+  en los países ricos (incluidos los indicadores de pobreza de la Organización para la Cooperación y 
+  el Desarrollo Económicos (OCDE) y los indicadores de riesgo de pobreza o exclusión social de 
+  Eurostat) y se utilizan cada vez más también como una medida complementaria de la desigualdad 
+  y la pobreza en los países de ingresos bajos y medios.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+
+comparabilidad: >- 
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-02-01.pdf">Metadatuak 10-2-1.pdf</a> (ingelesez bakarrik)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

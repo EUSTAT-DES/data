@@ -12,13 +12,13 @@ definicion: |
 
   Adierazleak 2 serie ditu:
 
-    - Modu egokian tratatutako etxeko hondakin-uren fluxuen proportzioa: 2.000 biztanle baliokidetik gorako 
+    <b> - Modu egokian tratatutako etxeko hondakin-uren fluxuen proportzioa</b>: 2.000 biztanle baliokidetik gorako 
       hiri-aglomerazioei dagokien karga kutsatzailearen proportzioa, hondakin-urak araztu eta kutsadura-maila 
       ur hartzaileentzat onargarria den mugaraino murrizten duena.
 
-    - Kolektore-sistema bati konektatutako etxeko hondakin-uren fluxuen proportzioa: 2.000 biztanletik gorako 
+    <b> - Kolektore-sistema bati konektatutako etxeko hondakin-uren fluxuen proportzioa</b>: 2.000 biztanle baliokidetik gorako 
       hiri-aglomerazioei dagokien karga kutsatzailearen proportzioa, hondakin-urak bildu eta tratamendu-instalazio 
-      batera edo azken isurketa-puntu batera eramango dituen hodi-sistema batera konektatuta
+      batera edo azken isurketa-puntu batera eramango dituen hodi-sistema batera konektatuta.
 
 
 formula: |
@@ -43,7 +43,7 @@ formula: |
 
   non:
 
-  $CC_{\text{kolektoreak}}^{t} =$ 2.000 biztanletik gorako hiri-aglomerazioei dagokien karga kutsatzailea, 
+  $CC_{\text{kolektoreak}}^{t} =$ 2.000 biztanle baliokidetik gorako hiri-aglomerazioei dagokien karga kutsatzailea, 
   hondakin-uren kolektore-sistema bati konektatuta $t$ urtean
 
   $CC^{t} =$ 2.000 biztanle baliokidetik gorako hiri-aglomerazioei dagokien karga kutsatzailea $t$ urtean
@@ -104,7 +104,7 @@ justificacion_global: |
 dato_global:
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa ematen du. 
+  EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa ematen du. 
 
 indicador_meta_enlace: 
   '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-01.pdf">Metadatuak 6-3-1.pdf</a> (ingelesez bakarrik)'

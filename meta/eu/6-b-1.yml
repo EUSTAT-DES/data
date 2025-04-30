@@ -10,9 +10,9 @@ meta_global: meta_largo.6-b-titulo
 
 definicion: |
 
-  Kontsumorako uren kudeaketa eta saneamenduan eta bainatzeko uren kudeaketan 
-  tokiko komunitateek parte hartzeko politikak eta prozedura operatiboak finkatu 
-  dituzten tokiko administrazioen (udalen) proportzioa
+  Tokiko administrazioen (udalen) proportzioa, kontsumorako uren kudeaketa eta saneamenduan 
+  eta bainatzeko uren kudeaketan tokiko komunitateek parte har dezaten politikak eta prozedura 
+  operatiboak finkatu dituztenena
 
 
 formula: |
@@ -21,8 +21,8 @@ formula: |
 
   non:
 
-  $DAL_{uraren\, kudeaketa}^{t} =$ utaten kudeaketan tokiko komunitateek parte hartzeko politikak 
-  eta prozedura operatiboak finkatu dituzten tokiko administrazioak (udalak) $t$ urtean
+  $DAL_{uraren\, kudeaketa}^{t} =$ tokiko administrazioak (udalak), uraren kudeaketan tokiko komunitateek 
+  parte har dezaten politikak eta prozedura operatiboak finkatu dituztenak, $t$ urtean
 
   $DAL^{t} =$ tokiko administrazioak (udalak) $t$ urtean
 
@@ -66,7 +66,7 @@ dato_global: |
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.b.1&seriesCode=ER_WAT_PARTIC&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Ur-baliabideak planifikatzeko eta kudeatzeko programetan parte hartzen duten erabiltzaile/komunitate maila handia duten herrialdeen proportzioa (%) ER_WAT_PARTIC</a> UNSTATS
 
 comparabilidad: >- 
-  Erabilgarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+  EAEn erabilgarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: 
   '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-0B-01.pdf">Metadatuak 6-b-1.pdf</a> (ingelesez bakarrik)'

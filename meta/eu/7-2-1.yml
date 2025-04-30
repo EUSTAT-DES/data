@@ -14,9 +14,9 @@ definicion: >-
 
 formula: |
 
-  $$PER^{t} = \frac{ER^{t}}{CFE^{t}^{t}} \cdot 100$$ 
+  $$PER^{t} = \frac{ER^{t}}{CFE^{t}} \cdot 100$$ 
 
-  non:
+  non: 
 
   $ER^{t} =$ iturri berriztagarrietatik sortutako energiaren kontsumoa $t$ urtean
 
@@ -68,7 +68,7 @@ dato_global: |
 
 
 comparabilidad: >- 
-  Erabilgarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu
+  EAEn erabilgarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu
 
 indicador_meta_enlace: 
   '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-02-01.pdf">Metadatuak 7-2-1.pdf</a> (ingelesez bakarrik)'

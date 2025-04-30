@@ -9,29 +9,29 @@ meta_global: meta_largo.8-9-titulo
 
 
 definicion:  | 
-  Turismoak sortutako BPG, BPGrekiko proportzioan, prezio arruntetan, eta turismoak sortutako BPGren urteko hazkunde-tasa.
+  Turismoak sortutako BPGa, uneko prezioetako BPGarekiko proportzioan, eta turismoak sortutako BPGaren urteko hazkunde-tasa.
 
 formula:  |
 
-  <b>Turismoak sortutako BPG, BPGrekiko proportzioan</b>
+  <b>Turismoak sortutako BPGa, BPGarekiko proportzioan</b>
 
-  $$PPIB_{turistiko}^{t} = \frac{PIB_{turistiko}^{t}}{PIB^{t}} \cdot 100$$
+  $$PPIB_{turismoa}^{t} = \frac{PIB_{turismoa}^{t}}{PIB^{t}} \cdot 100$$
 
   non:
 
-  $PIB_{turistiko}^{t} =$ turismoak sortutako barne-produktu gordina, prezio arruntetan $t$ urtean
+  $PIB_{turismoa}^{t} =$ turismoak sortutako barne-produktu gordina, uneko prezioetan $t$ urtean
 
-  $PIB^{t} =$ barne-produktu gordina, prezio arruntetan $t$ urtean
+  $PIB^{t} =$ barne-produktu gordina, uneko prezioetan $t$ urtean
 
   <br>
 
   <b>Turismoak sortutako BPGren urteko hazkunde-tasa</b>
 
-  $$TCPIB^{t}_{turistiko} = \left( \frac{PIB^{t}_{turistiko} - PIB^{t-1}_{turistiko}}{PIB^{t-1}_{turistiko}} \right) \cdot 100$$
+  $$TCPIB^{t}_{turismoa} = \left( \frac{PIB^{t}_{turismoa} - PIB^{t-1}_{turismoa}}{PIB^{t-1}_{turismoa}} \right) \cdot 100$$
 
   non:
 
-  $PIB^{t-1}_{turistiko} =$ barne-produktu gordina, prezio arruntetan $t-1$ urtean
+  $PIB^{t-1}_{turismoa} =$ barne-produktu gordina, uneko prezioetan $t-1$ urtean
 
 desagregacion:  |
   Lurralde historikoa
@@ -73,10 +73,10 @@ justificacion_global: |
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=8.9.1&seriesCode=ST_GDP_ZS&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Turismoaren zuzeneko BPG, guztizko BPGaren proportzio gisa (%) ST_GDP_ZS</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=8.9.1&seriesCode=ST_GDP_ZS&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Turismoaren zuzeneko BPGa, guztizko BPGaren proportzio gisa (%) ST_GDP_ZS</a> UNSTATS
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-09-01.pdf">Metadatuak 8-9-1.pdf</a> (ingelesez bakarrik)'
 

@@ -13,9 +13,9 @@ definicion: |
   Adierazlea honela definitzen da: uraren ingurumen-kalitate ona duen lurralde bateko ur-gorputzen 
   proportzioa. Uraren ingurumen-kalitatea ibaietan, aintziretan eta lurpeko uretan tratatu gabeko ur 
   naturalari dagokio, eta eragin naturalen eta jarduera antropogeniko guztien inpaktuen arteko 
-  konbinazioa da.
+  konbinazioa adierazten du.
 
-  Ur-masa desberdinetarako 3 serie desberdin aurkezten dira: 
+  Ondoko ur-masetarako 3 serie desberdin aurkezten dira: 
 
     - ibaiak
     - lurpeko urak
@@ -26,7 +26,7 @@ formula: |
 
   $$PMABC^{t} = \frac{MBC_{ura}^{t}}{M_{ura}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
   $MBC_{ura}^{t} =$ kalitate oneko ur-masak $t$ urtean
 
@@ -42,10 +42,10 @@ observaciones: |
   Lurpeko uren ebaluazioa Lurrazaleko eta lurpeko uren egoera ebaluatzeko gidaren arabera egiten da. Gida 
   hori Ingurumeneko Estatu Idazkariaren (SEMA) 2020ko urriaren 14ko Instrukzioaren bidez onartu zen.
 
-  Urtarrilaren 24ko 35/2023 Errege Dekretuaren arabera, Euskal Autonomia Erkidegoan presentzia nabarmena 
-  duten masen errolda bat dator Kantauri Mendebaldeko, Guadalquivirreko, Ceutako, Melillako, Segurako eta 
+  Ur-masen zentsua bat dator urtarrilaren 24ko 35/2023 Errege Dekretuaren arabera Euskal Autonomia Erkidegoan 
+  presentzia nabarmena duten masekin. Errege Dekretu horrek onartzen du Kantauri Mendebaldeko, Guadalquivirreko, Ceutako, Melillako, Segurako eta 
   Jucarreko demarkazio hidrografikoen eta Kantauri Ekialdeko, Miño-Sileko, Dueroko, Tajoko, Guadianako eta 
-  Ebroko demarkazio hidrografikoen Espainiako zatiaren plan hidrologikoen berrikuspena onartzen duena.
+  Ebroko demarkazio hidrografikoen Espainiako zatiaren plan hidrologikoen berrikuspena.
 
   Adierazitako aldirako, ebaluazioak irizpide homogeneoen bidezko egoera-berrikuspenei dagozkie, 35/2023 Errege 
   Dekretuari eta izandako aurrerapen teknikoei jarraiki.
@@ -87,7 +87,7 @@ justificacion_global: |
 
 dato_global: |
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_OPAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Ingurumen-uraren kalitate ona duten irekitako ur-gorputzen proportzioa (%) EN_H2O_OPAMBQ</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_OPAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Ingurumen-uraren kalitate ona duten aire-zabaleko ur-gorputzen proportzioa (%) EN_H2O_OPAMBQ</a> UNSTATS
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_RVAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Uraren ingurumen-kalitate ona duten ibai-uren gorputzen proportzioa (%) EN_H2O_RVAMBQ</a> UNSTATS
 
@@ -96,7 +96,7 @@ dato_global: |
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_WBAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Uraren ingurumen-kalitate ona duten ur-masen proportzioa (%) EN_H2O_WBAMBQ</a> UNSTATS
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa ematen du.
+  EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa ematen du.
 
 indicador_meta_enlace: 
   '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-02.pdf">Metadatuak 6-3-2.pdf</a> (ingelesez bakarrik)'

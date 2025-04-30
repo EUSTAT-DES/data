@@ -9,14 +9,14 @@ meta_global: meta_largo.8-5-titulo
 
 
 definicion:  | 
-  Soldatako langileen irabazi gordina lanordu arrunt bakoitzeko
+  Soldatapeko langileen irabazi gordina lanordu arrunt bakoitzeko
 
 formula:  |
-  <b>pertsona enplegatuen batez besteko diru-sarrerak, lanorduko</b>
+  <b>Enplegatuen batez besteko diru-sarrerak, lanorduko</b>
 
   $$GH^{t} = \frac{G^{t}}{H^{t}} $$
 
-  donde:
+  non:
 
   $G^{t} =$ soldatapeko langileen irabazi gordina $t$ urtean
 
@@ -24,15 +24,15 @@ formula:  |
 
   <br>
 
-  <b>Generoko soldata-arrakala:</b>
+  <b>Generoko soldata-arrakala</b>
 
-  $$BSG^{t} = \frac{GPH_{gizona}^{t} - GPH_{emakume}^{t}}{GPH_{gizona}^{t}} \cdot 100$$
+  $$BSG^{t} = \frac{GPH_{gizona}^{t} - GPH_{emakumea}^{t}}{GPH_{gizona}^{t}} \cdot 100$$
 
   non:
 
   $GPH_{gizona}^{t} =$ gizonen orduko batez besteko irabazia $t$ urtean
 
-  $GPH_{emakume}^{t} =$ emakumeen orduko batez besteko irabazia $t$ urtean
+  $GPH_{emakumea}^{t} =$ emakumeen orduko batez besteko irabazia $t$ urtean
 
 desagregacion:  |
   Sexua
@@ -62,7 +62,7 @@ dato_global: >-
 
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-01.pdf">Metadatuak 8-5-1.pdf</a> (ingelesez bakarrik)'
 
