@@ -1,18 +1,13 @@
 heading: "Datos de la comunidad Autónoma de Euskadi para los indicadores de Desarrollo Sostenible"
 heading_short: Indicadores de la Agenda 2030 para el Desarrollo Sostenible
 instructions: Haga clic en un objetivo o utilice la %before_link búsqueda %after_link
-  para acceder a los indicadores globales de %country.name de los Objetivos de Desarrollo
-  Sostenible.
+  para acceder a los indicadores globales de %country.name de los Objetivos de Desarrollo Sostenible.
 instructions_shorter: Seleccione un objetivo para ver los datos de los indicadores de desarrollo sostenible para la Comunidad Autónoma de Euskadi.
 download_all: Descargar todos los datos (.zip)
 zip_file: archivo zip
 intro_title: 17 objetivos para transformar nuestro mundo
 intro_body: Los <a href="https://www.un.org/sustainabledevelopment/es">Objetivos de
-  Desarrollo Sostenible (SDG)</a> son un llamamiento universal a la acción para terminar
-  con la pobreza, proteger el planeta y mejorar las vidas y perspectivas de todos,
-  en todas partes. Los 17 Objetivos fueron adoptados por todos los Estados Miembros
-  de las Naciones Unidas en 2015, como parte de la <a href="https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=S">Agenda
-  2030 para el Desarrollo Sostenible</a>.
+  Desarrollo Sostenible (SDG)</a> son un llamamiento universal a la acción para terminar  con la pobreza, proteger el planeta y mejorar las vidas y perspectivas de todos,  en todas partes. Los 17 Objetivos fueron adoptados por todos los Estados Miembros de las Naciones Unidas en 2015, como parte de la <a href="https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=S">Agenda 2030 para el Desarrollo Sostenible</a>.
 file_size: Tamaño
 oceca_title: 'Acción conjunta OCECAS' 
 oceca_content: '<img src="https://raw.githubusercontent.com/eustat-des/site/develop/assets/img/oceca/ocecas_image_es.png" style="width: 200px; float: left; margin-right: 10px;" alt="OCECAS"> 
@@ -23,3 +18,23 @@ lehendakaritza_content: '<img src="https://raw.githubusercontent.com/eustat-des/
 notaprensa: "Notas de prensa"
 notaprensa_content: "Accede a las notas de prensa publicadas por Eustat"
 notaprensa_link: "https://www.eustat.eus/estadisticas/tema_1393/opt_1/tipo_6/ti_indicadores-de-la-agenda-2030-para-el-desarrollo-sostenible/temas.html#el"
+publicaciones: "Publicaciones"
+publicaciones_content: '>
+
+      [Notas de prensa](https://eu.eustat.eus/estadisticas/tema_1393/opt_1/tipo_6/ti_2030-agendako-garapen-jasangarriaren-adierazleak/temas.html#el)
+
+
+      [Informe voluntario de seguimiento multinivel - 2024](https://www.euskadi.eus/contenidos/informacion/docs_interes_transicionsocial/es_def/adjuntos/8-INFORME-CASTELLANO-WEB.pdf)
+     
+
+      [Otros documentos](https://www.euskadi.eus/documentos-de-interes-transicion-social/web01-a2lehetr/es/)'
+recursosUtiles: "Recursos útiles"
+recursosUtiles_content: '>
+
+      [ODS en Instituciones Internacionales](./ods-en-instituciones-internacionales)
+
+
+      [Indicadores ODS en otros países](./indicadores-ods-en-otros-paises )
+
+
+      [Indicadores ODS en otras Comunidades Autónomas](./indicadores-ods-en-otras-comunidades-autonomas)'
