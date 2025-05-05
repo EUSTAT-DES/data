@@ -34,7 +34,7 @@
               "enum": [
                 "Reciclaje",
                 "Incineración con recuperación de energía",
-                "Incineración",
+                "Incineración sin recuperación de energía",
                 "Depósito en vertedero",
                 ""
               ]
@@ -52,7 +52,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",

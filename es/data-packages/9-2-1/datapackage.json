@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Valor añadido del sector manufacturo en proporción al PIB",
-                "Valor añadido del sector manufacturo",
+                "Valor añadido del sector manufacturo per cápita",
                 ""
               ]
             },
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",

@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_INDQTHSNG_HUMID",
-                "EU_INDQTHSNG_TOILET",
-                "EU_INDQTHSNG_OVERCROWD",
-                "EU_INDQTHSNG_NOISE",
-                "EU_INDQTHSNG_LIGHT",
+                "Proporción de personas que vive en una vivienda con problemas de humedad",
+                "Proporción de personas que vive en una vivienda sin retrete o bañera/ducha",
+                "Proporción de personas que vive en una vivienda con una superficie menor a 20 metros cuadrados por persona",
+                "Proporción de personas que vive en una vivienda con problemas de exposición a ruidos y contaminación",
+                "Proporción de personas que vive en una vivienda oscura, sin luz suficiente, o escasez de luz natural",
                 ""
               ]
             },

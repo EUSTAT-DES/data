@@ -56,12 +56,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LTD",
-                "PTE",
+                "Contrato temporal",
+                "Contrato a tiempo parcial",
                 ""
               ]
             },
-            "title": "EmpCont"
+            "title": "Tipo de contrato"
           },
           {
             "name": "Territorio",
@@ -74,7 +74,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",

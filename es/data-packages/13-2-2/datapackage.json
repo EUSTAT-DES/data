@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_ATM_GHGT_AIP",
+                "Emisiones totales de gases de efecto invernadero por año",
                 "Emisiones totales de gases de efecto invernadero por unidad de PIB",
                 "Emisiones totales de gases de efecto invernadero per cápita",
                 "Emisiones de gases de efecto invernadero respecto al año 1990",

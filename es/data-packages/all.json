@@ -100,7 +100,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -148,7 +148,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -521,8 +521,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SI_COV_PENSN",
-                "SI_COV_UEMP",
+                "Proporción de la población que supera la edad legal de jubilación y recibe una pensión",
+                "Proporción de personas desempleadas que reciben prestaciones por desempleo",
                 ""
               ]
             },
@@ -551,7 +551,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -622,7 +622,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -742,7 +742,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -1110,7 +1110,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -1169,7 +1169,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -1324,7 +1324,7 @@
               "enum": [
                 "16-24 años",
                 "16-74 años",
-                "27-74 años",
+                "25-74 años",
                 ""
               ]
             },
@@ -1341,7 +1341,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -1384,7 +1384,7 @@
             "constraints": {
               "enum": [
                 "Gasto de las administraciones públicas autonómicas en fomento del empleo",
-                "Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al PIB",
+                "Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al gasto total",
                 ""
               ]
             },
@@ -1489,7 +1489,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Cargos directivo",
+                "Cargo directivo",
                 "Alta dirección",
                 "Empresaria",
                 ""
@@ -1508,7 +1508,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -1550,7 +1550,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_HTF_DETVFL",
+                "Trabajo forzado, servidumbre y esclavitud",
                 "Obtención de órganos",
                 "Trata de personas (todos los fines)",
                 "Explotación sexual",
@@ -1601,7 +1601,7 @@
             "constraints": {
               "enum": [
                 "Superficie de suelo recuperado para nuevos usos (acumulado)",
-                "Superficie de suelo recuperado en proporción al total",
+                "Porcentaje de suelo recuperado para nuevos usos (acumulado)",
                 ""
               ]
             },
@@ -1689,7 +1689,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -1737,7 +1737,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -1797,7 +1797,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -1875,9 +1875,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sector público (total)",
-                "SG_DMK_JDC",
-                "SG_DMK_PARLMP_LC",
+                "Proporción de mujeres en la administración pública en relación con la proporción de mujeres en la población",
+                "Proporción de mujeres en el poder judicial en relación con la proporción de mujeres en la población",
+                "Proporción de mujeres en el parlamento en relación con la proporción de mujeres en la población",
                 ""
               ]
             },
@@ -1917,7 +1917,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -1979,7 +1979,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -2321,8 +2321,8 @@
                 "Tasa de variación interanual del PIB",
                 "Tasa de desempleo",
                 "Tasa de variación interanual del índice de precios de consumo",
-                "Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB ",
-                "Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB ",
+                "Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB",
+                "Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB",
                 ""
               ]
             },
@@ -2339,7 +2339,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -2387,7 +2387,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Sexo",
@@ -2441,8 +2441,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_WWT_COLECT",
-                "EN_WWT_WWDS",
+                "Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores",
+                "Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada",
                 ""
               ]
             },
@@ -2529,7 +2529,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -2626,7 +2626,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -3109,7 +3109,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -3215,7 +3215,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -3596,7 +3596,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -3655,7 +3655,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -3697,8 +3697,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Emisiones de dióxido de carbono procedentes de la quema de combustibles",
-                "Emisiones de dióxido de carbono por unidad de valor añadido del sector manufacturero ",
+                "Emisiones de CO2 por unidad de valor añadido",
+                "Emisiones de CO2 del sector manufacturero por unidad de valor añadido del sector manufacturero",
                 ""
               ]
             },
@@ -3744,8 +3744,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo",
-                "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB",
+                "Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales",
+                "Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales en proporción al PIB",
                 ""
               ]
             },
@@ -3921,8 +3921,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AG_LND_FOVH",
-                "AG_LND_NFI",
+                "Proporción de superficie agrícola que ha alcanzado un nivel aceptable o deseable de valor de producción agrícola por hectárea",
+                "Proporción de la superficie de tierras agrícolas que ha alcanzado un nivel aceptable o deseable de ingresos agrícolas netos",
                 ""
               ]
             },
@@ -3968,8 +3968,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SI_AGR_LSFP",
-                "SI_AGR_SSFP",
+                "Ingresos medios de los grandes productores de alimentos",
+                "Ingresos medios de los pequeños productores de alimentos",
                 ""
               ]
             },
@@ -3986,7 +3986,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -4028,8 +4028,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SKILL_LTRCY",
-                "SKILL_NMRCY",
+                "Comprensión lectora",
+                "Matemáticas",
                 ""
               ]
             },
@@ -4088,10 +4088,10 @@
             "constraints": {
               "enum": [
                 "Electricidad",
-                "Ordenadores con fines pedagógicos ",
+                "Conexión a internet",
                 "Agua potable",
                 "Baños separados por sexo",
-                "Instalaciones básicas para el lavado de manos",
+                "Lavado de manos",
                 ""
               ]
             },
@@ -4155,7 +4155,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -4252,7 +4252,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -4424,7 +4424,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PWD",
+                "Persona sin discapacidad",
                 "Persona con discapacidad",
                 ""
               ]
@@ -4442,7 +4442,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -4962,7 +4962,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -5010,7 +5010,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -5058,7 +5058,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -5100,7 +5100,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EG_EGY_CLEAN",
+                "Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios",
                 ""
               ]
             },
@@ -5163,7 +5163,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -5217,7 +5217,7 @@
             "constraints": {
               "enum": [
                 "Médico",
-                "Profesionales en enfermería y partería ",
+                "Profesionales en enfermería y obstetricia",
                 "Dentista",
                 "Farmaceútico",
                 ""
@@ -5248,7 +5248,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -5290,7 +5290,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Población en zonas de abastecimiento que notifican al Sistema de Información Nacional de Agua de Consumo (SINAC)",
+                "EU_H20_COVNAC",
                 ""
               ]
             },
@@ -5389,7 +5389,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -5495,7 +5495,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -5574,7 +5574,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -5698,8 +5698,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AG_FPA_CFPI",
-                "EU_FPA_IPC",
+                "Indicador de anomalías en los precios de los alimentos",
+                "Índice de precio de los alimentos",
                 ""
               ]
             },
@@ -5710,15 +5710,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ECOICOP_RUB_01",
-                "ECOICOP_RUB_13",
-                "ECOICOP_RUB_11",
-                "ECOICOP_RUB_02",
-                "ECOICOP011",
-                "ECOICOP_RUB_01_02",
-                "ECOICOP_RUB_14",
-                "ECOICOP_RUB_16",
-                "ECOICOP_RUB_10",
+                "Cereales y derivados",
+                "Aceites y grasas",
+                "Leche",
+                "Pan",
+                "Alimentos (total)",
+                "Pan y cereales",
+                "Frutas frescas",
+                "Legumbres y hortalizas frescas",
+                "Huevos",
                 ""
               ]
             },
@@ -5735,7 +5735,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -5806,7 +5806,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -5868,7 +5868,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -5910,8 +5910,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Superiores al 10% ",
-                "Superiores al 25% ",
+                "Superiores al 10%",
+                "Superiores al 25%",
                 ""
               ]
             },
@@ -5975,7 +5975,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -6063,8 +6063,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_SDG_02_60_KG_PER_HA",
-                "EU_SDG_02_60_KT",
+                "Emisiones de amoníaco de la agricultura y ganadería por hectárea",
+                "Emisiones de amoníaco de la agricultura y ganadería",
                 ""
               ]
             },
@@ -6170,8 +6170,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_SDG_15_20_KM2",
-                "EU_SDG_15_20_PT",
+                "Superficie de las áreas terrestres protegidas (Km2)",
+                "Proporción de la superficie terrestre protegida respecto a la superficie terrestre",
                 ""
               ]
             },
@@ -6182,12 +6182,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LC_GRS",
-                "LC_WL",
-                "LC_ART",
-                "LC_OL",
-                "LC_TRE",
-                "LC_CRP",
+                "Pastizales",
+                "Humedales",
+                "Asentamientos",
+                "Otras tierras",
+                "Bosques",
+                "Tierras de cultivo",
                 ""
               ]
             },
@@ -6252,7 +6252,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -6685,8 +6685,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SP_ACS_BSRVH2O",
-                "SP_ACS_BSRVSAN",
+                "Proporción de viviendas con agua corriente",
+                "Proporción de viviendas con baño",
                 ""
               ]
             },
@@ -6703,7 +6703,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -7042,7 +7042,7 @@
             "constraints": {
               "enum": [
                 "Residuos urbanos recogidos per cápita",
-                "Proporción de residuos sólidos municipales recogidos y administrados en instalaciones controladas ",
+                "Proporción de residuos urbanos recogidos y administrados en instalaciones controladas",
                 "Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",
                 ""
               ]
@@ -7073,7 +7073,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -7116,8 +7116,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SG_DSR_SILS",
-                "EU_DSR_SILS_TH",
+                "Proporción de municipios que disponen de un plan municipal de emergencias",
+                "Proporción de municipios cubiertos por un plan de emergencias territorial",
                 ""
               ]
             },
@@ -7134,7 +7134,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -7473,11 +7473,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_INDQTHSNG_HUMID",
-                "EU_INDQTHSNG_TOILET",
-                "EU_INDQTHSNG_OVERCROWD",
-                "EU_INDQTHSNG_NOISE",
-                "EU_INDQTHSNG_LIGHT",
+                "Proporción de personas que vive en una vivienda con problemas de humedad",
+                "Proporción de personas que vive en una vivienda sin retrete o bañera/ducha",
+                "Proporción de personas que vive en una vivienda con una superficie menor a 20 metros cuadrados por persona",
+                "Proporción de personas que vive en una vivienda con problemas de exposición a ruidos y contaminación",
+                "Proporción de personas que vive en una vivienda oscura, sin luz suficiente, o escasez de luz natural",
                 ""
               ]
             },
@@ -7552,7 +7552,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -7705,7 +7705,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -7791,7 +7791,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -7810,7 +7810,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -7909,7 +7909,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -7957,7 +7957,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -8005,7 +8005,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -8053,7 +8053,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -8391,7 +8391,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Índice de Gini",
+                "Índice de Gini del ingreso disponible equivalente (postfiscal)",
                 ""
               ]
             },
@@ -8437,8 +8437,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AG_PRD_FIESMS",
-                "AG_PRD_FIESS",
+                "Prevalencia de la inseguridad alimentaria grave o muy grave",
+                "Prevalencia de la inseguridad alimentaria muy grave",
                 ""
               ]
             },
@@ -8633,7 +8633,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -8675,7 +8675,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_H2O_GRAMBQ",
+                "Proporción de masas de agua subterráneas de buena calidad",
                 "Proporción de masas de agua superficiales de buena calidad",
                 "Proporción de masas de agua de río de buena calidad",
                 ""
@@ -8741,7 +8741,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -9080,9 +9080,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "IT_MOB_5GNTWK",
-                "3,5G",
-                "4G",
+                "Proporción de hogares cubiertos con redes móviles 5G",
+                "Proporción de hogares cubiertos con redes móviles 3,5G",
+                "Proporción de hogares cubiertos con redes móviles 4G",
                 ""
               ]
             },
@@ -9099,7 +9099,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -9141,8 +9141,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tasa de participación en la enseñanza y formación académica y no académica",
-                "Índice de paridad entre mujeres y hombres que han realizado actividades educativas (AES)",
+                "Tasa de participación en la enseñanza y formación académica y no académica en las últimas 4 semanas",
+                "Tasa de participación en actividades educativas en los últimos 12 meses",
                 ""
               ]
             },
@@ -9185,7 +9185,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -9263,7 +9263,7 @@
             "constraints": {
               "enum": [
                 "Valor añadido del sector manufacturo en proporción al PIB",
-                "Valor añadido del sector manufacturo",
+                "Valor añadido del sector manufacturo per cápita",
                 ""
               ]
             },
@@ -9280,7 +9280,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -9368,7 +9368,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -9442,7 +9442,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -9484,8 +9484,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Salario medio por hora",
-                "Brecha de género en el salario medio por hora",
+                "Ingreso medio por hora ",
+                "Brecha salarial de genero",
                 ""
               ]
             },
@@ -9508,7 +9508,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PWD",
+                "Persona sin discapacidad",
                 "Persona con discapacidad",
                 ""
               ]
@@ -9556,9 +9556,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ADM_MUN_AUT",
+                "Administración autonómica y local",
                 "Administración autonómica",
-                "Administración municipal",
+                "Administración local",
                 ""
               ]
             },
@@ -9668,7 +9668,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -10035,7 +10035,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -10095,7 +10095,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -10202,7 +10202,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -10261,7 +10261,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -10431,7 +10431,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -10450,7 +10450,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -10540,8 +10540,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PD_AGR_LSFP",
-                "PD_AGR_SSFP",
+                "Productividad de los grandes productores de alimentos",
+                "Productividad de los pequeños productores de alimentos",
                 ""
               ]
             },
@@ -10558,7 +10558,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -10600,8 +10600,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SG_DSR_SILS",
-                "EU_DSR_SILS_TH",
+                "Proporción de municipios que disponen de un plan municipal de emergencias",
+                "Proporción de municipios cubiertos por un plan de emergencias territorial",
                 ""
               ]
             },
@@ -10618,7 +10618,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -10963,7 +10963,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -11094,7 +11094,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -11172,12 +11172,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LTD",
-                "PTE",
+                "Contrato temporal",
+                "Contrato a tiempo parcial",
                 ""
               ]
             },
-            "title": "EmpCont"
+            "title": "Tipo de contrato"
           },
           {
             "name": "Territorio",
@@ -11190,7 +11190,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -11578,7 +11578,7 @@
               "enum": [
                 "Reciclaje",
                 "Incineración con recuperación de energía",
-                "Incineración",
+                "Incineración sin recuperación de energía",
                 "Depósito en vertedero",
                 ""
               ]
@@ -11596,7 +11596,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -11674,8 +11674,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SP_ACS_BSRVH2O",
-                "SP_ACS_BSRVSAN",
+                "Proporción de viviendas con agua corriente",
+                "Proporción de viviendas con baño",
                 ""
               ]
             },
@@ -11692,7 +11692,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -12098,7 +12098,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -12535,7 +12535,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -12966,7 +12966,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_ATM_GHGT_AIP",
+                "Emisiones totales de gases de efecto invernadero por año",
                 "Emisiones totales de gases de efecto invernadero por unidad de PIB",
                 "Emisiones totales de gases de efecto invernadero per cápita",
                 "Emisiones de gases de efecto invernadero respecto al año 1990",
@@ -13037,7 +13037,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
@@ -13079,8 +13079,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SG_DSR_SILS",
-                "EU_DSR_SILS_TH",
+                "Proporción de municipios que disponen de un plan municipal de emergencias",
+                "Proporción de municipios cubiertos por un plan de emergencias territorial",
                 ""
               ]
             },
@@ -13097,7 +13097,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",
@@ -13547,7 +13547,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",

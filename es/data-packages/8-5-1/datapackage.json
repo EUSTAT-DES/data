@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Salario medio por hora",
-                "Brecha de género en el salario medio por hora",
+                "Ingreso medio por hora ",
+                "Brecha salarial de genero",
                 ""
               ]
             },
@@ -44,7 +44,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PWD",
+                "Persona sin discapacidad",
                 "Persona con discapacidad",
                 ""
               ]

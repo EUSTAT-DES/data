@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SG_DSR_SILS",
-                "EU_DSR_SILS_TH",
+                "Proporción de municipios que disponen de un plan municipal de emergencias",
+                "Proporción de municipios cubiertos por un plan de emergencias territorial",
                 ""
               ]
             },
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",

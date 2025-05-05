@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SP_ACS_BSRVH2O",
-                "SP_ACS_BSRVSAN",
+                "Proporción de viviendas con agua corriente",
+                "Proporción de viviendas con baño",
                 ""
               ]
             },
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Comarca",

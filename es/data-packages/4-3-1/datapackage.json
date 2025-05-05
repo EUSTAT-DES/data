@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tasa de participación en la enseñanza y formación académica y no académica",
-                "Índice de paridad entre mujeres y hombres que han realizado actividades educativas (AES)",
+                "Tasa de participación en la enseñanza y formación académica y no académica en las últimas 4 semanas",
+                "Tasa de participación en actividades educativas en los últimos 12 meses",
                 ""
               ]
             },
@@ -64,7 +64,7 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",

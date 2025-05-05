@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Superficie de suelo recuperado para nuevos usos (acumulado)",
-                "Superficie de suelo recuperado en proporción al total",
+                "Porcentaje de suelo recuperado para nuevos usos (acumulado)",
                 ""
               ]
             },

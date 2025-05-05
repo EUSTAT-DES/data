@@ -9,7 +9,7 @@ Discapacidad,Personas sin y con discapacidad,Discapacidad,Discapacidad,2,2
 Ecosistema,Ecosistema,Ecosistema,Ecosistema,1,6
 Edad,Edad,Edad,Edad,10,16
 Educacion,Nivel educativo,Educacion,Educacion,2,4
-EmpCont,EmpCont,EmpCont,EmpCont,1,2
+EmpCont,Tipo de contrato,EmpCont,EmpCont,1,2
 Energia,Tipo de tecnología renovable,Energia,Energia,2,4
 Explotacion,Tipo de explotación,Explotacion,Explotacion,1,5
 Gasto,Gasto,Gasto,Gasto,1,2
@@ -29,7 +29,7 @@ ServEsencial,Servicios esenciales,ServEsencial,ServEsencial,1,3
 ServPub,Servicios públicos,ServPub,ServPub,1,9
 Sexo,Sexo,Sexo,Sexo,44,2
 Tenencia,Tipo de tenencia,Tenencia,Tenencia,1,2
-Territorio,Territorio,Territorio,Territorio,74,3
+Territorio,Territorio histórico,Territorio,Territorio,74,3
 Tratamiento,Operación de tratamiento de residuos,Tratamiento,Tratamiento,2,4
 Units,Unidad,Units,Units,147,40
 Vacuna,Tipo de vacuna,Vacuna,Vacuna,1,4

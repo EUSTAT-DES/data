@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_H2O_GRAMBQ",
+                "Proporción de masas de agua subterráneas de buena calidad",
                 "Proporción de masas de agua superficiales de buena calidad",
                 "Proporción de masas de agua de río de buena calidad",
                 ""

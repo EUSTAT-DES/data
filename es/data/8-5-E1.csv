@@ -1,4 +1,4 @@
-Year,Series,Edad,Sexo,EmpCont,Territorio,Comarca,Municipio,Units,GeoCode,Value
+Year,Series,Edad,Sexo,Tipo de contrato,Territorio histórico,Comarca,Municipio,Units,GeoCode,Value
 2020,Tasa de ocupación,16 años y más,,,,,,Porcentaje,,50.8
 2010,Tasa de ocupación,16 años y más,,,,,,Porcentaje,,50.1
 2019,Tasa de ocupación,16 años y más,,,,,,Porcentaje,,50.6
@@ -7594,169 +7594,169 @@ Year,Series,Edad,Sexo,EmpCont,Territorio,Comarca,Municipio,Units,GeoCode,Value
 2022,Tasa de ocupación,20-64 años,Hombre,,Gipuzkoa,,,Porcentaje,Gipuzkoa,80.4
 2017,Brecha de género en la ocupación,20-64 años,,,,,,Puntos porcentuales,,8.0
 2012,Brecha de género en la ocupación,20-64 años,,,,,,Puntos porcentuales,,8.8
-2012,Brecha de género en la ocupación,20-64 años,,LTD,,,,Puntos porcentuales,,-5.8
-2010,Brecha de género en la ocupación,20-64 años,,PTE,,,,Puntos porcentuales,,-13.3
-2020,Brecha de género en la ocupación,20-64 años,,PTE,,,,Puntos porcentuales,,-19.0
+2012,Brecha de género en la ocupación,20-64 años,,Contrato temporal,,,,Puntos porcentuales,,-5.8
+2010,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,,,,Puntos porcentuales,,-13.3
+2020,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,,,,Puntos porcentuales,,-19.0
 2013,Brecha de género en la ocupación,20-64 años,,,,,,Puntos porcentuales,,8.4
-2015,Brecha de género en la ocupación,20-64 años,,PTE,,,,Puntos porcentuales,,-20.4
-2013,Brecha de género en la ocupación,20-64 años,,PTE,,,,Puntos porcentuales,,-17.3
+2015,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,,,,Puntos porcentuales,,-20.4
+2013,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,,,,Puntos porcentuales,,-17.3
 2016,Brecha de género en la ocupación,20-64 años,,,,,,Puntos porcentuales,,7.7
 2018,Brecha de género en la ocupación,20-64 años,,,,,,Puntos porcentuales,,8.8
-2017,Brecha de género en la ocupación,20-64 años,,LTD,,,,Puntos porcentuales,,-4.7
-2016,Brecha de género en la ocupación,20-64 años,,LTD,,,,Puntos porcentuales,,-5.9
-2014,Brecha de género en la ocupación,20-64 años,,PTE,,,,Puntos porcentuales,,-16.8
-2020,Brecha de género en la ocupación,20-64 años,,LTD,,,,Puntos porcentuales,,-9.6
-2023,Brecha de género en la ocupación,20-64 años,,LTD,,,,Puntos porcentuales,,-7.1
+2017,Brecha de género en la ocupación,20-64 años,,Contrato temporal,,,,Puntos porcentuales,,-4.7
+2016,Brecha de género en la ocupación,20-64 años,,Contrato temporal,,,,Puntos porcentuales,,-5.9
+2014,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,,,,Puntos porcentuales,,-16.8
+2020,Brecha de género en la ocupación,20-64 años,,Contrato temporal,,,,Puntos porcentuales,,-9.6
+2023,Brecha de género en la ocupación,20-64 años,,Contrato temporal,,,,Puntos porcentuales,,-7.1
 2020,Brecha de género en la ocupación,20-64 años,,,,,,Puntos porcentuales,,6.8
 2010,Brecha de género en la ocupación,20-64 años,,,,,,Puntos porcentuales,,13.7
 2021,Brecha de género en la ocupación,20-64 años,,,,,,Puntos porcentuales,,6.3
 2014,Brecha de género en la ocupación,20-64 años,,,,,,Puntos porcentuales,,7.6
-2019,Brecha de género en la ocupación,20-64 años,,PTE,,,,Puntos porcentuales,,-19.5
-2017,Brecha de género en la ocupación,20-64 años,,PTE,,,,Puntos porcentuales,,-21.5
-2021,Brecha de género en la ocupación,20-64 años,,LTD,,,,Puntos porcentuales,,-7.4
-2016,Brecha de género en la ocupación,20-64 años,,PTE,,,,Puntos porcentuales,,-21.0
-2010,Brecha de género en la ocupación,20-64 años,,LTD,,,,Puntos porcentuales,,-6.6
+2019,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,,,,Puntos porcentuales,,-19.5
+2017,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,,,,Puntos porcentuales,,-21.5
+2021,Brecha de género en la ocupación,20-64 años,,Contrato temporal,,,,Puntos porcentuales,,-7.4
+2016,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,,,,Puntos porcentuales,,-21.0
+2010,Brecha de género en la ocupación,20-64 años,,Contrato temporal,,,,Puntos porcentuales,,-6.6
 2015,Brecha de género en la ocupación,20-64 años,,,,,,Puntos porcentuales,,7.7
-2019,Brecha de género en la ocupación,20-64 años,,LTD,,,,Puntos porcentuales,,-6.0
-2023,Brecha de género en la ocupación,20-64 años,,PTE,,,,Puntos porcentuales,,-18.6
+2019,Brecha de género en la ocupación,20-64 años,,Contrato temporal,,,,Puntos porcentuales,,-6.0
+2023,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,,,,Puntos porcentuales,,-18.6
 2011,Brecha de género en la ocupación,20-64 años,,,,,,Puntos porcentuales,,10.8
-2022,Brecha de género en la ocupación,20-64 años,,LTD,,,,Puntos porcentuales,,-7.6
-2012,Brecha de género en la ocupación,20-64 años,,PTE,,,,Puntos porcentuales,,-11.7
-2021,Brecha de género en la ocupación,20-64 años,,PTE,,,,Puntos porcentuales,,-19.8
-2022,Brecha de género en la ocupación,20-64 años,,PTE,,,,Puntos porcentuales,,-18.1
-2018,Brecha de género en la ocupación,20-64 años,,LTD,,,,Puntos porcentuales,,-5.3
+2022,Brecha de género en la ocupación,20-64 años,,Contrato temporal,,,,Puntos porcentuales,,-7.6
+2012,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,,,,Puntos porcentuales,,-11.7
+2021,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,,,,Puntos porcentuales,,-19.8
+2022,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,,,,Puntos porcentuales,,-18.1
+2018,Brecha de género en la ocupación,20-64 años,,Contrato temporal,,,,Puntos porcentuales,,-5.3
 2019,Brecha de género en la ocupación,20-64 años,,,,,,Puntos porcentuales,,8.3
-2013,Brecha de género en la ocupación,20-64 años,,LTD,,,,Puntos porcentuales,,-6.2
-2011,Brecha de género en la ocupación,20-64 años,,LTD,,,,Puntos porcentuales,,-5.6
+2013,Brecha de género en la ocupación,20-64 años,,Contrato temporal,,,,Puntos porcentuales,,-6.2
+2011,Brecha de género en la ocupación,20-64 años,,Contrato temporal,,,,Puntos porcentuales,,-5.6
 2022,Brecha de género en la ocupación,20-64 años,,,,,,Puntos porcentuales,,7.2
-2018,Brecha de género en la ocupación,20-64 años,,PTE,,,,Puntos porcentuales,,-19.9
-2015,Brecha de género en la ocupación,20-64 años,,LTD,,,,Puntos porcentuales,,-5.3
+2018,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,,,,Puntos porcentuales,,-19.9
+2015,Brecha de género en la ocupación,20-64 años,,Contrato temporal,,,,Puntos porcentuales,,-5.3
 2023,Brecha de género en la ocupación,20-64 años,,,,,,Puntos porcentuales,,6.8
-2014,Brecha de género en la ocupación,20-64 años,,LTD,,,,Puntos porcentuales,,-5.4
-2011,Brecha de género en la ocupación,20-64 años,,PTE,,,,Puntos porcentuales,,-14.0
-2013,Brecha de género en la ocupación,20-64 años,,LTD,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-9.5
+2014,Brecha de género en la ocupación,20-64 años,,Contrato temporal,,,,Puntos porcentuales,,-5.4
+2011,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,,,,Puntos porcentuales,,-14.0
+2013,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-9.5
 2011,Brecha de género en la ocupación,20-64 años,,,Araba/Álava,,,Puntos porcentuales,Araba/Álava,12.7
 2012,Brecha de género en la ocupación,20-64 años,,,Araba/Álava,,,Puntos porcentuales,Araba/Álava,10.7
-2016,Brecha de género en la ocupación,20-64 años,,PTE,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-23.1
-2017,Brecha de género en la ocupación,20-64 años,,LTD,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-8.9
-2022,Brecha de género en la ocupación,20-64 años,,LTD,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-11.1
-2021,Brecha de género en la ocupación,20-64 años,,PTE,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-19.8
-2010,Brecha de género en la ocupación,20-64 años,,PTE,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-15.3
-2019,Brecha de género en la ocupación,20-64 años,,LTD,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-13.5
-2014,Brecha de género en la ocupación,20-64 años,,PTE,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-19.3
-2023,Brecha de género en la ocupación,20-64 años,,LTD,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-9.2
-2018,Brecha de género en la ocupación,20-64 años,,PTE,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-21.4
-2023,Brecha de género en la ocupación,20-64 años,,PTE,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-15.9
+2016,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-23.1
+2017,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-8.9
+2022,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-11.1
+2021,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-19.8
+2010,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-15.3
+2019,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-13.5
+2014,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-19.3
+2023,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-9.2
+2018,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-21.4
+2023,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-15.9
 2017,Brecha de género en la ocupación,20-64 años,,,Araba/Álava,,,Puntos porcentuales,Araba/Álava,10.0
-2010,Brecha de género en la ocupación,20-64 años,,LTD,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-6.7
+2010,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-6.7
 2010,Brecha de género en la ocupación,20-64 años,,,Araba/Álava,,,Puntos porcentuales,Araba/Álava,12.0
-2021,Brecha de género en la ocupación,20-64 años,,LTD,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-11.8
+2021,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-11.8
 2020,Brecha de género en la ocupación,20-64 años,,,Araba/Álava,,,Puntos porcentuales,Araba/Álava,11.6
-2012,Brecha de género en la ocupación,20-64 años,,LTD,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-8.8
+2012,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-8.8
 2016,Brecha de género en la ocupación,20-64 años,,,Araba/Álava,,,Puntos porcentuales,Araba/Álava,10.9
-2020,Brecha de género en la ocupación,20-64 años,,PTE,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-18.1
+2020,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-18.1
 2013,Brecha de género en la ocupación,20-64 años,,,Araba/Álava,,,Puntos porcentuales,Araba/Álava,11.9
-2011,Brecha de género en la ocupación,20-64 años,,PTE,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-14.0
-2014,Brecha de género en la ocupación,20-64 años,,LTD,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-7.8
-2016,Brecha de género en la ocupación,20-64 años,,LTD,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-9.2
+2011,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-14.0
+2014,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-7.8
+2016,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-9.2
 2021,Brecha de género en la ocupación,20-64 años,,,Araba/Álava,,,Puntos porcentuales,Araba/Álava,9.2
 2019,Brecha de género en la ocupación,20-64 años,,,Araba/Álava,,,Puntos porcentuales,Araba/Álava,10.7
 2022,Brecha de género en la ocupación,20-64 años,,,Araba/Álava,,,Puntos porcentuales,Araba/Álava,8.4
-2015,Brecha de género en la ocupación,20-64 años,,PTE,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-24.8
+2015,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-24.8
 2015,Brecha de género en la ocupación,20-64 años,,,Araba/Álava,,,Puntos porcentuales,Araba/Álava,11.7
 2018,Brecha de género en la ocupación,20-64 años,,,Araba/Álava,,,Puntos porcentuales,Araba/Álava,9.6
-2020,Brecha de género en la ocupación,20-64 años,,LTD,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-17.5
-2018,Brecha de género en la ocupación,20-64 años,,LTD,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-9.7
-2013,Brecha de género en la ocupación,20-64 años,,PTE,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-19.7
-2022,Brecha de género en la ocupación,20-64 años,,PTE,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-18.6
-2017,Brecha de género en la ocupación,20-64 años,,PTE,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-23.1
-2011,Brecha de género en la ocupación,20-64 años,,LTD,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-7.0
+2020,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-17.5
+2018,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-9.7
+2013,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-19.7
+2022,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-18.6
+2017,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-23.1
+2011,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-7.0
 2023,Brecha de género en la ocupación,20-64 años,,,Araba/Álava,,,Puntos porcentuales,Araba/Álava,9.4
 2014,Brecha de género en la ocupación,20-64 años,,,Araba/Álava,,,Puntos porcentuales,Araba/Álava,12.0
-2019,Brecha de género en la ocupación,20-64 años,,PTE,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-16.6
-2015,Brecha de género en la ocupación,20-64 años,,LTD,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-10.2
-2012,Brecha de género en la ocupación,20-64 años,,PTE,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-16.7
-2017,Brecha de género en la ocupación,20-64 años,,PTE,Bizkaia,,,Puntos porcentuales,Bizkaia,-21.2
-2023,Brecha de género en la ocupación,20-64 años,,LTD,Bizkaia,,,Puntos porcentuales,Bizkaia,-5.9
-2019,Brecha de género en la ocupación,20-64 años,,LTD,Bizkaia,,,Puntos porcentuales,Bizkaia,-4.8
-2017,Brecha de género en la ocupación,20-64 años,,LTD,Bizkaia,,,Puntos porcentuales,Bizkaia,-3.7
-2013,Brecha de género en la ocupación,20-64 años,,LTD,Bizkaia,,,Puntos porcentuales,Bizkaia,-4.4
-2022,Brecha de género en la ocupación,20-64 años,,LTD,Bizkaia,,,Puntos porcentuales,Bizkaia,-5.8
+2019,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-16.6
+2015,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-10.2
+2012,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Araba/Álava,,,Puntos porcentuales,Araba/Álava,-16.7
+2017,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Bizkaia,,,Puntos porcentuales,Bizkaia,-21.2
+2023,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Bizkaia,,,Puntos porcentuales,Bizkaia,-5.9
+2019,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Bizkaia,,,Puntos porcentuales,Bizkaia,-4.8
+2017,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Bizkaia,,,Puntos porcentuales,Bizkaia,-3.7
+2013,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Bizkaia,,,Puntos porcentuales,Bizkaia,-4.4
+2022,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Bizkaia,,,Puntos porcentuales,Bizkaia,-5.8
 2023,Brecha de género en la ocupación,20-64 años,,,Bizkaia,,,Puntos porcentuales,Bizkaia,5.9
-2016,Brecha de género en la ocupación,20-64 años,,LTD,Bizkaia,,,Puntos porcentuales,Bizkaia,-5.2
-2020,Brecha de género en la ocupación,20-64 años,,LTD,Bizkaia,,,Puntos porcentuales,Bizkaia,-8.5
-2015,Brecha de género en la ocupación,20-64 años,,LTD,Bizkaia,,,Puntos porcentuales,Bizkaia,-4.0
-2020,Brecha de género en la ocupación,20-64 años,,PTE,Bizkaia,,,Puntos porcentuales,Bizkaia,-18.2
-2019,Brecha de género en la ocupación,20-64 años,,PTE,Bizkaia,,,Puntos porcentuales,Bizkaia,-19.1
-2021,Brecha de género en la ocupación,20-64 años,,PTE,Bizkaia,,,Puntos porcentuales,Bizkaia,-18.8
-2011,Brecha de género en la ocupación,20-64 años,,LTD,Bizkaia,,,Puntos porcentuales,Bizkaia,-4.0
-2010,Brecha de género en la ocupación,20-64 años,,PTE,Bizkaia,,,Puntos porcentuales,Bizkaia,-11.9
+2016,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Bizkaia,,,Puntos porcentuales,Bizkaia,-5.2
+2020,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Bizkaia,,,Puntos porcentuales,Bizkaia,-8.5
+2015,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Bizkaia,,,Puntos porcentuales,Bizkaia,-4.0
+2020,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Bizkaia,,,Puntos porcentuales,Bizkaia,-18.2
+2019,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Bizkaia,,,Puntos porcentuales,Bizkaia,-19.1
+2021,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Bizkaia,,,Puntos porcentuales,Bizkaia,-18.8
+2011,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Bizkaia,,,Puntos porcentuales,Bizkaia,-4.0
+2010,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Bizkaia,,,Puntos porcentuales,Bizkaia,-11.9
 2018,Brecha de género en la ocupación,20-64 años,,,Bizkaia,,,Puntos porcentuales,Bizkaia,8.3
 2010,Brecha de género en la ocupación,20-64 años,,,Bizkaia,,,Puntos porcentuales,Bizkaia,14.2
-2018,Brecha de género en la ocupación,20-64 años,,PTE,Bizkaia,,,Puntos porcentuales,Bizkaia,-18.8
-2013,Brecha de género en la ocupación,20-64 años,,PTE,Bizkaia,,,Puntos porcentuales,Bizkaia,-16.3
+2018,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Bizkaia,,,Puntos porcentuales,Bizkaia,-18.8
+2013,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Bizkaia,,,Puntos porcentuales,Bizkaia,-16.3
 2017,Brecha de género en la ocupación,20-64 años,,,Bizkaia,,,Puntos porcentuales,Bizkaia,7.3
 2015,Brecha de género en la ocupación,20-64 años,,,Bizkaia,,,Puntos porcentuales,Bizkaia,6.5
-2014,Brecha de género en la ocupación,20-64 años,,PTE,Bizkaia,,,Puntos porcentuales,Bizkaia,-15.2
+2014,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Bizkaia,,,Puntos porcentuales,Bizkaia,-15.2
 2019,Brecha de género en la ocupación,20-64 años,,,Bizkaia,,,Puntos porcentuales,Bizkaia,7.5
 2013,Brecha de género en la ocupación,20-64 años,,,Bizkaia,,,Puntos porcentuales,Bizkaia,8.7
-2018,Brecha de género en la ocupación,20-64 años,,LTD,Bizkaia,,,Puntos porcentuales,Bizkaia,-4.4
+2018,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Bizkaia,,,Puntos porcentuales,Bizkaia,-4.4
 2021,Brecha de género en la ocupación,20-64 años,,,Bizkaia,,,Puntos porcentuales,Bizkaia,5.5
-2012,Brecha de género en la ocupación,20-64 años,,PTE,Bizkaia,,,Puntos porcentuales,Bizkaia,-9.9
-2012,Brecha de género en la ocupación,20-64 años,,LTD,Bizkaia,,,Puntos porcentuales,Bizkaia,-4.9
+2012,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Bizkaia,,,Puntos porcentuales,Bizkaia,-9.9
+2012,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Bizkaia,,,Puntos porcentuales,Bizkaia,-4.9
 2014,Brecha de género en la ocupación,20-64 años,,,Bizkaia,,,Puntos porcentuales,Bizkaia,6.9
-2010,Brecha de género en la ocupación,20-64 años,,LTD,Bizkaia,,,Puntos porcentuales,Bizkaia,-4.6
-2014,Brecha de género en la ocupación,20-64 años,,LTD,Bizkaia,,,Puntos porcentuales,Bizkaia,-4.4
-2016,Brecha de género en la ocupación,20-64 años,,PTE,Bizkaia,,,Puntos porcentuales,Bizkaia,-20.9
+2010,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Bizkaia,,,Puntos porcentuales,Bizkaia,-4.6
+2014,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Bizkaia,,,Puntos porcentuales,Bizkaia,-4.4
+2016,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Bizkaia,,,Puntos porcentuales,Bizkaia,-20.9
 2022,Brecha de género en la ocupación,20-64 años,,,Bizkaia,,,Puntos porcentuales,Bizkaia,6.1
-2021,Brecha de género en la ocupación,20-64 años,,LTD,Bizkaia,,,Puntos porcentuales,Bizkaia,-5.2
-2015,Brecha de género en la ocupación,20-64 años,,PTE,Bizkaia,,,Puntos porcentuales,Bizkaia,-20.3
-2022,Brecha de género en la ocupación,20-64 años,,PTE,Bizkaia,,,Puntos porcentuales,Bizkaia,-17.1
+2021,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Bizkaia,,,Puntos porcentuales,Bizkaia,-5.2
+2015,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Bizkaia,,,Puntos porcentuales,Bizkaia,-20.3
+2022,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Bizkaia,,,Puntos porcentuales,Bizkaia,-17.1
 2012,Brecha de género en la ocupación,20-64 años,,,Bizkaia,,,Puntos porcentuales,Bizkaia,9.5
 2016,Brecha de género en la ocupación,20-64 años,,,Bizkaia,,,Puntos porcentuales,Bizkaia,5.6
-2011,Brecha de género en la ocupación,20-64 años,,PTE,Bizkaia,,,Puntos porcentuales,Bizkaia,-14.0
+2011,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Bizkaia,,,Puntos porcentuales,Bizkaia,-14.0
 2020,Brecha de género en la ocupación,20-64 años,,,Bizkaia,,,Puntos porcentuales,Bizkaia,5.8
 2011,Brecha de género en la ocupación,20-64 años,,,Bizkaia,,,Puntos porcentuales,Bizkaia,11.3
-2023,Brecha de género en la ocupación,20-64 años,,PTE,Bizkaia,,,Puntos porcentuales,Bizkaia,-17.7
-2017,Brecha de género en la ocupación,20-64 años,,LTD,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-4.1
+2023,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Bizkaia,,,Puntos porcentuales,Bizkaia,-17.7
+2017,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-4.1
 2020,Brecha de género en la ocupación,20-64 años,,,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,6.2
 2010,Brecha de género en la ocupación,20-64 años,,,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,9.1
-2021,Brecha de género en la ocupación,20-64 años,,LTD,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-9.0
+2021,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-9.0
 2017,Brecha de género en la ocupación,20-64 años,,,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,9.3
 2013,Brecha de género en la ocupación,20-64 años,,,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,6.7
-2020,Brecha de género en la ocupación,20-64 años,,PTE,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-20.5
-2018,Brecha de género en la ocupación,20-64 años,,PTE,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-20.8
+2020,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-20.5
+2018,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-20.8
 2011,Brecha de género en la ocupación,20-64 años,,,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,6.7
-2015,Brecha de género en la ocupación,20-64 años,,LTD,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-5.2
-2014,Brecha de género en la ocupación,20-64 años,,PTE,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-18.0
-2018,Brecha de género en la ocupación,20-64 años,,LTD,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-4.7
-2020,Brecha de género en la ocupación,20-64 años,,LTD,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-8.0
-2015,Brecha de género en la ocupación,20-64 años,,PTE,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-18.7
+2015,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-5.2
+2014,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-18.0
+2018,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-4.7
+2020,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-8.0
+2015,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-18.7
 2012,Brecha de género en la ocupación,20-64 años,,,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,6.1
-2016,Brecha de género en la ocupación,20-64 años,,PTE,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-20.3
-2022,Brecha de género en la ocupación,20-64 años,,LTD,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-8.7
-2019,Brecha de género en la ocupación,20-64 años,,PTE,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-21.3
+2016,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-20.3
+2022,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-8.7
+2019,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-21.3
 2015,Brecha de género en la ocupación,20-64 años,,,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,9.6
-2021,Brecha de género en la ocupación,20-64 años,,PTE,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-21.3
-2023,Brecha de género en la ocupación,20-64 años,,LTD,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-8.1
+2021,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-21.3
+2023,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-8.1
 2021,Brecha de género en la ocupación,20-64 años,,,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,8.3
 2023,Brecha de género en la ocupación,20-64 años,,,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,0.0
 2018,Brecha de género en la ocupación,20-64 años,,,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,8.4
-2012,Brecha de género en la ocupación,20-64 años,,LTD,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-6.0
+2012,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-6.0
 2022,Brecha de género en la ocupación,20-64 años,,,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,7.2
-2010,Brecha de género en la ocupación,20-64 años,,LTD,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-9.7
-2012,Brecha de género en la ocupación,20-64 años,,PTE,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-12.2
-2019,Brecha de género en la ocupación,20-64 años,,LTD,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-4.3
-2010,Brecha de género en la ocupación,20-64 años,,PTE,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-14.8
-2013,Brecha de género en la ocupación,20-64 años,,PTE,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-17.8
-2017,Brecha de género en la ocupación,20-64 años,,PTE,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-21.2
-2023,Brecha de género en la ocupación,20-64 años,,PTE,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-21.2
-2011,Brecha de género en la ocupación,20-64 años,,PTE,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-13.9
+2010,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-9.7
+2012,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-12.2
+2019,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-4.3
+2010,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-14.8
+2013,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-17.8
+2017,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-21.2
+2023,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-21.2
+2011,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-13.9
 2019,Brecha de género en la ocupación,20-64 años,,,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,6.1
-2013,Brecha de género en la ocupación,20-64 años,,LTD,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-7.6
-2016,Brecha de género en la ocupación,20-64 años,,LTD,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-5.2
+2013,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-7.6
+2016,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-5.2
 2016,Brecha de género en la ocupación,20-64 años,,,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,8.1
 2014,Brecha de género en la ocupación,20-64 años,,,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,7.7
-2014,Brecha de género en la ocupación,20-64 años,,LTD,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-6.0
-2011,Brecha de género en la ocupación,20-64 años,,LTD,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-7.3
-2022,Brecha de género en la ocupación,20-64 años,,PTE,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-19.5
+2014,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-6.0
+2011,Brecha de género en la ocupación,20-64 años,,Contrato temporal,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-7.3
+2022,Brecha de género en la ocupación,20-64 años,,Contrato a tiempo parcial,Gipuzkoa,,,Puntos porcentuales,Gipuzkoa,-19.5
