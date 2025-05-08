@@ -2510,8 +2510,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PD_AGR_LSFP",
                 "PD_AGR_SSFP",
+                "PD_AGR_LSFP",
                 ""
               ]
             }
@@ -5859,7 +5859,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_LIVE_BIRTHS",
+                "PER_100000",
                 ""
               ]
             }
@@ -6109,8 +6109,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_XPD_EARN10",
                 "SH_XPD_EARN25",
+                "SH_XPD_EARN10",
                 ""
               ]
             }
@@ -10695,8 +10695,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_DTH_NCOM",
                 "EU_SH_DTH_NCOM",
+                "SH_DTH_NCOM",
                 ""
               ]
             }
@@ -10706,11 +10706,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "DIABTS",
+                "CNCR",
                 "NCOM",
                 "CARDIO",
                 "CRESPD",
-                "CNCR",
-                "DIABTS",
                 ""
               ]
             }
@@ -10761,8 +10761,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
                 "PER_100000_POP",
+                "PT",
                 ""
               ]
             }
@@ -11871,8 +11871,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SI_AGR_LSFP",
                 "SI_AGR_SSFP",
+                "SI_AGR_LSFP",
                 ""
               ]
             }

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Productividad de los grandes productores de alimentos",
                 "Productividad de los pequeños productores de alimentos",
+                "Productividad de los grandes productores de alimentos",
                 ""
               ]
             },

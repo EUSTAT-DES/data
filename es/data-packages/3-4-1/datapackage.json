@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tasa de mortalidad prematura (entre 30 y 70 años)",
                 "Tasa de mortalidad",
+                "Tasa de mortalidad prematura (entre 30 y 70 años)",
                 ""
               ]
             },
@@ -32,11 +32,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Diabetes",
+                "Cáncer",
                 "Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",
                 "Enfermedades cardiovasculares",
                 "Enfermedades respiratorias crónicas",
-                "Cáncer",
-                "Diabetes",
                 ""
               ]
             },
@@ -92,8 +92,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
                 "Por 100.000 habitantes",
+                "Porcentaje",
                 ""
               ]
             },

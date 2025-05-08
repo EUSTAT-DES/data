@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_DTH_NCOM",
                 "EU_SH_DTH_NCOM",
+                "SH_DTH_NCOM",
                 ""
               ]
             }
@@ -30,11 +30,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "DIABTS",
+                "CNCR",
                 "NCOM",
                 "CARDIO",
                 "CRESPD",
-                "CNCR",
-                "DIABTS",
                 ""
               ]
             }
@@ -85,8 +85,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
                 "PER_100000_POP",
+                "PT",
                 ""
               ]
             }

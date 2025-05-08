@@ -2668,8 +2668,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Productividad de los grandes productores de alimentos",
                 "Productividad de los pequeños productores de alimentos",
+                "Productividad de los grandes productores de alimentos",
                 ""
               ]
             },
@@ -6204,7 +6204,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Por 100.000 nacidos vivos",
+                "Por 100.000",
                 ""
               ]
             },
@@ -6477,8 +6477,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Superiores al 10%",
                 "Superiores al 25%",
+                "Superiores al 10%",
                 ""
               ]
             },
@@ -11335,8 +11335,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tasa de mortalidad prematura (entre 30 y 70 años)",
                 "Tasa de mortalidad",
+                "Tasa de mortalidad prematura (entre 30 y 70 años)",
                 ""
               ]
             },
@@ -11347,11 +11347,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Diabetes",
+                "Cáncer",
                 "Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",
                 "Enfermedades cardiovasculares",
                 "Enfermedades respiratorias crónicas",
-                "Cáncer",
-                "Diabetes",
                 ""
               ]
             },
@@ -11407,8 +11407,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
                 "Por 100.000 habitantes",
+                "Porcentaje",
                 ""
               ]
             },
@@ -12570,8 +12570,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ingresos medios de los grandes productores de alimentos",
                 "Ingresos medios de los pequeños productores de alimentos",
+                "Ingresos medios de los grandes productores de alimentos",
                 ""
               ]
             },

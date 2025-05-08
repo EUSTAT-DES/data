@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_LIVE_BIRTHS",
+                "PER_100000",
                 ""
               ]
             }

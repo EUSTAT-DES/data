@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Superiores al 10%",
                 "Superiores al 25%",
+                "Superiores al 10%",
                 ""
               ]
             },

@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_XPD_EARN10",
                 "SH_XPD_EARN25",
+                "SH_XPD_EARN10",
                 ""
               ]
             }

@@ -33,7 +33,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Por 100.000 nacidos vivos",
+                "Por 100.000",
                 ""
               ]
             },

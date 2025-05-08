@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PD_AGR_LSFP",
                 "PD_AGR_SSFP",
+                "PD_AGR_LSFP",
                 ""
               ]
             },

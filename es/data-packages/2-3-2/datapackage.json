@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ingresos medios de los grandes productores de alimentos",
                 "Ingresos medios de los pequeños productores de alimentos",
+                "Ingresos medios de los grandes productores de alimentos",
                 ""
               ]
             },
