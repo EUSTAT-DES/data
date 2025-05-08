@@ -11323,8 +11323,8 @@
               "enum": [
                 "GEN_PARL",
                 "GEN_G",
-                "GEN_REGIOPARL",
                 "GEN_REGIOG",
+                "GEN_REGIOPARL",
                 "GEN_LOCG",
                 "GEN_LOCP",
                 ""
