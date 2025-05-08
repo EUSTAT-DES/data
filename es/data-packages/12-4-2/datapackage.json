@@ -34,8 +34,8 @@
               "enum": [
                 "Reciclaje",
                 "Incineración con recuperación de energía",
-                "Incineración sin recuperación de energía",
                 "Depósito en vertedero",
+                "Incineración sin recuperación de energía",
                 ""
               ]
             },

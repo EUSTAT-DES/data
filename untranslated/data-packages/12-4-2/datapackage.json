@@ -32,8 +32,8 @@
               "enum": [
                 "WT_RECYC",
                 "WT_INCINRT_EGY",
-                "WT_INCINRT",
                 "WT_LANDFIL",
+                "WT_INCINRT",
                 ""
               ]
             }

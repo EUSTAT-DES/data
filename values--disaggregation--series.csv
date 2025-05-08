@@ -39,8 +39,8 @@ EU_ECOLABEL,Número de licencias de Ecolabel (Etiqueta Ecológica Europea ),EU_E
 EU_EMAS,Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental (EMAS),EU_EMAS,EU_EMAS,4,1
 EU_EMP_LFS,Tasa de ocupación,EU_EMP_LFS,EU_EMP_LFS,837,1
 EU_EMP_LFS_GAP,Brecha de género en la ocupación,EU_EMP_LFS_GAP,EU_EMP_LFS_GAP,12,1
-EU_EXP_EMP,Gasto de las administraciones públicas autonómicas en fomento del empleo,EU_EXP_EMP,EU_EXP_EMP,1,1
-EU_EXP_EMPGDP,Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al gasto total,EU_EXP_EMPGDP,EU_EXP_EMPGDP,1,1
+EU_EXP_EMP,Gasto de las administraciones públicas autonómicas en fomento del empleo,EU_EXP_EMP,EU_EXP_EMP,12,1
+EU_EXP_EMPGDP,Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al gasto total,EU_EXP_EMPGDP,EU_EXP_EMPGDP,12,1
 EU_FPA_IPC,Índice de precio de los alimentos,EU_FPA_IPC,EU_FPA_IPC,2,1
 EU_FRN_FDI_EUR,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo,EU_FRN_FDI_EUR,EU_FRN_FDI_EUR,1,1
 EU_FRN_FDI_GDP,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB,EU_FRN_FDI_GDP,EU_FRN_FDI_GDP,1,1
@@ -52,11 +52,6 @@ EU_GOB_TAX,Proporción de los ingresos de las administraciones públicas autonó
 EU_GOB_TAX_NOFIN,Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuesto,EU_GOB_TAX_NOFIN,EU_GOB_TAX_NOFIN,1,1
 EU_GPI_TRN,Índice de paridad de género,EU_GPI_TRN,EU_GPI_TRN,4,1
 EU_HLY_Y0,Esperanza de vida en buena salud,EU_HLY_Y0,EU_HLY_Y0,8,1
-EU_INDQTHSNG_HUMID,Proporción de personas que vive en una vivienda con problemas de humedad,EU_INDQTHSNG_HUMID,EU_INDQTHSNG_HUMID,1,1
-EU_INDQTHSNG_LIGHT,"Proporción de personas que vive en una vivienda oscura, sin luz suficiente, o escasez de luz natural",EU_INDQTHSNG_LIGHT,EU_INDQTHSNG_LIGHT,1,1
-EU_INDQTHSNG_NOISE,Proporción de personas que vive en una vivienda con problemas de exposición a ruidos y contaminación,EU_INDQTHSNG_NOISE,EU_INDQTHSNG_NOISE,1,1
-EU_INDQTHSNG_OVERCROWD,Proporción de personas que vive en una vivienda con una superficie menor a 20 metros cuadrados por persona,EU_INDQTHSNG_OVERCROWD,EU_INDQTHSNG_OVERCROWD,1,1
-EU_INDQTHSNG_TOILET,Proporción de personas que vive en una vivienda sin retrete o bañera/ducha,EU_INDQTHSNG_TOILET,EU_INDQTHSNG_TOILET,1,1
 EU_LE_Y0,Esperanza de vida al nacer,EU_LE_Y0,EU_LE_Y0,12,1
 EU_LND_REM,Superficie de suelo recuperado para nuevos usos (acumulado),EU_LND_REM,EU_LND_REM,1,1
 EU_LND_REM_PT,Porcentaje de suelo recuperado para nuevos usos (acumulado),EU_LND_REM_PT,EU_LND_REM_PT,1,1
@@ -73,16 +68,17 @@ EU_SESPI,Índice de paridad en ingresos (quintiles superior e inferior),EU_SESPI
 EU_SH_DTH_NCOM,Tasa de mortalidad,EU_SH_DTH_NCOM,EU_SH_DTH_NCOM,60,1
 EU_W_GENPCAP,Residuos urbanos recogidos per cápita,EU_W_GENPCAP,EU_W_GENPCAP,4,1
 EU_WWT_COLECT,Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores,EU_WWT_COLECT,EU_WWT_COLECT,1,1
+EU_XPD_LOCALGBPC,EU_XPD_LOCALGBPC,EU_XPD_LOCALGBPC,EU_XPD_LOCALGBPC,1,1
 FP_CPI_TOTL_ZG,Tasa de variación interanual del índice de precios de consumo,FP_CPI_TOTL_ZG,FP_CPI_TOTL_ZG,4,1
 GB_POP_SCIERD,Número de investigadores (en equivalente a tiempo completo) por cada millón de habitantes,GB_POP_SCIERD,GB_POP_SCIERD,4,1
 GB_XPD_RSDV,Gastos en investigación y desarrollo en proporción al PIB,GB_XPD_RSDV,GB_XPD_RSDV,4,1
 GC_BAL_CASH_GD_ZS,Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB,GC_BAL_CASH_GD_ZS,GC_BAL_CASH_GD_ZS,1,1
+GF_XPD_GBPC,GF_XPD_GBPC,GF_XPD_GBPC,GF_XPD_GBPC,1,1
 IT_MOB_3GNTWK,"Proporción de hogares cubiertos con redes móviles 3,5G",IT_MOB_3GNTWK,IT_MOB_3GNTWK,4,1
 IT_MOB_4GNTWK,Proporción de hogares cubiertos con redes móviles 4G,IT_MOB_4GNTWK,IT_MOB_4GNTWK,4,1
 IT_MOB_5GNTWK,Proporción de hogares cubiertos con redes móviles 5G,IT_MOB_5GNTWK,IT_MOB_5GNTWK,4,1
 NV_IND_MANF,Valor añadido del sector manufacturo en proporción al PIB,NV_IND_MANF,NV_IND_MANF,4,1
 NV_IND_MANFPC,Valor añadido del sector manufacturo per cápita,NV_IND_MANFPC,NV_IND_MANFPC,4,1
-NV_IND_SSIS,Proporción del valor añadido total del sector manufacturero correspondiente a las pequeñas empresas,NV_IND_SSIS,NV_IND_SSIS,4,1
 NV_IND_TECH,Proporción del valor añadido por la industria de tecnología mediana y alta en el valor añadido total,NV_IND_TECH,NV_IND_TECH,1,1
 NY_GDP_MKTP_KD_ZG,Tasa de variación interanual del PIB,NY_GDP_MKTP_KD_ZG,NY_GDP_MKTP_KD_ZG,4,1
 PD_AGR_LSFP,Productividad de los grandes productores de alimentos,PD_AGR_LSFP,PD_AGR_LSFP,4,1
@@ -90,7 +86,7 @@ PD_AGR_SSFP,Productividad de los pequeños productores de alimentos,PD_AGR_SSFP,
 POSTFIS_DIS_INC,Índice de Gini del ingreso disponible equivalente (postfiscal),POSTFIS_DIS_INC,POSTFIS_DIS_INC,1,1
 SE_ADT_EDUCTRN,Tasa de participación en la enseñanza y formación académica y no académica en las últimas 4 semanas,SE_ADT_EDUCTRN,SE_ADT_EDUCTRN,36,1
 SE_TOT_CPLR,Tasa de finalización (educación secundaria inferior y educación secundaria superior),SE_TOT_CPLR,SE_TOT_CPLR,2,1
-SE_TRA_GRDL,"Proporción de docentes con las calificaciones mínimas requeridas, desglosada por nivel educativo",SE_TRA_GRDL,SE_TRA_GRDL,4,1
+SE_TRA_GRDL,"Proporción de docentes con las calificaciones mínimas requeridas, desglosada por nivel educativo",SE_TRA_GRDL,SE_TRA_GRDL,56,1
 SG_DMK_JDC,Proporción de mujeres en el poder judicial en relación con la proporción de mujeres en la población,SG_DMK_JDC,SG_DMK_JDC,1,1
 SG_DMK_PARLMP_LC,Proporción de mujeres en el parlamento en relación con la proporción de mujeres en la población,SG_DMK_PARLMP_LC,SG_DMK_PARLMP_LC,1,1
 SG_DMK_PSRVC,Proporción de mujeres en la administración pública en relación con la proporción de mujeres en la población,SG_DMK_PSRVC,SG_DMK_PSRVC,56,1

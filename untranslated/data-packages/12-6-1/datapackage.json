@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_ECOLABEL",
                 "EU_EMAS",
+                "EU_ECOLABEL",
                 ""
               ]
             }
@@ -42,8 +42,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LICENCES",
                 "ORGANISATIONS",
+                "LICENCES",
                 ""
               ]
             }

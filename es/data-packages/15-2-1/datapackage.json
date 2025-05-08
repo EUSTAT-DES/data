@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes",
                 "Superficie forestal con instrumentos de gestión sostenible vigentes",
+                "Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes",
                 ""
               ]
             },
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
                 "Hectáreas",
+                "Porcentaje",
                 ""
               ]
             },

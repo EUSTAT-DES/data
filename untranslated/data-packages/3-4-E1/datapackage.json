@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_CNCR_BCI",
                 "EU_CNCR_CCR",
+                "EU_CNCR_BCI",
                 ""
               ]
             }

@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Consumo doméstico de materiales en términos absolutos",
                 "Consumo doméstico de materiales per cápita",
                 "Consumo doméstico de materiales por PIB",
-                "Consumo doméstico de materiales en términos absolutos",
                 ""
               ]
             },
@@ -33,9 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Kilotoneladas",
                 "Toneladas per cápita",
                 "Kg por euro de PIB",
-                "Kilotoneladas",
                 ""
               ]
             },

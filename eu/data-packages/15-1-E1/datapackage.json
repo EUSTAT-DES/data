@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LC_GRS",
+                "LC_TRE",
                 "LC_WL",
+                "LC_GRS",
+                "LC_CRP",
                 "LC_ART",
                 "LC_OL",
-                "LC_TRE",
-                "LC_CRP",
                 ""
               ]
             },

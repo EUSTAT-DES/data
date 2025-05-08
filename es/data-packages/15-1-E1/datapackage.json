@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Pastizales",
+                "Bosques",
                 "Humedales",
+                "Pastizales",
+                "Tierras de cultivo",
                 "Asentamientos",
                 "Otras tierras",
-                "Bosques",
-                "Tierras de cultivo",
                 ""
               ]
             },

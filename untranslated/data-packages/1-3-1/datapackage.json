@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SI_COV_PENSN",
                 "SI_COV_UEMP",
+                "SI_COV_PENSN",
                 ""
               ]
             }

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Número de licencias de Ecolabel (Etiqueta Ecológica Europea )",
                 "Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental (EMAS)",
+                "Número de licencias de Ecolabel (Etiqueta Ecológica Europea )",
                 ""
               ]
             },
@@ -45,8 +45,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Licencias",
                 "Organizaciones",
+                "Licencias",
                 ""
               ]
             },

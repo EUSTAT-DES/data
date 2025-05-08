@@ -16,21 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción de personas que vive en una vivienda con problemas de humedad",
-                "Proporción de personas que vive en una vivienda sin retrete o bañera/ducha",
-                "Proporción de personas que vive en una vivienda con una superficie menor a 20 metros cuadrados por persona",
-                "Proporción de personas que vive en una vivienda con problemas de exposición a ruidos y contaminación",
-                "Proporción de personas que vive en una vivienda oscura, sin luz suficiente, o escasez de luz natural",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

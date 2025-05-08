@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TRT_FV",
                 "TRT_HYDROPOWER",
+                "TRT_FV",
                 "TRT_WIND",
                 "TRT_SOLARTHERMAL",
                 ""

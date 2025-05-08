@@ -105,8 +105,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SI_COV_PENSN",
                 "SI_COV_UEMP",
+                "SI_COV_PENSN",
                 ""
               ]
             },
@@ -1786,9 +1786,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EN_MAT_DOMCMPT",
                 "EN_MAT_DOMCMPC",
                 "EN_MAT_DOMCMPG",
-                "EN_MAT_DOMCMPT",
                 ""
               ]
             },
@@ -1799,9 +1799,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T_PER_CAPITA",
-                "KG_PER_GDP_1000_EUR",
                 "KT",
+                "T_PER_CAPITA",
+                "T_MILLON_EUR",
                 ""
               ]
             },
@@ -2310,8 +2310,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TRT_FV",
                 "TRT_HYDROPOWER",
+                "TRT_FV",
                 "TRT_WIND",
                 "TRT_SOLARTHERMAL",
                 ""
@@ -5453,9 +5453,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "IT_MOB_5GNTWK",
                 "IT_MOB_3GNTWK",
                 "IT_MOB_4GNTWK",
+                "IT_MOB_5GNTWK",
                 ""
               ]
             },
@@ -5775,8 +5775,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_CNCR_BCI",
                 "EU_CNCR_CCR",
+                "EU_CNCR_BCI",
                 ""
               ]
             },
@@ -6839,8 +6839,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AG_LND_FRSTMGT",
                 "AG_LND_FRSTMGT_HA",
+                "AG_LND_FRSTMGT",
                 ""
               ]
             },
@@ -6851,8 +6851,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
                 "HA",
+                "PT",
                 ""
               ]
             },
@@ -7544,6 +7544,53 @@
       "title": "Research and development expenditure as a proportion of GDP"
     },
     {
+      "path": "16-6-1/data.csv",
+      "name": "16-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GF_XPD_GBPC",
+                "EU_XPD_LOCALGBPC",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+    },
+    {
       "path": "17-1-1/data.csv",
       "name": "17-1-1",
       "profile": "tabular-data-resource",
@@ -8194,8 +8241,8 @@
               "enum": [
                 "WT_RECYC",
                 "WT_INCINRT_EGY",
-                "WT_INCINRT",
                 "WT_LANDFIL",
+                "WT_INCINRT",
                 ""
               ]
             },
@@ -8355,6 +8402,30 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "_NAME_",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2022",
+                "2012",
+                "2015",
+                "2018",
+                "2023",
+                "2013",
+                "2021",
+                "2011",
+                "2017",
+                "2020",
+                "2014",
+                "2019",
+                "2010",
+                "2016",
+                ""
+              ]
+            },
+            "title": "_NAME_"
           },
           {
             "name": "Value",
@@ -9798,21 +9869,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EU_INDQTHSNG_HUMID",
-                "EU_INDQTHSNG_TOILET",
-                "EU_INDQTHSNG_OVERCROWD",
-                "EU_INDQTHSNG_NOISE",
-                "EU_INDQTHSNG_LIGHT",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -10006,10 +10062,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BX_TRF_PWKR",
                 "NY_GDP_MKTP_KD_ZG",
                 "SL_TLF_UEM",
                 "FP_CPI_TOTL_ZG",
+                "BX_TRF_PWKR",
                 "DP_DOD_DLD2_CR_CG_Z1",
                 "GC_BAL_CASH_GD_ZS",
                 ""
@@ -10140,9 +10196,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EN_MAT_DOMCMPT",
                 "EN_MAT_DOMCMPC",
                 "EN_MAT_DOMCMPG",
-                "EN_MAT_DOMCMPT",
                 ""
               ]
             },
@@ -10153,9 +10209,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "KT",
                 "T_PER_CAPITA",
                 "KG_PER_GDP_1000_EUR",
-                "KT",
                 ""
               ]
             },
@@ -10653,8 +10709,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TRT_FV",
                 "TRT_HYDROPOWER",
+                "TRT_FV",
                 "TRT_WIND",
                 "TRT_SOLARTHERMAL",
                 ""
@@ -11081,9 +11137,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "SG_DMK_PARLMP_LC",
                 "SG_DMK_PSRVC",
                 "SG_DMK_JDC",
-                "SG_DMK_PARLMP_LC",
                 ""
               ]
             },
@@ -11095,18 +11151,18 @@
             "constraints": {
               "enum": [
                 "EU_DMK_PSRVC_AUT",
-                "EU_DMK_DF",
+                "EU_DMK_PSRVC_LOC",
+                "EU_DMK_PSRVC_NAC",
                 "EU_DMK_SAN_AUT",
                 "EU_DMK_EDU_AUT",
-                "EU_DMK_POL_AUT",
-                "EU_DMK_UNI",
-                "EU_DMK_JUST_AUT",
-                "EU_DMK_PSRVC_LOC",
+                "EU_DMK_DF",
                 "EU_DMK_MUN",
-                "EU_DMK_PSRVC_NAC",
-                "EU_DMK_FA",
-                "EU_DMK_FCSE",
+                "EU_DMK_UNI",
+                "EU_DMK_POL_AUT",
+                "EU_DMK_JUST_AUT",
                 "EU_DMK_JUST_NAC",
+                "EU_DMK_FCSE",
+                "EU_DMK_FA",
                 ""
               ]
             },
@@ -11117,8 +11173,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES213",
                 "ES211",
+                "ES213",
                 "ES212",
                 ""
               ]
@@ -11826,6 +11882,28 @@
             "title": "Units"
           },
           {
+            "name": "_NAME_",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                "2020",
+                "2016",
+                "2014",
+                "2012",
+                "2021",
+                "2018",
+                "2010",
+                "2013",
+                "2011",
+                "2019",
+                "2015",
+                ""
+              ]
+            },
+            "title": "_NAME_"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -12373,8 +12451,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_ECOLABEL",
                 "EU_EMAS",
+                "EU_ECOLABEL",
                 ""
               ]
             },
@@ -12398,8 +12476,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LICENCES",
                 "ORGANISATIONS",
+                "LICENCES",
                 ""
               ]
             },
@@ -12564,12 +12642,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LC_GRS",
+                "LC_TRE",
                 "LC_WL",
+                "LC_GRS",
+                "LC_CRP",
                 "LC_ART",
                 "LC_OL",
-                "LC_TRE",
-                "LC_CRP",
                 ""
               ]
             },
@@ -13264,17 +13342,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NV_IND_SSIS",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Territorio",
@@ -16136,30 +16203,6 @@
         ]
       },
       "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
-    },
-    {
-      "path": "16-6-1/data.csv",
-      "name": "16-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
     },
     {
       "path": "15-9-1/data.csv",

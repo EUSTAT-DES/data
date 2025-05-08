@@ -105,8 +105,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de la población que supera la edad legal de jubilación y recibe una pensión",
                 "Proporción de personas desempleadas que reciben prestaciones por desempleo",
+                "Proporción de la población que supera la edad legal de jubilación y recibe una pensión",
                 ""
               ]
             },
@@ -1786,9 +1786,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Consumo doméstico de materiales en términos absolutos",
                 "Consumo doméstico de materiales per cápita",
                 "Consumo doméstico de materiales por PIB",
-                "Consumo doméstico de materiales en términos absolutos",
                 ""
               ]
             },
@@ -1799,9 +1799,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Toneladas per cápita",
-                "Kg por euro de PIB",
                 "Kilotoneladas",
+                "Toneladas per cápita",
+                "T_MILLON_EUR",
                 ""
               ]
             },
@@ -2310,8 +2310,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fotovoltaica",
                 "Hidraúlica",
+                "Fotovoltaica",
                 "Eólica",
                 "Solar térmica",
                 ""
@@ -5453,9 +5453,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de hogares cubiertos con redes móviles 5G",
                 "Proporción de hogares cubiertos con redes móviles 3,5G",
                 "Proporción de hogares cubiertos con redes móviles 4G",
+                "Proporción de hogares cubiertos con redes móviles 5G",
                 ""
               ]
             },
@@ -5775,8 +5775,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Cáncer de mama",
                 "Cáncer colorrectal",
+                "Cáncer de mama",
                 ""
               ]
             },
@@ -6839,8 +6839,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes",
                 "Superficie forestal con instrumentos de gestión sostenible vigentes",
+                "Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes",
                 ""
               ]
             },
@@ -6851,8 +6851,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
                 "Hectáreas",
+                "Porcentaje",
                 ""
               ]
             },
@@ -7544,6 +7544,53 @@
       "title": "Research and development expenditure as a proportion of GDP"
     },
     {
+      "path": "16-6-1/data.csv",
+      "name": "16-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GF_XPD_GBPC",
+                "EU_XPD_LOCALGBPC",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+    },
+    {
       "path": "17-1-1/data.csv",
       "name": "17-1-1",
       "profile": "tabular-data-resource",
@@ -8194,8 +8241,8 @@
               "enum": [
                 "Reciclaje",
                 "Incineración con recuperación de energía",
-                "Incineración sin recuperación de energía",
                 "Depósito en vertedero",
+                "Incineración sin recuperación de energía",
                 ""
               ]
             },
@@ -8355,6 +8402,30 @@
               ]
             },
             "title": "Unidad"
+          },
+          {
+            "name": "_NAME_",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2022",
+                "2012",
+                "2015",
+                "2018",
+                "2023",
+                "2013",
+                "2021",
+                "2011",
+                "2017",
+                "2020",
+                "2014",
+                "2019",
+                "2010",
+                "2016",
+                ""
+              ]
+            },
+            "title": "_NAME_"
           },
           {
             "name": "Value",
@@ -9798,21 +9869,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción de personas que vive en una vivienda con problemas de humedad",
-                "Proporción de personas que vive en una vivienda sin retrete o bañera/ducha",
-                "Proporción de personas que vive en una vivienda con una superficie menor a 20 metros cuadrados por persona",
-                "Proporción de personas que vive en una vivienda con problemas de exposición a ruidos y contaminación",
-                "Proporción de personas que vive en una vivienda oscura, sin luz suficiente, o escasez de luz natural",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -10006,10 +10062,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Volumen de remesas enviadas al extranjero en proporción al PIB",
                 "Tasa de variación interanual del PIB",
                 "Tasa de desempleo",
                 "Tasa de variación interanual del índice de precios de consumo",
+                "Volumen de remesas enviadas al extranjero en proporción al PIB",
                 "Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB",
                 "Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB",
                 ""
@@ -10140,9 +10196,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Consumo doméstico de materiales en términos absolutos",
                 "Consumo doméstico de materiales per cápita",
                 "Consumo doméstico de materiales por PIB",
-                "Consumo doméstico de materiales en términos absolutos",
                 ""
               ]
             },
@@ -10153,9 +10209,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Kilotoneladas",
                 "Toneladas per cápita",
                 "Kg por euro de PIB",
-                "Kilotoneladas",
                 ""
               ]
             },
@@ -10653,8 +10709,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fotovoltaica",
                 "Hidraúlica",
+                "Fotovoltaica",
                 "Eólica",
                 "Solar térmica",
                 ""
@@ -11081,9 +11137,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proporción de mujeres en el parlamento en relación con la proporción de mujeres en la población",
                 "Proporción de mujeres en la administración pública en relación con la proporción de mujeres en la población",
                 "Proporción de mujeres en el poder judicial en relación con la proporción de mujeres en la población",
-                "Proporción de mujeres en el parlamento en relación con la proporción de mujeres en la población",
                 ""
               ]
             },
@@ -11095,18 +11151,18 @@
             "constraints": {
               "enum": [
                 "Sector público autonómico",
-                "Diputaciones forales",
+                "Sector público local",
+                "Sector público estatal",
                 "Instituciones sanitarias autonómicas",
                 "Centros educativos no universitarios autonómicos",
-                "Policía autonómica",
-                "Universidades",
-                "Administración de Justicia autonómica",
-                "Sector público local",
+                "Diputaciones forales",
                 "Ayuntamientos",
-                "Sector público estatal",
-                "Fuerzas armadas",
-                "Fuerzas y cuerpos de seguridad del Estado",
+                "Universidades",
+                "Policía autonómica",
+                "Administración de Justicia autonómica",
                 "Administración de Justicia del Estado",
+                "Fuerzas y cuerpos de seguridad del Estado",
+                "Fuerzas armadas",
                 ""
               ]
             },
@@ -11117,8 +11173,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bizkaia",
                 "Araba/Álava",
+                "Bizkaia",
                 "Gipuzkoa",
                 ""
               ]
@@ -11826,6 +11882,28 @@
             "title": "Unidad"
           },
           {
+            "name": "_NAME_",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                "2020",
+                "2016",
+                "2014",
+                "2012",
+                "2021",
+                "2018",
+                "2010",
+                "2013",
+                "2011",
+                "2019",
+                "2015",
+                ""
+              ]
+            },
+            "title": "_NAME_"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Valor"
@@ -12373,8 +12451,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Número de licencias de Ecolabel (Etiqueta Ecológica Europea )",
                 "Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental (EMAS)",
+                "Número de licencias de Ecolabel (Etiqueta Ecológica Europea )",
                 ""
               ]
             },
@@ -12398,8 +12476,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Licencias",
                 "Organizaciones",
+                "Licencias",
                 ""
               ]
             },
@@ -12564,12 +12642,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Pastizales",
+                "Bosques",
                 "Humedales",
+                "Pastizales",
+                "Tierras de cultivo",
                 "Asentamientos",
                 "Otras tierras",
-                "Bosques",
-                "Tierras de cultivo",
                 ""
               ]
             },
@@ -13264,17 +13342,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Año"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción del valor añadido total del sector manufacturero correspondiente a las pequeñas empresas",
-                ""
-              ]
-            },
-            "title": "Serie"
           },
           {
             "name": "Territorio",
@@ -16136,30 +16203,6 @@
         ]
       },
       "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
-    },
-    {
-      "path": "16-6-1/data.csv",
-      "name": "16-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
     },
     {
       "path": "15-9-1/data.csv",

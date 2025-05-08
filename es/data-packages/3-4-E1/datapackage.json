@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Cáncer de mama",
                 "Cáncer colorrectal",
+                "Cáncer de mama",
                 ""
               ]
             },

@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "IT_MOB_5GNTWK",
                 "IT_MOB_3GNTWK",
                 "IT_MOB_4GNTWK",
+                "IT_MOB_5GNTWK",
                 ""
               ]
             }

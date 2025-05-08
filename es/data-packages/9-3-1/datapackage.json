@@ -16,17 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción del valor añadido total del sector manufacturero correspondiente a las pequeñas empresas",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
