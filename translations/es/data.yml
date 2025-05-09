@@ -1,5 +1,4 @@
 # VARIABLES
-
 Year: "Año"
 Value: "Valor"
 
@@ -38,7 +37,6 @@ Tratamiento: "Operación de tratamiento de residuos"
 Units: "Unidad"
 Vacuna: "Tipo de vacuna"
 Velocidad: "Tecnología de acceso"
-
 
 # VALORES
 
@@ -464,12 +462,12 @@ EU_EMAS: "Número de organizaciones con Sistema comunitario de gestión y audito
 EU_EMP_LFS: "Tasa de ocupación"
 EU_EMP_LFS_GAP: "Brecha de género en la ocupación"
 EU_EXP_EMP: "Gasto de las administraciones públicas autonómicas en fomento del empleo"
-EU_EXP_EMPGDP: "Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al PIB"
+EU_EXP_EMPGDP: "Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al gasto total"
 EU_FPA_IPC: "Índice de precio de los alimentos"
 EU_FRN_FDI_EUR: "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo"
 EU_FRN_FDI_GDP: "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB"
 EU_GDP_ZS_GR: "Tasa de crecimiento del PIB generado por el turismo"
-EU_GENDERPAY_GAP: "Brecha de género en el salario medio por hora"
+EU_GENDERPAY_GAP: "Brecha salarial de genero"
 EU_GHG_TV1990: "Emisiones de gases de efecto invernadero respecto al año 1990"
 EU_GHG_TV2005: "Emisiones de gases de efecto invernadero respecto al año 2005"
 EU_GOB_TAX: "Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos "
@@ -627,4 +625,3 @@ NET_DSL: "DSL"
 NET_FTTH: "Fibra óptica (FTTH)"
 NET_HFC: "Híbrido de Fibra Coaxial (HFC)"
 NET_OTHER: "Otra tecnología"
-
