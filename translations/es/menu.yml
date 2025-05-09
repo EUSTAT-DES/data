@@ -11,14 +11,9 @@ seguimiento: Seguimiento
 metodologia: Metodología para la medición del progreso
 desagregaciones: Datos desagregados
 territorio: Territorio histórico
-territorioPath: /territorio/
 municipal: Municipio
-municipalPath: /municipal/
 sexo: Sexo
-sexoPath: /sexo/
 agenda2030: Agenda 2030
-agenda2030Path: /agenda2030/
-indicadores: Información disponible sobre los indicadores 
-indicadoresPath: /informacion-disponible-sobre-los-indicadores/
+indicadores: Información disponible sobre los indicadores
 acercaDe: Web plataformari buruz
-acercaDePath: /web-plataformari-buruz/
+masInfo: Más información
