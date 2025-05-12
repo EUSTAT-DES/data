@@ -20,20 +20,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tasa de participación en la enseñanza y formación académica y no académica en las últimas 4 semanas",
-                "Tasa de participación en actividades educativas en los últimos 12 meses",
+                "SE_ADT_EDUCTRN",
+                "AES_EDUCTRN",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -44,10 +44,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 años",
-                "15-64 años",
-                "25-64 años",
-                "18-64 años",
+                "Y15T24",
+                "Y15T64",
+                "Y25T64",
+                "Y18T64",
                 ""
               ]
             },
@@ -58,29 +58,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

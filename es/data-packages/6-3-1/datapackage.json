@@ -20,28 +20,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores",
-                "Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada",
+                "EU_WWT_COLECT",
+                "EN_WWT_WWDS",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

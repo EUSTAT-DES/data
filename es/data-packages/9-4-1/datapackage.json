@@ -20,28 +20,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Emisiones de CO2 por unidad de valor añadido",
-                "Emisiones de CO2 del sector manufacturero por unidad de valor añadido del sector manufacturero",
+                "EN_ATM_CO2GDP",
+                "EN_ATM_CO2MVA",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Kg de CO2 equivalente por euro de PIB",
+                "KG_CO2_PER_GDP_EUR",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

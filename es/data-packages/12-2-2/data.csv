@@ -1,34 +1,34 @@
 Year,Series,Units,Value
-2016,Consumo doméstico de materiales en términos absolutos,Kilotoneladas,21507.9
-2011,Consumo doméstico de materiales en términos absolutos,Kilotoneladas,23308.8
-2018,Consumo doméstico de materiales en términos absolutos,Kilotoneladas,28476.5
-2015,Consumo doméstico de materiales en términos absolutos,Kilotoneladas,23794.7
-2019,Consumo doméstico de materiales en términos absolutos,Kilotoneladas,27538.3
-2013,Consumo doméstico de materiales en términos absolutos,Kilotoneladas,18163.8
-2012,Consumo doméstico de materiales en términos absolutos,Kilotoneladas,21098.6
-2014,Consumo doméstico de materiales en términos absolutos,Kilotoneladas,19620.0
-2010,Consumo doméstico de materiales en términos absolutos,Kilotoneladas,30845.5
-2017,Consumo doméstico de materiales en términos absolutos,Kilotoneladas,26656.6
-2020,Consumo doméstico de materiales en términos absolutos,Kilotoneladas,22964.9
-2020,Consumo doméstico de materiales per cápita,Toneladas per cápita,10.5
-2016,Consumo doméstico de materiales per cápita,Toneladas per cápita,9.9
-2014,Consumo doméstico de materiales per cápita,Toneladas per cápita,9.0
-2013,Consumo doméstico de materiales per cápita,Toneladas per cápita,8.3
-2018,Consumo doméstico de materiales per cápita,Toneladas per cápita,13.0
-2011,Consumo doméstico de materiales per cápita,Toneladas per cápita,10.7
-2012,Consumo doméstico de materiales per cápita,Toneladas per cápita,9.7
-2017,Consumo doméstico de materiales per cápita,Toneladas per cápita,12.2
-2015,Consumo doméstico de materiales per cápita,Toneladas per cápita,11.0
-2019,Consumo doméstico de materiales per cápita,Toneladas per cápita,12.6
-2010,Consumo doméstico de materiales per cápita,Toneladas per cápita,14.2
-2010,Consumo doméstico de materiales por PIB,T_MILLON_EUR,456.3
-2012,Consumo doméstico de materiales por PIB,T_MILLON_EUR,317.3
-2011,Consumo doméstico de materiales por PIB,T_MILLON_EUR,343.6
-2013,Consumo doméstico de materiales por PIB,T_MILLON_EUR,277.8
-2014,Consumo doméstico de materiales por PIB,T_MILLON_EUR,295.3
-2015,Consumo doméstico de materiales por PIB,T_MILLON_EUR,347.4
-2016,Consumo doméstico de materiales por PIB,T_MILLON_EUR,304.0
-2017,Consumo doméstico de materiales por PIB,T_MILLON_EUR,366.8
-2018,Consumo doméstico de materiales por PIB,T_MILLON_EUR,379.7
-2019,Consumo doméstico de materiales por PIB,T_MILLON_EUR,359.0
-2020,Consumo doméstico de materiales por PIB,T_MILLON_EUR,332.6
+2016,EN_MAT_DOMCMPT,KT,21507.9
+2011,EN_MAT_DOMCMPT,KT,23308.8
+2018,EN_MAT_DOMCMPT,KT,28476.5
+2015,EN_MAT_DOMCMPT,KT,23794.7
+2019,EN_MAT_DOMCMPT,KT,27538.3
+2013,EN_MAT_DOMCMPT,KT,18163.8
+2012,EN_MAT_DOMCMPT,KT,21098.6
+2014,EN_MAT_DOMCMPT,KT,19620.0
+2010,EN_MAT_DOMCMPT,KT,30845.5
+2017,EN_MAT_DOMCMPT,KT,26656.6
+2020,EN_MAT_DOMCMPT,KT,22964.9
+2020,EN_MAT_DOMCMPC,T_PER_CAPITA,10.5
+2016,EN_MAT_DOMCMPC,T_PER_CAPITA,9.9
+2014,EN_MAT_DOMCMPC,T_PER_CAPITA,9.0
+2013,EN_MAT_DOMCMPC,T_PER_CAPITA,8.3
+2018,EN_MAT_DOMCMPC,T_PER_CAPITA,13.0
+2011,EN_MAT_DOMCMPC,T_PER_CAPITA,10.7
+2012,EN_MAT_DOMCMPC,T_PER_CAPITA,9.7
+2017,EN_MAT_DOMCMPC,T_PER_CAPITA,12.2
+2015,EN_MAT_DOMCMPC,T_PER_CAPITA,11.0
+2019,EN_MAT_DOMCMPC,T_PER_CAPITA,12.6
+2010,EN_MAT_DOMCMPC,T_PER_CAPITA,14.2
+2010,EN_MAT_DOMCMPG,T_MILLON_EUR,456.3
+2012,EN_MAT_DOMCMPG,T_MILLON_EUR,317.3
+2011,EN_MAT_DOMCMPG,T_MILLON_EUR,343.6
+2013,EN_MAT_DOMCMPG,T_MILLON_EUR,277.8
+2014,EN_MAT_DOMCMPG,T_MILLON_EUR,295.3
+2015,EN_MAT_DOMCMPG,T_MILLON_EUR,347.4
+2016,EN_MAT_DOMCMPG,T_MILLON_EUR,304.0
+2017,EN_MAT_DOMCMPG,T_MILLON_EUR,366.8
+2018,EN_MAT_DOMCMPG,T_MILLON_EUR,379.7
+2019,EN_MAT_DOMCMPG,T_MILLON_EUR,359.0
+2020,EN_MAT_DOMCMPG,T_MILLON_EUR,332.6

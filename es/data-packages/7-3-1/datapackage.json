@@ -20,16 +20,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Megajulios por USD constante de PPA (PIB)",
+                "MJ_PER_GDP_CON_PPP_USD",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

@@ -20,40 +20,40 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Número de investigadores (en equivalente a tiempo completo) por cada millón de habitantes",
+                "GB_POP_SCIERD",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Por millón de habitantes",
+                "PER_1000000_POP",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

@@ -20,16 +20,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Por 100.000",
+                "PER_100000",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

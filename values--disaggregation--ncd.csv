@@ -1,6 +1,6 @@
 Value,es,eu,en,Disaggregation combinations using this value,Number of indicators
-CARDIO,Enfermedades cardiovasculares,CARDIO,CARDIO,12,1
-CNCR,Cáncer,CNCR,CNCR,12,1
-CRESPD,Enfermedades respiratorias crónicas,CRESPD,CRESPD,12,1
-DIABTS,Diabetes,DIABTS,DIABTS,12,1
-NCOM,"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",NCOM,NCOM,15,1
+CARDIO,CARDIO,CARDIO,CARDIO,12,1
+CNCR,CNCR,CNCR,CNCR,12,1
+CRESPD,CRESPD,CRESPD,CRESPD,12,1
+DIABTS,DIABTS,DIABTS,DIABTS,12,1
+NCOM,NCOM,NCOM,NCOM,15,1

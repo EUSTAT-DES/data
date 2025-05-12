@@ -20,19 +20,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Incidencia de la tuberculosis por cada 100.000 habitantes",
+                "SH_TBS_INCD",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -43,16 +43,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Por 100.000",
+                "PER_100000",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

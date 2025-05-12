@@ -20,42 +20,42 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de hogares cubiertos con redes móviles 3,5G",
-                "Proporción de hogares cubiertos con redes móviles 4G",
-                "Proporción de hogares cubiertos con redes móviles 5G",
+                "IT_MOB_3GNTWK",
+                "IT_MOB_4GNTWK",
+                "IT_MOB_5GNTWK",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

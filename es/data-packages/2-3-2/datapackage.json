@@ -20,41 +20,41 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ingresos medios de los pequeños productores de alimentos",
-                "Ingresos medios de los grandes productores de alimentos",
+                "SI_AGR_SSFP",
+                "SI_AGR_LSFP",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Euros constantes",
+                "CON_EUR",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

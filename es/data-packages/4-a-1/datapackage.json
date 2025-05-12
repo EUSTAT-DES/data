@@ -20,31 +20,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Electricidad",
-                "Conexión a internet",
-                "Agua potable",
-                "Baños separados por sexo",
-                "Lavado de manos",
+                "SE_ACS_ELECT",
+                "SE_ACS_CMPTR",
+                "SE_ACS_H2O",
+                "SE_ACS_SANIT",
+                "SE_ACS_HNDWSH",
                 ""
               ]
             },
-            "title": "Servicios básicos"
+            "title": "ServBasico"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

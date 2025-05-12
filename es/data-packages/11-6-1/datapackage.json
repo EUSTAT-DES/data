@@ -20,56 +20,56 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Residuos urbanos recogidos per cápita",
-                "Proporción de residuos urbanos recogidos y administrados en instalaciones controladas",
-                "Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",
+                "EU_W_GENPCAP",
+                "EN_REF_WASCOL",
+                "EN_MWT_TREATV",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Tratamiento",
             "type": "string",
             "constraints": {
               "enum": [
-                "Reciclaje",
-                "Incineración con recuperación de energía",
-                "Depósito en vertedero",
+                "WT_RECYC",
+                "WT_INCINRT_EGY",
+                "WT_LANDFIL",
                 ""
               ]
             },
-            "title": "Operación de tratamiento de residuos"
+            "title": "Tratamiento"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Kg per cápita",
-                "Porcentaje",
+                "KG_PER_CAPITA",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

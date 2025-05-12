@@ -20,45 +20,45 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tasa de variación interanual del PIB",
-                "Tasa de desempleo",
-                "Tasa de variación interanual del índice de precios de consumo",
-                "Volumen de remesas enviadas al extranjero en proporción al PIB",
-                "Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB",
-                "Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB",
+                "NY_GDP_MKTP_KD_ZG",
+                "SL_TLF_UEM",
+                "FP_CPI_TOTL_ZG",
+                "BX_TRF_PWKR",
+                "DP_DOD_DLD2_CR_CG_Z1",
+                "GC_BAL_CASH_GD_ZS",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

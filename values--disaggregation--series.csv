@@ -1,125 +1,125 @@
 Value,es,eu,en,Disaggregation combinations using this value,Number of indicators
-AES_EDUCTRN,Tasa de participación en actividades educativas en los últimos 12 meses,AES_EDUCTRN,AES_EDUCTRN,3,1
-AG_FPA_CFPI,Indicador de anomalías en los precios de los alimentos,AG_FPA_CFPI,AG_FPA_CFPI,11,1
-AG_LND_FOVH,Proporción de superficie agrícola que ha alcanzado un nivel aceptable o deseable de valor de producción agrícola por hectárea,AG_LND_FOVH,AG_LND_FOVH,1,1
-AG_LND_FRST,Superficie forestal en proporción a la superficie total,AG_LND_FRST,AG_LND_FRST,275,1
-AG_LND_FRSTMGT,Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes,AG_LND_FRSTMGT,AG_LND_FRSTMGT,1,1
-AG_LND_FRSTMGT_HA,Superficie forestal con instrumentos de gestión sostenible vigentes,AG_LND_FRSTMGT_HA,AG_LND_FRSTMGT_HA,1,1
-AG_LND_NFI,Proporción de la superficie de tierras agrícolas que ha alcanzado un nivel aceptable o deseable de ingresos agrícolas netos,AG_LND_NFI,AG_LND_NFI,1,1
-AG_PRD_FIESMS,Prevalencia de la inseguridad alimentaria grave o muy grave,AG_PRD_FIESMS,AG_PRD_FIESMS,1,1
-AG_PRD_FIESS,Prevalencia de la inseguridad alimentaria muy grave,AG_PRD_FIESS,AG_PRD_FIESS,1,1
-BX_TRF_PWKR,Volumen de remesas enviadas al extranjero en proporción al PIB,BX_TRF_PWKR,BX_TRF_PWKR,2,2
-BX_TRF_PWKRV,Volumen de remesas enviadas al extranjero,BX_TRF_PWKRV,BX_TRF_PWKRV,1,1
-DP_DOD_DLD2_CR_CG_Z1,Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB,DP_DOD_DLD2_CR_CG_Z1,DP_DOD_DLD2_CR_CG_Z1,1,1
-EG_ACS_ELEC,Proporción de la población con acceso a la electricidad,EG_ACS_ELEC,EG_ACS_ELEC,1,1
-EG_EGY_CLEAN,Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios,EG_EGY_CLEAN,EG_EGY_CLEAN,1,1
-EN_ATM_CO2GDP,Emisiones de CO2 por unidad de valor añadido,EN_ATM_CO2GDP,EN_ATM_CO2GDP,1,1
-EN_ATM_CO2MVA,Emisiones de CO2 del sector manufacturero por unidad de valor añadido del sector manufacturero,EN_ATM_CO2MVA,EN_ATM_CO2MVA,1,1
-EN_ATM_GHGGDP,Emisiones totales de gases de efecto invernadero por unidad de PIB,EN_ATM_GHGGDP,EN_ATM_GHGGDP,1,1
-EN_ATM_GHGPC,Emisiones totales de gases de efecto invernadero per cápita,EN_ATM_GHGPC,EN_ATM_GHGPC,1,1
-EN_ATM_GHGT_AIP,Emisiones totales de gases de efecto invernadero por año,EN_ATM_GHGT_AIP,EN_ATM_GHGT_AIP,1,1
-EN_ATM_PM25,Niveles medios anuales de partículas finas en suspensión (PM2.5 y PM10) en las ciudades (ponderados según la población),EN_ATM_PM25,EN_ATM_PM25,2,1
-EN_H2O_GRAMBQ,Proporción de masas de agua subterráneas de buena calidad,EN_H2O_GRAMBQ,EN_H2O_GRAMBQ,1,1
-EN_H2O_OPAMBQ,Proporción de masas de agua superficiales de buena calidad,EN_H2O_OPAMBQ,EN_H2O_OPAMBQ,1,1
-EN_H2O_RVAMBQ,Proporción de masas de agua de río de buena calidad,EN_H2O_RVAMBQ,EN_H2O_RVAMBQ,1,1
-EN_HAZ_PCAP,Residuos peligrosos generados per cápita,EN_HAZ_PCAP,EN_HAZ_PCAP,4,1
-EN_HAZ_TREAT,"Proporción de residuos peligrosos tratados, desglosados por tipo de tratamiento",EN_HAZ_TREAT,EN_HAZ_TREAT,16,1
-EN_MAT_DOMCMPC,Consumo doméstico de materiales per cápita,EN_MAT_DOMCMPC,EN_MAT_DOMCMPC,2,2
-EN_MAT_DOMCMPG,Consumo doméstico de materiales por PIB,EN_MAT_DOMCMPG,EN_MAT_DOMCMPG,2,2
-EN_MAT_DOMCMPT,Consumo doméstico de materiales en términos absolutos,EN_MAT_DOMCMPT,EN_MAT_DOMCMPT,2,2
-EN_MWT_RCYR,Proporción de residuos urbanos reciclados,EN_MWT_RCYR,EN_MWT_RCYR,4,1
-EN_MWT_TREATV,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",EN_MWT_TREATV,EN_MWT_TREATV,12,1
-EN_REF_WASCOL,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,EN_REF_WASCOL,EN_REF_WASCOL,4,1
-EN_WWT_WWDS,Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada,EN_WWT_WWDS,EN_WWT_WWDS,1,1
-EU_BATH_PARTIC,Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión de aguas de baño,EU_BATH_PARTIC,EU_BATH_PARTIC,1,1
-EU_CNCR_BCI,Cáncer de mama,EU_CNCR_BCI,EU_CNCR_BCI,1,1
-EU_CNCR_CCR,Cáncer colorrectal,EU_CNCR_CCR,EU_CNCR_CCR,3,1
-EU_DSR_SILS_TH,Proporción de municipios cubiertos por un plan de emergencias territorial,EU_DSR_SILS_TH,EU_DSR_SILS_TH,828,3
-EU_ECOLABEL,Número de licencias de Ecolabel (Etiqueta Ecológica Europea ),EU_ECOLABEL,EU_ECOLABEL,4,1
-EU_EMAS,Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental (EMAS),EU_EMAS,EU_EMAS,4,1
-EU_EMP_LFS,Tasa de ocupación,EU_EMP_LFS,EU_EMP_LFS,837,1
-EU_EMP_LFS_GAP,Brecha de género en la ocupación,EU_EMP_LFS_GAP,EU_EMP_LFS_GAP,12,1
-EU_EXP_EMP,Gasto de las administraciones públicas autonómicas en fomento del empleo,EU_EXP_EMP,EU_EXP_EMP,12,1
-EU_EXP_EMPGDP,Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al gasto total,EU_EXP_EMPGDP,EU_EXP_EMPGDP,12,1
-EU_FPA_IPC,Índice de precio de los alimentos,EU_FPA_IPC,EU_FPA_IPC,2,1
-EU_FRN_FDI_EUR,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo,EU_FRN_FDI_EUR,EU_FRN_FDI_EUR,1,1
-EU_FRN_FDI_GDP,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB,EU_FRN_FDI_GDP,EU_FRN_FDI_GDP,1,1
-EU_GDP_ZS_GR,Tasa de crecimiento del PIB generado por el turismo,EU_GDP_ZS_GR,EU_GDP_ZS_GR,4,1
-EU_GENDERPAY_GAP,Brecha salarial de genero,EU_GENDERPAY_GAP,EU_GENDERPAY_GAP,1,1
-EU_GHG_TV1990,Emisiones de gases de efecto invernadero respecto al año 1990,EU_GHG_TV1990,EU_GHG_TV1990,1,1
-EU_GHG_TV2005,Emisiones de gases de efecto invernadero respecto al año 2005,EU_GHG_TV2005,EU_GHG_TV2005,1,1
-EU_GOB_TAX,Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos ,EU_GOB_TAX,EU_GOB_TAX,1,1
-EU_GOB_TAX_NOFIN,Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuesto,EU_GOB_TAX_NOFIN,EU_GOB_TAX_NOFIN,1,1
-EU_GPI_TRN,Índice de paridad de género,EU_GPI_TRN,EU_GPI_TRN,4,1
-EU_HLY_Y0,Esperanza de vida en buena salud,EU_HLY_Y0,EU_HLY_Y0,8,1
-EU_LE_Y0,Esperanza de vida al nacer,EU_LE_Y0,EU_LE_Y0,12,1
-EU_LND_REM,Superficie de suelo recuperado para nuevos usos (acumulado),EU_LND_REM,EU_LND_REM,1,1
-EU_LND_REM_PT,Porcentaje de suelo recuperado para nuevos usos (acumulado),EU_LND_REM_PT,EU_LND_REM_PT,1,1
-EU_ODA_EUR,Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales,EU_ODA_EUR,EU_ODA_EUR,1,1
-EU_ODA_GDP,Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales en proporción al PIB,EU_ODA_GDP,EU_ODA_GDP,1,1
-EU_PI_HEALTH,Índice de paridad en salud,EU_PI_HEALTH,EU_PI_HEALTH,3,1
-EU_RUPI_TRN,Índice de paridad en localización (municipios de más y menos de 10.000 habitantes),EU_RUPI_TRN,EU_RUPI_TRN,4,1
-EU_SAN_PARTIC,Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión de aguas de consumo,EU_SAN_PARTIC,EU_SAN_PARTIC,1,1
-EU_SDG_02_60_KG_PER_HA,Emisiones de amoníaco de la agricultura y ganadería por hectárea,EU_SDG_02_60_KG_PER_HA,EU_SDG_02_60_KG_PER_HA,3,1
-EU_SDG_02_60_KT,Emisiones de amoníaco de la agricultura y ganadería,EU_SDG_02_60_KT,EU_SDG_02_60_KT,3,1
-EU_SDG_15_20_KM2,Superficie de las áreas terrestres protegidas (Km2),EU_SDG_15_20_KM2,EU_SDG_15_20_KM2,7,1
-EU_SDG_15_20_PT,Proporción de la superficie terrestre protegida respecto a la superficie terrestre,EU_SDG_15_20_PT,EU_SDG_15_20_PT,7,1
-EU_SESPI,Índice de paridad en ingresos (quintiles superior e inferior),EU_SESPI,EU_SESPI,3,1
-EU_SH_DTH_NCOM,Tasa de mortalidad,EU_SH_DTH_NCOM,EU_SH_DTH_NCOM,60,1
-EU_W_GENPCAP,Residuos urbanos recogidos per cápita,EU_W_GENPCAP,EU_W_GENPCAP,4,1
-EU_WWT_COLECT,Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores,EU_WWT_COLECT,EU_WWT_COLECT,1,1
+AES_EDUCTRN,AES_EDUCTRN,AES_EDUCTRN,AES_EDUCTRN,3,1
+AG_FPA_CFPI,AG_FPA_CFPI,AG_FPA_CFPI,AG_FPA_CFPI,11,1
+AG_LND_FOVH,AG_LND_FOVH,AG_LND_FOVH,AG_LND_FOVH,1,1
+AG_LND_FRST,AG_LND_FRST,AG_LND_FRST,AG_LND_FRST,275,1
+AG_LND_FRSTMGT,AG_LND_FRSTMGT,AG_LND_FRSTMGT,AG_LND_FRSTMGT,1,1
+AG_LND_FRSTMGT_HA,AG_LND_FRSTMGT_HA,AG_LND_FRSTMGT_HA,AG_LND_FRSTMGT_HA,1,1
+AG_LND_NFI,AG_LND_NFI,AG_LND_NFI,AG_LND_NFI,1,1
+AG_PRD_FIESMS,AG_PRD_FIESMS,AG_PRD_FIESMS,AG_PRD_FIESMS,1,1
+AG_PRD_FIESS,AG_PRD_FIESS,AG_PRD_FIESS,AG_PRD_FIESS,1,1
+BX_TRF_PWKR,BX_TRF_PWKR,BX_TRF_PWKR,BX_TRF_PWKR,2,2
+BX_TRF_PWKRV,BX_TRF_PWKRV,BX_TRF_PWKRV,BX_TRF_PWKRV,1,1
+DP_DOD_DLD2_CR_CG_Z1,DP_DOD_DLD2_CR_CG_Z1,DP_DOD_DLD2_CR_CG_Z1,DP_DOD_DLD2_CR_CG_Z1,1,1
+EG_ACS_ELEC,EG_ACS_ELEC,EG_ACS_ELEC,EG_ACS_ELEC,1,1
+EG_EGY_CLEAN,EG_EGY_CLEAN,EG_EGY_CLEAN,EG_EGY_CLEAN,1,1
+EN_ATM_CO2GDP,EN_ATM_CO2GDP,EN_ATM_CO2GDP,EN_ATM_CO2GDP,1,1
+EN_ATM_CO2MVA,EN_ATM_CO2MVA,EN_ATM_CO2MVA,EN_ATM_CO2MVA,1,1
+EN_ATM_GHGGDP,EN_ATM_GHGGDP,EN_ATM_GHGGDP,EN_ATM_GHGGDP,1,1
+EN_ATM_GHGPC,EN_ATM_GHGPC,EN_ATM_GHGPC,EN_ATM_GHGPC,1,1
+EN_ATM_GHGT_AIP,EN_ATM_GHGT_AIP,EN_ATM_GHGT_AIP,EN_ATM_GHGT_AIP,1,1
+EN_ATM_PM25,EN_ATM_PM25,EN_ATM_PM25,EN_ATM_PM25,2,1
+EN_H2O_GRAMBQ,EN_H2O_GRAMBQ,EN_H2O_GRAMBQ,EN_H2O_GRAMBQ,1,1
+EN_H2O_OPAMBQ,EN_H2O_OPAMBQ,EN_H2O_OPAMBQ,EN_H2O_OPAMBQ,1,1
+EN_H2O_RVAMBQ,EN_H2O_RVAMBQ,EN_H2O_RVAMBQ,EN_H2O_RVAMBQ,1,1
+EN_HAZ_PCAP,EN_HAZ_PCAP,EN_HAZ_PCAP,EN_HAZ_PCAP,4,1
+EN_HAZ_TREAT,EN_HAZ_TREAT,EN_HAZ_TREAT,EN_HAZ_TREAT,16,1
+EN_MAT_DOMCMPC,EN_MAT_DOMCMPC,EN_MAT_DOMCMPC,EN_MAT_DOMCMPC,2,2
+EN_MAT_DOMCMPG,EN_MAT_DOMCMPG,EN_MAT_DOMCMPG,EN_MAT_DOMCMPG,2,2
+EN_MAT_DOMCMPT,EN_MAT_DOMCMPT,EN_MAT_DOMCMPT,EN_MAT_DOMCMPT,2,2
+EN_MWT_RCYR,EN_MWT_RCYR,EN_MWT_RCYR,EN_MWT_RCYR,4,1
+EN_MWT_TREATV,EN_MWT_TREATV,EN_MWT_TREATV,EN_MWT_TREATV,12,1
+EN_REF_WASCOL,EN_REF_WASCOL,EN_REF_WASCOL,EN_REF_WASCOL,4,1
+EN_WWT_WWDS,EN_WWT_WWDS,EN_WWT_WWDS,EN_WWT_WWDS,1,1
+EU_BATH_PARTIC,EU_BATH_PARTIC,EU_BATH_PARTIC,EU_BATH_PARTIC,1,1
+EU_CNCR_BCI,EU_CNCR_BCI,EU_CNCR_BCI,EU_CNCR_BCI,1,1
+EU_CNCR_CCR,EU_CNCR_CCR,EU_CNCR_CCR,EU_CNCR_CCR,3,1
+EU_DSR_SILS_TH,EU_DSR_SILS_TH,EU_DSR_SILS_TH,EU_DSR_SILS_TH,828,3
+EU_ECOLABEL,EU_ECOLABEL,EU_ECOLABEL,EU_ECOLABEL,4,1
+EU_EMAS,EU_EMAS,EU_EMAS,EU_EMAS,4,1
+EU_EMP_LFS,EU_EMP_LFS,EU_EMP_LFS,EU_EMP_LFS,837,1
+EU_EMP_LFS_GAP,EU_EMP_LFS_GAP,EU_EMP_LFS_GAP,EU_EMP_LFS_GAP,12,1
+EU_EXP_EMP,EU_EXP_EMP,EU_EXP_EMP,EU_EXP_EMP,1,1
+EU_EXP_EMPGDP,EU_EXP_EMPGDP,EU_EXP_EMPGDP,EU_EXP_EMPGDP,1,1
+EU_FPA_IPC,EU_FPA_IPC,EU_FPA_IPC,EU_FPA_IPC,2,1
+EU_FRN_FDI_EUR,EU_FRN_FDI_EUR,EU_FRN_FDI_EUR,EU_FRN_FDI_EUR,1,1
+EU_FRN_FDI_GDP,EU_FRN_FDI_GDP,EU_FRN_FDI_GDP,EU_FRN_FDI_GDP,1,1
+EU_GDP_ZS_GR,EU_GDP_ZS_GR,EU_GDP_ZS_GR,EU_GDP_ZS_GR,4,1
+EU_GENDERPAY_GAP,EU_GENDERPAY_GAP,EU_GENDERPAY_GAP,EU_GENDERPAY_GAP,1,1
+EU_GHG_TV1990,EU_GHG_TV1990,EU_GHG_TV1990,EU_GHG_TV1990,1,1
+EU_GHG_TV2005,EU_GHG_TV2005,EU_GHG_TV2005,EU_GHG_TV2005,1,1
+EU_GOB_TAX,EU_GOB_TAX,EU_GOB_TAX,EU_GOB_TAX,1,1
+EU_GOB_TAX_NOFIN,EU_GOB_TAX_NOFIN,EU_GOB_TAX_NOFIN,EU_GOB_TAX_NOFIN,1,1
+EU_GPI_TRN,EU_GPI_TRN,EU_GPI_TRN,EU_GPI_TRN,4,1
+EU_HLY_Y0,EU_HLY_Y0,EU_HLY_Y0,EU_HLY_Y0,8,1
+EU_LE_Y0,EU_LE_Y0,EU_LE_Y0,EU_LE_Y0,12,1
+EU_LND_REM,EU_LND_REM,EU_LND_REM,EU_LND_REM,1,1
+EU_LND_REM_PT,EU_LND_REM_PT,EU_LND_REM_PT,EU_LND_REM_PT,1,1
+EU_ODA_EUR,EU_ODA_EUR,EU_ODA_EUR,EU_ODA_EUR,1,1
+EU_ODA_GDP,EU_ODA_GDP,EU_ODA_GDP,EU_ODA_GDP,1,1
+EU_PI_HEALTH,EU_PI_HEALTH,EU_PI_HEALTH,EU_PI_HEALTH,3,1
+EU_RUPI_TRN,EU_RUPI_TRN,EU_RUPI_TRN,EU_RUPI_TRN,4,1
+EU_SAN_PARTIC,EU_SAN_PARTIC,EU_SAN_PARTIC,EU_SAN_PARTIC,1,1
+EU_SDG_02_60_KG_PER_HA,EU_SDG_02_60_KG_PER_HA,EU_SDG_02_60_KG_PER_HA,EU_SDG_02_60_KG_PER_HA,3,1
+EU_SDG_02_60_KT,EU_SDG_02_60_KT,EU_SDG_02_60_KT,EU_SDG_02_60_KT,3,1
+EU_SDG_15_20_KM2,EU_SDG_15_20_KM2,EU_SDG_15_20_KM2,EU_SDG_15_20_KM2,7,1
+EU_SDG_15_20_PT,EU_SDG_15_20_PT,EU_SDG_15_20_PT,EU_SDG_15_20_PT,7,1
+EU_SESPI,EU_SESPI,EU_SESPI,EU_SESPI,3,1
+EU_SH_DTH_NCOM,EU_SH_DTH_NCOM,EU_SH_DTH_NCOM,EU_SH_DTH_NCOM,60,1
+EU_W_GENPCAP,EU_W_GENPCAP,EU_W_GENPCAP,EU_W_GENPCAP,4,1
+EU_WWT_COLECT,EU_WWT_COLECT,EU_WWT_COLECT,EU_WWT_COLECT,1,1
 EU_XPD_LOCALGBPC,EU_XPD_LOCALGBPC,EU_XPD_LOCALGBPC,EU_XPD_LOCALGBPC,1,1
-FP_CPI_TOTL_ZG,Tasa de variación interanual del índice de precios de consumo,FP_CPI_TOTL_ZG,FP_CPI_TOTL_ZG,4,1
-GB_POP_SCIERD,Número de investigadores (en equivalente a tiempo completo) por cada millón de habitantes,GB_POP_SCIERD,GB_POP_SCIERD,4,1
-GB_XPD_RSDV,Gastos en investigación y desarrollo en proporción al PIB,GB_XPD_RSDV,GB_XPD_RSDV,4,1
-GC_BAL_CASH_GD_ZS,Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB,GC_BAL_CASH_GD_ZS,GC_BAL_CASH_GD_ZS,1,1
+FP_CPI_TOTL_ZG,FP_CPI_TOTL_ZG,FP_CPI_TOTL_ZG,FP_CPI_TOTL_ZG,4,1
+GB_POP_SCIERD,GB_POP_SCIERD,GB_POP_SCIERD,GB_POP_SCIERD,4,1
+GB_XPD_RSDV,GB_XPD_RSDV,GB_XPD_RSDV,GB_XPD_RSDV,4,1
+GC_BAL_CASH_GD_ZS,GC_BAL_CASH_GD_ZS,GC_BAL_CASH_GD_ZS,GC_BAL_CASH_GD_ZS,1,1
 GF_XPD_GBPC,GF_XPD_GBPC,GF_XPD_GBPC,GF_XPD_GBPC,1,1
-IT_MOB_3GNTWK,"Proporción de hogares cubiertos con redes móviles 3,5G",IT_MOB_3GNTWK,IT_MOB_3GNTWK,4,1
-IT_MOB_4GNTWK,Proporción de hogares cubiertos con redes móviles 4G,IT_MOB_4GNTWK,IT_MOB_4GNTWK,4,1
-IT_MOB_5GNTWK,Proporción de hogares cubiertos con redes móviles 5G,IT_MOB_5GNTWK,IT_MOB_5GNTWK,4,1
-NV_IND_MANF,Valor añadido del sector manufacturo en proporción al PIB,NV_IND_MANF,NV_IND_MANF,4,1
-NV_IND_MANFPC,Valor añadido del sector manufacturo per cápita,NV_IND_MANFPC,NV_IND_MANFPC,4,1
-NV_IND_TECH,Proporción del valor añadido por la industria de tecnología mediana y alta en el valor añadido total,NV_IND_TECH,NV_IND_TECH,1,1
-NY_GDP_MKTP_KD_ZG,Tasa de variación interanual del PIB,NY_GDP_MKTP_KD_ZG,NY_GDP_MKTP_KD_ZG,4,1
-PD_AGR_LSFP,Productividad de los grandes productores de alimentos,PD_AGR_LSFP,PD_AGR_LSFP,4,1
-PD_AGR_SSFP,Productividad de los pequeños productores de alimentos,PD_AGR_SSFP,PD_AGR_SSFP,4,1
-POSTFIS_DIS_INC,Índice de Gini del ingreso disponible equivalente (postfiscal),POSTFIS_DIS_INC,POSTFIS_DIS_INC,1,1
-SE_ADT_EDUCTRN,Tasa de participación en la enseñanza y formación académica y no académica en las últimas 4 semanas,SE_ADT_EDUCTRN,SE_ADT_EDUCTRN,36,1
-SE_TOT_CPLR,Tasa de finalización (educación secundaria inferior y educación secundaria superior),SE_TOT_CPLR,SE_TOT_CPLR,2,1
-SE_TRA_GRDL,"Proporción de docentes con las calificaciones mínimas requeridas, desglosada por nivel educativo",SE_TRA_GRDL,SE_TRA_GRDL,56,1
-SG_DMK_JDC,Proporción de mujeres en el poder judicial en relación con la proporción de mujeres en la población,SG_DMK_JDC,SG_DMK_JDC,1,1
-SG_DMK_PARLMP_LC,Proporción de mujeres en el parlamento en relación con la proporción de mujeres en la población,SG_DMK_PARLMP_LC,SG_DMK_PARLMP_LC,1,1
-SG_DMK_PSRVC,Proporción de mujeres en la administración pública en relación con la proporción de mujeres en la población,SG_DMK_PSRVC,SG_DMK_PSRVC,56,1
-SG_DSR_SILS,Proporción de municipios que disponen de un plan municipal de emergencias,SG_DSR_SILS,SG_DSR_SILS,828,3
-SG_LGL_GENEQEMP,Area 3: empleo y subsidios económicos,SG_LGL_GENEQEMP,SG_LGL_GENEQEMP,1,1
-SG_LGL_GENEQLFP,Area 1: marco legal global y vida pública,SG_LGL_GENEQLFP,SG_LGL_GENEQLFP,1,1
-SG_LGL_GENEQMAR,Area 4: matrimonio y familia,SG_LGL_GENEQMAR,SG_LGL_GENEQMAR,1,1
-SG_LGL_GENEQVAW,Area 2: violencia contra la mujer,SG_LGL_GENEQVAW,SG_LGL_GENEQVAW,1,1
-SG_REG_BRTH100N,Se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones,SG_REG_BRTH100N,SG_REG_BRTH100N,1,1
-SG_REG_CENSUSN,Se ha realizado al menos un censo de población y vivienda en los últimos diez años,SG_REG_CENSUSN,SG_REG_CENSUSN,1,1
-SH_ALC_CONSPT,Consumo de alcohol per cápita (a partir de los 15 años de edad) durante un año civil ,SH_ALC_CONSPT,SH_ALC_CONSPT,1,1
-SH_DTH_NCOM,Tasa de mortalidad prematura (entre 30 y 70 años),SH_DTH_NCOM,SH_DTH_NCOM,3,1
-SH_H2O_SAFE,Población que utiliza servicios de suministro de agua potable gestionados sin riesgos,SH_H2O_SAFE,SH_H2O_SAFE,1,1
-SH_HIV_INCD,Número de nuevas infecciones por el VIH por cada 1.000 habitantes ,SH_HIV_INCD,SH_HIV_INCD,3,1
-SH_MED_DEN,Densidad y distribución del personal sanitario,SH_MED_DEN,SH_MED_DEN,48,1
-SH_STA_MALR,Incidencia de la malaria por cada 1.000 habitantes,SH_STA_MALR,SH_STA_MALR,3,1
-SH_STA_POISN,Tasa de mortalidad atribuida a intoxicaciones involuntarias,SH_STA_POISN,SH_STA_POISN,12,1
-SH_STA_SCIDE,Tasa de mortalidad por suicidio,SH_STA_SCIDE,SH_STA_SCIDE,12,1
-SH_STA_TRAF,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,SH_STA_TRAF,SH_STA_TRAF,12,1
-SH_TBS_INCD,Incidencia de la tuberculosis por cada 100.000 habitantes,SH_TBS_INCD,SH_TBS_INCD,3,1
-SI_AGR_LSFP,Ingresos medios de los grandes productores de alimentos,SI_AGR_LSFP,SI_AGR_LSFP,4,1
-SI_AGR_SSFP,Ingresos medios de los pequeños productores de alimentos,SI_AGR_SSFP,SI_AGR_SSFP,4,1
-SI_COV_PENSN,Proporción de la población que supera la edad legal de jubilación y recibe una pensión,SI_COV_PENSN,SI_COV_PENSN,12,1
-SI_COV_UEMP,Proporción de personas desempleadas que reciben prestaciones por desempleo,SI_COV_UEMP,SI_COV_UEMP,12,1
-SL_EMP_EARN,Ingreso medio por hora ,SL_EMP_EARN,SL_EMP_EARN,5,1
-SL_EMP_GTOTL,Proporción del PIB generada por el trabajo,SL_EMP_GTOTL,SL_EMP_GTOTL,4,1
-SL_TLF_NEET_19ICLS,"Proporción de jóvenes  que no cursan estudios, no están empleados ni reciben capacitación",SL_TLF_NEET_19ICLS,SL_TLF_NEET_19ICLS,12,1
-SL_TLF_UEM,Tasa de desempleo,SL_TLF_UEM,SL_TLF_UEM,4,1
-SP_ACS_BSRVH2O,Proporción de viviendas con agua corriente,SP_ACS_BSRVH2O,SP_ACS_BSRVH2O,550,2
-SP_ACS_BSRVSAN,Proporción de viviendas con baño,SP_ACS_BSRVSAN,SP_ACS_BSRVSAN,550,2
-SP_DYN_ADKL,Tasa de fecundidad de las adolescentes (entre 10 y 14 años y entre 15 y 19 años),SP_DYN_ADKL,SP_DYN_ADKL,2,1
-SP_GNP_WNOWNS,"Proporción de mujeres entre los propietarios o los titulares de derechos sobre tierras agrícolas, desglosada por tipo de tenencia",SP_GNP_WNOWNS,SP_GNP_WNOWNS,12,1
-SP_LGL_LNDAGSEC,Proporción del total de la población agrícola con derechos de propiedad o derechos seguros sobre tierras agrícolas,SP_LGL_LNDAGSEC,SP_LGL_LNDAGSEC,12,1
-ST_GDP_ZS,PIB generado por el turismo en proporción al PIB total,ST_GDP_ZS,ST_GDP_ZS,4,1
-UE_HEI_HE,Tasa de crecimiento del gasto familiar per cápita,UE_HEI_HE,UE_HEI_HE,8,1
-UE_HEI_HI,Tasa de crecimiento del ingreso familiar per cápita,UE_HEI_HI,UE_HEI_HI,2,1
+IT_MOB_3GNTWK,IT_MOB_3GNTWK,IT_MOB_3GNTWK,IT_MOB_3GNTWK,4,1
+IT_MOB_4GNTWK,IT_MOB_4GNTWK,IT_MOB_4GNTWK,IT_MOB_4GNTWK,4,1
+IT_MOB_5GNTWK,IT_MOB_5GNTWK,IT_MOB_5GNTWK,IT_MOB_5GNTWK,4,1
+NV_IND_MANF,NV_IND_MANF,NV_IND_MANF,NV_IND_MANF,4,1
+NV_IND_MANFPC,NV_IND_MANFPC,NV_IND_MANFPC,NV_IND_MANFPC,4,1
+NV_IND_TECH,NV_IND_TECH,NV_IND_TECH,NV_IND_TECH,1,1
+NY_GDP_MKTP_KD_ZG,NY_GDP_MKTP_KD_ZG,NY_GDP_MKTP_KD_ZG,NY_GDP_MKTP_KD_ZG,4,1
+PD_AGR_LSFP,PD_AGR_LSFP,PD_AGR_LSFP,PD_AGR_LSFP,4,1
+PD_AGR_SSFP,PD_AGR_SSFP,PD_AGR_SSFP,PD_AGR_SSFP,4,1
+POSTFIS_DIS_INC,POSTFIS_DIS_INC,POSTFIS_DIS_INC,POSTFIS_DIS_INC,1,1
+SE_ADT_EDUCTRN,SE_ADT_EDUCTRN,SE_ADT_EDUCTRN,SE_ADT_EDUCTRN,36,1
+SE_TOT_CPLR,SE_TOT_CPLR,SE_TOT_CPLR,SE_TOT_CPLR,2,1
+SE_TRA_GRDL,SE_TRA_GRDL,SE_TRA_GRDL,SE_TRA_GRDL,4,1
+SG_DMK_JDC,SG_DMK_JDC,SG_DMK_JDC,SG_DMK_JDC,1,1
+SG_DMK_PARLMP_LC,SG_DMK_PARLMP_LC,SG_DMK_PARLMP_LC,SG_DMK_PARLMP_LC,1,1
+SG_DMK_PSRVC,SG_DMK_PSRVC,SG_DMK_PSRVC,SG_DMK_PSRVC,56,1
+SG_DSR_SILS,SG_DSR_SILS,SG_DSR_SILS,SG_DSR_SILS,828,3
+SG_LGL_GENEQEMP,SG_LGL_GENEQEMP,SG_LGL_GENEQEMP,SG_LGL_GENEQEMP,1,1
+SG_LGL_GENEQLFP,SG_LGL_GENEQLFP,SG_LGL_GENEQLFP,SG_LGL_GENEQLFP,1,1
+SG_LGL_GENEQMAR,SG_LGL_GENEQMAR,SG_LGL_GENEQMAR,SG_LGL_GENEQMAR,1,1
+SG_LGL_GENEQVAW,SG_LGL_GENEQVAW,SG_LGL_GENEQVAW,SG_LGL_GENEQVAW,1,1
+SG_REG_BRTH100N,SG_REG_BRTH100N,SG_REG_BRTH100N,SG_REG_BRTH100N,1,1
+SG_REG_CENSUSN,SG_REG_CENSUSN,SG_REG_CENSUSN,SG_REG_CENSUSN,1,1
+SH_ALC_CONSPT,SH_ALC_CONSPT,SH_ALC_CONSPT,SH_ALC_CONSPT,1,1
+SH_DTH_NCOM,SH_DTH_NCOM,SH_DTH_NCOM,SH_DTH_NCOM,3,1
+SH_H2O_SAFE,SH_H2O_SAFE,SH_H2O_SAFE,SH_H2O_SAFE,1,1
+SH_HIV_INCD,SH_HIV_INCD,SH_HIV_INCD,SH_HIV_INCD,3,1
+SH_MED_DEN,SH_MED_DEN,SH_MED_DEN,SH_MED_DEN,48,1
+SH_STA_MALR,SH_STA_MALR,SH_STA_MALR,SH_STA_MALR,3,1
+SH_STA_POISN,SH_STA_POISN,SH_STA_POISN,SH_STA_POISN,12,1
+SH_STA_SCIDE,SH_STA_SCIDE,SH_STA_SCIDE,SH_STA_SCIDE,12,1
+SH_STA_TRAF,SH_STA_TRAF,SH_STA_TRAF,SH_STA_TRAF,12,1
+SH_TBS_INCD,SH_TBS_INCD,SH_TBS_INCD,SH_TBS_INCD,3,1
+SI_AGR_LSFP,SI_AGR_LSFP,SI_AGR_LSFP,SI_AGR_LSFP,4,1
+SI_AGR_SSFP,SI_AGR_SSFP,SI_AGR_SSFP,SI_AGR_SSFP,4,1
+SI_COV_PENSN,SI_COV_PENSN,SI_COV_PENSN,SI_COV_PENSN,12,1
+SI_COV_UEMP,SI_COV_UEMP,SI_COV_UEMP,SI_COV_UEMP,12,1
+SL_EMP_EARN,SL_EMP_EARN,SL_EMP_EARN,SL_EMP_EARN,5,1
+SL_EMP_GTOTL,SL_EMP_GTOTL,SL_EMP_GTOTL,SL_EMP_GTOTL,4,1
+SL_TLF_NEET_19ICLS,SL_TLF_NEET_19ICLS,SL_TLF_NEET_19ICLS,SL_TLF_NEET_19ICLS,12,1
+SL_TLF_UEM,SL_TLF_UEM,SL_TLF_UEM,SL_TLF_UEM,4,1
+SP_ACS_BSRVH2O,SP_ACS_BSRVH2O,SP_ACS_BSRVH2O,SP_ACS_BSRVH2O,550,2
+SP_ACS_BSRVSAN,SP_ACS_BSRVSAN,SP_ACS_BSRVSAN,SP_ACS_BSRVSAN,550,2
+SP_DYN_ADKL,SP_DYN_ADKL,SP_DYN_ADKL,SP_DYN_ADKL,2,1
+SP_GNP_WNOWNS,SP_GNP_WNOWNS,SP_GNP_WNOWNS,SP_GNP_WNOWNS,12,1
+SP_LGL_LNDAGSEC,SP_LGL_LNDAGSEC,SP_LGL_LNDAGSEC,SP_LGL_LNDAGSEC,12,1
+ST_GDP_ZS,ST_GDP_ZS,ST_GDP_ZS,ST_GDP_ZS,4,1
+UE_HEI_HE,UE_HEI_HE,UE_HEI_HE,UE_HEI_HE,8,1
+UE_HEI_HI,UE_HEI_HI,UE_HEI_HI,UE_HEI_HI,2,1

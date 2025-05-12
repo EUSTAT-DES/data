@@ -20,19 +20,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de jóvenes  que no cursan estudios, no están empleados ni reciben capacitación",
+                "SL_TLF_NEET_19ICLS",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -43,7 +43,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 años",
+                "Y15T24",
                 ""
               ]
             },
@@ -54,29 +54,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

@@ -20,29 +20,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Educación",
-                "Salud",
-                "Protección social",
+                "ESED",
+                "HLTH",
+                "PROT",
                 ""
               ]
             },
-            "title": "Servicios esenciales"
+            "title": "ServEsencial"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

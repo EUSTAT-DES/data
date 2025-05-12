@@ -20,21 +20,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Todas las sustancias adictivas",
-                "Alcohol",
-                "Drogas ilegales",
+                "DRUG_TOTAL",
+                "ALCOHOL",
+                "ILDRUGS",
                 ""
               ]
             },
-            "title": "Sustancia adictiva"
+            "title": "Adiccion"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -45,16 +45,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Por 100.000",
+                "PER_100000",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

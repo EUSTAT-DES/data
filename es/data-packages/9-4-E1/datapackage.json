@@ -20,28 +20,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PM 2,5",
-                "PM 10",
+                "PM25",
+                "PM10",
                 ""
               ]
             },
-            "title": "Partículas en suspensión"
+            "title": "PM"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gramo por euro de PIB",
+                "G_PER_GDP_EUR",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

@@ -20,28 +20,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prevalencia de la inseguridad alimentaria grave o muy grave",
-                "Prevalencia de la inseguridad alimentaria muy grave",
+                "AG_PRD_FIESMS",
+                "AG_PRD_FIESS",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

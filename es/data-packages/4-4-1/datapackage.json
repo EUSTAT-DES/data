@@ -20,26 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Alguna habilidad informática",
-                "Copiar o mover ficheros o carpetas",
-                "Crear presentaciones o documentos que integren texto, imágenes, tablas o gráficos",
-                "Usar hojas de cálculo",
-                "Programar en un lenguaje de programación",
-                "Transferir ficheros entre el ordenador y otros dispositivos (cámaras digitales, teléfonos móviles, mp3 o mp4)",
-                "Instalar software o aplicaciones(apps)",
-                "Cambiar la configuración de cualquier software, incluídos el sistema operativo y los programas de seguridad",
+                "ICT",
+                "ICTCPT",
+                "ICTPST",
+                "ICTSSHT",
+                "ICTPRGM",
+                "ICTTRFF",
+                "ICTSFWR",
+                "ICTPRVCY",
                 ""
               ]
             },
-            "title": "Habilidad informática"
+            "title": "Habilidad_IT"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -50,9 +50,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16-24 años",
-                "16-74 años",
-                "25-74 años",
+                "Y16T24",
+                "Y16T74",
+                "Y25T74",
                 ""
               ]
             },
@@ -63,29 +63,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

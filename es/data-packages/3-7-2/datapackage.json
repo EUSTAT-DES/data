@@ -20,19 +20,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tasa de fecundidad de las adolescentes (entre 10 y 14 años y entre 15 y 19 años)",
+                "SP_DYN_ADKL",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
-                "10-14 años",
-                "15-19 años",
+                "Y10T14",
+                "Y15T19",
                 ""
               ]
             },
@@ -43,16 +43,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Por 1.000 habitantes",
+                "PER_1000_POP",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

@@ -20,45 +20,45 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Electas en parlamento autonómico",
-                "Departamentos en el gobierno autonómico",
-                "Departamentos en gobiernos forales",
-                "Electas en Juntas Generales",
-                "Alcaldías",
-                "Concejalías",
+                "GEN_PARL",
+                "GEN_G",
+                "GEN_REGIOG",
+                "GEN_REGIOPARL",
+                "GEN_LOCG",
+                "GEN_LOCP",
                 ""
               ]
             },
-            "title": "Institución"
+            "title": "Institucion"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

@@ -20,16 +20,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lógica (1=Sí, 0=No)",
+                "BOOL_YES_NO",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

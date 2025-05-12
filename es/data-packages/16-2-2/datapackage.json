@@ -20,31 +20,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Trabajo forzado, servidumbre y esclavitud",
-                "Obtención de órganos",
-                "Trata de personas (todos los fines)",
-                "Explotación sexual",
-                "Otros fines",
+                "EU_HTF_DETVFL",
+                "VC_HTF_DETVOGR",
+                "EU_HTF_DETVR",
+                "EU_HTF_DETVSXR",
+                "VC_HTF_DETVOP",
                 ""
               ]
             },
-            "title": "Tipo de explotación"
+            "title": "Explotacion"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Por 100.000",
+                "PER_100000",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

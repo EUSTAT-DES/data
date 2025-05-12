@@ -103,7 +103,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-5-1,"Series, Units, Sexo, Territorio, Edad",5
 #4-6-1,"Units, Sexo, Competencia",3
 #4-a-1,"Units, ServBasico",2
-#4-c-1,"Series, Units, Educacion, _NAME_",4
+#4-c-1,"Series, Units, Educacion",3
 #5-1-1,"Series, Units",2
 #5-2-1,"Units, Territorio, Comarca, Municipio",4
 #5-2-2,"Units, Territorio, Comarca, Municipio",4
@@ -136,7 +136,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-5-E1,"Series, Units, Sexo, Territorio, Comarca, Municipio, Edad, EmpCont",8
 #8-6-1,"Series, Units, Sexo, Territorio, Edad",5
 #8-9-1,"Series, Units, Territorio",3
-#8-b-1,"Series, Units, _NAME_",3
+#8-b-1,"Series, Units",2
 #9-1-1,"Units, Territorio",2
 #9-2-1,"Series, Units, Territorio",3
 #9-2-2,"Units, Sexo, Territorio",3

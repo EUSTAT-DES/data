@@ -20,19 +20,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Incidencia de la malaria por cada 1.000 habitantes",
+                "SH_STA_MALR",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -43,16 +43,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Por 1.000",
+                "PER_1000",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

@@ -20,29 +20,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales",
-                "Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales en proporción al PIB",
+                "EU_ODA_EUR",
+                "EU_ODA_GDP",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Millones de euros",
-                "Porcentaje",
+                "EUR_1000000",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

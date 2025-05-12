@@ -20,20 +20,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ingreso medio por hora ",
-                "Brecha salarial de genero",
+                "SL_EMP_EARN",
+                "EU_GENDERPAY_GAP",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -44,29 +44,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Persona sin discapacidad",
-                "Persona con discapacidad",
+                "PWD",
+                "PD",
                 ""
               ]
             },
-            "title": "Personas sin y con discapacidad"
+            "title": "Discapacidad"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Euros",
-                "Porcentaje",
+                "EUR",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

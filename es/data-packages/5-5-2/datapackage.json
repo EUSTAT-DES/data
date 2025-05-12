@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Cargo directivo",
-                "Alta dirección",
-                "Empresaria",
+                "CNO2011_1",
+                "CNO2011_11_12_13",
+                "SELF_EMP",
                 ""
               ]
             },
@@ -33,29 +33,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Territorio"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

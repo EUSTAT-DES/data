@@ -20,41 +20,41 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Emisiones de amoníaco de la agricultura y ganadería por hectárea",
-                "Emisiones de amoníaco de la agricultura y ganadería",
+                "EU_SDG_02_60_KG_PER_HA",
+                "EU_SDG_02_60_KT",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Actividad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Agricultura",
-                "Ganadería",
+                "NFR_3DF",
+                "NFR_3B",
                 ""
               ]
             },
-            "title": "Actividad económica"
+            "title": "Actividad"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Kg por hectárea",
-                "Kilotoneladas",
+                "KG_PER_HA",
+                "KT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

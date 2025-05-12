@@ -20,29 +20,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Superficie forestal con instrumentos de gestión sostenible vigentes",
-                "Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes",
+                "AG_LND_FRSTMGT_HA",
+                "AG_LND_FRSTMGT",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Hectáreas",
-                "Porcentaje",
+                "HA",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

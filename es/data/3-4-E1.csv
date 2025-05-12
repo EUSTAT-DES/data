@@ -1,49 +1,49 @@
 Year,Series,Sexo,Units,Value
-2013,Cáncer colorrectal,,Porcentaje,69.7
-2014,Cáncer colorrectal,,Porcentaje,70.7
-2017,Cáncer colorrectal,,Porcentaje,72.3
-2023,Cáncer colorrectal,,Porcentaje,70.4
-2019,Cáncer colorrectal,,Porcentaje,71.5
-2022,Cáncer colorrectal,,Porcentaje,70.5
-2012,Cáncer colorrectal,,Porcentaje,67.7
-2015,Cáncer colorrectal,,Porcentaje,70.4
-2018,Cáncer colorrectal,,Porcentaje,72.3
-2020,Cáncer colorrectal,,Porcentaje,70.9
-2021,Cáncer colorrectal,,Porcentaje,72.0
-2016,Cáncer colorrectal,,Porcentaje,72.4
-2015,Cáncer colorrectal,Mujer,Porcentaje,72.6
-2017,Cáncer colorrectal,Mujer,Porcentaje,74.6
-2021,Cáncer colorrectal,Mujer,Porcentaje,74.0
-2022,Cáncer colorrectal,Mujer,Porcentaje,73.0
-2014,Cáncer colorrectal,Mujer,Porcentaje,73.0
-2012,Cáncer colorrectal,Mujer,Porcentaje,70.3
-2016,Cáncer colorrectal,Mujer,Porcentaje,74.6
-2018,Cáncer colorrectal,Mujer,Porcentaje,74.9
-2019,Cáncer colorrectal,Mujer,Porcentaje,73.7
-2013,Cáncer colorrectal,Mujer,Porcentaje,72.1
-2020,Cáncer colorrectal,Mujer,Porcentaje,73.4
-2023,Cáncer colorrectal,Mujer,Porcentaje,72.8
-2022,Cáncer colorrectal,Hombre,Porcentaje,67.8
-2018,Cáncer colorrectal,Hombre,Porcentaje,69.9
-2023,Cáncer colorrectal,Hombre,Porcentaje,67.8
-2020,Cáncer colorrectal,Hombre,Porcentaje,68.1
-2021,Cáncer colorrectal,Hombre,Porcentaje,69.4
-2012,Cáncer colorrectal,Hombre,Porcentaje,64.9
-2016,Cáncer colorrectal,Hombre,Porcentaje,70.0
-2015,Cáncer colorrectal,Hombre,Porcentaje,67.9
-2014,Cáncer colorrectal,Hombre,Porcentaje,68.2
-2013,Cáncer colorrectal,Hombre,Porcentaje,67.1
-2017,Cáncer colorrectal,Hombre,Porcentaje,70.0
-2019,Cáncer colorrectal,Hombre,Porcentaje,68.4
-2021,Cáncer de mama,Mujer,Porcentaje,76.5
-2015,Cáncer de mama,Mujer,Porcentaje,80.8
-2014,Cáncer de mama,Mujer,Porcentaje,79.8
-2023,Cáncer de mama,Mujer,Porcentaje,78.4
-2016,Cáncer de mama,Mujer,Porcentaje,79.4
-2020,Cáncer de mama,Mujer,Porcentaje,75.8
-2018,Cáncer de mama,Mujer,Porcentaje,77.2
-2013,Cáncer de mama,Mujer,Porcentaje,80.3
-2022,Cáncer de mama,Mujer,Porcentaje,73.2
-2019,Cáncer de mama,Mujer,Porcentaje,76.7
-2012,Cáncer de mama,Mujer,Porcentaje,81.8
-2017,Cáncer de mama,Mujer,Porcentaje,77.1
+2013,EU_CNCR_CCR,,PT,69.7
+2014,EU_CNCR_CCR,,PT,70.7
+2017,EU_CNCR_CCR,,PT,72.3
+2023,EU_CNCR_CCR,,PT,70.4
+2019,EU_CNCR_CCR,,PT,71.5
+2022,EU_CNCR_CCR,,PT,70.5
+2012,EU_CNCR_CCR,,PT,67.7
+2015,EU_CNCR_CCR,,PT,70.4
+2018,EU_CNCR_CCR,,PT,72.3
+2020,EU_CNCR_CCR,,PT,70.9
+2021,EU_CNCR_CCR,,PT,72.0
+2016,EU_CNCR_CCR,,PT,72.4
+2015,EU_CNCR_CCR,F,PT,72.6
+2017,EU_CNCR_CCR,F,PT,74.6
+2021,EU_CNCR_CCR,F,PT,74.0
+2022,EU_CNCR_CCR,F,PT,73.0
+2014,EU_CNCR_CCR,F,PT,73.0
+2012,EU_CNCR_CCR,F,PT,70.3
+2016,EU_CNCR_CCR,F,PT,74.6
+2018,EU_CNCR_CCR,F,PT,74.9
+2019,EU_CNCR_CCR,F,PT,73.7
+2013,EU_CNCR_CCR,F,PT,72.1
+2020,EU_CNCR_CCR,F,PT,73.4
+2023,EU_CNCR_CCR,F,PT,72.8
+2022,EU_CNCR_CCR,M,PT,67.8
+2018,EU_CNCR_CCR,M,PT,69.9
+2023,EU_CNCR_CCR,M,PT,67.8
+2020,EU_CNCR_CCR,M,PT,68.1
+2021,EU_CNCR_CCR,M,PT,69.4
+2012,EU_CNCR_CCR,M,PT,64.9
+2016,EU_CNCR_CCR,M,PT,70.0
+2015,EU_CNCR_CCR,M,PT,67.9
+2014,EU_CNCR_CCR,M,PT,68.2
+2013,EU_CNCR_CCR,M,PT,67.1
+2017,EU_CNCR_CCR,M,PT,70.0
+2019,EU_CNCR_CCR,M,PT,68.4
+2021,EU_CNCR_BCI,F,PT,76.5
+2015,EU_CNCR_BCI,F,PT,80.8
+2014,EU_CNCR_BCI,F,PT,79.8
+2023,EU_CNCR_BCI,F,PT,78.4
+2016,EU_CNCR_BCI,F,PT,79.4
+2020,EU_CNCR_BCI,F,PT,75.8
+2018,EU_CNCR_BCI,F,PT,77.2
+2013,EU_CNCR_BCI,F,PT,80.3
+2022,EU_CNCR_BCI,F,PT,73.2
+2019,EU_CNCR_BCI,F,PT,76.7
+2012,EU_CNCR_BCI,F,PT,81.8
+2017,EU_CNCR_BCI,F,PT,77.1

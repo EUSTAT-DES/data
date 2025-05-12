@@ -20,28 +20,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión de aguas de consumo",
-                "Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión de aguas de baño",
+                "EU_SAN_PARTIC",
+                "EU_BATH_PARTIC",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

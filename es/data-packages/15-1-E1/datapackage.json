@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Superficie de las áreas terrestres protegidas (Km2)",
-                "Proporción de la superficie terrestre protegida respecto a la superficie terrestre",
+                "EU_SDG_15_20_KM2",
+                "EU_SDG_15_20_PT",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Series"
           },
           {
             "name": "Ecosistema",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bosques",
-                "Humedales",
-                "Pastizales",
-                "Tierras de cultivo",
-                "Asentamientos",
-                "Otras tierras",
+                "LC_TRE",
+                "LC_WL",
+                "LC_GRS",
+                "LC_CRP",
+                "LC_ART",
+                "LC_OL",
                 ""
               ]
             },
@@ -48,17 +48,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilómetros cuadrados",
-                "Porcentaje",
+                "KM2",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

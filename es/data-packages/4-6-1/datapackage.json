@@ -20,20 +20,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Comprensión lectora",
-                "Matemáticas",
+                "SKILL_LTRCY",
+                "SKILL_NMRCY",
                 ""
               ]
             },
-            "title": "Tipo de competencia"
+            "title": "Competencia"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -44,16 +44,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
