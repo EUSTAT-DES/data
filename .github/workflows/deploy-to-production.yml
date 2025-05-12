@@ -55,8 +55,8 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        REPOSITORY_NAME: PRODUCTION_ORGANISATION/PRODUCTION_REPOSITORY
-        ACCESS_TOKEN: ${{ secrets.token }}
+        REPOSITORY_NAME: eustat/sdg-data-prod
+        ACCESS_TOKEN: ${{ secrets.PAT_DEPLOY_SITE_PROD }}
         BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
