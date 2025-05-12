@@ -11420,6 +11420,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -11737,17 +11748,6 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "Desaggregation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "All",
-                ""
-              ]
-            },
-            "title": "Desaggregation"
           },
           {
             "name": "Value",

@@ -15,6 +15,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -327,16 +337,6 @@
           {
             "name": "GeoCode",
             "type": "string"
-          },
-          {
-            "name": "Desaggregation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "All",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
