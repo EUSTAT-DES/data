@@ -11739,6 +11739,17 @@
             "title": "GeoCode"
           },
           {
+            "name": "Desaggregation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All",
+                ""
+              ]
+            },
+            "title": "Desaggregation"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

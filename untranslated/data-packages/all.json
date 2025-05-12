@@ -11085,6 +11085,16 @@
             "type": "string"
           },
           {
+            "name": "Desaggregation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
