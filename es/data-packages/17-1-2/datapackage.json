@@ -20,28 +20,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_GOB_TAX",
-                "EU_GOB_TAX_NOFIN",
+                "Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos ",
+                "Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuesto",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

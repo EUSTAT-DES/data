@@ -20,28 +20,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SG_REG_CENSUSN",
-                "SG_REG_BRTH100N",
+                "Se ha realizado al menos un censo de población y vivienda en los últimos diez años",
+                "Se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "BOOL_YES_NO",
+                "Lógica (1=Sí, 0=No)",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

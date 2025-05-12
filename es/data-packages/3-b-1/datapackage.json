@@ -20,30 +20,30 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_ACS_DTP3",
-                "SH_ACS_PCV3",
-                "SH_ACS_MCV2",
-                "SH_ACS_HPV",
+                "Difteria, tétanos y tosferina en la población infantil ",
+                "Neumococo en la población infantil ",
+                "Sarampión, rubeola y parotiditis en la población infantil",
+                "Papiloma humano (VPH) en las adolescentes ",
                 ""
               ]
             },
-            "title": "Vacuna"
+            "title": "Tipo de vacuna"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

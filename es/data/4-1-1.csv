@@ -1,25 +1,25 @@
-Year,Competencia,Sexo,Units,Value
-2015,SKILL_READ,,PT,82.6
-2012,SKILL_READ,,PT,85.6
-2018,SKILL_READ,,PT,77.0
-2022,SKILL_READ,,PT,74.2
-2022,SKILL_READ,F,PT,80.1
-2015,SKILL_READ,F,PT,86.6
-2012,SKILL_READ,F,PT,90.1
-2018,SKILL_READ,F,PT,83.6
-2022,SKILL_READ,M,PT,68.3
-2015,SKILL_READ,M,PT,78.4
-2018,SKILL_READ,M,PT,70.2
-2012,SKILL_READ,M,PT,81.1
-2015,SKILL_MATH,,PT,80.5
-2012,SKILL_MATH,,PT,84.5
-2018,SKILL_MATH,,PT,81.9
-2022,SKILL_MATH,,PT,77.3
-2018,SKILL_MATH,F,PT,83.4
-2022,SKILL_MATH,F,PT,78.0
-2012,SKILL_MATH,F,PT,83.4
-2015,SKILL_MATH,F,PT,79.9
-2018,SKILL_MATH,M,PT,80.3
-2015,SKILL_MATH,M,PT,81.1
-2012,SKILL_MATH,M,PT,85.6
-2022,SKILL_MATH,M,PT,76.7
+Year,Tipo de competencia,Sexo,Units,Value
+2015,Comprensión lectora,,Porcentaje,82.6
+2012,Comprensión lectora,,Porcentaje,85.6
+2018,Comprensión lectora,,Porcentaje,77.0
+2022,Comprensión lectora,,Porcentaje,74.2
+2022,Comprensión lectora,Mujer,Porcentaje,80.1
+2015,Comprensión lectora,Mujer,Porcentaje,86.6
+2012,Comprensión lectora,Mujer,Porcentaje,90.1
+2018,Comprensión lectora,Mujer,Porcentaje,83.6
+2022,Comprensión lectora,Hombre,Porcentaje,68.3
+2015,Comprensión lectora,Hombre,Porcentaje,78.4
+2018,Comprensión lectora,Hombre,Porcentaje,70.2
+2012,Comprensión lectora,Hombre,Porcentaje,81.1
+2015,Matemáticas,,Porcentaje,80.5
+2012,Matemáticas,,Porcentaje,84.5
+2018,Matemáticas,,Porcentaje,81.9
+2022,Matemáticas,,Porcentaje,77.3
+2018,Matemáticas,Mujer,Porcentaje,83.4
+2022,Matemáticas,Mujer,Porcentaje,78.0
+2012,Matemáticas,Mujer,Porcentaje,83.4
+2015,Matemáticas,Mujer,Porcentaje,79.9
+2018,Matemáticas,Hombre,Porcentaje,80.3
+2015,Matemáticas,Hombre,Porcentaje,81.1
+2012,Matemáticas,Hombre,Porcentaje,85.6
+2022,Matemáticas,Hombre,Porcentaje,76.7

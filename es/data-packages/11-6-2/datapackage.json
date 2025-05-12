@@ -20,39 +20,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_ATM_PM25",
+                "Niveles medios anuales de partículas finas en suspensión (PM2.5 y PM10) en las ciudades (ponderados según la población)",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "PM",
             "type": "string",
             "constraints": {
               "enum": [
-                "PM25",
-                "PM10",
+                "PM 2,5",
+                "PM 10",
                 ""
               ]
             },
-            "title": "PM"
+            "title": "Partículas en suspensión"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "GPERM3",
+                "Microgramos por metro cúbico",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

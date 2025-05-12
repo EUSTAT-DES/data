@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_XPD_EARN25",
-                "SH_XPD_EARN10",
+                "Superiores al 25%",
+                "Superiores al 10%",
                 ""
               ]
             },
@@ -32,16 +32,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

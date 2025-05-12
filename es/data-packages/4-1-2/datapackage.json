@@ -20,39 +20,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SE_TOT_CPLR",
+                "Tasa de finalización (educación secundaria inferior y educación secundaria superior)",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Educacion",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_2",
-                "ISCED11_3",
+                "Secundaria inferior",
+                "Secundaria superior",
                 ""
               ]
             },
-            "title": "Educacion"
+            "title": "Nivel educativo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

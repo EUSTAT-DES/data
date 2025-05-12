@@ -20,29 +20,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_H2O_GRAMBQ",
-                "EN_H2O_OPAMBQ",
-                "EN_H2O_RVAMBQ",
+                "Proporción de masas de agua subterráneas de buena calidad",
+                "Proporción de masas de agua superficiales de buena calidad",
+                "Proporción de masas de agua de río de buena calidad",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

@@ -20,42 +20,42 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_EMAS",
-                "EU_ECOLABEL",
+                "Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental (EMAS)",
+                "Número de licencias de Ecolabel (Etiqueta Ecológica Europea )",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "ORGANISATIONS",
-                "LICENCES",
+                "Organizaciones",
+                "Licencias",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

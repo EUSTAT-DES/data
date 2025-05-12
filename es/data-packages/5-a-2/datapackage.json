@@ -20,16 +20,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "IX",
+                "Índice",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

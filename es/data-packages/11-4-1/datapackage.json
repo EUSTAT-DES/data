@@ -20,29 +20,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ADM_MUN_AUT",
-                "ADM_AUT",
-                "ADM_MUN",
+                "Administración autonómica y local",
+                "Administración autonómica",
+                "Administración local",
                 ""
               ]
             },
-            "title": "Administracion"
+            "title": "Administración pública"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "EUR_PER_CAPITA",
+                "Euro per cápita",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

@@ -20,29 +20,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_FRN_FDI_EUR",
-                "EU_FRN_FDI_GDP",
+                "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo",
+                "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "EUR_1000000",
-                "PT",
+                "Millones de euros",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

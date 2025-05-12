@@ -1,5 +1,5 @@
 Value,es,eu,en,Disaggregation combinations using this value,Number of indicators
-NET_DSL,NET_DSL,NET_DSL,NET_DSL,4,1
-NET_FTTH,NET_FTTH,NET_FTTH,NET_FTTH,4,1
-NET_HFC,NET_HFC,NET_HFC,NET_HFC,4,1
-NET_OTHER,NET_OTHER,NET_OTHER,NET_OTHER,4,1
+NET_DSL,DSL,NET_DSL,NET_DSL,4,1
+NET_FTTH,Fibra óptica (FTTH),NET_FTTH,NET_FTTH,4,1
+NET_HFC,Híbrido de Fibra Coaxial (HFC),NET_HFC,NET_HFC,4,1
+NET_OTHER,Otra tecnología,NET_OTHER,NET_OTHER,4,1

@@ -20,27 +20,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "POSTFIS_DIS_INC",
+                "Índice de Gini del ingreso disponible equivalente (postfiscal)",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

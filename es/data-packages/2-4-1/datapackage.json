@@ -20,28 +20,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AG_LND_FOVH",
-                "AG_LND_NFI",
+                "Proporción de superficie agrícola que ha alcanzado un nivel aceptable o deseable de valor de producción agrícola por hectárea",
+                "Proporción de la superficie de tierras agrícolas que ha alcanzado un nivel aceptable o deseable de ingresos agrícolas netos",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }
