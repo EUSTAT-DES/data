@@ -1,177 +1,176 @@
-# ORGANIZACION
+# ERAKUNDEAK
 
-BE: Banco de España
-OMS: Organización Mundial de la Salud
-BM: Banco Mundial
-CIS: Centro de Investigaciones Sociológicas (CIS)
-CNMC: Comisión Nacional de los Mercados y la Competencia (CNMC)
-CGPD: Consejo General del Poder Judicial
-Consorcio: Consorcio de Compensación de Seguros
-EC_REG: DG Política Regional y Urbana, Comisión Europea
-EVE: Ente Vasco de la Energía (EVE)
-Ekolurra: Consejo de Agricultura y Alimentación Ecológica de Euskadi
-Euskadi: Gobierno Vasco
+BE: Espainiako Bankua
+OMS: Osasunaren Mundu Erakundea
+BM: Munduko Bankua
+CIS: Ikerketa Soziologikoen Zentroa (CIS)
+CNMC: Merkatuen eta Lehiaren Batzorde Nazionala (CNMC)
+CGPD: Botere Judizialaren Kontseilu Nagusia
+Consorcio: Aseguruen Konpentsazio Partzuergoa
+EC_REG: DG Eskualde eta Hiri Politika, Europako Batzordea
+EVE: Energiaren Euskal Erakundea (EEE)
+Ekolurra: Euskadiko Nekazaritza eta Elikadura Ekologikoaren Kontseilua
+Euskadi: Eusko Jaurlaritza
 Euskadi_Lehendakaritza: Lehendakaritza
-Euskadi_Economia: Departamento de Economía, Trabajo y Empleo
-Euskadi_Hacienda: Departamento de Hacienda y Finanzas
-Euskadi_Industria: Departamento de Industria, Transición Energética y Sostenibilidad
-Euskadi_Salud: Departamento de Salud
-Euskadi_Seguridad: Departamento de Seguridad
-Euskadi_Vivienda: Departamento de Vivienda y Agenda Urbana
-Euskadi_Bienestar: Departamento de Bienestar, Juventud y Reto Demográfico
-Euskadi_Movilidad: Departamento de Movilidad Sostenible
-Euskadi_Alimentacion: Departamento de Alimentación, Desarrollo Rural, Agricultura y Pesca
-Euskadi_Justicia: Departamento de Justicia y Derechos Humanos
-Eustat: Eustat-Instituto Vasco de Estadística
-GE: Gobierno de España
-GE_Presidencia: Ministerio de la Presidencia, Justicia y Relaciones con las Cortes
-GE_Agricultura: Ministerio de Agricultura, Pesca y Alimentación
-GE_Exteriores: Ministerio de Asuntos Exteriores, Unión Europea y Cooperación
-GE_Ciencia: Ministerio de Ciencia, Innovación y Universidades
-GE_Consumo: Ministerio de Consumo
-GE_Cultura: Ministerio de Cultura
-GE_Defensa: Ministerio de Defensa
-GE_Sociales: Ministerio de Derechos Sociales, Consumo y Agenda 2030
-GE_Economia: Ministerio de Economía, Comercio y Empresa
-GE_Educacion: Ministerio de Educación, Formación Profesional y Deportes
-GE_Hacienda: Ministerio de Hacienda
-GE_Igualdad: Ministerio de Igualdad
-GE_Inclusion: Ministerio de Inclusión, Seguridad Social y Migraciones
-GE_Industria: Ministerio de Industria y Turismo
-GE_Juventud: Ministerio de Juventud e Infancia
-GE_Territorial: Ministerio de Política Territorial y Memoria Democrática
-GE_Sanidad: Ministerio de Sanidad
-GE_Trabajo: Ministerio de Trabajo y Economía Social
-GE_Transportes: Ministerio de Transportes y Movilidad Sostenible
-GE_Vivienda: Ministerio de Vivienda y Agenda Urbana
-GE_Interior: Ministerio del Interior
-GE_Transformacion: Ministerio para la Transformación Digital y de la Función Pública
-GE_Transicion: Ministerio para la Transición Ecológica y el Reto Demográfico
+Euskadi_Economia: Ekonomia, Lan eta Enplegu Saila
+Euskadi_Hacienda: Ogasun eta Finantza Saila
+Euskadi_Industria: Industria, Trantsizio Energetiko eta Jasangarritasun Saila
+Euskadi_Salud: Osasun Saila
+Euskadi_Seguridad: Segurtasun Saila
+Euskadi_Vivienda: Etxebizitza eta Hiri Agenda Saila
+Euskadi_Bienestar: Ongizate, Gazteria eta Erronka Demografiko Saila
+Euskadi_Movilidad: Mugikortasun Iraunkorreko Departamentua
+Euskadi_Alimentacion: Elikadura, Landa Garapen, Nekazaritza eta Arrantza Saila
+Euskadi_Justicia: Justizia eta Giza Eskubideen Saila
+Eustat: Eustat-Euskal Estatistika Erakundea
+GE: Espainiako Gobernua
+GE_Presidencia: Lehendakaritza, Justizia eta Gorteekiko Harremanetarako Ministerioa
+GE_Agricultura: Nekazaritza, Arrantza eta Elikadura Ministerioa
+GE_Exteriores: Kanpo Arazoetako, Europar Batasuneko eta Lankidetzako Ministerioa
+GE_Ciencia: Zientzia, Berrikuntza eta Unibertsitate Ministerioa
+GE_Consumo: Kontsumo Ministerioa
+GE_Cultura: Kultura Ministerioa
+GE_Defensa: Defentsa Ministerioa
+GE_Sociales: Gizarte Eskubide, Kontsumo eta Agenda Ministerioa 2030
+GE_Economia: Ekonomia, Merkataritza eta Enpresa Ministerioa
+GE_Educacion: Hezkuntza, Lanbide Heziketa eta Kirol Ministerioa
+GE_Hacienda: Ogasun Ministerioa
+GE_Igualdad: Berdintasun Ministerioa
+GE_Inclusion: Inklusio, Gizarte Segurantza eta Migrazio Ministerioa
+GE_Industria: Industria eta Turismo Ministerioa
+GE_Juventud: Gazteria eta Haurtzaro Ministerioa
+GE_Territorial: Lurralde Politikako eta Memoria Demokratikoko Ministerioa
+GE_Sanidad: Osasun Ministerioa
+GE_Trabajo: Lan eta Gizarte Ekonomia Ministerioa
+GE_Transportes: Garraio eta Mugikortasun Jasangarriaren Ministerioa
+GE_Vivienda: Etxebizitza eta Hiri Agenda Ministerioa
+GE_Interior: Barne Ministerioa
+GE_Transformacion: Eraldaketa Digitalerako eta Funtzio Publikorako Ministerioa
+GE_Transicion: Trantsizio Ekologikorako eta Erronka Demografikorako Ministerioa
 Hazi: HAZI
-INE: Instituto Nacional de Estadística (INE)
+INE: Estatistikako Institutu Nazionala (INE)
 Ihobe: IHOBE
-TIE: Transparencia Internacional España
-OCDE: Organización para la Cooperación y Desarrollo Económico (OCDE)
-ONU: Organización de Naciones Unidas (ONU)
+TIE: "Nazioarteko Gardentasuna - Espainia"
+OCDE: Ekonomia Lankidetza eta Garapenerako Erakundea (OECD)
+ONU: Nazio Batuen Erakundea (NBE)
 
 
 
-# OPERACION
+# ERAGIKETA
 
 Geoeuskadi: Geoeuskadi
-GE_Inclusion_ebcss: Estadística de bases de cotización de la seguridad social
-Euskadi_Bienestar_esses: Estadística de servicios sociales y acción social
-Euskadi_Alimentacion_edgt: Estadística sobre la distribución general de tierras y sobre las producciones agrarias
-Euskadi_Alimentacion_ricav: Red de Información Contable Agraria Vasca (RICAV)
-BE_bp: Balanza de pagos
-GE_Territorial_bep: Boletín estadístico del personal al servicio de las administraciones públicas
-GE_Sanidad_cach: Calidad de las Aguas de Consumo Humano
-Eustat_ceme: Censo de población y viviendas. Educación
-Eustat_cepv: Censos de población y viviendas
-GE_Transformacion_cba: Cobertura de banda ancha en España
-Eustat_cedu: Cuenta de la Educación 
-Eustat_ceap: Cuenta de las Administraciones Públicas
-Eustat_cseepros: Cuenta de la Protección Social
-Eustat_ccs: Cuenta de la Salud
-Eustat_ccst: Cuenta satélite de turismo
-Eustat_cpib: Cuentas económicas
-Eustat_ceav: Cuentas económicas de las administraciones vascas
-Eustat_cpibmun: PIB Municipal
-Euskadi_Industria_dener: Datos energéticos de la C. A. de Euskadi
-Euskadi_Bienestar_essas: Estadística de servicios sociales y acción social
-Eustat_epb: Encuesta de bienestar personal
-BE_ecf: Encuesta de competencias financieras
-INE_ecv: Encuesta de condiciones de vida
-Eustat_ecv: Encuesta de condiciones de vida
-INE_eesal: Encuesta de estructura salarial
-INE_eaes: Encuesta anual de estructura salarial
-INE_efec: Encuesta de fecundidad
-Eustat_cegf: Encuesta de gasto familiar
-Eustat_cemaf: Encuesta de medio ambiente - Familias
-Eustat_emh: Censo de población y viviendas. Estructura de la población
-Eustat_pra: Encuesta de población en relación con la actividad
-Euskadi_Bienestar_epds: Encuesta de pobreza y desigualdades sociales (EPDS)
-Eustat_ept: Encuesta de presupuestos de tiempo
-Euskadi_Salud_escav: Encuesta de salud
-INE_ees: Encuesta Europea de Salud
-INE_ense: Encuesta Nacional de Salud de España
-Eustat_cindus: Encuesta industrial
-Eustat_ceea: Encuesta sobre la estructura de las explotaciones agrícolas
-Eustat_cca: Censo agrario
-INE_eada: Encuesta sobre la participación de la población adulta en las actividades de aprendizaje
-Eustat_cesif: Encuesta sobre la sociedad de la información. Familias
-BE_efc: Entidades de crédito y establecimientos financieros de crédito
-GE_Exteriores_aod: Estadística de Ayuda Oficial al Desarrollo de España
-Euskadi_Industria_ecair: Estadística de calidad del aire
-Euskadi_Industria_ecagua: Estadística de consumo del agua
-Eustat_edef: Estadística de defunciones
-GE_Sanidad_edo: Estadística de enfermedades de declaración obligatoria
-GE_Cultura_efgpc: Estadística de Financiación y Gasto Público en Cultura
-Euskadi_Industria_fm: Estadística de Flujo de Materiales
-Euskadi_Industria_ind: Estadística de Indicadores Ambientales
-Eustat_ceens: Estadística de la Actividad Escolar 
-Euskadi_Industria_cma: Estadística de la calidad de las masas de agua
-Ekolurra_epe: Estadística de la producción ecológica
-GE_Agricultura_esyrce: Encuesta de superficies y rendimientos de cultivo (ESYRCE)
-GE_Agricultura_recan: Red contable agraria nacional
-Eustat_emat: Estadística de matrimonios
-Eustat_cemm: Estadística de movimientos migratorios
-Eustat_enac: Estadística de nacimientos
-Eustat_iig: Índice de Igualdad de Género
-GE_Interior_pint: Estadística de Población Extranjera Solicitante de Protección Internacional, Refugiados, Beneficiarios de Protección Subsidiaria, Desplazados y Apátridas
-GE_Interior_esap: "Estadística de seguridad: actuaciones policiales"
-Eustat_rpf: Estadística de renta personal y familiar
-Euskadi_Industria_rp: Estadística de Residuos Peligrosos
-Euskadi_Industria_ru: Estadística de Residuos Urbanos
-Consorcio_ere: Estadística de riesgos extraordinarios
-GE_Sanidad_evs: Estadística de Vacunaciones Sistemáticas
-Euskadi_Seguridad_evcm: Estadística de violencia contra las mujeres
-Euskadi_Seguridad_ed: Estadísticas delictivas
-INE_eepd: Estadística del Empleo de las Personas con Discapacidad
-INE_espd: Estadística del Salario de las Personas con Discapacidad
-Eustat_ceit: Estadística del sector de alta tecnología
-GE_Interior_egpr: Estadística General de la Población Reclusa
-Eustat_cempa: Censo de población y viviendas. Actividad
-Eustat_ida: Indicadores demográficos anuales
-Eustat_cepsp: Estadística presupuestaria del sector público
-Eustat_cid: Estadística sobre actividades de investigación científica y desarrollo tecnológico-I+D
-GE_Transicion_egfs: Estadística sobre gestión forestal sostenible
-GE_Transicion_tratar: Tratamiento de las aguas residuales urbanas
-GE_Educacion_sinf: Estadística sobre la sociedad de la información y la comunicación en los centros educativos no universitarios
-BE_eap: Estadísticas de Administraciones Públicas
-GE_Transicion_ecocirc: Estrategia española de economía circular, España circular 2030
+GE_Inclusion_ebcss: Gizarte Segurantzaren kotizazio-oinarrien estatistika
+Euskadi_Bienestar_esses: Gizarte-zerbitzuen eta gizarte-ekintzaren estatistika
+Euskadi_Alimentacion_edgt: Lurren banaketa orokorraren eta nekazaritzako produkzioen estatistika
+Euskadi_Alimentacion_ricav: Euskal Nekazaritzako Kontaduritza Argipederako Sarea (ENKAS)
+BE_bp: Ordainketa-balantza
+GE_Territorial_bep: Administrazio publikoen zerbitzuko langileen estatistika buletina
+GE_Sanidad_cach: Giza kontsumorako uren kalitatea
+Eustat_ceme: Biztanleriaren eta etxebizitzen errolda. Hezkuntza
+Eustat_cepv: Biztanleriaren eta etxebizitzen errolda
+GE_Transformacion_cba: Banda zabalaren estaldura Espainian
+Eustat_cedu: Hezkuntzaren kontua 
+Eustat_ceap: Administrazio publikoen kontuak
+Eustat_cseepros: Gizarte babesaren kontua
+Eustat_ccs: Osasunaren kontua
+Eustat_ccst: Turismoaren kontu satelitea
+Eustat_cpib: Kontu ekonomikoak
+Eustat_ceav: Euskal administrazioen kontu ekonomikoak
+Eustat_cpibmun: Udal BPG
+Euskadi_Industria_dener: Euskal AEko datu energetikoak
+Euskadi_Bienestar_essas: Gizarte-zerbitzuen eta gizarte-ekintzaren estatistika
+Eustat_epb: Ongizate pertsonalaren inkesta
+BE_ecf: Finantza-gaitasunen inkesta
+INE_ecv: Bizi-baldintzen inkesta
+Eustat_ecv: Bizi-baldintzen inkesta
+INE_eesal: Soldata-egituraren inkesta
+INE_eaes: Soldata-egituraren urteko inkesta
+INE_efec: Ugalkortasun-inkesta
+Eustat_cemaf: Ingurumenaren inkesta - Familiak
+Eustat_emh: Biztanleriaren eta etxebizitzen errolda. Biztanleriaren egitura
+Eustat_pra: Biztanleria jardueraren arabera sailkatzeko inkesta
+Euskadi_Bienestar_epds: Pobreziaren eta Gizarte Desparekotasunei buruzko Inkesta (PGDI)
+Eustat_ept: Denbora-aurrekontuen inkesta
+Euskadi_Salud_escav: Osasun Inkesta
+INE_ees: Europako Osasun Inkesta
+INE_ense: Espainiako Osasun Inkesta Nazionala
+Eustat_cindus: Industria-inkesta
+Eustat_ceea: Nekazaritzako ustiategien egiturari buruzko inkesta
+Eustat_cca: Nekazaritza-zentsua
+INE_eada: Helduek ikaskuntza-jardueretan duten parte-hartzeari buruzko inkesta
+Eustat_cesif: Informazioaren gizartearen inkesta. Familiak
+BE_efc: Kreditu-erakundeak eta kredituko finantza-establezimenduak
+GE_Exteriores_aod: Espainiako Garapenerako Laguntza Ofizialaren Estatistika
+Euskadi_Industria_ecair: Airearen kalitatearen estatistika
+Euskadi_Industria_ecagua: Ur kontsumoaren estatistika
+Eustat_edef: Heriotzen estatistika
+GE_Sanidad_edo: Nahitaez adierazi beharreko gaixotasunen estatistika
+GE_Cultura_efgpc: Finantzaketaren eta Gastu Publikoaren Estatistika Kulturan
+Euskadi_Industria_fm: Materialen fluxuaren estatistika
+Euskadi_Industria_ind: Ingurumen adierazleak
+Eustat_ceens: Eskola-jardueraren estatistika 
+Euskadi_Industria_cma: Ur-masen kalitatearen estatistika
+Ekolurra_epe: Ekoizpen ekologikoaren estatistika
+GE_Agricultura_esyrce: Laboreen gainazalei eta errendimenduei buruzko inkesta (ESYRCE)
+GE_Agricultura_recan: Nekazaritzako kontabilitate-sare nazionala
+Eustat_emat: Ezkontzen estatistika
+Eustat_cemm: Migrazio-mugimenduen estatistika
+Eustat_enac: Jaiotzen estatistika
+Eustat_iig: Genero berdintasunaren indizea
+GE_Interior_pint: Nazioarteko babesa eskatzen duten atzerritarren, errefuxiatuen, babes subsidiarioaren onuradunen, desplazatuen eta aberrigabeen estatistika
+GE_Interior_esap: "Segurtasun-estatistika: polizia-jarduerak"
+Eustat_rpf: Errenta pertsonala eta familiarra
+Euskadi_Industria_rp: Hondakin arriskutsuen estatistika
+Euskadi_Industria_ru: Hiri-hondakinen estatistika
+Consorcio_ere: Aparteko arriskuen estatistika
+GE_Sanidad_evs: Txertaketa sistematikoen estatistika
+Euskadi_Seguridad_evcm: Emakumeen kontrako indarkeriaren estatistika
+Euskadi_Seguridad_ed: Delitu estatistikak
+INE_eepd: Desgaitasuna duten Pertsonen Enpleguaren Estatistika
+INE_espd: Desgaitasuna duten Pertsonen Soldataren Estatistika
+Eustat_ceit: Goi teknologiako sektorearen estatistika
+GE_Interior_egpr: Presoen Estatistika Orokorra
+Eustat_cempa: Biztanleriaren eta etxebizitzen errolda. Jarduera
+Eustat_ida: Urteko adierazle demografikoak
+Eustat_cepsp: Sektore publikoaren aurrekontuen estatistikak
+Eustat_cid: Ikerketa zientifikoko eta garapen teknologikoko jarduerei buruzko estatistika-I+G
+GE_Transicion_egfs: Baso-kudeaketa iraunkorrari buruzko estatistika
+GE_Transicion_tratar: Hiriko hondakin-uren tratamendua
+GE_Educacion_sinf: Unibertsitateaz kanpoko ikastetxeetako informazioaren eta komunikazioaren gizarteari buruzko estatistika
+BE_eap: Administrazio Publikoen estatistikak
+GE_Transicion_ecocirc: Ekonomia zirkularreko Espainiako estrategia, Espainia zirkularra 2030
 EC_REG_eqi: European Quality of Government Index (EQI)
-INE_etr: Encuesta de Turismo de Residentes (ETR-Familitur)
-INE_egatur: Encuesta de gasto turístico (EGATUR)
-Eustat_indes: Indicadores Estructurales
-INE_ipc: Índice de precios de consumo
-TIE_incau: Índice de Transparencia de las Comunidades autónomas (INCAU)
-INE_epsc: Estadística de profesionales sanitarios colegiados
-GE_Hacienda_iart: Informes anuales de recaudación tributaria
-Eustat_egf: Encuesta de gasto familiar
-Euskadi_Industria_ieca: Inventario de Emisiones de contaminantes a la atmósfera
-Euskadi_Industria_gei: Inventario de gases de efecto invernadero
-Euskadi_Alimentacion_invfor: Inventario Forestal 
-Euskadi_Lehendakaritza_sv: Sociómetro Vasco
-GE_Hacienda_lpca: Liquidación de los presupuestos de las comunidades autónomas
-GE_Igualdad_mc: Mujeres en Cifras
-Euskadi_Movilidad_oteus: Observatorio del Transporte (OTEUS)
-CIS_oppf: Opinión pública y política fiscal
-OCDE_pisa: Programa para la Evaluación Internacional de los Estudiantes (PISA)
-OCDE_piaac: Programa de Evaluación de Competencias de Adultos (PIAAC)
+INE_etr: Egoiliarren Turismo Inkesta (ETR-Familitur)
+INE_egatur: Turismo-gastuaren inkesta (EGATUR)
+Eustat_indes: Egiturako adierazleak
+INE_ipc: Kontsumoko prezioen indizea
+TIE_incau: Autonomia Erkidegoen Gardentasun Indizea (INCAU)
+INE_epsc: Osasun arloko profesional elkargokideen estatistika
+GE_Hacienda_iart: Zerga-bilketaren urteko txostenak
+Eustat_egf: Familia-gastuaren inkesta
+Euskadi_Industria_ieca: Atmosferara igorritako kutsatzaileen inbentarioa
+Euskadi_Industria_gei: Berotegi-efektuko gasen inbentarioa
+Euskadi_Alimentacion_invfor: Baso Inbentarioa 
+Euskadi_Lehendakaritza_sv: Euskal Soziometroa
+GE_Hacienda_lpca: Autonomia-erkidegoetako aurrekontuen likidazioa
+GE_Igualdad_mc: Emakumeak zenbakitan
+Euskadi_Movilidad_oteus: Euskadiko Garraio Behatokia (EUSGABE)
+CIS_oppf: Iritzi publikoa eta zerga-politika
+OCDE_pisa: Ikasleen Nazioarteko Ebaluaziorako Programa (PISA)
+OCDE_piaac: Helduen Gaitasunak Ebaluatzeko Programa (PIAAC)
 ONU_sdg: SDG Global Database
-GE_Hacienda_pca: Presupuestos de las comunidades autónomas
-GE_Hacienda_pel: Presupuestos de las entidades locales
-Euskadi_Salud_pcszb: Programa de control sanitario de las zonas de baño
-Euskadi_Salud_ritox: Registro de información sobre toxicomanías
-Euskadi_Salud_ris: Registros e Información Sanitaria
-Euskadi_Salud_ekuis: Sistema de Información de las Aguas de Consumo (EKUIS)
-GE_Economia_rie: Registro de inversiones exteriores
-GE_Vivienda_siu: Sistema de información urbana
-CNMC_tsa: Telecomunicaciones y sector audiovisual
-GE_Interior_tesh: Trata y explotación de seres humanos en España. Balance estadístico
-Euskadi_Vivienda_udalplan: Sistema de Información Geográfica del planeamiento urbanístico de la CAE (UDALPLAN)
-CGPD_ejud: Estadística Judicial
+GE_Hacienda_pca: Autonomia-erkidegoen aurrekontuak
+GE_Hacienda_pel: Toki-erakundeen aurrekontuak
+Euskadi_Salud_pcszb: Bainu-eremuen osasun-kontrolerako programa
+Euskadi_Salud_ritox: Toxikomaniei buruzko informazioaren erregistroa
+Euskadi_Salud_ris: Osasun Erregistroak eta Informazioa
+Euskadi_Salud_ekuis: Kontsumoko Uren Informazio Sistema (EKUIS)
+GE_Economia_rie: Kanpo-inbertsioen erregistroa
+GE_Vivienda_siu: Hiri-informazioko sistema
+CNMC_tsa: Telekomunikazioak eta ikus-entzunezkoen sektorea
+GE_Interior_tesh: Gizakien salerosketa eta esplotazioa Espainian. Balantze estatistikoa
+Euskadi_Vivienda_udalplan: EAEko hirigintza-plangintzaren informazio geografikoko sistema (UDALPLAN)
+CGPD_ejud: Estatistika Judiziala
 
 
 # URL
@@ -206,7 +205,6 @@ Eustat_ecv_url: https://www.eustat.eus/estadisticas/tema_76/opt_1/ti_encuesta-de
 INE_eaes_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177025&menu=ultiDatos&idp=1254735976596
 INE_eesal_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177025&menu=ultiDatos&idp=1254735976596
 INE_efec_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177006&menu=ultiDatos&idp=1254735573002
-Eustat_cegf_url: https://www.eustat.eus/estadisticas/tema_237/opt_1/ti_encuesta-de-gasto-familiar/temas.html
 Eustat_cemaf_url: https://www.eustat.eus/estadisticas/tema_217/opt_1/ti_encuesta-de-medio-ambiente---familias/temas.html
 Eustat_iig_url: https://www.eustat.eus/estadisticas/tema_515/opt_0/ti_indice-de-igualdad-de-genero/temas.html
 Eustat_emh_url: https://www.eustat.eus/estadisticas/tema_268/opt_1/ti_censo-de-poblacion-y-viviendas-estructura-de-la-poblacion/temas.html
@@ -313,27 +311,27 @@ OMS_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/OM
   
 # FRECUENCIA
 
-FREQ_A: Anual
-FREQ_A10: Decenal
-FREQ_A2: Bienal
-FREQ_A3: Trienal
-FREQ_A4: Cuatrienal
-FREQ_A5: Quinquenal
-FREQ_B: "Diaria (semana laborable)"
-FREQ_D: Diaria
-FREQ_E: "Eventos (periodos especiales)"
-FREQ_H: Cada hora
-FREQ_M: Mensual
-FREQ_N: Cada minuto
-FREQ_Q: Trimestral
-FREQ_S: Semestral
-FREQ_W: Semanal
-FREQ_W2: Quincenal
-FREQ_I: "Irregular / Aperiódica"
-FREQ_P: Plurianual
+FREQ_A: Urtekoa
+FREQ_A10: Hamar urtekoa
+FREQ_A2: Biurtekoa
+FREQ_A3: Hirurtekoa
+FREQ_A4: Lau urtean behin
+FREQ_A5: Bosturtekoa
+FREQ_B: "Egunerokoa (lanastea)"
+FREQ_D: Egunerokoa
+FREQ_E: "Ekitaldiak (aldi bereziak)"
+FREQ_H: Orduro
+FREQ_M: Hilekoa
+FREQ_N: Minuturo
+FREQ_Q: Hiruhilekoa
+FREQ_S: Sei hilean behin
+FREQ_W: Astean behin
+FREQ_W2: Hamabostean behin
+FREQ_I: "Irregularra/Aldizkakoa"
+FREQ_P: Urte anitzekoa
 
 
 # OCECA
 oceca: >-
   <img src="/site/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS">
-  Indicador calculado utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas.
+  Autonomia-erkidegoetako estatistika-organo zentralen arteko metodologia harmonizatua erabiliz kalkulatutako adierazlea
