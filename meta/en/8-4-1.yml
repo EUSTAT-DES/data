@@ -1,0 +1,38 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.8-titulo
+# meta_global: meta_largo.8-4-titulo
+#  indicador_onu_global: indicador_largo.8-4-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Material footprint of consumption reports the amount of primary materials 
+  required to serve final demand of a country and can be interpreted as an 
+  indicator of the material standard of living/level of capitalization of an 
+  economy. Per-capita MF describes the average material use for final demand. 
+
+  Source: United Nations Statistics Division
+
+dato_global:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-04-01.pdf">Metadata 8-4-1.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

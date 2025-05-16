@@ -1,0 +1,53 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.11-titulo
+# meta_global: meta_largo.11-3-titulo
+#  indicador_onu_global: indicador_largo.11-3-1-titulo
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:
+
+texto_oceca:
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  
+  Globally, land cover today is altered principally by direct human use: 
+  by agriculture and livestock raising, forest harvesting and management 
+  and urban and suburban construction and development. A defining feature 
+  of many of the world’s cities is an outward expansion far beyond formal 
+  administrative boundaries, largely propelled by the use of the automobile, 
+  poor urban and regional planning and land speculation. 
+
+  A large proportion of cities both from developed and developing countries 
+  have high consuming suburban expansion patterns, which often extend to even 
+  further peripheries. A global study on 120 cities shows that urban land cover 
+  has, on average, grown more than three times as much as the urban population; 
+  in some cases similar studies at national level showed a difference that was 
+  three to five times fold. 
+
+  In order to effectively monitor land consumption growth, it is not only necessary 
+  to have the information on existing land use cover but also the capability to 
+  monitor the dynamics of land use resulting out of both changing demands of increasing 
+  population and forces of nature acting to shape the landscape. 
+
+  Source: United Nations Statistics Division 
+
+dato_global:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-03-01.pdf">Metadat 11-3-1.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

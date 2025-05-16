@@ -1,0 +1,54 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.12-titulo
+# meta_global: meta_largo.12-b-titulo
+#  indicador_onu_global: indicador_largo.12-b-1-titulo
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  
+  Target 12.b calls on countries to develop and implement tools to 
+  monitor sustainable tourism. Sustainable tourism is “tourism that 
+  takes full account of its current and future economic, social and 
+  environmental impacts whilst addressing the needs of visitors, the 
+  industry, the environment and host communities. [...] It is a continuous 
+  process and requires constant monitoring of impacts. 
+
+  SDG indicator 12.b.1 measures the level of statistical capacity at the 
+  national and global levels to credibly and comparably monitor the 
+  sustainability of tourism, especially the economic and environmental 
+  dimensions. It has the added advantage of not only monitoring and 
+  encouraging attainment of target 12.b, but also of supporting more general 
+  monitoring of sustainable tourism including the other targets related 
+  to tourism, notably 8.9 and 14.7. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.b.1&seriesCode=ST_EEV_STDACCT&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (number of tables) ST_EEV_STDACCT</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.b.1&seriesCode=ST_EEV_ACCSEEA&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables) ST_EEV_ACCSEEA</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.b.1&seriesCode=ST_EEV_ACCTSA&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables) ST_EEV_ACCTSA</a> UNSTATS
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-0b-01.pdf">Metadata 12-b-1.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

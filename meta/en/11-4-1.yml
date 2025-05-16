@@ -1,0 +1,81 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.11-4-1-titulo
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-4-titulo
+#  indicador_onu_global: indicador_largo.11-4-1-titulo
+
+
+definicion: >- 
+  Liquidated expenditure per person of the regional and local public administrations 
+  in the preservation, protection and conservation of cultural heritage (historical 
+  and artistic heritage, archives and libraries) 
+
+formula: |
+
+  $$GLPCP^{t} = \frac{GLPC_{CCAA}^{t}+GLPC_{EELL}^{t}}{P^{t}}$$
+
+  where: 
+
+  $GLPC_{CCAA}^{t}$ = expenditure of the autonomous community in the preservation, 
+  protection and conservation of cultural heritage (historical and artistic heritage, 
+  archives and libraries) in year $t$ 
+
+  $GLPC_{EELL}^{t}$ = expenditure settled by the local entities of the autonomous 
+  community in the preservation, protection and conservation of cultural heritage 
+  (historical and artistic heritage, archives and libraries) in year $t$ 
+
+  $P^{t}$ = population on July 1 of year $t$ 
+
+desagregacion: >-
+  Public administration: regional administration, local administration
+
+
+observaciones: >-
+
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  This indicator measures the per capita expenditure (public and private) 
+  in the preservation, protection and conservation of cultural and/or natural 
+  heritage over time. To monitor change over time of national efforts for the 
+  protection and safeguard of cultural and/or natural heritage. 
+
+  This indicator illustrates how financial efforts/actions made by public 
+  authorities, both at the local, national and international levels, alone or 
+  in partnership with civil society organizations (CSO) and the private sector, 
+  to protect and safeguard the world’s cultural and natural heritage has a direct 
+  impact in making cities and human settlements more sustainable. 
+
+  This means that cultural resources and assets are safeguarded to keep attracting/to 
+  attract people (inhabitants, workers, tourists, etc.) and financial investments, to 
+  ultimately enhance the total amount of expenditure. 
+
+  This indicator is a proxy to measure the target. This indicator would allow insight 
+  into whether or not countries are strengthening their efforts into safeguarding 
+  their cultural and natural heritage. It will help to identify areas that require 
+  more attention for policy purposes. 
+
+  Source: United Nations Statistics Division 
+
+dato_global:
+
+comparabilidad: >- 
+  The available indicator does not comply with the UN indicator metadata. Only cultural heritage 
+  is included, not natural heritage. 
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-04-01.pdf">Metadata 11-4-1.pdf</a>
+
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

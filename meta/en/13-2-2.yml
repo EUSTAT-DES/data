@@ -1,0 +1,90 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.13-2-2-titulo
+
+objetivo_global: objetivo_largo.13-titulo
+meta_global: meta_largo.13-2-titulo
+#  indicador_onu_global: indicador_largo.13-2-2-titulo
+
+definicion: >-
+  Total greenhouse gas (GHG) emissions, total GHG emissions per unit of real GDP, per capita, 
+  and rates of change relative to emissions in the years 1990 and 2005 
+
+formula:  |
+
+  <b>Total greenhouse gas emissions per unit of GDP</b>
+
+  $$PPIBGEI^{t} = \frac{GEI^{t}}{PIB_{2022}^{t}} $$
+
+  <b>Total greenhouse gas emissions per capita</b>
+
+  $$GEIPC^{t} = \frac{GEI^{t}}{P^{t}} $$
+
+  <b>Greenhouse gas emissions compared to 1990</b>
+
+  $$TVGEI_{1990}^{t} = \frac{GEI^{t}-GEI^{1990}}{GEI^{1990}} \cdot 100$$ 
+
+  <b>Greenhouse gas emissions compared to 2005</b>
+
+  $$TVGEI_{2005}^{t} = \frac{GEI^{t}-GEI^{2005}}{GEI^{2005}} \cdot 100$$ 
+
+
+  where:
+
+  $GEI^{t} =$ greenhouse gas emissions in year $t$
+
+  $PIB_{2022}^{t} =$ gross domestic product in chained volume with reference to 2022 en el año $t$
+
+  $P^{t} =$ population as of July 1 of year $t$
+
+  $GEI^{1990} =$ greenhouse gas emissions in 1990
+
+  $GEI^{2005} =$ greenhouse gas emissions in 2005
+
+desagregacion:
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  The ultimate objective of the Climate Change Convention (UNFCCC) is to achieve the stabilization of 
+  greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous 
+  anthropogenic interference with the climate system. Estimating the levels of greenhouse gas (GHG) 
+  emissions and removals is an important element of the efforts to achieve this objective. 
+
+  The Paris Agreement adopted in 2015 marks the latest step in the evolution of the UN climate change 
+  regime and builds on the work undertaken under the Convention. Its central aim is to strengthen the 
+  global response to the threat of climate change by keeping a global temperature rise this century well 
+  below 2 degrees Celsius above pre-industrial levels and to pursue efforts to limit the temperature 
+  increase even further to 1.5 degrees Celsius. The Agreement also aims to strengthen the ability of 
+  countries to deal with the impacts of climate change. 
+
+  The indicator is part of the EU Sustainable Development Goals (SDG) indicator set. The European Climate 
+  Law sets out a framework for climate action and increases the EU’s ambition for 2030, with a new goal 
+  to reduce net greenhouse gas (GHG) emissions by at least 55 % by that year (compared to 1990) and to 
+  achieve climate-neutrality by 2050. 
+
+  The year 1990 is used as the reference year in most international climate agreements (Kyoto, United 
+  Nations). The year 2005 is the base year used by the Greenhouse Gas Mitigation Effort Sharing Directive 
+  (ETS, EU Emissions Trading System) due to the greater availability of detailed sectoral data from that 
+  date onwards. 
+
+  Source: United Nations Statistics Division, Eurostat 
+
+dato_global: >- 
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_13_10/default/table?lang=en&category=sdg.sdg_13"> Net greenhouse gas emissions (sdg_13_10)</a> Eurostat
+
+comparabilidad: >-
+  The "total annual greenhouse gas emissions" series complies with United Nations metadata. Other series related to European targets are also presented.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-13-02-02.pdf">Metadata 13-2-2.pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

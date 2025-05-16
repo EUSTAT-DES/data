@@ -1,0 +1,61 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.12-5-1-titulo
+
+objetivo_global: objetivo_largo.12-titulo
+meta_global: meta_largo.12-5-titulo
+#  indicador_onu_global: indicador_largo.12-5-1-titulo
+
+definicion: >-
+  Proportion of urban waste recycled compared to the total amount of urban waste generated 
+  by households and the services sector (businesses, offices and public or private institutions), 
+  which is treated and managed by the Local Entities
+
+formula: |
+
+  $$PRU_{recycled}^{t} = \frac{\frac{RU_{recycled}^{t}}{P^{t}}}{365} $$
+
+  where: 
+
+  $RU_{recycled}^{t} =$ amount of urban  waste recycled in year $t$
+
+  $RU^{t} =$ total amount of urban waste generated and treated in yea $t$
+
+
+desagregacion: |
+  Province
+
+
+observaciones: 
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Minimizing waste generation and maximizing the recycling of waste is central to 
+  the concept of circular economy. However, currently, the total amount of produced 
+  materials that are recycled are estimated to be low (based on academic literature). 
+
+  If countries better understand how waste are generated, collected and recycled, 
+  this will enable countries and other stakeholders to better determine how to deal 
+  with major waste streams, for example e-waste or plastic. 
+
+  Source: United Nations Statistics Division 
+
+comparabilidad: >-
+  The available indicator partially complies with the United Nations metadata. 
+
+dato_global:
+
+indicador_meta_enlace: 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-05-01.pdf">Metadata 12-5-1.pdf</a>
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

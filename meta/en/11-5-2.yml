@@ -1,0 +1,71 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.11-5-2-titulo
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-5-titulo
+#  indicador_onu_global: indicador_largo.11-5-2-titulo
+
+
+definicion: >-
+  Proportion of compensation for personal injury, pecuniary loss and property 
+  damage paid and/or provisioned (pending settlement or payment) in relation to 
+  GDP at current prices
+
+
+formula: |
+  $$INDEMPIB^{t} = \frac{(IDP^{t}+IPP^{t}+IDB^{t})/IUIPC_{refT}^{t}}{PIB^{t}} \cdot 100 \quad \mathrm t=1,\dots,\mathrm T$$
+
+  $$IUIPC_{refT}^{T} = 1$$
+
+  $$IUIPC_{refT}^{t-1} = IUIPC_{refT}^{t} \cdot \frac{(100+TIPC_{dec}^{t})}{100} \quad \mathrm t=\mathrm T,\mathrm T-1,\dots,\mathrm 2$$
+
+  where:
+
+  $IDP^{t}$ = compensation for personal injuries paid and/or provisioned in year $t$ at prices of year $T$
+
+  $IPP^{t}$ = compensation for pecuniary losses paid and/or provisioned in year $t$ at prices of year $T$
+
+  $IDB^{t}$ = compensation for property damage paid and/or provisioned in year $t$ at prices of year $T$
+
+  $TIPC_{dec}^{t}$ = annual variation rate of the national CPI in December of year $t$ 
+
+  $PIB^{t}$ = gross domestic product at current prices in year $t$
+
+desagregacion: Province
+
+
+observaciones: >-
+  Compensation is assigned to the place and year of occurrence of the accident, 
+  accidents occurred abroad not included.
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  The Sendai Framework for Disaster Risk Reduction 2015-2030 was adopted by 
+  UN Member States in March 2015 as a global policy of disaster risk reduction. 
+
+  Its targets include Target C: Reduce direct disaster economic loss in relation 
+  to global GDP by 2030.
+
+  The achievement of its targets will contribute to sustainable development and 
+  strengthen economic, social, health and environmental resilience. 
+
+  Source: United Nations Statistics Division 
+
+
+comparabilidad: >-
+  The available indicator does not comply with United Nations metadata but provides similar information
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-02.pdf">Metadata 1-5-2.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

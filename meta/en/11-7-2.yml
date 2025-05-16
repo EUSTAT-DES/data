@@ -1,0 +1,59 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.11-7-2-titulo
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-7-titulo
+#  indicador_onu_global: indicador_largo.11-7-2-titulo
+
+definicion: >-
+  Victims of harassment against personal freedom, real estate harassment, workplace or 
+  civil service harassment, or sexual harassment in the last 12 months per 100,000 inhabitants
+
+formula: |
+
+  $$TVACOSO^{t} = \frac{VACOSO^{t}}{P^{t}} \cdot 100$$
+
+  where:
+
+  $VACOSO^{t} =$ victims of non-sexual or sexual harassment in the last 12 months, in year $t$
+
+  $P^{t} =$ population as of July 1 of the year $t$
+
+desagregacion:
+
+observaciones: >-
+
+  Non-sexual harassment includes harassment against the freedom of persons (Article 172 ter of the 
+  Criminal Code), real estate harassment (Article 172.1.3 of the Criminal Code), and workplace or 
+  public servant harassment (Article 173.1 of the Criminal Code). 
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  The experience of non-sexual and sexual harassment can have far-reaching 
+  negative impacts on the victims. 
+
+  Besides the emotional and psychological harm suffered, harassment can have 
+  negative consequences on the ability of its victims to fully participate in 
+  public life and to share in and contribute to the development of their communities. 
+  For example, the widespread occurrence of sexual harassment in the workplace can 
+  lead to a lower participation of women in the workforce, especially in maledominated 
+  occupations, and lower their income-generating capacity. 
+
+  Source: United Nations Statistics Division 
+
+comparabilidad: >-
+  The available indicator does not comply with the metadata of the United Nations indicator, 
+  but provides complementary information. 
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-07-02.pdf">Metadata 11-7-2.pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

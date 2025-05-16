@@ -1,0 +1,101 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.11-6-1-titulo
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-6-titulo
+#  indicador_onu_global: indicador_largo.11-6-1-titulo
+
+definicion: >-
+  Urban waste collected per capita and proportion of urban waste treated 
+  (incinerated, landfilled, and recycled) in relation to total urban waste 
+  generated. Urban waste is considered to be waste from households and the 
+  service sector (businesses, offices, and public or private institutions), 
+  the management of which is assumed by local authorities.
+
+formula: |
+
+  <b> Urban waste collected per capita</b> 
+
+  $$RURP^{t} = \frac{RUR^{t}}{P^{t}} $$
+
+  where:
+
+  $RUR^{t} =$ amount of urban waste collected in year $t$ 
+
+  $P^{t} =$ population as of 1 July of year $t$
+
+  <br>
+
+  <b> Proportion of urban waste collected and managed in controlled facilities</b>
+
+  $$PRUR^{t} = \frac{RUG^{t}}{RUR^{t}} \cdot 100$$
+
+  where:
+
+  $RUG^{t} =$ amount of urban waste generated in year $t$ 
+
+  $RUR^{t} =$ amount of urban waste collected and managed in controlled facilities in year $t$ 
+
+
+  <br>
+
+  <b> Proportion of urban waste treated, per treatment operation</b> 
+
+  $$PRU_{treatment}^{t} = \frac{RU_{treatment}^{t}}{RU^{t}} \cdot 100$$ <br> 
+
+  $RU_{treatment}^{t} =$ amount of urban waste treated (by type of treatment) in year $t$
+
+  $RUR^{t} =$ amount of urban waste collected and managed in controlled facilities in year $t$
+
+desagregacion: |
+  Waste treatment operations: recycling; incineration with energy recovery; landfill disposal
+
+  Province
+
+
+observaciones: >-
+
+  Urban waste is understood to mean domestic and commercial waste from homes and 
+  the service sector (commerce, offices, and institutions) managed by local authorities. 
+  It does not include commercial waste managed by private channels other than municipal 
+  waste or waste from industry. 
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Urban households and businesses produce substantial amounts of solid waste that 
+  must be collected regularly, recycled or treated and disposed properly in order 
+  to maintain healthy and sanitary living conditions. 
+
+  Many cities are increasingly facing solid waste management challenges due to rapid 
+  urbanization, lack of technical and financial capacity or low policy priority. In 
+  addition, the higher the income level of a city, the greater the amount of the solid 
+  waste produced. 
+
+  Therefore, the economic growth to be experienced in the developing and emerging 
+  countries will pose greater challenges in solid waste management to local governments 
+  in the next decades. 
+
+  Source: United Nations Statistics Division 
+
+comparabilidad: >-
+  The available indicator complies with United Nations metadata 
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=11.6.1&seriesCode=EN_REF_WASCOL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=NOCITI"> Municipal Solid Waste collection coverage, by cities (%) EN_REF_WASCOL</a> UNSTATS
+
+
+indicador_meta_enlace: 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-06-01.pdf">Metadata 11-6-1.pdf</a>
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

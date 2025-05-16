@@ -1,0 +1,95 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.12-2-2-title
+
+objetivo_global: objetivo_largo.12-titulo
+meta_global: meta_largo.12-2-titulo
+#  indicador_onu_global: indicador_largo.12-2-2-titulo
+
+
+definicion:  | 
+  Domestic material consumption (DMC), or internal material consumption, 
+  is a standard material flow accounting (MFA) indicator and reports the 
+  apparent consumption of materials in the Basque Country economy. 
+
+  DMC measures the total amount of material (biomass, fossil fuels, metallic 
+  minerals, and non-metallic minerals) directly used in an economy and is based 
+  on direct material flow accounts, i.e., domestic material extraction, and physical imports
+  and exports. 
+
+  Data are presented in absolute terms, per capita, and per unit of GDP.
+
+formula:  |
+  <b>Domestic material consumption</b>
+
+  $$CDM^t = Extr^t + Imp^t - Exp^t$$
+
+  where:
+
+  $Extr^t =$ domestic extraction of materials in year $t$
+
+  $Imp^t =$ imports in year $t$
+
+  $Exp^t =$ exports in year $t$
+
+  <br>
+
+  <b>Domestic material consumption per capita</b>
+
+  $$CMDPC^{t} = \frac{{CMD^{t}}}{P^{t}}$$
+
+  where:
+
+  $CMD^{t} =$ domestic material consumption in year $t$
+
+  $P^{t} =$ population as of 1 July of year $t$
+
+  <br>
+
+  <b>Domestic material consumption per unit of GDP</b>
+
+  $$CMDPIB^{t} = \frac{{CMD^{t}}}{PIB_{2022}^{t}}$$
+
+  where:
+
+  $CMD^{t} =$ domestic material consumption in year $t$
+
+  $PIB_{2022}^{t} =$ Gross domestic product in chained volumes with reference to 2022
+  in millions of euros for the year $t$ 
+
+desagregacion:
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Domestic Material Consumption (DMC) reports the amount of materials that are used 
+  in a national economy. It is a territorial (production side) indicator. 
+
+  DMC also presents the amount of material that needs to be handled within an economy, 
+  which is either added to material stocks of buildings and transport infrastructure 
+  or used to fuel the economy as material throughput. 
+ 
+  Per-capita DMC describes the average level of material use in an economy – an 
+  environmental pressure indicator – and is also referred to as metabolic profile. 
+
+  Source: United Nations Statistics Division
+
+dato_global:
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-02-02.pdf">Metadata 12-2-2.pdf</a>'
+
+informacion_interes: >-
+
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

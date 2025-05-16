@@ -1,0 +1,62 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.9-titulo
+# meta_global: meta_largo.9-1-titulo
+# indicador_onu_global: indicador_largo.9-1-2-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Develop quality, reliable, sustainable and resilient infrastructure, including regional and trans-border 
+  infrastructure, to support economic development and human well-being, with a focus on affordable and 
+  equitable access for all. 
+
+  Trans-border infrastructure development is best captured by passenger and freight volumes moved by Member 
+  States and Regions. A growth in passenger and freight volumes shows a robust infrastructure development 
+  happening in States and Regions along with the resultant socioeconomic benefit. 
+
+  Air Transport is particularly important not only for the economic and job benefits but also because 
+  it is one of the only mode of transport that can be relied on during emergencies and disease 
+  outbreaks to reach food, medicines, medical personnel, vaccines and other supplies speedily to the 
+  affected persons in the affected areas. 
+
+  In addition, tracking how the non-road share of freight volumes, and the public transport share of 
+  passenger volumes, changes over time allows insights into the overall sustainability of the global 
+  transport system. 
+
+  Source: United Nations Statistics Division
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.1.2&seriesCode=IS_RDP_FRGVOL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=AIR">Freight volume, by mode of transport (tonne kilometres) IS_RDP_FRGVOL</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.1.2&seriesCode=IS_RDP_PFVOL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=AIR">Passenger volume (passenger kilometres), by mode of transport IS_RDP_PFVOL</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.1.2&seriesCode=IS_RDP_PORFVOL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=SEA">Container port traffic, maritime transport (twenty-foot equivalent units - TEUs) IS_RDP_PORFVOL</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.1.2&seriesCode=IS_RDP_LULFRG&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=SEA">Freight loaded and unloaded, maritime transport (metric tons) IS_RDP_LULFRG</a> UNSTATS
+
+comparabilidad: 
+
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-01-02.pdf">Metadata 9-1-2.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

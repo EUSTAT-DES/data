@@ -1,0 +1,58 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.11-7-1-titulo
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-7-titulo
+#  indicador_onu_global: indicador_largo.11-7-1-titulo
+
+definicion: >-
+  Proportion of the built surface area of ​​cities used for open public spaces 
+  (squares, parks, etc.) and streets in relation to the total built surface area 
+
+
+formula: |
+
+  $$PSC_{open\, public\, spaces\, and\, streets}^{t} = \frac{SC_{open\, public\, spaces}^{t} + SC_{streets}^{t}}{SC^{t}} \cdot 100$$
+
+  where:
+
+  $SC_{open\, public\, spaces}^{t} =$ built area used for open public spaces in year $t$
+
+  $SC_{streets}^{t} =$ built surface area used for streets in year $t$
+
+  $SC^{t} =$ total built area in year $t$
+
+desagregacion:
+
+observaciones:
+
+periodicidad: FUENTE.FREQ_I
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  The value of public spaces is often overlooked or underestimated by policy 
+  makers, leaders, citizens and urban developers. There are several reasons 
+  for this, such as the lack of resources, or understanding or capacity to use 
+  public space as a complete, multi-functional urban system. 
+
+  Often the lack of appropriate enabling frameworks, weak political will and 
+  the absence of the means of public engagement compound the situation. Nevertheless, 
+  fundamentally, the lack of a global measurement indicator has hindered the local 
+  and global appreciation of the value of the public spaces. 
+
+  Source: United Nations Statistics Division 
+
+comparabilidad: >-
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-07-01.pdf">Metadata 11-7-1.pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

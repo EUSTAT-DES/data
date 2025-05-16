@@ -1,0 +1,38 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.11-titulo
+# meta_global: meta_largo.11-5-titulo
+#  indicador_onu_global: indicador_largo.11-5-3-titulo
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:
+
+texto_oceca:
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  
+  The disaster related infrastructure loss and basic service disruptions 
+  are significantly influenced by both large-scale catastrophic events, 
+  as well as a high number of small-scale hazardous events. 
+
+  Source: United Nations Statistics Division 
+
+dato_global:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-05-03.pdf">Metadata 11-5-3.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -1,0 +1,85 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.8-5-E1-titulo
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-5-titulo
+#  indicador_onu_global: indicador_largo.8-5-1-titulo
+
+
+definicion:  | 
+  Proportion of people aged 20-64 who are employed, by age group, and gender employment gap.
+
+  An employed person is someone who, during a reference week, worked at least one hour for 
+  pay or benefit, or who did not work but had a job from which they were temporarily absent. 
+
+formula:  |
+  <b>Employment rate</b>
+
+  $$TA^{t} = \frac{PO^{t}}{P^{t}} $$
+
+  where:
+
+  $PO^{t} =$ employed population in year $t$
+
+  $P^{t} =$ population in year $t$
+
+  <br>
+
+  <b>Gender gap in employment:</b>
+
+  $$BGE^{t} ={TA_{men}^{t} - TA_{women}^{t}}$$
+
+  where:
+
+  $TA_{men}^{t} =$ employment rate of men in year $t$
+
+  $TA_{women}^{t} =$ employment rate of women in year $t$
+
+desagregacion:  |
+  Sex
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones:
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Paid employment is crucial for ensuring sufficient living standards and 
+  it provides the necessary foundation for people to achieve their personal 
+  goals and aspirations. Moreover, employment contributes to economic performance, 
+  quality of life and social inclusion, making it a cornerstone of socioeconomic 
+  development and well-being. 
+
+  The European Pillar of Social Rights, jointly proclaimed by the European Commission, 
+  the European Parliament and the European Council in 2017, sets out 20 key principles 
+  and rights essential for fair and well-functioning labour markets and social protection 
+  systems. The <a href="https://op.europa.eu/webpub/empl/european-pillar-of-social-rights/es/">
+  European Pillar of Social Rights Action Plan</a>, adopted in 2021, turns the 
+  Principles into concrete actions to benefit citizens. It also proposes an ambitious 
+  employment target of 78 % of the population aged 20 to 64 for the EU to reach by 2030. 
+  In support of this, the Action Plan proposes to halve the gender employment gap by 2030 
+  compared with 2019 and to decrease the rate of young people neither in employment nor in 
+  education or training (NEET) aged 15 to 29 to 9 % by 2030.
+
+  Source: Eurostat
+
+dato_global: >-
+
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_08_30/default/table?lang=en&category=sdg.sdg_08">
+  Employment rate by sex (sdg_08_30)</a> Eurostat
+
+comparabilidad: >- 
+  The available indicator is comparable with the European indicator Employment rate by sex (sdg_08_30)"
+
+indicador_meta_enlace:
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_08_30_esmsip2.htm"> Metadata Eurostat sdg_08_30 </a>
+
+informacion_interes: >-
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

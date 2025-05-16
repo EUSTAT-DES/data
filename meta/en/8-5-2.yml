@@ -1,0 +1,72 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.8-5-2-title
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-5-titulo
+#  indicador_onu_global: indicador_largo.8-5-2-titulo
+
+
+definicion:  | 
+  Proportion of unemployed people compared to economically active people
+
+formula:  |
+
+  $$TD^{t} = \frac{D^{t}}{A^{t}} \cdot 100$$
+
+  where:
+
+  $D^{t} =$ unemployed people in year $t$
+
+  $A^{t} =$ economically active people in year $t$
+
+
+desagregacion:  |
+  Sex
+
+  Age
+
+  People without disabilities, and people with disabilities (people with a disability 
+  level of 33% or greater)
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  The unemployment rate is a useful measure of the underutilization of the 
+  labour supply. It reflects the inability of an economy to generate employment 
+  for those persons who want to work but are not doing so, even though they are 
+  available for employment and actively seeking work. It is thus seen as an 
+  indicator of the efficiency and effectiveness of an economy to absorb its labour 
+  force and of the performance of the labour market. 
+
+  Short-term time series of the unemployment rate can be used to signal changes in 
+  the business cycle; upward movements in the indicator often coincide with recessionary 
+  periods or in some cases with the beginning of an expansionary period as persons 
+  previously not in the labour market begin to test conditions through an active job 
+  search. 
+
+  Source: United Nations Statistics Division
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=8.5.2&seriesCode=SL_TLF_UEM&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15-24%20%7C%20BOTHSEX">Unemployment rate, by sex and age - 13th ICLS (%) SL_TLF_UEM</a> UNSTATS
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-02.pdf">Metadata 8-5-2.pdf</a>'
+
+informacion_interes: >-
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
