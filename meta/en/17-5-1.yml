@@ -1,0 +1,48 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.17-titulo
+# meta_global: meta_largo.17-5-titulo
+#  indicador_onu_global: indicador_largo.17-5-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Investment promotion regimes can be defined as those instruments that directly aim at encouraging 
+  outward or inward foreign investment through particular measures of the home or host countries of 
+  investment. 
+
+  Investment promotion regimes for LDCs are those instruments that home countries of investors have put 
+  in place to encourage outward investment in LDCs directly or through measures intended for developing 
+  countries. 
+
+  The adoption of investment promotion regimes for LDCs is an important yet not 
+  sufficient means for strengthening the global partnership for the SGDs (Goal 17). Subsequent 
+  implementation of these regimes is necessary for making the tool effective. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: |
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.5.1&seriesCode=SG_CPA_OFDI&areaCode=1&period=3&table=ALL">
+  Number of countries with an outward investment promotion scheme which can benefit developing countries, including LDCs (1 = YES, 0 = NO) SG_CPA_OFDI</a> UNSTATS
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-05-01.pdf">Metadata 17-5-1.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

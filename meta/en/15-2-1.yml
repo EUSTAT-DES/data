@@ -1,0 +1,64 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  global_indicators.15-2-1-title
+
+objetivo_global: objetivo_largo.15-titulo
+meta_global: meta_largo.15-2-titulo
+#  indicador_onu_global: indicador_largo.15-2-1-titulo
+
+definicion: >-
+  Forest area with management instruments in force and percentage with respect to forest area
+
+formula: |
+
+  $$PSF_{managed}^{t} = \frac{SF_{managed}^{t}}{SF^{t}} \cdot 100$$
+
+  where: 
+
+  $SF_{managed}^{t} =$ forest area with management instruments in force in year $t$  
+
+  $SF^{t} =$ forest area in year $t$
+
+desagregacion:
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  The definition of SFM by the UN General Assembly contains several key aspects, notably that sustainable 
+  forest management is a concept which varies over time and between countries, whose circumstances – 
+  ecological, social and economic – vary widely, but that it should always address a wide range of forest 
+  values, including economic, social and environmental values, and take intergenerational equity into 
+  account. 
+
+  Clearly a simple measure of forest area is insufficient to monitor sustainable forest management as a 
+  whole. The United Nations indicator consists of five sub-indicators that measure progress toward all 
+  dimensions of sustainable forest management. Sub-indicators are: 
+
+  1. Annual forest area change rate 
+  2. Above-ground biomass in forest 
+  3. Proportion of forest area within legally established protected areas 
+  4. Proportion of forest area under a long-term management plan 
+  5. Forest area under an independently verified forest management certification scheme 
+
+  Source: United Nations Statistics Division 
+
+dato_global: | 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=15.2.1&seriesCode=AG_LND_FRSTMGT&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Proportion of forest area with a long-term management plan (%) AG_LND_FRSTMGT</a> UNSTATS
+
+
+comparabilidad: >-
+  The available indicator responds to sub-indicator 4 of the indicator proposed by the United Nations. 
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-15-02-01.pdf">Metadata 15-2-1.pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

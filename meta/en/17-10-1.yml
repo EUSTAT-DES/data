@@ -1,0 +1,37 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.17-titulo
+# meta_global: meta_largo.17-10-titulo
+#  indicador_onu_global: indicador_largo.17-10-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  The average level of customs tariff rates applied worldwide can be used as an indicator of the degree of 
+  success achieved by multilateral negotiations and regional trade agreements. 
+
+  Source: United Nations Statistics Division 
+
+dato_global:
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-10-01.pdf">Metadata 17-10-1.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

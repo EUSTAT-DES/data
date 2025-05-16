@@ -1,0 +1,43 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.16-titulo
+# meta_global: meta_largo.16-5-titulo
+# indicador_onu_global: indicador_largo.16-5-1-titulo
+
+
+definicion:
+formula:
+desagregacion:
+periodicidad:
+
+observaciones:
+ 
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Corruption is an antonym of equal accessibility to public services and of correct functioning of the 
+  economy; as such, it has a negative impact on fair distribution of resources and development 
+  opportunities. 
+
+  Besides, corruption erodes public trust in authorities and the rule of law; when 
+  administrative bribery becomes a recurrent experience of large sectors of the population and businesses, 
+  its negative effects have an enduring negative impact on the rule of law, democratic processes and 
+  justice. 
+
+  By providing a direct measure of the experience of bribery, this indicator provides an objective 
+  metric of corruption, a yardstick to monitor progress in the fight against corruption. 
+
+  Source: United Nations Statistics Division 
+
+dato_global:
+comparabilidad:
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-05-01.pdf">Metadata 16-5-1.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

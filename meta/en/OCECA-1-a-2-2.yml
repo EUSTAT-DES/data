@@ -1,0 +1,47 @@
+ # Metadatos nacionales (ficha metodológica)
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-a-titulo
+#  indicador_onu_global: indicador_largo.1-a-2-titulo
+
+definicion: >-
+  Proportion of the expenditure of the autonomous public administration that is dedicated to health (functional group 07 of the Classifications of the 
+  Functions of Government (COFOG), used internationally to classify the purposes of government activities)
+
+formula: |
+
+  $$PG_{health}^{t} = \frac{G_{health}^{t}}{G^{t}} \cdot 100$$
+
+  where:
+
+  $G_{salud}^{t} =$ expenditure of the autonomous public administration dedicated to health (functional group 07 of the Classifications of the Functions of Government (COFOG) in year $t$
+
+  $G^{t} =$  total expenditure of the autonomous public administration in year $t$
+
+
+desagregacion: >-
+
+observaciones: |
+
+  The Classifications of the Functions of Government (COFOG), developed by the Organization for Economic Cooperation and Development 
+  (OECD) and published by the United Nations Statistics Division, structures public spending into 10 functional groups: 
+
+  - 01 General public services
+  - 02 Defense
+  - 03 Public order and security
+  - 04 Economic affairs
+  - 05 Environmental protection
+  - 06 Housing and community services
+  - 07 Health
+  - 08 Leisure, culture and religion
+  - 09 Education
+  - 10 Social protection
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ 
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

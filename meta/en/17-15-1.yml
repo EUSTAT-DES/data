@@ -1,0 +1,55 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.17-titulo
+# meta_global: meta_largo.17-15-titulo
+#  indicador_onu_global: indicador_largo.17-15-1-titulo
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Measuring the alignment of development partners’ support to country priorities in terms of intervention 
+  design and type of results-reporting mechanisms provides a relevant assessment regarding the degree of 
+  respect for each country’s policy space and leadership to establish and implement country-owned 
+  policies for poverty eradication and sustainable development. 
+
+  In particular, for interventions approved in the year of reference (i.e. most recent behaviour), the 
+  assessment measures the extent to which support from other countries and international organizations 
+  set exogenous priorities and conditions to partner countries receiving development co-operation that are 
+  not reflected in existing country-led priority-setting mechanisms or planning tools. 
+
+  The information collected throughout the indicator provides a two-way mirror, providing both a 
+  country-level estimate on a country’s existing policy space, and a development partner-level estimate on 
+  its degree of alignment with existing results frameworks and priority-setting mechanisms in partner 
+  countries where it operates. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.15.1&seriesCode=SG_PLN_PRVRIMON&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Proportion of results indicators which will be monitored using government sources and monitoring systems - data by provider (%) SG_PLN_PRVRIMON</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.15.1&seriesCode=SG_PLN_RECRIMON&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient (%) SG_PLN_RECRIMON</a> UNSTATS
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-15-01.pdf">Metadata 17-15-1.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

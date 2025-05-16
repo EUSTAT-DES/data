@@ -1,0 +1,61 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.15-4-2-titulo
+
+# objetivo_global: objetivo_largo.15-titulo
+# meta_global: meta_largo.15-4-titulo
+#  indicador_onu_global: indicador_largo.15-4-2-titulo
+
+
+definicion:
+  Area of ​​green cover (forests, grasslands and croplands) in mountain areas relative to 
+  the total area of ​​mountain areas 
+
+
+formula: |
+
+  $$PSMV^{t} = \frac{SMV^{t}}{SM^{t}} \cdot 100$$
+
+  where:
+
+  $SMV^{t} =$ area of ​​mountain areas covered by forests, grasslands and croplands in year $t$
+
+  $SM^{t} =$ area of ​​mountain areas in year $t$
+
+
+desagregacion: 
+
+periodicidad: FUENTE.FREQ_A3
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Mountain ecosystems are important biodiversity centres that provide valuable ecosystem services to 
+  upstream and downstream areas. Yet, mountains are very fragile and impacted easily by both natural and 
+  anthropogenic factors. These can include climate change, unplanned agricultural expansion, unplanned 
+  urbanization, timber extraction, recreational activities and natural hazards such as landslides and flooding. 
+
+  The degradation of mountain ecosystems such as loss of the glacial cover, mountain biodiversity and green 
+  cover will affect the ability of the ecosystem to supply water downstream. The loss of forest and vegetative 
+  cover will reduce the ability of the ecosystem to retain soil and prevent landslides and flooding 
+  downstream. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=15.4.2&seriesCode=ER_MTN_GRNCVI&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=MGCI%20%7C%20MONTANE">
+  Mountain Green Cover Index ER_MTN_GRNCVI, MGCI Montano</a> UNSTATS
+
+comparabilidad: >- 
+  The available indicator does not comply with United Nations metadata but provides similar information 
+
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-15-04-02.pdf">Metadata 15-4-2.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

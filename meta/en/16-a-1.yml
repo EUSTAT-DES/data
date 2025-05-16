@@ -1,0 +1,42 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.16-titulo
+# meta_global: meta_largo.16-a-titulo
+# indicador_onu_global: indicador_largo.16-a-1-titulo
+
+
+definicion:
+formula:
+desagregacion:
+periodicidad:
+
+observaciones:
+ 
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  This indicator measures the global continual efforts of countries in setting up independent national 
+  institutions, through international cooperation, to promote inclusive, peaceful and accountable societies. 
+ 
+  The creation and fosterage of a National Human Rights Institution (NHRI) indicates a State’s commitment 
+  to promote and protect the human rights provided in international human rights instruments. 
+
+  Compliance with the Paris Principles vest NHRIs with a broad mandate, competence and power to 
+  investigate, report on the national human rights situation, and publicize human rights through 
+  information and education. 
+
+  Source: United Nations Statistics Division 
+
+dato_global:
+
+comparabilidad:
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-0a-01.pdf">Metadata 16-a-1.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

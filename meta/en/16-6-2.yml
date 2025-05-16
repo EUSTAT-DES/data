@@ -1,0 +1,72 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.16-6-2-titulo
+
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-6-titulo
+#  indicador_onu_global: indicador_largo.16-6-2-titulo
+
+definicion: >-
+  Average proportion of the population that feels very or fairly satisfied with the functioning of public services in the areas of education, healthcare, pension management, administration of justice, public security, social services, public transport, public works and assistance to dependent persons. 
+
+formula: |
+
+  $$PPS^t = \frac{1}{n} \sum_{i=1}^{n} PPS_{i}^{t}$$
+
+  where:
+
+  $PPS_{i}^{t} =$ proportion of the population satisfied with the functioning of public services in year $t$ for the 
+  following areas: education, health care, pension management, administration of justice, public security, social 
+  services, public transport, public works and assistance to dependent persons
+  
+desagregacion: |
+  Public services: education; health care; pension management; administration of justice; public security; social 
+  services; public transport; public works; assistance to dependent persons 
+
+  Sex
+
+  Province
+
+
+observaciones:
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Governments have an obligation to provide a wide range of public services that should meet the 
+  expectations of their citizens in terms of access, responsiveness and reliability/quality. 
+
+  When citizens cannot afford some essential services, when their geographic or electronic access to services and 
+  information is difficult, when the services provided do not respond to their needs and are of poor quality, 
+  citizens will naturally tend to report lower satisfaction not only with these services, but also with public 
+  institutions and governments. 
+
+  In this regard, it has been shown that citizens’ experience with front-line 
+  public services affects their trust in public institutions (OECD 2017, Trust and Public Policy – How Better 
+  Governance Can Help Rebuild Public Trust; Eurofound 2018, Societal change and trust in institutions). 
+
+  Mindful of this close connection between service provision/performance, citizen satisfaction and public 
+  trust, governments are increasingly interested in better understanding citizens’ needs, experiences and 
+  preferences to be able to provide better targeted services, including for underserved populations. 
+
+  Measuring satisfaction with public services is at the heart of a citizen-centered approach to service delivery 
+  and an important outcome indicator of overall government performance. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: 
+
+
+comparabilidad: >-
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-06-02.pdf">Metadata 16-6-2.pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

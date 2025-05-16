@@ -1,0 +1,68 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.15-1-E1-titulo
+
+# objetivo_global: objetivo_largo.15-titulo
+# meta_global: meta_largo.15-1-titulo
+#  indicador_onu_global: indicador_largo.15-1-E1-titulo
+
+
+definicion:
+  Land area included in protected areas (Natura 2000 Network and Protected Natural Areas), 
+  and percentage of the total land area 
+
+
+formula: |
+
+
+  $$PSTP^{t} = \frac{STP^{t}}{ST^{t}} \cdot 100$$
+
+  where:
+
+  $STP^{t} =$ land area included in protected areas in year $t$
+
+  $ST^{t} =$ total land area in year $t$
+
+  The disaggregation by type of ecosystem is carried out on the total surface of the ecosystem, 
+  according to the following formula: 
+
+  $$PSTP_{ecosystem}^{t} = \frac{STP_{ecosystem}^{t}}{ST_{ecosystem}^{t}} \cdot 100$$
+
+  where:
+
+  $STP_{ecosystem}^{t} =$ surface area of ​​a given ecosystem included in protected areas in year $t$
+
+  $ST_{ecosystem}^{t} =$ total surface area of ​​a given ecosystem in year $t$
+
+desagregacion: >-
+  Ecosystem type: forests; wetlands; grasslands; croplands; settlements; other lands
+
+periodicidad: FUENTE.FREQ_A3
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  This indicator measures the extent of terrestrial protected areas, comprising nationally designated 
+  protected areas and Natura 2000 sites. A nationally designated area is an area protected by national legislation. 
+
+  The Natura 2000 sites are designated to safeguard Europe's species and habitats, listed under the EU 
+  Habitats and Birds Directives. 
+
+  Source: Eurostat
+
+dato_global: |
+
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_15_20/default/table?lang=en&category=sdg.sdg_15">
+  Surface of the terrestrial protected areas (sdg_15_20)</a> Eurostat
+
+comparabilidad: |
+  The available indicator is comparable with the European indicator.
+
+indicador_meta_enlace: >- 
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_15_20_esmsip2.htm">Metadata Eurostat (sdg_15_20)</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
