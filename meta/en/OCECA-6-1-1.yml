@@ -1,0 +1,34 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+objetivo_global: objetivo_largo.6-titulo
+meta_global: meta_largo.6-1-titulo
+#  indicador_onu_global: indicador_largo.6-1-1-titulo
+
+definicion:  |
+  Proportion of people in supply areas that report to the National Drinking Water Information System (SINAC)
+
+formula:  |
+
+  $$PPC^{t} = \frac{PC^{t}}{P^{t}} \cdot 100$$
+
+  where:
+
+  $PC^{t} =$ population in supply areas that report to the National Drinking Water Information System in year $t$
+
+  $P{t} =$ population as of January 1 of year $t$
+
+desagregacion: >- 
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones: >-
+
+  Values ​​of 100 or close to this figure should be taken with caution, as they may be due to double counting of the population associated with areas that have been affected by mergers of supply zones.
+
+texto_oceca: FUENTE.oceca
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

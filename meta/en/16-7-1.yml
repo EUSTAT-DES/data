@@ -1,0 +1,87 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.16-7-1-titulo
+
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-7-titulo
+#  indicador_onu_global: indicador_largo.16-7-1-titulo
+
+definicion: >-
+  Ratio of the proportion of women in the public sector to the proportion of women in the population aged 16 to 64, by public institution
+
+formula: |
+
+  $$RM_{SP}^{t} = \frac{PM_{SP}^{t}}{PM_{16-64}^{t}}$$
+
+  being:
+
+  $$PM_{SP}^{t} = \frac{P_{SP\, women}^{t}}{P_{SP}^{t}} \cdot 100 $$
+
+  $$PM_{16-64}^{t} = \frac{P_{16-64\, women}^{t}}{P_{16-64}^{t}} \cdot 100 $$
+
+  where: 
+
+  $P_{SP\, women}^{t} =$ women in public service as of January 1 of year $t$ 
+
+  $P_{SP}^{t} =$ people in public service as of January 1 of year $t$ 
+
+  $P_{16-64\, women}^{t} =$ women aged 16-64 as of 1 January of year $t$ 
+
+  $P_{16-64}^{t} =$ people aged 16-64 as of 1 January of year $t$ 
+
+
+desagregacion: |
+
+  Public institution: public sector (total); autonomous public sector; local public sector; state public sector; autonomous health institutions; autonomous non-university educational centers; provincial governments; town councils; universities; autonomous police; autonomous justice administration; state justice administration; armed forces; state security forces and bodies
+
+
+observaciones: |
+  The reference value of this indicator is 1, which means the representation of women in the public 
+  administration analyzed is perfectly proportional to their presence in the population between 16 
+  and 64 years old. 
+
+  If the indicator takes a value less than 1 it means that women are underrepresented, while if it 
+  takes a value greater than 1 it means that they are overrepresented. 
+
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  The public service is the bedrock of government – where the development and implementation of public 
+  policies and programmes takes place and where society interacts with the government. In most countries, 
+  the public service is also the single largest employer. It is in this context that SDG 16, under its target 16.7, 
+  encourages countries to ensure that the public service is representative of the people it serves “at all 
+  levels”. 
+
+  Indicator 16.7.1 focuses on proportional representation in public institutions; it measures the extent to 
+  which a country’s public institutions are representative of the general population. Proportional 
+  representation (also known as ‘descriptive representation’) in the public service is concerned with the 
+  extent to which the composition of the public service mirrors the various socio-demographic groups in the 
+  national population. The underlying assumption is that when the public service reflects the social diversity 
+  of a nation, this may lead to greater legitimacy of the public service in the eyes of citizens, as public servants 
+  resemble the people they provide services to.  
+
+  Proportional representation has been found to be associated
+  with higher levels of trust in public institutions, as people perceive more inclusive policymaking processes 
+  to improve the quality and fairness of policy decisions, and to help curb the undue influence of vested 
+  interests over decision-making. 
+
+  Source: United Nations Statistics Division
+
+dato_global: 
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.7.1&seriesCode=SG_DMK_PARLMP_LC&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral SG_DMK_PARLMP_LC</a> UNSTATS
+
+comparabilidad: >-
+  The available indicator partially complies with the United Nations metadata. It focuses on sub-indicator b). 
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01b.pdf">Metadata 16-7-1(b).pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

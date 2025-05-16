@@ -1,0 +1,66 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.16-1-4-titulo
+
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-1-titulo
+#  indicador_onu_global: indicador_largo.16-1-4-titulo
+
+definicion: >-
+  Proportion of people aged 16 and over who feel safe (very or fairly safe) walking alone at night in the area they live in
+
+formula: |
+
+  $$PPSSC_{16+}^{t} = \frac{PSSC_{16+}^{t}}{P_{16+}^{t}} \cdot 100$$
+
+  where:
+
+  $PSSC_{16+}^{t} =$ people aged 16 and over who feel safe (very or fairly safe) walking alone at night in the area they live in, in year $t$ 
+
+  $P^{t} =$ people aged 16 and over in year $t$
+
+desagregacion: |
+  Sex
+
+  Province
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Perception of safety is considered a subjective wellbeing indicator. It affects the way in which human 
+  beings interact with their surroundings, their health, and consequently, their quality of life. 
+
+  Indicator 16.1.4 taps into the concept of ‘fear of crime’, which has been elicited in dozens of crime victimization 
+  surveys, and the standard formulation used here has been shown to be applicable in different cultural 
+  contexts. 
+
+  It is important to note that fear of crime is a phenomenon that is separate from the prevalence 
+  of crime and that fear of crime may be even largely independent from actual experience. The perception 
+  of crime and the resulting fear of it is influenced by several factors, such as the awareness of crime, the 
+  public discussion, the media discourse, and personal circumstances. 
+
+  Nevertheless, fear of crime is an important indicator in itself as high levels of fear can negatively influence 
+  well-being and lead to reduced contacts with the public, reduced trust and engagement in the community, and thus 
+  represent an obstacle to development. Fear of crime also differs across demographic groups and this indicator helps to 
+  identify vulnerable groups. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: 
+
+
+comparabilidad: >-
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-04.pdf">Metadata 16-1-4.pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

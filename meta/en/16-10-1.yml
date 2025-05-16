@@ -1,0 +1,47 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.16-titulo
+# meta_global: meta_largo.16-10-titulo
+# indicador_onu_global: indicador_largo.16-10-1-titulo
+
+
+definicion:
+formula:
+desagregacion:
+periodicidad:
+
+observaciones:
+ 
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  This indicator seeks to measure enjoyment of fundamental freedoms (e.g. freedom of opinion, freedom 
+  of expression and access to information, the right to peaceful assembly and freedom of association) on 
+  the premise that killing, enforced disappearance, torture, arbitrary detention, kidnapping and other 
+  harmful act against journalists, trade unionists and human rights defenders have a chilling effect on the 
+  exercise of these fundamental freedoms. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.10.1&seriesCode=VC_VAW_MTUHRA&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">
+  Number of cases of killings of human rights defenders, journalists and trade unionists VC_VAW_MTUHRA</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.10.1&seriesCode=VC_VOC_ENFDIS&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">
+  Number of cases of enforced disappearance of human rights defenders, journalists and trade unionists (Number) VC_VOC_ENFDIS</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.10.1&seriesCode=VC_VAW_MTUHRAN&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">
+  Countries with at least one verified case of killings of human rights defenders, journalists, and trade unionists (1 = YES, 0 = NO) VC_VAW_MTUHRAN</a> UNSTATS
+
+comparabilidad:
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-10-01.pdf">Metadata 16-10-1.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

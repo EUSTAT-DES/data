@@ -1,0 +1,47 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.15-titulo
+# meta_global: meta_largo.15-6-titulo
+#  indicador_onu_global: indicador_largo.15-6-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  The Nagoya Protocol, to be operational, requires that certain enabling conditions are met at the national 
+  level for its effective implementation. In particular, countries will need, depending on their specific 
+  circumstances, to revise legislative, administrative or policy measures already in place or develop new 
+  measures in order to meet the obligations set out under the Protocol. 
+
+  In particular, the Nagoya Protocol provides that Parties are to take legislative, administrative or policy 
+  measures, as appropriate, to ensure the fair and equitable sharing of the benefits arising from the 
+  utilization of genetic resources, including for genetic resources that are held by indigenous communities, 
+  and benefits arising from the utilization of traditional knowledge associated with genetic resources. 
+
+  Source: United Nations Statistics Division 
+
+dato_global:
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=15.6.1&seriesCode=ER_CBD_SMTA&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country (number) ER_CBD_SMTA</a> UNSTATS
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-15-06-01.pdf">Metadata 15-6-1.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

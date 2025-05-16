@@ -1,0 +1,49 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.16-titulo
+# meta_global: meta_largo.16-7-titulo
+# indicador_onu_global: indicador_largo.16-7-2-titulo
+
+
+definicion:
+formula:
+desagregacion:
+periodicidad:
+
+observaciones:
+ 
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  SDG indicator 16.7.2 refers to the concept of ‘political efficacy’, which dates back to the 1950s, when the 
+  concept was discussed jointly with political trust as a key measure of the overall health of a democratic 
+  system (Craig et al, 1990). It can be defined as the “feeling that political and social change is possible and 
+  that the individual citizen can play a part in bringing about this change" (Campbell, Gurin and Miller, 1954, 
+  p.187). 
+
+  This perception that people can impact decision-making is important as it makes it worthwhile for 
+  them to perform their civic duties (Acok et al, 1985). 
+
+  The ability to participate in society, to have a say in the shaping of policies and to dissent without fear are 
+  essential freedoms. Political voice also provides a corrective to public policy: it can ensure the 
+  accountability of officials and public institutions, reveal what people need and value, and call attention to 
+  significant deprivations. 
+
+  Political voice also reduces the potential for conflicts and enhances the prospect 
+  of building consensus on key issues, with payoffs for economic efficiency, social equity, and inclusiveness 
+  in public life.
+
+  Source: United Nations Statistics Division 
+
+dato_global:
+comparabilidad:
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-02.pdf">Metadata 16-7-2.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

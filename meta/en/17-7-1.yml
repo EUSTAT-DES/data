@@ -1,0 +1,51 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.17-titulo
+# meta_global: meta_largo.17-7-titulo
+#  indicador_onu_global: indicador_largo.17-7-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Rational environmental management means making the best use of resources to meet basic human needs 
+  without destroying the sustaining and regenerative capacity of natural systems. This requires a good 
+  understanding of the intersecting elements within the larger frame of development and implies the 
+  adoption and use of alternative, environmentally sound development strategies and related technologies.  
+
+  ESTs play an important role to improve efficiency of resources (materials and energy), and reduce pollution 
+  and waste from different sectors. The importance of Environmentally Sound Technology was first 
+  emphasized during Rio Earth Summit in 1992 and ever since it has become a major component of 
+  international environmental cooperation. 
+
+  Access to ESTs also plays a central role in the ground-breaking 
+  agreement, the Addis Ababa Action Agenda – which is an implementing mechanism for the global 
+  Sustainable Development Goals (2030 Agenda for Sustainable Development). The agreement was reached 
+  by the 193 UN Member States. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: |
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.7.1&seriesCode=DC_ENVTECH_TT&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Total trade of tracked Environmentally Sound Technologies (current United States dollars) DC_ENVTECH_TT</a> UNSTATS
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-07-01.pdf">Metadata 17-7-1.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

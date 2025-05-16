@@ -1,0 +1,47 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.16-titulo
+# meta_global: meta_largo.16-2-titulo
+#  indicador_onu_global: indicador_largo.16-2-3-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Sexual violence is one of the most unsettling of children's rights violations. Experiences of sexual violence 
+  in childhood hinder all aspects of development: physical, psychological/emotional and social. Apart from 
+  the physical injuries that can result, researchers have consistently found that the sexual abuse of children 
+  is associated with a wide array of mental health consequences and adverse behavioural outcomes in 
+  adulthood. 
+
+  The issue is universally relevant and the indicator captures one of the gravest forms of violence against 
+  children. The right of children to protection from all forms of violence is enshrined in the Convention on 
+  the Rights of the Child (CRC) and its Optional Protocols. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: |
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.2.3&seriesCode=VC_VAW_SXVLN&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=18-29%20%7C%20FEMALE">
+  Proportion of population aged 18-29 years who experienced sexual violence by age 18, by sex (% of population aged 18-29) VC_VAW_SXVLN</a> UNSTATS
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-03.pdf">Metadata 16-2-3.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

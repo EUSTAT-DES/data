@@ -1,0 +1,42 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.16-titulo
+# meta_global: meta_largo.16-10-titulo
+# indicador_onu_global: indicador_largo.16-10-2-titulo
+
+definicion:
+formula:
+desagregacion:
+periodicidad:
+
+observaciones:
+ 
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  The purpose of this indicator is to report the total of number of countries that adopted legal guarantees 
+  on ATI, as well as the main tendencies in the implementation of these guarantees. 
+
+  The right of access to public information (RTI) is a component of the fundamental right of freedom of 
+  expression as set forth by Article 19 of the Universal Declaration of Human Rights (1948), and the 
+  subsequent International Covenant on Civil and Political Rights. These state that the fundamental right of 
+  freedom of expression encompasses the freedom "to seek, receive and impart information and ideas 
+  through any media and regardless of frontiers”. Seeking and receiving is the dimension of the 
+  right that is immediately relevant to this SDG indicator, with the right to impart information and ideas 
+  constituting the other side of the coin. 
+
+  Source: United Nations Statistics Division 
+
+dato_global:
+
+comparabilidad:
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-10-02.pdf">Metadata 16-10-2.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -1,0 +1,56 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.17-2-1-titulo
+
+objetivo_global: objetivo_largo.17-titulo
+meta_global: meta_largo.17-2-titulo
+#  indicador_onu_global: indicador_largo.17-2-1-titulo
+
+definicion: >-
+  Net disbursement of regional and local public administrations in grants and loans to developing countries and in proportion to GDP
+
+formula: |
+
+  $$PPIBAODNAP^{t} = \frac{AODN_{CCAA}^{t}+AODN_{EELL}^{t}}{PIB^{t}} \cdot 100$$ 
+
+  where:
+
+  $AODN_{CCAA}^{t} =$ net official development aid from the autonomous community in year $t$ 
+
+  $AODN_{EELL}^{t} =$ net official development aid from local public administrations in year $t$
+
+  $PIB^{t} =$ gross domestic product at current prices in year $t$
+
+
+desagregacion: >-
+
+observaciones: >-
+
+  The Development Assistance Committee (DAC) of the Organisation for Economic Co-operation and Development (OECD) 
+  establishes the list of countries eligible to receive Official Development Assistance. These are low- and 
+  middle-income countries based on gross national income per capita as published by the World Bank, with the 
+  exception of G8 members, EU members, and countries with a firm EU entry date. 
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Total ODA flows to developing countries quantify the public effort that donors provide to developing
+  countries. 
+
+  Source: United Nations Statistics Division
+
+dato_global:
+
+comparabilidad: >-
+  The available indicator partially complies with the United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-02-01.pdf">Metadata 17-2-1.pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

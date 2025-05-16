@@ -1,0 +1,43 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-a-titulo
+#  indicador_onu_global: indicador_largo.1-a-2-titulo
+
+
+definicion: >-
+  Proportion of people with income with imputed rent per unit of consumption under 60% of the median income for the autonomous community with 
+  imputed rent per unit of consumption (modified OECD scale)
+
+
+formula: |
+
+  $$PPRPRAI_{CCAA}^{t} = \frac{PRPRAI_{CCAA}^{t}}{P^{t}} \cdot 100$$
+
+  where:
+
+  $PRPRAI_{CCAA}^{t} =$ population at risk of relative poverty with imputed rent considering the poverty line of the autonomous community (60% of median income in the autonomous community with imputed rent per unit of consumption (modified OECD scale) in year $t$ 
+
+  $P^{t} =$ total population in year $t$
+
+periodicidad: FUENTE.FREQ_A4
+
+observaciones: |
+  The number of consumption units in a household 
+  is calculated using the modified OECD scale, which assigns a weight of 1 to the 
+  first person aged 14 or over, a weight of 0.5 for other people aged 14 or over 
+  and a weight of 0.3 for people under 14 years of age. 
+
+  Imputed rent is applied to households that do not pay full rent because they own or occupy a dwelling 
+  rented at below market rate or rent-free, in order to equalize rents with those that do pay full rent. 
+
+  The imputed value is the equivalent of the market rent that would be paid for a dwelling similar to 
+  the one occupied, less any rent actually paid. This variable also includes the imputed rent for the 
+  dwelling when it is provided by the company where a household member works. Interest on loans taken 
+  out to purchase the primary residence is also deducted from the household's total income. 
+
+texto_oceca: FUENTE.oceca
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'
