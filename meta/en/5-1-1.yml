@@ -1,0 +1,122 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.5-1-1-titulo
+
+objetivo_global: objetivo_largo.5-titulo
+meta_global: meta_largo.5-1-titulo
+ # indicador_onu_global: indicador_largo.5-1-1-titulo
+
+
+definicion: >-
+  Proportion of affirmative responses out of the total number of questions 
+  collected to measure the existence of legal frameworks to promote, strengthen, 
+  and monitor gender equality in the four areas outlined in the Convention on 
+  the Elimination of All Forms of Discrimination against Women (CEDAW) and the 
+  Beijing Platform for Action
+
+formula: |
+
+  $$MJML^{t} = \frac{NSI_{area}^{t}}{NSI_{area}^{t} + NNO_{area}^{t}} \cdot 100$$
+
+  where:
+
+  $NSI_{area}^{t} =$ Number of "YES" responses to the questions in the corresponding 
+  area of ​​the specific questionnaire designed for indicator 5.1.1 by the United Nations 
+  in the year $t$
+
+  $NNO_{area}^{t} =$ Number of "NO" responses to the questions in the corresponding 
+  area of ​​the specific questionnaire designed for indicator 5.1.1 by the United Nations 
+  in the year $t$
+
+desagregacion: |
+  Areas: Global legal framework and public life, Violence against women, Employment and 
+  economic benefits, Marriage and family 
+
+observaciones: |
+
+  The United Nations established a 42-question "YES/NO" questionnaire to measure governments' 
+  efforts to establish legal frameworks to promote, strengthen, and monitor gender equality. 
+  This questionnaire is divided into four areas outlined in the Convention on the Elimination 
+  of All Forms of Discrimination against Women (CEDAW) and the Beijing Platform for Action: 
+
+  1. Global Legal Framework and Public Life (questions 1-12)
+  2. Violence against Women (questions 13-21)
+  3. Employment and Income Support (questions 22-31)
+  4. Marriage and Family (questions 32-42)
+
+
+periodicidad: FUENTE.FREQ_A2
+texto_oceca: FUENTE.oceca
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Equality and non-discrimination based on sex are core principles under 
+  the international legal and policy framework, including the Convention 
+  on the Elimination of All Forms of Discrimination against Women (CEDAW), 
+  which has 189 States parties, and the Beijing Platform for Action. This 
+  framework sets out the commitments of States to eliminate discrimination 
+  against women and promote gender equality, including in the area of legal 
+  frameworks. 
+
+  In the Beijing Platform for Action, States pledged to revoke any remaining 
+  laws that discriminate based on sex. The five-year review and appraisal of 
+  the Beijing Platform for Action (Beijing +5) established 2005 as the target 
+  date for the repeal of laws that discriminate against women. This deadline 
+  has come and gone. While there has been progress in reforming laws to promote 
+  gender equality, discrimination against women in the law continues in many 
+  countries. Even where legal reforms have taken place, gaps in implementation 
+  persist. 
+
+  Removing discriminatory laws and putting in place legal frameworks that advance 
+  gender equality are prerequisites to ending discrimination against women and 
+  achieving gender equality (Goal 5, Target 5.1). Indicator 5.1.1 will be crucial 
+  in accelerating progress on the implementation of SDG 5 and all other gender-related 
+  commitments in the 2030 Agenda for Sustainable Development. 
+
+  Indicator 5.1.1 measures Government efforts to put in place legal frameworks that 
+  promote, enforce and monitor gender equality. 
+
+  The assessment is carried out by national counterparts, including National Statistical 
+  Offices (NSOs) and/or National Women’s Machinery (NWMs), and legal practitioners/
+  researchers on gender equality, using a questionnaire comprising 42 yes/no questions 
+  under four areas of law: 
+
+   (i) overarching legal frameworks and public life<br>  
+   (ii) violence against women<br>  
+   (iii) employment and economic benefits<br>  
+   (iv) marriage and family<br>  
+
+  The areas of law and questions are drawn from the international legal and policy 
+  framework on gender equality, in particular the Convention on the Elimination of All 
+  Forms of Discrimination against Women (CEDAW), which has 189 States parties, and the 
+  Beijing Platform for Action. 
+
+  The primary sources of information relevant for indicator 5.1.1 are legislation and 
+  policy/action plans. 
+
+  Source: United Nations Statistics Division
+
+
+dato_global: |- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.1.1&seriesCode=SG_LGL_GENEQLFP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life SG_LGL_GENEQLFP</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.1.1&seriesCode=SG_LGL_GENEQVAW&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 2: violence against women SG_LGL_GENEQVAW</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.1.1&seriesCode=SG_LGL_GENEQEMP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 3: employment and economic benefits SG_LGL_GENEQEMP</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.1.1&seriesCode=SG_LGL_GENEQMAR&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 4: marriage and family SG_LGL_GENEQMAR</a> UNSTATS
+
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-01-01.pdf">Metadata 5-1-1.pdf</a>
+
+informacion_interes: 
+national_data_updated_date: ''
+national_metadata_updated_date: ''

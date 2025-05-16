@@ -1,0 +1,87 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  global_indicators.5-a-1-title
+
+objetivo_global: objetivo_largo.5-titulo
+meta_global: meta_largo.5-a-titulo
+#  indicador_onu_global: indicador_largo.5-a-1-titulo
+
+
+definicion: >-
+  
+  Proportion of heads of agricultural holdings, to the total number of agricultural workers and 
+  proportion of female heads of agricultural holdings to the total number of heads of agricultural 
+  holdings, by type of tenure. 
+
+formula: |
+
+  <b>Proportion of heads of agricultural holdings, to the total number of agricultural workers</b>
+
+  $$PPOA_{head}^{t} = \frac{TEA^{t}}{POA^{t}} \cdot 100$$
+
+  where:
+
+  $TEA^{t} =$ heads of agricultural holdings in year $t$
+
+  $POA^{t} =$ people employed in agriculture in year $t$
+
+  <br>
+
+  <b>proportion of female heads of agricultural holdings to the total number of heads of agricultural 
+  holdings, by type of tenure</b>
+
+  $$PTEA_{women}^{t} = \frac{TEA_{women}^{t}}{TEA^{t}} \cdot 100$$
+
+  where:
+
+  $TEA_{women}^{t} =$ female heads of agricultural holdings in year $t$ by type of tenure
+
+  $TEA^{t} =$ heads of agricultural holdings in year $t$ by type of tenure
+
+desagregacion: |
+  Type of tenure: Ownership; lease
+
+  Sex
+
+  Province
+
+periodicidad: FUENTE.FREQ_I
+
+observaciones: |
+
+  Sub-indicator 5.a.1 (a) is a prevalence measure. It measures the prevalence of people 
+  in the agricultural population with ownership or secure rights over agricultural land, disaggregated by sex. 
+
+  Sub-indicator 5.a.1 (b) focuses on gender parity, measuring the extent to which women are disadvantaged 
+  in ownership or secure rights over agricultural land. 
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Indicator 5.a.1 aims to monitor the gender balance on ownership/secure rights over agricultural land. 
+  Subindicator (a) and sub-indicator (b) are based on the same data and they monitor ownership/rights from 
+  two different angles. 
+
+  While sub-indicator (a) uses the total male/female agricultural population as reference population, 
+  and it tells us how many male/female own land, sub-indicator (b) focuses on the agricultural population 
+  with land ownership/secure rights, and it tells us how many of them are women. 
+
+  Source: United Nations Statistics Division
+
+dato_global: >-
+
+
+comparabilidad: >-
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-0a-01.pdf">Metadata 5-a-1.pdf</a>
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

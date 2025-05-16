@@ -1,0 +1,82 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.4-5-1-titulo
+
+objetivo_global: objetivo_largo.4-titulo
+meta_global: meta_largo.4-5-titulo
+#  indicador_onu_global: indicador_largo.4-5-1-titulo
+
+
+definicion:  |
+  
+  Relationship between the proportions among the following groups who have participated in educational activities
+  (formal or non-formal) in the last 12 months or 4 weeks:
+
+  - Women and men between 18 and 64 years of age (in the last 12 months)
+  - People between 18 and 64 years of age belonging to households in the lowest and highest income brackets 
+    (in the last 12 months)
+  - People between 18 and 64 years of age with and without limitations due to health problems (serious or non-serious) 
+    (in the last 12 months)
+  - People between 15 and 64 years of age residing in municipalities with fewer than 10,000 inhabitants and more 
+    than 10,000 inhabitants (in the last 4 weeks)
+
+
+formula: |
+
+  $$IPD = \frac{[Ind_i]_d}{[Ind_i]_a}$$
+
+  where:
+
+  $IPD$ = Parity Index in dimension (Sex, Wealth, Location, etc.)
+
+  $Ind_i$ = Education Index: participation in educational activities (formal or informal) 
+  in last 12 months or 4 weeks
+
+  $d$ = Disadvantaged group (women, poorer people, people living in small towns, people 
+  with limitations due to health problems)
+
+  $a$ = Favored group (men, wealthier people, people living in large municipalities,
+  people without health limitations)
+
+desagregacion: >- 
+  Province
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+  The reference value for this indicator is 1, which indicates absolute parity. 
+  The degree of disparity is greater the further the indicator value is from 1, reflecting 
+  an unfavorable or favorable situation for the numerator population group relative to the 
+  denominator population group, depending on whether the value is lower or higher than 1, 
+  respectively. 
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: >- 
+
+  To measure the general level of disparity between two sub-populations of interest 
+  with regard to a given indicator. The further from 1 the parity index lies, the greater 
+  the disparity between the two groups of interest. 
+
+  Source: United Nations Statistics Division 
+
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.5.1&seriesCode=SE_GPI_PTNPRE&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio) SE_GPI_PTNPRE</a> UNSTATS<br>
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-05-01.pdf"> Metadata 4-5-1.pdf </a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

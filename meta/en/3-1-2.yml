@@ -9,20 +9,20 @@ meta_global: meta_largo.3-1-titulo
 
 
 definicion: >-
-  Proporción de partos atendidos por personal sanitario especializado
+  Proportion of births attended by skilled health personnel
 
 formula: |
 
-  $$PPAR_{atendidos}^{t} = \frac{PAR_{atendidos}^{t}}{PAR^{t}} \cdot 100$$
+  $$PPAR_{attended}^{t} = \frac{PAR_{attended}^{t}}{PAR^{t}} \cdot 100$$
 
-  donde:
+  where:
 
-  $PAR_{atendidos}^{t} =$ partos atendidos por personal sanitario especializado en el año $t$
+  $PAR_{attended}^{t} =$ births attended by skilled health personnel in year $t$
 
-  $PAR^{t} =$ partos en el año $t$
+  $PAR^{t} =$ births in year $t$
 
 desagregacion: >- 
-  Territorio histórico
+  Province
 
 periodicidad: FUENTE.FREQ_A
 

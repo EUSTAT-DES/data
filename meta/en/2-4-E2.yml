@@ -7,18 +7,44 @@ objetivo_global: objetivo_largo.2-titulo
 meta_global: meta_largo.2-4-titulo
 #  indicador_onu_global:
 
-definicion: >-
-  Ammonia emissions ($NH_3$) from agriculture and livestock
+definicion: |
+  
+  Available series: 
+
+  <b> - Ammonia (NH3) emissions from agriculture and livestock</b>
+  
+  <b> - Ammonia (NH3) emissions from agriculture and livestock per hectare:</b> 
+  Ammonia (NH3) emissions from agriculture and livestock farming per hectare of cropland, meadows and pastures 
+
 
 formula: |
 
-  $$ENH3_{agriculture\, y\, livestock}^{t} = ENH3_{agriculture}^{t} + ENH3_{livestock}^{t}$$
+  <b> Ammonia (NH3) emissions from agriculture and livestock</b>
+
+  $$ENH3_{agriculture\, and\, livestock}^{t} = ENH3_{agriculture}^{t} + ENH3_{livestock}^{t}$$
 
   where: 
 
-  $ENH3_{agriculture}^{t}$ $NH_3$ emmisions from agriculture in the year $t$
+  $ENH3_{agriculture}^{t}$ = NH3 emmisions from agriculture in the year $t$ 
 
-  $ENH3_{livestock}^{t}$ $NH_3$ emmisions from livestock in the year $t$
+  $ENH3_{livestock}^{t}$ = NH3 emmisions from livestock in the year $t$ 
+
+  <br>
+
+  <b>Ammonia (NH3) emissions from agriculture and livestock per hectare</b>
+
+  $$ENH3S_{agriculture\, and\, livestock}^{t} = \frac{ENH3_{agriculture}^{t} + ENH3_{livestock}^{t}}{S_{cropland}^{t} + S_{meadows\, and\, pastures}^{t}}$$
+
+  where:
+
+  $ENH3_{agriculture}^{t}$ = NH3 emmisions from agriculture in the year $t$ 
+
+  $ENH3_{livestock}^{t}$ = NH3 emmisions from livestock in the year $t$ 
+
+  $S_{cropland}^{t}$ = croplands area in year $t$ 
+
+  $S_{meadows\, and\, pastures}^{t}$ = meadows and pastures area in year $t$ 
+
 
 
 desagregacion: >-
@@ -49,7 +75,7 @@ justificacion_global: |
   These emissions result from manure management, applications of inorganic nitrogen fertilisers 
   and animal manure applied to soil, as well as urine and dung deposited by grazing animals.
 
-  Ammonia ($NH_3$) is a colorless, pungent-smelling, corrosive gas produced by the decomposition 
+  Ammonia (NH3) is a colorless, pungent-smelling, corrosive gas produced by the decomposition 
   of plant organic matter and human and animal excrement. When released into the atmosphere, 
   ammonia contributes to air pollution. The agricultural sector remains the largest contributor 
   to ammonia emissions in the EU.

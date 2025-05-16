@@ -26,7 +26,7 @@ formula: |
   $P^{t} =$ total population in year $t$
 
 desagregacion: |
-  Dimensions of poverty: risk of poverty, severe material and social deprivation, 
+  Dimensions of poverty: risk of poverty; severe material and social deprivation; 
   low work intensity
 
   Sex
@@ -40,7 +40,7 @@ observaciones: |
   The number of consumption units in a household 
   is calculated using the modified OECD scale, which assigns a weight of 1 to the 
   first person aged 14 or over, a weight of 0.5 for other people aged 14 or over 
-  and a weight of 0.3 for people under 14 years of age
+  and a weight of 0.3 for people under 14 years of age.
 
   <b>People in a situation of severe material and social deprivation:</b> people who suffer from at least 
   seven from the following list of thirteen limitations (seven defined at the household level and six at the individual level):
@@ -62,10 +62,11 @@ observaciones: |
    11. You cannot afford to regularly participate in leisure activities.
    12. You can't afford to spend a small amount of money on yourself.
    13. Cannot afford internet connection.
+
   In the case of minors under 16 years of age, the six concepts listed above are not available at the individual level.
   For these minors, the values of these elements are imputed from the values collected for the members of their household aged 16 or over.
 
-  <b>Low work intensity:</b>these are households in which their working age members (people from 18 to 64 years old, excluding 
+  <b>Low work intensity:</b> these are households in which their working age members (people from 18 to 64 years old, excluding 
   students from 18 to 24 years old, retirees or retirees, as well as inactive people between 60 and 64 whose main source of household income 
   are pensions) worked less than 20% of their total work potential during the reference year.
   This variable does not apply for people aged 65 and over.

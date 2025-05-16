@@ -1,0 +1,75 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.4-3-1-titulo
+
+objetivo_global: objetivo_largo.4-titulo
+meta_global: meta_largo.4-3-titulo
+#  indicador_onu_global: indicador_largo.4-3-1-titulo
+
+
+definicion: >-
+  Proportion of people who engaged in educational activities (formal or informal) in 
+  the last four weeks or 12 months, by age groups
+
+
+
+formula: |
+
+  $$PPE_{age\, group}^{t} = \frac{PE_{age\, group}^{t}}{P_{age\, group}^{t}} \cdot 100$$
+
+  where:
+
+  $PE_{age\, group}^{t} =$ population of an age group that has engaged in educational 
+  activities (formal or informal) in the year $t$
+
+  $P_{age\, group}^{t} =$ population of an age group in the year $t$
+
+
+desagregacion: | 
+  Age: 15-24, 15-64, 25-64, 18-64
+
+  Sex
+
+  Province
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: | 
+  The data from the Population Activity Survey are annual data by age group, about activities 
+  performed in the past 4 weeks. 
+
+  The data from the Survey on Adult Participation in Learning Activities refer to the 18-64 
+  age group and asks about activities performed in the past 12 months.
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  The United Nations define the indicator as the percentage of youth and adults in a given age 
+  range (15-24 years, 25-54 years, 55-64 years, 15-64 years) participating in formal or non-formal 
+  education and training in the previous 12 months.
+
+  The indicator measures the level of participation of youth and adults in education and training of all types. 
+  A high value indicates a large share of the population in the relevant age group is participating in formal 
+  and nonformal education and training
+
+  Source: United Nations Statistics Division
+  
+
+  
+dato_global: >-
+
+
+comparabilidad: >- 
+  The available indicator does not comply with United Nations metadata but provides similar information.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-03-01.pdf">Metadata 4-3-1.pdf </a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

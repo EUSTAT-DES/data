@@ -1,0 +1,84 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  global_indicators.5-5-2-title
+
+objetivo_global: objetivo_largo.5-titulo
+meta_global: meta_largo.5-5-titulo
+#  indicador_onu_global: indicador_largo.5-5-2-titulo
+
+
+definicion: >-
+  Proportion of women employed in managerial positions, senior management, and entrepeneurs in relation to the total number of people employed in these positions or economic activities.
+
+formula: |
+
+  $$PDIR_{women}^{t} = \frac{DIR_{women}^{t}}{DIR_{women}^{t}+DIR_{men}^{t}} \cdot 100$$
+
+  where:
+
+  $DIR_{women}^{t} =$ women in the corresponding occupation in the year $t$
+
+  $DIR_{men}^{t} =$ men in the corresponding occupation in the year $t$
+
+desagregacion: |
+  Occupation: Senior management; managerial position; entrepeneurs.
+
+  Province
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones: |
+  Management positions are defined as all occupations included in Group 1 of the CNO-2011, while senior 
+  management occupations are defined as those belonging to subgroups 11, 12, and 13 of the CNO-2011. 
+
+  Group 1 of the CNO-2011 includes administration and management jobs, whose main tasks are to plan, 
+  direct and coordinate the general activity of companies, governments or other organisations, and to 
+  formulate and review company strategies and government legislation. This group is subdivided into 
+  five main subgroups: 
+
+  11 Members of the executive power and of the legislative bodies; directors of the Public Administration 
+  and social interest organisations
+  12 Directors of administrative and commercial departments
+  13 Directors of production and operations
+  14 Directors and managers of accommodation, catering and trading companies
+  15 Directors and managers of other companies offering services not classified in other sections
+
+  Women entrepreneurs are those who are self-employed. 
+ 
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  The indicator provides information on the proportion of women who are employed in decision-making 
+  and management roles in government, large enterprises and institutions, thus providing some insight into 
+  women’s power in decision making and in the economy (especially compared to men's power in those 
+  areas).
+
+  It is recommended to use two different measures jointly for this indicator: the share of females 
+  in (total) management and the share of females in senior and middle management (thus excluding junior 
+  management). The joint calculation of these two measures provides information on whether women are 
+  more represented in junior management than in senior and middle management, thus pointing to an 
+  eventual ceiling for women to access higher-level management positions. In these cases, calculating only 
+  the share of women in (total) management would be misleading, in that it would suggest that women 
+  hold positions with more decision-making power and responsibilities than they actually do. 
+
+  Source: United Nations Statistics Division
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.5.2&seriesCode=IC_GEN_MGTL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15%2B%20%7C%20FEMALE">Proportion of women in managerial positions - 13th ICLS (%) IC_GEN_MGTL</a> UNSTATS
+
+
+comparabilidad: >-
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-02.pdf">Metadata 5-5-2.pdf</a>
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

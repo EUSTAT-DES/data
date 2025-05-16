@@ -1,0 +1,50 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.4-1-E1-titulo
+
+objetivo_global: objetivo_largo.4-titulo
+meta_global: meta_largo.4-1-titulo
+#  indicador_onu_global: 
+
+
+definicion: >-
+  Percentage of the population that has completed at most the first stage of secondary 
+  education and is not pursuing any further study or training
+
+formula: |
+
+  $$PP_{dropout}^{t}  = \frac{P_{dropout,18-24}^{t}}{P_{18-24}^{t}}$$
+
+  where:
+
+  $P_{dropout,18-24}^{t} =$ population aged 18 to 24 who have completed at most the first stage of secondary education and have not continued any further study or training in the year $t$
+
+  $P_{18-24}^{t} =$ population aged 18 to 24 in the year $t$
+
+
+desagregacion: >-
+
+  Sex
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: 
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global:
+
+dato_global:
+
+comparabilidad: 
+
+indicador_meta_enlace:
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -15,7 +15,7 @@ formula: |
 
   $$PPFD_{15+}^{t} = \frac{PFD_{15+}^{t}}{P_{15+}^{t}} \cdot 100$$
 
-  donde:
+  where:
 
   $PFD_{15+}^{t} =$ population aged 15 and over who smoke daily in the year $t$
   $P_{15y+}^{t} =$ population aged 15 and over in year $t$
@@ -55,9 +55,9 @@ justificacion_global: |
 
   Tobacco use prevalence levels are an appropriate indicator of implementation 
   of SDG Target 3.a “Strengthen the implementation of the World Health Organization 
-  Framework Convention on Tobacco Control in all countries, as appropriate”.
+  Framework Convention on Tobacco Control in all countries, as appropriate”. 
 
-
+  Source: United Nations Statistics Division 
 
 dato_global: >-
 

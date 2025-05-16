@@ -1,0 +1,75 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.6-b-1-title
+
+objetivo_global: objetivo_largo.6-titulo
+meta_global: meta_largo.6-b-titulo
+#  indicador_onu_global: indicador_largo.6-b-1-titulo
+
+
+definicion: |
+
+  Proportion of local administrative units (municipalities) with established and operational policies 
+  and procedures for participation of local communities in drinking water and sanitation management 
+  and in bathing water management
+   
+
+formula: |
+
+  $$PDAL_{water\, management}^{t} = \frac{DAL_{water\, management}^{t}}{DAL^{t}} \cdot 100$$
+
+  where:
+
+  $DAL_{water\, management}^{t} =$ local administrative units (municipalities) with established and operational policies 
+  and procedures for participation of local communities in water management in year $t$
+
+  $DAL^{t} =$ local administrative units (municipalities) in year $t$
+
+
+desagregacion: >- 
+   Type of water management: drinking water and sanitation management; bathing water management 
+ 
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+  The indicator is 100% since local governments are responsible for the quality of drinking water, 
+  and can manage its supply directly or through a manager (Royal Decree 140/2003, of February 7, 
+  establishing the health criteria for the quality of drinking water). They are also responsible for 
+  the management of bathing water (Royal Decree 1341/2007, of October 11, on the management of bathing 
+  water quality). 
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Defining the procedures in policy or law for the participation of local communities is vital 
+  to ensure the needs of all the community are met, including the most vulnerable and also encourages 
+  ownership of schemes which in turn contributes to their sustainability. 
+
+  A low value of this indicator would suggest that participation of local communities in water and 
+  sanitation management is low, whereas a high value would indicate high levels of participation, 
+  indicating greater ownership and a higher likelihood of sustainable delivery and management of 
+  water and sanitation services. 
+
+  Source: United Nations Statistics Division
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.b.1&seriesCode=ER_WAT_PARTIC&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proportion of countries with high level of users/communities participating in planning programs in water resources planning and management (%) ER_WAT_PARTIC</a> UNSTATS
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: 
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-0B-01.pdf">Metadata 6-b-1.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

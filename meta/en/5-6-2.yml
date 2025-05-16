@@ -1,0 +1,49 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.5-titulo
+# meta_global: meta_largo.5-6-titulo
+#  indicador_onu_global: indicador_largo.5-6-2-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  
+  Indicator 5.6.2 seeks to provide the first comprehensive global assessment of legal and regulatory 
+  frameworks in line with the 1994 International Conference on Population and Development (ICPD) 
+  Programme of Action (PoA), the Beijing Platform for Action, and international human rights standards. 
+  The indicator measures the legal and regulatory environment across four thematic sections, defined as 
+  the key parameters of sexual and reproductive health care, information and education according to these 
+  international consensus documents and human rights standards: 
+
+  - Maternity care
+  - Contraception services
+  - Sexuality education
+  - HIV and HPV
+
+  Source: United Nations Statistics Division
+
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-06-02.pdf">Metadata 5-6-2.pdf</a>
+
+dato_global:
+informacion_interes: 
+national_data_updated_date: ''
+national_metadata_updated_date: ''

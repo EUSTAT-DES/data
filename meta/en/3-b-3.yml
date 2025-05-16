@@ -1,0 +1,60 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.3-titulo
+# meta_global: meta_largo.3-b-titulo
+#  indicador_onu_global: indicador_largo.3-b-3-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Measurement and monitoring of access to essential medicines are of high 
+  priority for the global development agenda given access is an integral part 
+  of the Universal Health Coverage movement and an indispensable element of 
+  the delivery of quality health care. 
+
+  Access to medicines is a composite multidimensional concept that is composed 
+  of the availability of medicines and the affordability of their prices. Information 
+  on these two dimensions has been collected and analysed since the 54th World Health 
+  Assembly in 2001, when Member States adopted the WHO Medicines Strategy (resolution 
+  WHA54.11).
+
+  This resolution led to the launch of the joint project on Medicine Prices and 
+  Availability by WHO and the international non-governmental organization Health 
+  Action International (HAI/WHO), as well as a proposed HAI/WHO methodology for 
+  collecting data and measuring components of access to medicines. 
+
+  To this day, this methodology has been widely implemented to produce useful 
+  analyses of availability and affordability of medicines, however the two dimensions 
+  have been evaluated separately.
+
+  Source: United Nations Statistics Division
+
+ 
+dato_global:
+
+comparabilidad: 
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0b-03.pdf">Metadata 3-b-3.pdf</a>
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'
+

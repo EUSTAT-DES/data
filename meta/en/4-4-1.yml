@@ -1,0 +1,73 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.4-4-1-title
+
+objetivo_global: objetivo_largo.4-titulo
+meta_global: meta_largo.4-4-titulo
+#  indicador_onu_global: indicador_largo.4-4-1-titulo
+
+
+definicion: |
+  Proportion of people, by age group, who have used any of the following computer skills: downloading or 
+  installing software or apps; changing software, app, or device settings; copying or moving files between 
+  folders, devices, or in the cloud; creating presentations that integrate text, images, or tables; 
+  programming in a programming language and using basic spreadsheet functions
+
+
+formula: |
+
+  $$PPHAB_{age\, group}^{t} = \frac{PHAB_{age\, group}^{t}}{P_{age\, group}^{t}} \cdot 100$$
+
+  where:
+
+  $PHAB_{age\, group}^{t} =$ population of an age group that in the last 12 months has used a computer skill in the year $t$
+
+  $P_{age\, group}^{t} =$ population of an age group in the year $t$
+
+
+desagregacion: | 
+  Computer skills: downloading or installing software or apps; changing software, app, or device settings; 
+  copying or moving files between folders, devices, or in the cloud; creating presentations that integrate 
+  text, images, or tables; programming in a programming language and using basic spreadsheet functions
+
+  Age: 16-24, 25-74
+
+  Sex
+
+  Province
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  ICT skills determine the effective use of information and communication technology, so this indicator 
+  may therefore assist in making the link between ICT usage and impact. The lack of such skills continues to 
+  be one of the key barriers keeping people from fully benefitting from the potential of information and 
+  communication technologies. 
+
+  These data may be used to inform targeted policies to improve ICT skills, and thus contribute to an 
+  inclusive information society. This is also a core indicator of the Partnership on Measuring ICT for 
+  Development's Core List of Indicators, which has been endorsed by the UN Statistical Commission (in 2020). 
+
+  Source: United Nations Statistics Division
+
+
+dato_global:
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-04-01.pdf">Metadata 4-4-1.pdf </a>'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
