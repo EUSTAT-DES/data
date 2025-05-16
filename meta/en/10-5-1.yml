@@ -1,0 +1,43 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.10-titulo
+# meta_global: meta_largo.10-5-titulo
+#  indicador_onu_global: indicador_largo.10-5-1-titulo
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  
+  Seven Financial Soundness Indicators (FSIs) are included as SDG indicators 
+  for point 10.5.1, expressed as a percentage  
+   (1) Regulatory Tier 1 capital to assets 
+   (2) Regulatory Tier 1 capital to risk-weighted assets 
+   (3) Nonperforming loans net of provisions to capital 
+   (4) Nonperforming loans to total gross loans 
+   (5) Return on assets 
+   (6) Liquid assets to short-term liabilities 
+   (7) Net open position in foreign exchange to capita 
+
+  Source: United Nations Statistics Division 
+
+dato_global: 
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-05-01.pdf">Metadata 10-5-1.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

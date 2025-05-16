@@ -1,0 +1,77 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.10-4-1-title
+
+objetivo_global: objetivo_largo.10-titulo
+meta_global: meta_largo.10-4-titulo
+#  indicador_onu_global: indicador_largo.10-4-1-titulo
+
+
+definicion: >- 
+  Salaried employees' compensation as a proportion of GDP at current prices
+
+
+formula: |
+
+  $$PPIBRA^{t} = \frac{RA^{t}}{PIB^{t}} \cdot 100$$
+
+  where:
+
+  $RA^{t} =$ salaried employees' compensation in year $t$
+
+  $PIB^{t} =$ gross domestic product at current prices in year $t$
+  
+
+desagregacion: 
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Labour share of GDP seeks to inform about the relative share of GDP which 
+  accrues to workers as compared to the share which accrues to capital in a 
+  given reference period. 
+
+  In order to interpret this indicator effectively, it is important to consider 
+  it together with economic growth trends. The share of labour compensation in 
+  national output can highlight the extent to which economic growth translates 
+  into higher incomes for employees over time (and/or higher earnings for the 
+  self-employed). In periods of economic recession, the labour income share provides 
+  an indication of the extent to which falling output reduces labour income relative 
+  to profits. 
+
+  If labour income falls at a greater rate than profits, the labour income share will 
+  be expected to fall. By contrast, if there is a sharper decline in profits than in 
+  labour income, the share will rise. 
+
+  For any given level of GDP and profits, the labour income share can fall as a result 
+  of falling wages, falling earnings of the self-employed, changes in the composition 
+  of employment by income or a combination of these. 
+
+  Increased production and GDP often lead to improved living standards of individuals 
+  in the economy, but this will depend on the distribution of real income and public 
+  policy among other factors. 
+
+  Source: United Nations Statistics Division
+
+dato_global: >-
+
+ <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=10.4.1&seriesCode=SL_EMP_GTOTL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAGE">Labour share of GDP (%) SL_EMP_GTOTL</a> UNSTATS
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-04-01.pdf">Metadata 10-4-1.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

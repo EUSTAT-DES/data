@@ -1,0 +1,69 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.10-4-2-titulo
+
+objetivo_global: objetivo_largo.10-titulo
+meta_global: meta_largo.10-4-titulo
+#  indicador_onu_global: indicador_largo.10-4-2-titulo
+
+
+definicion: | 
+
+  The Gini index measures the statistical dispersion in income distribution 
+  within a population. It is used to compare inequality in income distribution 
+  across different territories. 
+
+  Its value is between 0 and 100, so the closer it is to 100, the greater the 
+  concentration of income, and the closer it is to 0, the more equitable the 
+  distribution of wealth. 
+
+
+formula: |
+
+  $$I^{t}_{GINI} = \frac{A^t}{(A + B)^t}$$
+
+  where:
+
+  $A^{t} =$ Area over the Lorenz curve in the year $t$
+
+  $B^{t} =$ Area under the Lorenz curve in the year $t$
+  
+
+desagregacion: 
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A2
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  The Redistributive Impact of Fiscal Policy indicator demonstrates in an 
+  accounting framework the total amount by which current income inequality 
+  is reduced or increased by the current execution of fiscal policy (including 
+  direct and indirect taxes; social insurance and old-age pension contributions; 
+  direct cash or near-cash transfers; and subsidies). 
+
+  For example, if the Redistributive Impact of Fiscal Policy is positive, that 
+  indicates that the net effect of Fiscal Policy is to reduce the Gini index from 
+  what it otherwise would be without Fiscal Policy (in an accounting sense, not 
+  as an economic counterfactual). 
+
+  The indicator allows policy makers and the broader stakeholder and advocacy 
+  communities to systematically track progress at the country level in the 
+  contribution of fiscal policy to more equitable societies. 
+
+dato_global:
+
+comparabilidad: >- 
+  The indicator partially complies with the UN indicator metadata.
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-04-02.pdf">Metadata 10-4-2.pdf</a>
+
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

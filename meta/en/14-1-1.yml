@@ -1,0 +1,54 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.14-titulo
+# meta_global: meta_largo.14-1-titulo
+#  indicador_onu_global: indicador_largo.14-1-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Coastal areas are areas of high productivity where inputs from land, sea, air and people converge. With 
+  over 40 percent of the human population residing in coastal areas, ecosystem degradation in these areas 
+  can have disproportionate effects on society (IGOS, 2006). 
+
+  One of the largest pressures on coastal environments is eutrophication, resulting primarily from 
+  land-based nutrient input from agricultural runoff and domestic wastewater discharge. Coastal 
+  eutrophication can lead to serious damage to marine ecosystems, vital sea habitats, and can cause 
+  the spread of harmful algal blooms. 
+
+  Marine litter is found in all the world’s oceans and seas. It constitutes an increasing risk to 
+  ecosystem health and biodiversity while entailing substantial economic costs through its impacts 
+  on public health, tourism, fishing and aquaculture. Marine plastics are of particular interest due 
+  to the fact that in the last 50 years, plastic production has increased more than 22-fold while the 
+  global recycling rate of plastics in 2015 was only an estimated 9%. This rise in plastic production 
+  and unmanaged plastic waste has resulted a growing threat to marine environments with an estimated 
+  5-13 million tons of plastic from land-based sources ending up in marine environments. 
+
+  Target 14.1 aims to reduce the impacts of pollution through prevention and reduction of marine pollution 
+  of all kinds, in particular from land-based activities, including marine debris and nutrient pollution. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=14.1.1&seriesCode=EN_MAR_BEALIT_PUSA&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Beach litter items per unit of surface area (Number of items per 100 square meters) EN_MAR_BEALIT_PUSA</a> UNSTATS
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-14-01-01.pdf">Metadata 14-1-1.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

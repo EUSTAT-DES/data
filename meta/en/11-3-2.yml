@@ -1,0 +1,72 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.11-3-2-title
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-3-titulo
+#  indicador_onu_global: indicador_largo.11-3-2-titulo
+
+
+definicion: >- 
+  Proportion of cities that have a structure for direct participation of civil society in 
+  urban planning and management that functions regularly and democratically 
+
+formula: |
+
+  $$PCPD^{t} = \frac{CPD^{t}}{C^{t}} \cdot 100$$
+
+  where: 
+
+  $CPD^{t} =$ cities that have a structure for direct participation of civil society in urban planning and management in year $t$ 
+
+  $C^{t} =$ number of cities in year $t$
+
+
+desagregacion: 
+
+
+observaciones: >-
+  The indicator is 100% given the Land Law, generally applicable to all cities
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  This indicator measures the progress and willingness of elected officials, 
+  urban managers and planners to integrate resident and civil society participation 
+  in urban planning and management at various levels. Local authorities and governments, 
+  along with the international community, are increasingly recognizing the value of 
+  civil society and residents’ participation in strengthening the urban development 
+  processes. 
+
+  This people-centered approach is key in guiding urban development processes for 
+  local ownership, and the implementation of community projects at citywide or local levels. 
+
+  Civil society and public participation fosters a positive relationship between 
+  government and the public by communicating effectively and solving the conflicts in a 
+  cooperative manner. In many cases when urban planning decisions are made without 
+  consultation, the desired results are not achieved and there is a negative impact 
+  on society, due to inefficient allocation and use of resources. Ensuring that wide 
+  varieties of opinions are considered assists the decision makers with understanding 
+  the interlinkages and nature of problems and potential solutions facing different 
+  urban settings. 
+
+  Source: United Nations Statistics Division 
+
+dato_global:
+
+comparabilidad: >- 
+  The available indicator does not comply with United Nations metadata but provides similar information.
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-03-02.pdf">Metadata 11-3-2.pdf</a>
+
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

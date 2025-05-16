@@ -1,0 +1,65 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.8-b-1-titulo
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-b-titulo
+#  indicador_onu_global: indicador_largo.8-b-1-titulo
+
+
+definicion:  | 
+  Expenditure of the autonomous public administrations on employment promotion (expenditure policy 
+  24 of the functional classification used in the budgetary settlements of the autonomous communities) 
+  and total expenditure 
+
+formula:  |
+
+  $$G_{employment\, promotion}^{t} = \frac{G_{employment\, promotion}^{t}}{G^{t}} \cdot 100$$
+
+  where:
+
+  $G_{employment\, promotion}^{t} =$ expenditure on employment promotion in the settlement of consolidated budgets of the autonomous community (expenditure policy 24 of the functional classification) in year $t$
+
+  $G^{t} =$ total expenditure in the settlement of consolidated budgets of the autonomous community in year $t$
+
+
+desagregacion:  |
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+  Consolidated data of the budgetary settlements of the autonomous communities are taken from IFL 
+  (Local Financial Intermediation) and PAC (Common Agricultural Policy) 
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  The purpose of SDG indicator 8.b.1 is to provide an indication of the progress of countries in addressing 
+  youth employment issues. 
+
+  In this respect, it is assumed that having officially adopted what can be recognised as a structured 
+  strategy for youth employment would mean larger attention given by a country to youth labour market 
+  challenges, compared to countries with no strategy. 
+
+  In fact, the development of such a strategy usually entails broad participation of and consultation/
+  coordination among different stakeholders. 
+
+  Source: United Nations Statistics Division
+
+dato_global: >-
+
+comparabilidad: >- 
+  The available indicator does not comply with the metadata of the United Nations indicator, but provides complementary information.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-0b-01.pdf">Metadata 8-b-1.pdf</a>'
+
+informacion_interes: >-
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

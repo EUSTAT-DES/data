@@ -1,0 +1,88 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.11-a-1-titulo
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-a-titulo
+#  indicador_onu_global: indicador_largo.11-a-1-titulo
+
+definicion: |
+  This indicator is composed of two time series:
+
+  - Proportion of the population residing in municipalities that have a land use plan
+  - Proportion of the population residing in municipalities that have a general plan 
+    or subsidiary urban planning regulations
+
+formula: |
+
+  <b>Proportion of the population residing in municipalities that have a land use plan</b>
+  
+  $$PPTP^{t} = \frac{PTP^{t}}{P^{t}} \cdot 100$$
+
+  where:
+
+  $PTP^{t} =$ population residing in municipalities that have a Partial Territorial Plan on January 1 of year $t$
+
+  $P^{t} =$ population as of January 1 of year $t$
+
+
+  <br>
+
+  <b>Proportion of the population residing in municipalities that have a general plan or subsidiary urban planning regulations</b>
+
+  $$PPPGNS^{t} = \frac{PPG^{t}+PNS^{t}}{P^{t}} \cdot 100$$
+
+  where:
+
+  $PPG^{t} =$ population residing in municipalities that have a general plan on January 1 of year $t$
+
+  $PNS^{t} =$ population residing in municipalities that have subsidiary regulations on January 1 of year $t$
+
+  $P^{t} =$ population as of January 1 of year $t$
+
+desagregacion:
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  This indicator is based on the notion that the development and implementation 
+  of National Urban Policies should support participation, partnership, cooperation 
+  and coordination of actors as well as facilitate dialogue. National Urban Policy 
+  (NUP) and Regional Development Plans (RDP) promote coordinated and connected urban 
+  development. A coordinated effort from government through a NUP or RDP provides the 
+  best opportunity for achieving sustainable urbanization and balanced territorial 
+  development by linking sectorial policies, connecting national, regional and local 
+  government policies, strengthening urban, peri-urban and rural links through balanced 
+  territorial development. 
+
+  This indicator provides a good barometer on global progress on sustainable national 
+  urban policies. It serves as gap analysis to support policy recommendations. The 
+  indicator can identify good practices and policies among countries that can promote 
+  partnership and cooperation between all stakeholders. This indicator is both process 
+  oriented and aspirational and has the potential to support the validation of Goal 11 
+  and other SDGs indicators with an urban component. The indicator has the ability to 
+  be applicable at multi jurisdictions levels, i.e covering a number of areas while taking 
+  care of urban challenges in a more integrated national manner. 
+
+  Source: United Nations Statistics Division 
+
+comparabilidad: >-
+  The available indicator partially complies with the United Nations metadata.
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=11.a.1&seriesCode=SD_CPA_UPRDP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Countries that have national urban policies or regional development plans that respond to population dynamics; ensure balanced territorial development; and increase local fiscal space (1 = YES; 0 = NO) SD_CPA_UPRDP</a> UNSTATS
+
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-0a-01.pdf">Metadata 11-a-1.pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

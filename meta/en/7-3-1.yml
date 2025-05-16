@@ -1,0 +1,58 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.7-3-1-title
+
+objetivo_global: objetivo_largo.7-titulo
+meta_global: meta_largo.7-3-titulo
+#  indicador_onu_global: indicador_largo.7-3-1-titulo
+
+
+definicion: |
+
+  Energy intensity level of primary energy (megajoules per GDP in constant 2017 purchasing power parity) 
+
+formula: |
+
+  $$IE^{t} = \frac{CE^{t}}{PIB_{2017PPA}^{t}}$$
+
+  where:
+
+  $CE^{t} =$ gross domestic energy consumption in the year $t$
+
+  $PIB_{2017PPA}^{t} =$ gross domestic product at purchasing power parity in constant 2017 USD prices in the year $t$ 
+
+
+desagregacion: >- 
+ 
+periodicidad: FUENTE.FREQ_A
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Energy intensity is an indication of how much energy is used to produce 
+  one unit of economic output. It is an inverse proxy of the efficiency with 
+  which an economy is able to use energy to produce economic output. 
+ 
+  A lower ratio indicates that less energy is used to produce one unit of output, 
+  so decreasing trends indicate progress. 
+
+  Source: United Nations Statistics Division
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=7.3.1&seriesCode=EG_EGY_PRIM&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Energy intensity level of primary energy (megajoules per constant 2021 purchasing power parity GDP) EG_EGY_PRIM</a> UNSTATS
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: 
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-03-01.pdf">Metadata 7-3-1.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

@@ -1,0 +1,84 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.12-6-1-titulo
+
+objetivo_global: objetivo_largo.12-titulo
+meta_global: meta_largo.12-6-titulo
+#  indicador_onu_global: indicador_largo.12-6-1-titulo
+
+definicion: >-
+  Number of organizations with an Eco-Management and Audit Scheme (EMAS) and number 
+  of European Ecolabel (EU Ecolabel) licenses
+
+formula: |
+
+  $$NOEMAS_{t}$$
+
+  where: 
+
+  $NOEMAS_{t}$ = Number of organizations with an Eco-Management and Audit Scheme in year $t$
+
+  $$NLEEE_{t}$$
+
+  where:
+
+  $NLEEE_{t}$ = number of European Ecolabel licenses in year $t$
+
+desagregacion: 
+
+observaciones: 
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  While the private sector has a critical role to play in the attainment of the 
+  SDGs, Target 12.6 and Indicator 12.6.1 are the only ones specifically monitoring 
+  the practices of private sector entities. 
+
+  While Indicator 12.6.1 counts the number of companies producing “sustainability 
+  reports”, the custodian agencies consider the indicator an important opportunity 
+  not only to monitor and promote the growth in sustainability reporting globally, 
+  but also to monitor and promote high quality reporting, promote the integration 
+  of sustainability information into the annual reporting cycle of companies, and 
+  promote sustainability practices by companies (as mentioned in the Target under 
+  which the indicator falls). 
+
+  EMAS is a voluntary instrument of the European Union that helps organisations of any size 
+  and in any sector to continuously improve their environmental performance. Having EMAS 
+  certification does not automatically mean that organisations or their products are 
+  more environmentally friendly than comparable organisations and products. EMAS 
+  involves a reporting obligation requiring organisations to submit environmental statements. 
+  These statements include reporting on the main environmental impacts of the organisation 
+  in question as well as data pertaining to energy and material efficiency, emissions, water, 
+  waste and use of land/biodiversity.
+
+  The EU Ecolabel is a voluntary scheme promoting goods and services that clearly demonstrate 
+  environmental excellence, based on standardised processes and scientific evidence. EU Ecolabel is the only 
+  EU-wide ISO 14024 Type I ecolabelling scheme. Recognised throughout Europe, it is multi-criteria 
+  and tackles the main environmental impacts of products along their full lifecycle, from extraction 
+  of raw material to disposal. The EU Ecolabel is third-party verified, which means independent 
+  experts are responsible for checking compliance with the EU Ecolabel criteria. 
+
+  Source: United Nations Statistics Division, European Commission
+
+comparabilidad: >-
+  The available indicator partially complies with the United Nations metadata.
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.6.1&seriesCode=EN_SCP_FRMN&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=TOTAL%20%7C%20TOTAL"> Number of companies publishing sustainability reports with disclosure by dimension, by level of requirement (Number) EN_SCP_FRMN</a> UNSTATS
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-06-01.pdf">Metadata 12-6-1.pdf</a>
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

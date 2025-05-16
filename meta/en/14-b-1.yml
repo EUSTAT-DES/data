@@ -1,0 +1,46 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.14-titulo
+# meta_global: meta_largo.14-b-titulo
+#  indicador_onu_global: indicador_largo.14-b-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Target 14.b focuses on access to resources and markets for small-scale fisheries, in line with the Rio+20 
+  outcome document para, 175. In order to guarantee secure access, an enabling environment is necessary 
+  which recognizes and protects small-scale fisheries rights. Such an enabling environment has three key 
+  features: 
+
+   1. Appropriate legal, regulatory and policy frameworks; 
+   2. Specific initiatives to support small-scale fisheries; and 
+   3. Related institutional mechanisms which allow for the participation of small-scale fisheries 
+  organisations in relevant processes. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=14.b.1&seriesCode=ER_REG_SSFRAR&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries (level of implementation: 1 lowest to 5 highest) ER_REG_SSFRAR</a> UNSTATS
+
+comparabilidad: >-
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-14-0b-01.pdf">Metadata 14-b-1.pdf</a> 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

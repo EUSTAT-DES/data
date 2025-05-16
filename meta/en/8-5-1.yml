@@ -1,0 +1,72 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.8-5-1-titulo
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-5-titulo
+#  indicador_onu_global: indicador_largo.8-5-1-titulo
+
+
+definicion:  | 
+  Gross earnings per normal hour of work of salaried employees
+
+formula:  |
+  <b>Average hourly income of employed persons:</b>
+
+  $$GH^{t} = \frac{G^{t}}{H^{t}} $$
+
+  where:
+
+  $G^{t} =$ gross earnings of salaried personnel in year $t$
+
+  $H^{t} =$ normal working hours of salaried personnel in year $t$
+
+  <br>
+
+  <b>Gender pay gap:</b>
+
+  $$BSG^{t} = \frac{GPH_{man}^{t} - GPH_{woman}^{t}}{GPH_{man}^{t}} \cdot 100$$
+
+  where:
+
+  $GPH_{man}^{t} =$ average hourly earnings of men in year $t$
+
+  $GPH_{woman}^{t} =$ average hourly earnings of women in year $t$
+
+desagregacion:  |
+  Sex
+
+  People without disabilities and people with disabilities (salaried employees 
+  with a disability level of 33% or greater) 
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Earnings are a key aspect of quality of employment and living conditions. Information 
+  on hourly earnings disaggregated by various classifications (sex, age, occupation, 
+  disability status) provide some indication of the extent to which pay equality is respected 
+  or achieved.
+
+  Source: United Nations Statistics Division
+
+dato_global: >-
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-01.pdf">Metadata 8-5-1.pdf</a>'
+
+informacion_interes: >-
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

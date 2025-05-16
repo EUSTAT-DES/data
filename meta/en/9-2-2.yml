@@ -1,0 +1,62 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.9-2-2-title
+
+objetivo_global: objetivo_largo.9-titulo
+meta_global: meta_largo.9-2-titulo
+#  indicador_onu_global: indicador_largo.9-2-2-titulo
+
+
+definicion: >- 
+  Proportion of people employed in the manufacturing sector with respect to the total number of employed people
+
+formula:  |
+
+  $$PPO_{manufacturing}^{t} = \frac{PO_{manufacturing}^{t}}{PO^{t}} \cdot 100$$
+
+  where:
+
+  $PO_{manufacturing}^{t} = population employed in the manufacturing sector (section C of the National 
+  Classification of Economic Activities (CNAE-2009)) in year $t$
+
+  $PO^{t} =$ employed population in year $t$
+
+
+desagregacion:  |
+  Sex
+
+  Province
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  This indicator conveys the contribution of manufacturing in total employment. It measures the 
+  ability of the manufacturing sector to absorb surplus labour from agricultural and other traditional 
+  sectors. However, in developed countries an opposite trend is expected where emphasis has shifted 
+  to reduction in labor in manufacturing as part of cost-cutting measures, to promote more capital-intensive 
+  industries. 
+
+  Source: United Nations Statistics Division
+
+dato_global: | 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.2.2&seriesCode=SL_TLF_MANF&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ISIC4_C"> Empleo manufacturero como proporción del empleo total - 13.ª CIET (%) SL_TLF_MANF</a> UNSTATS
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-02-02.pdf">Metadata 9-2-2.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

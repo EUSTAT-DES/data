@@ -1,0 +1,70 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.8-8-1-titulo
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-8-titulo
+#  indicador_onu_global: indicador_largo.8-8-1-titulo
+
+
+definicion: >- 
+  Rate of incidence of accidents with sick leave during the working day/in transit, by severity
+
+formula: |
+
+  $$IACC_{severity}^{t} = \frac{ACC_{severity}^{t}}{PE_{OIT}^{t}} \cdot 100.000$$
+
+  where:
+
+  $ACC_{severity}^{t} =$ number of accidents with sick leave during the working day/in transit, by severity in year $t$
+
+  $PE_{OIT}^{t} =$ employed people in year $t$
+
+desagregacion: |
+
+  Severity: Fatal; non-fatal
+
+  Sex
+
+  Province
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  This indicator provides valuable information that could be used to formulate policies 
+  and programmes for the prevention of occupational injuries, diseases and deaths. 
+  It could also be used to monitor the implementation of these programmes and to signal 
+  particular areas of increasing risk such as a particular occupation, industry or location. 
+  Although the principal objective of this indicator is to provide information for prevention 
+  purposes, it may be used for a number of other purposes, such as to identify the occupations 
+  and economic activities with the highest risk of occupational injuries; to detect changes 
+  in the pattern and occurrence of occupational injuries, so as to monitor improvements in safety 
+  and reveal any new areas of risk; to inform employers, employers’ organizations, workers and 
+  workers’ organizations of the risks associated with their work and workplaces, so that they can 
+  take an active part in their own safety; to evaluate the effectiveness of preventive measures; 
+  to estimate the consequences of occupational injuries, particularly in terms of days lost or costs; 
+  and to provide a basis for policymaking aimed at encouraging employers, employers’ organizations, 
+  workers and workers’ organizations to introduce accident prevention measures. 
+
+  Source: United Nations Statistics Division
+
+dato_global:
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-08-01.pdf">Metadata 8-8-1.pdf</a>'
+
+informacion_interes: >-
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

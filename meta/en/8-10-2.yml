@@ -1,0 +1,64 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.8-10-2-titulo
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-10-titulo
+#  indicador_onu_global: indicador_largo.8-10-2-titulo
+
+
+definicion:  | 
+  Proportion of people aged between18-79 years who personally or jointly have a checking account, 
+  passbook or other deposit that can be used to make payments by cards or checks compared to the 
+  total of people aged between 18-79 years
+
+formula:  |
+
+  $$PPCC_{18-79}^{t} = \frac{PCC_{18-79}^{t}}{P_{18-79}^{t}} \cdot 100$$
+
+  where:
+
+  $PCC_{18-79}^{t} =$ people aged between18-79 years who personally or jointly have a checking account, 
+  passbook or other deposit that can be used to make payments by cards or checks in year  $t$
+
+  $P_{18-79}^{t} =$ population aged between 18-79 years in year $t$
+
+
+desagregacion:  |
+  Sex
+
+periodicidad: FUENTE.FREQ_A5
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Financial inclusion means that households have access to and can effectively use appropriate financial 
+  services that are provided responsibly and sustainably in a well-regulated environment. Studies show that 
+  when people participate in the financial system, they are better able to start and expand businesses, 
+  invest in education, manage risk and absorb financial shocks.  
+
+  Measurement is key to understanding financial inclusion and identifying opportunities to remove barriers 
+  that may be preventing people from using financial services. 
+
+  Source: United Nations Statistics Division
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=8.10.2&seriesCode=FB_BNK_ACCSS&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15%2B%20%7C%20ALLAREA%20%7C%20BOTHSEX%20%7C%20_T%20%7C%20_T">Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older) FB_BNK_ACCSS</a> UNSTATS
+
+comparabilidad: >- 
+  The available indicator does not comply with United Nations metadata but provides similar information.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-10-02.pdf">Metadata 8-10-2.pdf</a>'
+
+informacion_interes: >-
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

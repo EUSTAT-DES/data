@@ -1,0 +1,63 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.9-3-1-title
+
+objetivo_global: objetivo_largo.9-titulo
+meta_global: meta_largo.9-3-titulo
+#  indicador_onu_global: indicador_largo.9-3-1-titulo
+
+
+definicion: >- 
+  Proportion of gross value added of manufacturing industries with fewer than 20 workers 
+  in total manufacturing gross value added
+
+formula:  |
+
+  $$PVAB_{small\, manufacturing\, industries}^{t} = \frac{VAB_{small\, manufacturing\, industries}^{t}}{VAB_{manufacturing}^{t}} \cdot 100$$
+
+  where:
+
+  $VAB_{small\, manufacturing\, industries}^{t} =$ gross value added of manufacturing industries with fewer than 20 workers in year $t$
+
+  $VAB_{manufacturing}^{t} =$ total gross value added of manufacturing sector in year $t$
+
+
+desagregacion:  |
+  Province
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Industrial enterprises are classified as small for their distinct nature of economic organization, 
+  production capability, scale of investment and other economic characteristics. 
+
+  “Small-scale industries” can be run with a small amount of capital, relatively unskilled labor 
+  and using local materials. 
+
+  Despite their relatively small contribution to total industrial output, their role in job creation, 
+  especially in developing countries is recognized to be significant where the scope of absorbing 
+  surplus labor force from traditional sectors such as agriculture or fishery is very high. “Small-scale 
+  industries” are capable of meeting domestic demand of basic consumer goods such as food, clothes, 
+  furniture, etc. 
+
+  Source: United Nations Statistics Division
+
+dato_global: 
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-03-01.pdf">Metadata 9-3-1.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

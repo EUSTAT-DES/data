@@ -1,0 +1,42 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.13-titulo
+# meta_global: meta_largo.13-b-titulo
+#  indicador_onu_global: indicador_largo.13-b-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Under the United Nations Framework Convention on Climate Change (UNFCCC), all Parties shall 
+  formulate, implement, publish and regularly update national/regional programmes containing 
+  measures to mitigate climate change and to facilitate adequate adaptation, while taking into 
+  account their common but differentiated responsibilities and their specific national and regional 
+  development priorities, objectives and circumstances. These policies and measures should be 
+  appropriate for the specific conditions of each Party and should be integrated with national 
+  development programmes.
+
+  Source: United Nations Statistics Division 
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=13.b.1&seriesCode=EN_NAD_CONTR_DV&areaCode=199,722&period=3&table=FIRST">Number of least developed countries and small island developing States with nationally determined contributions (Number) EN_NAD_CONTR_DV</a> UNSTATS
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-13-0b-01.pdf">Metadata 13-b-1.pdf</a> 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

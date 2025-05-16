@@ -1,0 +1,42 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.14-titulo
+# meta_global: meta_largo.14-a-titulo
+#  indicador_onu_global: indicador_largo.14-a-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Sustained investment in research and development (R&D), including ocean research, remains essential to 
+  advance knowledge and to develop new technology needed to support modern economies. 
+
+  The ocean economy yields various benefits in terms of employment, revenues and innovation in many domains. Its 
+  current developments are largely based on decades of science and R&D investments by governments 
+  around the world. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=14.a.1&seriesCode=ER_RDE_OSEX&areaCode=1&period=3&table=Total">
+  National ocean science expenditure as a share of total research and development funding (%) ER_RDE_OSEX</a> UNSTATS
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-14-0a-01.pdf">Metadata 14-a-1.pdf</a> 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

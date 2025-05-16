@@ -1,0 +1,81 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.9-4-E1-titulo
+
+objetivo_global: objetivo_largo.9-titulo
+meta_global: meta_largo.9-4-titulo
+#  indicador_onu_global: indicador_largo.9-4-1-titulo
+
+
+definicion: >- 
+  PM10 and PM2.5 emissions per unit of added value in the manufacturing sector
+
+formula: |
+
+  $$PVABEPM_{manufacturing}^{t} = \frac{EPM_{manufacturing}^{t}}{VAB_{manufacturing\, 2022}^{t}} $$
+
+  where:
+
+  $EPM_{manufacturing}^{t} =$ emissions of suspended particles from the manufacturing sector in year $t$
+
+  $VAB_{manufacturing\, 2022}^{t} =$ Gross added value of the manufacturing sector in chained volume with 
+  reference to 2022 in year $t$
+
+
+desagregacion: >- 
+  
+  Suspended particles: particles smaller than 10 microns (PM10); particles smaller than 2.5 microns (PM25)
+
+observaciones:
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  The indicator is part of the EU Sustainable Development Goals (SDG) indicator set. 
+  It is used to monitor progress towards  SDG 9 on industry, innovation and infrastructure; 
+  which is embedded in the European Commission’s Priorities under the European Green Deal, 
+  Economy that works for people and European way of life. 
+
+  SDG 9 recognises the importance of technological progress and innovation for finding lasting 
+  solutions to social, economic and environmental challenges such as the creation of new jobs 
+  and promotion of resource and energy efficiency. To foster innovation and entrepreneurship, 
+  SDG 9 also seeks to increase access to financial services for small-scale enterprises and to 
+  bridge the digital divide by increasing access to information and communication technologies. 
+
+  This indicator measures the emissions intensity of particulate matter (PM10 and PM2.5) from the 
+  manufacturing sector (NACE Rev. 2 sector ‘C’). Air emissions are defined as flows of gaseous and 
+  particulate materials emitted into the atmosphere. 
+
+  Fine and coarse particulates (PM10) are less than 10 micrometres in diameter and can be carried 
+  deep into the lungs, where they can cause inflammation and exacerbate the condition of people 
+  suffering from heart and lung diseases. 
+
+  Fine particulates (PM2.5) are less than 2.5 micrometres in diameter and are therefore a subset 
+  of the PM10 particles. Their negative health impacts are more serious than PM10 because they can 
+  be drawn further into the lungs and may be more toxic. 
+
+  Emission intensity is calculated by dividing the sector’s PM emissions by its gross value added 
+  (GVA), which is defined as output (at basic prices) minus intermediate consumption (at purchaser 
+  prices). 
+
+  Fuente: Eurostat
+
+dato_global: | 
+
+ <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_09_70/default/table?lang=en&category=sdg.sdg_09">Air emission intensity from industry (sdg_09_70)</a> Eurostat
+
+comparabilidad: >- 
+  The available indicator complies with European Union metadata.
+
+indicador_meta_enlace: >- 
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_09_70_esmsip2.htm">Metadata sdg_09_70.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

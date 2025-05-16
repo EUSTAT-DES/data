@@ -1,0 +1,54 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.14-3-1-titulo
+
+# objetivo_global: objetivo_largo.14-titulo
+# meta_global: meta_largo.14-3-titulo
+#  indicador_onu_global: indicador_largo.14-3-1-titulo
+
+
+definicion:
+  Average sea acidity (pH) measured at an agreed set of representative sampling stations
+
+formula: |
+
+  $${AMM}^t = \overline{pH^t}$$
+
+  where:
+
+  $\overline{pH^t}=$ arithmetic mean of the in-situ pH collected on the 15th of each month at the measuring stations in year $t$
+
+
+desagregacion: 
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones: >-
+  The allocation of measuring stations by autonomous communities is carried out according to their nearest land point
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  The ocean absorbs up to 30% of the annual emissions of anthropogenic CO2 to the atmosphere, helping 
+  to alleviate the impacts of climate change on the planet. However, this comes at a steep ecological cost, 
+  as the absorbed CO2 reacts with seawater and results in shifts in the dissolved carbonate chemistry 
+  including increased acidity levels in the marine environment (decreased seawater pH). 
+
+  Ocean acidification has potentially direct consequences for marine life and cascades through to the 
+  services provided by the open ocean and coastal areas including food and livelihood, tourism, coastal 
+  protection, cultural identity, transportation and recreation. The impacts on ocean services from ocean 
+  acidification may be lessened through appropriate monitoring and improved understanding of variability 
+  and rates of change, helping to inform mitigation and/or adaptation strategies. 
+
+  Source: United Nations Statistics Division 
+
+dato_global:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-14-03-01.pdf">Metadata 14-3-1.pdf</a> 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
