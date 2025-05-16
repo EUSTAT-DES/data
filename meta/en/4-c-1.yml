@@ -1,0 +1,67 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.4-c-1-title
+
+objetivo_global: objetivo_largo.4-titulo
+meta_global: meta_largo.4-c-titulo
+#  indicador_onu_global: indicador_largo.4-c-1-titulo
+
+
+definicion: >-
+  Proportion of teachers at different educational levels who have received 
+  at least the minimum teacher training, organized prior to employment or on-the-job, 
+  required to teach at that level, out of the total number of teachers at that 
+  educational level
+
+formula: |
+
+  $$PPRFD_{educational\, level}^{t} = \frac{PRFD_{educational\, level}^{t}}{PR^{t}} \cdot 100$$
+
+  where:
+
+  $PRFD_{educational\, level}^{t} =$ teachers of the educational level with teacher training in the school year $t-1/t$
+
+  $CENU^{t} =$ total number of teachers at the educational level in the school year $t-1/t$
+
+
+desagregacion: >- 
+  Educational level: Preschool; primary; lower secondary; upper secondary 
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones: >-
+
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Teachers play a key role in ensuring the quality of education provided. Ideally all 
+  teachers should receive adequate, appropriate and relevant pedagogical training to 
+  teach at the chosen level of education and be academically well-qualified in the subject(s) 
+  they are expected to teach. 
+
+  This indicator measures the share of the teaching work force which is pedagogically 
+  well-trained. A high value indicates that students are being taught by teachers who 
+  are pedagogically well-trained to teach. 
+
+  Source: United Nations Statistics Division
+
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.c.1&seriesCode=SE_TRA_GRDL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX%20%7C%20UPPSEC">Proportion of teachers with the minimum required qualifications, in upper secondary (%) SE_TRA_GRDL</a> UNSTATS<br>
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-0c-01.pdf">Metadata 4-c-1.pdf </a>'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -1,0 +1,87 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.4-1-2-titulo
+
+objetivo_global: objetivo_largo.4-titulo
+meta_global: meta_largo.4-1-titulo
+#  indicador_onu_global: indicador_largo.4-1-2-titulo
+
+
+definicion: >-
+  
+  Proportion of people aged 18-20 who have completed at least the lower secondary 
+  education (ISCED 2) out of the total number of people aged 18-20, and proportion 
+  of people aged 20-22 who have completed at least the upper secondary education 
+  (ISCED 3) out of the total number of people aged 20-22.
+
+
+formula: |
+
+  $$PCINE_n = \frac{P_{n,age_a+3t5}}{P_{age_a+3t5}}$$
+
+  where:
+
+  $P_{n,age_a+3t5} =$ population aged between $3$ y $5$ years above the $a$ official age of entry in the last grade of education level $n$ who has completed that level
+
+  $P_{age_a+3t5} =$ population aged between $3$ y $5$ years above the $a$ official age of entry in the last grade of education level $n$
+
+  $n =$ ISCED level 2 (lower secondary education) and ISCED level 3 (upper secondary education)
+
+
+desagregacion: |
+  Educational level: first and second stage of secondary education 
+
+  Age
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: |
+
+  ISCED: International Standard Classification of Education (UNESCO - 2011).
+  It represents a statistical reference classification that allows the organization of educational 
+  programs and their corresponding qualifications by educational level and field of study. 
+
+  The definitions and basic concepts of ISCED are designed to be internationally valid and to encompass 
+  the full range of educational systems. Its development is the result of an international agreement 
+  formally adopted by the General Conference of UNESCO Member States.
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  The indicator is explicitly referenced in the text of target 4.1: ‘ensure that all girls and boys complete […] 
+  primary and secondary education’. A completion rate at or near 100% indicates that all or most children 
+  and adolescents have completed a level of education by the time they are 3 to 5 years older than the 
+  official age of entry into the last grade of that level of education. A low completion rate indicates low or 
+  delayed entry into a given level of education, high drop-out, high repetition, late completion, or a 
+  combination of these factors. 
+
+  La tasa de finalización puede utilizarse como indicador independiente o en combinación con el indicador 
+  4.1.1 de los ODS (proporción de niños y jóvenes (a) en segundo o tercer grado; (b) al final de la educación 
+  primaria; y (c) al final de la educación secundaria inferior que alcanzan al menos un nivel mínimo de 
+  competencia en (i) lectura y (ii) matemáticas. La combinación de la tasa de finalización con el 
+  indicador 4.1.1 proporciona información sobre el porcentaje de niños o jóvenes de una cohorte que alcanzan 
+  un nivel mínimo de competencia, y no solo sobre el porcentaje de niños en la escuela que alcanzan la
+  competencia mínima.
+
+  Source: United Nations Statistics Division
+
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.1.2&seriesCode=SE_TOT_CPLR&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA%20%7C%20BOTHSEX%20%7C%20UPPSEC%20%7C%20_T">Completion rate at upper secondary education level (%) SE_TOT_CPLR</a> UNSTATS
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-01-02.pdf">Metadata 4-1-2.pdf </a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

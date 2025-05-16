@@ -7,37 +7,36 @@ objetivo_global: objetivo_largo.2-titulo
 meta_global: meta_largo.2-c-titulo
 #  indicador_onu_global: global_indicators.2-c-1-title
 
-definicion: >-
-  <p>Food Consumer Price Index and annual variation rate</p>
+definicion: |
+   This indicator is composed of two time series:
 
-  <p>This indicator is composed of two time series:<br>
-  - Consumer Price Index for Food<br>
-  - Year-on-year variation rate in food consumer prices</p>
+   <b>- Indicator of Food Price Anomalies (IFPA)</b> 
+   <b>- Consumer Food Price Index</b> 
 
 
 formula: |
 
-  <b>Consumer Price Index for Food</b>
+  <b>Indicator of Food Price Anomalies (IFPA)</b> 
 
-  $$IPC_{food}^{t} = \frac{1}{12} \cdot \sum_{m=1}^{12} IPC_{food,m}^{t}$$
+  $$IFPA^{t} = \frac{1}{12} \cdot \sum_{m=1}^{12} IFPA_{m}^{t}$$ 
 
   where:
 
-  $IPC_{food,m}^{t}$ consumer price index for food for the month $m$ of year $t$
+  $IFPA_{m}^{t}$ = food price anomaly indicator for month $m$ of year $t$ 
 
+  <br>
 
-  <b>Year-on-year variation rate in food consumer prices</b>
+  <b>Consumer Food Price Index</b> 
 
-  $$TVIPC_{t} = \left( \frac{IPC_{food}^{t}}{IPC_{food}^{t-1}} - 1 \right) \cdot 100$$
+  $$IPC_{food}^{t} = \frac{1}{12} \cdot \sum_{m=1}^{12} IPC_{food,m}^{t}$$ 
 
-  $IPC_{food,m}^{t}$ consumer price index for food in the year $t$
+  where: 
 
-  $IPC_{food,m}^{t-1}$ consumer price index for food in the year $t-1$, considering that annual 
-  consumer price indices are calculated as the arithmetic mean of the monthly consumer price indices.
+  $IPC_{food,m}^{t}$ = consumer price index for food in month $m$ of year $t$ 
 
 
 desagregacion: |
-  Products: food (all), bread and cereals
+  Products: food (all), cereals and derivatives, bread, eggs, milk, oils and fats, fresh fruits and vegetables
 
   Province
 
@@ -76,5 +75,5 @@ comparabilidad: >-
 indicador_meta_enlace: >-
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0C-01.pdf">Metadata 2-c-1.pdf</a>
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

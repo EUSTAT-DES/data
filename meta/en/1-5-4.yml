@@ -16,11 +16,11 @@ definicion: >-
 formula: |
   <b>Percentage of municipalities that have a municipal emergency plan</b>
 
-  $$PMUN_{RRD\, municipal}^{t} = \frac{MUN_{RRD\, municipal}^{t}}{MUN^{t}} \cdot 100$$
+  $$PMUN_{DRR\, municipal}^{t} = \frac{MUN_{DRR\, municipal}^{t}}{MUN^{t}} \cdot 100$$
 
   where:
 
-  $MUN_{RRD\, municipal}^{t} =$ number of local governments with municipal emergency plans in the year $t$
+  $MUN_{DRR\, municipal}^{t} =$ number of local governments with municipal emergency plans in the year $t$
 
   $MUN^{t} =$ number of local governments in the year $t$
 
@@ -28,11 +28,11 @@ formula: |
 
   <b>Percentage of municipalities covered by a territorial emergency plan</b>
 
-  $$PMUN_{RRD\, territorial}^{t} = \frac{MUN_{RRD\, territorial}^{t}}{MUN^{t}} \cdot 100$$
+  $$PMUN_{DRR\, territorial}^{t} = \frac{MUN_{DRR\, territorial}^{t}}{MUN^{t}} \cdot 100$$
 
   where:
 
-  $MUN_{RRD\, territorial}^{t} =$ number of local governments with territorial emergency plans in the year $t$
+  $MUN_{DDR\, territorial}^{t} =$ number of local governments with territorial emergency plans in the year $t$
 
   $MUN^{t} =$ number of local governments in the year $t$
   

@@ -49,11 +49,11 @@ formula: |
 
   where:
 
-  $SANR_{\text{desirable}}^t$: Agricultural area corresponding to those agricultural holdings where their net income has been positive in the years $t$, $t-1$ y $t-2$
+  $SANR_{\text{desirable}}^t$ = Agricultural area corresponding to those agricultural holdings where their net income has been positive in the years $t$, $t-1$ and $t-2$
     
-  $SANR_{\text{acceptable}}^t$: Agricultural area corresponding to those agricultural holdings where their net income has been positive in at least one of the years $t$, $t-1$ y $t-2$, but not in all of them
+  $SANR_{\text{acceptable}}^t$ = Agricultural area corresponding to those agricultural holdings where their net income has been positive in at least one of the years $t$, $t-1$ and $t-2$, but not in all of them
     
-  $SANR_{\text{unsustainable}}^t$: Agricultural area corresponding to those agricultural holdings where their net income has not been positive in any of the years $t$, $t-1$ y $t-2$
+  $SANR_{\text{unsustainable}}^t$ = Agricultural area corresponding to those agricultural holdings where their net income has not been positive in any of the years $t$, $t-1$ and $t-2$
 
 desagregacion: 
 

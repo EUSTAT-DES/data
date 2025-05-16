@@ -1,0 +1,110 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.4-1-1-titulo
+
+objetivo_global: objetivo_largo.4-titulo
+meta_global: meta_largo.4-1-titulo
+#  indicador_onu_global: indicador_largo.4-1-1-titulo
+
+
+definicion: >-
+  Proportion of 15-year-olds who have achieved at least level 2 proficiency 
+  in i) reading and ii) mathematics, by sex 
+
+
+formula: |
+
+  $$PPN2_{proficiency}^{t} = \frac{PN2_{proficiency}^{t}}{P_{15}^{t}}$$
+
+  where:
+
+  $PN2_{proficiency}^{t} =$ 15-year-old population that has reached at least level 2 
+  proficiency in the subject in year $t$
+
+  $P_{15}^{t} =$ population aged 15 in year $t$
+
+
+desagregacion: | 
+  Type of proficiency (subject): Reading comprehension, mathematics
+
+  Sex 
+
+periodicidad: FUENTE.FREQ_A3
+
+
+observaciones: |
+
+  The Programme for International Student Assessment uses a scoring system with 
+  no minimum or maximum score. The results are scaled to fit a normal distribution 
+  with a mean of 500 and a standard deviation of 100. To aid in the interpretation 
+  of these scores, reading proficiency categories are established: 
+
+  - Below Level 1c: score below 189.33
+  - Level 1c: score between 189.33 and 262.03
+  - Level 1b: score between 262.04 and 334.74
+  - Level 1a: score between 334.75 and 407.46
+  - Level 2: score between 407.47 and 480.17
+  - Level 3: score between 480.18 and 552.88
+  - Level 4: score between 552.89 and 625.60
+  - Level 5: score between 625.61 and 698.31
+  - Level 6: score above 698.31
+
+
+  A person reaches at least Level 2 reading proficiency when, for a text of average length, 
+  he or she can identify the main idea, understand the relationships between its parts, 
+  interpret the meaning of a limited part of the text through basic inferences, locate one 
+  or more pieces of information according to multiple partially implicit criteria, reflect 
+  on the general or specific purpose of the text, compare statements and evaluate the reasoning 
+  on which they are based by establishing connections between the text and external knowledge.
+
+  The following proficiency categories are established in mathematics:
+
+  - Below Level 1: score below 357.77 
+  - Level 1: score between 357.77 and 420.06
+  - Level 2: score between 420.07 and 482.37
+  - Level 3: score between 482.38 and 544.67
+  - Level 4: score between 544.68 and 606.98
+  - Level 5: score between 606.99 and 669.29
+  - Level 6: score above 669.29 
+
+  An individual achieves at least Level 2 proficiency in mathematics when he or she can interpret 
+  and recognize situations in contexts that only require direct inference, extract relevant information 
+  from a single source and make use of a single mode of representation, use elementary algorithms, 
+  formulas, procedures or conventions to solve problems related to integers and carry out direct reasoning 
+  and literal interpretations of the results.
+
+  
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  The indicator aims to measure the percentage of children and young people who have achieved the 
+  minimum learning outcomes in reading and mathematics during or at the end of the relevant stages of 
+  education. The higher the figure, the higher the proportion of children and/or young people reaching 
+  at least minimum proficiency in the respective domain (reading or mathematic). 
+
+  Learning outcomes from cross-national learning assessment are directly comparable for all countries 
+  which participated in the same cross-national learning assessments.
+
+  Source: United Nations Statistics Division
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.1.1&seriesCode=SE_TOT_PRFL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX%20%7C%20LOWSEC%20%7C%20SKILL_READ"> Proportion of children and young people achieving a minimum proficiency level in reading (%) SE_TOT_PRFL</a> UNSTATS 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.1.1&seriesCode=SE_TOT_PRFL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX%20%7C%20LOWSEC%20%7C%20SKILL_MATH"> Series: Proportion of children and young people achieving a minimum proficiency level in mathematics (%) SE_TOT_PRFL</a> UNSTATS
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-01-01.pdf">Metadata 4-1-1.pdf </a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

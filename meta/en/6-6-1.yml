@@ -1,0 +1,42 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.6-titulo
+# meta_global: meta_largo.6-6-titulo
+#  indicador_onu_global: indicador_largo.6-6-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Target 6.6 aims to “protect and restore water-related ecosystems, including mountains, 
+  forests, wetlands, rivers, aquifers and lakes” through SDG indicator 6.6.1 which aims to 
+  understand how and why these ecosystems are changing in extent over time. All of the 
+  different components of SDG indicator 6.6.1 are important to form a comprehensive picture 
+  that enables informed decisions towards the protection and restoration of water-related 
+  ecosystems.
+
+  Source: United Nations Statistics Division
+
+dato_global:
+
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-06-01a.pdf">Metadata 6-6-1 (1).pdf</a>
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-06-01b.pdf">Metadata 6-6-1 (2).pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

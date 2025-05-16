@@ -1,0 +1,68 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.5-2-1-titulo
+
+objetivo_global: objetivo_largo.5-titulo
+meta_global: meta_largo.5-2-titulo
+#  indicador_onu_global: indicador_largo.5-2-1-titulo
+
+
+definicion: >-
+  Number of cases (victimizations) of violence against women at the hands of their current or 
+  former partner over total number of women
+
+formula: |
+  $$TVPAAP^{t} = \frac{VAAP^{t}}{P_{women}^{t}} \cdot 10000$$
+
+  where:
+
+  $VAAP^{t} =$ Number of registered cases of violence against women at the hands of their current or former partner in the year $t$
+
+  $P_{women}^{t} =$ women on July 1 of year $t$
+
+desagregacion: >-
+  Province/County/Municipality
+
+periodicidad: FUENTE.FREQ_A
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Intimate partner violence is one of the most common forms of violence that 
+  women face globally. Given prevailing social norms that sanction male dominance 
+  over women, male violence towards their female intimate partners is often perceived 
+  as an ordinary/normal element of relationships in the context of marriage or other 
+  unions/relationships. 
+
+  Violence against women is an extreme manifestation of gender inequality and 
+  discrimination. 
+
+  Prevalence data are required to measure the magnitude of the problem; understand 
+  the various forms of violence and their consequences; identify groups at high risk 
+  and explore the barriers to seeking help to ensure that the appropriate responses 
+  are being provided. These data are the starting point for informing laws, policies 
+  and developing effective responses and prevention programs. They also allow countries 
+  to monitor change over time and optimally target resources to maximize the effectiveness 
+  of interventions (especially in resource-constrained settings). 
+
+  Source: United Nations Statistics Division
+
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.2.1&seriesCode=VC_VAW_MARR&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15-49%20%7C%20FEMALE">Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%) VC_VAW_MARR</a> UNSTATS
+
+
+comparabilidad: >-
+  The available indicator does not comply with the metadata of the United Nations indicator, 
+  but provides complementary information.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-02-01.pdf">Metadata 5-2-1.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -19,7 +19,7 @@ formula: |
 
   $CA_{malaria}^{t} =$ autochthonous cases of malaria notified to the National Epidemiological Surveillance Network (RENAVE) in year $t$
 
-  $P^{t} =$  population on July 1 of year $t$
+  $P^{t} =$ population on July 1 of year $t$
 
 desagregacion: >- 
   Sex
@@ -45,15 +45,16 @@ justificacion_global: |
   Incidence of malaria is defined as the number of new cases of malaria per 1,000 people at risk 
   each year. A case of malaria is defined as the occurrence of malaria infection in a person in 
   whom the presence of malaria parasites in the blood has been confirmed by a diagnostic test. 
-  The population considered is the population at risk of the disease.
-
+  The population considered is the population at risk of the disease. 
+  
+  Source: United Nations Statistics Division
   
 dato_global: >-
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.3.3&seriesCode=SH_STA_MALR&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">- Malaria incidence per 1,000 population at risk SH_STA_MALR</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.3.3&seriesCode=SH_STA_MALR&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Malaria incidence per 1,000 population at risk SH_STA_MALR</a> UNSTATS
 
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos de Naciones Unidas.
+  The available indicator complies with United Nations metadata.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-03.pdf">Metadata 3-3-3.pdf</a>'
 

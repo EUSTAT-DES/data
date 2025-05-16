@@ -1,0 +1,81 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.5-a-2-titulo
+
+objetivo_global: objetivo_largo.5-titulo
+meta_global: meta_largo.5-a-titulo
+#  indicador_onu_global: indicador_largo.5-a-2-titulo
+
+
+definicion: >-
+  Extent to which the legal framework (including customary law) guarantees women's equal 
+  rights to own or control land, measured by assessing six proxies. 
+
+formula: |
+
+
+  $$MJDMPT^{t} = \begin{cases} 1 & \text{If none of the proxies are present in the legislation in the year 𝑡} \\ 2 & \text{If one of the proxies is present in the legislation in the year 𝑡} \\ 3 & \text{If two of the proxies are present in the legislation in the year 𝑡} \\ 4 & \text{If three of the proxies are present in the legislation in the year 𝑡} \\ 5 & \text{If four of the proxies are present in the legislation in the year 𝑡} \\ 6 & \text{If five or six of the proxies are present in the legislation in the year 𝑡} \end{cases} $$
+
+
+periodicidad: FUENTE.FREQ_A
+
+desagregacion: >-
+
+
+observaciones: |
+
+  The indicator “measures” the level to which a country’s legal framework supports women’s land rights, by 
+  testing that framework against six proxies drawn from international law and internationally accepted good 
+  practices, in particular the Convention on the Elimination of Discrimination Against Women (CEDAW) 
+  and the Voluntary Guidelines for the Responsible Governance of the Tenure of Land Fisheries and Forestry (VGGT):  
+  - Proxy A: Joint registration of land is compulsory or encouraged through economic incentives 
+  - Proxy B: Compulsory spousal consent for land transactions 
+  - Proxy C: Women’s and girls’ equal inheritance rights 
+  - Proxy D: Allocation of financial resources to increase women’s ownership and control over land 
+  - Proxy E: In legal systems that recognize customary land tenure, the existence of explicit protection of the 
+  land rights of women
+  - Proxy F: Mandatory quotas for women’s participation in land management and administration institutions
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Indicator 5.a.2 measures the extent to which countries’ legal framework (including customary law) 
+  guarantees women’s equal rights to land ownership and/or control. 
+
+  The focus on land of Indicator 5.a.2 reflects the recognition that land is a key economic resource 
+  inextricably linked to access to, use of and control over other economic and productive resources. 
+  It is a key input for agricultural production; it can facilitate access to financial and extension 
+  services or to join producer organisations. Moreover, it can generate income directly if rented or sold. 
+
+  It also acknowledges that women’s ownership of and/or control of land is critical for poverty reduction, 
+  food security, inclusiveness and overall sustainable development objectives. Finally, gender equality 
+  in land ownership and control is a human right. For example, the International Covenant on Civil and 
+  Political Rights (ICCPR) guarantees equality between women and men, and prohibits discrimination based 
+  on sex in Article 2. 
+
+  Article 26 of the ICCPR enshrines equality before the law and can be applied to defend women’s right to 
+  non-discrimination and equality, including economic and social rights. Further, the Convention on the 
+  Elimination of Discrimination Against Women (CEDAW), emphasizes that discrimination against women 
+  “violates the principles of equality of rights and respect for human dignity". 
+
+  Source: United Nations Statistics Division
+
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.a.2&seriesCode=SG_LGL_LNDFEMOD&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Degree to which the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees) SG_LGL_LNDFEMOD</a> UNSTATS
+
+comparabilidad: >-
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-0A-02.pdf">Metadata 5-a-2.pdf</a>
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
