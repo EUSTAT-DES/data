@@ -41,21 +41,20 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  La tasa de desempleo es una medida útil de la subutilización de la oferta laboral. 
-  Refleja la incapacidad de una economía para generar empleo para aquellas personas 
-  que quieren trabajar pero no lo hacen, a pesar de que están disponibles para 
-  trabajar y buscan trabajo activamente. Por lo tanto, se considera 
-  un indicador de la eficiencia y eficacia de una economía para absorber su fuerza 
-  laboral y del desempeño del mercado laboral. 
+  Langabezia-tasa lan-eskaintzaren azpi-erabileraren neurri erabilgarria da. Tasa horrek adierazten 
+  du ekonomia batek duen ezintasuna lan egin nahi baina lan egiten ez duten pertsonentzako enplegua 
+  sortzeko, nahiz eta pertsona horiek lan egiteko prest egon eta lana aktiboki bilatu. Beraz, ekonomia 
+  batek bere lan-indarra xurgatzeko eta lan-merkatuan jarduteko duen eraginkortasunaren eta efizientziaren 
+  adierazletzat hartzen da. 
 
-  Las series temporales de corto plazo de la tasa de desempleo pueden 
-  utilizarse para  señalar cambios en el ciclo económico; los movimientos 
-  ascendentes del indicador a menudo coinciden con períodos recesivos o, en algunos casos, 
-  con el comienzo de un período expansivo, ya que personas que anteriormente no 
-  estaban en el mercado laboral comienzan a probar las condiciones mediante una 
-  búsqueda activa de empleo.
+  Langabezia-tasaren epe laburreko denbora-serieak ziklo ekonomikoan aldaketak adierazteko erabil 
+  daitezke; adierazlearen goranzko mugimenduak, askotan, aldi atzerakorrekin bat datoz, edo, kasu 
+  batzuetan, hedapen-aldi baten hasierarekin; izan ere, lehen lan-merkatuan ez zeuden pertsonak 
+  enplegu-bilaketa aktibo baten bidez hasten dira baldintzak probatzen. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
 

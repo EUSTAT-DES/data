@@ -22,14 +22,16 @@ observaciones:
 
 
 justificacion_global: |
-  El indicador proporciona una medición directa del progreso de la primera parte de la 
-  Meta 6.5: “…implementar la gestión integrada de los recursos hídricos a todos los niveles…”.
- 
-  La puntuación del indicador proporciona una forma sencilla y comprensible de medir el progreso 
-  hacia la meta: “0” se interpreta como falta de implementación de la gestión integrada de los recursos 
-  hídricos (GIRH) y “100” como una implementación completa de la GIRH.
+  Adierazleak 6.5 xedearen lehen zatiaren aurrerapena zuzenean neurtzen du: "... baliabide hidrikoen kudeaketa 
+  integratua maila guztietan ezartzea...". 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+  Adierazlearen puntuazioak xederako aurrerapena neurtzeko modu erraz eta ulergarria eskaintzen du: “0" bada, 
+  baliabide hidrikoen kudeaketa integratua (BHKI) ezarri ez dela ulertzen da, eta "100” bada, berriz, BHKI 
+  osorik ezarri dela. 
+
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: |
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.5.1&seriesCode=ER_H2O_IWRMD&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=_T">Ur-baliabideen kudeaketa integratuaren ezarpen-maila (%) ER_H2O_IWRMD</a> UNSTATS
