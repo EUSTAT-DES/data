@@ -15,13 +15,16 @@ disaggregation_status_notapplicable: 'Ez da aplikagarria'
 disaggregation_status_by_field: 'Desagregazioa %field bidez'
 not_specified: Ez da zehazten
 reported: Informatua
-description: Informazioaren egoerak %country.adjective Garapen Jasangarrirako Helburuei (GJH) buruzko datu kantitatearen deskribapen orokorra ematen du.
-progress_status: Aurrerapena
+description: |
+  Jarraipen-txostenak Euskal Autonomia Erkidegoan Garapen Jasangarrirako Helburuak (GJH) lortzeko egindako aurrerapenaren deskribapen orokorra ematen du.
+
+  Aurrerapena ebaluatzeko prozedurari buruz gehiago jakiteko, ikus <a href="https://eustat-des.github.io/site/metodologia">Aurrerapena neurtzeko metodologia</a>.
+progress_status: <b>Jarraipena</b>
 progress_not_available: Ez dago daturik
 progress_challenges_remain: Erronkek jarraitzen dute
 progress_approaching_target: Helmugara hurbilduz
 progress_target_achieved: Helmugara iritsita
-no_data_available: Ez dago daturik eskuragarri
+no_data_available: Eskuragarri ez dauden datuak
 progress_help: Nola goaz 2030eko helburuari dagokionez?
 alcanzado: Helburua lortuta edo lortzeko bidean
 en_progreso: Arrazoizko aurrerapena, baina bizkortu egin behar da
