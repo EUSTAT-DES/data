@@ -12,23 +12,22 @@ indicador_disponible: GRAFICO.nodisponible
  # Metadatos mundiales (Descripción del indicador)  
 
 descripcion_global: |
-  Desnutrizioaren edo azpielikaduraren prebalentzia bizimodu normala, 
-  aktiboa eta osasungarria izateko behar den energia dietetikoaren maila 
-  emateko nahikoa elikagai kontsumitu ohi duen biztanleriaren proportzioaren 
-  estimazio bat da. Ehuneko gisa adierazten da.  
+  Desnutrizioaren edo azpielikaduraren nagusitasunak neurtzen du biztanleriaren zein proportziotan 
+  den elikagaien ohiko kontsumoa urriegia bizitza normal, aktibo eta osasuntsua edukitzeko beharrezkoak 
+  diren energia dietetikoko mailak emateko. Ehunekotan adierazten da. 
 
 justificacion_global: |
-  Adierazlea FAOk erabili du Elikadurari buruzko Munduko Gailurraren helmugaren 
-  eta MGHen 1C helmugaren jarraipena egiteko, nazio, eskualde eta mundu mailan, 
-  1999tik.
+  FAOk adierazle hau erabili izan du Elikadurari buruzko Munduko Biltzarreko xedearen eta Milurteko 
+  Garapen Helburuen 1C xedearen jarraipena egiteko, nazioan, eskualdean eta maila orokorrean, 1999tik. 
 
-  Biztanleriak denboran zehar elikadura-energia gutxiegitasunaren mailan dituen 
-  joeren jarraipena egitea ahalbidetzen du. Joera horiek elikagaien eskuragarritasun 
-  orokorrean, horiek eskuratzeko etxekoen unitateen gaitasunean eta biztanleriaren 
-  ezaugarri soziodemografikoetan izandako aldaketen eta une jakin batean herrialdeen 
-  eta eskualdeen artean izandako desberdintasunen konbinazioaren emaitza dira.
+  Aukera ematen du joeren jarraipena egiteko biztanleria baten elikagai-energiaren urritasun mailan, 
+  epe luzera, hainbat faktoretan egondako aldaketen ondorioz: elikagaien erabilgarritasun orokorrean, 
+  etxeek elikagaiak eskuratzeko duten gaitasunean, eta biztanleriaren ezaugarri soziodemografikoetan. 
+  Halaber, herrialde eta eskualdeen arteko aldeak aztertzen ditu une jakin batean. 
 
-  Iturria: Nazio Batuen Estatistika Saila  
+
+  Iturria: Nazio Batuen Estatistika Sekzioa
+
 
 dato_global: >- 
 

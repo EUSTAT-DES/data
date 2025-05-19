@@ -65,29 +65,30 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  Adierazlea EBko Garapen Iraunkorreko Helburuen (GJH) adierazle multzoaren parte da. Gosea eta desnutrizioa 
-  amaitzeari buruzko 2. GJHrako aurrerabidearen jarraipena egiteko erabiltzen da, eta Europako Batzordearen 
-  lehentasunetan txertatuta dago, Europako Akordio Berdearen esparruan.
+  Adierazlea EBko Garapen Jasangarriko Helburuen (GJH) adierazleen parte da. Goseari eta desnutrizioari amaiera jartzeko 
+  2. GJHrako aurrerapenaren jarraipena egiteko erabiltzen da, eta Europako Batzordearen lehentasunetan sartzen da, Europako 
+  Akordio Berdearen esparruan. 
 
-  Adierazleak amoniako-isuriak ($NH_3$) neurtzen ditu, nekazaritza-ekoizpenaren ondorioz. Isurketa horiek 
-  honako hauen ondorio dira: simaurra maneiatzea, ongarri nitrogenatu ez-organikoak aplikatzea, eta animaliek 
-  artzaintzan utzitako gernua eta simaurra.
+  Adierazleak nekazaritzako ekoizpenaren ondoriozko amoniako-emisioak neurtzen ditu ($NH_3$). Emisio hauen atzean daude 
+  simaurraren erabilera, ongarri nitrogenatu inorganikoen aplikazioak, lurrera aplikatutako animalia-simaurra, eta animaliek 
+  larreetan utzitako txiza eta simaurra. 
 
-  Amoniakoa ($NH_3$) kolorerik gabeko gas bat da, usain garratz eta korrosibokoa, landare-materia organikoaren 
-  eta gizakien eta animalien gorotzen deskonposizioaren ondorioz sortzen dena. Atmosfera askatzen denean, 
-  amoniakoak airearen kutsadura-mailan laguntzen du. Nekazaritza-sektoreak jarraitzen du izaten EBn amoniako-isurien 
-  zergadun handiena.
+  Amoniakoa ($NH_3$) kolorerik gabeko gasa da, akre usainekoa eta korrosiboa. Material organiko begetala eta gizakien eta 
+  animalien gorozkiak deskonposatzean sortzen da. Atmosferara isurtzen denean, amoniakoak airearen kutsadura-maila igotzen 
+  du. Nekazaritzaren sektorea da oraindik ere EBn amoniako-emisioen ekarpen gehien egiten duena. 
 
-  Nekazaritza Politika Bateratuaren (NPB) eta Uraren Esparru Zuzentarauaren esparruan ezarritako neurrien ondorioz, 
-  EBk nekazaritzatik datozen amoniako-isuriak murriztu ditu 1990eko hamarkadatik. Zehazki, nekazaritza-jarduerak 
-  aldatzeko neurriek nitrogenodun ongarrien erabilera murriztea eta EB-15 osoan hektareako abeltzaintza-dentsitatea 
-  murriztea eragin zuten.
+  Nekazaritza Politika Erkidearen (NPE) eta Uraren Zuzentarau Esparruaren barnean ezarritako neurrien ondorioz, EBk murriztu 
+  egin ditu nekazaritzatik datozen amoniako-emisioak, 1990eko hamarkadaz geroztik. Zehazki, nekazaritzako praktikak aldatzeko 
+  neurriek murrizketak eragin zituzten ongarri nitrogenatuen erabileran eta, murrizketak, halaber, hektareako abeltzaintza-dentsitatean, 
+  EB-15 osoan. 
 
-  Emisioak Murrizteko Konpromiso Nazionalei buruzko Zuzentarauak (HPB Zuzentaraua) emisioak murrizteko konpromiso 
-  nazionalak ezartzen ditu estatu kideentzat eta EBrentzat airearen bost kutsatzaile garrantzitsurentzat, amoniakoa 
-  barne.
+  Emisioak Murrizteko Konpromiso Nazionalei buruzko Zuzentarauak (NEC Zuzentaraua) emisioak murrizteko konpromiso nazionalak 
+  ezartzen dizkie estatu-kideei eta EBri, airearen bost kutsatzaile handiri begira (amoniakoa barne). 
 
-  Iturria: Eurostat  
+
+  Iturria: Eurostat
+
+ 
 
 dato_global: >-
   <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_02_60/default/table?lang=en&category=sdg.sdg_02">

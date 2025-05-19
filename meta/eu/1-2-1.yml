@@ -39,25 +39,23 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |
 
-  Pobrezia erlatiboaren arrisku-adierazlea (At-Risk-of-Poverty Rate ingelesez) edo diru-pobrezia 
-  Europar Batasunean pobreziaren jarraipena egiteko funtsezko adierazleetako bat da.
+  Europar Batasunean pobreziaren jarraipena egiteko adierazle gakoetako bat pobrezia erlatiboaren arriskuaren adierazlea 
+  (At-Risk-of-Poverty Rate, ingelesez) edo diru-pobrezia izenekoa da. 
 
-  Adierazle horrek ez ditu neurtzen aberastasuna eta pobrezia, baizik eta diru-sarrera txikiak, beste batzuekin alderatuta 
-  Horrek ez du esan nahi, nahitaez, bizi-maila baxua denik.
+  Adierazle horrek ez du neurtzen ez aberastasuna ez pobrezia, baizik eta diru-sarrera baxuak, lurraldeko beste biztanle 
+  batzuekin alderatuta, nahiz eta horrek ez duen zertan bizi-maila baxua adierazi. 
 
-  Pobrezia-arriskuaren tasa pertsonen proportzioa da 
-  errenta erabilgarri baliokidea (transferentzia sozialen ondoren) 
-  pobreziaren arrisku-atalasea, konbentzio bidez EBn finkatuta dagoena, 
-  Errenta erabilgarri baliokidearen batez bestekoaren % 60, transferentzien ondoren 
-  lurralde batean.
+  Pobrezia-arriskuaren tasa honela zehazten da: pobrezia-arriskuaren atalasea baino errenta baliokide eskuragarri 
+  baxuagoa duten pertsonen proportzioa (transferentzia sozialen ostean). EBn atalase hori hitzarmen bidez zehazten 
+  da: errenta baliokide eskuragarriaren medianaren % 60, lurralde bateko transferentzia sozialen ostean. 
 
-  Etxekoen unitatearen tamainan eta osaeran dauden desberdintasunen eragina kontuan hartzeko, 
-  etxekoen unitate baten diru-sarrera erabilgarria (guztizko diru-sarrera, zergen eta bestelako kenkarien ondoren, 
-  gastatzeko edo aurrezteko), heldu bihurtutako etxekoen unitateko kideen kopuruarekin zatitzen da. 
-  baliokideak (kontsumo-unitateak). EBn baliokidetasun-faktore bat aplikatzen da, 
-  1994an proposatutako ELGAren eskala aldatua.
+  Aldeek etxe baten tamainan eta osaeran duten eragina kontuan hartzeko, etxe baten diru-sarrera eskuragarria 
+  (diru-sarrerak guztira, gastatzeko edo aurrezteko moduan daudenak, zergak eta beste kenkari batzuk aplikatu ondoren) 
+  zatitu egin behar da heldu bihurtu diren etxeko kide baliokideen arabera (kontsumo-unitateak). EBn aplikatzen den 
+  baliokidetasun-faktorea ELGAren eskala aldatuaren arabera kalkulatzen da (1994an proposatua). 
 
-    Iturria: Eurostat
+
+  Iturria: Eurostat
 
 dato_global: >-
   <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_01_20/default/table?lang=en&category=sdg.sdg_01">Gizarte-transferentzien ondoren diru-pobreziaren arriskuan dauden pertsonak - EU-SILC eta ECHP inkestak(sdg_01_20)</a> Eurostat

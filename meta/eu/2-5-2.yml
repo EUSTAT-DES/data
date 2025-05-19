@@ -11,7 +11,7 @@ indicador_disponible: GRAFICO.nodisponible
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: |
+justificacion_global: |
   Adierazleak lotura zuzena du biodibertsitatearekin; izan ere, animalia- edo abeltzaintza-baliabide 
   genetikoak nekazaritza-ekosistemen eta biodibertsitatearen zati integral bat dira. Gainera, 
   zeharkako loturak daude "malnutrizioarekin": elikadurarako eta nekazaritzarako animalien 
@@ -26,7 +26,7 @@ descripcion_global: |
   nekazaritza-ekoizpen iraunkorrerako. Arriskuan edo desagertzeko bidean dauden arrazen ehunekoaren 
   igoerarik ez dago zuzenean lotuta "biodibertsitatearen galera geldiaraztearekin".
 
-  Iturria: Nazio Batuen Estatistika Saila   
+  Iturria: Nazio Batuen Estatistika Seskzioa    
 
 
 dato_global: >- 
