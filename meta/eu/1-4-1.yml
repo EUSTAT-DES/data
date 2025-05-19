@@ -58,32 +58,36 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |
 
-  Nazio Batuen adierazlea 9 osagaitan oinarritzen da. Oinarrizko zerbitzuak eskuratzeko 
-  aukera duten etxeetan bizi diren biztanleen proportzioa honela definitzen da: oinarrizko 
-  giza premiak asetzen dituzten zerbitzu publikoak emateko sistemak erabiltzen dituzten 
-  biztanleen proportzioa, edateko ura, saneamendua, higienea, energia, mugikortasuna, hondakinen 
-  bilketa, osasun-arreta, hezkuntza eta informazioaren teknologiak barne.
+  Nazio Batuen adierazlea 9 osagaitan oinarritzen da. Oinarrizko zerbitzuak eskura dituzten etxeetan bizi 
+  diren biztanleen proportzioa honela definitzen da: oinarrizko giza beharrizanak asetzeko zerbitzu publikoko 
+  sistemak erabiltzen dituzten biztanleen proportzioa, zerbitzu horien barruan sartzen direlarik edateko ura, 
+  saneamendua, higienea, energia, mugikortasuna, hondakinen bilketa, arreta sanitarioa, hezkuntza eta 
+  informazioaren teknologiak. 
+
+  Osagai horiek GJHetatik independenteak diren hainbat adierazletan jasotzen dira; ondorioz, GJHen 1.4.1 
+  adierazleko kontzeptuak eta definizioak GJHen adierazle espezifiko hauetatik eratorriko dira, edo horien 
+  berdinak izango dira. 
+
+  Pobreziaren alderdi desberdinen artean, oinarrizko zerbitzuetarako sarbidea neurtzen du adierazle honek. 
+  Oinarrizko zerbitzuetarako sarbidea emateak (besteak beste, edateko ura, saneamendu- eta higiene-zerbitzuak, 
+  energia eta mugikortasun jasangarriak, etxebizitza, hezkuntza, arreta sanitarioa eta abar eskuratzeko) 
+  pobreen bizi-kalitatea hobetzen laguntzen du. 
+
+  Oinarrizko zerbitzuen prestaziorik ez badago eta tokiko gobernuek oinarrizko zerbitzuak emateko orduan 
+  parte hartzen ez badute edo horretarako ahaldunduta ez badaude, edozein komunitatetako hazkunde ekonomikoa 
+  eta bizi-kalitatea kaltetu egiten dira.  Oinarrizko zerbitzuak emateko sistema egokiek hobekuntza sozioekonomikoak 
+  sustatzen dituzte, eta hazkunde ekonomikoa, inklusio soziala, pobreziaren murrizketa eta berdintasuna lortzen 
+  laguntzen dute. 
+
+  Zehatzago, oinarrizko zerbitzuak hobetzea lagungarria izan daiteke komunitateen ongizatea eta produktibitatea 
+  areagotzeko, enpleguak sortzeko, uraren garraioan denbora eta giza ahalegina aurrezteko, elikagaien segurtasuna 
+  babesteko, energiaren erabilera hobetzeko, oinarrizko funtsezko produktuak ekoizteko, osasuna hobetzeko (arreta 
+  sanitarioko zerbitzu medikoak, edateko uraren erabilgarritasuna edo hondakin solidoen bilketa) edo hezkuntza 
+  maila hobetzeko. 
+
   
-  Osagai horiek GJHekiko independenteak diren hainbat adierazletan atzematen dira, eta horrek 
-  esan nahi du GJHen 1.4.1 adierazlearen kontzeptuak eta definizioak GJHen adierazle espezifiko 
-  horietatik eratorriko direla edo haien berberak izango direla.
+  Iturria: Nazio Batuen Estatistika Sekzioa
 
-  Pobreziaren alderdi desberdinen artean, adierazle hau oinarrizko zerbitzuetarako sarbidean 
-  zentratzen da. Oinarrizko zerbitzuak eskura izatea, hala nola edateko ura, saneamendu- eta 
-  higiene-zerbitzuak, energia eta mugikortasun jasangarriak, etxebizitza, hezkuntza, osasun-arreta, 
-  etab., pobreen bizi-kalitatea hobetzen laguntzen du.
-
-  Oinarrizko zerbitzurik ez emateak eta tokiko gobernuek oinarrizko zerbitzuak ematean ahalduntzerik 
-  eta parte-hartzerik ez izateak kalte egiten die hazkunde ekonomikoari eta bizi-kalitateari edozein 
-  erkidegotan. Oinarrizko zerbitzuak emateko sistema egokiek hobekuntza sozioekonomikoak sustatzen 
-  dituzte, eta hazkunde ekonomikoa, gizarteratzea, pobreziaren murrizketa eta berdintasuna lortzen 
-  laguntzen dute.
-
-  Zehazkiago, oinarrizko zerbitzuak hobetzea lagungarria izan daiteke komunitateen ongizatea eta 
-  produktibitatea handitzeko, enpleguak sortzeko, ura garraiatzeko denbora eta giza ahalegina 
-  aurrezteko, elikagaien segurtasuna babesteko, energiaren erabilera hobetzeko, funtsezko oinarrizko 
-  produktuak ekoizteko, osasuna hobetzeko (zerbitzu medikoak osasun-arreta emateko, edateko ura 
-  edukitzeko edo hondakin solidoak biltzeko) edo hezkuntza-maila hobetzeko.
 
 dato_global: |
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.4.1&seriesCode=SP_ACS_BSRVH2O&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=RURAL">Edateko uraren oinarrizko zerbitzuak erabiltzen dituzten biztanleen proportzioa, kokapenaren arabera (%) SP_ACS_BSRVH2O</a> UNSTATS

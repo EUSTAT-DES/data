@@ -56,24 +56,24 @@ periodicidad: FUENTE.FREQ_A
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  Adierazlea gobernuak funtsezko zerbitzuetan (hezkuntza, osasuna eta gizarte-babesa) 
-  egindako gastua ebaluatzeko erabiltzen da, gobernuaren guztizko gastuaren zenbatekoari 
-  dagokionez. Nazioarteko esparru batetik datorrenez, Finantza Publikoen Estatistiken 
-  Eskuliburuak (FPEE 2014) herrialdeen arteko datu alderagarriak ematen dizkie analistei, 
-  eta GJHen jarraipena datu fiskalak erabiliz egiteko ondorio analitiko sendoak ezartzea 
-  bermatzen du.
+  Adierazlea gobernuak oinarrizko zerbitzuetan egiten duen gastua ebaluatzeko erabiltzen da (hezkuntza, 
+  osasuna eta gizarte-babesa), gobernuaren gastu osoaren zenbatekoarekin lotuta. Nazioarteko esparrutik 
+  datorrenez, finantza publikoen estatistiken eskuliburuak (2014) analistei datu batzuk eskaintzen dizkie, 
+  herrialdeen artean alderatzeko modukoak. Halaber, ondorio analitiko solidoak ezarri ahal izatea bermatzen 
+  du, GJHen jarraipena babesteko, zerga-datuak kontuan hartuta. 
 
-  Funtsezko zerbitzuetako (hezkuntza, osasuna eta gizarte-babesa) gastu publikoaren proportzio 
-  handi batek erakusten du gobernuak lehentasun handia duela gastu-funtzio horietarako.
+  Oinarrizko zerbitzuetan gastu publikoa altua bada (hezkuntza, osasuna eta gizarte-babesa), gobernuek 
+  gastuaren eginkizun horiei lehentasun altua ematen dietela esan nahi du. 
 
-  Adierazle horren berri emateko, uste da gobernu orokorra dela estaldura instituzionalaren 
-  mailarik egokiena; izan ere, dagozkion gobernu-unitateak hartuko ditu, tokiko gobernuak barne, 
-  herrialde askotan kontuan hartu behar baita gastu-kategoria horien deszentralizazioa. Herrialde 
-  batek gobernu zentral bat izan dezake; estatuetako, probintzietako edo eskualdeetako hainbat 
-  gobernu; eta tokiko gobernu asko, eta MEFP 2014k gomendatzen du estatistikak biltzea gobernu 
-  orokorreko unitate horietarako guztietarako.
+  Adierazle horren berri emateko, kontuan hartzen da gobernu orokorra dela estaldura instituzionaleko 
+  mailarik egokiena, gobernu-unitate egokiak hartzen baititu bere baitan, tokiko gobernuak barne. Izan ere, 
+  herrialde askotan gastuaren kategoria hauek deszentralizatuta daude, hau da, herrialde batek gobernu zentral 
+  bat eduki dezake, estatu, probintzia edo eskualdeko hainbat gobernu, eta tokiko gobernu asko. 2014ko eskuliburuak, 
+  beraz, gobernu orokorraren unitate horientzat guztientzat estatistikak batu daitezela gomendatzen du. 
 
-  Iturria: Nazio Batuen Estatistika Saila  
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 comparabilidad: >-
   Euskal Autonomia Erkidegoan eskuragarri dagoen adierazleak COFOG sailkapena erabiltzen du. 

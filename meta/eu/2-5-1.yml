@@ -11,7 +11,7 @@ indicador_disponible: GRAFICO.nodisponible
 
  # Metadatos mundiales (Descripción del indicador)  
 
-descripcion_global: |
+justificacion_global: |
   Elikadurarako eta nekazaritzarako baliabide genetikoak elikadura-segurtasunaren oinarrizko elementuak 
   dira, eta, zuzenean edo zeharka, Lurreko pertsona guztien bizibideak sostengatzen dituzte.
 
@@ -34,7 +34,7 @@ descripcion_global: |
   bermatzeko kudeatzen da. Oro har, aldakuntza positiboak agrobiodibertsitate aseguratua handitzera 
   hurbiltzen dira, eta aldakuntza negatiboak, berriz, galera batera.
 
-  Iturria: Nazio Batuen Estatistika Saila 
+  Iturria: Nazio Batuen Estatistika Sekzioa  
 
 dato_global: >- 
 
