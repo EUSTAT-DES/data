@@ -35,20 +35,19 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  El PIB real por persona empleada es una medida de la productividad laboral, 
-  por lo que este indicador representa una medida del crecimiento de la productividad 
-  laboral, brindando así información sobre la evolución, la eficiencia y la calidad 
-  del capital humano en el proceso de producción.
+  Langile bakoitzeko BPG erreala lan-produktibitatearen neurri bat da, eta, beraz, adierazle hori 
+  lan-produktibitatearen hazkundearen neurri bat da, eta, horrela, ekoizpen-prozesuan giza kapitalaren 
+  bilakaerari, eraginkortasunari eta kalitateari buruzko informazioa ematen du. 
 
-  El crecimiento económico de un país puede atribuirse a muchos factores, entre 
-  ellos el aumento del empleo y el trabajo más eficaz de quienes están empleados. 
-  Este indicador arroja luz sobre este último efecto, por lo que es una medida clave 
-  del desempeño económico. Las estimaciones de la productividad laboral 
-  (y del crecimiento) pueden respaldar la formulación de políticas del mercado 
-  laboral y monitorear sus efectos. También pueden contribuir a la comprensión 
-  de cómo el desempeño del mercado laboral afecta los niveles de vida.
+  Herrialde bateko hazkunde ekonomikoa faktore askori egotz dakioke; besteak beste, enpleguaren hazkundeari 
+  eta enplegatuen lan eraginkorragoari. Adierazle horrek azken efektu horren berri ematen du, eta, beraz, 
+  jarduera ekonomikoaren funtsezko neurria da. Lan-produktibitatearen (eta hazkundearen) zenbatespenak 
+  lagungarriak izan daitezke lan-merkatuaren politikak egiteko eta horien ondorioak ikuskatzeko. Lan-merkatuaren 
+  jardunak bizi-mailei nola eragiten dien ulertzen ere lagun dezakete. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
 

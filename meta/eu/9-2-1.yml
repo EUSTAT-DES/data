@@ -51,17 +51,18 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  El Valor añadido del sector manufacturero (VAM) es un indicador ampliamente reconocido y 
-  utilizado por investigadores y responsables de políticas para evaluar el nivel 
-  de industrialización de un país. La proporción del VAM en el PIB refleja el 
-  papel de la industria manufacturera en la economía y el desarrollo nacional de un 
-  país en general. 
+  Manufaktura-sektorearen balio erantsia (MBE) politiken arduradun eta ikertzaileek herrialde baten 
+  industrializazio-maila ebaluatzeko erabiltzen duten (eta aski aitortua dagoen) adierazlea da. MBEk 
+  BPGan duen proportzioak manufaktura-industriak oro har herrialde baten ekonomia eta garapen nazionalean 
+  duen zeregina islatzen du. 
 
-  El VAM per cápita es el indicador básico del nivel de industrialización de un país 
-  ajustado al tamaño de la economía. Uno de los usos estadísticos del VAM per cápita 
-  es la clasificación de grupos de países según la etapa de desarrollo industrial.
+  Biztanleko MBE herrialde baten industrializazio-mailaren oinarrizko adierazlea da, ekonomiaren 
+  tamainara egokitua. Biztanleko MBEren erabilera estatistikoetako bat herrialdeetako taldeen 
+  sailkapena da, garapen industrialeko etaparen arabera. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: | 
 

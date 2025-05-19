@@ -34,22 +34,21 @@ periodicidad: FUENTE.FREQ_A
 
 justificacion_global: |
 
-  El propósito de este indicador es mostrar el grado de explotación de los recursos hídricos 
-  para satisfacer la demanda nacional. Mide la presión de un país sobre sus recursos hídricos 
-  y, por lo tanto, el desafío que supone para la sostenibilidad de su uso. Monitorea el 
-  progreso en materia de extracción y suministro de agua dulce para abordar la escasez 
-  de agua, es decir, el componente ambiental de la meta 6.4. 
+  Adierazle honen helburua da erakustea zein den ur-baliabideen ustiapen-maila eskari nazionalari 
+  erantzuteko. Herrialde batek bere ur-baliabideen gainean duen presioa neurtzen du, eta, beraz, bere 
+  erabileraren jasangarritasunerako duen erronka. Ur geza erauzteko eta hornitzeko orduan egondako 
+  aurrerapena ikuskatzen du, ur-eskasiari aurre egiteko, hau da, 6.4 xedeko ingurumen-osagaia jorratzeko. 
 
-  El indicador muestra en qué medida se utilizan ya los recursos hídricos y señala la 
-  importancia de políticas eficaces de gestión de la oferta y la demanda. Indica la 
-  probabilidad de un aumento de la competencia y los conflictos entre los diferentes 
-  usos y usuarios del agua en una situación de creciente escasez. Un mayor estrés hídrico, 
-  reflejado en un aumento del valor del indicador, tiene efectos potencialmente 
-  negativos en la sostenibilidad de los recursos naturales y en el desarrollo económico. 
-  Por otro lado, valores bajos del indicador indican que el agua no representa un desafío 
-  particular para el desarrollo económico y la sostenibilidad.
-  
-  Fuente: División de Estadísticas de las Naciones Unidas
+  Adierazleak ur-baliabideak zein neurritan erabiltzen diren erakusten du, eta eskaintza eta eskaria 
+  kudeatzeko politika eraginkorren garrantzia adierazten du. Lehia areagotzeko probabilitatea adierazten 
+  du, bai eta uraren erabileren eta erabiltzaileen arteko gatazkak ere, gero eta urriagoa den egoera batean. 
+  Estres hidriko handiagoak, adierazlearen balioa handitzean islatzen denak, ondorio negatiboak izan ditzake 
+  baliabide naturalen jasangarritasunean eta garapen ekonomikoan. Bestalde, adierazlearen balio baxuek 
+  adierazten dute ura ez dela erronka berezia garapen ekonomikorako eta jasangarritasunerako. 
+
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: |
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.4.2&seriesCode=ER_H2O_STRESS&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=TOTAL">Estres hidrikoaren maila: ur gezaren erauzketa, eskuragarri dagoen ur gezaren proportzio gisa (%) ER_H2O_STRESS</a> UNSTATS

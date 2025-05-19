@@ -21,20 +21,17 @@ observaciones:
 
 
 justificacion_global: |
-  El indicador mide el nivel de cumplimiento nacional de los derechos fundamentales 
-  en el trabajo (libertad sindical y negociación colectiva, FACB) para todos 
-  los Estados miembros de la OIT, basándose en la codificación de seis 
-  fuentes textuales de los órganos de control de la OIT y también en la 
-  legislación nacional, frente a una lista de criterios de evaluación, y 
-  posteriormente convirtiendo la codificación en indicadores.
+  Adierazleak LANEko kide diren estatu guztiek lanean dituzten oinarrizko eskubideen (askatasun sindikala 
+  eta negoziazio kolektiboa, FACB) betetze-maila neurtzen du, LANEko kontrol-organoen sei testu-iturriren 
+  kodifikazioan eta legeria nazionalean oinarrituta, ebaluazio-irizpideen zerrenda baten aldean, eta, ondoren, 
+  kodetze horiek adierazle bihurtzen ditu. 
+
+  Adierazleak 0tik 10era bitarteko tartea du, eta 0 da puntuaziorik onena (FACBren eskubideen betetze-maila 
+  altuenak adierazten ditu) eta 10 txarrena (FACBren eskubideen betetze-maila baxuenak adierazten ditu). 
 
 
-  El indicador tiene un rango de 0 a 10, siendo 0 la mejor puntuación posible 
-  (que indica niveles más altos de cumplimiento de los derechos de la FACB) 
-  y 10 la peor (que indica niveles más bajos de cumplimiento de los derechos de 
-  la FACB).
+  Iturria: Nazio Batuen Estatistika Sekzioa 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global:
 

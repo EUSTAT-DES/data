@@ -40,23 +40,22 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  La proporción de jóvenes que no tienen empleo, educación ni formación 
-  (tasa de jóvenes que no estudian ni reciben formación) proporciona una medida de 
-  los jóvenes que están fuera del sistema educativo, que no reciben formación ni empleo 
-  y, por lo tanto, sirve como una medida más amplia de los jóvenes que pueden 
-  ingresar al mercado laboral que el desempleo juvenil. 
+  Lanik, hezkuntzarik edo prestakuntzarik ez duten gazteen proportzioak (ikasten ez duten eta prestakuntzarik 
+  jasotzen ez duten gazteen tasa) neurri bat ematen du hezkuntza-sistematik kanpo dauden gazteen eta 
+  prestakuntzarik eta enplegurik jasotzen ez dutenen inguruan, eta, beraz, lan-merkatuan sar daitezkeen gazteen 
+  gaineko neurri zabalagoa da gazteen langabezia baino. 
 
-  Incluye a los jóvenes que no se animan a trabajar, así como a aquellos que 
-  están fuera de la fuerza laboral debido a una discapacidad o por su participación en 
-  las tareas domésticas, entre otras razones. 
+  Horren barruan sartzen dira, besteak beste, lan egitera animatzen ez diren gazteak, baita ezintasunen bat 
+  dutelako edo etxeko lanetan parte hartzen dutelako (besteak beste) lan indarretik kanpo daudenak ere. 
 
-  La tasa de jóvenes que no estudian ni reciben formación también es una mejor medida 
-  del universo actual de jóvenes que pueden ingresar al mercado laboral en comparación 
-  con la tasa de inactividad juvenil, ya que esta última incluye a aquellos jóvenes 
-  que están fuera de la fuerza laboral y están recibiendo educación, y por lo tanto 
-  están mejorando sus habilidades y calificaciones.
+  Ikasten ez duten eta prestakuntzarik jasotzen ez duten gazteen tasa ere neurri hobea da lan-merkatuan sar 
+  daitezkeen gazteen egungo unibertsoa ulertzeko, gazteen jarduerarik ezaren tasarekin alderatuta; izan ere, 
+  azken horren barruan sartzen dira lan-indarretik kanpo dauden eta hezkuntza jasotzen ari diren gazteak, eta, 
+  beraz, beren trebetasunak eta kalifikazioak hobetzen ari direnak. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
 
