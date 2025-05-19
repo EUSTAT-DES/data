@@ -41,23 +41,24 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |
 
-  Nazio Batuen adierazleak alkoholaren erabilera kaltegarria neurtzen du. Estatuko testuinguruaren arabera, honako 
-  hau da alkoholaren per capita kontsumoa (15 urteko edo gehiagoko pertsonak) egutegiko urte batean, alkohol puruaren 
-  litrotan.
+  Nazio Batuen adierazleak alkoholaren erabilera kaltegarria neurtzen du, testuinguru nazionalaren arabera biztanleko 
+  alkohol-kontsumo gisa zehaztua (15 urte edo gehiagoko pertsonak) egutegiko urtebetean, alkohol puruko litrotan. 
 
-  Alkoholaren kontsumoak gaixotasunen, lesioen eta beste osasun-baldintza batzuen intzidentzian ez ezik, nahasmenduen 
-  bilakaeran eta horiek pertsonengan dituzten ondorioetan ere izan dezake eragina.
+  Alkoholaren kontsumoak eragina izan dezake ez soilik gaixotasunen, lesioen eta beste osasun-arazo batzuen intzidentzian, 
+  baizik eta baita nahasmenduen bilakaeran eta pertsonen gaineko ondorioetan ere. 
 
-  Alkoholaren kontsumoa 200 gaixotasun, lesio eta beste osasun-arazo batzuen osagai gisa identifikatu da. Biztanle 
-  bakoitzeko alkoholaren kontsumoa oso ondo onartzen da herrietan alkoholarekiko esposizioaren adierazlerik onena 
-  bezala eta alkoholari egotz dakizkiokeen gaixotasunen eta alkoholari egotz dakizkiokeen heriotzen karga zenbatesteko 
-  funtsezko adierazlea bezala.
+  Alkoholaren kontsumoa 200dik gora gaixotasun, lesio edo bestelako osasun-arazoren arrazoitzat jo da. Biztanleko 
+  alkohol-kontsumoa biztanleen artean alkoholaren esposizioa ondoen zehazten duen adierazletzat jotzen da. Halaber, 
+  funtsezko adierazlea da alkoholari egotzi ahal zaizkion gaixotasunen karga eta alkoholari egotzi ahal zaizkion 
+  heriotzak kalkulatzeko. 
 
-  Hori behar bezala interpretatzeko, biztanleria-adierazle gehigarriak erabili behar dira, hala nola alkohol-kontsumoaren 
-  prebalentzia, eta, horren ondorioz, alkohola eta osasuna zaintzeko sistema nazionalen garapena estimulatzen du. Sistema 
-  horiek alderdi interesdun askoren ekarpenak biltzen dituzte, alkohol-ekoizpenaren eta -merkataritzaren sektoreak barne.
+  Zuzen interpretatzeko, biztanleria-adierazle osagarriak erabili behar dira, besteak beste alkohol-kontsumoaren 
+  nagusitasuna. Ondorioz, alkohola eta osasuna zaintzeko sistema nazionalen garapena sustatzen da, interesa duten 
+  alderdi askoren ekarpenak inplikatuz (alkohola ekoitzi eta merkaturatzen duten sektoreak barne). 
 
-  Iturria: Nazio Batuen Estatistika Saila  
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.5.2&seriesCode=SH_ALC_CONSPT&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15%2B%20%7C%20BOTHSEX">Alkohol-kontsumoa per capita (15 urtetik gorakoak) egutegiko urte batean (alkohol puruaren litroak) SH_ALC_CONSPT</a> UNSTATS

@@ -69,29 +69,28 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |  
 
-  Nekazaritza jasangarria definitzeko ikuspegiak aldatu egiten dira iraunkortasunaren hiru dimentsio 
-  nagusien estaldurari dagokionez, hau da, ekonomikoa, ingurumenekoa eta soziala, eta iraunkortasuna 
-  ebaluatzeko erabiltzen den eskalari dagokionez, hau da, landa-eskalatik eta baserri-eskalatik eskala 
-  nazional eta globaleraino. Ikuspegi batzuek iraunkortasunaren ezaugarri desberdinak hartzen dituzte 
-  kontuan; adibidez, egungo praktikak ekonomikoki bideragarriak diren, ingurumena errespetatzen duten 
-  eta sozialki desiragarriak diren. Beste ikuspegi batzuk praktika berezietan oinarritzen dira, hala 
-  nola nekazaritza organikoa, birsortzailea edo intsumo txikikoa, eta nekazaritza jasangarriarekin 
-  pareka ditzakete.
+  Nekazaritza jasangarria zehazteko ikuspegiak aldatu egiten dira, jasangarritasunaren hiru dimentsio nagusien 
+  estaldurari erreparatuz gero (ekonomia, ingurumena eta gizartea) eta jasangarritasuna ebaluatzeko erabiltzen 
+  den eskala kontuan hartuz gero (hau da, landa eta baserrien eskaletatik eskala nazional eta globaletara). 
+  Ikuspegi batzuek jasangarritasuneko ezaugarri desberdinak jorratzen dituzte; esaterako, ea egungo praktikak 
+  ekonomikoki bideragarriak diren, ingurumena zaintzen duten, eta gizartean desiragarriak diren. Beste ikuspegi 
+  batzuek praktika partikularrak lantzen dituzte, esate baterako nekazaritza organikoa, birsortzailea edo intsumo 
+  baxukoa, eta horiek nekazaritza jasangarriarekin alderatu ditzakete. 
 
-  GJHen 2.4.1 adierazlea iraunkortasunaren hiru dimentsioak estaltzen dituzten azpiadierazleetan oinarritzen da:
+  GJHen 2.4.1 adierazlea jasangarritasuneko hiru dimentsioak estaltzen dituzten azpi-adierazleen multzo batean oinarritzen da:
    - Nekazaritza-ekoizpenaren balioa hektareako
    - Nekazaritzako diru-sarrera garbiak
    - Arriskuak arintzeko mekanismoak
-   - Lurzoruaren degradazioaren prebalentzia
-   - Ur-erabilgarritasunaren aldaketa
+   - Lurzoruaren narriaduraren nagusitasuna
+   - Aldakuntza uraren erabilgarritasunean 
    - Ongarrien kudeaketa
    - Pestiziden kudeaketa
-   - Agrobioaniztasuna babesten duten praktikak erabiltzea
-   - Soldatak nekazaritzan
-   - Elikagaien segurtasun-ezaren esperientzia-eskala
-   - Lurrerako jabetza-eskubideak bermatzea
+   - Nekazaritzako biodibertsitatea babesten duten praktiken erabilera 
+   - Nekazaritzako soldatak 
+   - Elikagaien segurtasunik ezaren esperientziaren eskala 
+   Lurraren edukitze seguruen eskubideak
 
-  Iturria: Nazio Batuen Estatistika Saila
+  Iturria: Nazio Batuen Estatistika Sekzioa 
 
 dato_global: | 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.4.1&seriesCode=AG_LND_SUST_PRXCSS&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Nekazaritza produktibo eta jasangarri bateranzko aurrerapena, egungo egoeraren puntuazioa AG_LND_SUST_PRXCSS</a> UNSTATS
