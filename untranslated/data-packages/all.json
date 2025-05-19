@@ -4821,7 +4821,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All",
+                "EU_SDG_02_40",
                 ""
               ]
             }

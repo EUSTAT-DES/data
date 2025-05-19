@@ -8,7 +8,6 @@ AG_LND_FRSTMGT_HA,Superficie forestal con instrumentos de gestión sostenible vi
 AG_LND_NFI,Proporción de la superficie de tierras agrícolas que ha alcanzado un nivel aceptable o deseable de ingresos agrícolas netos,AG_LND_NFI,AG_LND_NFI,1,1
 AG_PRD_FIESMS,Prevalencia de la inseguridad alimentaria grave o muy grave,AG_PRD_FIESMS,AG_PRD_FIESMS,1,1
 AG_PRD_FIESS,Prevalencia de la inseguridad alimentaria muy grave,AG_PRD_FIESS,AG_PRD_FIESS,1,1
-All,All,All,All,274,1
 BX_TRF_PWKR,Volumen de remesas enviadas al extranjero en proporción al PIB,BX_TRF_PWKR,BX_TRF_PWKR,2,2
 BX_TRF_PWKRV,Volumen de remesas enviadas al extranjero,BX_TRF_PWKRV,BX_TRF_PWKRV,1,1
 DP_DOD_DLD2_CR_CG_Z1,Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB,DP_DOD_DLD2_CR_CG_Z1,DP_DOD_DLD2_CR_CG_Z1,1,1
@@ -61,6 +60,7 @@ EU_ODA_GDP,Ayuda Oficial al Desarrollo neta de las administraciones públicas au
 EU_PI_HEALTH,Índice de paridad en salud,EU_PI_HEALTH,EU_PI_HEALTH,3,1
 EU_RUPI_TRN,Índice de paridad en localización (municipios de más y menos de 10.000 habitantes),EU_RUPI_TRN,EU_RUPI_TRN,4,1
 EU_SAN_PARTIC,Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión de aguas de consumo,EU_SAN_PARTIC,EU_SAN_PARTIC,1,1
+EU_SDG_02_40,EU_SDG_02_40,EU_SDG_02_40,EU_SDG_02_40,274,1
 EU_SDG_02_60_KG_PER_HA,Emisiones de amoníaco de la agricultura y ganadería por hectárea,EU_SDG_02_60_KG_PER_HA,EU_SDG_02_60_KG_PER_HA,3,1
 EU_SDG_02_60_KT,Emisiones de amoníaco de la agricultura y ganadería,EU_SDG_02_60_KT,EU_SDG_02_60_KT,3,1
 EU_SDG_15_20_KM2,Superficie de las áreas terrestres protegidas (Km2),EU_SDG_15_20_KM2,EU_SDG_15_20_KM2,7,1
