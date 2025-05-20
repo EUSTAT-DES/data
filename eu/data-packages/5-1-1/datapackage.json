@@ -13,37 +13,37 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "SG_LGL_GENEQLFP",
-                "SG_LGL_GENEQVAW",
-                "SG_LGL_GENEQEMP",
-                "SG_LGL_GENEQMAR",
+                "Area 1: marco legal global y vida pública",
+                "Area 2: violencia contra la mujer",
+                "Area 3: empleo y subsidios económicos",
+                "Area 4: matrimonio y familia",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

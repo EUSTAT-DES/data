@@ -13,36 +13,36 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "BX_TRF_PWKR",
-                "BX_TRF_PWKRV",
+                "Volumen de remesas enviadas al extranjero en proporción al PIB",
+                "Volumen de remesas enviadas al extranjero",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
-                "EUR_1000000",
+                "Porcentaje",
+                "Millones de euros",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

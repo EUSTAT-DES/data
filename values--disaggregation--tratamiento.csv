@@ -1,5 +1,5 @@
 Value,es,eu,en,Disaggregation combinations using this value,Number of indicators
-WT_INCINRT,Incineración sin recuperación de energía,WT_INCINRT,WT_INCINRT,4,1
-WT_INCINRT_EGY,Incineración con recuperación de energía,WT_INCINRT_EGY,WT_INCINRT_EGY,8,2
-WT_LANDFIL,Depósito en vertedero,WT_LANDFIL,WT_LANDFIL,8,2
-WT_RECYC,Reciclaje,WT_RECYC,WT_RECYC,8,2
+WT_INCINRT,Incineración sin recuperación de energía,Incineración sin recuperación de energía,WT_INCINRT,4,1
+WT_INCINRT_EGY,Incineración con recuperación de energía,Incineración con recuperación de energía,WT_INCINRT_EGY,8,2
+WT_LANDFIL,Depósito en vertedero,Depósito en vertedero,WT_LANDFIL,8,2
+WT_RECYC,Reciclaje,Reciclaje,WT_RECYC,8,2

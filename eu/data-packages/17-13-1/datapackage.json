@@ -13,52 +13,52 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "NY_GDP_MKTP_KD_ZG",
-                "SL_TLF_UEM",
-                "FP_CPI_TOTL_ZG",
-                "BX_TRF_PWKR",
-                "DP_DOD_DLD2_CR_CG_Z1",
-                "GC_BAL_CASH_GD_ZS",
+                "Tasa de variación interanual del PIB",
+                "Tasa de desempleo",
+                "Tasa de variación interanual del índice de precios de consumo",
+                "Volumen de remesas enviadas al extranjero en proporción al PIB",
+                "Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB",
+                "Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

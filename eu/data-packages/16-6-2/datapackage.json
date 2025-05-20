@@ -13,34 +13,34 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "ServPub",
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_PSR_SATIS_EDU",
-                "SP_PSR_SATIS_HLTH",
-                "EU_PSR_SATIS_PENSN",
-                "EU_PSR_SATIS_JUST",
-                "EU_PSR_SATIS_SEC",
-                "EU_PSR_SATIS_SOCSERV",
-                "EU_PSR_SATIS_TRANSPORT",
-                "EU_PSR_SATIS_OBRA",
-                "EU_PSR_SATIS_DPDNT",
+                "Enseñanza",
+                "Asistencia sanitaria",
+                "Gestión de pensiones",
+                "Administración de justicia",
+                "Seguridad ciudadana",
+                "Servicios sociales",
+                "Transporte público",
+                "Obras públicas",
+                "Ayuda a personas dependientes",
                 ""
               ]
             },
-            "title": "ServPub"
+            "title": "Servicios públicos"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Mujer",
+                "Hombre",
                 ""
               ]
             },
@@ -51,29 +51,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

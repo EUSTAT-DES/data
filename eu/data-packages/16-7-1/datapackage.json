@@ -13,72 +13,72 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "SG_DMK_PARLMP_LC",
-                "SG_DMK_PSRVC",
-                "SG_DMK_JDC",
+                "Proporción de mujeres en el parlamento en relación con la proporción de mujeres en la población",
+                "Proporción de mujeres en la administración pública en relación con la proporción de mujeres en la población",
+                "Proporción de mujeres en el poder judicial en relación con la proporción de mujeres en la población",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Institucion",
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_DMK_PSRVC_AUT",
-                "EU_DMK_PSRVC_LOC",
-                "EU_DMK_PSRVC_NAC",
-                "EU_DMK_SAN_AUT",
-                "EU_DMK_EDU_AUT",
-                "EU_DMK_DF",
-                "EU_DMK_MUN",
-                "EU_DMK_UNI",
-                "EU_DMK_POL_AUT",
-                "EU_DMK_JUST_AUT",
-                "EU_DMK_JUST_NAC",
-                "EU_DMK_FCSE",
-                "EU_DMK_FA",
+                "Sector público autonómico",
+                "Sector público local",
+                "Sector público estatal",
+                "Instituciones sanitarias autonómicas",
+                "Centros educativos no universitarios autonómicos",
+                "Diputaciones forales",
+                "Ayuntamientos",
+                "Universidades",
+                "Policía autonómica",
+                "Administración de Justicia autonómica",
+                "Administración de Justicia del Estado",
+                "Fuerzas y cuerpos de seguridad del Estado",
+                "Fuerzas armadas",
                 ""
               ]
             },
-            "title": "Institucion"
+            "title": "Institución"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "RO",
+                "Ratio",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

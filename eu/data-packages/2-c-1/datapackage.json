@@ -13,34 +13,34 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "AG_FPA_CFPI",
-                "EU_FPA_IPC",
+                "Indicador de anomalías en los precios de los alimentos",
+                "Índice de precio de los alimentos",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Alimento",
             "type": "string",
             "constraints": {
               "enum": [
-                "ECOICOP011",
-                "ECOICOP_RUB_01_02",
-                "ECOICOP_RUB_02",
-                "ECOICOP_RUB_01",
-                "ECOICOP_RUB_10",
-                "ECOICOP_RUB_11",
-                "ECOICOP_RUB_13",
-                "ECOICOP_RUB_14",
-                "ECOICOP_RUB_16",
+                "Alimentos (total)",
+                "Pan y cereales",
+                "Pan",
+                "Cereales y derivados",
+                "Huevos",
+                "Leche",
+                "Aceites y grasas",
+                "Frutas frescas",
+                "Legumbres y hortalizas frescas",
                 ""
               ]
             },
@@ -51,29 +51,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "IX",
+                "Índice",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

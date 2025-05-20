@@ -13,63 +13,63 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_W_GENPCAP",
-                "EN_REF_WASCOL",
-                "EN_MWT_TREATV",
+                "Residuos urbanos recogidos per cápita",
+                "Proporción de residuos urbanos recogidos y administrados en instalaciones controladas",
+                "Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Tratamiento",
             "type": "string",
             "constraints": {
               "enum": [
-                "WT_RECYC",
-                "WT_INCINRT_EGY",
-                "WT_LANDFIL",
+                "Reciclaje",
+                "Incineración con recuperación de energía",
+                "Depósito en vertedero",
                 ""
               ]
             },
-            "title": "Tratamiento"
+            "title": "Operación de tratamiento de residuos"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "KG_PER_CAPITA",
-                "PT",
+                "Kg per cápita",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

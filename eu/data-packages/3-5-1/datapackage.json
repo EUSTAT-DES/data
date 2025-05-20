@@ -13,28 +13,28 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Adiccion",
             "type": "string",
             "constraints": {
               "enum": [
-                "DRUG_TOTAL",
-                "ALCOHOL",
-                "ILDRUGS",
+                "Todas las sustancias adictivas",
+                "Alcohol",
+                "Drogas ilegales",
                 ""
               ]
             },
-            "title": "Adiccion"
+            "title": "Sustancia adictiva"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Mujer",
+                "Hombre",
                 ""
               ]
             },
@@ -45,16 +45,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000",
+                "Por 100.000",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

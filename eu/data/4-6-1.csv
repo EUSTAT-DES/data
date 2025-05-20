@@ -1,13 +1,13 @@
-Year,Competencia,Sexo,Units,Value
-2023,SKILL_LTRCY,,PT,77.6
-2023,SKILL_NMRCY,,PT,81.0
-2013,SKILL_LTRCY,,PT,68.1
-2013,SKILL_NMRCY,,PT,69.2
-2023,SKILL_NMRCY,F,PT,78.7
-2013,SKILL_LTRCY,F,PT,68.2
-2013,SKILL_NMRCY,F,PT,67.0
-2023,SKILL_LTRCY,F,PT,80.1
-2023,SKILL_NMRCY,M,PT,83.4
-2013,SKILL_NMRCY,M,PT,71.5
-2023,SKILL_LTRCY,M,PT,74.9
-2013,SKILL_LTRCY,M,PT,67.9
+Year,Tipo de competencia,Sexo,Units,Value
+2023,Comprensión lectora,,Porcentaje,77.6
+2023,Matemáticas,,Porcentaje,81.0
+2013,Comprensión lectora,,Porcentaje,68.1
+2013,Matemáticas,,Porcentaje,69.2
+2023,Matemáticas,Mujer,Porcentaje,78.7
+2013,Comprensión lectora,Mujer,Porcentaje,68.2
+2013,Matemáticas,Mujer,Porcentaje,67.0
+2023,Comprensión lectora,Mujer,Porcentaje,80.1
+2023,Matemáticas,Hombre,Porcentaje,83.4
+2013,Matemáticas,Hombre,Porcentaje,71.5
+2023,Comprensión lectora,Hombre,Porcentaje,74.9
+2013,Comprensión lectora,Hombre,Porcentaje,67.9

@@ -1,73 +1,73 @@
-Year,Series,Territorio,Units,Value
-2018,IT_MOB_3GNTWK,,PT,99.97
-2014,IT_MOB_3GNTWK,,PT,99.4
-2016,IT_MOB_3GNTWK,,PT,99.85
-2013,IT_MOB_3GNTWK,,PT,99.5
-2017,IT_MOB_3GNTWK,,PT,99.96
-2015,IT_MOB_3GNTWK,,PT,99.89
-2020,IT_MOB_3GNTWK,,PT,99.99
-2012,IT_MOB_3GNTWK,,PT,96.6
-2019,IT_MOB_3GNTWK,,PT,99.97
-2017,IT_MOB_3GNTWK,ES211,PT,99.94
-2020,IT_MOB_3GNTWK,ES211,PT,100.0
-2016,IT_MOB_3GNTWK,ES211,PT,99.83
-2019,IT_MOB_3GNTWK,ES211,PT,99.93
-2015,IT_MOB_3GNTWK,ES211,PT,99.81
-2014,IT_MOB_3GNTWK,ES211,PT,98.7
-2018,IT_MOB_3GNTWK,ES211,PT,99.93
-2016,IT_MOB_3GNTWK,ES213,PT,99.94
-2018,IT_MOB_3GNTWK,ES213,PT,100.0
-2017,IT_MOB_3GNTWK,ES213,PT,100.0
-2015,IT_MOB_3GNTWK,ES213,PT,99.98
-2019,IT_MOB_3GNTWK,ES213,PT,100.0
-2014,IT_MOB_3GNTWK,ES213,PT,99.8
-2020,IT_MOB_3GNTWK,ES213,PT,99.99
-2018,IT_MOB_3GNTWK,ES212,PT,99.95
-2016,IT_MOB_3GNTWK,ES212,PT,99.78
-2015,IT_MOB_3GNTWK,ES212,PT,99.79
-2020,IT_MOB_3GNTWK,ES212,PT,99.99
-2019,IT_MOB_3GNTWK,ES212,PT,99.95
-2014,IT_MOB_3GNTWK,ES212,PT,99.0
-2017,IT_MOB_3GNTWK,ES212,PT,99.92
-2020,IT_MOB_4GNTWK,,PT,99.98
-2022,IT_MOB_4GNTWK,,PT,99.97
-2019,IT_MOB_4GNTWK,,PT,99.95
-2017,IT_MOB_4GNTWK,,PT,99.01
-2015,IT_MOB_4GNTWK,,PT,79.64
-2014,IT_MOB_4GNTWK,,PT,55.1
-2021,IT_MOB_4GNTWK,,PT,99.99
-2016,IT_MOB_4GNTWK,,PT,93.46
-2018,IT_MOB_4GNTWK,,PT,99.89
-2022,IT_MOB_4GNTWK,ES211,PT,99.97
-2016,IT_MOB_4GNTWK,ES211,PT,90.02
-2014,IT_MOB_4GNTWK,ES211,PT,76.0
-2020,IT_MOB_4GNTWK,ES211,PT,99.99
-2019,IT_MOB_4GNTWK,ES211,PT,99.7
-2018,IT_MOB_4GNTWK,ES211,PT,99.7
-2015,IT_MOB_4GNTWK,ES211,PT,79.54
-2017,IT_MOB_4GNTWK,ES211,PT,97.92
-2021,IT_MOB_4GNTWK,ES211,PT,99.98
-2015,IT_MOB_4GNTWK,ES213,PT,85.25
-2014,IT_MOB_4GNTWK,ES213,PT,68.5
-2020,IT_MOB_4GNTWK,ES213,PT,99.99
-2022,IT_MOB_4GNTWK,ES213,PT,99.98
-2021,IT_MOB_4GNTWK,ES213,PT,100.0
-2019,IT_MOB_4GNTWK,ES213,PT,99.97
-2018,IT_MOB_4GNTWK,ES213,PT,99.97
-2017,IT_MOB_4GNTWK,ES213,PT,99.52
-2016,IT_MOB_4GNTWK,ES213,PT,95.37
-2022,IT_MOB_4GNTWK,ES212,PT,99.96
-2021,IT_MOB_4GNTWK,ES212,PT,99.98
-2020,IT_MOB_4GNTWK,ES212,PT,99.95
-2019,IT_MOB_4GNTWK,ES212,PT,99.94
-2018,IT_MOB_4GNTWK,ES212,PT,99.94
-2014,IT_MOB_4GNTWK,ES212,PT,23.7
-2017,IT_MOB_4GNTWK,ES212,PT,98.71
-2016,IT_MOB_4GNTWK,ES212,PT,92.01
-2015,IT_MOB_4GNTWK,ES212,PT,70.63
-2021,IT_MOB_5GNTWK,,PT,66.8
-2022,IT_MOB_5GNTWK,,PT,84.6
-2023,IT_MOB_5GNTWK,,PT,95.8
-2023,IT_MOB_5GNTWK,ES211,PT,92.67
-2023,IT_MOB_5GNTWK,ES213,PT,97.58
-2023,IT_MOB_5GNTWK,ES212,PT,94.44
+Year,Series,Territorio histórico,Units,Value
+2018,"Proporción de hogares cubiertos con redes móviles 3,5G",,Porcentaje,99.97
+2014,"Proporción de hogares cubiertos con redes móviles 3,5G",,Porcentaje,99.4
+2016,"Proporción de hogares cubiertos con redes móviles 3,5G",,Porcentaje,99.85
+2013,"Proporción de hogares cubiertos con redes móviles 3,5G",,Porcentaje,99.5
+2017,"Proporción de hogares cubiertos con redes móviles 3,5G",,Porcentaje,99.96
+2015,"Proporción de hogares cubiertos con redes móviles 3,5G",,Porcentaje,99.89
+2020,"Proporción de hogares cubiertos con redes móviles 3,5G",,Porcentaje,99.99
+2012,"Proporción de hogares cubiertos con redes móviles 3,5G",,Porcentaje,96.6
+2019,"Proporción de hogares cubiertos con redes móviles 3,5G",,Porcentaje,99.97
+2017,"Proporción de hogares cubiertos con redes móviles 3,5G",Araba/Álava,Porcentaje,99.94
+2020,"Proporción de hogares cubiertos con redes móviles 3,5G",Araba/Álava,Porcentaje,100.0
+2016,"Proporción de hogares cubiertos con redes móviles 3,5G",Araba/Álava,Porcentaje,99.83
+2019,"Proporción de hogares cubiertos con redes móviles 3,5G",Araba/Álava,Porcentaje,99.93
+2015,"Proporción de hogares cubiertos con redes móviles 3,5G",Araba/Álava,Porcentaje,99.81
+2014,"Proporción de hogares cubiertos con redes móviles 3,5G",Araba/Álava,Porcentaje,98.7
+2018,"Proporción de hogares cubiertos con redes móviles 3,5G",Araba/Álava,Porcentaje,99.93
+2016,"Proporción de hogares cubiertos con redes móviles 3,5G",Bizkaia,Porcentaje,99.94
+2018,"Proporción de hogares cubiertos con redes móviles 3,5G",Bizkaia,Porcentaje,100.0
+2017,"Proporción de hogares cubiertos con redes móviles 3,5G",Bizkaia,Porcentaje,100.0
+2015,"Proporción de hogares cubiertos con redes móviles 3,5G",Bizkaia,Porcentaje,99.98
+2019,"Proporción de hogares cubiertos con redes móviles 3,5G",Bizkaia,Porcentaje,100.0
+2014,"Proporción de hogares cubiertos con redes móviles 3,5G",Bizkaia,Porcentaje,99.8
+2020,"Proporción de hogares cubiertos con redes móviles 3,5G",Bizkaia,Porcentaje,99.99
+2018,"Proporción de hogares cubiertos con redes móviles 3,5G",Gipuzkoa,Porcentaje,99.95
+2016,"Proporción de hogares cubiertos con redes móviles 3,5G",Gipuzkoa,Porcentaje,99.78
+2015,"Proporción de hogares cubiertos con redes móviles 3,5G",Gipuzkoa,Porcentaje,99.79
+2020,"Proporción de hogares cubiertos con redes móviles 3,5G",Gipuzkoa,Porcentaje,99.99
+2019,"Proporción de hogares cubiertos con redes móviles 3,5G",Gipuzkoa,Porcentaje,99.95
+2014,"Proporción de hogares cubiertos con redes móviles 3,5G",Gipuzkoa,Porcentaje,99.0
+2017,"Proporción de hogares cubiertos con redes móviles 3,5G",Gipuzkoa,Porcentaje,99.92
+2020,Proporción de hogares cubiertos con redes móviles 4G,,Porcentaje,99.98
+2022,Proporción de hogares cubiertos con redes móviles 4G,,Porcentaje,99.97
+2019,Proporción de hogares cubiertos con redes móviles 4G,,Porcentaje,99.95
+2017,Proporción de hogares cubiertos con redes móviles 4G,,Porcentaje,99.01
+2015,Proporción de hogares cubiertos con redes móviles 4G,,Porcentaje,79.64
+2014,Proporción de hogares cubiertos con redes móviles 4G,,Porcentaje,55.1
+2021,Proporción de hogares cubiertos con redes móviles 4G,,Porcentaje,99.99
+2016,Proporción de hogares cubiertos con redes móviles 4G,,Porcentaje,93.46
+2018,Proporción de hogares cubiertos con redes móviles 4G,,Porcentaje,99.89
+2022,Proporción de hogares cubiertos con redes móviles 4G,Araba/Álava,Porcentaje,99.97
+2016,Proporción de hogares cubiertos con redes móviles 4G,Araba/Álava,Porcentaje,90.02
+2014,Proporción de hogares cubiertos con redes móviles 4G,Araba/Álava,Porcentaje,76.0
+2020,Proporción de hogares cubiertos con redes móviles 4G,Araba/Álava,Porcentaje,99.99
+2019,Proporción de hogares cubiertos con redes móviles 4G,Araba/Álava,Porcentaje,99.7
+2018,Proporción de hogares cubiertos con redes móviles 4G,Araba/Álava,Porcentaje,99.7
+2015,Proporción de hogares cubiertos con redes móviles 4G,Araba/Álava,Porcentaje,79.54
+2017,Proporción de hogares cubiertos con redes móviles 4G,Araba/Álava,Porcentaje,97.92
+2021,Proporción de hogares cubiertos con redes móviles 4G,Araba/Álava,Porcentaje,99.98
+2015,Proporción de hogares cubiertos con redes móviles 4G,Bizkaia,Porcentaje,85.25
+2014,Proporción de hogares cubiertos con redes móviles 4G,Bizkaia,Porcentaje,68.5
+2020,Proporción de hogares cubiertos con redes móviles 4G,Bizkaia,Porcentaje,99.99
+2022,Proporción de hogares cubiertos con redes móviles 4G,Bizkaia,Porcentaje,99.98
+2021,Proporción de hogares cubiertos con redes móviles 4G,Bizkaia,Porcentaje,100.0
+2019,Proporción de hogares cubiertos con redes móviles 4G,Bizkaia,Porcentaje,99.97
+2018,Proporción de hogares cubiertos con redes móviles 4G,Bizkaia,Porcentaje,99.97
+2017,Proporción de hogares cubiertos con redes móviles 4G,Bizkaia,Porcentaje,99.52
+2016,Proporción de hogares cubiertos con redes móviles 4G,Bizkaia,Porcentaje,95.37
+2022,Proporción de hogares cubiertos con redes móviles 4G,Gipuzkoa,Porcentaje,99.96
+2021,Proporción de hogares cubiertos con redes móviles 4G,Gipuzkoa,Porcentaje,99.98
+2020,Proporción de hogares cubiertos con redes móviles 4G,Gipuzkoa,Porcentaje,99.95
+2019,Proporción de hogares cubiertos con redes móviles 4G,Gipuzkoa,Porcentaje,99.94
+2018,Proporción de hogares cubiertos con redes móviles 4G,Gipuzkoa,Porcentaje,99.94
+2014,Proporción de hogares cubiertos con redes móviles 4G,Gipuzkoa,Porcentaje,23.7
+2017,Proporción de hogares cubiertos con redes móviles 4G,Gipuzkoa,Porcentaje,98.71
+2016,Proporción de hogares cubiertos con redes móviles 4G,Gipuzkoa,Porcentaje,92.01
+2015,Proporción de hogares cubiertos con redes móviles 4G,Gipuzkoa,Porcentaje,70.63
+2021,Proporción de hogares cubiertos con redes móviles 5G,,Porcentaje,66.8
+2022,Proporción de hogares cubiertos con redes móviles 5G,,Porcentaje,84.6
+2023,Proporción de hogares cubiertos con redes móviles 5G,,Porcentaje,95.8
+2023,Proporción de hogares cubiertos con redes móviles 5G,Araba/Álava,Porcentaje,92.67
+2023,Proporción de hogares cubiertos con redes móviles 5G,Bizkaia,Porcentaje,97.58
+2023,Proporción de hogares cubiertos con redes móviles 5G,Gipuzkoa,Porcentaje,94.44

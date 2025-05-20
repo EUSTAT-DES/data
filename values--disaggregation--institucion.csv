@@ -1,20 +1,20 @@
 Value,es,eu,en,Disaggregation combinations using this value,Number of indicators
-EU_DMK_DF,Diputaciones forales,EU_DMK_DF,EU_DMK_DF,4,1
-EU_DMK_EDU_AUT,Centros educativos no universitarios autonómicos,EU_DMK_EDU_AUT,EU_DMK_EDU_AUT,4,1
-EU_DMK_FA,Fuerzas armadas,EU_DMK_FA,EU_DMK_FA,4,1
-EU_DMK_FCSE,Fuerzas y cuerpos de seguridad del Estado,EU_DMK_FCSE,EU_DMK_FCSE,4,1
-EU_DMK_JUST_AUT,Administración de Justicia autonómica,EU_DMK_JUST_AUT,EU_DMK_JUST_AUT,4,1
-EU_DMK_JUST_NAC,Administración de Justicia del Estado,EU_DMK_JUST_NAC,EU_DMK_JUST_NAC,4,1
-EU_DMK_MUN,Ayuntamientos,EU_DMK_MUN,EU_DMK_MUN,4,1
-EU_DMK_POL_AUT,Policía autonómica,EU_DMK_POL_AUT,EU_DMK_POL_AUT,4,1
-EU_DMK_PSRVC_AUT,Sector público autonómico,EU_DMK_PSRVC_AUT,EU_DMK_PSRVC_AUT,4,1
-EU_DMK_PSRVC_LOC,Sector público local,EU_DMK_PSRVC_LOC,EU_DMK_PSRVC_LOC,4,1
-EU_DMK_PSRVC_NAC,Sector público estatal,EU_DMK_PSRVC_NAC,EU_DMK_PSRVC_NAC,4,1
-EU_DMK_SAN_AUT,Instituciones sanitarias autonómicas,EU_DMK_SAN_AUT,EU_DMK_SAN_AUT,4,1
-EU_DMK_UNI,Universidades,EU_DMK_UNI,EU_DMK_UNI,4,1
-GEN_G,Departamentos en el gobierno autonómico,GEN_G,GEN_G,1,1
-GEN_LOCG,Alcaldías,GEN_LOCG,GEN_LOCG,1,1
-GEN_LOCP,Concejalías,GEN_LOCP,GEN_LOCP,1,1
-GEN_PARL,Electas en parlamento autonómico,GEN_PARL,GEN_PARL,1,1
-GEN_REGIOG,Departamentos en gobiernos forales,GEN_REGIOG,GEN_REGIOG,4,1
-GEN_REGIOPARL,Electas en Juntas Generales,GEN_REGIOPARL,GEN_REGIOPARL,4,1
+EU_DMK_DF,Diputaciones forales,Diputaciones forales,EU_DMK_DF,4,1
+EU_DMK_EDU_AUT,Centros educativos no universitarios autonómicos,Centros educativos no universitarios autonómicos,EU_DMK_EDU_AUT,4,1
+EU_DMK_FA,Fuerzas armadas,Fuerzas armadas,EU_DMK_FA,4,1
+EU_DMK_FCSE,Fuerzas y cuerpos de seguridad del Estado,Fuerzas y cuerpos de seguridad del Estado,EU_DMK_FCSE,4,1
+EU_DMK_JUST_AUT,Administración de Justicia autonómica,Administración de Justicia autonómica,EU_DMK_JUST_AUT,4,1
+EU_DMK_JUST_NAC,Administración de Justicia del Estado,Administración de Justicia del Estado,EU_DMK_JUST_NAC,4,1
+EU_DMK_MUN,Ayuntamientos,Ayuntamientos,EU_DMK_MUN,4,1
+EU_DMK_POL_AUT,Policía autonómica,Policía autonómica,EU_DMK_POL_AUT,4,1
+EU_DMK_PSRVC_AUT,Sector público autonómico,Sector público autonómico,EU_DMK_PSRVC_AUT,4,1
+EU_DMK_PSRVC_LOC,Sector público local,Sector público local,EU_DMK_PSRVC_LOC,4,1
+EU_DMK_PSRVC_NAC,Sector público estatal,Sector público estatal,EU_DMK_PSRVC_NAC,4,1
+EU_DMK_SAN_AUT,Instituciones sanitarias autonómicas,Instituciones sanitarias autonómicas,EU_DMK_SAN_AUT,4,1
+EU_DMK_UNI,Universidades,Universidades,EU_DMK_UNI,4,1
+GEN_G,Departamentos en el gobierno autonómico,Departamentos en el gobierno autonómico,GEN_G,1,1
+GEN_LOCG,Alcaldías,Alcaldías,GEN_LOCG,1,1
+GEN_LOCP,Concejalías,Concejalías,GEN_LOCP,1,1
+GEN_PARL,Electas en parlamento autonómico,Electas en parlamento autonómico,GEN_PARL,1,1
+GEN_REGIOG,Departamentos en gobiernos forales,Departamentos en gobiernos forales,GEN_REGIOG,4,1
+GEN_REGIOPARL,Electas en Juntas Generales,Electas en Juntas Generales,GEN_REGIOPARL,4,1

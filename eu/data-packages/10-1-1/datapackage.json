@@ -13,59 +13,59 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "UE_HEI_HE",
-                "UE_HEI_HI",
+                "Tasa de crecimiento del gasto familiar per cápita",
+                "Tasa de crecimiento del ingreso familiar per cápita",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Ingreso_cuantil",
             "type": "string",
             "constraints": {
               "enum": [
-                "B40",
+                "El 40 % más pobre",
                 ""
               ]
             },
-            "title": "Ingreso_cuantil"
+            "title": "Grupo de ingresos"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

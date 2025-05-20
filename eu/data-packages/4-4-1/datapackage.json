@@ -13,33 +13,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Habilidad_IT",
             "type": "string",
             "constraints": {
               "enum": [
-                "ICT",
-                "ICTCPT",
-                "ICTPST",
-                "ICTSSHT",
-                "ICTPRGM",
-                "ICTTRFF",
-                "ICTSFWR",
-                "ICTPRVCY",
+                "Alguna habilidad informática",
+                "Copiar o mover ficheros o carpetas",
+                "Crear presentaciones o documentos que integren texto, imágenes, tablas o gráficos",
+                "Usar hojas de cálculo",
+                "Programar en un lenguaje de programación",
+                "Transferir ficheros entre el ordenador y otros dispositivos (cámaras digitales, teléfonos móviles, mp3 o mp4)",
+                "Instalar software o aplicaciones(apps)",
+                "Cambiar la configuración de cualquier software, incluídos el sistema operativo y los programas de seguridad",
                 ""
               ]
             },
-            "title": "Habilidad_IT"
+            "title": "Habilidad informática"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Mujer",
+                "Hombre",
                 ""
               ]
             },
@@ -50,9 +50,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y16T24",
-                "Y16T74",
-                "Y25T74",
+                "16-24 años",
+                "16-74 años",
+                "25-74 años",
                 ""
               ]
             },
@@ -63,29 +63,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Porcentaje",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

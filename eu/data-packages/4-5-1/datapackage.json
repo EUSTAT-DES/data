@@ -13,29 +13,29 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_GPI_TRN",
-                "EU_SESPI",
-                "EU_RUPI_TRN",
-                "EU_PI_HEALTH",
+                "Índice de paridad de género",
+                "Índice de paridad en ingresos (quintiles superior e inferior)",
+                "Índice de paridad en localización (municipios de más y menos de 10.000 habitantes)",
+                "Índice de paridad en salud",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Mujer",
+                "Hombre",
                 ""
               ]
             },
@@ -46,8 +46,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y15T64",
-                "Y18T64",
+                "15-64 años",
+                "18-64 años",
                 ""
               ]
             },
@@ -58,29 +58,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "RO",
+                "Ratio",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unidad"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }
