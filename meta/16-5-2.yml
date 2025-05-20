@@ -19,29 +19,29 @@ observaciones:
 
 justificacion_global: |
 
-  La corrupción es antónimo de la igualdad de acceso a los servicios públicos y 
-  del correcto funcionamiento de la economía; por lo tanto, tiene un impacto 
-  negativo en la distribución justa de los recursos y las oportunidades de desarrollo. 
+  La razón de ser de este indicador es determinar si se solicitan obsequios o 
+  pagos informales (es decir, sobornos) a las empresas al realizar transacciones 
+  que involucran a funcionarios públicos. 
 
-  Además, la corrupción erosiona la confianza pública en las autoridades y el Estado 
-  de derecho; cuando el soborno administrativo se convierte en una experiencia 
-  recurrente para amplios sectores de la población y las empresas, sus efectos 
-  negativos tienen un impacto duradero en el Estado de derecho, los procesos democráticos 
-  y la justicia. 
+  Solicitar licencias regulatorias, obtener conexiones de servicios públicos y 
+  pagar impuestos se exigen formalmente en la mayoría de los países; por lo tanto, 
+  la razón de ser de este indicador es medir la incidencia de la corrupción 
+  en estas transacciones rutinarias.
 
-  Al proporcionar una medida directa de la experiencia de soborno, este indicador 
-  proporciona una métrica objetiva de la corrupción, un criterio para 
-  monitorear el progreso en la lucha contra la corrupción.
+  La principal fortaleza de la Encuesta Empresarial reside en que la mayoría de las preguntas 
+  se refieren a la experiencia cotidiana de la empresa; estas preguntas sobre corrupción 
+  no se basan en opiniones, sino en la realidad cotidiana de la empresa.
 
   Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.5.2&seriesCode=IC_FRM_BRIB&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Incidencia del soborno (porcentaje de empresas que experimentaron al menos una solicitud de pago de soborno) IC_FRM_BRIB</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.5.2&seriesCode=IC_FRM_BRIB&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Incidencia del soborno (porcentaje de empresas que experimentaron al menos una solicitud de pago de soborno) IC_FRM_BRIB</a> UNSTATS
 
 comparabilidad:
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-05-01.pdf">Metadatos 16-5-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-05-02.pdf">Metadatos 16-5-2.pdf</a> (solo en inglés)'
 
 informacion_interes: 
 

@@ -23,9 +23,9 @@ formula: |
 
   donde: 
 
-  $I_{imp}^{t}$ = ingresos por impuestos directos e indirectos de la CCAA y EELL en el año $t$ 
+  $I_{imp}^{t}$ = ingresos por impuestos directos e indirectos de la CAE y EELL en el año $t$ 
 
-  $I_{no_fin}^{t}$ = ingresos no financieros consolidados de la CCAA y EELL en el año $t$ (capítulos 1 a 5, eliminando las transferencias internas entre administraciones)
+  $I_{no_fin}^{t}$ = ingresos no financieros consolidados de la CAE y EELL en el año $t$ (capítulos 1 a 5, eliminando las transferencias internas entre administraciones)
 
   <br>
  
@@ -35,9 +35,9 @@ formula: |
 
   donde: 
 
-  $I_{imp}^{t}$ = ingresos por impuestos directos e indirectos de la CCAA y EELL en el año $t$
+  $I_{imp}^{t}$ = ingresos por impuestos directos e indirectos de la CAE y EELL en el año $t$
 
-  $I_{tot}^{t}$ = ingresos totales consolidados de la CCAA y EELL en el año $t$ (capítulos 1 a 9, eliminando transferencias internas entre administraciones)
+  $I_{tot}^{t}$ = ingresos totales consolidados de la CAE y EELL en el año $t$ (capítulos 1 a 9, eliminando transferencias internas entre administraciones)
 
 
 desagregacion:
@@ -86,7 +86,7 @@ comparabilidad: >-
   vascas que provienen de impuestos. Por tanto, se centra en la estructura de 
   financiación del sector público vasco y no en su ejecución presupuestaria.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-01-02.pdf">Metadata 17-1-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-01-02.pdf">Metadatos 17-1-2.pdf</a> (solo en inglés)'
 informacion_interes: 
 
 national_data_updated_date: ''
