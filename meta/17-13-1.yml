@@ -26,9 +26,9 @@ formula: |
 
   donde: 
 
-  $PIB_{2022}^{t} $ producto interior bruto en volumen encadenado con referencia 2022 en el año $t$
+  $PIB_{2022}^{t} =$ producto interior bruto en volumen encadenado con referencia 2022 en el año $t$
 
-  $PIB_{2022}^{t-1} $ producto interior bruto en volumen encadenado con referencia 2022 en el año $t-1$
+  $PIB_{2022}^{t-1} =$ producto interior bruto en volumen encadenado con referencia 2022 en el año $t-1$
 
   <br>
 
@@ -38,9 +38,9 @@ formula: |
 
   donde: 
 
-  $D^{t} $ personas desempleadas en el año $t$
+  $D^{t} =$ personas desempleadas en el año $t$
 
-  $A^{t} $ personas económicamente activas en el año $t$, teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año.
+  $A^{t} =$ personas económicamente activas en el año $t$, teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año.
 
   <br>
 
@@ -50,9 +50,9 @@ formula: |
 
   donde:
 
-  $IPC^{t} $ indice de precios de consumo del año $t$
+  $IPC^{t} =$ indice de precios de consumo del año $t$
 
-  $IPC^{t-1} $ indice de precios de consumo del año $t-1$, teniendo en cuenta que los índices de precios de consumo anuales se calculan como la media aritmética de los índices de precios de consumo mensuales
+  $IPC^{t-1} =$ indice de precios de consumo del año $t-1$, teniendo en cuenta que los índices de precios de consumo anuales se calculan como la media aritmética de los índices de precios de consumo mensuales
 
   <br>
 
@@ -96,17 +96,17 @@ formula: |
 
   donde:
 
-   - $D.211^{t}$ impuestos del tipo de valor añadido IVA en el año $t$
-   - $D.212^{t}$ impuestos y derechos sobre las importaciones excluido el IVA en el año $t$
-   - $D.214^{t}$ impuestos sobre los productos excluido el IVA e importaciones en el año $t$
-   - $D.29^{t}$ otros impuestos sobre la producción en el año $t$
-   - $D.51^{t}$ impuestos sobre la renta en el año $t$
-   - $D.59^{t}$ otros impuestos corrientes en el año $t$
-   - $D.91^{t}$ impuestos sobre el capital en el año $t$
-   - $D.611^{t}$ cotizaciones sociales efectivas a cargo de los empleadores en el año $t$
-   - $D.613^{t}$ cotizaciones sociales efectivas a cargo de los hogares en el año $t$
+   - $D.211^{t} =$ impuestos del tipo de valor añadido IVA en el año $t$
+   - $D.212^{t} =$ impuestos y derechos sobre las importaciones excluido el IVA en el año $t$
+   - $D.214^{t} =$ impuestos sobre los productos excluido el IVA e importaciones en el año $t$
+   - $D.29^{t} =$ otros impuestos sobre la producción en el año $t$
+   - $D.51^{t} =$ impuestos sobre la renta en el año $t$
+   - $D.59^{t} =$ otros impuestos corrientes en el año $t$
+   - $D.91^{t} =$ impuestos sobre el capital en el año $t$
+   - $D.611^{t} =$ cotizaciones sociales efectivas a cargo de los empleadores en el año $t$
+   - $D.613^{t} =$ cotizaciones sociales efectivas a cargo de los hogares en el año $t$
 
-  $PIB^{t}$ producto interior bruto a precios corrientes en el año $t$
+  $PIB^{t} =$ producto interior bruto a precios corrientes en el año $t$
 
   <br>
 
