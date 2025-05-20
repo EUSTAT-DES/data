@@ -14,8 +14,8 @@
 2-3-1-titulo: "Produkzio-bolumena lan-unitate bakoitzeko"
 2-3-2-titulo: "Elikagaien eskala txikiko ekoizleen batez besteko diru-sarrerak"
 2-4-1-titulo: "Nekazaritza produktibo iraunkorrerako erabiltzen den nekazaritza-azaleraren proportzioa"
-2-4-E1-titulo: Nekazaritza ekologikora bideratutako azalera (<b>UE sdg_02_40 adierazlea</b>)
-2-4-E2-titulo: Nekazaritzaren eta abeltzaintzaren amoniako emisioak (<b>UE sdg_02_60 adierazlea</b>)
+2-4-E1-titulo: Nekazaritza ekologikora bideratutako azalera (<b>EB sdg_02_40 adierazlea</b>)
+2-4-E2-titulo: Nekazaritzaren eta abeltzaintzaren amoniako emisioak (<b>EB sdg_02_60 adierazlea</b>)
 2-a-1-titulo: "Nekazaritzaren balio erantsia BPGren ahuneko gisa"
 2-c-1-titulo: "Elikagaien prezioen indizea"
 
@@ -29,78 +29,74 @@
 3-8-2-titulo: "Etxeko osasun-gastu handiak dituzten biztanleen proportzioa, etxeko gastu osoaren ehuneko gisa"
 3-a-1-titulo: "Egunero erretzen duten 15 urte eta gehiagoko pertsonen proportzioa"
 
-4-1-1-titulo: "Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura y matemáticas"
-4-1-E1-titulo: "Tasa de abandono escolar prematuro de la población de 18-24 años"
-4-1-2-titulo: "Tasa de finalización (educación secundaria inferior y educación secundaria superior)"
-4-2-2-titulo: "Tasa neta de escolarización a los 5 años"
-4-3-1-titulo: "Tasa de participación de jóvenes y adultos en la educación y formación académica y no académica, desglosada por sexo"
-4-5-1-titulo: "Índices de paridad (entre mujeres y hombres, quintiles de riqueza superior e inferior, municipios de más y menos de 10.000 habitantes y personas con y sin limitaciones por problemas de salud) en la realización de actividades educativas (formales o no formales) en los últimos 12 o 4 semanas"
-4-6-1-titulo: "Proporción de personas entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de comprensión lectora y en matemáticas"
+4-1-1-titulo: "Irakurtzeko eta matematikarako gutxienez 2. gaitasun-maila lortu duten 15 urteko pertsonen proportzioa"
+4-1-E1-titulo: "18-24 urteko biztanleen eskola-uzte goiztiarraren tasa"
+4-1-2-titulo: "Amaiera-tasa (beheko bigarren hezkuntza eta goi-mailako bigarren hezkuntza)"
+4-2-2-titulo: "5 urtekoen eskolatze-tasa garbia"
+4-3-1-titulo: "Gazteek eta helduek hezkuntza eta prestakuntza akademikoan eta ez-akademikoan duten parte-hartzearen tasa, sexuaren arabera banatuta"
+4-5-1-titulo: "Parekotasun-indizeak (emakume eta gizonen artean, goi- eta behe-aberastasuneko kintilak, 10.000 biztanle baino gehiagoko eta gutxiagoko udalerriak eta osasun-arazoak dituzten eta ez dituzten pertsonen artean), azken 12 edo 4 asteetan hezkuntza-jarduerak (formalak edo ez-formalak) egitean"
+4-6-1-titulo: "Irakurmen-eskalan eta matematikan gutxienez 2. gaitasun maila lortu duten 16 eta 65 urte bitarteko pertsonen proportzioa"
 
-5-1-1-titulo: "Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género"
-5-2-1-titulo: "Tasa de victimizaciones contra las mujeres a manos de su actual o anterior pareja "
-5-2-2-titulo: "Tasa de victimizaciones contra las mujeres por violencia sexual fuera del ámbito familiar"
-5-3-1-titulo: "Proporción de mujeres de 16 y 17 años que han contraído matrimonio con un hombre"
-5-4-1-titulo: "Tiempo dedicado al hogar y familia en un día promedio"
-5-5-1-titulo: "Proporción de escaños ocupados por mujeres en a) el parlamento autonómico y b) los gobiernos autonómicos, forales y locales"
-5-a-2-titulo: "Grado en que el marco jurídico garantiza la igualdad de derechos de la mujer a la propiedad o el control de tierras"
-5-b-1-titulo: "Proporción de personas entre 16 y 74 años que han usado el móvil en los últimos tres meses"
+5-1-1-titulo: "Genero-berdintasuna sustatzeko, indartzeko eta gainbegiratzeko esparru juridikoak izatea"
+5-2-1-titulo: "Egungo edo aurreko bikotekideak emakumeen aurka egindako biktimizazioen tasa"
+5-2-2-titulo: "Familiatik kanpoko sexu-indarkeriagatiko emakume-biktimizazioen tasa"
+5-3-1-titulo: "Gizon batekin ezkondu diren 16 eta 17 urteko emakumeen proportzioa"
+5-4-1-titulo: "Batez besteko egun batean etxeari eta familiari eskainitako denbora"
+5-5-1-titulo: "Emakumeek betetzen dituzten aulkien proportzioa a) parlamentu autonomikoan eta b) gobernu autonomiko, foral eta lokaletan"
+5-a-2-titulo: "Lege-esparruak zenbateraino bermatzen duen emakumeek lurren jabetza edo kontrolerako duten eskubide-berdintasuna"
+5-b-1-titulo: "Azken hiru hilabeteetan mugikorra erabili duten 16 eta 74 urte bitarteko pertsonen proportzioa"
 
-6-2-1-titulo: "Proporción de viviendas principales con acceso a servicios básicos (abastecimiento de agua corriente y baño)"
-6-4-2-titulo: Extracción de agua (consumo de agua)
+6-2-1-titulo: "Oinarrizko zerbitzuetarako sarbidea duten etxebizitza nagusien proportzioa (txorroteko uraren hornidura eta bainugela)"
+6-4-2-titulo: "Ur-erauzketa (ur-kontsumoa)"
 
-7-3-E1-titulo: Consumo de energía eléctrica (<b>Indicador Gobierno Vasco</b>)
+7-3-E1-titulo: Energia elektrikoaren kontsumoa (<b>Eusko Jaurlaritzaren adierazlea</b>)
 
-8-5-1-titulo: Ingreso medio por hora de personas empleadas, desglosado por sexo y personas con
-  o sin discapacidad
-8-5-E1-titulo: Tasa de ocupación de la población (<b>Indicador UE sdg_08_30</b>) 
-8-10-1-titulo: "Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años"
-8-10-2-titulo: "Proporción de personas entre 18 y 79 años que tienen una cuenta corriente"
-8-b-1-titulo: Gasto de las administraciones públicas autonómicas en fomento del empleo
+8-5-1-titulo: "Enplegatutako pertsonen batez besteko diru-sarrera orduko, sexuaren eta desgaitasuna duten edo ez duten pertsonen arabera banakatuta"
+8-5-E1-titulo: Biztanleriaren okupazio-tasa (<b>EB sdg_08_30 adierazlea</b>) 
+8-10-1-titulo: "Merkataritza-bankuen sukurtsalen kopurua 15 urte eta gehiagoko 100.000 biztanleko"
+8-10-2-titulo: "Kontu korrontea duten 18 eta 79 urte bitarteko pertsonen proportzioa"
+8-b-1-titulo: "Administrazio publiko autonomikoek enplegua sustatzeko egindako gastua"
 
-9-4-E1-titulo: Intensidad de las emisiones atmosféricas de la industria (<b>Indicador UE sdg_09_70</b>) 
+9-4-E1-titulo: Industriaren emisio atmosferikoen intentsitatea (<b>EB sdg_09_70 adierazlea</b>) 
 
-10-2-1-titulo: "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos"
-10-4-2-titulo: "Índice de Gini del ingreso disponible equivalente (postfiscal)"
+10-2-1-titulo: "Diru-sarreren medianaren %50etik behera bizi diren pertsonen proportzioa"
+10-4-2-titulo: "Eskura dagoen diru-sarrera baliokidearen Gini indizea (postfiskala)"
 
-11-1-1-titulo: "Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda"
-11-4-1-titulo: "Total de gastos per cápita de fuente de financiación pública destinados a la preservación, protección y conservación de todo el patrimonio cultural, desglosado por nivel de gobierno (autonómico y local/municipal)"
-11-5-1-titulo: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
-11-5-2-titulo: "Indemnizaciones por daños personales, pérdidas pecuniarias y daños de bienes pagadas y/o provisionadas en proporción al PIB" 
-11-6-1-titulo: "Residuos urbanos recogidos per cápita y proporción de residuos tratados, desglosados por tipo de tratamiento"
-11-6-2-titulo: "Niveles medios anuales de partículas finas en suspensión (PM2.5 y PM10) en las ciudades (ponderados según la población)"
-11-7-2-titulo: "Número de personas que han sido víctimas de acoso no sexual o sexual en los últimos 12 meses por cada 100.000 habitantes"
-11-a-1-titulo: "Proporción de la población residente en municipios que disponen de Plan General o Normas Subsidiarias o figuras equivalentes"
+11-1-1-titulo: "Gabezia jakin batzuk dituzten etxebizitzetan bizi diren pertsonen proportzioa"
+11-4-1-titulo: "Kultura-ondare osoa zaintzeko, babesteko eta kontserbatzeko finantzaketa publikoko iturrien per capita gastuak, gobernu-mailaren arabera (autonomikoa eta tokikoa/udalekoa)"
+11-5-1-titulo: "Hondamendien ondorioz zuzenean hildako pertsonen kopurua 100.000 biztanleko"
+11-5-2-titulo: "Kalte pertsonalengatik, diruzko galerengatik eta ondasunen gaineko kalteengatik ordaindutako edo/eta hornitutako kalte-ordainak, BPGarekiko proportzioan" 
+11-6-1-titulo: "Bildutako hiri-hondakinak, per capita, eta tratatutako hondakinen proportzioa, tratamendu-motaren arabera"
+11-6-2-titulo: "Hirietako partikula fin esekien (PM2.5 eta PM10) urteko batez besteko mailak (populazioaren arabera haztatuak)"
+11-7-2-titulo: "Azken 12 hilabeteetan sexuala edo ez sexuala den jazarpenaren biktima izan diren pertsonen kopurua 100.000 biztanleko"
+11-a-1-titulo: "Plan Orokorra edo Arau Subsidiarioak edo antzeko figurak dituzten usalerrietako biztanleriaren proportzioa"
 
 
-12-1-1-titulo: "Se elaboran, adoptan o aplican instrumentos de política destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles"
-12-5-1-titulo: "Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados"
-12-6-1-titulo: "Número de organizaciones con EMAS o Ecolabel"
+12-1-1-titulo: "Kontsumo- eta ekoizpen-modalitate jasangarrietarako trantsizioa bultzatzeko politika-tresnak egiten, hartzen edo aplikatzen dira"
+12-5-1-titulo: "Birziklatutako udal-hondakinen proportzioa, sortutako eta tratatutako udal-hondakinen guztizkoarekiko"
+12-6-1-titulo: "EMAS edo Ecolabel duten erakundeen kopurua"
 
-13-1-1-titulo: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
-13-2-2-titulo: Emisiones totales de gases de efecto invernadero (GEI) por unidad de PIB real, 
-  per cápita, y tasas de variación respecto a 1990 y 2005
+13-1-1-titulo: "Hondamendien ondorioz zuzenean hildako pertsonen kopurua 100.000 biztanleko"
+13-2-2-titulo: "Berotegi-efektuko gasen (BEG) emisio totalak, per capita BPG unitateko, eta aldaketa-tasak 1990 eta 2005eko datuekiko" 
 
-15-3-1-titulo: "Superficie de suelos potencialmente contaminados y recuperados para nuevos usos"
-15-8-1-titulo: "Se dispone de legislación nacional pertinente y se destinan recursos para la prevención o el control de las especies exóticas invasoras"
+15-3-1-titulo: "Poluituta egon daitezkeen eta erabilera berrietarako berreskuratu diren lorzoruen azalera"
+15-8-1-titulo: "Legeria nazional egokia dago, eta baliabideak bideratzen dira espezie exotiko inbaditzaileak prebenitzeko edo kontrolatzeko"
 
-16-2-2-titulo: "Número de víctimas detectadas de tráfico de personas por cada 100.000 habitantes, desglosado por tipo de explotación"
+16-2-2-titulo: "Pertsona-trafikoan detektatutako biktimen kopurua 100.000 biztanleko, esplotazio-motaren arabera"
+16-6-1-titulo: "Autonomia-erkidegoetako eta tokiko administrazio publikoen aurrekontuetako hasierako gastuaren proportzioan likidatutako gastua"
+16-6-2-titulo: "Zerbitzu publikoen funtzionamenduarekin gustura dauden biztanleen proportzioa"
 
-16-6-1-titulo: "Gasto liquidado en proporción al gasto inicial de los presupuestos de 
-  las administraciones públicas autonómicas y locales"
-16-6-2-titulo: "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos"
+16-7-1-titulo: "Sektore publikoko emakumeen proportzioaren ratioa, 16 eta 64 urte bitarteko biztanlerian dagoen emakumeen proportzioarekiko, erakunde publikoaren arabera"
 
-16-7-1-titulo: "Ratio de la proporción de mujeres en el sector público respecto a la proporción de mujeres en la población entre 16 y 64 años, por institución pública"
-
-17-1-1-titulo: "Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB "
-17-1-2-titulo: "Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos"
-17-2-1-titulo: "Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales, y en proporción al PIB"
-17-3-1-titulo: "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo, y en proporción al PIB" 
-17-3-2-titulo: "Volumen de remesas enviadas al extranjero, y en proporción al PIB" 
-17-8-1-titulo: "Proporción de personas entre 16 y 74 años que han utilizado Internet en los últimos tres meses"
-17-18-2-titulo: "La legislación sobre estadísticas cumple los Principios Fundamentales de las Estadísticas Oficiales"
-17-18-3-titulo: "Se dispone de un plan estadístico autonómico plenamente financiado y en fase de aplicación"
-17-19-2-titulo: "a) Se ha realizado al menos un censo de población y vivienda en los últimos diez años, b) Se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones"
+17-1-1-titulo: "Autonomia-erkidegoetako eta tokiko administrazio publikoen diru-sarrerak, guztira, BPGarekiko proportzioan"
+17-1-2-titulo: "Autonomia-erkidegoetako eta tokiko administrazio publikoen zergetatik datozen diru-sarreren proportzioa"
+17-2-1-titulo: "Autonomia-erkidegoetakoeta tokiko administrazio publikoen Garapenerako laguntza Ofiziala, BPGarekiko proportzioan"
+17-3-1-titulo: "Zuzeneko inbertsio garbia Garapenerako Laguntza Ofiziala jasotzen duten herrialdeen, BPGarekiko proportzioan" 
+17-3-2-titulo: "Atzerrira bidalitako diru-igorpenen bolumena, BPGarekiko proportzioan" 
+17-8-1-titulo: "Azken hiru hilabeteetan Internet erabili duten 16 eta 74 urte bitarteko pertsonen proportzioa"
+17-18-2-titulo: "Estatistikei buruzko legeriak Estatistika Ofizialen Oinarrizko Printzipioak betetzen ditu"
+17-18-3-titulo: "Erkidegoko estatistika-plan bat dago, erabat finantzatua eta aplikazio-fasean"
+17-19-2-titulo: "a) Azken hamar urteetan gutxienez biztanleriaren eta etxebizitzen zentsu bat egin da, b) jaiotzen %100 eta heriotzen %80 gutxienez erregistratu dira"
 
  # OCECA
 OCECA-1-2-1-1A: Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza
