@@ -10,7 +10,7 @@ data_show_map: true
 series_column: 'Todos'
 data_start_values: 
   - field: Todos
-    value: All
+    value: EU_SDG_02_40
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
