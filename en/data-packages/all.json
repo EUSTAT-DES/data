@@ -12154,6 +12154,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "CAE",
                 "ES211",
                 "ES213",
                 "ES212",
