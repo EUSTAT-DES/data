@@ -7,7 +7,7 @@ indicador_onu_global: Adierazlea
 definicion: Definizioa
 formula: Formula teorikoa
 periodicidad: Aldizkakotasuna
-desagregacion: Eskuragarri dauden desagregazioak
+desagregacion: Desagregazioak
 observaciones: Oharra
 oceca: OCECA adierazlea
 texto_oceca: OCECA
@@ -15,7 +15,7 @@ descripcion_global: Deskribapena
 justificacion_global: Justifikazioa
 indicador_meta_enlace: NBEko metadatuetarako esteka   
 dato_global: Nazioarteko emaitzak
-comparabilidad: Eskuragarri dagoen adierazlearen eta NBE adierazlearen arteko konparagarritasuna
+comparabilidad: Eskura dagoen adierazlearen eta NBE adierazlearen arteko konparagarritasuna
 informacion_interes: Informazio gehigarria
 
  # A partir de aquí, metadatos open SDG
@@ -23,17 +23,17 @@ informacion_interes: Informazio gehigarria
 other_info: Bestelako informazioa
 computation_calculations: Kalkuluak
 computation_definitions: Definizioak
-computation_units: Neurri-unitatea
+computation_units: Unitatea
 goal_meta_link: NBEko metadatuetarako esteka
 indicator: Adierazlearen zenbakia
 indicator_definition: Adierazle mundialaren deskribapena
 indicator_name: adierazlearen izena
 indicator_sort_order: Adierazlea bistaratzeko agindua (helburua)
-national_data_update_url: Azken aldiz eguneratutako datuak
+national_data_update_url: Datuak azken aldiz eguneratuta
 national_geographical_coverage: Estaldura geografikoa
-national_indicator_available: Adierazle erabilgarria
+national_indicator_available: Eskura dagoen adierazlea
 national_indicator_description: Adierazlearen deskribapena
-national_metadata_update_url: Azken aldiz eguneratutako metadatuak
+national_metadata_update_url: Metadatuak azken aldiz eguneratuta
 source_contact_1: Harremanetarako xehetasunak
 source_contact_2: Harremanetarako xehetasunak
 source_contact_3: Harremanetarako xehetasunak

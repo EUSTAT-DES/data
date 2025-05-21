@@ -1,9 +1,9 @@
 heading: "%country.adjective Garapen Jasangarrirako adierazleen datuak"
 heading_short: Garapen Jasangarrirako 2030 Agendaren adierazleak
 instructions: 'Egin klik helburu batean edo erabili %before_link bilaketa %after_link garapen jasangarrirako helburuen %country.adjective adierazle globaletara sartzeko.'
-instructions_short: 'Egin klik helburu bakoitzean Garapen Iraunkorreko Helburuen adierazle globalen %country.adjective datuak ikusteko.'
-instructions_shorter: Aukeratu helburu bat Euskal AEko Garapen Iraunkorraren adierazleen datuak ikusteko
-download_all: 'Deskargatu datu guztiak (.zip)'
+instructions_short: 'Egin klik helburu bakoitzean Garapen Jasangarrirako Helburuen adierazle globalen %country.adjective datuak ikusteko.'
+instructions_shorter: Aukeratu helburu bat Euskal Autonomia Erkidegoko Garapen Jasangarrirako adierazleen datuak ikusteko
+download_all: 'Datu guztiak deskargatu (.zip)'
 zip_file: zip fitxategia
 intro_title: 'Gure mundua eraldatzeko 17 helburu'
 intro_body: '<a href="https://www.un.org/sustainabledevelopment/en">Garapen Jasangarrirako Helburuak (GJH)</a> edozein lekutan, pobreziarekin, planeta babestearekin eta guztion bizitzak eta ikuspegiak hobetzearekin ekintzarako dei unibertsala dira. Estatu kide guztiek onartu zituzten 17 helburuak 2015ean, <a href="https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=ES">Nazio Batuen 2030 Agendaren barruan</a>.'
@@ -11,29 +11,6 @@ file_size: Tamaina
 oceca_title: 'OCECASekin batera' 
 oceca_content: '<img src="https://raw.githubusercontent.com/eustat-des/site/develop/assets/img/oceca/ocecas_image_es.png" style="width: 200px; float: left; margin-right: 10px;" alt="OCECAS"> 
   Autonomia Erkidegoetako Estatistika Organo Zentralen (OCECAS) <a href="https://eustat-des.github.io/site/eu/accion_conjunta"> baterako lana </a>'
-lehendakaritza_title: Agenda 2030 EAEn
+lehendakaritza_title: Agenda 2030 Euskal Autonomia Erkidegoan
 lehendakaritza_content: '<img src="https://raw.githubusercontent.com/eustat-des/site/develop/assets/img/SDG Wheel.png" style="width: 100px; float: left; margin-right: 10px;" alt="EJ-GV">
   Plataforma hau <a href="https://www.euskadi.eus/agenda-2030/web01-a2lehetr/eu/">Gizarte Trantsizioko Idazkaritza Nagusiarekin</a> batera egin da'       
-notaprensa: "Prentsa-oharrak"
-notaprensa_content: "Sar zaitez Eustatek argitaratutako prentsa-oharretan"
-notaprensa_link: "https://eu.eustat.eus/estadisticas/tema_1393/opt_1/tipo_6/ti_2030-agendako-garapen-jasangarriaren-adierazleak/temas.html#el"
-publicaciones: "Argitalpenak"
-publicaciones_content: '>
-
-      [Prentsa oharrak](https://eu.eustat.eus/estadisticas/tema_1393/opt_1/tipo_6/ti_2030-agendako-garapen-jasangarriaren-adierazleak/temas.html#el)
-
-
-      [Maila anitzeko jarraipen txostena - 2024](https://www.euskadi.eus/contenidos/informacion/docs_interes_transicionsocial/eu_def/adjuntos/8-JARRAIPEN-TXOSTENA-EUSK.pdf)
-
-
-      [Beste dokumentu batzuk](https://www.euskadi.eus/dokumentu-interesgarriak_trantzisio-soziala/web01-a2lehetr/eu/)'
-recursosUtiles: "Baliabide erabilgarriak"
-recursosUtiles_content: '>
-
-      [GJH Nazioarteko erakundeetan](./ods-en-instituciones-internacionales)
-
-
-      [GJH beste herrialde batzuetan](./indicadores-ods-en-otros-paises)
-     
-
-      [GJH beste Autonomia Erkidego batzuetan](./indicadores-ods-en-otras-comunidades-autonomas)'
