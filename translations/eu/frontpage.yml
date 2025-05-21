@@ -8,9 +8,25 @@ zip_file: zip fitxategia
 intro_title: 'Gure mundua eraldatzeko 17 helburu'
 intro_body: '<a href="https://www.un.org/sustainabledevelopment/en">Garapen Jasangarrirako Helburuak (GJH)</a> edozein lekutan, pobreziarekin, planeta babestearekin eta guztion bizitzak eta ikuspegiak hobetzearekin ekintzarako dei unibertsala dira. Estatu kide guztiek onartu zituzten 17 helburuak 2015ean, <a href="https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=ES">Nazio Batuen 2030 Agendaren barruan</a>.'
 file_size: Tamaina
-oceca_title: 'OCECASekin batera' 
-oceca_content: '<img src="https://raw.githubusercontent.com/eustat-des/site/develop/assets/img/oceca/ocecas_image_es.png" style="width: 200px; float: left; margin-right: 10px;" alt="OCECAS"> 
-  Autonomia Erkidegoetako Estatistika Organo Zentralen (OCECAS) <a href="https://eustat-des.github.io/site/eu/accion_conjunta"> baterako lana </a>'
-lehendakaritza_title: Agenda 2030 Euskal Autonomia Erkidegoan
-lehendakaritza_content: '<img src="https://raw.githubusercontent.com/eustat-des/site/develop/assets/img/SDG Wheel.png" style="width: 100px; float: left; margin-right: 10px;" alt="EJ-GV">
-  Plataforma hau <a href="https://www.euskadi.eus/agenda-2030/web01-a2lehetr/eu/">Gizarte Trantsizioko Idazkaritza Nagusiarekin</a> batera egin da'       
+      
+publicaciones: "Argitalpenak"
+publicaciones_content: '>
+
+      [Prentsa oharrak](https://eu.eustat.eus/estadisticas/tema_1393/opt_1/tipo_6/ti_2030-agendako-garapen-jasangarriaren-adierazleak/temas.html#el)
+
+
+      [Maila anitzeko jarraipen txostena - 2024](https://www.euskadi.eus/contenidos/informacion/docs_interes_transicionsocial/eu_def/adjuntos/8-JARRAIPEN-TXOSTENA-EUSK.pdf)
+     
+
+      [Beste dokumentu batzuk](https://www.euskadi.eus/documentos-de-interes-transicion-social/web01-a2lehetr/es/)'
+
+recursosUtiles: "Baliabide erabilgarriak"
+recursosUtiles_content: '>
+
+      [GJH Nazioarteko erakundeetan](./nazioartea)
+
+
+      [GJH beste herrialde batzuetan](./herrialdeak)
+
+
+      [GJH beste Autonomia Erkidego batzuetan](./erkidegoak)'
