@@ -1,7 +1,7 @@
 exploring_data_sources: Datu-iturriak arakatzen
-overall_reporting_status: Txostenen egoera orokorra
+overall_reporting_status: Egoera orokorra
 reported_online: Online informatua
-reporting_status: Informazioaren egoera
+reporting_status: Jarraipen-txostena
 statistics_in_progress: Lanean
 not_applicable: Ez aplikagarria
 status_by_goal: Helburuen araberako egoera
@@ -18,7 +18,8 @@ reported: Informatua
 description: |
   Jarraipen-txostenak Euskal Autonomia Erkidegoan Garapen Jasangarrirako Helburuak (GJH) lortzeko egindako aurrerapenaren deskribapen orokorra ematen du.
 
-  Aurrerapena ebaluatzeko prozedurari buruz gehiago jakiteko, ikus <a href="https://eustat-des.github.io/site/metodologia">Aurrerapena neurtzeko metodologia</a>.
+  Aurrerapena ebaluatzeko prozedurari buruz gehiago jakiteko, ikus [Aurrerapena neurtzeko metodologia](./metodologia)
+
 progress_status: <b>Jarraipena</b>
 progress_not_available: Ez dago daturik
 progress_challenges_remain: Erronkek jarraitzen dute
