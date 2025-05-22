@@ -16,9 +16,11 @@ disaggregation_status_notapplicable: 'Fuera de alcance'
 disaggregation_status_by_field: 'Desagregación por %field'
 not_specified: No se especifica
 reported: Informado
-description: >-
-  <p>El informe de seguimiento proporciona una descripción general del progreso en la consecución de los Objetivos de Desarrollo Sostenible (ODS) en la Comunidad Autónoma de Euskadi.
-  Para saber más sobre el procedimiento para evaluar el progreso, ver <a href="https://eustat-des.github.io/site/metodologia">Metodología para la medición del progreso</a>.</p>
+description: |
+  El informe de seguimiento proporciona una descripción general del progreso en la consecución de los Objetivos de Desarrollo Sostenible (ODS) en la Comunidad Autónoma de Euskadi.
+
+  Para saber más sobre el procedimiento para evaluar el progreso, ver [Metodología para la medición del progreso](./es/metodologia)
+
 progress_status: <b>Seguimiento</b>
 progress_not_available: No hay datos
 progress_challenges_remain: Insuficiente
