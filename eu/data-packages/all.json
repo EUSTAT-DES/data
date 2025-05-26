@@ -46,7 +46,7 @@
           }
         ]
       },
-      "title": "Emisiones de CO2 respecto al año 1990"
+      "title": "CO2 isurketak 1990. urtearekiko"
     },
     {
       "path": "4-1-E1/data.csv",
@@ -175,7 +175,7 @@
           }
         ]
       },
-      "title": "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional"
+      "title": "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen proportzioa, estatuko mediana kontuan hartuta"
     },
     {
       "path": "11-a-1/data.csv",
@@ -364,7 +364,7 @@
           }
         ]
       },
-      "title": "Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza"
+      "title": "Pobrezia erlatiborako arriskuan dauden eta alokairu egotzia duten pertsonen proportzioa, pobreziaren atalase nazionala kontuan hartuta"
     },
     {
       "path": "10-1-1/data.csv",
@@ -1972,7 +1972,7 @@
           }
         ]
       },
-      "title": "Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza"
+      "title": "Pobrezia erlatiborako arriskuan sauden eta alokairu egotzia duten pertsonen proportzioa, pobreziaren atalase autonomikoa kontuan hartuta"
     },
     {
       "path": "13-1-1/data.csv",
@@ -5093,6 +5093,7 @@
             "constraints": {
               "enum": [
                 "EU_SDG_02_40",
+                "EU_SDG_02_40aaa",
                 ""
               ]
             },
@@ -7083,7 +7084,7 @@
           }
         ]
       },
-      "title": "Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud"
+      "title": "Osasungintzara bideratzen den administrazio publiko autonomikoen gastuaren proportzioa"
     },
     {
       "path": "17-19-2/data.csv",
@@ -7651,7 +7652,7 @@
           }
         ]
       },
-      "title": "Proporción de personas en zonas de abastecimiento que notifican al Sistema de Información Nacional de Agua de Consumo (SINAC)"
+      "title": "Kontsumorako Uraren Informazio Sistema Nazionalari (SINAC) jakinarazitako hornidura-eremuetako pertsonen proportzioa"
     },
     {
       "path": "2-c-1/data.csv",
@@ -8198,7 +8199,7 @@
           }
         ]
       },
-      "title": "Emisiones de CO2 respecto al año 2005"
+      "title": "CO2 isurketak 2005. urtearekiko"
     },
     {
       "path": "2-2-E1/data.csv",
@@ -10899,7 +10900,7 @@
           }
         ]
       },
-      "title": "Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación"
+      "title": "Hezkuntzara bideratzen den administrazio publiko autonomikoen gastuaren proportzioa"
     },
     {
       "path": "3-3-1/data.csv",
@@ -11612,7 +11613,7 @@
           }
         ]
       },
-      "title": "Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza"
+      "title": "Pobrezia erlatiborako arriskuan dauden pertsonen proportzioa, pobreziaren atalase nazionala kontuan hartuta"
     },
     {
       "path": "3-7-1/data.csv",
@@ -13525,7 +13526,7 @@
           }
         ]
       },
-      "title": "Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza"
+      "title": "Pobreziako edo gizarte-bazterketako arriskuan dauden pertsonen proportzioa: AROPE adierazlea, pobreziaren atalase nazionala kontuan hartuta"
     },
     {
       "path": "11-6-1/data.csv",
