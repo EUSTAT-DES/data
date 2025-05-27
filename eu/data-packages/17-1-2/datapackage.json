@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos ",
+                "Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos",
                 "Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuesto",
                 ""
               ]

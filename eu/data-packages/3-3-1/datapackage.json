@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Número de nuevas infecciones por el VIH por cada 1.000 habitantes ",
+                "Número de nuevas infecciones por el VIH por cada 1.000 habitantes",
                 ""
               ]
             },

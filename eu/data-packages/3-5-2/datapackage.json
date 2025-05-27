@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Consumo de alcohol per cápita (a partir de los 15 años de edad) durante un año civil ",
+                "Consumo de alcohol per cápita (a partir de los 15 años de edad) durante un año civil",
                 ""
               ]
             },
