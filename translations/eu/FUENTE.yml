@@ -86,6 +86,7 @@ Eustat_ecv: Bizi-baldintzen inkesta
 INE_eesal: Soldata-egituraren inkesta
 INE_eaes: Soldata-egituraren urteko inkesta
 INE_efec: Ugalkortasun-inkesta
+Eustat_cegf: Familia-gastuaren inkesta
 Eustat_cemaf: Ingurumenaren inkesta - Familiak
 Eustat_emh: Biztanleriaren eta etxebizitzen errolda. Biztanleriaren egitura
 Eustat_pra: Biztanleria jardueraren arabera sailkatzeko inkesta
@@ -205,6 +206,7 @@ Eustat_ecv_url: https://www.eustat.eus/estadisticas/tema_76/opt_1/ti_encuesta-de
 INE_eaes_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177025&menu=ultiDatos&idp=1254735976596
 INE_eesal_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177025&menu=ultiDatos&idp=1254735976596
 INE_efec_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177006&menu=ultiDatos&idp=1254735573002
+Eustat_cegf_url: https://www.eustat.eus/estadisticas/tema_237/opt_1/ti_encuesta-de-gasto-familiar/temas.html
 Eustat_cemaf_url: https://www.eustat.eus/estadisticas/tema_217/opt_1/ti_encuesta-de-medio-ambiente---familias/temas.html
 Eustat_iig_url: https://www.eustat.eus/estadisticas/tema_515/opt_0/ti_indice-de-igualdad-de-genero/temas.html
 Eustat_emh_url: https://www.eustat.eus/estadisticas/tema_268/opt_1/ti_censo-de-poblacion-y-viviendas-estructura-de-la-poblacion/temas.html
