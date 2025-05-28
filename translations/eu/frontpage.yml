@@ -6,9 +6,18 @@ instructions_shorter: Aukeratu helburu bat Euskal Autonomia Erkidegoko Garapen J
 download_all: 'Datu guztiak deskargatu (.zip)'
 zip_file: zip fitxategia
 intro_title: 'Gure mundua eraldatzeko 17 helburu'
-intro_body: '<a href="https://www.un.org/sustainabledevelopment/en">Garapen Jasangarrirako Helburuak (GJH)</a> edozein lekutan, pobreziarekin, planeta babestearekin eta guztion bizitzak eta ikuspegiak hobetzearekin ekintzarako dei unibertsala dira. Estatu kide guztiek onartu zituzten 17 helburuak 2015ean, <a href="https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=ES">Nazio Batuen 2030 Agendaren barruan</a>.'
+intro_body: <a href="https://www.un.org/sustainabledevelopment/en"> Garapen Jasangarrirako Helburuak (GJH)</a> edozein 
+  lekutan, pobreziarekin, planeta babestearekin eta guztion bizitzak eta ikuspegiak hobetzearekin ekintzarako dei unibertsala dira. Estatu kide guztiek onartu zituzten 17 helburuak 2015ean, <a href="https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=ES">Nazio Batuen 2030 Agendaren barruan</a>.
 file_size: Tamaina
-      
+oceca_title: 'OCECASen ekintza bateratua' 
+oceca_content: '<img src="https://raw.githubusercontent.com/eustat-des/site/develop/assets/img/oceca/ocecas_image_es.png" style="width: 200px; float: left; margin-right: 10px;" alt="OCECAS"> 
+  <a href="https://eustat-des.github.io/site/accion_conjunta">Autonomia-erkidegoetako estatistika-organo zentralen (OCECAS) lan bateratua</a>' 
+lehendakaritza_title: 2030 Agenda Euskadin
+lehendakaritza_content: '<img src="https://raw.githubusercontent.com/eustat-des/site/develop/assets/img/SDG Wheel.png" style="width: 100px; float: left; margin-right: 10px;" alt="EJ-GV"> Plataforma Eusko Jaurlaritzaren <a href="https://www.euskadi.eus/2030-agenda/web01-a2lehetr/eu/">Berrikuntza Soziala eta 2030 Agendaren Idazkaritza Nagusiarekin </a> koordinatuta garatu da'   
+notaprensa: "Prentsa oharrak"
+notaprensa_content: "Sartu Eustatek argitaratutako prentsa-oharretan"
+notaprensa_link: "https://eu.eustat.eus/estadisticas/tema_1393/opt_1/tipo_6/temas.html" 
+    
 publicaciones: "Argitalpenak"
 publicaciones_content: '>
 
