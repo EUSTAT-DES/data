@@ -32,7 +32,9 @@ formula: |
 
   $PIB_{TH}^{t} =$ producto interior bruto de un determinado territorio histórico a precios corrientes en el año $t$
 
-desagregacion:
+desagregacion: 
+
+  Territorio histórico
 
 observaciones: |
   Los ingresos consolidados de las administraciones vascas se obtienen sumando los ingresos de la 
