@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SE_ADT_EDUCTRN",
+                "Irakaskuntzan eta prestakuntza akademikoan eta ez-akademikoan izandako parte-hartze tasa azken 4 asteetan",
                 "Azken 12 hilabeteetan hezkuntza-jardueretan izandako parte-hartze tasa",
                 ""
               ]
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Emakumea",
+                "Gizona",
                 ""
               ]
             },
@@ -58,9 +58,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

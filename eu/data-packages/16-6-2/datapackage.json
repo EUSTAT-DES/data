@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_PSR_SATIS_EDU",
-                "SP_PSR_SATIS_HLTH",
-                "EU_PSR_SATIS_PENSN",
-                "EU_PSR_SATIS_JUST",
-                "EU_PSR_SATIS_SEC",
-                "EU_PSR_SATIS_SOCSERV",
-                "EU_PSR_SATIS_TRANSPORT",
-                "EU_PSR_SATIS_OBRA",
-                "EU_PSR_SATIS_DPDNT",
+                "Irakaskuntza",
+                "Osasun-laguntza",
+                "Pentsioen kudeaketa",
+                "Justizia-administrazioa",
+                "Herritarren segurtasuna",
+                "Gizarte zerbitzuak",
+                "Garraio publikoa",
+                "Herri-lanak",
+                "Laguntza behar duten pertsonentzako laguntza",
                 ""
               ]
             },
@@ -39,8 +39,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Emakumea",
+                "Gizona",
                 ""
               ]
             },
@@ -51,9 +51,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

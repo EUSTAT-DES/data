@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PD_AGR_SSFP",
-                "PD_AGR_LSFP",
+                "Elikagaien ekoizle txikien produktibitatea",
+                "Elikagaien ekoizle handien produktibitatea",
                 ""
               ]
             },
@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
@@ -45,7 +45,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CON_EUR",
+                "Euro konstanteak",
                 ""
               ]
             },

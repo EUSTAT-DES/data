@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SP_ACS_BSRVH2O",
-                "SP_ACS_BSRVSAN",
+                "Edateko ura duten etxebizitzen proportzioa",
+                "Bainugela duten etxebizitzen proportzioa",
                 ""
               ]
             },
@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SL_EMP_EARN",
+                "Orduko batez besteko diru-sarrera",
                 "Genero-aldea soldatan",
                 ""
               ]
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Emakumea",
+                "Gizona",
                 ""
               ]
             },
@@ -56,7 +56,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EUR",
+                "Eurotan",
                 "PT",
                 ""
               ]

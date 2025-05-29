@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SL_EMP_GTOTL",
+                "Lanak sortutako BPGren proportzioa",
                 ""
               ]
             },
@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

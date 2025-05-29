@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SP_LGL_LNDAGSEC",
-                "SP_GNP_WNOWNS",
+                "Jabetza-eskubideak edo nekazaritza-lurren gaineko eskubide seguruak dituzten nekazarien guztizkoaren proportzioa",
+                "Emakumeen proportzioa nekazaritza-lurren jabeen edo eskubideen titularren artean, edukitze-motaren arabera banakatuta",
                 ""
               ]
             },
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Emakumea",
+                "Gizona",
                 ""
               ]
             },
@@ -44,8 +44,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PROP",
-                "RENT",
+                "Jabetzan",
+                "Errentamenduan",
                 ""
               ]
             },
@@ -56,9 +56,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

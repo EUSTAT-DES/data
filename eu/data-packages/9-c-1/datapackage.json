@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "IT_MOB_3GNTWK",
-                "IT_MOB_4GNTWK",
-                "IT_MOB_5GNTWK",
+                "Sare mugikorrez estalitako etxeen proportzioa 3,5G",
+                "4G sare mugikorrez estalitako etxeen proportzioa",
+                "5G sare mugikorrez estalitako etxeen proportzioa",
                 ""
               ]
             },
@@ -33,9 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

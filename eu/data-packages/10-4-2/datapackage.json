@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "POSTFIS_DIS_INC",
+                "Diru-sarrera erabilgarri baliokidearen Gini indizea (postfiskala)",
                 ""
               ]
             },

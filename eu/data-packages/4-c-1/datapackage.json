@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SE_TRA_GRDL",
+                "Eskatutako gutxieneko kalifikazioak dituzten irakasleen proportzioa, hezkuntza-mailaren arabera banakatuta",
                 ""
               ]
             },

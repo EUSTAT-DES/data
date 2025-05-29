@@ -32,10 +32,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "WT_RECYC",
-                "WT_INCINRT_EGY",
-                "WT_LANDFIL",
-                "WT_INCINRT",
+                "Birziklatzea",
+                "Errausketa, energia berreskurapenarekin",
+                "Zabortegia",
+                "Errausketa, energia berreskurapenik gabe",
                 ""
               ]
             },
@@ -46,9 +46,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

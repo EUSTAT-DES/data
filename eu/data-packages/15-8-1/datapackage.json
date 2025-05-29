@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BOOL_YES_NO",
+                "Logika (1 = Bai, 0 = Ez)",
                 ""
               ]
             },

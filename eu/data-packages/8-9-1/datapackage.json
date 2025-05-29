@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ST_GDP_ZS",
+                "Turismoak sortutako BPG, BPG osoaren proportzioan",
                 "Turismoak sortutako BPGren hazkunde-tasa",
                 ""
               ]
@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

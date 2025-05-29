@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_HIV_INCD",
+                "GIBak eragindako infekzio berrien kopurua 1.000 biztanleko",
                 ""
               ]
             },
@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Emakumea",
+                "Gizona",
                 ""
               ]
             },

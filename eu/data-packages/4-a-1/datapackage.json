@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SE_ACS_ELECT",
-                "SE_ACS_CMPTR",
-                "SE_ACS_H2O",
-                "SE_ACS_SANIT",
-                "SE_ACS_HNDWSH",
+                "Elektrizitatea",
+                "Interneterako konexioa",
+                "Edateko ura",
+                "Bainuak sexuaren arabera bereizita",
+                "Eskuak garbitzeko lekua",
                 ""
               ]
             },

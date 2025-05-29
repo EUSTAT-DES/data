@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_H2O_SAFE",
+                "Arriskurik gabe kudeatutako edateko uraren hornidura-zerbitzuak erabiltzen dituzten biztanleak",
                 ""
               ]
             },

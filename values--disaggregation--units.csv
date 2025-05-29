@@ -1,9 +1,9 @@
 Value,es,eu,en,Disaggregation combinations using this value,Number of indicators
-BOOL_YES_NO,"Lógica (1=Sí, 0=No)",BOOL_YES_NO,BOOL_YES_NO,6,5
-CON_EUR,Euros constantes,CON_EUR,CON_EUR,16,2
-EUR,Euros,EUR,EUR,5,1
-EUR_1000000,Millones de euros,EUR_1000000,EUR_1000000,4,4
-EUR_PER_CAPITA,Euro per cápita,EUR_PER_CAPITA,EUR_PER_CAPITA,7,2
+BOOL_YES_NO,"Lógica (1=Sí, 0=No)","Logika (1 = Bai, 0 = Ez)",BOOL_YES_NO,6,5
+CON_EUR,Euros constantes,Euro konstanteak,CON_EUR,16,2
+EUR,Euros,Eurotan,EUR,5,1
+EUR_1000000,Millones de euros,Milioi eurotan,EUR_1000000,4,4
+EUR_PER_CAPITA,Euro per cápita,Euro per capita,EUR_PER_CAPITA,7,2
 G_PER_GDP_EUR,Gramo por euro de PIB,G_PER_GDP_EUR,G_PER_GDP_EUR,2,1
 GPERM3,Microgramos por metro cúbico,GPERM3,GPERM3,2,1
 HA,Hectáreas,HA,HA,2,2

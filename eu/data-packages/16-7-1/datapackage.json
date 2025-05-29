@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SG_DMK_PARLMP_LC",
-                "SG_DMK_PSRVC",
-                "SG_DMK_JDC",
+                "Legebiltzarreko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez",
+                "Administrazio publikoan dauden emakumeen proportzioa, biztanlerian dauden emakumeen proportzioari dagokionez",
+                "Botere judizialeko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez",
                 ""
               ]
             },
@@ -56,9 +56,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

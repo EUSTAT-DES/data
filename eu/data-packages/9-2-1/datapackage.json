@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NV_IND_MANF",
-                "NV_IND_MANFPC",
+                "Manufaktura-sektorearen balio erantsia, BPGrekiko proportzioan",
+                "Manufaktura-sektorearen balio erantsia per capita",
                 ""
               ]
             },
@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES212",
-                "ES213",
+                "Araba / Álava",
+                "Gipuzkoa",
+                "Bizkaia",
                 ""
               ]
             },
@@ -46,7 +46,7 @@
             "constraints": {
               "enum": [
                 "PT",
-                "EUR_PER_CAPITA",
+                "Euro per capita",
                 ""
               ]
             },

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "GB_XPD_RSDV",
+                "Ikerketa eta garapeneko gastuak, BPGrekiko proportzioan",
                 ""
               ]
             },
@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_ALC_CONSPT",
+                "Alkohol-kontsumoa per capita (15 urtetik aurrera) urte zibil batean",
                 ""
               ]
             },

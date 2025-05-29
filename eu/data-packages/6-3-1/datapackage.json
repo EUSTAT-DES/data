@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_WWT_COLECT",
+                "Kolektore-sistema batera konektatutako etxeko hondakin-uren fluxuen proportzioa",
                 "Modu egokian tratatutako etxeko hondakin-uren fluxuen proportzioa",
                 ""
               ]

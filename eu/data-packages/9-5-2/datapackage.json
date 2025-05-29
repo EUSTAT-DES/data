@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "GB_POP_SCIERD",
+                "Ikertzaileen kopurua (lanaldi osoaren baliokidean) milioi bat biztanleko",
                 ""
               ]
             },
@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

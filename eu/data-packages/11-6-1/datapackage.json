@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_W_GENPCAP",
+                "Biztanle bakoitzeko bildutako hiri-hondakinak",
                 "Instalazio kontrolatuetan bildu eta administratutako hiri-hondakinen proportzioa",
                 "Tratatutako hiri-hondakinen proportzioa, tratamendu-motaren arabera banakatuta",
                 ""
@@ -33,9 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "WT_RECYC",
-                "WT_INCINRT_EGY",
-                "WT_LANDFIL",
+                "Birziklatzea",
+                "Errausketa, energia berreskurapenarekin",
+                "Zabortegia",
                 ""
               ]
             },
@@ -46,9 +46,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

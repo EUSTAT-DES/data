@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ESED",
-                "HLTH",
-                "PROT",
+                "Hezkuntza",
+                "Osasuna",
+                "Gizarte-babesa",
                 ""
               ]
             },

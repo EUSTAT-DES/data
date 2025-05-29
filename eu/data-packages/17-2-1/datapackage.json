@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_ODA_EUR",
-                "EU_ODA_GDP",
+                "Administrazio publiko autonomikoen eta tokikoen garapen garbirako laguntza ofiziala",
+                "Administrazio publiko autonomikoen eta tokikoen garapenerako laguntza ofizial garbia, BPGrekiko proportzioan",
                 ""
               ]
             },
@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EUR_1000000",
+                "Milioi eurotan",
                 "PT",
                 ""
               ]

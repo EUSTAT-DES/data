@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_TBS_INCD",
+                "Tuberkulosiaren intzidentzia 100.000 biztanleko",
                 ""
               ]
             },
@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Emakumea",
+                "Gizona",
                 ""
               ]
             },

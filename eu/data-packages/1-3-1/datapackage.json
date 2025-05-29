@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SI_COV_UEMP",
-                "SI_COV_PENSN",
+                "Langabezia-prestazioak jasotzen dituzten langabeen proportzioa",
+                "Erretirorako legezko adina gainditu eta pentsioa jasotzen duten biztanleen proportzioa",
                 ""
               ]
             },
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Emakumea",
+                "Gizona",
                 ""
               ]
             },
@@ -44,9 +44,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_SH_DTH_NCOM",
-                "SH_DTH_NCOM",
+                "Heriotza-tasa",
+                "Hilkortasun goiztiarraren tasa (30-70 urte)",
                 ""
               ]
             },
@@ -47,8 +47,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Emakumea",
+                "Gizona",
                 ""
               ]
             },
@@ -59,9 +59,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

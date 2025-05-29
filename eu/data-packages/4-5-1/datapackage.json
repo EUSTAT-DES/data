@@ -21,9 +21,9 @@
             "constraints": {
               "enum": [
                 "Genero-parekotasunaren indizea",
-                "EU_SESPI",
-                "EU_RUPI_TRN",
-                "EU_PI_HEALTH",
+                "Diru-sarreren parekotasun-indizea (goiko eta beheko kintilak)",
+                "Paritate-indizea kokapenean (10.000 biztanletik gorako eta beherako udalerriak)",
+                "Parekotasun-indizea osasunean",
                 ""
               ]
             },
@@ -34,8 +34,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Emakumea",
+                "Gizona",
                 ""
               ]
             },
@@ -58,9 +58,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },

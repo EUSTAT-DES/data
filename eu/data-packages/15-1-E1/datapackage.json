@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_SDG_15_20_KM2",
-                "EU_SDG_15_20_PT",
+                "Babestutako lur-eremuen azalera (Km2)",
+                "Lurrazal babestuak lurrazalarekiko duen proportzioa",
                 ""
               ]
             },

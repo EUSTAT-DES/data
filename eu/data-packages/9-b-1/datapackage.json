@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NV_IND_TECH",
+                "Balio erantsiaren proportzioa teknologia-industria ertain eta altuak guztizko balio erantsian",
                 ""
               ]
             },

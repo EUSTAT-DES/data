@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UE_HEI_HE",
-                "UE_HEI_HI",
+                "Familiako gastuaren hazkunde-tasa per capita",
+                "Familiako biztanle bakoitzeko diru-sarreraren hazkunde-tasa",
                 ""
               ]
             },
@@ -43,9 +43,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
