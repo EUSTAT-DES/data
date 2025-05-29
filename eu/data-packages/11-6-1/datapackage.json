@@ -21,8 +21,8 @@
             "constraints": {
               "enum": [
                 "EU_W_GENPCAP",
-                "EN_REF_WASCOL",
-                "EN_MWT_TREATV",
+                "Instalazio kontrolatuetan bildu eta administratutako hiri-hondakinen proportzioa",
+                "Tratatutako hiri-hondakinen proportzioa, tratamendu-motaren arabera banakatuta",
                 ""
               ]
             },

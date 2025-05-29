@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_GOB_TAX",
-                "EU_GOB_TAX_NOFIN",
+                "Zergetatik datozen administrazio publiko autonomikoen eta tokikoen diru-sarreren proportzioa",
+                "Administrazio publiko autonomikoen eta tokiko administrazioen sarrera ez-finantzarioen proportzioa, zergetatik datozenak",
                 ""
               ]
             },

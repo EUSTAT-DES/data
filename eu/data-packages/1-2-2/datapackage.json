@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NAHC",
-                "SMSD",
-                "VLWI",
+                "Pobrezia-arriskua (monetarioa)",
+                "Gabezia material eta sozial larria",
+                "Lan-intentsitate txikia",
                 ""
               ]
             },

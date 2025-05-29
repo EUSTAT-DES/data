@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_EXP_EMP",
-                "EU_EXP_EMPGDP",
+                "Administrazio publiko autonomikoek enplegua sustatzeko egiten duten gastua",
+                "Administrazio publiko autonomikoek enplegua sustatzeko egiten duten gastua, gastu guztiarekiko",
                 ""
               ]
             },

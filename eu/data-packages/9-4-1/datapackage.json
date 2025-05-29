@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_ATM_CO2GDP",
-                "EN_ATM_CO2MVA",
+                "CO2 isurketak balio erantsiko unitate bakoitzeko",
+                "Manufaktura-sektorearen CO2 isuriak, manufaktura-sektorearen balio erantsiaren unitateko",
                 ""
               ]
             },

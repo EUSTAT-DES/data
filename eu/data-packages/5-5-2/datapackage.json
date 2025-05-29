@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CNO2011_1",
-                "CNO2011_11_12_13",
-                "SELF_EMP",
+                "Zuzendaritza-kargua",
+                "Goi-zuzendaritza",
+                "Enpresaria",
                 ""
               ]
             },

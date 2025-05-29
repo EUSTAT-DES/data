@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_MWT_RCYR",
+                "Birziklatutako hiri-hondakinen proportzioa",
                 ""
               ]
             },

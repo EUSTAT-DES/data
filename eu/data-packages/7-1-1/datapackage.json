@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EG_ACS_ELEC",
+                "Elektrizitaterako sarbidea duen biztanleriaren proportzioa",
                 ""
               ]
             },

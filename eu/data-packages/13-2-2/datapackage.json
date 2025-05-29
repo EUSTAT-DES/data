@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_ATM_GHGT_AIP",
-                "EN_ATM_GHGGDP",
-                "EN_ATM_GHGPC",
-                "EU_GHG_TV1990",
-                "EU_GHG_TV2005",
+                "Berotegi-efektuko gasen isurketak, guztira, urtearen arabera",
+                "Berotegi-efektuko gasen isurketak, guztira, BPGren unitateko",
+                "Berotegi-efektuko gasen isurketak, guztira, biztanleko",
+                "Berotegi-efektuko gasen emisioak, 1990. urtearekiko",
+                "Berotegi-efektuko gasen isurketak, 2005. urtearekiko",
                 ""
               ]
             },

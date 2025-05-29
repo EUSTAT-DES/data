@@ -32,11 +32,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "DIABTS",
-                "CNCR",
-                "NCOM",
-                "CARDIO",
-                "CRESPD",
+                "Diabetesa",
+                "Minbizia",
+                "Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",
+                "Gaixotasun kardiobaskularrak",
+                "Arnas gaixotasun kronikoak",
                 ""
               ]
             },

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AG_LND_FRSTMGT_HA",
-                "AG_LND_FRSTMGT",
+                "Kudeaketa iraunkorreko indarreko tresnak dituen baso-azalera",
+                "Kudeaketa iraunkorreko indarreko tresnak dituzten baso-azaleren proportzioa",
                 ""
               ]
             },

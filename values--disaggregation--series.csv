@@ -1,60 +1,60 @@
 Value,es,eu,en,Disaggregation combinations using this value,Number of indicators
-AES_EDUCTRN,Tasa de participación en actividades educativas en los últimos 12 meses,AES_EDUCTRN,AES_EDUCTRN,3,1
-AG_FPA_CFPI,Indicador de anomalías en los precios de los alimentos,AG_FPA_CFPI,AG_FPA_CFPI,11,1
-AG_LND_FOVH,Proporción de superficie agrícola que ha alcanzado un nivel aceptable o deseable de valor de producción agrícola por hectárea,AG_LND_FOVH,AG_LND_FOVH,1,1
-AG_LND_FRST,Superficie forestal en proporción a la superficie total,AG_LND_FRST,AG_LND_FRST,275,1
-AG_LND_FRSTMGT,Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes,AG_LND_FRSTMGT,AG_LND_FRSTMGT,1,1
-AG_LND_FRSTMGT_HA,Superficie forestal con instrumentos de gestión sostenible vigentes,AG_LND_FRSTMGT_HA,AG_LND_FRSTMGT_HA,1,1
-AG_LND_NFI,Proporción de la superficie de tierras agrícolas que ha alcanzado un nivel aceptable o deseable de ingresos agrícolas netos,AG_LND_NFI,AG_LND_NFI,1,1
-AG_PRD_FIESMS,Prevalencia de la inseguridad alimentaria grave o muy grave,AG_PRD_FIESMS,AG_PRD_FIESMS,1,1
-AG_PRD_FIESS,Prevalencia de la inseguridad alimentaria muy grave,AG_PRD_FIESS,AG_PRD_FIESS,1,1
-BX_TRF_PWKR,Volumen de remesas enviadas al extranjero en proporción al PIB,BX_TRF_PWKR,BX_TRF_PWKR,2,2
-BX_TRF_PWKRV,Volumen de remesas enviadas al extranjero,BX_TRF_PWKRV,BX_TRF_PWKRV,1,1
-DP_DOD_DLD2_CR_CG_Z1,Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB,DP_DOD_DLD2_CR_CG_Z1,DP_DOD_DLD2_CR_CG_Z1,1,1
-EG_ACS_ELEC,Proporción de la población con acceso a la electricidad,EG_ACS_ELEC,EG_ACS_ELEC,1,1
-EG_EGY_CLEAN,Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios,EG_EGY_CLEAN,EG_EGY_CLEAN,1,1
-EN_ATM_CO2GDP,Emisiones de CO2 por unidad de valor añadido,EN_ATM_CO2GDP,EN_ATM_CO2GDP,1,1
-EN_ATM_CO2MVA,Emisiones de CO2 del sector manufacturero por unidad de valor añadido del sector manufacturero,EN_ATM_CO2MVA,EN_ATM_CO2MVA,1,1
-EN_ATM_GHGGDP,Emisiones totales de gases de efecto invernadero por unidad de PIB,EN_ATM_GHGGDP,EN_ATM_GHGGDP,1,1
-EN_ATM_GHGPC,Emisiones totales de gases de efecto invernadero per cápita,EN_ATM_GHGPC,EN_ATM_GHGPC,1,1
-EN_ATM_GHGT_AIP,Emisiones totales de gases de efecto invernadero por año,EN_ATM_GHGT_AIP,EN_ATM_GHGT_AIP,1,1
-EN_ATM_PM25,Niveles medios anuales de partículas finas en suspensión (PM2.5 y PM10) en las ciudades (ponderados según la población),EN_ATM_PM25,EN_ATM_PM25,2,1
-EN_H2O_GRAMBQ,Proporción de masas de agua subterráneas de buena calidad,EN_H2O_GRAMBQ,EN_H2O_GRAMBQ,1,1
-EN_H2O_OPAMBQ,Proporción de masas de agua superficiales de buena calidad,EN_H2O_OPAMBQ,EN_H2O_OPAMBQ,1,1
-EN_H2O_RVAMBQ,Proporción de masas de agua de río de buena calidad,EN_H2O_RVAMBQ,EN_H2O_RVAMBQ,1,1
-EN_HAZ_PCAP,Residuos peligrosos generados per cápita,EN_HAZ_PCAP,EN_HAZ_PCAP,4,1
-EN_HAZ_TREAT,"Proporción de residuos peligrosos tratados, desglosados por tipo de tratamiento",EN_HAZ_TREAT,EN_HAZ_TREAT,16,1
-EN_MAT_DOMCMPC,Consumo doméstico de materiales per cápita,EN_MAT_DOMCMPC,EN_MAT_DOMCMPC,2,2
-EN_MAT_DOMCMPG,Consumo doméstico de materiales por PIB,EN_MAT_DOMCMPG,EN_MAT_DOMCMPG,2,2
-EN_MAT_DOMCMPT,Consumo doméstico de materiales en términos absolutos,EN_MAT_DOMCMPT,EN_MAT_DOMCMPT,2,2
-EN_MWT_RCYR,Proporción de residuos urbanos reciclados,EN_MWT_RCYR,EN_MWT_RCYR,4,1
-EN_MWT_TREATV,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",EN_MWT_TREATV,EN_MWT_TREATV,12,1
-EN_REF_WASCOL,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,EN_REF_WASCOL,EN_REF_WASCOL,4,1
-EN_WWT_WWDS,Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada,EN_WWT_WWDS,EN_WWT_WWDS,1,1
-EU_BATH_PARTIC,Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión de aguas de baño,EU_BATH_PARTIC,EU_BATH_PARTIC,1,1
-EU_CNCR_BCI,Cáncer de mama,EU_CNCR_BCI,EU_CNCR_BCI,1,1
-EU_CNCR_CCR,Cáncer colorrectal,EU_CNCR_CCR,EU_CNCR_CCR,3,1
-EU_DSR_SILS_TH,Proporción de municipios cubiertos por un plan de emergencias territorial,EU_DSR_SILS_TH,EU_DSR_SILS_TH,828,3
-EU_ECOLABEL,Número de licencias de Ecolabel (Etiqueta Ecológica Europea ),EU_ECOLABEL,EU_ECOLABEL,4,1
-EU_EMAS,Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental (EMAS),EU_EMAS,EU_EMAS,4,1
-EU_EMP_LFS,Tasa de ocupación,EU_EMP_LFS,EU_EMP_LFS,837,1
-EU_EMP_LFS_GAP,Brecha de género en la ocupación,EU_EMP_LFS_GAP,EU_EMP_LFS_GAP,12,1
-EU_EXP_EMP,Gasto de las administraciones públicas autonómicas en fomento del empleo,EU_EXP_EMP,EU_EXP_EMP,1,1
-EU_EXP_EMPGDP,Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al PIB,EU_EXP_EMPGDP,EU_EXP_EMPGDP,1,1
-EU_FPA_IPC,Índice de precio de los alimentos,EU_FPA_IPC,EU_FPA_IPC,2,1
-EU_FRN_FDI_EUR,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo,EU_FRN_FDI_EUR,EU_FRN_FDI_EUR,1,1
-EU_FRN_FDI_GDP,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB,EU_FRN_FDI_GDP,EU_FRN_FDI_GDP,1,1
-EU_GDP_ZS_GR,Tasa de crecimiento del PIB generado por el turismo,EU_GDP_ZS_GR,EU_GDP_ZS_GR,4,1
-EU_GENDERPAY_GAP,Brecha de género en el salario medio por hora,EU_GENDERPAY_GAP,EU_GENDERPAY_GAP,1,1
-EU_GHG_TV1990,Emisiones de gases de efecto invernadero respecto al año 1990,EU_GHG_TV1990,EU_GHG_TV1990,1,1
-EU_GHG_TV2005,Emisiones de gases de efecto invernadero respecto al año 2005,EU_GHG_TV2005,EU_GHG_TV2005,1,1
-EU_GOB_TAX,Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos ,EU_GOB_TAX,EU_GOB_TAX,1,1
-EU_GOB_TAX_NOFIN,Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuesto,EU_GOB_TAX_NOFIN,EU_GOB_TAX_NOFIN,1,1
-EU_GPI_TRN,Índice de paridad de género,EU_GPI_TRN,EU_GPI_TRN,4,1
-EU_HLY_Y0,Esperanza de vida en buena salud,EU_HLY_Y0,EU_HLY_Y0,8,1
-EU_LE_Y0,Esperanza de vida al nacer,EU_LE_Y0,EU_LE_Y0,12,1
-EU_LND_REM,Superficie de suelo recuperado para nuevos usos (acumulado),EU_LND_REM,EU_LND_REM,1,1
-EU_LND_REM_PT,Porcentaje de suelo recuperado para nuevos usos (acumulado),EU_LND_REM_PT,EU_LND_REM_PT,1,1
+AES_EDUCTRN,Tasa de participación en actividades educativas en los últimos 12 meses,Azken 12 hilabeteetan hezkuntza-jardueretan izandako parte-hartze tasa,AES_EDUCTRN,3,1
+AG_FPA_CFPI,Indicador de anomalías en los precios de los alimentos,Elikagaien prezioen anomalien adierazlea,AG_FPA_CFPI,11,1
+AG_LND_FOVH,Proporción de superficie agrícola que ha alcanzado un nivel aceptable o deseable de valor de producción agrícola por hectárea,Hektarea bakoitzeko nekazaritza-ekoizpenaren balio onargarria edo desiragarria lortu duen nekazaritza-azaleraren proportzioa,AG_LND_FOVH,1,1
+AG_LND_FRST,Superficie forestal en proporción a la superficie total,Baso-azalera azalera osoaren proportzioan,AG_LND_FRST,275,1
+AG_LND_FRSTMGT,Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes,Kudeaketa iraunkorreko indarreko tresnak dituzten baso-azaleren proportzioa,AG_LND_FRSTMGT,1,1
+AG_LND_FRSTMGT_HA,Superficie forestal con instrumentos de gestión sostenible vigentes,Kudeaketa iraunkorreko indarreko tresnak dituen baso-azalera,AG_LND_FRSTMGT_HA,1,1
+AG_LND_NFI,Proporción de la superficie de tierras agrícolas que ha alcanzado un nivel aceptable o deseable de ingresos agrícolas netos,Nekazaritzako diru-sarrera garbien maila onargarria edo desiragarria lortu duten nekazaritza-lurren azaleraren proportzioa,AG_LND_NFI,1,1
+AG_PRD_FIESMS,Prevalencia de la inseguridad alimentaria grave o muy grave,Elikagaien segurtasun-gabezia larriaren edo oso larriaren prebalentzia,AG_PRD_FIESMS,1,1
+AG_PRD_FIESS,Prevalencia de la inseguridad alimentaria muy grave,Elikagaien segurtasun-gabezia oso larriaren prebalentzia,AG_PRD_FIESS,1,1
+BX_TRF_PWKR,Volumen de remesas enviadas al extranjero en proporción al PIB,"Atzerrira bidalitako bidalketen bolumena, BPGrekiko proportzioan",BX_TRF_PWKR,2,2
+BX_TRF_PWKRV,Volumen de remesas enviadas al extranjero,Atzerrira bidalitako bidalketen bolumena,BX_TRF_PWKRV,1,1
+DP_DOD_DLD2_CR_CG_Z1,Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB,"Administrazio publiko autonomikoen zor gordina, gehiegizko defizitaren protokoloaren arabera, BPGrekiko proportzioan",DP_DOD_DLD2_CR_CG_Z1,1,1
+EG_ACS_ELEC,Proporción de la población con acceso a la electricidad,Elektrizitaterako sarbidea duen biztanleriaren proportzioa,EG_ACS_ELEC,1,1
+EG_EGY_CLEAN,Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios,Energia-iturri nagusia erregai eta teknologia garbiak dituen biztanleriaren proportzioa,EG_EGY_CLEAN,1,1
+EN_ATM_CO2GDP,Emisiones de CO2 por unidad de valor añadido,CO2 isurketak balio erantsiko unitate bakoitzeko,EN_ATM_CO2GDP,1,1
+EN_ATM_CO2MVA,Emisiones de CO2 del sector manufacturero por unidad de valor añadido del sector manufacturero,"Manufaktura-sektorearen CO2 isuriak, manufaktura-sektorearen balio erantsiaren unitateko",EN_ATM_CO2MVA,1,1
+EN_ATM_GHGGDP,Emisiones totales de gases de efecto invernadero por unidad de PIB,"Berotegi-efektuko gasen isurketak, guztira, BPGren unitateko",EN_ATM_GHGGDP,1,1
+EN_ATM_GHGPC,Emisiones totales de gases de efecto invernadero per cápita,"Berotegi-efektuko gasen isurketak, guztira, biztanleko",EN_ATM_GHGPC,1,1
+EN_ATM_GHGT_AIP,Emisiones totales de gases de efecto invernadero por año,"Berotegi-efektuko gasen isurketak, guztira, urtearen arabera",EN_ATM_GHGT_AIP,1,1
+EN_ATM_PM25,Niveles medios anuales de partículas finas en suspensión (PM2.5 y PM10) en las ciudades (ponderados según la población),Partikula fin esekien urteko batez besteko mailak (PM2.5 eta PM10) hirietan (biztanleriaren arabera haztatuta),EN_ATM_PM25,2,1
+EN_H2O_GRAMBQ,Proporción de masas de agua subterráneas de buena calidad,Kalitate oneko lurpeko ur-masen proportzioa,EN_H2O_GRAMBQ,1,1
+EN_H2O_OPAMBQ,Proporción de masas de agua superficiales de buena calidad,Kalitate oneko azaleko ur-masen proportzioa,EN_H2O_OPAMBQ,1,1
+EN_H2O_RVAMBQ,Proporción de masas de agua de río de buena calidad,Kalitate oneko ibaiko ur-masen proportzioa,EN_H2O_RVAMBQ,1,1
+EN_HAZ_PCAP,Residuos peligrosos generados per cápita,Hondakin arriskutsuak biztanleko,EN_HAZ_PCAP,4,1
+EN_HAZ_TREAT,"Proporción de residuos peligrosos tratados, desglosados por tipo de tratamiento","Tratatutako hondakin arriskutsuen proportzioa, tratamendu motaren arabera banakatuta",EN_HAZ_TREAT,16,1
+EN_MAT_DOMCMPC,Consumo doméstico de materiales per cápita,Materialen etxeko kontsumoa per capita,EN_MAT_DOMCMPC,2,2
+EN_MAT_DOMCMPG,Consumo doméstico de materiales por PIB,"Materialen etxeko kontsumoa, BPGaren arabera",EN_MAT_DOMCMPG,2,2
+EN_MAT_DOMCMPT,Consumo doméstico de materiales en términos absolutos,Materialen etxeko kontsumoa termino absolutuetan,EN_MAT_DOMCMPT,2,2
+EN_MWT_RCYR,Proporción de residuos urbanos reciclados,Birziklatutako hiri-hondakinen proportzioa,EN_MWT_RCYR,4,1
+EN_MWT_TREATV,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento","Tratatutako hiri-hondakinen proportzioa, tratamendu-motaren arabera banakatuta",EN_MWT_TREATV,12,1
+EN_REF_WASCOL,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,Instalazio kontrolatuetan bildu eta administratutako hiri-hondakinen proportzioa,EN_REF_WASCOL,4,1
+EN_WWT_WWDS,Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada,Modu egokian tratatutako etxeko hondakin-uren fluxuen proportzioa,EN_WWT_WWDS,1,1
+EU_BATH_PARTIC,Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión de aguas de baño,Bainatzeko uren kudeaketan tokiko komunitateek parte hartzeko politikak eta prozedura operatiboak ezarri dituzten tokiko administrazio-bulegoen proportzioa,EU_BATH_PARTIC,1,1
+EU_CNCR_BCI,Cáncer de mama,Bularreko minbizia,EU_CNCR_BCI,1,1
+EU_CNCR_CCR,Cáncer colorrectal,Kolon eta ondesteko minbizia,EU_CNCR_CCR,3,1
+EU_DSR_SILS_TH,Proporción de municipios cubiertos por un plan de emergencias territorial,Lurraldeko larrialdi-plan batek estalitako udalerrien proportzioa,EU_DSR_SILS_TH,828,3
+EU_ECOLABEL,Número de licencias de Ecolabel (Etiqueta Ecológica Europea ),Ecolabel lizentzien kopurua (Europako Etiketa Ekologikoa),EU_ECOLABEL,4,1
+EU_EMAS,Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental (EMAS),Ingurumena kudeatzeko eta ikuskatzeko sistema komunitarioa (EMAS) duten erakundeen kopurua,EU_EMAS,4,1
+EU_EMP_LFS,Tasa de ocupación,Okupazio-tasa,EU_EMP_LFS,837,1
+EU_EMP_LFS_GAP,Brecha de género en la ocupación,Genero-aldea okupazioan,EU_EMP_LFS_GAP,12,1
+EU_EXP_EMP,Gasto de las administraciones públicas autonómicas en fomento del empleo,Administrazio publiko autonomikoek enplegua sustatzeko egiten duten gastua,EU_EXP_EMP,1,1
+EU_EXP_EMPGDP,Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al PIB,"Administrazio publiko autonomikoek enplegua sustatzeko egiten duten gastua, gastu guztiarekiko",EU_EXP_EMPGDP,1,1
+EU_FPA_IPC,Índice de precio de los alimentos,Elikagaien prezioaren indizea,EU_FPA_IPC,2,1
+EU_FRN_FDI_EUR,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo,Zuzeneko inbertsio garbia Garapenerako Laguntza Ofiziala jasotzen duten herrialdeetan,EU_FRN_FDI_EUR,1,1
+EU_FRN_FDI_GDP,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB,"Zuzeneko inbertsio garbia Garapenerako Laguntza Ofiziala jasotzen duten herrialdeetan, BPGrekiko proportzioan",EU_FRN_FDI_GDP,1,1
+EU_GDP_ZS_GR,Tasa de crecimiento del PIB generado por el turismo,Turismoak sortutako BPGren hazkunde-tasa,EU_GDP_ZS_GR,4,1
+EU_GENDERPAY_GAP,Brecha de género en el salario medio por hora,Genero-aldea soldatan,EU_GENDERPAY_GAP,1,1
+EU_GHG_TV1990,Emisiones de gases de efecto invernadero respecto al año 1990,"Berotegi-efektuko gasen emisioak, 1990. urtearekiko",EU_GHG_TV1990,1,1
+EU_GHG_TV2005,Emisiones de gases de efecto invernadero respecto al año 2005,"Berotegi-efektuko gasen isurketak, 2005. urtearekiko",EU_GHG_TV2005,1,1
+EU_GOB_TAX,Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos ,Zergetatik datozen administrazio publiko autonomikoen eta tokikoen diru-sarreren proportzioa,EU_GOB_TAX,1,1
+EU_GOB_TAX_NOFIN,Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuesto,"Administrazio publiko autonomikoen eta tokiko administrazioen sarrera ez-finantzarioen proportzioa, zergetatik datozenak",EU_GOB_TAX_NOFIN,1,1
+EU_GPI_TRN,Índice de paridad de género,Genero-parekotasunaren indizea,EU_GPI_TRN,4,1
+EU_HLY_Y0,Esperanza de vida en buena salud,Bizi-itxaropena osasun onean,EU_HLY_Y0,8,1
+EU_LE_Y0,Esperanza de vida al nacer,Bizi-itxaropena jaiotzean,EU_LE_Y0,12,1
+EU_LND_REM,Superficie de suelo recuperado para nuevos usos (acumulado),Erabilera berrietarako berreskuratutako lurzoruaren azalera (metatua),EU_LND_REM,1,1
+EU_LND_REM_PT,Porcentaje de suelo recuperado para nuevos usos (acumulado),Erabilera berrietarako berreskuratutako lurzoruaren ehunekoa (metatua),EU_LND_REM_PT,1,1
 EU_ODA_EUR,Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales,EU_ODA_EUR,EU_ODA_EUR,1,1
 EU_ODA_GDP,Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales en proporción al PIB,EU_ODA_GDP,EU_ODA_GDP,1,1
 EU_PI_HEALTH,Índice de paridad en salud,EU_PI_HEALTH,EU_PI_HEALTH,3,1

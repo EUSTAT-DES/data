@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_LE_Y0",
-                "EU_HLY_Y0",
+                "Bizi-itxaropena jaiotzean",
+                "Bizi-itxaropena osasun onean",
                 ""
               ]
             },

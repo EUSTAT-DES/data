@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_EMAS",
-                "EU_ECOLABEL",
+                "Ingurumena kudeatzeko eta ikuskatzeko sistema komunitarioa (EMAS) duten erakundeen kopurua",
+                "Ecolabel lizentzien kopurua (Europako Etiketa Ekologikoa)",
                 ""
               ]
             },

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_ATM_PM25",
+                "Partikula fin esekien urteko batez besteko mailak (PM2.5 eta PM10) hirietan (biztanleriaren arabera haztatuta)",
                 ""
               ]
             },
@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PM25",
-                "PM10",
+                "PM 2,5",
+                "PM 10",
                 ""
               ]
             },

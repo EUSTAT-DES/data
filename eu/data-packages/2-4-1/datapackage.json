@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AG_LND_FOVH",
-                "AG_LND_NFI",
+                "Hektarea bakoitzeko nekazaritza-ekoizpenaren balio onargarria edo desiragarria lortu duen nekazaritza-azaleraren proportzioa",
+                "Nekazaritzako diru-sarrera garbien maila onargarria edo desiragarria lortu duten nekazaritza-lurren azaleraren proportzioa",
                 ""
               ]
             },

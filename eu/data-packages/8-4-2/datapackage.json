@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_MAT_DOMCMPT",
-                "EN_MAT_DOMCMPC",
-                "EN_MAT_DOMCMPG",
+                "Materialen etxeko kontsumoa termino absolutuetan",
+                "Materialen etxeko kontsumoa per capita",
+                "Materialen etxeko kontsumoa, BPGaren arabera",
                 ""
               ]
             },

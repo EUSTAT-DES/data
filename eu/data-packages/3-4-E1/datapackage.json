@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_CNCR_CCR",
-                "EU_CNCR_BCI",
+                "Kolon eta ondesteko minbizia",
+                "Bularreko minbizia",
                 ""
               ]
             },

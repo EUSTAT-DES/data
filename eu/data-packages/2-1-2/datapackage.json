@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AG_PRD_FIESMS",
-                "AG_PRD_FIESS",
+                "Elikagaien segurtasun-gabezia larriaren edo oso larriaren prebalentzia",
+                "Elikagaien segurtasun-gabezia oso larriaren prebalentzia",
                 ""
               ]
             },

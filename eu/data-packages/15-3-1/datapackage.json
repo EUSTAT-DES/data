@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_LND_REM",
-                "EU_LND_REM_PT",
+                "Erabilera berrietarako berreskuratutako lurzoruaren azalera (metatua)",
+                "Erabilera berrietarako berreskuratutako lurzoruaren ehunekoa (metatua)",
                 ""
               ]
             },

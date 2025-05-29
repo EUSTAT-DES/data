@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BX_TRF_PWKR",
-                "BX_TRF_PWKRV",
+                "Atzerrira bidalitako bidalketen bolumena, BPGrekiko proportzioan",
+                "Atzerrira bidalitako bidalketen bolumena",
                 ""
               ]
             },

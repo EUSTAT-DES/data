@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_GPI_TRN",
+                "Genero-parekotasunaren indizea",
                 "EU_SESPI",
                 "EU_RUPI_TRN",
                 "EU_PI_HEALTH",

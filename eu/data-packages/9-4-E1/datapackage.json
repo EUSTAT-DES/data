@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PM25",
-                "PM10",
+                "PM 2,5",
+                "PM 10",
                 ""
               ]
             },

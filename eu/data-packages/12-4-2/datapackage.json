@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_HAZ_PCAP",
-                "EN_HAZ_TREAT",
+                "Hondakin arriskutsuak biztanleko",
+                "Tratatutako hondakin arriskutsuen proportzioa, tratamendu motaren arabera banakatuta",
                 ""
               ]
             },

@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_H2O_GRAMBQ",
-                "EN_H2O_OPAMBQ",
-                "EN_H2O_RVAMBQ",
+                "Kalitate oneko lurpeko ur-masen proportzioa",
+                "Kalitate oneko azaleko ur-masen proportzioa",
+                "Kalitate oneko ibaiko ur-masen proportzioa",
                 ""
               ]
             },
