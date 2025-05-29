@@ -12992,7 +12992,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PH",
+                "pH-a",
                 ""
               ]
             },
