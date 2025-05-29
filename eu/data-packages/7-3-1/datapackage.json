@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MJ_PER_GDP_CON_PPP_USD",
+                "PPAren USD konstantearen bidezko megajulioak (BPG)",
                 ""
               ]
             },

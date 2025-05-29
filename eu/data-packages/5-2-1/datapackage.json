@@ -324,7 +324,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_10000",
+                "10.000 biztanleko",
                 ""
               ]
             },

@@ -33,7 +33,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KT",
+                "Kilotonelatuak",
                 "T_PER_CAPITA",
                 "T_MILLON_EUR",
                 ""

@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KG_CO2_PER_GDP_EUR",
+                "Kg CO2 baliokide BPGd-ko",
                 ""
               ]
             },

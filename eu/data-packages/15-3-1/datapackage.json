@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "HA",
+                "Hektareak",
                 "PT",
                 ""
               ]

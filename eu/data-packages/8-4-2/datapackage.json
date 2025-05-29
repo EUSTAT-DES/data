@@ -33,9 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KT",
+                "Kilotonelatuak",
                 "T_PER_CAPITA",
-                "KG_PER_GDP_1000_EUR",
+                "Kg BPGd-ko euro bakoitzeko",
                 ""
               ]
             },

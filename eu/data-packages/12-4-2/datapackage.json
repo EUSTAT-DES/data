@@ -59,7 +59,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KG_PER_CAPITA",
+                "Kg per capita",
                 "PT",
                 ""
               ]

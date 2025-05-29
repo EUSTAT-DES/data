@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LITRES_PURE_ALCOHOL",
+                "Alkohol puruaren litroak",
                 ""
               ]
             },

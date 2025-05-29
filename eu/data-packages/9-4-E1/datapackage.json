@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "G_PER_GDP_EUR",
+                "Gramoa BPGaren euro bakoitzeko",
                 ""
               ]
             },

@@ -44,8 +44,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KG_PER_HA",
-                "KT",
+                "Kg hektareako",
+                "Kilotonelatuak",
                 ""
               ]
             },

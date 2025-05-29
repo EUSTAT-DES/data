@@ -45,8 +45,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ORGANISATIONS",
-                "LICENCES",
+                "Erakundeak",
+                "Lizentziak",
                 ""
               ]
             },
