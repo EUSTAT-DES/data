@@ -13,47 +13,47 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Número de investigadores (en equivalente a tiempo completo) por cada millón de habitantes",
+                "GB_POP_SCIERD",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Por millón de habitantes",
+                "PER_1000000_POP",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

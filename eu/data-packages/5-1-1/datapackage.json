@@ -13,37 +13,37 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area 1: marco legal global y vida pública",
-                "Area 2: violencia contra la mujer",
-                "Area 3: empleo y subsidios económicos",
-                "Area 4: matrimonio y familia",
+                "SG_LGL_GENEQLFP",
+                "SG_LGL_GENEQVAW",
+                "SG_LGL_GENEQEMP",
+                "SG_LGL_GENEQMAR",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

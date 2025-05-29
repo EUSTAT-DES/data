@@ -13,47 +13,47 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción del PIB generada por el trabajo",
+                "SL_EMP_GTOTL",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

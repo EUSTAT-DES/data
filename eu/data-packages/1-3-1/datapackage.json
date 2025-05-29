@@ -13,60 +13,60 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de personas desempleadas que reciben prestaciones por desempleo",
-                "Proporción de la población que supera la edad legal de jubilación y recibe una pensión",
+                "SI_COV_UEMP",
+                "SI_COV_PENSN",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sexua"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

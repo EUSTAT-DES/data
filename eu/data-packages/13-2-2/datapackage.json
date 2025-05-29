@@ -13,41 +13,41 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Emisiones totales de gases de efecto invernadero por año",
-                "Emisiones totales de gases de efecto invernadero por unidad de PIB",
-                "Emisiones totales de gases de efecto invernadero per cápita",
-                "Emisiones de gases de efecto invernadero respecto al año 1990",
-                "Emisiones de gases de efecto invernadero respecto al año 2005",
+                "EN_ATM_GHGT_AIP",
+                "EN_ATM_GHGGDP",
+                "EN_ATM_GHGPC",
+                "EU_GHG_TV1990",
+                "EU_GHG_TV2005",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Toneladas de CO2 - equivalente",
-                "Kg de CO2 equivalente por euro de PIB",
-                "Toneladas de CO2 equivalente per cápita",
-                "Porcentaje",
+                "TCO2E",
+                "KG_CO2_PER_GDP_EUR",
+                "T_CO2_PER_CAPITA",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

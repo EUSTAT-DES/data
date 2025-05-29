@@ -13,45 +13,45 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción del valor añadido por la industria de tecnología mediana y alta en el valor añadido total",
+                "NV_IND_TECH",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Actividad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Manufactura",
+                "Manufaktura",
                 ""
               ]
             },
-            "title": "Actividad económica"
+            "title": "Jarduera ekonomikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

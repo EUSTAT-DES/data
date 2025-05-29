@@ -13,46 +13,46 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Tasa de finalización (educación secundaria inferior y educación secundaria superior)",
+                "SE_TOT_CPLR",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Educacion",
             "type": "string",
             "constraints": {
               "enum": [
-                "Secundaria inferior",
-                "Secundaria superior",
+                "Bigarren hezkuntzako lehenengo etapa",
+                "Bigarren hezkuntzako bigarren etapa",
                 ""
               ]
             },
-            "title": "Nivel educativo"
+            "title": "Hezkuntza-maila"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

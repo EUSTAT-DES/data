@@ -13,36 +13,36 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Administracion",
             "type": "string",
             "constraints": {
               "enum": [
-                "Administración autonómica y local",
-                "Administración autonómica",
-                "Administración local",
+                "Administrazio autonomikoa eta tokikoa",
+                "Administrazio autonomikoa",
+                "Toki-administrazioa",
                 ""
               ]
             },
-            "title": "Administración pública"
+            "title": "Administrazio publikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Euro per cápita",
+                "EUR_PER_CAPITA",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

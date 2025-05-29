@@ -13,52 +13,52 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Superficie de las áreas terrestres protegidas (Km2)",
-                "Proporción de la superficie terrestre protegida respecto a la superficie terrestre",
+                "EU_SDG_15_20_KM2",
+                "EU_SDG_15_20_PT",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Ecosistema",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bosques",
-                "Humedales",
-                "Pastizales",
-                "Tierras de cultivo",
-                "Asentamientos",
-                "Otras tierras",
+                "Basoak",
+                "Hezeguneak",
+                "Larreak",
+                "Laborantza-lurrak",
+                "Asentamenduak",
+                "Beste lur batzuk",
                 ""
               ]
             },
-            "title": "Ecosistema"
+            "title": "Ekosistema"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilómetros cuadrados",
-                "Porcentaje",
+                "KM2",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

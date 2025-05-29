@@ -13,52 +13,52 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Institucion",
             "type": "string",
             "constraints": {
               "enum": [
-                "Electas en parlamento autonómico",
-                "Departamentos en el gobierno autonómico",
-                "Departamentos en gobiernos forales",
-                "Electas en Juntas Generales",
-                "Alcaldías",
-                "Concejalías",
+                "Legebiltzar autonomikoko hautetsiak",
+                "Sailburuak gobernu autonomikoan",
+                "Foru-gobernuetako sailburuak",
+                "Batzar Nagusietako hautetsiak",
+                "Alkatetzak",
+                "Zinegotziak",
                 ""
               ]
             },
-            "title": "Institución"
+            "title": "Erakundea"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

@@ -13,38 +13,38 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Explotacion",
             "type": "string",
             "constraints": {
               "enum": [
-                "Trabajo forzado, servidumbre y esclavitud",
-                "Obtención de órganos",
-                "Trata de personas (todos los fines)",
-                "Explotación sexual",
-                "Otros fines",
+                "Lan behartua, morrontza eta esklabotza",
+                "Organoak lortzea",
+                "Pertsonen salerosketa (helburu guztiak)",
+                "Sexu-esplotazioa",
+                "Beste helburu batzuk",
                 ""
               ]
             },
-            "title": "Tipo de explotación"
+            "title": "Ustiategi mota"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Por 100.000",
+                "PER_100000",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

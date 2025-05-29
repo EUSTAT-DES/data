@@ -13,50 +13,50 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Velocidad",
             "type": "string",
             "constraints": {
               "enum": [
-                "DSL",
-                "Fibra óptica (FTTH)",
-                "Híbrido de Fibra Coaxial (HFC)",
-                "Otra tecnología",
+                "NET_DSL",
+                "NET_FTTH",
+                "NET_HFC",
+                "NET_OTHER",
                 ""
               ]
             },
-            "title": "Tecnología de acceso"
+            "title": "Teknologia"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Por 100 personas",
+                "PER_100_POP",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

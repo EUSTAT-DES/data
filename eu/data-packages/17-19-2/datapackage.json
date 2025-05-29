@@ -13,35 +13,35 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Se ha realizado al menos un censo de población y vivienda en los últimos diez años",
-                "Se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones",
+                "SG_REG_CENSUSN",
+                "SG_REG_BRTH100N",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Lógica (1=Sí, 0=No)",
+                "BOOL_YES_NO",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

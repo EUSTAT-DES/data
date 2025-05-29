@@ -13,23 +13,23 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Megajulios por USD constante de PPA (PIB)",
+                "MJ_PER_GDP_CON_PPP_USD",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

@@ -1,13 +1,13 @@
 Year,Series,Units,Value
-2014,Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores,Porcentaje,100.0
-2018,Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores,Porcentaje,100.0
-2018,Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada,Porcentaje,80.0
-2012,Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores,Porcentaje,100.0
-2020,Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores,Porcentaje,100.0
-2012,Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada,Porcentaje,74.0
-2016,Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores,Porcentaje,100.0
-2016,Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada,Porcentaje,76.3
-2022,Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada,Porcentaje,79.4
-2020,Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada,Porcentaje,80.8
-2014,Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada,Porcentaje,77.5
-2022,Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores,Porcentaje,99.9
+2014,EU_WWT_COLECT,PT,100.0
+2018,EU_WWT_COLECT,PT,100.0
+2018,EN_WWT_WWDS,PT,80.0
+2012,EU_WWT_COLECT,PT,100.0
+2020,EU_WWT_COLECT,PT,100.0
+2012,EN_WWT_WWDS,PT,74.0
+2016,EU_WWT_COLECT,PT,100.0
+2016,EN_WWT_WWDS,PT,76.3
+2022,EN_WWT_WWDS,PT,79.4
+2020,EN_WWT_WWDS,PT,80.8
+2014,EN_WWT_WWDS,PT,77.5
+2022,EU_WWT_COLECT,PT,99.9

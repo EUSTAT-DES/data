@@ -13,35 +13,35 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Gasto",
             "type": "string",
             "constraints": {
               "enum": [
-                "Superiores al 25%",
-                "Superiores al 10%",
+                "% 25etik gorakoak",
+                "% 10etik gorakoak",
                 ""
               ]
             },
-            "title": "Gasto"
+            "title": "Gastua"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

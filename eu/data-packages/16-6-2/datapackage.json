@@ -13,67 +13,67 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "ServPub",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enseñanza",
-                "Asistencia sanitaria",
-                "Gestión de pensiones",
-                "Administración de justicia",
-                "Seguridad ciudadana",
-                "Servicios sociales",
-                "Transporte público",
-                "Obras públicas",
-                "Ayuda a personas dependientes",
+                "EU_PSR_SATIS_EDU",
+                "SP_PSR_SATIS_HLTH",
+                "EU_PSR_SATIS_PENSN",
+                "EU_PSR_SATIS_JUST",
+                "EU_PSR_SATIS_SEC",
+                "EU_PSR_SATIS_SOCSERV",
+                "EU_PSR_SATIS_TRANSPORT",
+                "EU_PSR_SATIS_OBRA",
+                "EU_PSR_SATIS_DPDNT",
                 ""
               ]
             },
-            "title": "Servicios públicos"
+            "title": "Zerbitzu publikoak"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sexua"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

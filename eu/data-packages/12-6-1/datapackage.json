@@ -13,49 +13,49 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental (EMAS)",
-                "Número de licencias de Ecolabel (Etiqueta Ecológica Europea )",
+                "EU_EMAS",
+                "EU_ECOLABEL",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Organizaciones",
-                "Licencias",
+                "ORGANISATIONS",
+                "LICENCES",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

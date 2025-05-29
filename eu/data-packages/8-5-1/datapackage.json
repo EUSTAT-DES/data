@@ -13,60 +13,60 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ingreso medio por hora",
-                "Brecha de género en el salario medio por hora",
+                "SL_EMP_EARN",
+                "EU_GENDERPAY_GAP",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sexua"
           },
           {
             "name": "Discapacidad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Persona sin discapacidad",
-                "Persona con discapacidad",
+                "Desgaitasunik gabeko pertsona",
+                "Desgaitasuna duen pertsona",
                 ""
               ]
             },
-            "title": "Personas sin y con discapacidad"
+            "title": "Desgaitasunik ez duten pertsonak"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Euros",
-                "Porcentaje",
+                "EUR",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

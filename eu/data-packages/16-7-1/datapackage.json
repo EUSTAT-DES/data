@@ -13,72 +13,72 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de mujeres en el parlamento en relación con la proporción de mujeres en la población",
-                "Proporción de mujeres en la administración pública en relación con la proporción de mujeres en la población",
-                "Proporción de mujeres en el poder judicial en relación con la proporción de mujeres en la población",
+                "SG_DMK_PARLMP_LC",
+                "SG_DMK_PSRVC",
+                "SG_DMK_JDC",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Institucion",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sector público autonómico",
-                "Sector público local",
-                "Sector público estatal",
-                "Instituciones sanitarias autonómicas",
-                "Centros educativos no universitarios autonómicos",
-                "Diputaciones forales",
-                "Ayuntamientos",
-                "Universidades",
-                "Policía autonómica",
-                "Administración de Justicia autonómica",
-                "Administración de Justicia del Estado",
-                "Fuerzas y cuerpos de seguridad del Estado",
-                "Fuerzas armadas",
+                "Sektore publiko autonomikoa",
+                "Tokiko sektore publikoa",
+                "Estatuko sektore publikoa",
+                "Erakunde sanitario autonomikoak",
+                "Unibertsitateaz kanpoko ikastetxe autonomikoak",
+                "Foru-aldundiak",
+                "Udalak",
+                "Unibertsitateak",
+                "Polizia autonomikoa",
+                "Justizia Administrazio autonomikoa",
+                "Estatuko Justizia Administrazioa",
+                "Estatuko segurtasun-indar eta -kidegoak",
+                "Indar armatuak",
                 ""
               ]
             },
-            "title": "Institución"
+            "title": "Erakundea"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ratio",
+                "RO",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

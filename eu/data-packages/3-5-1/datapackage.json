@@ -13,48 +13,48 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Adiccion",
             "type": "string",
             "constraints": {
               "enum": [
-                "Todas las sustancias adictivas",
-                "Alcohol",
-                "Drogas ilegales",
+                "Adikzio-substantzia guztiak",
+                "Alkohola",
+                "Legez kanpoko drogak",
                 ""
               ]
             },
-            "title": "Sustancia adictiva"
+            "title": "Substantzia adiktiboa"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mujer",
-                "Hombre",
+                "F",
+                "M",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sexua"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Por 100.000",
+                "PER_100000",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

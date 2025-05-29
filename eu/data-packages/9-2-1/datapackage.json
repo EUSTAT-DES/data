@@ -13,49 +13,49 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Valor añadido del sector manufacturo en proporción al PIB",
-                "Valor añadido del sector manufacturo per cápita",
+                "NV_IND_MANF",
+                "NV_IND_MANFPC",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Gipuzkoa",
-                "Bizkaia",
+                "ES211",
+                "ES212",
+                "ES213",
                 ""
               ]
             },
-            "title": "Territorio histórico"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
-                "Euro per cápita",
+                "PT",
+                "EUR_PER_CAPITA",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }

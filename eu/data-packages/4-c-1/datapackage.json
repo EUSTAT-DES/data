@@ -13,48 +13,48 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Año"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de docentes con las calificaciones mínimas requeridas, desglosada por nivel educativo",
+                "SE_TRA_GRDL",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Educacion",
             "type": "string",
             "constraints": {
               "enum": [
-                "Preescolar",
-                "Primaria",
-                "Secundaria inferior",
-                "Secundaria superior",
+                "Eskolaurrea",
+                "Lehen hezkuntza",
+                "Bigarren hezkuntzako lehenengo etapa",
+                "Bigarren hezkuntzako bigarren etapa",
                 ""
               ]
             },
-            "title": "Nivel educativo"
+            "title": "Hezkuntza-maila"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "PT",
                 ""
               ]
             },
-            "title": "Unidad"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Balioa"
           }
         ]
       }
