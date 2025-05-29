@@ -530,9 +530,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TCO2E",
+                "CO2 tonak - baliokidea",
                 "Kg CO2 baliokide BPGd-ko",
-                "T_CO2_PER_CAPITA",
+                "Biztanle bakoitzeko CO2 baliokidearen tonak",
                 "PT",
                 ""
               ]
@@ -1042,7 +1042,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "W_PER_CAPITA",
+                "Watts per capita",
                 ""
               ]
             },
@@ -6960,7 +6960,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "W_PER_CAPITA",
+                "Watts per capita",
                 ""
               ]
             },
@@ -12704,7 +12704,7 @@
             "constraints": {
               "enum": [
                 "Kilotonelatuak",
-                "T_PER_CAPITA",
+                "Tonak per capita",
                 "Kg BPGd-ko euro bakoitzeko",
                 ""
               ]
@@ -12814,7 +12814,7 @@
             "constraints": {
               "enum": [
                 "Kilotonelatuak",
-                "T_PER_CAPITA",
+                "Tonak per capita",
                 "T_MILLON_EUR",
                 ""
               ]

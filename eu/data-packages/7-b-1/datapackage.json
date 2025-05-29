@@ -338,7 +338,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "W_PER_CAPITA",
+                "Watts per capita",
                 ""
               ]
             },

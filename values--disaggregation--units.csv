@@ -33,9 +33,9 @@ PH,pH,PH,PH,1,1
 PP,Puntos porcentuales,PP,PP,12,1
 PT,Porcentaje,PT,PT,6123,97
 RO,Ratio,RO,RO,72,2
-T_CO2_PER_CAPITA,Toneladas de CO2 equivalente per cápita,T_CO2_PER_CAPITA,T_CO2_PER_CAPITA,1,1
+T_CO2_PER_CAPITA,Toneladas de CO2 equivalente per cápita,Biztanle bakoitzeko CO2 baliokidearen tonak,T_CO2_PER_CAPITA,1,1
 T_MILLON_EUR,T_MILLON_EUR,T_MILLON_EUR,T_MILLON_EUR,1,1
-T_PER_CAPITA,Toneladas per cápita,T_PER_CAPITA,T_PER_CAPITA,2,2
-TCO2E,Toneladas de CO2 - equivalente,TCO2E,TCO2E,1,1
-W_PER_CAPITA,Watts per cápita,W_PER_CAPITA,W_PER_CAPITA,2750,2
+T_PER_CAPITA,Toneladas per cápita,Tonak per capita,T_PER_CAPITA,2,2
+TCO2E,Toneladas de CO2 - equivalente,CO2 tonak - baliokidea,TCO2E,1,1
+W_PER_CAPITA,Watts per cápita,Watts per capita,W_PER_CAPITA,2750,2
 YR,Años,Urteak,YR,20,1

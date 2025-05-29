@@ -35,9 +35,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TCO2E",
+                "CO2 tonak - baliokidea",
                 "Kg CO2 baliokide BPGd-ko",
-                "T_CO2_PER_CAPITA",
+                "Biztanle bakoitzeko CO2 baliokidearen tonak",
                 "PT",
                 ""
               ]
