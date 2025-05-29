@@ -57,7 +57,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "YR",
+                "Urteak",
                 ""
               ]
             },

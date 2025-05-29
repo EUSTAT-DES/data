@@ -20,10 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_ACS_DTP3",
-                "SH_ACS_PCV3",
-                "SH_ACS_MCV2",
-                "SH_ACS_HPV",
+                "Difteriaren, tetanosaren eta kukutxeztula haurrengan",
+                "Gaixotasun pneumokozikoa haurrengan",
+                "Elgorria, parotiditis eta errubeola haurrengan",
+                "Giza papiloma (GPB ) nerabeetan",
                 ""
               ]
             },
