@@ -113,7 +113,9 @@ SI_AGR_SSFP,Ingresos medios de los pequeños productores de alimentos,Elikagaien
 SI_COV_PENSN,Proporción de la población que supera la edad legal de jubilación y recibe una pensión,Erretirorako legezko adina gainditu eta pentsioa jasotzen duten biztanleen proportzioa,SI_COV_PENSN,12,1
 SI_COV_UEMP,Proporción de personas desempleadas que reciben prestaciones por desempleo,Langabezia-prestazioak jasotzen dituzten langabeen proportzioa,SI_COV_UEMP,12,1
 SL_EMP_EARN,Ingreso medio por hora ,Orduko batez besteko diru-sarrera,SL_EMP_EARN,5,1
+SL_EMP_FTLINJUR,SL_EMP_FTLINJUR,SL_EMP_FTLINJUR,SL_EMP_FTLINJUR,12,1
 SL_EMP_GTOTL,Proporción del PIB generada por el trabajo,Lanak sortutako BPGren proportzioa,SL_EMP_GTOTL,4,1
+SL_EMP_INJUR,SL_EMP_INJUR,SL_EMP_INJUR,SL_EMP_INJUR,12,1
 SL_TLF_NEET_19ICLS,"Proporción de jóvenes  que no cursan estudios, no están empleados ni reciben capacitación","Ikasten ez duten, enplegatuta ez dauden eta gaikuntzarik jasotzen ez duten gazteen proportzioa",SL_TLF_NEET_19ICLS,12,1
 SL_TLF_UEM,Tasa de desempleo,Langabezia-tasa,SL_TLF_UEM,4,1
 SP_ACS_BSRVH2O,Proporción de viviendas con agua corriente,Edateko ura duten etxebizitzen proportzioa,SP_ACS_BSRVH2O,550,2

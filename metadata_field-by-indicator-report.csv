@@ -10,7 +10,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #1-5-3,complete,alcanzado,,line
 #1-5-4,complete,alcanzado,True,line
 #1-a-1,notapplicable,notapplicable,,line
-#1-a-2,complete,noevaluado,,bar
+#1-a-2,complete,noevaluado,,line
 #1-b-1,notstarted,notstarted,,line
 #10-1-1,complete,retroceso,,line
 #10-2-1,complete,progreso,,line
@@ -240,7 +240,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #8-5-E1,complete,progreso,True,line
 #8-6-1,complete,progreso,,line
 #8-7-1,notstarted,notstarted,,line
-#8-8-1,notstarted,notstarted,,line
+#8-8-1,complete,progreso,,line
 #8-8-2,notstarted,notstarted,,line
 #8-9-1,complete,noevaluado,,line
 #8-9-2,notstarted,,,line
