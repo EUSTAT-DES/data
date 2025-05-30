@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Porcentaje",
                 "Milioi eurotan",
                 ""
               ]

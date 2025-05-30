@@ -1,7 +1,7 @@
 Year,Series,Gaixotasun ez-kutsakorra,Sexua,Lurralde historikoa,Eskualdea,Udalerria,Units,GeoCode,Value
 2023,Heriotza-tasa,Diabetesa,,,,,100.000 biztanleko,,21.7
 2015,Heriotza-tasa,Minbizia,,,,,100.000 biztanleko,,284.0
-2019,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",,,,,PT,,9.6
+2019,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",,,,,Porcentaje,,9.6
 2023,Heriotza-tasa,"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",,,,,100.000 biztanleko,,612.8
 2020,Heriotza-tasa,Gaixotasun kardiobaskularrak,,,,,100.000 biztanleko,,255.5
 2019,Heriotza-tasa,Gaixotasun kardiobaskularrak,,,,,100.000 biztanleko,,256.3
@@ -42,9 +42,9 @@ Year,Series,Gaixotasun ez-kutsakorra,Sexua,Lurralde historikoa,Eskualdea,Udalerr
 2012,Heriotza-tasa,Gaixotasun kardiobaskularrak,,,,,100.000 biztanleko,,263.2
 2021,Heriotza-tasa,Minbizia,,,,,100.000 biztanleko,,276.7
 2018,Heriotza-tasa,Gaixotasun kardiobaskularrak,,,,,100.000 biztanleko,,265.0
-2015,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",,,,,PT,,10.3
+2015,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",,,,,Porcentaje,,10.3
 2015,Heriotza-tasa,Diabetesa,,,,,100.000 biztanleko,,22.2
-2010,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",,,,,PT,,11.0
+2010,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",,,,,Porcentaje,,11.0
 2018,Heriotza-tasa,Arnas gaixotasun kronikoak,,,,,100.000 biztanleko,,81.7
 2013,Heriotza-tasa,"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",,,,,100.000 biztanleko,,613.0
 2013,Heriotza-tasa,Diabetesa,,,,,100.000 biztanleko,,23.2
@@ -296,7 +296,7 @@ Year,Series,Gaixotasun ez-kutsakorra,Sexua,Lurralde historikoa,Eskualdea,Udalerr
 2022,Heriotza-tasa,Minbizia,Emakumea,,,,100.000 biztanleko,,228.0
 2010,Heriotza-tasa,Gaixotasun kardiobaskularrak,Emakumea,,,,100.000 biztanleko,,262.6
 2011,Heriotza-tasa,Diabetesa,Emakumea,,,,100.000 biztanleko,,24.5
-2019,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Emakumea,,,,PT,,6.5
+2019,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Emakumea,,,,Porcentaje,,6.5
 2020,Heriotza-tasa,"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Emakumea,,,,100.000 biztanleko,,550.5
 2010,Heriotza-tasa,Minbizia,Emakumea,,,,100.000 biztanleko,,195.2
 2014,Heriotza-tasa,"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Emakumea,,,,100.000 biztanleko,,556.0
@@ -305,7 +305,7 @@ Year,Series,Gaixotasun ez-kutsakorra,Sexua,Lurralde historikoa,Eskualdea,Udalerr
 2012,Heriotza-tasa,Gaixotasun kardiobaskularrak,Emakumea,,,,100.000 biztanleko,,275.6
 2013,Heriotza-tasa,"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Emakumea,,,,100.000 biztanleko,,538.5
 2021,Heriotza-tasa,Diabetesa,Emakumea,,,,100.000 biztanleko,,23.1
-2015,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Emakumea,,,,PT,,6.6
+2015,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Emakumea,,,,Porcentaje,,6.6
 2013,Heriotza-tasa,Gaixotasun kardiobaskularrak,Emakumea,,,,100.000 biztanleko,,252.4
 2014,Heriotza-tasa,Diabetesa,Emakumea,,,,100.000 biztanleko,,22.4
 2019,Heriotza-tasa,"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Emakumea,,,,100.000 biztanleko,,567.0
@@ -322,7 +322,7 @@ Year,Series,Gaixotasun ez-kutsakorra,Sexua,Lurralde historikoa,Eskualdea,Udalerr
 2017,Heriotza-tasa,Diabetesa,Emakumea,,,,100.000 biztanleko,,18.5
 2022,Heriotza-tasa,"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Emakumea,,,,100.000 biztanleko,,573.5
 2021,Heriotza-tasa,"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Emakumea,,,,100.000 biztanleko,,566.5
-2010,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Emakumea,,,,PT,,6.7
+2010,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Emakumea,,,,Porcentaje,,6.7
 2012,Heriotza-tasa,Arnas gaixotasun kronikoak,Emakumea,,,,100.000 biztanleko,,60.5
 2016,Heriotza-tasa,"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Emakumea,,,,100.000 biztanleko,,572.1
 2018,Heriotza-tasa,"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Emakumea,,,,100.000 biztanleko,,580.4
@@ -612,12 +612,12 @@ Year,Series,Gaixotasun ez-kutsakorra,Sexua,Lurralde historikoa,Eskualdea,Udalerr
 2010,Heriotza-tasa,Minbizia,Gizona,,,,100.000 biztanleko,,343.2
 2013,Heriotza-tasa,Minbizia,Gizona,,,,100.000 biztanleko,,348.9
 2012,Heriotza-tasa,Gaixotasun kardiobaskularrak,Gizona,,,,100.000 biztanleko,,249.9
-2015,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Gizona,,,,PT,,14.0
+2015,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Gizona,,,,Porcentaje,,14.0
 2016,Heriotza-tasa,"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Gizona,,,,100.000 biztanleko,,714.0
 2020,Heriotza-tasa,Gaixotasun kardiobaskularrak,Gizona,,,,100.000 biztanleko,,243.3
 2014,Heriotza-tasa,Arnas gaixotasun kronikoak,Gizona,,,,100.000 biztanleko,,77.9
 2021,Heriotza-tasa,Gaixotasun kardiobaskularrak,Gizona,,,,100.000 biztanleko,,260.7
-2019,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Gizona,,,,PT,,12.8
+2019,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Gizona,,,,Porcentaje,,12.8
 2015,Heriotza-tasa,Minbizia,Gizona,,,,100.000 biztanleko,,353.1
 2019,Heriotza-tasa,Diabetesa,Gizona,,,,100.000 biztanleko,,18.4
 2010,Heriotza-tasa,Diabetesa,Gizona,,,,100.000 biztanleko,,20.9
@@ -628,7 +628,7 @@ Year,Series,Gaixotasun ez-kutsakorra,Sexua,Lurralde historikoa,Eskualdea,Udalerr
 2022,Heriotza-tasa,Arnas gaixotasun kronikoak,Gizona,,,,100.000 biztanleko,,67.2
 2022,Heriotza-tasa,Minbizia,Gizona,,,,100.000 biztanleko,,340.1
 2013,Heriotza-tasa,"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Gizona,,,,100.000 biztanleko,,691.4
-2010,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Gizona,,,,PT,,15.4
+2010,Hilkortasun goiztiarraren tasa (30-70 urte),"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa",Gizona,,,,Porcentaje,,15.4
 2013,Heriotza-tasa,Gaixotasun kardiobaskularrak,Gizona,,,,100.000 biztanleko,,244.5
 2013,Heriotza-tasa,Arnas gaixotasun kronikoak,Gizona,,,,100.000 biztanleko,,78.8
 2019,Heriotza-tasa,Minbizia,Gizona,,,,100.000 biztanleko,,343.8
