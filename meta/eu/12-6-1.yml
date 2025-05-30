@@ -8,8 +8,8 @@ meta_global: meta_largo.12-6-titulo
 #  indicador_onu_global: indicador_largo.12-6-1-titulo
 
 definicion: >-
-  Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental 
-  (EMAS) y Número de licencias de Etiqueta Ecológica Europea (EU Ecolabel)
+  Ingurumen Kudeaketako eta Ikuskaritzako Sistema (EMAS) eta Europako Etiketa 
+  Ekologikoko lizentzia (EU Ecolabel) duten erakundeen kopurua 
 
 formula: |
 
@@ -25,7 +25,8 @@ formula: |
 
   $NLEEE_{t} $= Europako Etiketa Ekologikoko lizentzien kopurua $t$ urtean
 
-desagregacion: 
+desagregacion: |
+  Lurralde historikoa 
 
 observaciones: 
 
@@ -39,36 +40,35 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |
 
-  Si bien el sector privado tiene un papel fundamental que desempeñar en el logro de 
-  los ODS, la Meta 12.6 y el Indicador 12.6.1 son los únicos que monitorean específicamente 
-  las prácticas de las entidades del sector privado. 
+  Nahiz eta sektore pribatuak zeregin garrantzitsua duen GJHak lortzeko bidean, 12.6 xedea eta 
+  12.6.1 adierazlea dira sektore pribatuko erakundeen praktikak berariaz ikuskatzen dituzten 
+  bakarrak. 
 
-  El Indicador 12.6.1 cuenta el número de empresas que producen 
-  “informes de sostenibilidad”. El indicador 
-  es una oportunidad importante no solo para hacer el seguimiento y promover el crecimiento de 
-  los informes de sostenibilidad a nivel mundial, sino también para 
-  promover informes de alta calidad, promover la integración de información de 
-  sostenibilidad en el ciclo de informes anuales de las empresas y promover prácticas 
-  de sostenibilidad por parte de las empresas (como se menciona en la Meta en la que se 
-  enmarca el indicador).
+  12.6.1 adierazleak “jasangarritasun-txostenak” sortzen dituzten enpresen kopurua neurtzen du. 
+  Adierazle hau aukera garrantzitsua da ez soilik mundu-mailan jasangarritasun-txostenen jarraipena 
+  egin eta horien hazkundea sustatzeko, baizik eta baita ere kalitate altuko txostenak indartzeko, 
+  enpresen urteko txostenen zikloan jasangarritasun-informazioa sar dadila bultzatzeko eta enpresen 
+  aldetik jasangarritasun-praktikak sendotzeko (adierazle honi dagokion xedean aipatzen den bezala). 
 
-  EMAS es un instrumento voluntario de la Unión Europea que ayuda a organizaciones de cualquier tamaño y sector a 
-  mejorar continuamente su desempeño ambiental. Contar con la certificación EMAS no implica automáticamente 
-  que las organizaciones o sus productos sean más respetuosos con el medio ambiente que organizaciones y 
-  productos comparables. EMAS implica la obligación de informar a las organizaciones sobre sus principales 
-  impactos ambientales, así como datos relativos a la eficiencia energética y de materiales, las emisiones, 
-  el agua, los residuos y el uso del suelo/la biodiversidad. 
+  Europar Batasunaren tresna boluntarioa da EMAS, edozein tamaina eta sektoreko erakundeei beren 
+  ingurumen-jarduna etengabe hobetzen laguntzen diena. Alabaina, EMAS ziurtagiria edukitzeak ez 
+  du zuzenean esan nahi erakundeek edo beren produktuek gehiago errespetatzen dutenik ingurumena 
+  beste erakunde edo produktu batzuekin alderatuta. EMASek betebehar bat ezartzen du: erakundeei 
+  beren ingurumen-eragin nagusiei buruzko informazioa eta eraginkortasun energetikoari, materialei, 
+  emisioei, urari, hondakinei, eta lurzoruaren/biodibertsitatearen erabilerari buruzko datuak emateko 
+  betebeharra. 
 
-  La etiqueta ecológica de la UE es un sistema voluntario que promueve bienes y servicios que 
-  demuestran claramente una excelencia ambiental, basándose en procesos estandarizados y evidencia científica.
-  La Etiqueta Ecológica de la UE es el único sistema de ecoetiquetado ISO 14024 Tipo I a nivel de la UE. 
-  Reconocido en toda Europa, aplica múltiples criterios y aborda los principales impactos ambientales de 
-  los productos a lo largo de todo su ciclo de vida, desde la extracción de la materia prima hasta su 
-  eliminación. La Etiqueta Ecológica de la UE está verificada por terceros, lo que significa que 
-  expertos independientes son responsables de comprobar el cumplimiento de los criterios de la 
-  Etiqueta Ecológica.
+  EBren etiketa ekologikoa ingurumen-bikaintasuna argi eta garbi adierazten duten ondasun eta 
+  zerbitzuak sustatzen dituen sistema boluntario bat da, prozesu estandarizatuetan eta ebidentzia 
+  zientifikoan oinarritua. EBren etiketa ekologikoa ISO 14024 ekoetiketaren sistema bakarra da EB 
+  mailan (I mota). Espainia osoan aitortutako etiketa honek irizpide ugari aplikatzen ditu, eta 
+  produktuen ingurumen-eragin nagusiak jorratzen ditu beren bizi-ziklo osoan zehar, lehengaia 
+  erauzten denetik desegin arte. EBren etiketa ekologikoa hirugarrenek egiaztatuta dago. Beraz, 
+  aditu independenteak dira etiketa ekologikoaren irizpideak betetzen direla egiaztatzeko arduradunak. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas, Comisión Europea
+
+  Iturria: Nazio Batuen Estatistika Sekzioa, Europako Batzordea 
+
 
 comparabilidad: >-
   EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.

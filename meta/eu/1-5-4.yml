@@ -10,7 +10,7 @@ meta_global: meta_largo.1-5-titulo
 
 definicion: >-
   Larrialdietako lurralde-planen eta larrialdietako udal-planen bidez hondamendi-arriskua 
-  murrizteko tokiko estrategiak hartzen eta ezartzen dituzten tokiko gobernuen ehunekoa   
+  murrizteko tokiko estrategiak ezarri eta hartzen dituzten tokiko gobernuen ehunekoa 
 
 formula: |
   <b>Larrialdietarako udal-plana duten udalerrien ehunekoa</b>
@@ -21,7 +21,7 @@ formula: |
 
   $MUN_{udal\, HAM}^{t} =$ larrialdietarako udal-planak dituzten udalerrien kopurua, $t$ urtean
 
-  $MUN^{t} =$ udalerriak $t$ urtean
+  $MUN^{t} =$ udalerrien kopurua $t$ urtean
 
    <br>
 
@@ -33,11 +33,15 @@ formula: |
 
   $MUN_{lurralde\, HAM}^{t} =$ larrialdietarako lurralde-planak dituzten udalerrien kopurua, $t$ urtean
 
-  $MUN^{t} =$ udalerriak $t$ urtean
+  $MUN^{t} =$ udalerrien kopurua $t$ urtean
   
-desagregacion: 
+desagregacion: |
 
-  Lurralde historikoa/Eskualdea/Udalerria
+  Lurralde historikoa 
+
+  Eskualdea 
+  
+  Udalerria 
 
 
 observaciones: |

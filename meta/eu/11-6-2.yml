@@ -8,7 +8,8 @@ meta_global: meta_largo.11-6-titulo
 #  indicador_onu_global: indicador_largo.11-6-2-titulo
 
 definicion: >-
-  Concentración media de partículas en suspensión de tamaño inferior a 10 micras ($PM_{10}$) o 2,5 micras ($PM_{2,5}$) en los municipios de más de 50.000 habitantes ponderada según la población
+  10 mikratik ($PM_{10}$) edo 2,5 mikratik ($PM_{2,5}$) beherako partikula esekien kontzentrazioa 
+  50.000 biztanletik gorako udalerrietan, biztanleriaren arabera haztatua 
 
 formula: |
 
@@ -35,13 +36,14 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  La contaminación del aire está compuesta por numerosos contaminantes, entre ellos, 
-  partículas en suspensión. Estas partículas pueden penetrar profundamente en las vías 
-  respiratorias y, por lo tanto, constituyen un riesgo para la salud al 
-  aumentar la mortalidad por infecciones y enfermedades respiratorias, cáncer de 
-  pulmón y determinadas enfermedades cardiovasculares.
+  Airearen kutsadura hainbat kutsatzailek osatzen dute, besteak beste partikula esekiek. Partikula 
+  horiek sakon sar daitezke arnasbideetan, eta, beraz, arriskutsuak izan daitezke osasunerako, 
+  areagotu egiten baitute hiltzeko arriskua infekzio edo arnasketa-gaixotasunengatik, biriketako 
+  minbiziagatik edo gaixotasun kardiobaskular jakin batzuen ondorioz. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa
+
 
 comparabilidad: >-
   EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.

@@ -8,7 +8,7 @@ meta_global: meta_largo.11-7-titulo
 #  indicador_onu_global: indicador_largo.11-7-1-titulo
 
 definicion: >-
-  Proporción que representa la superficie construida de las ciudades destinada a espacios públicos abiertos (plazas, parques…) y calles respecto a la superficie total construida
+  Espazio publiko irekiak (plazak, parkeak...) eta kaleak izateko azalera eraikiaren proportzioa, azalera eraiki osoaren aldean 
 
 formula: |
 
@@ -20,7 +20,7 @@ formula: |
 
   $SC_{kaleak}^{t} =$ kaleetarako azalera eraikia $t$ urtean 
 
-  $SC^{t} =$ eraikitako azalera osoa $t$ urtean
+  $SC^{t} =$ azalera eriki osoa $t$ urtean
 
 desagregacion:
 
@@ -34,18 +34,19 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  El valor de los espacios públicos suele ser ignorado o subestimado por 
-  los responsables políticos, líderes, ciudadanos y promotores urbanos. 
-  Esto se debe a varias razones, como la falta de recursos, comprensión o 
-  capacidad para utilizar el espacio público como un sistema urbano completo 
-  y multifuncional. 
+  Espazio publikoen balioa askotan ez dute ezagutu ere egiten arduradun politiko, lider, herritar 
+  eta hiri-sustatzaileek edo gutxietsi egin ohi dute. Hainbat arrazoi daude horretarako, besteak 
+  beste: baliabide-falta, espazio publikoa funtzio anitzeko hiri-sistema oso gisa erabiltzeko 
+  ezintasuna, edo gaiaren gaineko ulermen kaskarra. 
 
-  A menudo, la falta de marcos propicios adecuados, la escasa voluntad política y 
-  la ausencia de mecanismos de participación ciudadana agravan la situación. 
-  Sin embargo, fundamentalmente, la falta de un indicador de medición global ha 
-  dificultado la apreciación local y global del valor de los espacios públicos.
+  Sarritan, esparru egokirik ez badago, borondate politikoa urria bada edo herritarren partaidetzarako 
+  mekanismoak falta badira, egoera larriagoa bihurtzen da. Hala ere, funtsean, neurketa orokorreko 
+  adierazle bat ez egotea kaltegarria da espazio publikoen balioa kontuan hartzea, tokian nahiz 
+  orokorrean. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 comparabilidad: >-
   EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.

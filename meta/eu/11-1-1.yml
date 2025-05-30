@@ -9,13 +9,14 @@ meta_global: meta_largo.11-1-titulo
 
 
 definicion: >- 
-  Proporción de personas que en sus viviendas tienen determinadas deficiencias:
+  Beren etxebizitzetan gabezia jakin batzuk dituzten pertsonen kopurua:
 
-   - problemas de humedad (techo con goteras; paredes, suelos, techos o cimientos con humedad, o podredumbre en marcos de ventanas, puertas o suelo)
-   - vivienda sin retrete o bañera/ducha
-   - superficie inferior al número de miembros por 20 metros cuadrados
-   - problemas de exposición a ruidos y contaminación 
-   - vivienda oscura, sin luz suficiente, o escasez de luz natural
+    - hezetasun-arazoak (itoginak sabaian; hezetasuna horma, zoru, sabai edo zimenduetan; edo leiho-marko, ate edo zoru ustelak)
+    - komunik edo bainuontzirik/dutxarik gabeko etxebizitza
+    - kide-kopurua baino azalera txikiagoa 20 metro karratuko
+    - zaraten eta kutsaduraren eraginaren ziozko arazoak
+    - etxebizitza iluna, argi nahikorik gabea,  edo argi natural urrikoa
+
 
 formula: |
 
@@ -23,7 +24,7 @@ formula: |
 
   non: 
 
-  $PDV^{t} =$ etxebizitzaren baldintzetan gabezia jakin bat duen biztanleria $t$ urtean 
+  $PDV^{t} =$ etxebizitzan gabezia jakin bat duen biztanleria $t$ urtean 
 
   $P^{t} =$ biztanleria $t$ urtean
 
@@ -42,18 +43,19 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  La naturaleza del sector de la vivienda, con sus instituciones, leyes y reglamentos, 
-  afecta a todos los aspectos de la economía de un país y tiene interrelación con 
-  prácticamente todos los sectores del desarrollo social. 
+  Etxebizitzaren sektorearen izaerak, bere instituzio, lege eta erregelamenduekin, herri baten 
+  ekonomiaren alderdi guztietan du eragina. Halaber, gizarte-garapeneko sektore ia guztiekin 
+  lotuta dago. 
 
-  Las personas que viven en viviendas adecuadas tienen mejor salud, mayores posibilidades 
-  de mejorar su capital humano y aprovechar las oportunidades disponibles en los contextos 
-  urbanos. Al mismo tiempo, un sector de la vivienda que funciona bien actúa como un 
-  "multiplicador del desarrollo" que beneficia a las industrias complementarias, 
-  contribuyendo al desarrollo económico, la generación de empleo, la prestación de 
-  servicios y la reducción general de la pobreza.
+  Etxebizitza egokietan bizi diren pertsonek aukera gehiago dute osasun hobea izateko, beren 
+  giza kapitala hobetzeko eta hiri-inguruetan dauden aukerak aprobetxatzeko. Era berean, etxebizitzaren 
+  sektoreak ondo funtzionatzen badu, “garapena biderkatzen” du, onurak sortuz industria osagarrietan, 
+  eta, beraz, ekarpenak eginez garapen ekonomikoan, enpleguaren sorreran, zerbitzuetan eta pobreziaren 
+  murrizketa orokorrean. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
 

@@ -8,9 +8,9 @@ meta_global: meta_largo.12-5-titulo
 #  indicador_onu_global: indicador_largo.12-5-1-titulo
 
 definicion: >-
-  Proporción de residuos urbanos reciclados respecto del total de residuos urbanos 
-  generados y tratados procedentes de los hogares y del sector servicios (comercios, 
-  oficinas e instituciones públicas o privadas), cuya gestión es asumida por las entidades locales
+  Birziklatutako udal-hondakinen proportzioa, etxeetan eta zerbitzuen sektorean (dendak, bulegoak 
+  eta erakunde publiko edo pribatuak) sortutako eta tratatutako udal-hondakinen guztizkoarekin 
+  alderatuta, betiere haien kudeaketa toki-erakundeen ardura bada 
 
 formula: |
 
@@ -37,16 +37,17 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  Minimizar la generación de residuos y maximizar su reciclaje es fundamental para el 
-  concepto de economía circular. Sin embargo, actualmente, se estima que la cantidad 
-  total de materiales producidos que se reciclan es baja (según la literatura académica). 
+  Hondakinen sorrera murriztu eta birziklapena areagotzea funtsezkoa da ekonomia zirkularraren 
+  kontzeptuan. Hala ere, gaur egun kalkulatuta dago oso material gutxi birziklatzen da 
+  (literatura akademikoaren arabera). 
 
-  Si los países comprenden mejor cómo se generan, recolectan y reciclan los residuos, 
-  esto les permitirá a los países y a otras partes interesadas determinar mejor cómo 
-  abordar los principales flujos de residuos, por ejemplo, los desechos electrónicos 
-  o el plástico.
+  Herrialde bakoitzak hobeto ulertzen badu nola sortzen, biltzen eta birziklatzen diren 
+  hondakinak, bai herrialde bakoitzak bai beste alderdi interesdun batzuek hobeto zehaztuko 
+  dute nola jorratu hondakin-fluxu handiak (adibidez, hondakin elektronikoak edo plastikoa). 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 comparabilidad: >-
   EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.

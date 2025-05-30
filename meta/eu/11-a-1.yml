@@ -8,10 +8,11 @@ meta_global: meta_largo.11-a-titulo
 #  indicador_onu_global: indicador_largo.11-a-1-titulo
 
 definicion: |
-  Este indicador se compone de dos series temporales:
+  Adierazle honek bi denbora-serie ditu: 
 
-  - Proporción de la población residente en municipios que cuentan con un plan de ordenación territorial
-  - Proporción de la población residente en municipios que disponen de plan general o normas subsidiarias de planeamiento urbanístico
+  - Lurralde-antolamenduko plan bat duten udalerrietan bizi diren biztanleen proportzioa
+  - Hiri-plangintzako arau subsidiarioak edo plan orokorrak dituzten udalerrietan bizi diren biztanleen proportzioa
+
 
 formula: |
 
@@ -51,29 +52,25 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  Este indicador se basa en la noción de que el desarrollo y la implementación de 
-  las Políticas Urbanas Nacionales deben apoyar la participación, la asociación, la 
-  cooperación y la coordinación de los actores, así como facilitar el diálogo. Las Políticas 
-  Urbanas Nacionales (PNU) y los Planes de Desarrollo Regional (PDR) promueven un 
-  desarrollo urbano coordinado y conectado. Un esfuerzo coordinado del 
-  gobierno a través de una PNU o un PDR brinda la mejor oportunidad para 
-  lograr una urbanización sostenible y un desarrollo territorial equilibrado al 
-  vincular las políticas sectoriales, conectar las políticas gubernamentales 
-  nacionales, regionales y locales, y fortalecer los vínculos urbanos, 
-  periurbanos y rurales a través de un desarrollo territorial equilibrado.
+  Adierazle honen abiapuntua da hiri-politika nazionalen garapenak eta ezarpenak babestu egin behar dutela 
+  eragileen partaidetza, elkartegintza, elkarlana eta koordinazioa, bai eta elkarrizketa sustatu ere. Hiri 
+  Politika Nazionalek (HPN) eta Eskualde Garapeneko Planek (EGP) hiri-garapen koordinatu eta konektatua 
+  sustatzen dute. Gobernuak ahaleginak koordinatuz gero; HPN edo EGP bidez, esaterako, abagune ezin hobea 
+  izango genuke urbanizazio jasangarria eta lurralde-garapen orekatua lortzeko, zergatik eta politika sektorialak 
+  lotu, nazio, eskualde eta tokiko politikak konektatu, eta hiriko, hiri-inguruko eta landako loturak indartzen 
+  direlako hala, lurralde-garapen orekatuaren bidez. 
 
-  Este indicador proporciona un buen barómetro sobre el progreso global en materia 
-  de políticas urbanas nacionales sostenibles. Sirve como análisis de brechas 
-  para respaldar las recomendaciones de políticas. El indicador puede identificar 
-  buenas prácticas y políticas entre los países que pueden promover la asociación 
-  y la cooperación entre todas las partes interesadas. Este indicador está orientado 
-  a los procesos y es aspiracional y tiene el potencial de respaldar la validación 
-  del Objetivo 11 y otros indicadores de los ODS con un componente urbano. El indicador 
-  tiene la capacidad de ser aplicable a niveles de múltiples jurisdicciones, es decir, 
-  abarcando varias áreas y al mismo tiempo atendiendo los desafíos urbanos de una manera 
-  nacional más integrada.
+  Estatuko hiri-politika jasangarrien gaineko aurrerapen orokorrari buruzko barometro ona ematen du adierazle 
+  honek. Politiken gomendioak babesteko arrakalen azterketa gisa ere baliagarria da. Halaber, herrialde interesdun 
+  guztien artean elkartegintza eta lankidetza sustatu ditzaketen herrialde arteko politikak eta jardunbide onak 
+  identifikatzen laguntzen du. Adierazle hau prozesuetara bideratzen da, aspirazionala da, eta GJHeko 11. helburua 
+  nahiz hiriarekin lotutako beste adierazle batzuk baliozkotzeari indarra emateko balio du. Halaber, jurisdikzio-maila 
+  askotan aplikatu daiteke, hau da, arlo asko hartzen ditu eta, aldi berean, hiri-erronkak maila nazional 
+  integratuagoan jorratzen ditu. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 comparabilidad: >-
   EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.

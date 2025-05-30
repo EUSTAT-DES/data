@@ -9,10 +9,12 @@ meta_global: meta_largo.11-5-titulo
 
 
 definicion: >-
-  Proporción de indemnizaciones por daños personales, pérdidas pecuniarias 
-  y daños de bienes pagadas y/o provisionadas (pendientes de liquidación o pago) 
-  en relación al PIB a precios corrientes
+  Kalte pertsonalengatik, diruzko galerengatik eta ondasunetan izandako kalteengatiko 
+  kalte-ordainak, ordaindutakoak edota hornitutakoak (likidatzeke edo ordaintzeke daudenak) 
+  BPGarekiko proportzioan, uneko prezioetan.  
+   
 
+  
 formula: |
   $$INDEMPIB^{t} = \frac{(IDP^{t}+IPP^{t}+IDB^{t})/IUIPC_{refT}^{t}}{PIB^{t}} \cdot 100 \quad \mathrm t=1,\dots,\mathrm T$$
 
@@ -36,8 +38,8 @@ desagregacion: Lurralde historikoa
 
 
 observaciones: >-
-  Las indemnizaciones se asignan al lugar y año de ocurrencia del siniestro, 
-  no incluyendo los siniestros ocurridos en el extranjero
+  Kalte-ordainak ezbeharra gertatu den lekurako eta urterako esleitzen dira; atzerrian gertatutako 
+  ezbeharrak ez dira sartzen. 
 
 periodicidad: FUENTE.FREQ_A
 
@@ -47,17 +49,16 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  El Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030 fue 
-  adoptado por los Estados miembros de las Naciones Unidas en marzo de 2015 
-  como una política global de reducción del riesgo de desastres.
+  Nazio Batuen estatu-kideek 2015eko martxoan ezarri zuten Hondamendien Arriskua Murrizteko 2015-2030 
+  aldiko Sendaiko Esparrua hondamendien arriskua murrizteko politika global gisa. 
 
-  Entre sus metas se encuentra la Meta C: Reducir las pérdidas económicas directas 
-  por desastres en relación con el producto interno bruto (PIB) mundial para 2030.
+  Xedeen artean dago C xedea: Hondamendien ondoriozko galera ekonomiko zuzenak murriztea, munduko 
+  barne-produktu gordinarekin (BPG) lotuta, 2030erako. 
 
-  La consecución de sus metas contribuirá al desarrollo sostenible y fortalecerá la 
-  resiliencia económica, social, sanitaria y ambiental.
+  Xedeak lortuz gero, garapen jasangarria sustatu eta erresilientzia indartuko da ekonomia, gizarte, 
+  osasun nahiz ingurumenean. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+  Iturria: Nazio Batuen Estatistika Sekzioa  
 
 
 comparabilidad: >-

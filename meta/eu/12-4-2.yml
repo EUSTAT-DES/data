@@ -8,9 +8,9 @@ meta_global: meta_largo.12-4-titulo
 #  indicador_onu_global: indicador_largo.12-4-2-titulo
 
 definicion: >-
-  Residuos peligrosos generados per cápita y proporción de residuos peligrosos tratados 
-  según operación de tratamiento (incinerados, 
-  vertidos y reciclados) en relación al total de residuos peligrosos generados y tratados
+  Biztanleko sortutako hondakin arriskutsuak, eta tratamendu-eragiketen arabera tratatutako 
+  (erre, isuri eta birziklatutako) hondakin arriskutsuen proportzioa, sortu eta tratatutako 
+  hondakin arriskutsu guztiekiko. 
 
 formula: |
 
@@ -43,7 +43,7 @@ desagregacion: |
 
 observaciones: >-
 
-  Operaciones de tratamiento R1 de acuerdo con la Directiva 2008/98/CE de residuos.
+  R1 tratamendu-eragiketak, Hondakinei buruzko 2008/98/CE Zuzentarauaren arabera. 
 
 
 periodicidad: FUENTE.FREQ_A
@@ -53,30 +53,30 @@ periodicidad: FUENTE.FREQ_A
 
 
 justificacion_global: |
-  Los productos químicos forman parte de la vida cotidiana. Se utilizan más de 140.000 
-  sustancias diferentes en todos los sectores económicos del mundo. Sus beneficios son 
-  muchos y también lo es su potencial para afectar negativamente a la 
-  salud humana y al medio ambiente si no se gestionan adecuadamente. Todos los países, 
-  especialmente los de ingresos medios y bajos, se enfrentan al complejo desafío de 
-  gestionar los residuos peligrosos de acuerdo con las normas internacionales de 
-  buenas prácticas. La situación se complica por la limitación de los recursos 
-  humanos, financieros y/o técnicos. 
+  Produktu kimikoak eguneroko bizitzaren parte dira. Munduko sektore ekonomiko guztietan 140.000 
+  sustantzia desberdin baino gehiago erabiltzen dira. Onura asko dakartzate, baina giza osasunean 
+  eta ingurumenean eragin negatiboa izateko gaitasuna ere badute, baldin eta oker kudeatzen badira. 
+  Herrialde guztiek, batez ere diru-sarrera ertain eta baxukoek, erronka latza daukate zain: 
+  hondakin arriskutsuak jardunbide onen nazioarteko arauen arabera kudeatzea. Egoera konplikatu 
+  egiten da giza baliabideak, finantzarioak edota teknikoak mugatuak direnez. 
 
-  Por ello, es necesario adoptar medidas para apoyar el uso sostenible de los productos 
-  químicos y la gestión ambientalmente racional de los residuos peligrosos. También 
-  se está produciendo un rápido aumento de la generación de residuos peligrosos. 
+  Horregatik, beharrezkoa da produktu kimikoen erabilera jasangarria eta hondakin arriskutsuen 
+  ingurumen-kudeaketa arrazionala babesteko neurriak hartzea. Halaber, hondakin arriskutsuak 
+  gero eta gehiago sortzen dira, azkar batean goraka doaz. 
 
-  Si bien la mayoría de los residuos peligrosos convencionales se producen en 
-  operaciones industriales y manufactureras, se generan cantidades significativas 
-  en sectores no industriales, incluidos los lodos del sector sanitario, las plantas 
-  de tratamiento de aguas residuales, los aceites usados ​​y las baterías usadas. 
+  Nahiz eta ohiko hondakin arriskutsu gehienak industria- eta manufaktura-eragiketetan gertatzen 
+  diren, kopuru handiak sortzen dira sektore ez-industrialetan, horren barruan sartuta 
+  osasun-sektorearen lohiak, hondakin-urak tratatzeko instalazioak, erabilitako olioak eta 
+  erabilitako bateriak. 
 
-  También hay un aumento en la complejidad de los productos y de componentes peligrosos 
-  no identificados, como recubrimientos y/o artículos que no son peligrosos 
-  (laminados y envases multicapa), pero que presentan peligrosidad de diversas 
-  maneras cuando se desechan de manera inadecuada y terminan en el aire, el agua o se queman.
+  Halaber, identifikatu gabeko produktu eta osagai arriskutsuak ere gero eta konplexuagoak dira, 
+  besteak beste arriskutsuak izan ez arren, behar ez bezala botaz gero eta airean, uretan edo 
+  erreta amaituz gero, arriskua eragin dezaketen artikuluak edota estalkiak (laminatuak edo geruza 
+  askoko ontziak). 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 comparabilidad: >-
   EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.
