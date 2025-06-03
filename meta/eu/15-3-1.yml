@@ -8,11 +8,13 @@ meta_global: meta_largo.15-3-titulo
 #  indicador_onu_global: indicador_largo.15-3-1-titulo
 
 definicion: |
-  Superficie de suelos potencialmente contaminados y recuperados para nuevos usos acumulado desde el año 2005 y porcentaje respecto a la superficie potencialmente contaminada
+  Kutsatuta egon daitezkeen eta erabilera berrietarako berreskuratu diren lurzoruen azalera metatua 
+  2005etik eta kutsatuta egon daitekeen azaleraren gaineko ehunekoa
 
-  Se considera que un suelo ha sido recuperado si dispone de la Declaración de la calidad 
-  del suelo según lo previsto en la Ley 4/2015, de 25 de junio, para la prevención y 
-  corrección de la contaminación del suelo.
+  Lurzoru bat berreskuratu egin dela ulertzen da, baldin eta lurzoruaren kalitatearen aitorpena badu, 
+  Lurzorua kutsatzea saihestu eta kutsatutakoa garbitzeko ekainaren 25eko 4/2015 Legean aurreikusitakoaren 
+  arabera.
+
 
 formula: |
 
@@ -34,17 +36,17 @@ periodicidad: FUENTE.FREQ_A
 
 
 justificacion_global: |
-  La degradación de la tierra se define como la reducción o pérdida de la productividad 
-  biológica o económica y de la complejidad de las tierras de cultivo de secano, 
-  las tierras de cultivo de regadío o los pastizales, pastizales, bosques y zonas 
-  boscosas como resultado de una combinación de presiones, incluidas las prácticas de 
-  uso y gestión de la tierra. 
+  Lurraren degradazioa honela definitzen da: produktibitate biologikoa edo ekonomikoa eta lehorreko 
+  laborantzako lurren, laborantzako lur ureztatuen edo larreen, basoen eta baso-eremuen konplexutasuna 
+  murriztea edo galtzea, presioen konbinazioaren ondorioz, lurra erabili eta kudeatzeko praktikak barne. 
 
-  El indicador 15.3.1 de los ODS es una cuantificación binaria -degradado/no degradado- basada 
-  en el análisis de los datos disponibles para tres subindicadores: tendencias en la 
-  cobertura terrestre, productividad de la tierra y reservas de carbono.
+  GJHen 15.3.1 adierazlea kuantifikazio bitarra da (degradatua/degradatu gabea), eta hiru azpiadierazletarako 
+  eskuragarri dauden datuen azterketan oinarritzen da: lurraren estaldurako joerak, lurraren produktibitatea 
+  eta karbono-erreserbak. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: | 
 

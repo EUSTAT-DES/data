@@ -22,20 +22,21 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  En el marco del proceso de la CMNUCC, la COP solicitó al Comité Permanente de Finanzas (SCF) que elaborara 
-  una Evaluación y Panorama Bienal de los Flujos de Financiación para el Clima (AB), basándose en las fuentes 
-  de información disponibles e incluyendo información sobre el equilibrio geográfico y temático de los flujos. 
+  KANBHren prozesuaren baitan, Alderdien Konferentziak Finantzen Batzorde Iraunkorrari (FBI) eskatu 
+  zion klimarako finantza-fluxuen biurteko panorama eta ebaluazioa egiteko, eskuragarri zeuden 
+  informazio-iturrietan oinarrituta eta fluxuen oreka geografiko eta tematikoei buruzko informazioa jasota. 
 
-  No existe una definición consensuada en la CMNUCC sobre qué elementos deben contabilizarse para evaluar 
-  el progreso hacia el compromiso de 100.000 millones de dólares. Los datos de la secretaría de la 
-  CMNUCC se refieren al apoyo financiero específico para el clima a las Partes que son países en 
-  desarrollo, notificado por las Partes del Anexo I en sus Informes Bienales. Solo las Partes del Anexo 
-  II están obligadas a informar sobre el apoyo financiero proporcionado. Las Partes del Anexo I 
-  también proporcionan voluntariamente esta información. Por consiguiente, estos datos no deben 
-  interpretarse como un indicador en relación con el logro del objetivo de movilización colectiva 
-  del compromiso de 100.000 millones de dólares.
+  Ez dago KANBHn adostutako definiziorik zehazten duenik zein elementu zenbatu behar diren 100.000 
+  milioi dolarreko konpromisorako aurrerapena ebaluatzeko orduan. KANBHren idazkaritzaren datuek klimarako 
+  finantza-babes espezifikoa aipatzen dute garapen-bidean dauden herrialdeentzat, I. eranskineko alderdiek 
+  beren bi urteko txostenetan jakinarazi bezala. II. eranskineko alderdiak soilik daude behartuta emandako 
+  finantza-babesari buruzko informazioa ematera. I. eranskineko alderdiek beren borondatez ematen dute 
+  informazio hori. Ondorioz, datu hauek ez dira adierazle moduan interpretatu behar 100.000 milioi dolarreko 
+  konpromisoaren mobilizazio kolektiboaren helburua lortu ote den neurtzeko orduan. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=13.a.1&seriesCode=DC_FIN_CLIMT&areaCode=1&period=3&table=Total">Klimarentzat emandako finantza-laguntza espezifiko osoa (egungo milaka milioi dolar estatubatuar) DC_FIN_CLIMT</a> UNSTATS

@@ -8,8 +8,8 @@ indicador_disponible: GRAFICO.15-4-2-titulo
 
 
 definicion:
-  Superficie de cobertura verde (bosques, pastizales y tierras de cultivo) 
-  en zonas de montaña sobre el total de la superficie de zonas de montaña
+  Estaldura berdeko azalera (basoak, larreak eta laborantzako lurrak) mendi-eremuetan, mendi-eremuen 
+  azalera osoaren gainean 
 
 
 formula: |
@@ -33,20 +33,20 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  Los ecosistemas montañosos son importantes centros de biodiversidad que brindan 
-  valiosos servicios ecosistémicos a las zonas río arriba y río abajo. Sin embargo, 
-  las montañas son muy frágiles y se ven fácilmente afectadas por factores tanto naturales 
-  como antropogénicos. Estos pueden incluir el cambio climático, la expansión 
-  agrícola no planificada, la urbanización no planificada, la extracción de madera, 
-  las actividades recreativas y los peligros naturales como deslizamientos de tierra e inundaciones.
+  Ekosistema menditsuak biodibertsitate-zentro garrantzitsuak dira, eta zerbitzu ekosistemiko baliotsuak 
+  eskaintzen dizkiete ibaian gora eta ibaian behera dauden eremuei. Hala ere, mendiak oso hauskorrak dira, 
+  eta faktore natural zein antropogenikoek erraz eragiten diete. Horien artean egon daitezke klima-aldaketa, 
+  planifikatu gabeko nekazaritza-hedapena, planifikatu gabeko urbanizazioa, zur-erauzketa, jolas-jarduerak 
+  eta arrisku naturalak, hala nola lur-irristatzeak eta uholdeak. 
 
-  La degradación de los ecosistemas montañosos, como la pérdida de la cubierta glaciar, 
-  la biodiversidad montañosa y la cubierta vegetal, afectará la capacidad del ecosistema 
-  para suministrar agua río abajo. La pérdida de la cubierta forestal y vegetal reducirá 
-  la capacidad del ecosistema para retener el suelo y prevenir deslizamientos de tierra 
-  e inundaciones río abajo.
+  Ekosistema menditsuen degradazioak, hala nola estalki glaziarraren, biodibertsitate menditsuaren eta 
+  landare-estalkiaren galerak, eragina izango du ekosistemak ibaian behera ura hornitzeko duen gaitasunean. 
+  Baso- eta landare-estalkia galtzeak murriztu egingo du ekosistemak duen gaitasuna lurzorua atxikitzeko 
+  eta ibaian behera lurra irristatzea eta uholdeak egotea saihesteko. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: |
 

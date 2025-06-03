@@ -8,8 +8,7 @@ meta_global: meta_largo.16-2-titulo
 #  indicador_onu_global: indicador_largo.16-2-2-titulo
 
 definicion: >-
-  Número de víctimas detectadas de trata de seres humanos con fines de explotación sexual, laboral, obtención de órganos, matrimonios 
-  forzados, criminalidad forzada y/o mendicidad por cada 100.000 habitantes
+  Zenbat biktima detektatu diren sexu-esplotaziorako, lan-esplotaziorako, organoak lortzeko, behartutako ezkontzarako, behartutako kriminalizaziorako edo eskaletasunerako giza salerosketarako, 100.000 biztanleko 
 
 formula: |
 
@@ -34,23 +33,18 @@ desagregacion: |
 
 observaciones: |
 
-  Se puede producir cierta sobrestimación del indicador, ya que una misma persona ha 
-  podido ser víctima detectada de tráfico de personas en dos o más tipos de explotación 
-  y no es posible su identificación por motivos de confidencialidad. Así mismo, 
-  se puede producir cierta sobrestimación del indicador a nivel estatal, dado que una 
-  misma persona ha podido ser víctima detectada de tráfico de personas en dos o más 
-  comunidades autónomas diferentes y no es posible su identificación por motivos 
-  de confidencialidad.
+  Gerta daiteke adierazle hau gehiegi handitzea, pertsona bera pertsona-trafikoaren biktima izan delako 
+  bi esplotazio-motatan edo gehiagotan eta ezin izan delako identifikatu konfidentzialtasun-arrazoien 
+  zioz. Era berean, adierazlea Estatu-mailan ere gerta liteke gainestimazioa izatea, pertsona bat bi 
+  autonomia-erkidegotan edo gehiagotan identifikatu delako pertsona-trafikoaren biktima gisa eta ez ezin 
+  delako identifikatu konfidentzialtasun-arrazoien ondorioz. 
 
-  Trata de seres humanos: captación, transporte, traslado, acogida o recepción de 
-  personas, recurriendo a la amenaza o al uso de la fuerza u otras formas de coacción, 
-  al rapto, al fraude, al engaño, al abuso de poder o de una situación de vulnerabilidad 
-  o a la concesión o recepción de pagos o beneficios para obtener el consentimiento 
-  de una persona que tenga autoridad sobre otra, con fines de explotación. Esa 
-  explotación incluirá, como mínimo, la explotación de la prostitución ajena u otras 
-  formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o 
-  las prácticas análogas a la esclavitud, la servidumbre o la extracción de órganos.
-
+  Pertsonen salerosketa: pertsonak hartu, garraiatu, lekualdatu edo jasotzea, mehatxupean edo indarrera 
+  joz nahiz beste hertsatze-modu batzuk baliatuz, besteak beste bahiketa, iruzurra, engainua, botere-gehiegikeria 
+  edo zaurgarritasun-egoera, edo ordainketak edo onurak jasoz edo emanez pertsona baten gaineko boterea duen 
+  pertsona baten baimena lortzeko esplotaziorako. Esplotazioaren barruan sartzen dira, besteak beste -eta 
+  gutxienez-, besteren prostituzioa esplotatzea, beste sexu-esplotazio mota batzuk, lan edo zerbitzu behartuak, 
+  esklabotza edo antzeko praktikak, morrontza edo organoen erauzketa. 
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
@@ -59,19 +53,20 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  La trata de personas es un delito grave y una grave violación de los derechos humanos. 
-  Todos los días, las víctimas son explotadas en restaurantes, granjas, sitios de 
-  construcción, burdeles, fábricas, mercados, minas y en los hogares de personas en todas 
-  partes, pero se sabe poco sobre la prevalencia y las características de este delito. 
-  Se necesitan mejores datos para fundamentar respuestas más eficaces y proporcionar 
-  a los responsables de las políticas y a los profesionales la información y el 
-  análisis que necesitan para afinar las medidas contra la trata y mejorar la prevención.
+  Pertsonen salerosketa delitu larria eta giza eskubideen urraketa larria da. Egunero, biktimak 
+  esplotatzen dira jatetxe, baserri, eraikuntza-leku, putetxe, lantegi, merkatu, meategi edo etxeetan, 
+  leku guztietan, baina ezer gutxi dakigu delitu honen prebalentziari eta ezaugarriei buruz. Datu 
+  hobeak behar dira erantzun eraginkorragoak emateko eta politiken arduradunei eta profesionalei 
+  beharrezkoa zaien informazioa eta azterketak emateko, prebentzioa hobetu eta salerosketaren aurka 
+  egiteko neurriak fintze aldera. 
 
-  Este indicador tiene por objeto medir la prevalencia de la trata de personas según 
-  el perfil de las víctimas y las formas de explotación, y hacer un seguimiento de 
-  los avances mundiales, regionales y nacionales en la lucha contra este delito.
+  Adierazle honen helburua da pertsonen salerosketaren prebalentzia neurtzea, biktimen profilaren eta 
+  esplotazio-moduen arabera, eta munduan, eskualdeetan eta estatuetan delitu honen aurkako borrokan 
+  egondako aurrerapenen jarraipena egitea. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: 
 

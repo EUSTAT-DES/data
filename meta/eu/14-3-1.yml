@@ -8,7 +8,7 @@ indicador_disponible: GRAFICO.14-3-1-titulo
 
 
 definicion:
-  Acidez media del mar (pH) medida en un conjunto convenido de estaciones de muestreo representativas
+  Itsasoaren batezbesteko azidotasuna (pH), lagin adierazgarrien multzo adostu batean neurtuta
 
 formula: |
 
@@ -24,7 +24,7 @@ desagregacion:
 periodicidad: FUENTE.FREQ_A
 
 observaciones: >-
-  La asignación de las estaciones de medición por comunidades autónomas se realiza atendiendo a su punto de tierra más cercano 
+  Neurketa-laginak autonomia-erkidegoen arabera esleitzeko, lurreko punturik hurbilena hartzen da kontuan.
 
 texto_oceca: FUENTE.oceca
 
@@ -32,22 +32,21 @@ texto_oceca: FUENTE.oceca
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  El océano absorbe hasta el 30 % de las emisiones anuales de CO2 antropogénico a la atmósfera, 
-  lo que ayuda a mitigar los impactos del cambio climático en el planeta. Sin embargo, 
-  esto tiene un alto coste ecológico, ya que el CO2 absorbido reacciona con el agua 
-  de mar y provoca cambios en la composición química de los carbonatos disueltos, 
-  incluyendo un aumento de la acidez en el medio marino (disminución del pH del agua 
-  de mar). 
+  Ozeanoak atmosferarako CO2 antropogenikoaren urteko emisioen % 30era arte xurgatzen du. Hori lagungarria 
+  da planetan klima-aldaketaren eraginak arintzeko. Hala ere, kostu ekologiko altua du. Izan ere, 
+  xurgatutako CO2k erreakzionatu egiten du itsasoko uraren aurrean, eta aldaketak eragiten ditu karbono 
+  disolbatuen konposizio kimikoan, itsasoko azidotasunaren igoera barne (itsasoko uraren PHa murriztuta). 
 
-  La acidificación de los océanos tiene consecuencias potencialmente directas para la vida 
-  marina y repercute en los servicios que prestan el océano abierto y las zonas costeras, 
-  como la alimentación y los medios de vida, el turismo, la protección costera, la identidad cultural, 
-  el transporte y la recreación. Los impactos de la acidificación de los océanos en los 
-  servicios oceánicos pueden reducirse mediante un monitoreo adecuado y una mejor comprensión 
-  de la variabilidad y las tasas de cambio, lo que ayuda a fundamentar las estrategias 
-  de mitigación y/o adaptación.
+  Ozeanoen azidifikazioak ondorio nahiko zuzenak ditu itsas bizitzan, eta eragina du ozeano zabalak eta 
+  kostaldeek ematen dituzten zerbitzuetan, besteak beste elikaduran eta bizimoduan, turismoan, kostaldearen 
+  babesean, identitate kulturalean, garraioan edo aisialdian. Ozeanoen azidifikazioak zerbitzu ozeanikoetan 
+  duen eragina murriztu egin daiteke, baldin eta era egokian ikuskatzen bada eta hobeto ulertzen badira 
+  aldakortasuna eta aldakuntza-tasak. Hori lagungarria da, era berean, egoera arintzeko edota egoerara 
+  egokitzeko estrategien oinarriak ezartzeko. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global:
 

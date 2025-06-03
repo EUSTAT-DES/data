@@ -8,8 +8,8 @@ indicador_disponible: GRAFICO.15-1-E1-titulo
 
 
 definicion:
-  Superficie terrestre incluida en áreas protegidas (Red Natura 2000 y Espacios Naturales Protegidos), 
-  y porcentaje sobre el total de la superficie terrestre
+  Eremu babestuetan (Natura 2000 Sarea eta Naturagune Babestuak) 
+  sartutako lehorreko azalera, eta lehorreko azalera osoaren gaineko ehunekoa 
 
 
 formula: |
@@ -44,14 +44,16 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  Este indicador mide la extensión de las áreas terrestres protegidas, que incluyen las designadas 
-  a nivel nacional y los espacios Natura 2000. Un área designada a nivel nacional es un 
-  área protegida por la legislación nacional.
+  Adierazle honek babestutako lur-eremuen hedadura neurtzen du, maila nazionalean izendatutakoak 
+  eta Natura 2000 guneak barne. Nazio-mailan izendatutako eremu bat legeria nazionalak babestutako 
+  eremua da. 
 
-  Los espacios Natura 2000 se designan para salvaguardar las especies y los hábitats de 
-  Europa, incluidos en las Directivas de Hábitats y de Aves de la UE.
+  Natura 2000 guneak Europako espezieak eta habitatak babesteko izendatzen dira, EBren Habitatei 
+  eta Hegaztiei buruzko Zuzentarauetan sartuta daudenak. 
 
-  Fuente: Eurostat
+
+  Iturria: Eurostat
+
 
 dato_global: |
 

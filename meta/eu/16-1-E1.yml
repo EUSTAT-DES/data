@@ -8,7 +8,8 @@ meta_global: meta_largo.16-1-titulo
 
 
 definicion: >-
-  Proporción de personas que declaran que viven en una zona con problemas de delincuencia o vandalismo
+  Proportzioan, zenbat diren delinkuentzia edo bandalismoko arazoak dituen gune batean 
+  bizi direla adierazten dutenak 
 
 formula: |
 
@@ -33,28 +34,30 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  El indicador muestra la proporción de la población que declaró que 
-  enfrenta problemas de delincuencia, violencia o vandalismo en su área local. 
-  Esto describe la situación en la que la persona encuestada siente que la delincuencia, la violencia o el 
-  vandalismo en la zona son un problema para el hogar, aunque esta percepción no se basa 
-  necesariamente en la experiencia personal.
+  Adierazle honek zehazten du beren inguruan delinkuentzia, indarkeria edo bandalismoko arazoak 
+  dituela aitortu duten biztanleen proportzioa. Egoera hau deskribatzen du: erantzun duen pertsonak 
+  zein neurritan uste duen inguruko delinkuentzia, indarkeria edo bandalismoa etxerako arazo bat 
+  dela, nahiz eta pertzepzio hori ez izan, nahitaez, norberari gertatutako zerbaitengatik sortua. 
 
-  El 24 de julio de 2020, la Comisión Europea presentó una nueva Estrategia de la Unión de la Seguridad de la 
-  UE para el período 2020-2025, que sustituye a la anterior estrategia de seguridad establecida en la Agenda 
-  Europea de Seguridad (2015-2020). Como componente central de la estrategia, la Comisión define un nuevo camino a 
-  seguir en materia de seguridad interior con acciones en áreas clave: delincuencia organizada; terrorismo y prevención 
-  de la radicalización violenta; resiliencia de nuestras infraestructuras críticas y espacios públicos; ciberdelincuencia, 
-  incluida la lucha contra el abuso sexual infantil; cooperación policial e intercambio de información; e investigación e innovación.
+  2020ko uztailaren 24an, Europako Batzordeak EBko Segurtasuneko Batasunaren 2020-2025 aldirako 
+  estrategia berria aurkeztu zuen, Europako Segurtasun Agendan (2015-2020) ezarritako aurreko 
+  segurtasun-estrategia ordezkatzen duena. Estrategiaren osagai nagusi gisa, Batzordeak barne-segurtasunaren 
+  gainean jarraitu beharreko bide berri bat zehazten du, ekintzak proposatuz arlo gakoetan: delinkuentzia 
+  antolatua; terrorismoa eta erradikalizazio bortitzaren prebentzioa; gure azpiegitura kritiko eta espazio 
+  publikoen erresilientzia; ziberdelinkuentzia, horren barruan sartuta haurren sexu-abusuaren aurkako 
+  borroka; lankidetza poliziala eta informazio-trukea; eta ikerketa eta berrikuntza. 
 
-  La seguridad es un aspecto crucial en la vida de las personas. La inseguridad de cualquier tipo es una fuente 
-  de miedo y preocupación, que afectan negativamente a la calidad de vida. La inseguridad física incluye 
-  todos los factores externos que podrían poner en peligro la integridad física del individuo. 
-  Las acciones delictivas son uno de los abusos más evidentes de la inseguridad. Los análisis de la inseguridad 
-  física suelen combinar aspectos tanto subjetivos como objetivos: la percepción subjetiva de la inseguridad y la 
-  falta objetiva de seguridad medida a partir de las estadísticas de delincuencia. Por tanto, este indicador 
-  complementa al indicador sobre tasas de homicidios al centrarse en la percepción de inseguridad.
+  Segurtasunak sekulako pisua dauka jendeagan. Segurtasunik ez izateak beldurra eta kezka sortzen ditu, 
+  eta horrek eragin negatiboa du bizi-kalitatean. Segurtasunik eza fisikoa denean, norberaren osotasun 
+  fisikoa arriskuan jar lezaketen kanpo-faktore guztiez ari gara. Delitu-egintzak segurtasunik eza eragiten 
+  duten abusu nabarmenetakoak dira. Segurtasunik ez fisikoaren azterketetan alderdi subjektibo eta 
+  objektiboak uztartu ohi dira: segurtasunik ezaren pertzepzio subjektiboa eta segurtasun-falta objektiboa, 
+  delinkuentzia-estatistiketan oinarrituta. Ondorioz, adierazle honek homizidio-tasei buruzko adierazlea 
+  osatzen du, segurtasunik ezaren pertzepzioa jorratzean. 
 
-  Fuente: Eurostat
+
+  Iturria: Eurostat
+
 
 dato_global: 
 

@@ -9,9 +9,9 @@ meta_global: meta_largo.1-5-titulo
 
 
 definicion: >-
-  Kalte pertsonalengatiko, diru galerengatiko eta ondasunen kalteengatiko kalte-ordainen proportzioa 
-  BPGrekiko, prezio arruntetan. Kontuan hartzen dira bai ordaindutako kalte-ordainak, baita hornitutakoak 
-  ere (likidatzeko edo ordaintzeko daudenak). 
+  Kalte pertsonalengatik, diruzko galerengatik eta ondasunetan izandako kalteengatiko 
+  kalte-ordainak, ordaindutakoak edota hornitutakoak (likidatzeke edo ordaintzeke daudenak) 
+  BPGarekiko proportzioan, uneko prezioetan. 
 
 formula: |
   $$INDEMPIB^{t} = \frac{(IDP^{t}+IPP^{t}+IDB^{t})/IUIPC_{refT}^{t}}{PIB^{t}} \cdot 100 \quad \mathrm t=1,\dots,\mathrm T$$
