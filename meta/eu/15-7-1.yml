@@ -22,24 +22,25 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  Hay más de 35.000 especies bajo protección internacional, por lo que es imposible 
-  monitorear toda la caza furtiva. Sin embargo, el comercio ilegal es un indicador indirecto 
-  de la caza furtiva. Las incautaciones de fauna silvestre representan casos concretos de 
-  comercio ilegal, pero la proporción que representan de los delitos contra la vida silvestre 
-  en general es desconocida y variable. Además, el número de especies bajo protección 
-  internacional sigue creciendo. 
+  35.000 espezie baino gehiago daude nazioarteko babespean, eta, beraz, ezinezkoa da ezkutuko ehiza 
+  guztia monitorizatzea. Hala ere, legez kanpoko merkataritza ezkutuko ehizaren zeharkako adierazlea da. 
 
-  El comercio internacional legal de especies protegidas, por definición, 
-  se refleja al 100 % en la Base de Datos sobre el Comercio de Especies Amenazadas 
-  de Fauna y Flora Silvestres (CITES), que actualmente contiene más de 16 millones 
-  de registros de comercio de especies incluidas en la CITES. 
+  Basa-faunaren konfiskazioek legez kanpoko merkataritzaren kasu zehatzak adierazten dituzte, baina 
+  bizitza basatiaren aurkako delituen proportzioa, oro har, ezezaguna eta aldakorra da. Gainera, 
+  nazioarteko babesa duten espezieen kopuruak gora egiten jarraitzen du. 
 
-  Para fundamentar los datos de comercio ilegal en un indicador completo, se estima 
-  la proporción de incautaciones agregadas con respecto al comercio total. Un aumento en 
-  la proporción del comercio total de fauna silvestre que es ilegal se interpretaría 
-  como un indicador negativo, y una disminución como positivo.
+  Espezie babestuen legezko nazioarteko merkataritza, definizioz, % 100ean islatzen da Basoko Fauna 
+  eta Flora Espezie Mehatxatuen Merkataritzari buruzko Datu Basean; gaur egun, datu-base horretan 
+  sartutako espezieen merkataritzako 16 milioi erregistro baino gehiago ditu. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+  Legez kanpoko merkataritzaren datuak adierazle oso batean oinarritzeko, konfiskazio agregatuen 
+  proportzioa kalkulatzen da merkataritza osoarekiko. Legez kanpokoa den basa-faunaren guztizko 
+  merkataritzaren proportzioa handitzea adierazle negatibotzat hartuko litzateke, eta jaitsiera, aldiz, 
+  positibotzat. 
+
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global:
 

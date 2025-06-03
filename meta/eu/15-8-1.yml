@@ -8,7 +8,8 @@ meta_global: meta_largo.15-8-titulo
 #  indicador_onu_global: indicador_largo.15-8-1-titulo
 
 definicion: >-
-  Valor lógico que indica si se dispone de legislación pertinente y se destinan recursos para la prevención o el control de las especies exóticas invasoras
+  Balio logikoa, espezie exotiko inbaditzaileak prebenitzeko edo kontrolatzeko legeria egokia dagoen eta 
+  baliabideak bideratzen diren adierazten duena
 
 formula: |
 
@@ -26,13 +27,14 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  La Meta 9 de Aichi para la Diversidad Biológica establece: “Para 2020, se habrán 
-  identificado y priorizado las especies exóticas invasoras y sus vías de introducción, 
-  se habrán controlado o erradicado las especies prioritarias y se habrán establecido 
-  medidas para gestionar las vías de introducción a fin de impedir su 
-  introducción y establecimiento”.
+  Dibertsitate Biologikorako Aichiko 9. xedeak honako hau ezartzen du: "2020rako, espezie exotiko 
+  inbaditzaileak eta horiek sartzeko bideak identifikatu eta lehenetsiko dira, lehentasunezko 
+  espezieak kontrolatu edo desagerraraziko dira, eta sartzeko bideak kudeatzen duten neurriak ezarriko 
+  dira, horien sarrera eta ezarpena eragozteko". 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa
+
 
 dato_global: | 
 

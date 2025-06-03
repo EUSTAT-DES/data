@@ -8,7 +8,8 @@ meta_global: meta_largo.16-1-titulo
 #  indicador_onu_global: indicador_largo.16-1-4-titulo
 
 definicion: >-
-  Proporción de personas de 16 y más años que se sienten seguras (muy o bastante seguras) al caminar solas de noche en la zona en la que vive
+  Proportzioan, zenbat diren seguru sentitzen diren 16 urtetik gorakoak (oso edo dezente seguru sentitzen 
+  direnak) beren bizitokian gauez bakarrik doazela 
 
 formula: |
 
@@ -34,29 +35,26 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  La percepción de seguridad se considera un indicador subjetivo de bienestar. 
-  Afecta la forma en que los seres humanos interactúan con su entorno, su salud y, 
-  en consecuencia, su calidad de vida. 
+  Segurtasun-pertzepzioa ongizate-adierazle subjektibotzat jotzen da. Gizakiek beren inguruarekin 
+  duten harremanean duen eragina, eta, beraz, beren osasunean eta bizi-kalitatean. 
 
-  El indicador 16.1.4 se basa en el concepto de “miedo al delito”, que se ha obtenido en 
-  docenas de encuestas de victimización por delitos, y la formulación estándar utilizada 
-  aquí ha demostrado ser aplicable en diferentes contextos culturales.
+  16.1.4 adierazleak “delituari beldurra” kontzeptua du oinarri, delituen ziozko biktimizazioaren 
+  dozenaka inkestetan jasotakoa, eta hemen erabilitako formulazio estandarra beste testuinguru kultural 
+  batzuetan ere aplikatu daitekeela frogatu da. 
 
-  Es importante señalar que el miedo al delito es un fenómeno que está separado de la 
-  prevalencia del delito y que el miedo al delito puede incluso ser en gran medida 
-  independiente de la experiencia real. La percepción del delito y el miedo resultante 
-  al mismo están influenciados por varios factores, como la conciencia del delito, 
-  el discurso público, el discurso de los medios de comunicación y las circunstancias 
-  personales. 
+  Garrantzitsua da adieraztea delituari zaion beldurra delituaren prebalentziatik bereizitako fenomenoa 
+  dela, eta beldur hori neurri handi batean benetako esperientziatik independentea ere izan daitekeela. 
+  Delituaren pertzepzioa eta horren ondoriozko beldurra hainbat faktorek eragin dezakete, besteak beste 
+  delituaren kontzientziak, diskurtso politikoak, komunikabideen diskurtsoak eta inguruabar pertsonalek. 
 
-  Sin embargo, el miedo al delito es un indicador importante en sí mismo, ya que 
-  los altos niveles de miedo pueden influir negativamente en el bienestar y conducir a 
-  una reducción de los contactos con el público, una menor confianza y compromiso en 
-  la comunidad y, por lo tanto, representar un obstáculo para el desarrollo. El miedo 
-  al delito también difiere entre los grupos demográficos y este indicador ayuda a 
-  identificar a los grupos vulnerables.
+  Hala ere, delituari zaion beldurra adierazle garrantzitsua da bere horretan. Izan ere, beldur-maila 
+  altuek okerrera eragin dezakete ongizatean, eta jendearekiko harremanak murriztea eta komunitatean 
+  konfiantza eta konpromisoa galtzea eragin dezakete, eta, beraz, garapenerako oztopo bihurtu. Delituari 
+  zaion beldurra aldatu egiten da talde demografikoen arabera. Adierazle hau lagungarria da talde zaurgarriak 
+  identifikatzeko. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
 
 dato_global: 
 

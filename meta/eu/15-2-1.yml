@@ -8,8 +8,7 @@ meta_global: meta_largo.15-2-titulo
 #  indicador_onu_global: indicador_largo.15-2-1-titulo
 
 definicion: >-
-  Superficie forestal con instrumentos de ordenación vigentes, y porcentaje respecto
-  a la superficie forestal
+  Antolamendu-tresnak indarrean dituen baso-azalera, eta ehunekoa baso-azalerarekiko 
 
 formula: |
 
@@ -32,26 +31,24 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  La definición de la gestión forestal sostenible de la Asamblea General de las Naciones 
-  Unidas contiene varios aspectos clave, en particular que la gestión forestal sostenible 
-  es un concepto que varía a lo largo del tiempo y entre países, cuyas 
-  circunstancias –ecológicas, sociales y económicas– varían ampliamente, pero que 
-  siempre debe abordar una amplia gama de valores forestales, incluidos los valores 
-  económicos, sociales y ambientales, y tener en cuenta la equidad intergeneracional.
+  Nazio Batuen Batzar Nagusiaren baso-kudeaketa jasangarriaren definizioak funtsezko hainbat alderdi 
+  gako ditu. Horren arabera, baso-kudeaketa jasangarria denboran zehar eta herrialdeen artean aldatzen 
+  den kontzeptua da, eta haren inguruabarrak –ekologikoak, sozialak eta ekonomikoak– asko aldatzen dira, 
+  baina baso-balio sorta zabal bati heldu behar dio beti, balio ekonomikoak, sozialak eta ingurumenekoak 
+  barne, eta belaunaldien arteko ekitatea kontuan hartu behar du. 
 
-  Es evidente que una simple medida de la superficie forestal no es suficiente para hacer 
-  el seguimiento de la gestión forestal sostenible en su conjunto. El indicador de Naciones
-  Unidas se compone de cinco subindicadores que miden el progreso hacia todas las 
-  dimensiones de la gestión forestal sostenible. Los subindicadores son:
+  Argi dago baso-azaleraren neurri soil bat ez dela nahikoa baso-kudeaketa jasangarriaren jarraipena 
+  egiteko bere osotasunean. Nazio Batuen adierazleak bost azpiadierazle ditu, baso-kudeaketa jasangarriaren 
+  dimentsio guztietarako aurrerapena neurtzen dutenak. Azpiadierazleak hauek dira: 
 
-  1. Tasa anual de cambio de la superficie forestal
-  2. Biomasa sobre el suelo en los bosques
-  3. Proporción de la superficie forestal dentro de las zonas protegidas establecidas legalmente
-  4. Proporción de la superficie forestal sujeta a un plan de gestión a largo plazo
-  5. Superficie forestal sujeta a un sistema de certificación de la gestión forestal 
-  verificado de forma independiente
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+  1. Baso-azaleraren urteko aldakuntza-tasa 
+  2. Lurzoruaren gaineko biomasa basoetan 
+  3. Baso-azaleraren proportzioa legez ezarritako gune babestuen barruan 
+  4. Epe luzerako kudeaketa-plan baten pean dagoen baso-azaleraren proportzioa 
+  5. Modu independentean egiaztatutako baso-kudeaketako ziurtagiri-sistemaren pean dagoen baso-azalera 
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
 
 dato_global: | 
 

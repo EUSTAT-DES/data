@@ -8,14 +8,13 @@ indicador_disponible: GRAFICO.15-1-2-titulo
 
 
 definicion:
-  Porcentaje de los lugares importantes para la biodiversidad terrestre y del agua dulce 
-  (aquellos que contribuyen significativamente a la persistencia global de la biodiversidad) que está 
-  cubierto por áreas protegidas
-
+  Lurreko nahiz ur gezako biodibertsitaterako garrantzitsuak diren lekuetatik, eremu babestuek estaltzen 
+  dituzten lekuen portzentajea; hau da, biodibertsitatearen iraunkortasun globalari ekarpen nabarmena 
+  egiten diotenena.
 
 formula: |
 
-  $$PKBA_{lurrekoa}^{t} = \frac{APKBA_{lurrekoa}^{t}}{KBA_{lurreko}^{t}} \cdot 100$$
+  $$PKBA_{lurrekoa}^{t} = \frac{APKBA_{lurrekoa}^{t}}{KBA_{lurrekoa}^{t}} \cdot 100$$
 
   non:
 
@@ -24,7 +23,9 @@ formula: |
   $KBA_{lurrekoa} =$ lurreko eta ur gezaren biodibertsitaterako garrantzitsuak diren lekuen azalera $t$ urtean
 
 
-desagregacion: 
+desagregacion: |
+
+  Lurralde historikoa 
 
 periodicidad: FUENTE.FREQ_I
 
@@ -34,14 +35,15 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  La protección de lugares importantes es vital para frenar la pérdida de biodiversidad y garantizar 
-  el uso sostenible a largo plazo de los recursos naturales terrestres y de agua dulce. El establecimiento 
-  de áreas protegidas es un mecanismo importante para lograr este objetivo, y este indicador sirve para 
-  medir el progreso hacia la conservación, la restauración y el uso sostenible de los ecosistemas 
-  terrestres y de agua dulce y sus servicios, de conformidad con las obligaciones contraídas 
-  en virtud de los acuerdos internacionales.
+  Leku garrantzitsuak babestea ezinbestekoa da biodibertsitatearen galera geldiarazteko eta lurreko 
+  eta ur gezako baliabide naturalen epe luzerako erabilera jasangarria bermatzeko. Eremu babestuak 
+  ezartzea mekanismo garrantzitsua da helburu hori lortzeko. Adierazle hori, gainera, oso baliagarria 
+  da jakiteko zenbat egin duen aurrera lurreko ekosistemen eta ur gezako ekosistemen eta haien zerbitzuen 
+  kontserbazioak, leheneratzeak eta erabilera jasangarriak, nazioarteko akordioen ondorioz dagozkigun 
+  betebeharren arabera. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: |
 

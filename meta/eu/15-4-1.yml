@@ -8,9 +8,8 @@ indicador_disponible: GRAFICO.15-4-1-titulo
 
 
 definicion:
-  Porcentaje de los lugares importantes para la biodiversidad de las montañas 
-  (aquellos que contribuyen significativamente a la persistencia global de la biodiversidad) que está 
-  cubierto por áreas protegidas
+  Eremu babestuek estaltzen dituzten mendietako biodibertsitaterako leku garrantzitsuen ehunekoa 
+  (biodibertsitatearen iraunkortasun globalari nabarmen laguntzen diotenak) 
 
 
 formula: |
@@ -34,14 +33,15 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  La protección de lugares importantes es vital para frenar la pérdida de biodiversidad 
-  y garantizar el uso sostenible a largo plazo de los recursos naturales de montaña. 
-  El establecimiento de áreas protegidas es un mecanismo clave para lograr este objetivo, 
-  y este indicador sirve para medir el progreso hacia la conservación, la restauración y 
-  el uso sostenible de los ecosistemas de montaña y sus servicios, de conformidad con las 
-  obligaciones contraídas en virtud de los acuerdos internacionales.
+  Leku garrantzitsuak babestea ezinbestekoa da biodibertsitatearen galera geldiarazteko eta mendiko 
+  baliabide naturalen epe luzerako erabilera iraunkorra bermatzeko. Eremu babestuak ezartzea mekanismo 
+  gakoa da helburu hori lortzeko, eta adierazle horrek mendiko ekosistemen eta horien zerbitzuen 
+  kontserbazioan, lehengoratzean eta erabilera iraunkorrean izandako aurrerapena neurtzeko balio du, 
+  nazioarteko hitzarmenen arabera hartutako betebeharrekin bat etorriz. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: |
 

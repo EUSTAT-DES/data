@@ -22,15 +22,17 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  La inversión sostenida en investigación y desarrollo (I+D), incluida la 
-  investigación oceánica, sigue siendo esencial para el avance del conocimiento 
-  y el desarrollo de nuevas tecnologías necesarias para sustentar las economías modernas. 
+  Ikerketan eta garapenean (I+G) egindako inbertsio jarraitua, ikerketa ozeanikoa barne, 
+  oraindik ere funtsezkoa da jakintzan aurrera egiteko eta ekonomia modernoei eusteko 
+  beharrezkoak diren teknologia berriak garatzeko. 
 
-  La economía oceánica genera diversos beneficios en términos de empleo, ingresos e innovación 
-  en numerosos ámbitos. Sus avances actuales se basan, en gran medida, en décadas de 
-  inversión en ciencia e I+D por parte de gobiernos de todo el mundo.
+  Ozeanoko ekonomiak hainbat onura sortzen ditu enpleguari, diru-sarrerei eta berrikuntzari 
+  dagokienez, hainbat eremutan. Egungo aurrerapenak, neurri handi batean, mundu osoko gobernuek 
+  hainbat hamarkadatan zientzian eta I+Gn egindako inbertsioei zor zaizkie. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=14.a.1&seriesCode=ER_RDE_OSEX&areaCode=1&period=3&table=Total">

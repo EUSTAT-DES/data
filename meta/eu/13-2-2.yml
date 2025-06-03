@@ -8,8 +8,8 @@ meta_global: meta_largo.13-2-titulo
 #  indicador_onu_global: indicador_largo.13-2-2-titulo
 
 definicion: >-
-  Emisiones totales de gases de efecto invernadero (GEI), emisiones totales de GEI por unidad de PIB real, 
-  per cápita, y tasas de variación respecto a las emisiones en los años 1990 y 2005
+  Berotegi-efektuko gasen (BEG) emisioak guztira, BEGen emisioak guztira benetako BPGren unitateko, 
+  pertsonako, eta aldakuntza-tasak 1990eko eta 2005eko emisioen aldean 
 
 formula:  |
 
@@ -53,35 +53,32 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  El objetivo último de la Convención Marco sobre el Cambio Climático (CMNUCC) es lograr 
-  la estabilización de las concentraciones de gases de efecto invernadero en la atmósfera a 
-  un nivel que impida interferencias antropogénicas peligrosas en el sistema climático. 
-  La estimación de los niveles de emisiones y absorciones de gases de efecto invernadero (GEI) 
-  es un elemento importante de los esfuerzos para lograr este objetivo.
+  Klima Aldaketari buruzko Nazio Batuen Esparru Hitzarmenaren (KANBH) helburu nagusia atmosferako 
+  berotegi-efektuko gasen kontzentrazioak egonkortzea da, klima-sisteman eragin dezaketen interferentzia 
+  antropogeniko arriskutsuak saihesteko moduko mailan. Berotegi-efektuko gasen (BEG) emisio-mailen 
+  eta xurgapenen balioespena elementu garrantzitsua da helburu hau lortzeko ahaleginak neurtzeko. 
 
-  El Acuerdo de París adoptado en 2015 marca el último paso en la evolución del régimen de 
-  cambio climático de la ONU y se basa en el trabajo realizado en el marco de la Convención. 
-  Su objetivo principal es fortalecer la respuesta mundial a la amenaza del cambio 
-  climático manteniendo el aumento de la temperatura global en este siglo muy por debajo de los 
-  2 grados Celsius con respecto a los niveles preindustriales y proseguir los esfuerzos para 
-  limitar el aumento de la temperatura aún más a 1,5 grados Celsius. El Acuerdo también tiene 
-  como objetivo fortalecer la capacidad de los países para hacer frente a los impactos del 
-  cambio climático.
+  2015ean hartutako Parisko Akordioak azken urrats bat ezartzen du NBEren klima-aldaketaren araubidearen 
+  bilakaeran, eta Hitzarmenaren esparruan egindako lanean oinarritzen da horretarako. Helburu nagusia 
+  da klima-aldaketaren mehatxuari mundu mailako erantzuna ematea, ahalik eta sendoena, tenperaturaren 
+  igoera 2 gradu zentigradutik askoz beherago edukiz, industrializazioaren aurretik zegoen tenperatura 
+  kontuan izanik, eta ahaleginak egitea tenperaturaren igoera 1,5 gradurantz gehiago murrizteko. 
+  Akordioaren helburua da, era berean, herrialdeek klima-aldaketaren eraginei aurre egiteko duten 
+  gaitasuna indartzea. 
 
-  El indicador forma parte del conjunto de indicadores de los Objetivos de Desarrollo 
-  Sostenible (ODS) de la UE. La normativa europea del clima establece un marco para la acción 
-  climática y aumenta la ambición de la UE para 2030, con un nuevo objetivo de reducir 
-  las emisiones netas de gases de efecto invernadero (GEI) en al menos un 55 % para 
-  ese año (en comparación con 1990) y lograr la neutralidad climática para 2050.
+  Adierazlea EBko Garapen Jasangarriko Helburuen (GJH) adierazleen multzoaren parte da. Klimaren araudi 
+  europarrak esparru bat ezartzen du ekintza klimatikorako, eta areagotu egiten du EBren 2030erako anbizioa, 
+  helburu berri bat finkatuz: berotegi-efektuko gasen emisio garbiak gutxienez % 55 murriztea aurten 
+  (1990aren aldean) eta 2050erako klima-neutraltasuna lortzea. 
 
-  El año 1990 se utiliza como referencia en la mayoría de los acuerdos climáticos 
-  internacionales (Kioto, Naciones Unidas). El año 2005 es el año base utilizado por la 
-  Directiva del reparto del esfuerzo de mitigación de los gases de efecto 
-  invernadero (ETS, sistema de comercio de emisiones de la UE), 
-  debido a que existe mayor disponibilidad de datos detallados sectoriales a partir
-  de esa fecha.
+  1990. urtea erreferentzia moduan erabiltzen da nazioarteko akordio klimatiko gehienetan (Kioto, Nazio 
+  Batuak). 2005a berotegi-efektuko gasak arintzeko ahaleginaren banaketari buruzko Zuzentarauak erabiltzen 
+  duen oinarrizko urtea da (EBko emisioen merkataritza-sistema), data horretatik aurrera sektoreka 
+  zehaztutako datu gehiago daude eta. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas, Eurostat
+
+  Iturria: Nazio Batuen Estatistika Sekzioa, Eurostat 
+
 
 dato_global: >- 
   <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_13_10/default/table?lang=en&category=sdg.sdg_13"> Berotegi-efektua eragiten duten gasen isurketa garbiak (sdg_13_10)</a> Eurostat
