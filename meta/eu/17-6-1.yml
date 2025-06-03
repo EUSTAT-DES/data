@@ -8,7 +8,7 @@ meta_global: meta_largo.17-6-titulo
 #  indicador_onu_global: indicador_largo.17-6-1-titulo
 
 definicion: >-
-  Número de líneas de banda ancha fija respecto al número de habitantes
+  Banda zabal finkoko linea-kopurua biztanle-kopuruarekiko 
 
 formula: |
 
@@ -35,35 +35,33 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  Internet se ha convertido en una herramienta cada vez más importante para proporcionar 
-  acceso a la información y puede ayudar, fomentar y mejorar la cooperación regional 
-  e internacional y el acceso a la ciencia, la tecnología y la innovaciones y mejorar 
-  el intercambio de conocimientos. 
+  Internet gero eta tresna garrantzitsuagoa bihurtu da informazioa eskuratzeko, eta eskualdeko 
+  eta nazioarteko lankidetza eta zientzia, teknologia eta berrikuntzetarako sarbidea sustatu eta 
+  hobetzen eta ezagutza-trukea hobetzen lagun dezake. 
 
-  El acceso a Internet de alta velocidad es importante 
-  para garantizar que los usuarios de Internet tienen acceso de calidad a Internet y 
-  pueden aprovechar la creciente cantidad de contenido de Internet –incluido el contenido 
-  generado por el usuario–, servicios e información.
+  Abiadura handiko Interneterako sarbidea garrantzitsua da Interneteko erabiltzaileek Interneterako 
+  kalitatezko sarbidea dutela bermatzeko eta Interneteko gero eta eduki gehiago –erabiltzaileak 
+  sortutako edukia barne–, zerbitzuak eta informazioa aprobetxatu ahal izateko. 
 
-  Si bien el número de suscripciones a banda ancha fija ha aumentado sustancialmente en 
-  los últimos años y si bien los proveedores de servicios ofrecen velocidades cada vez más 
-  altas, la banda ancha fija de Internet puede variar enormemente por la velocidad, afectando 
-  así la calidad y funcionalidad del acceso a Internet. 
+  Banda zabal finkoko harpidetzen kopurua nabarmen handitu bada ere azken urteotan, eta zerbitzuen 
+  hornitzaileek gero eta abiadura handiagoak eskaintzen badituzte ere, Interneteko banda zabal finkoa 
+  izugarri alda daiteke abiaduragatik, eta horrek eragina izan dezake Interneterako sarbidearen 
+  kalitatean eta funtzionaltasunean. 
 
-  Muchos países, especialmente en el mundo en desarrollo, no sólo tienen una cantidad muy 
-  limitada de suscripciones a banda ancha fija, sino también velocidades bajas. Esta limitación 
-  es una barrera para la Meta 17.6 y el indicador destaca el potencial de 
-  la Internet (especialmente a través del acceso de alta velocidad) para mejorar la 
-  cooperación, mejorar el acceso a la ciencia, tecnología e innovación, y compartir 
-  conocimientos. 
+  Herrialde askok, batez ere garapen-bidean dagoen munduan, banda zabal finkoko harpidetza-kopuru 
+  oso mugatua izateaz gain, abiadura txikiak ere badituzte. Muga hori oztopoa da 17.6 xederako, 
+  eta adierazleak Internetek lankidetza hobetzeko, zientzia, teknologia eta berrikuntzarako sarbidea 
+  hobetzeko eta ezagutzak partekatzeko duen potentziala nabarmentzen du (batez ere abiadura handiko 
+  sarbidearen bidez). 
 
-  El indicador también destaca la importancia de Internet como facilitador del desarrollo y 
-  ayuda a medir la brecha digital que, si no se aborda adecuadamente, agravará las 
-  desigualdades en todos los ámbitos del desarrollo. Información sobre suscripciones 
-  de banda ancha fija por la velocidad contribuirá al diseño de políticas específicas 
-  para superar esas divisiones.
+  Adierazleak, halaber, Interneten garrantzia nabarmentzen du, garapena errazten eta arrakala 
+  digitala neurtzen laguntzen baitu; izan ere, behar bezala lantzen ez bada, desberdintasunak 
+  larriagotuko ditu garapenaren eremu guztietan. Abiaduraren araberako banda zabal finkoko harpidetzei 
+  buruzko informazioak banaketa horiek gainditzeko politika espezifikoak diseinatzen lagunduko du. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >- 
 

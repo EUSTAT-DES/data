@@ -8,9 +8,7 @@ meta_global: meta_largo.17-3-titulo
 #  indicador_onu_global: indicador_largo.17-3-1-titulo
 
 definicion: >-
-  Proporción que representan los recursos financieros netos destinados a participar en el capital de 
-  las empresas de los países receptores de Ayuda oficial al desarrollo respecto al PIB a 
-  precios corrientes y su valor total.
+  Garapenerako laguntza ofiziala jasotzen duten herrialdeetako enpresen kapitalean parte hartzera bideratutako finantza-baliabide garbien proportzioa BPG-arekiko, uneko prezioetan, eta horien balio osoa. 
 
 formula: |
 
@@ -27,11 +25,11 @@ desagregacion: >-
 
 observaciones: >-
 
-  El Comité de Ayuda al Desarrollo (CAD) de la Organización para la Cooperación y el 
-  Desarrollo Económicos (OCDE) establece la lista de países elegibles para recibir Ayuda 
-  Oficial al Desarrollo. Se trata de los países de ingresos bajos y medianos en base 
-  al ingreso nacional bruto per cápita publicado por el Banco Mundial, con la excepción 
-  de los miembros del G8, miembros de la UE y países con fecha firme para entrar en la UE.
+  Ekonomia Lankidetza eta Garapenerako Antolakundeko (ELGA) Garapenean Laguntzeko Batzordeak 
+  (GLB) ezartzen du garapenerako laguntza ofiziala jaso dezaketen herrialdeen zerrenda. 
+  Diru-sarrera txikiko eta ertaineko herrialdeak dira, Munduko Bankuak argitaratutako per capita 
+  diru-sarrera nazional gordinean oinarrituta, G8ko kideak, EBko kideak eta EBn sartzeko data 
+  irmoa duten herrialdeak izan ezik. 
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
@@ -40,10 +38,12 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  El indicador mide los recursos financieros adicionales para los países en 
-  desarrollo provenientes de múltiples fuentes. 
+  Adierazleak garapen-bidean dauden herrialdeentzako finantza-baliabide gehigarriak neurtzen 
+  ditu, hainbat iturritatik datozenak. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa
+
 
 dato_global: >- 
 

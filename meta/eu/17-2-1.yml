@@ -8,7 +8,7 @@ meta_global: meta_largo.17-2-titulo
 #  indicador_onu_global: indicador_largo.17-2-1-titulo
 
 definicion: >-
-  Desembolso neto de las administraciones públicas autonómicas y locales en donaciones y préstamos a los países en desarrollo y en proporción al PIB
+  Autonomia-erkidegoetako eta tokiko administrazio publikoen ordainketa garbia, garapen-bidean dauden herrialdeentzako dohaintzetan eta maileguetan, BPG-rekiko proportzioan  
 
 formula: |
 
@@ -27,11 +27,11 @@ desagregacion: >-
 
 observaciones: >-
 
-  El Comité de Ayuda al Desarrollo (CAD) de la Organización para la Cooperación y el 
-  Desarrollo Económicos (OCDE) establece la lista de países elegibles para recibir Ayuda 
-  oficial al desarrollo. Se trata de los países de ingresos bajos y medianos en base 
-  al ingreso nacional bruto per cápita publicado por el Banco Mundial, con la excepción 
-  de los miembros del G8, miembros de la UE y países con fecha firme para entrar en la UE.
+  Ekonomia Lankidetza eta Garapenerako Antolakundeko (ELGA) Garapenean Laguntzeko Batzordeak 
+  (GLB) ezartzen du garapenerako laguntza ofiziala jaso dezaketen herrialdeen zerrenda. Diru-sarrera 
+  txikiko eta ertaineko herrialdeak dira, Munduko Bankuak argitaratutako per capita diru-sarrera 
+  nazional gordinean oinarrituta, G8ko kideak, EBko kideak eta EBn sartzeko data irmoa duten herrialdeak 
+  izan ezik. 
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
@@ -40,10 +40,12 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  Los flujos totales de ayuda oficial al desarrollo (AOD) a los países en desarrollo cuantifican el esfuerzo público 
-  que los donantes proporcionan a esos países. 
+  Garapen-bidean dauden herrialdeei emandako garapenerako laguntza ofizialaren (GLO) guztizko 
+  fluxuek emaileek herrialde horiei ematen dieten ahalegin publikoa zenbatesten dute. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa
+
 
 dato_global:
 

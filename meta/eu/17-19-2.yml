@@ -9,7 +9,8 @@ meta_global: meta_largo.17-19-titulo
 
 definicion: >-
 
-  Valor lógico que indica si se ha realizado a) al menos un censo de población y vivienda en los últimos diez años, b) se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones
+  Balio logikoa adierazten duena a) azken hamar urteetan gutxienez biztanleria- eta etxebizitza-errolda 
+  bat egin den, eta b) jaiotzen % 100 eta heriotzen % 80 gutxienez erregistratu den. 
 
 formula: |
 
@@ -30,30 +31,29 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |
 
-  Los censos de población y vivienda son una de las principales fuentes de datos necesarios para 
-  formular, implementar y monitorear políticas y programas orientados al desarrollo 
-  socioeconómico inclusivo y la sostenibilidad ambiental. 
-  Los censos de población y vivienda son una fuente importante para el suministro de datos 
-  desagregados necesarios para la medición del progreso de la Agenda 2030 para el Desarrollo 
-  Sostenible, especialmente en el contexto de la evaluación de la situación de las personas 
-  en función de los ingresos, el sexo, la edad, la raza, el origen étnico, el estatus migratorio, 
-  la discapacidad y la ubicación geográfica u otras características. 
+  Biztanleriaren eta etxebizitzen erroldak datu-iturri nagusietako bat dira garapen sozioekonomiko 
+  inklusibora eta ingurumen-jasangarritasunera bideratutako politikak eta programak formulatu, 
+  inplementatu eta ikuskatzeko. Biztanleriaren eta etxebizitzen erroldak iturri garrantzitsua dira 
+  Garapen Jasangarrirako 2030 Agendaren aurrerapena neurtzeko beharrezkoak diren datu bereiziak emateko, 
+  bereziki pertsonen egoeraren ebaluazioaren testuinguruan, diru-sarreren, sexuaren, adinaren, arrazaren, 
+  jatorri etnikoaren, migrazio-estatusaren, desgaitasunaren eta kokapen geografikoaren edo beste ezaugarri 
+  batzuen arabera. 
 
-  La introducción del indicador 17.19.2b como parte del marco global de los ODS refleja el 
-  reconocimiento del papel fundamental del sistema de registro civil para el 
-  funcionamiento de las sociedades, y las ventajas jurídicas y protectoras que ofrece a las 
-  personas. 
+  17.19.2b adierazlea GJHen esparru globalaren zati gisa sartzeak erakusten du erregistro zibileko 
+  sistemak funtsezko zeregina duela gizarteen funtzionamendurako, eta horrek abantaila juridikoak eta 
+  babesleak eskaintzen dizkiela pertsonei. 
 
-  El propósito esencial del sistema de registro civil es proporcionar documentos legales de 
-  interés directo para las personas. Aparte de la importancia directa y general del registro civil 
-  para las autoridades públicas, en el sentido de que la información recopilada mediante el 
-  método de registro proporciona datos esenciales para la preparación y planificación nacional y 
-  regional de programas médicos y de atención de la salud, el papel que desempeña el registro civil 
-  en la comprobación, el establecimiento, la implementación y la realización de muchos de los 
-  derechos humanos consagrados en declaraciones y convenciones internacionales refleja una 
-  de sus contribuciones más importantes al funcionamiento normal de las sociedades.
+  Erregistro zibileko sistemaren funtsezko helburua da pertsonentzat interes zuzena duten legezko 
+  dokumentuak ematea. Erregistro zibilak agintari publikoentzat duen garrantzi zuzenaz eta orokorraz 
+  gain, erregistro-metodoaren bidez bildutako informazioak funtsezko datuak ematen baititu medikuntza- 
+  eta osasun-programen prestaketa eta plangintza nazional eta erregionalerako, erregistro zibilak 
+  nazioarteko adierazpen eta konbentzioetan jasotako giza eskubide asko egiaztatzean, ezartzean eta 
+  gauzatzean betetzen duen zeregina gizartearen funtzionamendu normalean egiten duen ekarpen 
+  garrantzitsuenetako bat da. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: | 
 
