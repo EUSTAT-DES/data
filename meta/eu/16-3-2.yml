@@ -8,7 +8,7 @@ meta_global: meta_largo.16-3-titulo
 #  indicador_onu_global: indicador_largo.16-3-2-titulo
 
 definicion: >-
-  Proporción de personas en prisión preventiva respecto al total de personas reclusas
+  Proportzioan, zenbat jende dagoen behin-behineko espetxealdian, preso guztien artetik 
 
 formula: |
 
@@ -36,20 +36,20 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  El indicador refleja el respeto generalizado del principio de que las personas 
-  en espera de juicio no deben ser detenidas innecesariamente. Esto, a su vez, se basa 
-  en aspectos del derecho a la presunción de inocencia hasta que se demuestre su 
-  culpabilidad. 
+  Orokorrean ondo errespetatzen da epaiketaren zain daudenak inongo premiarik gabe ez atxilotzeko 
+  printzipioa, hala adierazten du adierazle honek. Horren oinarrian zera dago: harik eta inor 
+  erruduna dela frogatu arteko errugabetasun-presuntzioaren eskubidea. 
 
-  Desde una perspectiva de desarrollo, el uso extensivo de la detención previa a la 
-  sentencia cuando no es necesaria por razones como la prevención de fugas, 
-  la protección de víctimas o testigos o la prevención de la comisión de nuevos delitos, 
-  puede desviar recursos del sistema de justicia penal y generar cargas financieras y de 
-  desempleo para el acusado y su familia. Medir el grado relativo en ​​que se utiliza la 
-  detención previa a la sentencia puede proporcionar la evidencia para ayudar a los países 
-  a reducir esas cargas y garantizar su uso proporcionado.
+  Garapenaren ikuspegitik, epaiaren aurreko atxiloketaren erabilera hedatuak, baldin eta ez bada 
+  beharrezkoa ihesak prebenitzeko, biktimak edo lekukoak babesteko edo delitu berriak egin daitezen 
+  prebenitzeko, zigor-justiziako sistemaren baliabideak desbideratzea sor dezake, eta finantza-kargak 
+  eta langabezia-kargak eragin bai akusatuari bai haren familiari. Epaiketa aurreko atxiloketa zein 
+  neurritan erabiltzen den jakinda, horren erabilera proportzionatua bermatzeko eta karga horiek 
+  murrizteko aukera eman dakieke herrialdeei. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: 
 

@@ -8,7 +8,7 @@ meta_global: meta_largo.17-1-titulo
 #  indicador_onu_global: indicador_largo.17-1-1-titulo
 
 definicion: >-
-  Total de ingresos consolidados de las administraciones públicas vascas en proporción al PIB a precios corrientes
+  EAEko administrazio publikoen diru-sarrera bateratuak, guztira, BPG-rekiko proportzioan, uneko prezioetan.
 
 formula: |
 
@@ -37,14 +37,14 @@ desagregacion: |
   Lurralde historikoa 
 
 observaciones: |
-  Los ingresos consolidados de las administraciones vascas se obtienen sumando los ingresos de la 
-  comunidad autónoma y las 
-  entidades locales, restando las transferencias entre ellas (tanto corrientes como de capital), 
-  para evitar doble contabilización.
+  EAEko administrazioen diru-sarrera bateratuak autonomia-erkidegoen eta toki-erakundeen 
+  diru-sarrerak batuz lortzen dira, haien arteko transferentziak kenduta (arruntak zein 
+  kapitalekoak), kontabilizazio bikoitza saihesteko. 
 
-  Los indicadores territorializados Araba/Álava, Bizkaia y Gipuzkoa, se corresponden con los 
-  datos de las entidades locales de cada territorio histórico, sin incluir los ingresos 
-  de la administración autonómica ni consolidación de transferencias.
+  Arabako, Bizkaiko eta Gipuzkoako lurraldekako adierazleak bat datoz lurralde historiko 
+  bakoitzeko toki-erakundeen datuekin, administrazio autonomikoaren diru-sarrerak eta 
+  transferentzien kontsolidazioa kontuan hartu gabe. 
+
 
 periodicidad: FUENTE.FREQ_A
 
@@ -53,26 +53,26 @@ periodicidad: FUENTE.FREQ_A
 
 
 justificacion_global: |
-  La política fiscal es el uso del nivel y la composición del gasto y los ingresos del 
-  gobierno general y del sector público, así como la acumulación conexa de activos y 
-  pasivos gubernamentales, para alcanzar objetivos como la estabilización de la economía, 
-  la reasignación de recursos y la redistribución del ingreso. 
+  Zerga-politika gobernu orokorraren eta sektore publikoaren gastu eta diru-sarreren mailaz 
+  eta osaeraz ari da, baita gobernuko aktibo eta pasiboak elkarri lotuta pilatzeaz ere, 
+  ekonomia egonkortzea, baliabideak berresleitzea eta diru-sarrerak birbanatzea bezalako 
+  helburuak lortzeko. 
 
-  Además de la movilización de ingresos, las unidades gubernamentales también pueden 
-  financiar una parte de sus actividades en un período específico mediante préstamos o 
-  adquiriendo fondos de fuentes distintas de las transferencias obligatorias, por 
-  ejemplo, ingresos por intereses, ventas incidentales de bienes y servicios o la renta 
-  de activos del subsuelo. 
+  Diru-sarreren mobilizazioaz gain, gobernu-unitateek beren jardueren zati bat finantza 
+  dezakete aldi jakin batean, maileguen bidez edo nahitaezko transferentziak ez diren 
+  iturrietako funtsak eskuratuz, hala nola interesengatiko sarrerak, ondasunen eta zerbitzuen 
+  ustekabeko salmentak edo zorupeko aktiboen errenta. 
 
-  El indicador 17.1.1 Ingresos gubernamentales totales como proporción del PIB, por 
-  fuente, permite comprender la movilización de ingresos internos de los países en 
-  forma de fuentes tributarias y no tributarias. El indicador proporcionará a los analistas 
-  un conjunto de datos comparables entre países que resalta la relación entre los cuatro 
-  tipos principales de ingresos, así como la "carga tributaria" relativa (ingresos en 
-  forma de impuestos) y la "carga fiscal" (ingresos en forma de impuestos más 
-  contribuciones sociales).
+  17.1.1 adierazleak (Gobernuaren guztizko diru-sarrerak, guztira, BPGd-ren proportzio gisa), 
+  iturriaren arabera, herrialdeen barneko diru-sarreren mobilizazioa zerga-iturri gisa (eta 
+  ez tributu-iturri gisa) ulertzeko modua ematen du. Adierazleak datu-multzo bat emango die 
+  analistei, herrialdeen artean alderatzeko modukoa, lau diru-sarrera mota nagusien arteko 
+  erlazioa nabarmentzen duena, baita "zerga karga" erlatiboa (zerga bidezko sarrerak) eta 
+  "zerga-karga" ere (zerga bidezko sarrerak gehi kontribuzio sozialak). 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >- 
 

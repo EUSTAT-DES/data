@@ -9,7 +9,8 @@ meta_global: meta_largo.17-18-titulo
 
 definicion: >-
 
-  Valor lógico que indica si la comunidad autónoma dispone de plan estadístico autonómico o instrumento similar plenamente financiado y en fase de aplicación
+  Balio logikoa, adierazten duena ea autonomia-erkidegoak estatistika-plan autonomikorik edo antzeko tresnarik duen 
+  guztiz finantzatuta eta aplikazio-fasean  
 
 formula: |
 
@@ -27,15 +28,18 @@ texto_oceca: FUENTE.oceca
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  El indicador «Número de países con un plan estadístico nacional plenamente financiado y en fase de implementación» 
-  se basa en el Informe Anual sobre la Situación de las Estrategias Nacionales para el Desarrollo de la 
-  Estadística (ENDE). En colaboración con sus socios, PARIS21 informa sobre el progreso de los países en el 
-  diseño e implementación de sus planes estadísticos nacionales. 
+  «Erabat finantzatuta eta ezarpen-fasean dagoen estatistika-plan nazionala duten herrialdeen 
+  kopurua» adierazlea Estatistika Garatzeko Estrategia Nazionalen (ENDE) egoerari buruzko 
+  urteko txostenean oinarritzen da. Bazkideekin lankidetzan, PARIS21ek estatistika-plan nazionalen 
+  diseinuan eta ezarpenean herrialdeek izandako aurrerapenaren berri ematen du. 
 
-  Este indicador contabiliza los países que (i) están implementando una estrategia, 
-  (ii) la están diseñando o (iii) están a la espera de su adopción durante el año en curso.
+  Adierazle horrek herrialdeak zenbatesten ditu, kontuan hartuta (i) estrategia bat ezartzen ari 
+  diren, (ii) estrategia diseinatzen ari diren edo (iii) abian den urtean estrategia hori ezartzeko 
+  zain dauden. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >- 
 

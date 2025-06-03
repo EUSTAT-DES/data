@@ -9,9 +9,9 @@ meta_global: meta_largo.17-18-titulo
 
 definicion: >-
 
-  Valor lógico que indica si la legislación en materia estadística cumple con los 
-  Principios Fundamentales de las Estadísticas Oficiales adoptados por la Comisión 
-  Estadística de Naciones Unidas en la sesión especial de 11-15 de abril de 1994
+  Balio logikoa, adierazten duena ea estatistikaren arloko legeriak Nazio Batuen Estatistika Batzordeak 
+  1994ko apirilaren 11-15eko bilkura berezian onartutako Estatistika Ofizialen Oinarrizko Printzipioak 
+  betetzen dituen
 
 formula: |
 
@@ -30,11 +30,12 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  Se considerará que la ley de estadística cumple con los Principios 
-  Fundamentales de las Estadísticas Oficiales de las Naciones Unidas si 
-  contiene disposiciones relacionadas con los diez Principios. 
+  Estatistika Legeak Nazio Batuen Estatistika Ofizialen Oinarrizko Printzipioak betetzen 
+  dituela ulertuko da, baldin eta hamar printzipioekin lotutako xedapenak baditu. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa
+
 
 dato_global: >- 
 
