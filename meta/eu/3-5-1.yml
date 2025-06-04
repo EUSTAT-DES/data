@@ -9,7 +9,7 @@ meta_global: meta_largo.3-5-titulo
 
 
 definicion: >-
-  Urte jakin batean substantzia adiktiboen abusu edo mendekotasunagatik tratamendu-zentro batean tratamendu anbulatorioan lehen aldiz   
+  Urte jakin batean substantzia adiktiboen gehiegizko erabilera edo mendekotasunagatik tratamendu-zentro batean tratamendu anbulatorioan lehen aldiz   
   artatutakoen kopurua, 100.000 biztanleko
 
 formula: |
@@ -18,7 +18,7 @@ formula: |
 
   non: 
 
-  $AT_{substantzia\, adiktiboak}^{t} =$ substantzia adiktiboen abusu edo mendekotasunagatik tratamendu-zentro batean tratamendu anbulatorioan lehen aldiz 
+  $AT_{substantzia\, adiktiboak}^{t} =$ substantzia adiktiboen gehiegizko erabilera edo mendekotasunagatik tratamendu-zentro batean tratamendu anbulatorioan lehen aldiz 
   artatutakoen kopurua $t$ urtean
 
   $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean
