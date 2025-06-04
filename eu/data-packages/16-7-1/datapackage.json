@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Legebiltzarreko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez",
-                "Administrazio publikoan dauden emakumeen proportzioa, biztanlerian dauden emakumeen proportzioari dagokionez",
+                "Administrazio publikoko emakumeen proportzioa, biztanlerian dauden emakumeen proportzioari dagokionez",
                 "Botere judizialeko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez",
                 ""
               ]
@@ -36,7 +36,7 @@
                 "Sektore publiko autonomikoa",
                 "Tokiko sektore publikoa",
                 "Estatuko sektore publikoa",
-                "Erakunde sanitario autonomikoak",
+                "Osasun erakunde autonomikoak",
                 "Unibertsitateaz kanpoko ikastetxe autonomikoak",
                 "Foru-aldundiak",
                 "Udalak",

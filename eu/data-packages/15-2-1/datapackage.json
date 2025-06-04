@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kudeaketa iraunkorreko indarreko tresnak dituen baso-azalera",
-                "Kudeaketa iraunkorreko indarreko tresnak dituzten baso-azaleren proportzioa",
+                "Kudeaketa jasangarrirako tresnak indarrean dituen baso-azalera",
+                "Kudeaketa jasangarirako tresnak indarrean dituzten baso-azaleren proportzioa",
                 ""
               ]
             },

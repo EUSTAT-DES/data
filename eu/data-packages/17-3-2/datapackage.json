@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Atzerrira bidalitako bidalketen bolumena, BPGrekiko proportzioan",
-                "Atzerrira bidalitako bidalketen bolumena",
+                "Atzerrira egindako diru-bidalketen bolumena, BPGrekiko proportzioan",
+                "Atzerrira egindako diru-bidalketen bolumena",
                 ""
               ]
             },

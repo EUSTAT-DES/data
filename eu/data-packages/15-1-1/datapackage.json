@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Baso-azalera azalera osoaren proportzioan",
+                "Baso-azalera, azalera osoaren proportzioan",
                 ""
               ]
             },

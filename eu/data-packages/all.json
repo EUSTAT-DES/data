@@ -129,8 +129,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Atzerrira bidalitako bidalketen bolumena, BPGrekiko proportzioan",
-                "Atzerrira bidalitako bidalketen bolumena",
+                "Atzerrira egindako diru-bidalketen bolumena, BPGrekiko proportzioan",
+                "Atzerrira egindako diru-bidalketen bolumena",
                 ""
               ]
             },
@@ -713,7 +713,7 @@
             "constraints": {
               "enum": [
                 "Legebiltzarreko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez",
-                "Administrazio publikoan dauden emakumeen proportzioa, biztanlerian dauden emakumeen proportzioari dagokionez",
+                "Administrazio publikoko emakumeen proportzioa, biztanlerian dauden emakumeen proportzioari dagokionez",
                 "Botere judizialeko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez",
                 ""
               ]
@@ -728,7 +728,7 @@
                 "Sektore publiko autonomikoa",
                 "Tokiko sektore publikoa",
                 "Estatuko sektore publikoa",
-                "Erakunde sanitario autonomikoak",
+                "Osasun erakunde autonomikoak",
                 "Unibertsitateaz kanpoko ikastetxe autonomikoak",
                 "Foru-aldundiak",
                 "Udalak",
@@ -1835,7 +1835,7 @@
             "constraints": {
               "enum": [
                 "Irakaskuntza",
-                "Osasun-laguntza",
+                "Osasun-arreta",
                 "Pentsioen kudeaketa",
                 "Justizia-administrazioa",
                 "Herritarren segurtasuna",
@@ -6314,7 +6314,7 @@
                 "BPGren urte arteko aldakuntza-tasa",
                 "Langabezia-tasa",
                 "Kontsumoko prezioen indizearen urte arteko aldakuntza-tasa",
-                "Atzerrira bidalitako bidalketen bolumena, BPGrekiko proportzioan",
+                "Atzerrira egindako diru-bidalketen bolumena, BPGrekiko proportzioan",
                 "Administrazio publiko autonomikoen zor gordina, gehiegizko defizitaren protokoloaren arabera, BPGrekiko proportzioan",
                 "Administrazio publiko autonomikoen zerga-saldoa, BPGrekiko proportzioan",
                 ""
@@ -6817,7 +6817,7 @@
                 "Difteriaren, tetanosaren eta kukutxeztula haurrengan",
                 "Gaixotasun pneumokozikoa haurrengan",
                 "Elgorria, parotiditis eta errubeola haurrengan",
-                "Giza papiloma (GPB ) nerabeetan",
+                "Giza papilomaren birusa (GPB) nerabeetan",
                 ""
               ]
             },
@@ -7559,7 +7559,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Baso-azalera azalera osoaren proportzioan",
+                "Baso-azalera, azalera osoaren proportzioan",
                 ""
               ]
             },
@@ -9113,8 +9113,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kudeaketa iraunkorreko indarreko tresnak dituen baso-azalera",
-                "Kudeaketa iraunkorreko indarreko tresnak dituzten baso-azaleren proportzioa",
+                "Kudeaketa jasangarrirako tresnak indarrean dituen baso-azalera",
+                "Kudeaketa jasangarirako tresnak indarrean dituzten baso-azaleren proportzioa",
                 ""
               ]
             },
@@ -10466,8 +10466,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrazio publiko autonomikoen eta tokikoen garapen garbirako laguntza ofiziala",
-                "Administrazio publiko autonomikoen eta tokikoen garapenerako laguntza ofizial garbia, BPGrekiko proportzioan",
+                "Administrazio publiko autonomikoen eta tokiko administrazio publikoen garapenerako laguntza ofizial garbia",
+                "Administrazio publiko autonomikoen eta tokiko administrazio publikoen garapenerako laguntza ofizial garbia, BPGrekiko proportzioan",
                 ""
               ]
             },
