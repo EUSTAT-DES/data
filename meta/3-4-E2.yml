@@ -9,7 +9,7 @@ meta_global: meta_largo.3-4-titulo
 
 definicion: |
   Número promedio de años que se espera viviría un recién nacido, si en el transcurso de su vida 
-  estuviera expuesto a las tasas específicas por edad de mortalidad al momento de su nacimiento 
+  estuviera expuesto a las tasas de mortalidad específicas por edad al momento de su nacimiento 
   
 
 formula: |
@@ -18,7 +18,7 @@ formula: |
 
   donde: 
   
-  $P_{x}^{t} =$ supervivientes en la edad o rango de edad $x$ en el año $t$ (según método Chiang, con los 
+  $S_{x}^{t} =$ supervivientes en la edad o rango de edad $x$ en el año $t$ (según método Chiang, con los 
   intervalos de edad de 5 años, excepto el de menores de 1 año y el de 1 a 4 años) 
 
 
