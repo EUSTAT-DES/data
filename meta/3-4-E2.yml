@@ -14,13 +14,12 @@ definicion: |
 
 formula: |
 
-  EV_{0}^{t} = \frac{1}{2} + \frac{2.5S_{1}^{t} + 4.5S_{5}^{t} + 5(S_{10}^{t} + S_{15}^{t} + \cdots)}{S_{0}^{t}}
-
+  $$EV_{0}^{t} = \frac{1}{2} + \frac{2.5S_{1}^{t} + 4.5S_{5}^{t} + 5(S_{10}^{t} + S_{15}^{t} + \cdots)}{S_{0}^{t}}$$ 
 
   donde: 
   
-  $P_ {x}^{t} =$ supervivientes en la edad o rango de edad $x$ en el año $t$ (según método Chiang, con los 
-  intervalos de edad de 5 años, excepto el de menores de 1 año y el de 1 a 4 años)
+  $P_{x}^{t} =$ supervivientes en la edad o rango de edad $x$ en el año $t$ (según método Chiang, con los 
+  intervalos de edad de 5 años, excepto el de menores de 1 año y el de 1 a 4 años) 
 
 
 desagregacion: | 

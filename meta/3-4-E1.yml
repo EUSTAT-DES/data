@@ -16,10 +16,9 @@ definicion: |
    <b> - Porcentaje de participación en los programas de cribado poblacional de cáncer de mama (muejres de entre 50 y 69 años)</b> 
 
 formula: |
+  <b>Porcentaje de participación en los programas de cribado poblacional de cáncer colorrectal entre la población diana (hombres y mujeres de entre 50 y 74 años)</b> 
 
-  <b>Porcentaje de participación en los programas de cribado poblacional de cáncer colorrectal entre la población diana (hombres y mujeres de entre 50 y 74 años)</b>
-
-  $$PP_{colorrectal}^{t} = \frac{P_{colorrectal}^{t}}{P_{D\, colorrectal}^{t} \cdot 100$$
+  $$PP_{colorrectal}^{t} = \frac{P_{colorrectal}^{t}}{P_{D\, colorrectal}^{t}} \cdot 100$$ 
 
   donde:
 
@@ -31,8 +30,7 @@ formula: |
   <b>Porcentaje de participación en los programas de cribado poblacional de cáncer de mama entre la población diana (mujeres de entre 50 y 69 años)</b>
 
 
-  $$PP_{mama}^{t} = \frac{P_{mama}^{t}}{P_{D\, mama}^{t} \cdot 100$$
-
+  $$PP_{mama}^{t} = \frac{P_{mama}^{t}}{P_{D\, mama}^{t}} \cdot 100$$ 
 
   donde:
 
