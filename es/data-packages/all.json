@@ -1938,7 +1938,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Extranjero",
+                "Extranjero/a",
                 ""
               ]
             },
@@ -1949,8 +1949,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Persona sin discapacidad",
-                "Persona con discapacidad",
+                "Sin discapacidad",
+                "Con discapacidad",
                 ""
               ]
             },
@@ -4663,7 +4663,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Número de investigadores (en equivalente a tiempo completo) por cada millón de habitantes",
+                "Número de investigadores/as (en equivalente a tiempo completo) por cada millón de habitantes",
                 ""
               ]
             },
@@ -7424,7 +7424,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de jóvenes  que no cursan estudios, no están empleados ni reciben capacitación",
+                "Proporción de jóvenes que no cursan estudios, no están empleados ni reciben capacitación",
                 ""
               ]
             },
@@ -7925,10 +7925,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Médico",
-                "Profesionales en enfermería y obstetricia",
+                "Médico/a",
+                "Profesionales de enfermería y obstetricia",
                 "Dentista",
-                "Farmaceútico",
+                "Farmaceútico/a",
                 ""
               ]
             },
@@ -9065,8 +9065,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Persona sin discapacidad",
-                "Persona con discapacidad",
+                "Sin discapacidad",
+                "Con discapacidad",
                 ""
               ]
             },
@@ -11006,7 +11006,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "El 40 % más pobre",
+                "El 40% más pobre",
                 ""
               ]
             },

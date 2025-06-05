@@ -31,10 +31,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Médico",
-                "Profesionales en enfermería y obstetricia",
+                "Médico/a",
+                "Profesionales de enfermería y obstetricia",
                 "Dentista",
-                "Farmaceútico",
+                "Farmaceútico/a",
                 ""
               ]
             },

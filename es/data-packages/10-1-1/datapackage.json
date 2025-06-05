@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "El 40 % más pobre",
+                "El 40% más pobre",
                 ""
               ]
             },

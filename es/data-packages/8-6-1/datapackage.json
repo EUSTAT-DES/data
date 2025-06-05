@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de jóvenes  que no cursan estudios, no están empleados ni reciben capacitación",
+                "Proporción de jóvenes que no cursan estudios, no están empleados ni reciben capacitación",
                 ""
               ]
             },

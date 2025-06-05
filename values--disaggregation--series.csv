@@ -71,7 +71,7 @@ EU_W_GENPCAP,Residuos urbanos recogidos per cápita,Biztanle bakoitzeko bildutak
 EU_WWT_COLECT,Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores,Kolektore-sistema batera konektatutako etxeko hondakin-uren fluxuen proportzioa,EU_WWT_COLECT,1,1
 EU_XPD_LOCALGBPC,EU_XPD_LOCALGBPC,EU_XPD_LOCALGBPC,EU_XPD_LOCALGBPC,1,1
 FP_CPI_TOTL_ZG,Tasa de variación interanual del índice de precios de consumo,Kontsumoko prezioen indizearen urte arteko aldakuntza-tasa,FP_CPI_TOTL_ZG,4,1
-GB_POP_SCIERD,Número de investigadores (en equivalente a tiempo completo) por cada millón de habitantes,Ikertzaileen kopurua (lanaldi osoaren baliokidean) milioi bat biztanleko,GB_POP_SCIERD,4,1
+GB_POP_SCIERD,Número de investigadores/as (en equivalente a tiempo completo) por cada millón de habitantes,Ikertzaileen kopurua (lanaldi osoaren baliokidean) milioi bat biztanleko,GB_POP_SCIERD,4,1
 GB_XPD_RSDV,Gastos en investigación y desarrollo en proporción al PIB,"Ikerketa eta garapeneko gastuak, BPGrekiko proportzioan",GB_XPD_RSDV,4,1
 GC_BAL_CASH_GD_ZS,Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB,"Administrazio publiko autonomikoen zerga-saldoa, BPGrekiko proportzioan",GC_BAL_CASH_GD_ZS,1,1
 GF_XPD_GBPC,GF_XPD_GBPC,GF_XPD_GBPC,GF_XPD_GBPC,1,1
@@ -116,7 +116,7 @@ SL_EMP_EARN,Ingreso medio por hora ,Orduko batez besteko diru-sarrera,SL_EMP_EAR
 SL_EMP_FTLINJUR,SL_EMP_FTLINJUR,SL_EMP_FTLINJUR,SL_EMP_FTLINJUR,12,1
 SL_EMP_GTOTL,Proporción del PIB generada por el trabajo,Lanak sortutako BPGren proportzioa,SL_EMP_GTOTL,4,1
 SL_EMP_INJUR,SL_EMP_INJUR,SL_EMP_INJUR,SL_EMP_INJUR,12,1
-SL_TLF_NEET_19ICLS,"Proporción de jóvenes  que no cursan estudios, no están empleados ni reciben capacitación","Ikasten ez duten, enplegatuta ez dauden eta gaikuntzarik jasotzen ez duten gazteen proportzioa",SL_TLF_NEET_19ICLS,12,1
+SL_TLF_NEET_19ICLS,"Proporción de jóvenes que no cursan estudios, no están empleados ni reciben capacitación","Ikasten ez duten, enplegatuta ez dauden eta gaikuntzarik jasotzen ez duten gazteen proportzioa",SL_TLF_NEET_19ICLS,12,1
 SL_TLF_UEM,Tasa de desempleo,Langabezia-tasa,SL_TLF_UEM,4,1
 SP_ACS_BSRVH2O,Proporción de viviendas con agua corriente,Edateko ura duten etxebizitzen proportzioa,SP_ACS_BSRVH2O,550,2
 SP_ACS_BSRVSAN,Proporción de viviendas con baño,Bainugela duten etxebizitzen proportzioa,SP_ACS_BSRVSAN,550,2

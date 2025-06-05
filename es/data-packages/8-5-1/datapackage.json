@@ -44,8 +44,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Persona sin discapacidad",
-                "Persona con discapacidad",
+                "Sin discapacidad",
+                "Con discapacidad",
                 ""
               ]
             },

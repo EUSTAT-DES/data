@@ -1952,15 +1952,15 @@ Year,Sexo,Edad,Residencia,Personas sin y con discapacidad,Territorio histórico,
 2016,,16 años y más,,,Gipuzkoa,,,Porcentaje,Gipuzkoa,11.3
 2023,,16 años y más,,,Gipuzkoa,,,Porcentaje,Gipuzkoa,6.4
 2020,,16 años y más,,,Gipuzkoa,,,Porcentaje,Gipuzkoa,8.2
-2015,,16 años y más,Extranjero,,,,,Porcentaje,,42.1
-2023,,16 años y más,Extranjero,,,,,Porcentaje,,20.6
-2017,,16 años y más,Extranjero,,,,,Porcentaje,,30.9
-2022,,16 años y más,Extranjero,,,,,Porcentaje,,20.8
-2016,,16 años y más,Extranjero,,,,,Porcentaje,,35.9
-2020,,16 años y más,Extranjero,,,,,Porcentaje,,29.2
-2021,,16 años y más,Extranjero,,,,,Porcentaje,,26.1
-2018,,16 años y más,Extranjero,,,,,Porcentaje,,27.7
-2019,,16 años y más,Extranjero,,,,,Porcentaje,,24.8
+2015,,16 años y más,Extranjero/a,,,,,Porcentaje,,42.1
+2023,,16 años y más,Extranjero/a,,,,,Porcentaje,,20.6
+2017,,16 años y más,Extranjero/a,,,,,Porcentaje,,30.9
+2022,,16 años y más,Extranjero/a,,,,,Porcentaje,,20.8
+2016,,16 años y más,Extranjero/a,,,,,Porcentaje,,35.9
+2020,,16 años y más,Extranjero/a,,,,,Porcentaje,,29.2
+2021,,16 años y más,Extranjero/a,,,,,Porcentaje,,26.1
+2018,,16 años y más,Extranjero/a,,,,,Porcentaje,,27.7
+2019,,16 años y más,Extranjero/a,,,,,Porcentaje,,24.8
 2023,,16-29 años,,,,,,Porcentaje,,12.8
 2017,,16-29 años,,,,,,Porcentaje,,17.0
 2021,,16-29 años,,,,,,Porcentaje,,17.4
@@ -1975,12 +1975,12 @@ Year,Sexo,Edad,Residencia,Personas sin y con discapacidad,Territorio histórico,
 2015,,16-29 años,,,,,,Porcentaje,,28.4
 2022,,16-29 años,,,,,,Porcentaje,,15.1
 2010,,16-29 años,,,,,,Porcentaje,,18.4
-2017,,16-64 años,,Persona sin discapacidad,,,,Porcentaje,,11.2
-2016,,16-64 años,,Persona sin discapacidad,,,,Porcentaje,,12.4
-2014,,16-64 años,,Persona sin discapacidad,,,,Porcentaje,,16.2
-2015,,16-64 años,,Persona sin discapacidad,,,,Porcentaje,,14.8
-2018,,16-64 años,,Persona sin discapacidad,,,,Porcentaje,,9.7
-2014,,16-64 años,,Persona con discapacidad,,,,Porcentaje,,21.5
+2017,,16-64 años,,Sin discapacidad,,,,Porcentaje,,11.2
+2016,,16-64 años,,Sin discapacidad,,,,Porcentaje,,12.4
+2014,,16-64 años,,Sin discapacidad,,,,Porcentaje,,16.2
+2015,,16-64 años,,Sin discapacidad,,,,Porcentaje,,14.8
+2018,,16-64 años,,Sin discapacidad,,,,Porcentaje,,9.7
+2014,,16-64 años,,Con discapacidad,,,,Porcentaje,,21.5
 2021,Mujer,16 años y más,,,,,,Porcentaje,,10.2
 2010,Mujer,16 años y más,,,,,,Porcentaje,,8.6
 2014,Mujer,16 años y más,,,,,,Porcentaje,,15.9
@@ -3934,15 +3934,15 @@ Year,Sexo,Edad,Residencia,Personas sin y con discapacidad,Territorio histórico,
 2018,Mujer,16 años y más,,,Gipuzkoa,,,Porcentaje,Gipuzkoa,8.9
 2016,Mujer,16 años y más,,,Gipuzkoa,,,Porcentaje,Gipuzkoa,12.3
 2012,Mujer,16 años y más,,,Gipuzkoa,,,Porcentaje,Gipuzkoa,7.9
-2022,Mujer,16 años y más,Extranjero,,,,,Porcentaje,,24.0
-2018,Mujer,16 años y más,Extranjero,,,,,Porcentaje,,28.7
-2021,Mujer,16 años y más,Extranjero,,,,,Porcentaje,,28.3
-2023,Mujer,16 años y más,Extranjero,,,,,Porcentaje,,20.8
-2016,Mujer,16 años y más,Extranjero,,,,,Porcentaje,,32.8
-2020,Mujer,16 años y más,Extranjero,,,,,Porcentaje,,28.7
-2015,Mujer,16 años y más,Extranjero,,,,,Porcentaje,,39.7
-2019,Mujer,16 años y más,Extranjero,,,,,Porcentaje,,25.0
-2017,Mujer,16 años y más,Extranjero,,,,,Porcentaje,,30.5
+2022,Mujer,16 años y más,Extranjero/a,,,,,Porcentaje,,24.0
+2018,Mujer,16 años y más,Extranjero/a,,,,,Porcentaje,,28.7
+2021,Mujer,16 años y más,Extranjero/a,,,,,Porcentaje,,28.3
+2023,Mujer,16 años y más,Extranjero/a,,,,,Porcentaje,,20.8
+2016,Mujer,16 años y más,Extranjero/a,,,,,Porcentaje,,32.8
+2020,Mujer,16 años y más,Extranjero/a,,,,,Porcentaje,,28.7
+2015,Mujer,16 años y más,Extranjero/a,,,,,Porcentaje,,39.7
+2019,Mujer,16 años y más,Extranjero/a,,,,,Porcentaje,,25.0
+2017,Mujer,16 años y más,Extranjero/a,,,,,Porcentaje,,30.5
 2021,Hombre,16 años y más,,,,,,Porcentaje,,9.8
 2022,Hombre,16 años y más,,,,,,Porcentaje,,8.1
 2012,Hombre,16 años y más,,,,,,Porcentaje,,12.1
@@ -5896,12 +5896,12 @@ Year,Sexo,Edad,Residencia,Personas sin y con discapacidad,Territorio histórico,
 2010,Hombre,16 años y más,,,Gipuzkoa,,,Porcentaje,Gipuzkoa,7.7
 2019,Hombre,16 años y más,,,Gipuzkoa,,,Porcentaje,Gipuzkoa,6.9
 2013,Hombre,16 años y más,,,Gipuzkoa,,,Porcentaje,Gipuzkoa,12.7
-2021,Hombre,16 años y más,Extranjero,,,,,Porcentaje,,24.0
-2016,Hombre,16 años y más,Extranjero,,,,,Porcentaje,,39.2
-2019,Hombre,16 años y más,Extranjero,,,,,Porcentaje,,24.7
-2022,Hombre,16 años y más,Extranjero,,,,,Porcentaje,,17.8
-2015,Hombre,16 años y más,Extranjero,,,,,Porcentaje,,44.3
-2020,Hombre,16 años y más,Extranjero,,,,,Porcentaje,,29.6
-2023,Hombre,16 años y más,Extranjero,,,,,Porcentaje,,20.5
-2017,Hombre,16 años y más,Extranjero,,,,,Porcentaje,,31.3
-2018,Hombre,16 años y más,Extranjero,,,,,Porcentaje,,26.6
+2021,Hombre,16 años y más,Extranjero/a,,,,,Porcentaje,,24.0
+2016,Hombre,16 años y más,Extranjero/a,,,,,Porcentaje,,39.2
+2019,Hombre,16 años y más,Extranjero/a,,,,,Porcentaje,,24.7
+2022,Hombre,16 años y más,Extranjero/a,,,,,Porcentaje,,17.8
+2015,Hombre,16 años y más,Extranjero/a,,,,,Porcentaje,,44.3
+2020,Hombre,16 años y más,Extranjero/a,,,,,Porcentaje,,29.6
+2023,Hombre,16 años y más,Extranjero/a,,,,,Porcentaje,,20.5
+2017,Hombre,16 años y más,Extranjero/a,,,,,Porcentaje,,31.3
+2018,Hombre,16 años y más,Extranjero/a,,,,,Porcentaje,,26.6
