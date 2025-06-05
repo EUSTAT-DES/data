@@ -49,7 +49,7 @@
             "constraints": {
               "enum": [
                 "Kilometro koadroak",
-                "Porcentaje",
+                "%",
                 ""
               ]
             },

@@ -57,7 +57,7 @@
             "constraints": {
               "enum": [
                 "Eurotan",
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
