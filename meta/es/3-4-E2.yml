@@ -35,21 +35,33 @@ periodicidad: FUENTE.FREQ_A
 observaciones: |
 
   
-texto_oceca: FUENTE.oceca
+texto_oceca: |
 
  # Metadatos mundiales (Descripción del indicador)  
 
 
 justificacion_global: |
+  Durante más de dos décadas, el aumento gradual de la esperanza de vida en la UE ha sido uno de los 
+  principales factores que contribuyen al envejecimiento de la población europea, junto con unos 
+  niveles de fecundidad relativamente bajos que se han mantenido durante décadas. 
 
+  El brote de la pandemia de COVID-19 en 2020 tendrá un impacto duradero en nuestra forma de vivir 
+  y trabajar juntos. El brote se produjo en un momento en que Europa ya atravesaba un período de 
+  profundos cambios demográficos y sociales. 
+
+
+  Fuente: Eurostat
   
-dato_global: >-
-  
+dato_global: >- 
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/demo_mlexpec/default/table?lang=en">
+  Esperanza de vida por edad y sexo</a> Eurostat
+
 
 comparabilidad: >- 
-  
+  El indicador disponible es comparable con el indicador europeo "Esperanza de vida al nacer (demo_mlexpec)"
 
 indicador_meta_enlace:
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/demo_mor_esms.htm"> Metadatos Eurostat (demo_mor) </a> (solo en inglés) 
 
 informacion_interes: 
 
