@@ -1,0 +1,98 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.8-4-2-title
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-4-titulo
+#  indicador_onu_global: indicador_largo.8-4-2-titulo
+
+
+definicion:  | 
+  El consumo doméstico de materiales (CDM), o consumo interno de materiales, es un indicador 
+  estándar de contabilidad de flujo de materiales (MFA) e informa el consumo aparente 
+  de materiales en la economía de la C.A. de Euskadi.
+
+  El CDM mide la cantidad total de material (biomasa, combustibles fósiles, minerales 
+  metálicos y minerales no metálicos) utilizado directamente en una economía y basado 
+  en cuentas de flujos directos de materiales, es decir, material extraido, 
+  importaciones y exportaciones físicas.
+
+  Los datos se presentan en términos absolutos, por habitante y por unidad de PIB.
+
+formula:  |
+  <b>Consumo doméstico de materiales</b>
+
+  $$CDM^t = Extr^t + Imp^t - Exp^t$$
+
+  donde:
+
+  $Extr^t =$ Extracción doméstica en el año $t$
+
+  $Imp^t =$ Importaciones en el año $t$
+
+  $Exp^t =$ Exportaciones en el año $t$
+
+  <br>
+
+  <b>Consumo doméstico de materiales per cápita</b>
+
+  $$CMDPC^{t} = \frac{{CMD^{t}}}{P^{t}}$$
+
+  donde:
+
+  $CMD^{t} =$ consumo doméstico de materiales en el año $t$
+
+  $P^{t} =$ población a 1 de julio del año $t$
+
+  <br>
+
+  <b>Consumo doméstico de materiales per cápita por unidad de PIB</b>
+
+  $$CMDPIB^{t} = \frac{{CMD^{t}}}{PIB_{2022}^{t}}$$
+
+  donde:
+
+  $CMD^{t} =$ consumo doméstico de materiales en el año $t$
+
+  $PIB_{2022}^{t} =$ Producto interior bruto en volumen encadenado con referencia 2022 
+  en millones de euros en el año $t$ 
+
+desagregacion:
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  El consumo doméstico de materiales (CDM) informa sobre la cantidad de materiales que se 
+  utilizan en una economía. Es un indicador territorial (del lado de la producción). 
+
+  El CDM 
+  también presenta la cantidad de materiales que se deben manipular dentro de una economía, 
+  que se agregan a las existencias de materiales de los edificios y la infraestructura 
+  de transporte o se utilizan para impulsar la economía como producción de materiales. 
+  Describe la dimensión física de los procesos e interacciones económicas. También se 
+  puede interpretar como equivalente de residuos a largo plazo. 
+ 
+  El CDM per cápita 
+  describe el nivel promedio de uso de materiales en una economía (un indicador 
+  de presión ambiental) y también se lo conoce como perfil metabólico.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global:
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-04-02.pdf">Metadatos 8-4-2.pdf</a> (solo en inglés)'
+
+informacion_interes: >-
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

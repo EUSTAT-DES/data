@@ -1,0 +1,72 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.8-5-1-titulo
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-5-titulo
+#  indicador_onu_global: indicador_largo.8-5-1-titulo
+
+
+definicion:  | 
+  Ganancia bruta por hora normal de trabajo del personal asalariado
+
+formula:  |
+  <b>Ingreso medio por hora de las personas empleadas:</b>
+
+  $$GH^{t} = \frac{G^{t}}{H^{t}} $$
+
+  donde:
+
+  $G^{t} =$ ganancia bruta del personal asalariado en el año $t$
+
+  $H^{t} =$ horas normales de trabajo del personal asalariado en el año $t$
+
+  <br>
+
+  <b>Brecha salarial de género:</b>
+
+  $$BSG^{t} = \frac{GPH_{hombre}^{t} - GPH_{mujer}^{t}}{GPH_{hombre}^{t}} \cdot 100$$
+
+  donde:
+
+  $GPH_{hombre}^{t} =$ ganancia promedio por hora de los hombres en el año $t$
+
+  $GPH_{mujer}^{t} =$ ganancia promedio por hora de las mujeres en el año $t$
+
+desagregacion:  |
+  Sexo
+
+  Personas sin discapacidad, y con discapacidad (personal asalariado con un 
+  grado de discapacidad superior o igual al 33%)
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Los ingresos son un aspecto clave de la calidad del empleo y de las condiciones de 
+  vida. La información sobre los ingresos por hora desglosada por diversas clasificaciones 
+  (sexo, edad, ocupación, situación de discapacidad) proporciona cierta 
+  indicación de hasta qué punto se respeta o se logra la igualdad salarial.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-01.pdf">Metadatos 8-5-1.pdf</a> (solo en inglés)'
+
+informacion_interes: >-
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

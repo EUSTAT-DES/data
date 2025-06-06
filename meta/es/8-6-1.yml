@@ -1,0 +1,73 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.8-6-1-title
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-6-titulo
+#  indicador_onu_global: indicador_largo.8-6-1-titulo
+
+
+definicion:  | 
+  Proporción de jóvenes entre 15 y 24 años que no han tenido empleo ni han realizado 
+  estudios o formación (reglada o no reglada) en las últimas cuatro semanas respecto 
+  al total de jóvenes entre 15 y 24 años
+
+formula:  |
+
+  $$PPNINI_{15-24}^{t} = \frac{PNINI_{15-24}^{t}}{P_{15-24}^{t}} \cdot 100$$
+
+  donde:
+
+  $PNINI_{15-24}^{t} =$ población entre 15 y 24 años que no ha tenido empleo ni ha realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas en el año $t$
+
+  $P_{15-24}^{t} =$ población entre 15 y 24 años en el año $t$
+
+
+desagregacion:  |
+  Sexo
+
+  Territorio histórico
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  La proporción de jóvenes que no tienen empleo, educación ni formación 
+  (tasa de jóvenes que no estudian ni reciben formación) proporciona una medida de 
+  los jóvenes que están fuera del sistema educativo, que no reciben formación ni empleo 
+  y, por lo tanto, sirve como una medida más amplia de los jóvenes que pueden 
+  ingresar al mercado laboral que el desempleo juvenil. 
+
+  Incluye a los jóvenes que no se animan a trabajar, así como a aquellos que 
+  están fuera de la fuerza laboral debido a una discapacidad o por su participación en 
+  las tareas domésticas, entre otras razones. 
+
+  La tasa de jóvenes que no estudian ni reciben formación también es una mejor medida 
+  del universo actual de jóvenes que pueden ingresar al mercado laboral en comparación 
+  con la tasa de inactividad juvenil, ya que esta última incluye a aquellos jóvenes 
+  que están fuera de la fuerza laboral y están recibiendo educación, y por lo tanto 
+  están mejorando sus habilidades y calificaciones.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=8.6.1&seriesCode=SL_TLF_NEET&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15-24%20%7C%20BOTHSEX">Proporción de jóvenes que no estudian, ni trabajan ni reciben formación, por sexo y edad - 13.ª CIET (%) SL_TLF_NEET</a> UNSTATS
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-06-01.pdf">Metadatos 8-6-1.pdf</a> (solo en inglés)'
+
+informacion_interes: >-
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

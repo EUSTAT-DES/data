@@ -1,0 +1,60 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+#objetivo_global: objetivo_largo.13-titulo
+#meta_global: meta_largo.13-1-titulo
+#indicador_onu_global: indicador_largo.13-1-2-titulo
+
+
+definicion: 
+formula: 
+desagregacion: 
+periodicidad: 
+observaciones: 
+ 
+# Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  El Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030 fue adoptado por los Estados Miembros de las 
+  Naciones Unidas en marzo de 2015 como una política global de reducción del riesgo de desastres. 
+
+  El resultado esperado del Marco de Sendai es lograr “La reducción sustancial del riesgo de desastres y las 
+  pérdidas en vidas, medios de subsistencia y salud y en los activos económicos, físicos, sociales, culturales 
+  y ambientales de las personas, las empresas, las comunidades y los países”. Entre las metas globales del 
+  Marco de Sendai, la “Meta E: Aumentar sustancialmente el número de países con estrategias nacionales y 
+  locales de reducción del riesgo de desastres para 2020” tiene como objetivo mejorar 
+  el progreso global y la cobertura de las estrategias y políticas nacionales y locales de 
+  reducción del riesgo de desastres. 
+
+  Los objetivos de los planes, estrategias y políticas nacionales 
+  de reducción del riesgo de desastres son prevenir nuevos riesgos de desastres y reducir los 
+  existentes mediante la implementación de medidas económicas, estructurales, legales, 
+  sociales, de salud, culturales, educativas, ambientales, tecnológicas, políticas e 
+  institucionales integradas e inclusivas que prevengan y reduzcan la exposición a peligros y 
+  la vulnerabilidad a los desastres, aumenten la preparación para la respuesta y la recuperación y, 
+  de esa manera, fortalezcan la resiliencia. 
+
+  El indicador creará un puente entre los ODS y el Marco de Sendai para la Reducción del 
+  Riesgo de Desastres. Un número cada vez mayor de gobiernos nacionales que adopten e 
+  implementen estrategias nacionales y locales de reducción del riesgo de desastres, como 
+  lo exige el Marco de Sendai, contribuirá al desarrollo sostenible desde las perspectivas 
+  económica, ambiental y social.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=13.1.2&seriesCode=SG_DSR_SFDRR&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Número de países que informaron tener una Estrategia Nacional de RRD alineada con el Marco de Sendai SG_DSR_SFDRR</a> UNSTATS
+
+comparabilidad: >-
+
+indicador_meta_enlace: >-
+   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-13-01-02.pdf">Metadatos 13-1-2.pdf</a> (solo en inglés)
+
+informacion_interes: 
+
+national_data_updated_date:
+national_metadata_updated_date: ''

@@ -1,0 +1,62 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.12-5-1-titulo
+
+objetivo_global: objetivo_largo.12-titulo
+meta_global: meta_largo.12-5-titulo
+#  indicador_onu_global: indicador_largo.12-5-1-titulo
+
+definicion: >-
+  Proporción de residuos urbanos reciclados respecto del total de residuos urbanos 
+  generados y tratados procedentes de los hogares y del sector servicios (comercios, 
+  oficinas e instituciones públicas o privadas), cuya gestión es asumida por las entidades locales
+
+formula: |
+
+  $$PRU_{reciclados}^{t} = \frac{\frac{RU_{reciclados}^{t}}{P^{t}}}{365}$$
+
+  donde: 
+
+  $RU_{reciclados}^{t} =$ cantidad de residuos urbanos reciclados en el año en el año $t$
+
+  $RU^{t} =$ cantidad total de residuos urbanos generados y tratados en el año $t$
+
+
+desagregacion: |
+  Territorio histórico
+
+
+observaciones: 
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Minimizar la generación de residuos y maximizar su reciclaje es fundamental para el 
+  concepto de economía circular. Sin embargo, actualmente, se estima que la cantidad 
+  total de materiales producidos que se reciclan es baja (según la literatura académica). 
+
+  Si los países comprenden mejor cómo se generan, recolectan y reciclan los residuos, 
+  esto les permitirá a los países y a otras partes interesadas determinar mejor cómo 
+  abordar los principales flujos de residuos, por ejemplo, los desechos electrónicos 
+  o el plástico.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+comparabilidad: >-
+  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas.
+
+dato_global:
+
+indicador_meta_enlace: 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-05-01.pdf">Metadatos 12-5-1.pdf</a> (solo en inglés)
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

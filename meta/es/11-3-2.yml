@@ -1,0 +1,72 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.11-3-2-title
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-3-titulo
+#  indicador_onu_global: indicador_largo.11-3-2-titulo
+
+
+definicion: >- 
+  Proporción de ciudades que cuentan con una estructura de participación directa de la sociedad civil en la planificación y la gestión urbana que funcione con regularidad y democráticamente
+
+formula: |
+
+  $$PCPD^{t} = \frac{CPD^{t}}{C^{t}} \cdot 100$$
+
+  donde: 
+
+  $CPD^{t} =$ ciudades con una estructura de participación directa de la sociedad civil en la planificación y gestión urbana en el año $t$ 
+
+  $C^{t} =$ ciudades en el año $t$
+
+
+desagregacion: 
+
+
+observaciones: >-
+  El indicador es del 100% dada la legislación estatal del suelo, de aplicación general a todas las ciudades
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Este indicador mide el progreso y la voluntad de los representantes electos, 
+  los administradores urbanos y los planificadores para integrar la participación de 
+  los residentes y la sociedad civil en la planificación y la gestión urbanas 
+  a distintos niveles. Las autoridades locales y los gobiernos, junto con la comunidad internacional, 
+  reconocen cada vez más el valor de la participación de la sociedad civil y los 
+  residentes en el fortalecimiento de los procesos de desarrollo urbano.
+
+  Este enfoque centrado en las personas es clave para orientar los procesos de 
+  desarrollo urbano hacia la propiedad local y la implementación de proyectos comunitarios a 
+  nivel de toda la ciudad o local.
+
+  La sociedad civil y la participación pública fomentan una relación positiva 
+  entre el gobierno y el público mediante la comunicación eficaz y la solución de los 
+  conflictos de manera cooperativa. En muchos casos, cuando las decisiones de planificación 
+  urbana se toman sin consulta, no se logran los resultados deseados y hay 
+  un impacto negativo en la sociedad, debido a la asignación y el uso ineficientes de 
+  los recursos. Garantizar que se tengan en cuenta amplias variedades de opiniones ayuda 
+  a los encargados de la toma de decisiones a comprender las interrelaciones y la naturaleza de 
+  los problemas y las posibles soluciones que enfrentan los diferentes entornos urbanos.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global:
+
+comparabilidad: >- 
+  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta información similar.
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-03-02.pdf">Metadatos 11-3-2.pdf</a> (solo en inglés)
+
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

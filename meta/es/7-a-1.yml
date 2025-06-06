@@ -1,0 +1,52 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.7-titulo
+# meta_global: meta_largo.7-a-titulo
+#  indicador_onu_global: indicador_largo.7-a-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  La Asistencia Oficial para el Desarrollo (AOD) y otros flujos oficiales (FO) totales para 
+  los países en desarrollo cuantifican el esfuerzo financiero público (excluidos los créditos 
+  a la exportación) que los donantes proporcionan a los países en desarrollo para energías 
+  renovables. Los flujos adicionales (de la base de datos de IRENA) capturan los flujos hacia países no 
+  receptores de AOD en regiones en desarrollo, los flujos de países e instituciones que 
+  actualmente no informan al CAD y otros tipos de flujos, como los créditos a la exportación.
+
+  El acceso a la energía es una importante limitación para el desarrollo en muchos 
+  países en desarrollo y, si bien parte de una base relativamente baja, se prevé 
+  que la demanda de energía crezca muy rápidamente en muchos de estos países en el 
+  futuro. Esto representa una oportunidad para que los países en desarrollo utilicen 
+  tecnologías limpias y renovables para satisfacer sus futuras necesidades energéticas 
+  si pueden acceder a las tecnologías y la experiencia adecuadas.
+
+  Este indicador proporciona una medida adecuada del apoyo internacional brindado a los 
+  países en desarrollo para acceder a estas tecnologías.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=7.a.1&seriesCode=EG_IFF_RANDN&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALL">Flujos financieros internacionales hacia países en desarrollo en apoyo de la investigación y el desarrollo de energías limpias y la producción de energías renovables, incluso en sistemas híbridos (millones de dólares estadounidenses constantes de 2022) EG_IFF_RANDN</a> UNSTATS
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-0a-01.pdf">Metadatos 7-a-1.pdf</a> (solo en inglés)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

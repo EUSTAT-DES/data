@@ -1,0 +1,81 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.8-5-2-title
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-5-titulo
+#  indicador_onu_global: indicador_largo.8-5-2-titulo
+
+
+definicion:  | 
+  Proporción de personas desempleadas respecto a las personas económicamente activas
+
+formula:  |
+
+  $$TD^{t} = \frac{D^{t}}{A^{t}} \cdot 100$$
+
+  donde:
+
+  $D^{t} =$ personas desempleadas en el año $t$
+
+  $A^{t} =$ personas económicamente activas en el año $t$
+
+
+desagregacion:  |
+  Sexo
+
+  Edad
+
+  Residencia
+
+  Personas sin discapacidad, y con discapacidad (personas con un 
+  grado de discapacidad superior o igual al 33%)
+
+  Territorio histórico
+
+  Comarca
+
+  Municipio
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  La tasa de desempleo es una medida útil de la subutilización de la oferta laboral. 
+  Refleja la incapacidad de una economía para generar empleo para aquellas personas 
+  que quieren trabajar pero no lo hacen, a pesar de que están disponibles para 
+  trabajar y buscan trabajo activamente. Por lo tanto, se considera 
+  un indicador de la eficiencia y eficacia de una economía para absorber su fuerza 
+  laboral y del desempeño del mercado laboral. 
+
+  Las series temporales de corto plazo de la tasa de desempleo pueden 
+  utilizarse para  señalar cambios en el ciclo económico; los movimientos 
+  ascendentes del indicador a menudo coinciden con períodos recesivos o, en algunos casos, 
+  con el comienzo de un período expansivo, ya que personas que anteriormente no 
+  estaban en el mercado laboral comienzan a probar las condiciones mediante una 
+  búsqueda activa de empleo.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=8.5.2&seriesCode=SL_TLF_UEM&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15-24%20%7C%20BOTHSEX">Tasa de desempleo, por sexo y edad - 13ª CIET (%) SL_TLF_UEM</a> UNSTATS
+
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-02.pdf">Metadatos 8-5-2.pdf</a> (solo en inglés)'
+
+informacion_interes: >-
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

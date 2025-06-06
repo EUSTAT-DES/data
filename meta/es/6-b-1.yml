@@ -1,0 +1,80 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.6-b-1-title
+
+objetivo_global: objetivo_largo.6-titulo
+meta_global: meta_largo.6-b-titulo
+#  indicador_onu_global: indicador_largo.6-b-1-titulo
+
+
+definicion: |
+
+  Proporción de dependencias administrativas locales (ayuntamientos) que 
+  han establecido políticas y procedimientos operacionales para la participación 
+  de las comunidades locales en la gestión y el saneamiento de aguas de consumo 
+  y en la gestión de aguas de baño
+
+formula: |
+
+  $$PDAL_{gestión\, de\, agua}^{t} = \frac{DAL_{gestión\, de\, agua}^{t}}{DAL^{t}} \cdot 100$$
+
+  donde:
+
+  $DAL_{gestión\, de\, agua}^{t} =$ dependencias administrativas locales (ayuntamientos) que han establecido políticas y procedimientos operacionales para la gestión del agua en el año $t$
+
+  $DAL^{t} =$ dependencias administrativas locales (ayuntamientos) en el año $t$
+
+
+desagregacion: >- 
+   Tipo de gestión del agua: gestión y saneamiento de aguas de consumo; gestión de aguas de baño
+
+ 
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+  El indicador es del 100% ya que los ayuntamientos son responsables de la calidad 
+  del agua de consumo humano, pudiendo gestionar su suministro directamente o a 
+  través de un gestor (Real Decreto 140/2003, de 7 de febrero, por el que se 
+  establecen los criterios sanitarios de la calidad del agua de consumo humano), 
+  y son asimismo responsables de la gestión de las aguas de baño 
+  (Real Decreto 1341/2007, de 11 de octubre, sobre la gestión de la calidad 
+  de las aguas de baño)
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Definir los procedimientos en las políticas o leyes para la participación 
+  de las comunidades locales es vital para garantizar que se satisfagan 
+  las necesidades de toda la comunidad, incluidas las de los más vulnerables, 
+  y también fomenta la apropiación de los planes, lo que a su vez contribuye 
+  a su sostenibilidad.
+
+  Un valor bajo de este indicador sugeriría que la participación de las 
+  comunidades locales en la gestión del agua y el saneamiento es baja, 
+  mientras que un valor alto indicaría altos niveles de participación, 
+  lo que indica una mayor apropiación y una mayor probabilidad de prestación 
+  y gestión sostenibles de los servicios de agua y saneamiento.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.b.1&seriesCode=ER_WAT_PARTIC&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proporción de países con un alto nivel de usuarios/comunidades que participan en programas de planificación y gestión de recursos hídricos (%) ER_WAT_PARTIC</a> UNSTATS
+
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: 
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-0B-01.pdf">Metadatos 6-b-1.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
