@@ -9,8 +9,8 @@ meta_global: meta_largo.1-2-titulo
 
 
 definicion: >-
-  EAEko medianaren % 60tik beherako kontsumo-unitateko diru-sarrerak 
-  dituzten pertsonen proportzioa (ELGA eskala aldatua) 
+  Euskadiko A.E.-ko diru-sarreren medianaren %60tik beherako diru-sarrera 
+  baliokidea duten pertsonen proportzioa (ELGAren baliokidetasun-eskala aldatua erabiliz doitua).
 
 formula: |
 
@@ -18,7 +18,7 @@ formula: |
 
   non:
 
-  $P_{RPR}^{t} =$ diru-sarreren medianaren % 60tik beherako kontsumo-unitateko diru-sarrerak dituzten biztanleak $t$ urtean (ELGA eskala aldatua)
+  $P_{RPR}^{t} =$ diru-sarreren medianaren %60tik beherako diru-sarrera baliokidea duten biztanleak $t$ urtean
 
   $P^{t} =$ biztanleria $t$ urtean
 
@@ -27,10 +27,13 @@ desagregacion: >-
 
 periodicidad: FUENTE.FREQ_A2
 
-observaciones: >-
-  Etxeko kontsumo-unitateen kopurua kalkulatzeko, ELGA eskala aldatua erabiltzen da. 
-  Eskala horrek 1 pisua esleitzen dio 14 urte edo gehiagoko lehen pertsonari, 0,5 pisua 14 urte edo 
-  gehiagoko gainerako pertsonei eta 0,3 pisua 14 urtetik beherako pertsonei.  
+observaciones: >- 
+  Diru-sarrera baliokidea etxeko diru-sarrera erabilgarria da, etxeko 
+  kontsumo-unitate kopuruaren arabera zatitua, ELGAren (Ekonomia Lankidetza eta Garapenerako Erakundea)
+  baliokidetasun-eskala aldatua erabiliz.
+  Eskala horren arabera, 1 pisuko pisua esleitzen zaio 14 urte edo gehiagoko lehen pertsonari, 
+  0,5 pisukoa gainerako pertsona helduei, eta 0,3 pisukoa 14 urtetik beherakoei.
+  Helburua da tamaina eta osaera desberdina duten etxeen arteko bizi-mailak modu parekatuan alderatzea.
 
 texto_oceca: FUENTE.oceca
 
@@ -49,7 +52,7 @@ justificacion_global: |
   baxuagoa duten pertsonen proportzioa (transferentzia sozialen ostean). EBn atalase hori hitzarmen bidez zehazten 
   da: errenta baliokide eskuragarriaren medianaren % 60, lurralde bateko transferentzia sozialen ostean. 
 
-  Aldeek etxe baten tamainan eta osaeran duten eragina kontuan hartzeko, etxe baten diru-sarrera eskuragarria 
+  Aldeek etxe baten tamainan eta osaeran duten eragina kontuan hartzeko, etxe baten diru-sarrera erabilgarria 
   (diru-sarrerak guztira, gastatzeko edo aurrezteko moduan daudenak, zergak eta beste kenkari batzuk aplikatu ondoren) 
   zatitu egin behar da heldu bihurtu diren etxeko kide baliokideen arabera (kontsumo-unitateak). EBn aplikatzen den 
   baliokidetasun-faktorea ELGAren eskala aldatuaren arabera kalkulatzen da (1994an proposatua). 

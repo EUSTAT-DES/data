@@ -9,8 +9,9 @@ meta_global: meta_largo.1-2-titulo
 
 
 definicion: >-
-  Proporción de personas con ingresos por unidad de consumo por debajo del 
-  60% de la mediana de la C.A. de Euskadi (escala OCDE modificada)
+
+  Proporción de personas con un ingreso disponible equivalente inferior al 60 % de la mediana
+  de la C.A. de Euskadi (ajustado según la escala de equivalencia modificada de la OCDE).
 
 formula: |
 
@@ -18,7 +19,7 @@ formula: |
 
   donde:
 
-  $P_{RPR}^{t} =$ población con ingresos por debajo del 60% de la mediana de los ingresos por unidad de consumo (escala OCDE modificada) en el año $t$
+  $P_{RPR}^{t} =$ población con un ingreso disponible equivalente por debajo del umbral de pobreza (60 % de la mediana de ingresos) en el año $t$
 
   $P^{t} =$ población total en el año $t$
 
@@ -28,10 +29,12 @@ desagregacion: >-
 periodicidad: FUENTE.FREQ_A2
 
 observaciones: >-
-  El número de unidades de consumo de un hogar
-  se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
-  primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
-  más años y un peso de 0,3 a las personas de menos de 14 años.
+  El ingreso disponible equivalente es el resultado de dividir el ingreso total 
+  disponible del hogar entre el número de unidades de consumo, calculadas según 
+  la escala de equivalencia modificada de la OCDE. Esta escala asigna un peso de 
+  1 a la primera persona adulta (14 o más años), 0,5 al resto de personas adultas 
+  y 0,3 a cada menor de 14 años. El objetivo es permitir comparaciones entre 
+  hogares de distinto tamaño y composición.
 
 texto_oceca: FUENTE.oceca
 
@@ -75,5 +78,5 @@ indicador_meta_enlace: |
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

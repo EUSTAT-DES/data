@@ -30,15 +30,11 @@ periodicidad: FUENTE.FREQ_A2
 
 observaciones: >- 
 
-  Para tener en cuenta el impacto de las diferencias en el tamaño y la composición del hogar,
-  el ingreso disponible de un hogar se divide por el número de miembros del hogar convertidos en adultos 
-  equivalentes (unidades de consumo). 
-
-  El número de unidades de consumo de un hogar
-  se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
-  primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
-  más años y un peso de 0,3 a las personas de menos de 14 años.
-
+  La renta equivalente es un valor derivado de la renta total de un hogar y del número y la edad de las 
+  personas que viven de ella. Mediante una escala de equivalencia, la renta se pondera según el tamaño 
+  y la composición del hogar, ya que el uso compartido del espacio habitable y los electrodomésticos 
+  genera ahorros. Al asignar la renta equivalente equitativamente a cada miembro del hogar, 
+  es posible comparar la renta independientemente del tamaño del hogar o de la edad de sus miembros.
 
 
  # Metadatos mundiales (Descripción del indicador)  
