@@ -11,36 +11,36 @@ definicion: |
 
   Adierazle honek bi serie ditu: 
 
-  <b> - Nekazaritzaren eta abeltzaintzaren amoniako-isuriak (NH3)</b>
+  <b> - Nekazaritzaren eta abeltzaintzaren amoniako-isuriak ($NH_3$)</b>
   
-  <b> - Nekazaritzaren eta abeltzaintzaren amoniako-isuriak (NH3) hektareako:</b> 
-  Nekazaritzaren eta abeltzaintzaren amoniako-isuriak (NH3) laborantzarako, belardietarako 
+  <b> - Nekazaritzaren eta abeltzaintzaren amoniako-isuriak ($NH_3$) hektareako:</b> 
+  Nekazaritzaren eta abeltzaintzaren amoniako-isuriak ($NH_3$) laborantzarako, belardietarako 
   eta larreetarako hektarea bakoitzeko 
 
 
 formula: |
 
-  <b> Nekazaritzaren eta abeltzaintzaren amoniako-isuriak (NH3)</b>
+  <b> Nekazaritzaren eta abeltzaintzaren amoniako-isuriak ($NH_3$)</b>
 
   $$ENH3_{nekazaritza\, eta\, abeltzaintza}^{t} = ENH3_{nekazaritza}^{t} + ENH3_{abeltzaintza}^{t}$$
 
   non: 
 
-  $ENH3_{nekazaritza}^{t}$ = nekazaritzaren amoniako-isuriak $t$ urtean
+  $ENH3_{nekazaritza}^{t}$ = nekazaritzaren $NH_3$ isuriak $t$ urtean
 
-  $ENH3_{abeltzaintza}^{t}$ = abeltzaintzaren amoniako-isuriak $t$ urtean
+  $ENH3_{abeltzaintza}^{t}$ = abeltzaintzaren $NH_3$ isuriak $t$ urtean
 
   <br>
 
-  <b>Nekazaritzaren eta abeltzaintzaren amoniako-isuriak (NH3) hektareako</b>
+  <b>Nekazaritzaren eta abeltzaintzaren amoniako-isuriak ($NH_3$) hektareako</b>
 
   $$ENH3S_{nekazaritza\, eta\, abeltzaintza}^{t} = \frac{ENH3_{nekazaritza}^{t} + ENH3_{abeltzaintza}^{t}}{S_{labore-lurrak}^{t} + S_{belardiak\, eta\, larreak}^{t}}$$
 
   non:
 
-  $ENH3_{nekazaritza}^{t}$ = nekazaritzaren amoniako-isuriak $t$ urtean
+  $ENH3_{nekazaritza}^{t}$ = nekazaritzaren $NH_3$ isuriak $t$ urtean
 
-  $ENH3_{abeltzaintza}^{t}$ = abeltzaintzaren amoniako-isuriak $t$ urtean
+  $ENH3_{abeltzaintza}^{t}$ = abeltzaintzaren $NH_3$ isuriak $t$ urtean
 
   $S_{labore-lurrak}^{t}$ = labore-lurren azalera $t$ urtean
 
@@ -48,7 +48,7 @@ formula: |
 
 
 desagregacion: >-
-  Jarduera: nekazaritza; abeltzaintza
+  Nekazal-jarduera mota
 
 observaciones: |
 
@@ -65,8 +65,8 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  Adierazlea EBko Garapen Jasangarriko Helburuen (GJH) adierazleen parte da. Goseari eta desnutrizioari amaiera jartzeko 
-  2. GJHrako aurrerapenaren jarraipena egiteko erabiltzen da, eta Europako Batzordearen lehentasunetan sartzen da, Europako 
+  Adierazlea EBko Garapen Jasangarriko Helburuen (GJH) adierazleen parte da. Goseari eta desnutrizioari amaiera jartzeko 2. GJHrako aurrerapenaren 
+  jarraipena egiteko erabiltzen da, eta Europako Batzordearen lehentasunetan sartzen da, Europako 
   Akordio Berdearen esparruan. 
 
   Adierazleak nekazaritzako ekoizpenaren ondoriozko amoniako-emisioak neurtzen ditu ($NH_3$). Emisio hauen atzean daude 
