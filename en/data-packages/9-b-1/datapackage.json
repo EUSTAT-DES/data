@@ -16,28 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NV_IND_TECH",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Actividad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISIC4_C",
-                ""
-              ]
-            },
-            "title": "Actividad"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

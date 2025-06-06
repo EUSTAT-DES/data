@@ -16,6 +16,19 @@
             "title": "Year"
           },
           {
+            "name": "Pobreza",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NAHC",
+                "SMSD",
+                "VLWI",
+                ""
+              ]
+            },
+            "title": "Pobreza"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

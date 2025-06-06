@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y18T49",
-                ""
-              ]
-            },
-            "title": "Edad"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

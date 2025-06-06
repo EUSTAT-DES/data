@@ -1658,24 +1658,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
             "title": "Año"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "18-49 años",
-                ""
-              ]
-            },
-            "title": "Edad"
           },
           {
             "name": "Units",
@@ -1771,28 +1760,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Año"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción del valor añadido por la industria de tecnología mediana y alta en el valor añadido total",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
-            "name": "Actividad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Manufactura",
-                ""
-              ]
-            },
-            "title": "Actividad económica"
           },
           {
             "name": "Units",
@@ -11673,13 +11640,26 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Pobreza",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Riesgo de pobreza (monetaria)",
+                "Carencia material y social severa",
+                "Baja intensidad de trabajo",
+                ""
+              ]
+            },
+            "title": "Dimensión de la pobreza"
           },
           {
             "name": "Units",

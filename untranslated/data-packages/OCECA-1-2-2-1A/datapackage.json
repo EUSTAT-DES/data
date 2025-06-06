@@ -15,6 +15,18 @@
             "type": "integer"
           },
           {
+            "name": "Pobreza",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NAHC",
+                "SMSD",
+                "VLWI",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

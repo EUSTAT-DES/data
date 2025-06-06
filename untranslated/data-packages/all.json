@@ -1572,16 +1572,6 @@
             "type": "integer"
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y18T49",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -1667,26 +1657,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NV_IND_TECH",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Actividad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISIC4_C",
-                ""
-              ]
-            }
           },
           {
             "name": "Units",
@@ -11032,6 +11002,18 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Pobreza",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NAHC",
+                "SMSD",
+                "VLWI",
+                ""
+              ]
+            }
           },
           {
             "name": "Units",

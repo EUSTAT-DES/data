@@ -16,6 +16,19 @@
             "title": "Urtea"
           },
           {
+            "name": "Pobreza",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pobrezia-arriskua (monetarioa)",
+                "Gabezia material eta sozial larria",
+                "Lan-intentsitate txikia",
+                ""
+              ]
+            },
+            "title": "Pobreziaren dimentsioa"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

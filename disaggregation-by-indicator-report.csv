@@ -86,7 +86,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-5-1,"Units, Sexo, Adiccion",3
 #3-5-2,"Series, Units",2
 #3-6-1,"Series, Units, Sexo, Territorio",4
-#3-7-1,"Units, Edad",2
+#3-7-1,Units,1
 #3-7-2,"Series, Units, Edad",3
 #3-8-1,"Units, Sexo",2
 #3-8-2,"Units, Gasto",2
@@ -146,5 +146,5 @@ Indicator,Disaggregations,Number of disaggregations
 #9-4-E1,"Units, PM",2
 #9-5-1,"Series, Units, Territorio",3
 #9-5-2,"Series, Units, Territorio",3
-#9-b-1,"Series, Units, Actividad",3
+#9-b-1,Units,1
 #9-c-1,"Series, Units, Territorio",3

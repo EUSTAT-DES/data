@@ -1667,17 +1667,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "18-49 urte",
-                ""
-              ]
-            },
-            "title": "Adina"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -1771,28 +1760,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Urtea"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Balio erantsiaren proportzioa teknologia-industria ertain eta altuak guztizko balio erantsian",
-                ""
-              ]
-            },
-            "title": "Seriea"
-          },
-          {
-            "name": "Actividad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Manufaktura",
-                ""
-              ]
-            },
-            "title": "Jarduera ekonomikoa"
           },
           {
             "name": "Units",
@@ -11680,6 +11647,19 @@
             "name": "Year",
             "type": "integer",
             "title": "Urtea"
+          },
+          {
+            "name": "Pobreza",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pobrezia-arriskua (monetarioa)",
+                "Gabezia material eta sozial larria",
+                "Lan-intentsitate txikia",
+                ""
+              ]
+            },
+            "title": "Pobreziaren dimentsioa"
           },
           {
             "name": "Units",
