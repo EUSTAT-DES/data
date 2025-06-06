@@ -12,16 +12,18 @@ indicador_disponible: GRAFICO.nodisponible
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |  
-  El propósito de este indicador es proporcionar información detallada 
-  sobre el nivel de subvenciones a la exportación aplicadas anualmente por 
-  producto o grupo de productos, según lo notificado por los Miembros de la OMC.
+  Adierazle honen asmoa da produktuko edo produktu-taldeko urtero aplikatutako esportazioetarako 
+  dirulaguntzen mailari buruzko informazio zehatza ematea, Merkataritzako Mundu Erakundeko kideek 
+  jakinarazitakoaren arabera. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa
+
 
 dato_global: >- 
 
 
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0b-01.pdf">Metadatos 2-b-1.pdf (solo en inglés)</a>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0b-01.pdf">Metadatuak 2-b-1.pdf</a> (ingelesez bakarrik) 
 
 

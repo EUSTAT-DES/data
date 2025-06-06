@@ -9,26 +9,26 @@ meta_global: meta_largo.3-3-titulo
 
 
 definicion: >-
-  Casos autóctonos de tuberculosis notificados a la Red Nacional de Vigilancia Epidemiológica (RENAVE) por cada 100.000 habitantes.
+  Zaintza Epidemiologikoko Sare Nazionalari (RENAVE) jakinarazitako tuberkulosi-kasu autoktonoak 100.000 biztanleko
 
 formula: |
 
-  $$TCA_{tuberculosis}^{t} = \frac{CA_{tuberculosis}^{t}}{P^{t}} \cdot 100.000$$
+  $$TCA_{tuberkulosia}^{t} = \frac{CA_{tuberkulosia}^{t}}{P^{t}} \cdot 100.000$$
 
-  donde:
+  non:
 
-  $CA_{tuberculosis}^{t} =$ casos autóctonos de tuberculosis notificados a la Red Nacional de Vigilancia Epidemiológica (RENAVE) en el año $t$
+  $CA_{tuberkulosia}^{t} =$ Zaintza Epidemiologikoko Sare Nazionalari (RENAVE) jakinarazitako tuberkulosi-kasu autoktonoak $t$ urtean 
 
-  $P^{t} =$ población a 1 de julio del año $t$
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean 
 
 desagregacion: >- 
-  Sexo
+  Sexua
 
 periodicidad: FUENTE.FREQ_A
 
 
 observaciones: >-
-  Los casos autóctonos son aquellos en los que la enfermedad se ha contraído en el territorio nacional.
+  Kasu autoktonoak dira gaixotasuna lurralde nazionalean harrapatu dutenak
 
 texto_oceca: FUENTE.oceca
 
@@ -37,27 +37,29 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |
 
-  Tras dos años de consultas, la OMS aprobó una estrategia mundial contra la tuberculosis después de 2015,
-  en mayo de 2014. Conocida como Estrategia Fin a la Tuberculosis, cubre el período 2016-2035. El objetivo general
-  es “poner fin a la epidemia mundial de tuberculosis” y, en consecuencia, contiene objetivos ambiciosos para reducir la tuberculosis. 
-  Las objetivos de muertes y casos de tuberculosis están fijados para 2030 (reducción del 80% en la tasa de incidencia en 
-  comparación con el nivel de 2015) y 2035 (reducción del 90% en la tasa de incidencia), en el contexto de los ODS.
+  Bi urteko kontsulten ostean, OMEk 2015aren ondoko tuberkulosiaren aurkako munduko estrategia onartu zuen 
+  2014ko maiatzean. “Tuberkulosiaren Amaiera” izeneko estrategiak 2016-2035 aldia hartzen du. Helburu nagusia 
+  da “amaiera ematea tuberkulosiaren munduko epidemiari” eta, horretarako, tuberkulosia murrizteko helburu 
+  handizaleak jasotzen ditu. Tuberkulosiaren kasuen eta heriotzen helburuak 2030erako (intzidentzia-tasa % 80 
+  murriztea 2015eko mailekin alderatuta) eta 2035erako (intzidentzia-tasa % 90 murriztea) ezartzen dira, GJHen 
+  testuinguruan. 
 
-  La incidencia de tuberculosis (TB) se define como el número estimado de casos nuevos y recurrentes de 
-  tuberculosis (toda forma de tuberculosis, incluidos los casos en personas que viven con el VIH) que surgen en 
-  un año determinado. Generalmente se expresa como tasa por 100.000 habitantes.
+  Tuberkulosiaren intzidentzia urte jakin batean sortzen diren tuberkulosiaren kasu berrien eta errepikakorren 
+  zenbatekoa da (tuberkulosiaren forma guztiak, GIBarekin bizi diren pertsonak barne). Oro har, 100.000 biztanleko 
+  tasa gisa adierazten da. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
 
 
 dato_global: >-
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.3.2&seriesCode=SH_TBS_INCD&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Incidencia de tuberculosis (por 100.000 habitantes) SH_TBS_INCD</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.3.2&seriesCode=SH_TBS_INCD&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Tuberkulosiaren intzidentzia (100.000 biztanleko) SH_TBS_INCD</a> UNSTATS
 
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-02.pdf">Metadatos 3-3-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-02.pdf">Metadatuak 3-3-2.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 

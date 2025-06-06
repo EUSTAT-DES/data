@@ -9,29 +9,28 @@ meta_global: meta_largo.1-2-titulo
 
 
 definicion: >-
-  Proporción de personas con ingresos por unidad de consumo por debajo del 
-  60% de la mediana de la C.A. de Euskadi (escala OCDE modificada)
+  EAEko medianaren % 60tik beherako kontsumo-unitateko diru-sarrerak 
+  dituzten pertsonen proportzioa (ELGA eskala aldatua) 
 
 formula: |
 
   $$PP_{RPR}^{t} = \frac{P_{RPR}^{t}}{P^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $P_{RPR}^{t} =$ población con ingresos por debajo del 60% de la mediana de los ingresos por unidad de consumo (escala OCDE modificada) en el año $t$
+  $P_{RPR}^{t} =$ diru-sarreren medianaren % 60tik beherako kontsumo-unitateko diru-sarrerak dituzten biztanleak $t$ urtean (ELGA eskala aldatua)
 
-  $P^{t} =$ población total en el año $t$
+  $P^{t} =$ biztanleria $t$ urtean
 
 desagregacion: >-
-  Sexo
+  Sexua
 
 periodicidad: FUENTE.FREQ_A2
 
 observaciones: >-
-  El número de unidades de consumo de un hogar
-  se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
-  primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
-  más años y un peso de 0,3 a las personas de menos de 14 años.
+  Etxeko kontsumo-unitateen kopurua kalkulatzeko, ELGA eskala aldatua erabiltzen da. 
+  Eskala horrek 1 pisua esleitzen dio 14 urte edo gehiagoko lehen pertsonari, 0,5 pisua 14 urte edo 
+  gehiagoko gainerako pertsonei eta 0,3 pisua 14 urtetik beherako pertsonei.  
 
 texto_oceca: FUENTE.oceca
 
@@ -40,38 +39,35 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |
 
-  El indicador de riesgo de pobreza relativa (At-Risk-of-Poverty Rate en inglés) o pobreza monetaria
-  es uno de los indicadores clave para hacer el seguimiento de la pobreza en la Unión Europea.
+  Europar Batasunean pobreziaren jarraipena egiteko adierazle gakoetako bat pobrezia erlatiboaren arriskuaren adierazlea 
+  (At-Risk-of-Poverty Rate, ingelesez) edo diru-pobrezia izenekoa da. 
 
-  Este indicador no mide ni la riqueza ni la pobreza, sino bajos ingresos en comparación con otros 
-  residentes del territorio, lo que no necesariamente implica un bajo nivel de vida.
+  Adierazle horrek ez du neurtzen ez aberastasuna ez pobrezia, baizik eta diru-sarrera baxuak, lurraldeko beste biztanle 
+  batzuekin alderatuta, nahiz eta horrek ez duen zertan bizi-maila baxua adierazi. 
 
-  La tasa de riesgo de pobreza es la proporción de personas
-   con una renta disponible equivalente (después de transferencias sociales) inferior al 
-  umbral de riesgo de pobreza, que está fijada por convención en la UE en el 
-  60 % de la mediana de la renta disponible equivalente después de transferencias 
-  sociales en un territorio.
+  Pobrezia-arriskuaren tasa honela zehazten da: pobrezia-arriskuaren atalasea baino errenta baliokide eskuragarri 
+  baxuagoa duten pertsonen proportzioa (transferentzia sozialen ostean). EBn atalase hori hitzarmen bidez zehazten 
+  da: errenta baliokide eskuragarriaren medianaren % 60, lurralde bateko transferentzia sozialen ostean. 
 
-  Para tener en cuenta el impacto de las diferencias en el tamaño y la composición del hogar,
-  el ingreso disponible de un hogar (ingreso total, después de impuestos y otras deducciones, que está 
-  disponible para gastar o ahorrar) se divide por el número de miembros del hogar convertidos en adultos 
-  equivalentes (unidades de consumo). En la UE se aplica un factor de equivalencia calculado según 
-  la escala modificada de la OCDE propuesta en 1994.
+  Aldeek etxe baten tamainan eta osaeran duten eragina kontuan hartzeko, etxe baten diru-sarrera eskuragarria 
+  (diru-sarrerak guztira, gastatzeko edo aurrezteko moduan daudenak, zergak eta beste kenkari batzuk aplikatu ondoren) 
+  zatitu egin behar da heldu bihurtu diren etxeko kide baliokideen arabera (kontsumo-unitateak). EBn aplikatzen den 
+  baliokidetasun-faktorea ELGAren eskala aldatuaren arabera kalkulatzen da (1994an proposatua). 
 
-    Fuente: Eurostat
+
+  Iturria: Eurostat
 
 dato_global: >-
-  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_01_20/default/table?lang=en&category=sdg.sdg_01">Personas en riesgo de pobreza monetaria tras las transferencias sociales - Encuestas EU-SILC y ECHP(sdg_01_20)</a> Eurostat
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_01_20/default/table?lang=en&category=sdg.sdg_01">Gizarte-transferentzien ondoren diru-pobreziaren arriskuan dauden pertsonak - EU-SILC eta ECHP inkestak(sdg_01_20)</a> Eurostat
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas. Para el cálculo 
-  de la tasa de pobreza de la Comunidad Autónoma de Euskadi y sexo, se aplica 
-  el umbral de la pobreza de la Comunidad Autónoma.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu. EAEko pobrezia-tasa 
+  eta sexua kalkulatzeko, autonomia-erkidegoko pobrezia-atalasea aplikatzen da. 
 
 indicador_meta_enlace: |
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadatos 1-2-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadatuak 1-2-1.pdf</a> (ingelesez bakarrik)
 
-  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_20_esmsip2.htm">Metadatos Eurostat (sdg_01_20)</a> (solo en inglés)
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_20_esmsip2.htm">Metadatuak Eurostat (sdg_01_20)</a> (ingelesez bakarrik)
 
 informacion_interes: 
 

@@ -9,24 +9,25 @@ meta_global: meta_largo.4-a-titulo
 
 
 definicion: >-
-  Proporción de centros educativos no universitarios con acceso a servicios básicos (electricidad, conexión a internet, 
-  instalaciones de saneamiento básicas separadas por sexo, acceso a suministro básico de agua potable, 
-  instalaciones básicas para el lavado de manos).
+  Oinarrizko zerbitzuak (elektrizitatea, Interneteko konexioa, sexuaren arabera bereizitako oinarrizko 
+  saneamendu-instalazioak, edateko uraren oinarrizko hornidurarako sarbidea, eskuak garbitzeko oinarrizko 
+  instalazioak) dituzten unibertsitatez kanpoko ikastetxeen proportzioa.
+
 
 formula: |
 
-  $$PCENU_{servicio\, básico}^{t} = \frac{CENU_{servicio\, básico}^{t}}{CENU^{t}} \cdot 100$$
+  $$PCENU_{oinarrizko\, zerbitzua}^{t} = \frac{CENU_{oinarrizko\, zerbitzua}^{t}}{CENU^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $CENU_{servicio\, básico}^{t} =$ centros educativos no universitarios con acceso al servicio básico (electricidad, ordenador con internet, baño, agua potable, instalaciones para el lavado de manos) en el curso escolar $t-1/t$
+  $CENU_{oinarrizko\, zerbitzua}^{t} =$ oinarrizko zerbitzuak dituzten unibertsitatez kanpoko ikastetxeak (elektrizitatea, ordenagailua internetekin, bainugela, edateko ura, eskuak garbitzeko instalazioak) $t-1/t$ ikasturtean 
 
-  $CENU^{t} =$ centros educativos no universitarios en el curso escolar $t-1/t$
+  $CENU^{t} =$ unibertsitatez kanpoko ikastetxeak $t-1/t$ ikasturtean 
 
 
 desagregacion: >- 
-  Servicios básicos: electricidad, conexión a internet, instalaciones de saneamiento básicas separadas 
-  por sexo, acceso a suministro básico de agua potable, instalaciones básicas para el lavado de manos
+  Oinarrizko zerbitzuak: elektrizitatea; interneterako konexioa; sexuaren arabera bereizitako oinarrizko saneamendu-instalazioak; edateko uraren oinarrizko 
+  hornidurarako sarbidea; eskuak garbitzeko oinarrizko instalazioak
 
 periodicidad: FUENTE.FREQ_A
 
@@ -39,23 +40,26 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  El indicador mide el acceso en las escuelas a los servicios básicos y las instalaciones clave necesarios 
-  para garantizar un entorno de aprendizaje seguro y eficaz para todos los estudiantes. Un valor alto 
-  indica que las escuelas tienen un buen acceso a los servicios e instalaciones pertinentes. 
-  Lo ideal sería que cada escuela tuviera acceso a todos estos servicios e instalaciones.
+  Ikasle guztientzako ikaskuntza-ingurune segurua eta eraginkorra bermatzeko beharrezkoak diren oinarrizko 
+  zerbitzuetarako eta funtsezko instalazioetarako sarbidea neurtzen du adierazleak. Balio altuak adierazten 
+  du eskolek sarbide ona dutela zerbitzu eta instalazio egokietara. Egokiena litzateke eskola bakoitzak zerbitzu 
+  eta instalazio horiek guztiak erabiltzeko aukera izatea. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.a.1&seriesCode=SE_ACS_INTNT&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=UPPSEC">Proporción de escuelas con acceso a Internet con fines pedagógicos, en secundaria superior(%) SE_ACS_INTNT</a> UNSTATS<br>
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.a.1&seriesCode=SE_ACS_INTNT&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=UPPSEC">Helburu pedagogikoetarako Interneterako sarbidea duten Bigarren Hezkuntzako goi zikloko ikastetxeen proportzioa (%) SE_ACS_INTNT</a> UNSTATS<br>
 
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-0a-01.pdf">Metadatos 4-a-1.pdf </a>(solo en inglés)'
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-0a-01.pdf">Metadatuak 4-a-1.pdf </a>(ingelesez bakarrik)'
 
 informacion_interes: 
 

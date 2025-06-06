@@ -9,51 +9,41 @@ meta_global: meta_largo.4-5-titulo
 
 
 definicion: |
-  Relación entre las proporciones entre los siguientes grupos que han realizado actividades 
-  educativas (formales o no formales) en los últimos 12 meses o 4 semanas:
+  Azken 12 hilabeteetan edo 4 asteetan hezkuntza-jarduerak (formalak edo ez-formalak) egin dituzten 
+  talde hauen arteko proportzioa:
 
-   - Mujeres y hombres entre 18 y 64 años (en los últimos 12 meses)
-   - Personas entre 18 y 64 años pertenecientes a hogares que se encuentran en el nivel 
-     de ingresos inferior y superior (en los últimos 12 meses) 
-   - Personas entre 18 y 64 años con y sin limitaciones por problemas de salud 
-     (graves o no graves)(en los últimos 12 meses)
-   - Personas entre 15 y 64 años residentes en municipios de menos de 10.000 habitantes y más de 10.000 
-     habitantes (en las últimas 4 semanas)
+   - 18 eta 64 urte bitarteko emakumeak eta gizonak (azken 12 hilabeteetan)
+   - 18 eta 64 urte bitarteko pertsonak, diru-sarrera gutxiko etxeeetan eta diru-sarrera altuko etxeetan bizi direnak (azken 12 hilabeteetan)
+   - 18 eta 64 urte bitarteko pertsonak, osasun-arazoengatik muga larriak edo ez larriak dituztenak, eta muga horiek ez dituztenak (azken 12 hilabeteetan)
+   - 15 eta 64 urte bitarteko pertsonak, 10.000 biztanle baino gutxiagoko eta 10.000 biztanle baino gehiagoko udalerrietan bizi direnak (azken 4 asteetan)
 
 formula: |
 
   $$IPD = \frac{[Ind_i]_d}{[Ind_i]_a}$$
 
-  donde:
+  non:
 
-  $IPD$ = el Índice de Paridad de la Dimensión (Sexo, Riqueza, Ubicación, etc.)
+  $IPD$ = Dimentsioaren Parekotasun Indizea (Sexua, Aberastasuna, Kokapena, etab.)
 
-  $Ind_i$ = el Indicador de Educación: realización de actividades educativas (formales o no formales) en 
-  los últimos  12 meses o 4 semanas
+  $Ind_i$ = Hezkuntza Indizea: hezkuntza-jarduerak (formalak edo ez-formalak) egitea azken 12 hilabete edo 4 asteetan.
 
-  $d$ = el grupo desfavorecido (mujeres, personas más pobres, personas que viven en municipios pequeños, 
-  personas con limitaciones por problemas de salud)
+  $d$ = talde baztertua (emakumeak, pertsona pobreagoak, udalerri txikietan bizi diren pertsonak, osasun-arazoengatiko mugak dituzten pertsonak)
 
-  $a$ = el grupo favorecido (hombres, personas más ricas, personas que viven en municipios grandes, 
-  personas sin limitaciones por problemas de salud)
+  $a$ = talde mesedetua (gizonak, pertsona aberatsagoak, udalerri handietan bizi diren pertsonak, osasun-arazoengatik mugarik ez duten pertsonak)
 
-desagregacion: |
-  
-  Edad 
-
-  Sexo 
-  
-  Territorio histórico 
+desagregacion: >- 
+  Lurralde historikoa
 
 periodicidad: FUENTE.FREQ_A
 
 
 observaciones: >-
 
-  El valor de referencia de este indicador es 1, que se tiene cuando la paridad es absoluta. 
-  El grado de disparidad es mayor cuanto más se aleja de 1 el valor del indicador, reflejando 
-  una situación desfavorable o favorable del grupo poblacional del numerador respecto al 
-  grupo poblacional del denominador según tome un valor inferior o superior a 1 respectivamente. 
+  Adierazle honen erreferentzia-balioa 1 da, parekotasun absolutua adierazten duena. Adierazlearen balioa 
+  1etik zenbat eta urrunago egon, orduan eta handiagoa da desberdintasun-maila; balioa 1 baino txikiagoa denean, 
+  zenbakitzaileko populazio taldeak izendatzaileko populazio-taldearekiko egoera baztertua adierazten du, eta 
+  1 baino altuagoa denean, egoera mesedetua. 
+
 
 texto_oceca: FUENTE.oceca
 
@@ -61,23 +51,24 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: >-
-  Medir el nivel general de disparidad entre dos subpoblaciones de interés con respecto a un 
-  indicador determinado. Cuanto más alejado de 1 se encuentre el índice de paridad, mayor será la 
-  disparidad entre los dos grupos de interés. 
+  Adierazle jakin batekiko intereseko bi azpipopulazioen arteko desberdintasun-maila orokorra neurtzen du. 
+  Parekotasun-indizea 1etik zenbat eta urrunago egon, orduan eta handiagoa izango da bi interes-taldeen arteko 
+  desberdintasuna. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
 
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.5.1&seriesCode=SE_GPI_PTNPRE&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Índice de paridad de género ajustado para la tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso a la primaria), (ratio) SE_GPI_PTNPRE</a> UNSTATS<br>
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.5.1&seriesCode=SE_GPI_PTNPRE&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Genero-parekotasunaren indize doitua ikaskuntza antolatuko parte hartzeko tasarako (Lehen Hezkuntzan sartzeko adin ofiziala baino urtebete lehenago), (ratio) SE_GPI_PTNPRE</a> UNSTATS<br>
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-05-01.pdf"> Metadatos 4-5-1.pdf </a>(solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-05-01.pdf"> Metadatuak 4-5-1.pdf </a>(ingelesez bakarrik)'
 
 informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

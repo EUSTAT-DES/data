@@ -9,54 +9,50 @@ meta_global: meta_largo.4-6-titulo
 
 
 definicion: >-
-  Proporción de personas entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia 
-  en la escala de comprensión lectora y en matemáticas
+  Irakurketa ulermenaren eskalan eta matematikan gutxienez 2. mailako gaitasuna lortu duten 16-65 urteko pertsonen proportzioa  
+
 
 formula: |
 
   $$PPN2_{c}^{t} = \frac{PN2_{16-65\,c}^{t}}{P_{16-65}^{t}}$$
 
-  donde:
+  non:
 
-  $PN2_{16-65\,c}^{t} =$ población entre 16 y 65 años que ha alcanzado al menos el nivel 2 de competencia 
-  en la escala del tipo de competencia $c$ en el año $t$
+  $PN2_{16-65\,c}^{t} =$ $c$ konpetentziaren eskalan gutxienez 2. mailako gaitasuna lortu duten 16-65 urteko biztanleak $t$ urtean
 
-  $P_{16-65}^{t} =$ población entre 16 y 65 años años en el año $t$
+  $P_{16-65}^{t} =$ 16-65 urteko biztanleria $t$ urtean
 
 
 desagregacion: | 
-  Tipo de competencia: comprensión lectora, matemáticas
+  Konpetentzia: irakurketa; matematika
 
-  Sexo
+  Sexua
 
 periodicidad: FUENTE.FREQ_A10
 
 
 observaciones: |
 
-  El Programa de evaluación internacional de competencias de adultos utiliza una escala de 500 puntos 
-  para evaluar la comprensión lectora y la competencia en matemáticas. Para ayudar a 
-  interpretar esas puntuaciones, la escala se divide en seis categorías de  competencia:
+  Helduen gaitasunak nazioartean ebaluatzeko programak 500 puntuko eskala erabiltzen du irakurmen eta matematika 
+  gaitasunak ebaluatzeko. Puntuazio horiek interpretatzen laguntzeko, eskala sei kategoriatan banatzen da:
 
-   - Inferior al nivel 1: puntuación inferior a 176
-   - Nivel 1: puntuación entre 176 y 225
-   - Nivel 2: puntuación entre 226 y 275
-   - Nivel 3: puntuación entre 276 y 325
-   - Nivel 4: puntuación entre 326 y 375
-   - Nivel 5: puntuación entre 376 y 500
+   - 1. maila baino txikiagoa: 176 puntu baino gutxiago 
+   - 1. maila: 176 eta 225 arteko puntuazioa
+   - 2. maila: 226 eta 275 arteko puntuazioa
+   - 3. maila: 276 eta 325 arteko puntuazioa
+   - 4. maila: 326 eta 375 arteko puntuazioa
+   - 5. maila: 376 eta 500 arteko puntuazioa
 
-  Una persona alcanza al menos el nivel 2 de competencia en la escala de comprensión lectora cuando 
-  habitualmente es capaz de entender textos sobre temas que no conoce, aunque tenga dificultades ante 
-  tareas como comparar y contrastar diferentes textos o buscar textos digitales sobre un tema concreto 
-  que no conoce.
+  Pertsona batek, gutxienez, 2. mailako gaitasuna lortzen du irakurmen-eskalan, normalean gai denean ezagutzen 
+  ez dituen gaiei buruzko testuak ulertzeko, nahiz eta zailtasunak izan hainbat testu alderatu eta kontrastatzeko 
+  edo ezagutzen ez duen gai jakin bati buruzko testu digitalak bilatzeko.
 
-  Una persona alcanza al menos el nivel 2 de competencia en la escala de matemáticas cuando 
-  habitualmente es capaz de responder a preguntas que requieren cálculos intermedios, entiende 
-  la información matemática de una tabla y no tiene dificultades para interpretar gráficas simples, 
-  aunque tenga dificultades ante tareas como manejar proporciones o interpretar gráficas complejas.
+  Pertsona batek, gutxienez, 2. mailako gaitasuna lortzen du matematika eskalan, normalean gai denean bitarteko kalkuluak behar 
+  dituzten galderei erantzuteko, taula bateko informazio matematikoa ulertzen duenean eta grafiko 
+  sinpleak interpretatzeko zailtasunik ez duenean, nahiz eta zailtasunak izan proportzioak maneiatzeko edo grafiko 
+  konplexuak interpretatzeko.
 
-  El dato de 2012 corresponde al estudio que se llevó a cabo entre el tercer cuatrimestre 
-  de 2011 y el primer cuatrimestre de 2012.
+  2012ko datua 2011ko hirugarren lauhilekoaren eta 2012ko lehen lauhilekoaren artean egindako azterketari dagokio.
 
 texto_oceca: FUENTE.oceca
 
@@ -64,30 +60,29 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: >-
-  El indicador es una medida directa de los niveles de habilidades de los jóvenes y los adultos 
-  en dos áreas: alfabetización y aritmética.
+  Adierazlea gazteen eta helduen trebetasun-mailen zuzeneko neurria da, bi arlotan: alfabetizazioa eta aritmetika. 
 
-  El nivel fijo de competencia (FLP) es el parámetro de referencia de los conocimientos básicos 
-  en un dominio (alfabetización o aritmética) medido a través de evaluaciones de aprendizaje. Actualmente, 
-  el FLP para los informes globales es el descriptor de nivel 2 del Programa para la Evaluación Internacional 
-  de Competencias de Adultos (PIAAC).
+  Gaitasun-maila finkoa (FLP) domeinu bateko (alfabetizazioa edo aritmetika) oinarrizko ezagutzen erreferentzia-parametroa 
+  da, ikaskuntza-ebaluazioen bidez neurtuta. Gaur egun, txosten orokorretarako FLP Helduen Konpetentzien Nazioarteko 
+  Ebaluaziorako Programaren (PIAAC) 2. mailako deskribatzailea da. 
 
-  Los conceptos de alfabetización funcional y aritmética funcional se basan en las 
-  definiciones de la UNESCO, que ubren un continuo de niveles de competencia en lugar de una dicotomía. 
-  Una persona es alfabetizada funcionalmente si puede participar en todas aquellas actividades en las que la 
-  alfabetización es necesaria para el funcionamiento eficaz de su grupo y comunidad y también le permite 
-  seguir utilizando la lectura, la escritura y el cálculo para su propio desarrollo y el de la comunidad. 
+  Alfabetatze funtzionalaren eta aritmetika funtzionalaren kontzeptuak UNESCOren definizioetan oinarritzen dira. Definizio 
+  horiek, dikotomia baten ordez, gaitasun-maila jarraitua adierazten dute.  Pertsona bat funtzionalki alfabetatzen da, 
+  baldin eta bere taldearen eta komunitatearen funtzionamendu eraginkorrerako alfabetatzea beharrezkoa den jarduera 
+  guztietan parte har badezake, eta horrek irakurketa, idazketa eta kalkulua bere garapenerako eta komunitatearenerako 
+  erabiltzen jarraitzeko aukera ematen badio. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa
 
 
 dato_global: >-
 
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-06-01.pdf">Metadatos 4-6-1.pdf </a>(solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-06-01.pdf">Metadatuak 4-6-1.pdf </a>(ingelesez bakarrik)'
 
 informacion_interes: 
 

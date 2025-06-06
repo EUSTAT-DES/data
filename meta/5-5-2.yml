@@ -9,75 +9,77 @@ meta_global: meta_largo.5-5-titulo
 
 
 definicion: >-
-  Proporción de mujeres ocupadas en cargos directivos, en la alta dirección, y mujeres empresarias respecto al total de personas ocupadas en esos cargos o actividades económicas.
+  Zuzendaritza-karguetan diharduten, goi-zuzendaritzan diharduten, eta enpresaburu diren emakumeen proportzioak, 
+  kargu edo jarduera ekonomiko horietan diharduten pertsona guztiekiko  
+
 
 formula: |
 
-  $$PDIR_{mujeres}^{t} = \frac{DIR_{mujeres}^{t}}{DIR_{mujeres}^{t}+DIR_{hombres}^{t}} \cdot 100$$
+  $$PDIR_{emakumeak}^{t} = \frac{DIR_{emakumeak}^{t}}{DIR_{emakumeak}^{t}+DIR_{gizonak}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $DIR_{mujeres}^{t} =$ mujeres en la ocupación correspondiente en el año $t$
+  $DIR_{emakumeak}^{t} =$ emakumeak dagokion jardueran $t$ urtean
 
-  $DIR_{hombres}^{t} =$ hombres en la ocupación correspondiente en en el año $t$
+  $DIR_{gizonak}^{t} =$ gizonak dagokion jardueran $t$ urtean
 
 desagregacion: |
-  Ocupación: Alta dirección; cargo directivo; empresaria.
+  Jarduera: goi-zuzendaritza; zuzendaritza-kargua; enpresaburua.
 
-  Territorio histórico
+  Lurralde historiakoa
 
 periodicidad: FUENTE.FREQ_A
 
 observaciones: |
-  Se entiende por cargos directivos todas las ocupaciones incluidas en el grupo 1 de la CNO-2011, 
-  mientras que se entiende por alta dirección aquellas ocupaciones pertenecientes a los 
-  subgrupos 11, 12 y 13 de la CNO-2011.
+  Zuzendaritza-kargutzat hartzen dira LSN-2011ko 1. taldeko okupazio guztiak; goi-zuzendaritzatzat, 
+  berriz, LSN-2011ko 11., 12. eta 13. azpitaldeetako okupazioak hartzen dira.
 
-  El grupo 1 de la CNO-2011 comprende las ocupaciones de dirección y gerencia, cuyas tareas 
-  principales son planificar, dirigir y coordinar la actividad general de las empresas, 
-  gobiernos u otras organizaciones, así como formular y revisar la estrategia de las empresas 
-  y normativas de los gobiernos. Este grupo se subdivide en cinco subgrupos principales:
+  LSN-2011ko 1. taldeak zuzendaritza- eta gerentzia-lanak hartzen ditu barne, eta horien zeregin 
+  nagusiak dira enpresen, gobernuen edo beste erakunde batzuen jarduera orokorra planifikatzea, 
+  zuzentzea eta koordinatzea, bai eta enpresen estrategia eta gobernuen araudiak formulatzea eta 
+  berrikustea ere. Talde hori bost azpitalde nagusitan banatzen da:
 
-   11 Miembros del poder ejecutivo y de los cuerpos legislativos; directivos de la Administración Pública y organizaciones de interés social; directores ejecutivos
-   12 Directores de departamentos administrativos y comerciales
-   13 Directores de producción y operaciones
-   14 Directores y gerentes de empresas de alojamiento, restauración y comercio
-   15 Directores y gerentes de otras empresas de servicios no clasificados bajo otros epígrafes
+   11 Botere exekutiboko eta kidego legegileetako kideak; Administrazio Publikoko eta interes 
+  sozialeko erakundeetako zuzendariak; zuzendari exekutiboak 
+   12 Administrazio- eta merkataritza-sailetako zuzendariak
+   13 Produkzioko eta eragiketetako zuzendariak
+   14 Ostatu-, jatetxe- eta merkataritza-enpresetako zuzendariak eta kudeatzaileak
+   15 Beste epigrafe batzuetan sailkatu gabeko beste zerbitzu-enpresa batzuetako zuzendariak eta kudeatzaileak
 
-  Se entiende por mujeres empresarias las que ejercen una actividad económica por cuenta propia.
+  Emakume enpresaritzat hartzen dira norberaren konturako jarduera ekonomikoa egiten dutenak.  
+
 
  # Metadatos mundiales (Descripción del indicador)  
 
 
 justificacion_global: |
 
-  El indicador proporciona información sobre la proporción de mujeres empleadas 
-  en puestos de toma de decisiones y gestión en el gobierno, grandes empresas e 
-  instituciones, lo que proporciona una idea del poder de las mujeres en la toma de decisiones 
-  y en la economía (especialmente en comparación con el poder de los hombres en esas áreas).
+  Gobernuan, enpresa handietan eta erakundeetan erabakiak hartzeko eta kudeatzeko postuetan lan egiten duten emakumeen 
+  proportzioari buruzko informazioa ematen du adierazleak, eta horrek emakumeek erabakiak hartzean eta ekonomian duten 
+  boterearen berri ematen du (batez ere gizonek arlo horietan duten boterearekin alderatuta). 
 
-  Se recomienda utilizar dos medidas diferentes de forma conjunta para este 
-  indicador: la proporción de mujeres en la gestión (total) y la proporción de mujeres en la 
-  gestión superior e intermedia (excluyendo así la gestión de nivel inferior). El cálculo conjunto 
-  de estas dos medidas proporciona información sobre si las mujeres están más representadas en 
-  la gestión de bajo nivel que en la gestión superior e intermedia, lo que 
-  indica que existe un techo para el acceso de las mujeres a puestos directivos de 
-  nivel superior. En estos casos, calcular solo la proporción de mujeres en la gestión (total) 
-  sería engañoso, ya que sugeriría que las mujeres ocupen puestos con más poder de 
-  decisión y responsabilidades de las que realmente ocupan.
+  Adierazle honetarako bi neurri desberdin batera erabiltzea gomendatzen da: emakumeen proportzioa kudeaketan (guztira) 
+  eta emakumeen proportzioa goi- eta erdi-mailako kudeaketan (maila baxuagoko kudeaketa alde batera utzita). Bi neurri 
+  horiek batera kalkulatzeak informazioa ematen du jakiteko emakumeek ordezkaritza handiagoa duten behe-mailako kudeaketan 
+  goi-mailako eta erdi-mailako kudeaketan baino, eta horrek adierazten du muga bat dagoela emakumeak goi-mailako 
+  zuzendaritza-postuetan sartzeko. Kasu horietan, kudeaketan (guztira) emakumeen proportzioa bakarrik kalkulatzea 
+  engainagarria izango litzateke; izan ere, emakumeek benetan betetzen dituztenak baino erabaki-ahalmen eta erantzukizun 
+  gehiagoko postuak betetzen dituztela iradokiko luke. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.5.2&seriesCode=IC_GEN_MGTL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15%2B%20%7C%20FEMALE">Proporción de mujeres en puestos directivos - 13.ª CIET (%) IC_GEN_MGTL</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.5.2&seriesCode=IC_GEN_MGTL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15%2B%20%7C%20FEMALE">Zuzendaritza-postuetan dauden emakumeen proportzioa - 13. CIET (%) IC_GEN_MGTL</a> UNSTATS
 
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu
 
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-02.pdf">Metadatos 5-5-2.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-02.pdf">Metadatuak 5-5-2.pdf</a> (ingelesez bakarrik)
 
 informacion_interes: 
 

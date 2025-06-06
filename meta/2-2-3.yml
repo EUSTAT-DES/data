@@ -14,34 +14,32 @@ indicador_disponible: GRAFICO.nodisponible
 
 
 justificacion_global: |
-  La anemia tiene una prevalencia muy alta a nivel mundial y afecta desproporcionadamente 
-  a niños y mujeres en edad reproductiva. Afecta negativamente el desarrollo cognitivo 
-  y motor y la capacidad de trabajo, y entre las mujeres embarazadas la anemia por deficiencia 
-  de hierro se asocia con resultados reproductivos adversos, incluidos partos prematuros, 
-  bebés con bajo peso al nacer y disminución de las reservas de hierro del bebé, 
-  lo que puede conducir a un desarrollo reducido. 
+  Anemiak nagusitasun oso altua du mundu-mailan, eta haurrei eta ugalkortasun-adinean dauden emakumeei 
+  neurrigabeki eragiten die. Eragin negatiboa du garapen kognitibo eta motorrean eta lanerako gaitasunean, 
+  eta, gainera, haurdun dauden emakumeen artean burdin-faltaren ondoriozko anemia lotuta egoten da 
+  ugalketa-emaitza negatiboekin, horren barruan sartuta erditze goiztiarrak, jaiotzean pisu gutxi duten 
+  haurrak eta haurraren burdin-erreserben murrizketa, horrek garapen murriztua eragin dezakeelarik. 
 
-  La deficiencia de hierro se considera la causa más común de anemia, pero existen 
-  otras causas nutricionales y no nutricionales. Las concentraciones de hemoglobina 
-  en sangre se ven afectadas por muchos factores, entre ellos la altitud (metros sobre el 
-  nivel del mar), el tabaquismo, el trimestre de embarazo, la edad y el sexo. 
+  Burdin gutxi izatea da anemiaren arrazoi ohikoenetakoa baina badaude beste kausa batzuk ere, nutrizioaren 
+  arlokoak eta hortik kanpokoak. Odoleko hemoglobina-kontzentrazioek faktore askoren eragina dute, hala nola 
+  altitudea (itsasoaren mailaren gainetik dauden metroak), tabakismoa, haurdunaldiko hiruhilekoa, adina eta sexua. 
 
-  La anemia puede evaluarse midiendo la hemoglobina en sangre y, cuando se usa en 
-  combinación con otros indicadores del estado del hierro, la hemoglobina en sangre 
-  proporciona información sobre la gravedad de la deficiencia de hierro. La prevalencia 
-  de anemia en la población se utiliza para clasificar la importancia del problema 
-  para la salud pública.
+  Anemia odoleko hemoglobina neurtuta ebaluatu daiteke eta, burdinaren egoeraren beste adierazle batzuekin 
+  batera erabiltzen denean, odoleko hemoglobinak burdinaren urritasunaren larritasunari buruzko informazioa 
+  ematen du. Biztanleriaren artean anemiak duen nagusitasuna erabiltzen da osasun publikorako arazoaren garrantzia 
+  sailkatzeko. 
 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >- 
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.2.3&seriesCode=SH_STA_ANEM&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15-49%20%7C%20FEMALE">Proporción de mujeres de 15 a 49 años con anemia (%) SH_STA_ANEM</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.2.3&seriesCode=SH_STA_ANEM&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15-49%20%7C%20FEMALE">Anemia duten 15-49 urteko emakumeen proportzioa (%) SH_STA_ANEM</a> UNSTATS
 
 
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-03.pdf">Metadatos 2-2-3.pdf (solo en inglés)</a>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-03.pdf">Metadatuak 2-2-3.pdf</a> (ingelesez bakarrik)
 
 
 

@@ -1,0 +1,43 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.16-titulo
+# meta_global: meta_largo.16-5-titulo
+# indicador_onu_global: indicador_largo.16-5-1-titulo
+
+
+definicion:
+formula:
+desagregacion:
+periodicidad:
+
+observaciones:
+ 
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  La corrupción es antónimo de la igualdad de acceso a los servicios públicos y del correcto 
+  funcionamiento de la economía; como tal, tiene un impacto negativo en la distribución justa 
+  de los recursos y las oportunidades de desarrollo. 
+
+  Además, la corrupción erosiona la confianza pública en las autoridades y el estado de derecho; 
+  cuando el soborno administrativo se convierte en una experiencia recurrente de amplios sectores de la 
+  población y las empresas, sus efectos negativos tienen un impacto negativo duradero en el estado de derecho, 
+  los procesos democráticos y la justicia. 
+
+  Al proporcionar una medida directa de la experiencia del soborno, este indicador proporciona 
+  una métrica objetiva de la corrupción, un criterio para monitorear el progreso en la lucha contra la corrupción.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global:
+comparabilidad:
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-05-01.pdf">Metadatos 16-5-1.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

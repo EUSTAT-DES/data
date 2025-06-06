@@ -9,23 +9,23 @@ meta_global: meta_largo.4-1-titulo
 
 
 definicion: >-
-  Porcentaje de población que ha completado como máximo la primera etapa de la educación 
-  secundaria y no sigue ningún estudio o formación
+  Gehienez bigarren hezkuntzako lehen zikloa amaitu eta ikasketarik edo prestakuntzarik 
+  egiten ari ez den biztanleen ehunekoa
 
 formula: |
 
-  $$PP_{abandono}^{t}  = \frac{P_{abandono\, 18-24}^{t}}{P_{18-24}^{t}}$$
+  $$PP_{eskola\, uztea}^{t}  = \frac{P_{eskola\, uztea\, 18-24}^{t}}{P_{18-24}^{t}}$$
 
-  donde:
+  non:
 
-  $P_{abandono\, 18-24}^{t} =$ población de 18 a 24 años que ha completado como máximo la primera etapa de la educación secundaria y no ha seguido ningún estudio o formación en el año $t$
+  $P_{eskola\, uztea\, 18-24}^{t} =$ gehienez bigarren hezkuntzako lehen etapa amaitu eta beste ikasketa edo prestakuntzarik egin ez duten 18 eta 24 urte bitarteko biztanleak $t$ urtean
 
-  $P_{18-24}^{t} =$ población de 18 a 24 años en el año $t$
+  $P_{18-24}^{t} =$ 18-24 urteko biztanleak $t$ urtean
 
 
 desagregacion: >-
 
-  Sexo
+  Sexua
 
 periodicidad: FUENTE.FREQ_A
 

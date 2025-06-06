@@ -9,14 +9,13 @@ meta_global: meta_largo.5-a-titulo
 
 
 definicion: >-
-  Grado en que el marco jurídico (incluido el derecho consuetudinario) garantiza la 
-  igualdad de derechos de la mujer a la propiedad o el control de tierras medido a 
-  partir de la evaluación de seis proxies.
+  Lege-esparruak (ohiturazko zuzenbidea barne) zenbateraino bermatzen duen lurren jabetza edo kontrolerako 
+  emakumeen eskubide berdintasuna, sei proxyren ebaluazioaren bidez.
 
 formula: |
 
 
-  $$MJDMPT^{t} = \begin{cases} 1 & \text{Si ninguno de los proxies está presente en la legislación en el año 𝑡} \\ 2 & \text{Si uno de los proxies está presente en la legislación en el año 𝑡} \\ 3 & \text{Si dos de los proxies están presentes en la legislación en el año 𝑡} \\ 4 & \text{Si tres de los proxies están presentes en la legislación en el año 𝑡} \\ 5 & \text{Si cuatro de los proxies están presentes en la legislación en el año 𝑡} \\ 6 & \text{Si cinco o seis de los proxies están presentes en la legislación en el año 𝑡} \end{cases} $$
+  $$MJDMPT^{t} = \begin{cases} 1 & \text{Proxyetako bat ere ez dago legerian 𝑡 urtean} \\ 2 & \text{Proxyetako bat dago legerian 𝑡 urtean} \\ 3 & \text{Proxyetako bi daude legerian 𝑡 urtean} \\ 4 & \text{Proxyetako hiru daude legerian 𝑡 urtean} \\ 5 & \text{Proxyetako lau daude legerian 𝑡 urtean} \\ 6 & \text{Proxyetako bost edo sei daude legerian 𝑡 urtean} \end{cases} $$
 
 
 periodicidad: FUENTE.FREQ_A
@@ -26,17 +25,16 @@ desagregacion: >-
 
 observaciones: |
 
-  El indicador mide el nivel en el que el marco normativo garantiza la igualdad de derechos de
-  la mujer a la propiedad y el control de tierras, contrastando el marco legal frente
-  a seis proxies aceptados internacionalmente, en concreto en la Convención sobre la eliminación de todas las 
-  formas de discriminación contra la mujer (CEDAW) y las Directrices voluntarias sobre la 
-  gobernanza responsable de la tenencia de la tierra (VGGT):  
-   -Proxy A: Registro conjunto de tierras obligatorio o incentivado
-   -Proxy B: Obligación del consentimiento conyugal para transacciones de tierras  
-   -Proxy C: Igualdad de derechos de herencia  
-   -Proxy D: Asignación de recursos financieros para incrementar la tenencia y control de tierras por parte de la mujer  
-   -Proxy E: En sistemas legales que reconocen el derecho consuetudinario, existencia de protección explícita sobre los derechos de la mujer a la propiedad  
-   -Proxy F: Cuotas obligatorias en la gestión y administración de tierras  
+  Adierazleak neurtzen du lege-esparruak zenbateraino bermatzen duen lurren jabetza edo kontrolerako 
+  emakumeen eskubide berdintasuna, lege-esparrua nazioartean onartutako sei proxyrekiko alderatuz; proxy horiek
+  Emakumearen aurkako diskriminazio-modu guztiak ezabatzeari buruzko Konbentzioan eta Lurra edukitzeko 
+  gobernantza arduratsuari buruzko borondatezko jarraibideetan onartutakoak dira:
+   - A proxya: Lurren nahitaezko edo sustatutako erregistro bateratua
+   - B proxya: Lurren transakzioetarako ezkontidearen adostasunaren betebeharra
+   - C proxya: Herentzia-eskubideen berdintasuna
+   - D proxya: Emakumeen lurren jabetza eta kontrola areagotzeko finantza-baliabideen esleipena
+   - E proxya: Ohiturazko eskubidea aitortzen duten legezko sistemetan, emakumeen jabetzarako eskubideen babes esplizitua egotea
+   - F proxya: Nahitaezko kuotak lurren kudeaketan eta administrazioan  
 
 
  # Metadatos mundiales (Descripción del indicador)  
@@ -44,44 +42,38 @@ observaciones: |
 
 justificacion_global: |
 
-  El indicador 5.a.2 mide en qué medida el marco jurídico de los países 
-  (incluido el derecho consuetudinario) garantiza la igualdad de derechos de las mujeres 
-  en materia de propiedad y/o control de la tierra.
+  5.a.2 adierazleak neurtzen du herrialdeen esparru juridikoak (ohiturazko zuzenbidea barne) zenbateraino bermatzen 
+  duen emakumeen eskubide-berdintasuna lurraren jabetzaren eta kontrolaren arloan. 
 
-  El enfoque en la tierra del indicador 5.a.2 refleja el reconocimiento 
-  de que la tierra es un recurso económico clave inextricablemente vinculado al acceso, 
-  uso y control de otros recursos económicos y productivos. Es un insumo clave para la 
-  producción agrícola; puede facilitar el acceso a servicios financieros y de extensión 
-  o para unirse a organizaciones de productores. Además, puede generar ingresos 
-  directamente si se alquila o se vende.
+  5.a.2 adierazlearen lurreko ikuspegiak erakusten du lurra funtsezko baliabide ekonomikoa dela, eta beste baliabide 
+  ekonomiko eta produktibo batzuk eskuratu, erabili eta kontrolatzeari lotuta dagoela. Nekazaritza-ekoizpenerako 
+  funtsezko intsumoa da; finantza- eta hedapen-zerbitzuetarako sarbidea erraztu dezake, edo ekoizle-erakundeekin 
+  bat egiteko lagungarri izan. Gainera, zuzenean sor ditzake diru-sarrerak, alokatzen edo saltzen bada. 
 
-  También reconoce que la propiedad y/o el control de la tierra por parte de las 
-  mujeres es fundamental para la reducción de la pobreza, la seguridad alimentaria, la inclusión 
-  y los objetivos generales de desarrollo sostenible. Por último, la igualdad de género 
-  en la propiedad y el control de la tierra es un derecho humano. Por ejemplo, 
-  el Pacto Internacional de Derechos Civiles y Políticos (PIDCP) garantiza la igualdad 
-  entre mujeres y hombres y prohíbe la discriminación por motivos de sexo en su artículo 2.
+  Onartzen du, halaber, emakumeek lurraren jabetza eta kontrola izatea funtsezkoa dela pobreziaren murrizketa, 
+  elikadura-segurtasuna, inklusioa eta garapen iraunkorraren helburu orokorrak lortzeko. Azkenik, lurraren jabetzako 
+  eta kontroleko genero-berdintasuna giza eskubide bat da. Adibidez, Eskubide Zibil eta Politikoen Nazioarteko Itunak 
+  (EZPNI) emakumeen eta gizonen arteko berdintasuna bermatzen du, eta 2. artikuluan sexuagatiko diskriminazioa debekatzen du. 
 
-  El artículo 26 del PIDCP consagra la igualdad ante la ley y puede aplicarse para 
-  defender el derecho de las mujeres a la no discriminación y la igualdad, incluidos 
-  los derechos económicos y sociales. Además, la Convención sobre la eliminación de todas 
-  las formas de discriminación contra la mujer (CEDAW) destaca que la discriminación 
-  contra la mujer “viola los principios de igualdad de derechos y respeto a la dignidad humana”.
+  EZPNIren 26. artikuluak legearen aurreko berdintasuna berresten du, eta emakumeek diskriminaziorik ez izateko eta 
+  berdintasuna izateko duten eskubidea defendatzeko aplika daiteke, eskubide ekonomiko eta sozialak barne. Gainera, 
+  Emakumearen aurkako diskriminazio-mota guztiak ezabatzeko Konbentzioak (CEDAW) nabarmentzen duenez, emakumearen 
+  aurkako diskriminazioak "eskubide-berdintasunaren eta giza duintasunarekiko errespetuaren printzipioak urratzen ditu". 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.a.2&seriesCode=SG_LGL_LNDFEMOD&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Grado en que el marco jurídico (incluido el derecho consuetudinario) garantiza la igualdad de derechos de las mujeres a la propiedad y/o control de la tierra (1=Sin evidencia a 6=Niveles más altos de garantías) SG_LGL_LNDFEMOD</a> UNSTATS
-
-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.a.2&seriesCode=SG_LGL_LNDFEMOD&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Lege-esparruak (ohiturazko zuzenbidea barne) zenbateraino bermatzen duen lurren jabetza edo kontrolerako emakumeen eskubide berdintasuna (1 = ebidentziarik gabe 6 = berme-maila altuenak) SG_LGL_LNDFEMOD</a> UNSTATS 
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu 
 
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-0A-02.pdf">Metadatos 5-a-2.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-0A-02.pdf">Metadatuak 5-a-2.pdf</a> (ingelesez bakarrik)
 
 informacion_interes: 
 

@@ -9,56 +9,50 @@ meta_global: meta_largo.5-a-titulo
 
 
 definicion: >-
-  Proporción de titulares de explotaciones agrícolas respecto al total de personas trabajadoras 
-  en la agricultura y proporción de mujeres titulares de explotaciones agrícolas respecto al 
-  total de titulares de explotaciones agrícolas desglosada por tipo de tenencia.
+  Nekazaritza-ustiategietako titularren proportzioa, nekazaritzako langile guztiekiko, eta nekazaritza-ustiategietako 
+  titular guztiekiko emakumeen proportzioa, edukitza-motaren arabera.
 
 formula: |
 
-  <b>Proporción de titulares de explotaciones agrícolas respecto al total de personas trabajadoras 
-  en la agricultura</b>
+  <b>Nekazaritza-ustiategietako titularren proportzioa nekazaritzako langile guztiekiko</b>
 
-  $$PPOA_{titulares}^{t} = \frac{TEA^{t}}{POA^{t}} \cdot 100$$
+  $$PPOA_{titularrak}^{t} = \frac{TEA^{t}}{POA^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $TEA^{t} =$ personas titulares de explotaciones agrícolas en el año $t$
+  $TEA^{t} =$ nekazaritza-ustiategietako titularrak $t$ urtean
 
-  $POA^{t} =$ personas ocupadas en la agricultura en el año $t$
+  $POA^{t} =$ nekazaritzan diharduten pertsonak $t$ urtean
 
   <br>
 
-  <b>Proporción de mujeres titulares de explotaciones agrícolas respecto al 
-  total de titulares de explotaciones agrícolas desglosada por tipo de tenencia</b>
+  <b>Nekazaritza-ustiategien titular diren emakumeen proportzioa, nekazaritza-ustiategien 
+  titular guztiekiko, edukitza-motaren arabera</b>
 
-  $$PTEA_{mujeres}^{t} = \frac{TEA_{mujeres}^{t}}{TEA^{t}} \cdot 100$$
+  $$PTEA_{emakumeak}^{t} = \frac{TEA_{emakumeak}^{t}}{TEA^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $TEA_{mujeres}^{t} =$ mujeres titulares de explotaciones agrícolas en el año $t$ por 
-  tipo de tenencia
+  $TEA_{emakumeak}^{t} =$ nekazaritza-ustiategietako emakume titularrak $t$ urtean edukitza-motaren arabera
 
-  $TEA^{t} =$ personas titulares de explotaciones agrícolas en el año $t$ por tipo de 
-  tenencia
+  $TEA^{t} =$ nekazaritza-ustiategietako pertsona titularrak $t$ urtean edukitza-motaren arabera
 
 desagregacion: |
-  Tipo de tenencia: Propiedad; arrendamiento
+  Edukitza-mota: jabetza; errentamendua
 
-  Sexo
+  Sexua
 
-  Territorio histórico
+  Lurralde historikoa
 
 periodicidad: FUENTE.FREQ_I
 
 observaciones: |
 
-  El subindicador 5.a.1 (a) es una medida de prevalencia. Mide la prevalencia de personas 
-  en la población agrícola con propiedad o derechos seguros sobre tierras agrícolas, 
-  desglosada por sexo.
+  5.a.1 (a) azpiadierazlea prebalentzia-neurri bat da. Nekazaritzako lurren gaineko jabetza edo 
+  eskubide seguruak dituzten pertsonen prebalentzia neurtzen du, sexuaren arabera banakatuta.
 
-  El subindicador 5.a.1 (b) se centra en la paridad de género y mide en qué medida 
-  las mujeres se encuentran en desventaja en la propiedad o en los derechos seguros 
-  sobre las tierras agrícolas.
+  5.a.1 (b) azpiadierazleak genero-parekotasuna du ardatz, eta neurtzen du emakumeak jabetzan edo 
+  nekazaritza-lurren gaineko eskubide seguruetan zein neurritan dauden desabantailan.
 
 
  # Metadatos mundiales (Descripción del indicador)  
@@ -66,26 +60,26 @@ observaciones: |
 
 justificacion_global: |
 
-  El indicador 5.a.1 tiene como objetivo monitorear el equilibrio de género en 
-  la propiedad/derechos seguros sobre tierras agrícolas. El subindicador (a) y 
-  el subindicador (b) se basan en los mismos datos y monitorean la propiedad/derechos 
-  desde dos ángulos diferentes.
+  5.a.1 adierazlearen helburua nekazaritza-lurren gaineko eskubide seguruetan/jabetzan dagoen genero-oreka 
+  monitorizatzea da. Horretarako, (a) azpiadierazlea eta (b) azpiadierazlea datu berberetan oinarritzen dira, 
+  eta jabetza/eskubideak bi angelutatik kontrolatzen dituzte. 
 
-  Mientras que el subindicador (a) utiliza la población agrícola total masculina/femenina 
-  como población de referencia, y nos dice cuántos hombres/mujeres poseen tierras, 
-  el subindicador (b) se centra en la población agrícola con propiedad de la tierra/derechos 
-  seguros, y nos dice cuántas de ellas son mujeres.
+  Zehazki, (a) azpiadierazleak nekazaritzako guztizko biztanleria maskulinoa/femeninoa erabiltzen du erreferentziako 
+  populazio gisa, eta zenbat gizon/emakumek dituzten lurrak esaten digu; (b) azpiadierazleak, berriz, lurraren 
+  jabetza/eskubide seguruak dituzten biztanleak aipatzen ditu, eta horietako zenbat diren emakumeak esaten digu. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
 
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-0a-01.pdf">Metadatos 5-a-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-0a-01.pdf">Metadatuak 5-a-1.pdf</a> (ingelesez bakarrik)
 
 informacion_interes: 
 

@@ -9,21 +9,25 @@ meta_global: meta_largo.3-6-titulo
 
 
 definicion: >-
-  Defunciones atribuidas a accidentes de tráfico por cada 100.000 habitantes
+  Zirkulazio-istripuei egotzitako heriotzak 100.000 biztanleko
 
 formula: |
 
-  $$TM_{\text{accidentes tráfico}}^{t} = \frac{D_{\text{accidentes tráfico}}^{t}}{P^{t}} \cdot 100.000$$
+  $$TM_{\text{zirkulazio-istripuak}}^{t} = \frac{D_{\text{zirkulazio-istripuak}}^{t}}{P^{t}} \cdot 100.000$$
 
-  donde:
-  $D_{\text{accidentes tráfico}}^{t} =$ defunciones atribuidas a accidentes de tráfico (lista extensa de códigos de la CIE-10, que se puede consultar en la metodología de la Estadística de defunciones según la causa de muerte) en el año $t$
+  non: 
 
-  $P^{t} =$ población a 1 de julio del año $t$
+  $D_{\text{zirkulazio-istripuak}}^{t} =$ zirkulazio-istripuei egotzitako heriotzak $t$ urtean (GNS-10en kode-zerrenda luzea, 
+  zeina kontsultagai baitago heriotza-kausaren araberako heriotzen estatistikaren metodologian) 
+
+
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean 
+
 
 desagregacion: |
-  Sexo
+  Sexua 
 
-  Territorio histórico
+  Lurralde historikoa 
 
 
 periodicidad: FUENTE.FREQ_A
@@ -31,9 +35,9 @@ periodicidad: FUENTE.FREQ_A
 
 observaciones: |
 
-  A partir de 2016 se incluyen los accidentes de tráfico de vehículos sin motor, los accidentes de transporte 
-  no especificados como debidos o no a tráfico y las víctimas de accidente de tráfico en las que en el momento 
-  del accidente estaban subiendo o bajando del vehículo
+  2016tik aurrera, hauek gehitu dira: motorrik gabeko ibilgailuen trafiko-istripuak, trafikoaren ondoriozkotzat 
+  jotzen ez diren garraio-istripuak eta istripuaren unean ibilgailutik igotzen edo jaisten ari ziren trafiko-istripuen 
+  biktimak
 
 texto_oceca: FUENTE.oceca
 
@@ -41,20 +45,22 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  Las lesiones causadas por el tránsito siguen siendo un importante problema de salud pública, en particular 
-  en los países de ingresos bajos y medios.
+  Bidaiek eragindako lesioak oraindik ere osasun publikoko arazo handia dira, bereziki diru sarrera baxuak eta 
+  ertainak dituzten herrialdeetan. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa
+
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.6.1&seriesCode=SH_STA_TRAF&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Tasa de mortalidad por lesiones causadas por accidentes de tránsito, por sexo (por cada 100.000 habitantes) SH_STA_TRAF</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.6.1&seriesCode=SH_STA_TRAF&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Zirkulazio-istripuek eragindako lesioen ondoriozko heriotza-tasa, sexuaren arabera (100.000 biztanleko) SH_STA_TRAF</a> UNSTATS
 
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-06-01.pdf">Metadatos 3-6-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-06-01.pdf">Metadatuak 3-6-1.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 
