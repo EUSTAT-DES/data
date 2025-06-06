@@ -1,0 +1,89 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.5-a-2-titulo
+
+objetivo_global: objetivo_largo.5-titulo
+meta_global: meta_largo.5-a-titulo
+#  indicador_onu_global: indicador_largo.5-a-2-titulo
+
+
+definicion: >-
+  Grado en que el marco jurídico (incluido el derecho consuetudinario) garantiza la 
+  igualdad de derechos de la mujer a la propiedad o el control de tierras medido a 
+  partir de la evaluación de seis proxies.
+
+formula: |
+
+
+  $$MJDMPT^{t} = \begin{cases} 1 & \text{Si ninguno de los proxies está presente en la legislación en el año 𝑡} \\ 2 & \text{Si uno de los proxies está presente en la legislación en el año 𝑡} \\ 3 & \text{Si dos de los proxies están presentes en la legislación en el año 𝑡} \\ 4 & \text{Si tres de los proxies están presentes en la legislación en el año 𝑡} \\ 5 & \text{Si cuatro de los proxies están presentes en la legislación en el año 𝑡} \\ 6 & \text{Si cinco o seis de los proxies están presentes en la legislación en el año 𝑡} \end{cases} $$
+
+
+periodicidad: FUENTE.FREQ_A
+
+desagregacion: >-
+
+
+observaciones: |
+
+  El indicador mide el nivel en el que el marco normativo garantiza la igualdad de derechos de
+  la mujer a la propiedad y el control de tierras, contrastando el marco legal frente
+  a seis proxies aceptados internacionalmente, en concreto en la Convención sobre la eliminación de todas las 
+  formas de discriminación contra la mujer (CEDAW) y las Directrices voluntarias sobre la 
+  gobernanza responsable de la tenencia de la tierra (VGGT):  
+   -Proxy A: Registro conjunto de tierras obligatorio o incentivado
+   -Proxy B: Obligación del consentimiento conyugal para transacciones de tierras  
+   -Proxy C: Igualdad de derechos de herencia  
+   -Proxy D: Asignación de recursos financieros para incrementar la tenencia y control de tierras por parte de la mujer  
+   -Proxy E: En sistemas legales que reconocen el derecho consuetudinario, existencia de protección explícita sobre los derechos de la mujer a la propiedad  
+   -Proxy F: Cuotas obligatorias en la gestión y administración de tierras  
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  El indicador 5.a.2 mide en qué medida el marco jurídico de los países 
+  (incluido el derecho consuetudinario) garantiza la igualdad de derechos de las mujeres 
+  en materia de propiedad y/o control de la tierra.
+
+  El enfoque en la tierra del indicador 5.a.2 refleja el reconocimiento 
+  de que la tierra es un recurso económico clave inextricablemente vinculado al acceso, 
+  uso y control de otros recursos económicos y productivos. Es un insumo clave para la 
+  producción agrícola; puede facilitar el acceso a servicios financieros y de extensión 
+  o para unirse a organizaciones de productores. Además, puede generar ingresos 
+  directamente si se alquila o se vende.
+
+  También reconoce que la propiedad y/o el control de la tierra por parte de las 
+  mujeres es fundamental para la reducción de la pobreza, la seguridad alimentaria, la inclusión 
+  y los objetivos generales de desarrollo sostenible. Por último, la igualdad de género 
+  en la propiedad y el control de la tierra es un derecho humano. Por ejemplo, 
+  el Pacto Internacional de Derechos Civiles y Políticos (PIDCP) garantiza la igualdad 
+  entre mujeres y hombres y prohíbe la discriminación por motivos de sexo en su artículo 2.
+
+  El artículo 26 del PIDCP consagra la igualdad ante la ley y puede aplicarse para 
+  defender el derecho de las mujeres a la no discriminación y la igualdad, incluidos 
+  los derechos económicos y sociales. Además, la Convención sobre la eliminación de todas 
+  las formas de discriminación contra la mujer (CEDAW) destaca que la discriminación 
+  contra la mujer “viola los principios de igualdad de derechos y respeto a la dignidad humana”.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.a.2&seriesCode=SG_LGL_LNDFEMOD&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Grado en que el marco jurídico (incluido el derecho consuetudinario) garantiza la igualdad de derechos de las mujeres a la propiedad y/o control de la tierra (1=Sin evidencia a 6=Niveles más altos de garantías) SG_LGL_LNDFEMOD</a> UNSTATS
+
+
+
+comparabilidad: >-
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-0A-02.pdf">Metadatos 5-a-2.pdf</a> (solo en inglés)
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

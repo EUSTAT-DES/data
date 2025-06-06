@@ -1,0 +1,62 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.3-titulo
+# meta_global: meta_largo.3-3-titulo
+#  indicador_onu_global: indicador_largo.3-3-5-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Se prevé que el número medio anual de personas que requieren tratamiento y 
+  atención por enfermedades tropicales desatendidas (ETD) disminuya hacia 
+  el “fin de las ETD” en 2030 (meta 3.3), a 
+  medida que se erradiquen, eliminen o controlen las ETD. Se prevé que el número 
+  de personas que requieren otras intervenciones contra las ETD (por ejemplo, 
+  gestión de vectores, salud pública veterinaria, agua, saneamiento e higiene) se 
+  mantenga más allá de 2030 y, por lo tanto, se abordará en el contexto de 
+  otras metas e indicadores, a saber, la cobertura sanitaria universal (CSU) y 
+  el acceso universal al agua y al saneamiento. Esta cifra no debe interpretarse 
+  como el número de personas en riesgo de contraer ETD. De hecho, es un subconjunto 
+  del número mayor de personas en riesgo. 
+
+  El tratamiento masivo se limita a quienes viven en distritos por encima de 
+  un nivel umbral de prevalencia; no incluye a todas las personas que viven 
+  en distritos con algún riesgo de infección. El tratamiento y la atención 
+  individual están destinados a quienes están o ya han estado infectados; 
+  no incluye a todos los contactos y otras personas en riesgo de infección. 
+
+  Esta cifra puede interpretarse mejor como el número de personas con un nivel 
+  de riesgo que requiere intervención médica, es decir, tratamiento y atención 
+  para las ETD.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.3.5&seriesCode=SH_TRP_INTVN&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Número de personas que requieren intervenciones contra enfermedades tropicales desatendidas (número) SH_TRP_INTVN</a> UNSTATS
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-05.pdf">Metadatos 3-3-5.pdf</a> (solo en inglés)
+
+informacion_interes: 
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'
+

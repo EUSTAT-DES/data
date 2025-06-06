@@ -1,0 +1,49 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.5-titulo
+# meta_global: meta_largo.5-6-titulo
+#  indicador_onu_global: indicador_largo.5-6-2-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  El indicador 5.6.2 busca proporcionar la primera evaluación global integral 
+  de los marcos jurídicos y regulatorios, en consonancia con el Programa de 
+  Acción (PdA) de la Conferencia Internacional sobre la Población y el Desarrollo 
+  (CIPD) de 1994, la Plataforma de Acción de Beijing y las normas internacionales 
+  de derechos humanos. El indicador mide el entorno jurídico y regulatorio en 
+  cuatro secciones temáticas, definidas como los parámetros clave de la atención, 
+  la información y la educación en salud sexual y reproductiva, según estos 
+  documentos de consenso internacional y las normas de derechos humanos: 
+   - Atención materna  
+   - Servicios de anticoncepción 
+   - Educación sexual 
+   - VIH y VPH
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-06-02.pdf">Metadatos 5-6-2.pdf</a> (solo en inglés)
+
+dato_global:
+informacion_interes: 
+national_data_updated_date: ''
+national_metadata_updated_date: ''

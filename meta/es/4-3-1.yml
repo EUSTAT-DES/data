@@ -1,0 +1,71 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.4-3-1-titulo
+
+objetivo_global: objetivo_largo.4-titulo
+meta_global: meta_largo.4-3-titulo
+#  indicador_onu_global: indicador_largo.4-3-1-titulo
+
+
+definicion: >-
+  Proporción de personas que han realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas o 12 meses, desglosada
+  por sexo y grupos de edad
+
+formula: |
+
+  $$PPE_{grupo\, edad}^{t} = \frac{PE_{grupo\, edad}^{t}}{P_{grupo\, edad}^{t}} \cdot 100$$
+
+  donde:
+
+  $PE_{grupo\, edad}^{t} =$ población de un grupo de edad que ha realizado estudios o formación (reglada o no reglada) en el año $t$
+
+  $P_{grupo\, edad}^{t} =$ población de un grupo de edad en el año $t$
+
+
+desagregacion: | 
+  Edad: 15-24; 15-64; 25-64; 18-64
+
+  Sexo
+
+  Territorio histórico
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: | 
+  Los datos que provienen de la Encuesta de Población en Relación con la Actividad son datos anuales por grupo de edad, y
+  se pregunta por las actividades realizadas en las últimas 4 semanas. 
+ 
+  Los datos que provienen de la Encuesta sobre la participación de la población adulta en las actividades de aprendizaje se refieren al
+  grupo de edad 18-64 y se pregunta por las actividades realizadas en los últimos 12 meses.
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Naciones Unidas define el indicador como el porcentaje de jóvenes y adultos en un rango 
+  de edad determinado (15-24 años, 25-54 años, 55-64 años, 15-64 años) que participaron en educación y capacitación formal 
+  o no formal en los 12 meses anteriores.
+
+  El indicador mide el nivel de participación de jóvenes y adultos en la educación y la formación de todo tipo. 
+  Un valor alto indica que una gran proporción de la población del grupo de edad pertinente participa en la educación 
+  y la formación formales y no formales.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+
+dato_global: >-
+
+
+comparabilidad: >- 
+  El indicador disponible no cumple con los metadatos de Naciones Unidas pero aporta información similar.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-03-01.pdf">Metadatos 4-3-1.pdf </a>(solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

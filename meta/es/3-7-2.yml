@@ -1,0 +1,70 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.3-7-2-title
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-7-titulo
+#  indicador_onu_global: indicador_largo.3-7-2-titulo
+
+
+definicion: >-
+
+  Nacimientos de madres entre 10 y 14 años y entre 15 y 19 años por cada 1.000 mujeres de ese grupo de edad
+
+formula: |
+
+  $$TF_{grupo\, de\, edad}^{t} = \frac{N_{grupo\, de\, edad}^{t}}{P_{mujeres\, grupo\, de\, edad}^{t}} \cdot 1.000$$
+
+  donde:
+
+  $N_{grupo\, de\, edad}^{t} =$ nacimientos de madres en un grupo de edad en el año $t$
+
+  $P_{mujeres\, grupo\, de\, edad}^{t} =$ mujeres en el grupo de edad correspondiente a 1 de julio del año $t$
+
+desagregacion: >- 
+  Grupo de edad: 10-14 años y 15-19 años
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: 
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Reducir la fecundidad adolescente y abordar los múltiples factores subyacentes son esenciales para 
+  mejorar la salud sexual y reproductiva y el bienestar social y económico de los adolescentes. 
+  Existe un amplio consenso en la literatura sobre el hecho de que las mujeres que quedan embarazadas y 
+  dan a luz muy temprano en su vida reproductiva están sujetas a mayores riesgos de complicaciones o 
+  incluso de muerte durante el embarazo y el parto y sus hijos también son más vulnerables. Por lo tanto, 
+  prevenir los nacimientos muy tempranos en la vida de una mujer es una medida importante para mejorar 
+  la salud materna y reducir la mortalidad infantil.
+
+  Además, las mujeres que tienen hijos a una edad temprana experimentan menores oportunidades de progreso 
+  socioeconómico, en particular porque las madres jóvenes tienen menos probabilidades de completar su educación
+  y, si necesitan trabajar, pueden encontrar especialmente difícil combinar las responsabilidades familiares y laborales. 
+  La tasa de natalidad adolescente también proporciona evidencia indirecta sobre el acceso a los servicios de salud 
+  pertinentes, ya que los jóvenes, y en particular las mujeres adolescentes solteras, a menudo experimentan 
+  dificultades para acceder a los servicios de salud sexual y reproductiva. 
+
+  Fuente: División de Estadísticas de las Naciones Unidas 
+
+dato_global: |
+ 
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.7.2&seriesCode=SP_DYN_ADKL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=10-14%20%7C%20FEMALE">Tasa de natalidad en adolescentes (por cada 1.000 mujeres de 10 a 14 años) SP_DYN_ADKL</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.7.2&seriesCode=SP_DYN_ADKL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15-19%20%7C%20FEMALE">Tasa de natalidad en adolescentes (por cada 1.000 mujeres de 15 a 19 años) SP_DYN_ADKL</a> UNSTATS
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-02.pdf">Metadatos 3-7-2.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

@@ -1,0 +1,64 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.3-4-2-title
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-4-titulo
+#  indicador_onu_global: indicador_largo.3-4-2-titulo
+
+
+definicion: >-
+  Defunciones atribuidas a suicidio por cada 100.000 habitantes.
+
+formula: |
+
+  $$TM_{suicidio }^{t} = \frac{D_{suicidio }^{t}}{P^{t}} \cdot 100.000$$
+
+  donde:
+
+  $D_{suicidio }^{t} =$ defunciones atribuidas a suicidio (códigos X60-X84 de la CIE-10) en el año $t$
+
+  $P^{t} =$ población a 1 de julio del año $t$
+
+desagregacion: |
+  Sexo 
+
+  Territorio histórico
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: >-
+
+  Los trastornos mentales se dan en todas las regiones y culturas del mundo. Los más frecuentes 
+  son la depresión y la ansiedad, que se estima que afectan a casi 1 de cada 10 personas. En su peor
+   forma, la depresión puede conducir al suicidio. En 2019, se estima que hubo más de 700.000 muertes 
+  por suicidio en todo el mundo.
+
+  La tasa de mortalidad por suicidio se define como el número de muertes por suicidio en un año, 
+  dividido por la población y multiplicado por 100 000. Los suicidios se definen en términos de la
+   Clasificación Internacional de Enfermedades, Décima Revisión (CIE-10)
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.4.2&seriesCode=SH_STA_SCIDE&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">Tasa de mortalidad por suicidio, por sexo (muertes por cada 100.000 habitantes) SH_STA_SCIDE</a> UNSTATS
+
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-04-02.pdf">Metadatos 3-4-2.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

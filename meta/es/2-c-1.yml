@@ -1,0 +1,88 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.2-c-1-titulo
+
+objetivo_global: objetivo_largo.2-titulo
+meta_global: meta_largo.2-c-titulo
+#  indicador_onu_global: global_indicators.2-c-1-title
+
+definicion: |
+
+  Este indicador se compone de dos series temporales:
+
+  <b> - Indicador de anomalías en los precios de los alimentos</b>
+  <b> - Índice de precios de consumo de los alimentos</b>
+
+
+formula: |
+
+  <b>Indicador de anomalías en los precios de los alimentos</b>
+
+  $$IFPA^{t} = \frac{1}{12} \cdot \sum_{m=1}^{12} IFPA_{m}^{t}$$
+
+  donde:
+
+  $IFPA_{m}^{t} $= indicador de anomalías en los precios de los alimentos del mes $m$ del año $t$ 
+
+
+  <br>
+
+  <b>Índice de precios de consumo de los alimentos</b>
+
+  $$IPC_{alimentos}^{t} = \frac{1}{12} \cdot \sum_{m=1}^{12} IPC_{alimentos, m}^{t}$$
+
+  donde:
+
+  $IPC_{alimentos, m}^{t}$ = índice de precios de consumo de los alimentos del mes $m$ del año $t$
+
+
+
+desagregacion: |
+  Productos: alimentos (todos), cereales y derivados, pan, huevos, leche
+  aceites y grasas, frutas frescas y legumbres y hortalizas frescas
+
+  Territorio histórico
+
+observaciones: >-
+
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: >- 
+
+  La serie "Índice de precios de consumo de los alimentos" está calculada utilizando una 
+  metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas.
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  El indicador de anomalías de los precios de los alimentos (IFPA) 
+  identifica los precios de mercado que son anormalmente altos. La IFPA 
+  se basa en una tasa de crecimiento compuesta ponderada que representa el crecimiento 
+  de los precios tanto dentro del año como a lo largo del año.
+
+  El indicador evalúa directamente 
+  el crecimiento de los precios durante un mes particular durante muchos años, teniendo 
+  en cuenta la estacionalidad en los mercados agrícolas y la inflación, lo que permite 
+  responder a la pregunta de si un cambio en el precio es anormal o no para un período determinado.
+
+  El indicador es sólo una guía para comprender la dinámica del mercado. 
+  Como tal, no se puede confiar en él como único elemento para determinar si el 
+  precio de un alimento en un mercado particular en un momento dado es anormalmente
+   alto o bajo debido a los efectos directos de las políticas locales. Los resultados 
+  deben sopesarse con otra información disponible sobre los fundamentos del mercado, 
+  el contexto macroeconómico y los shocks externos.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.c.1&seriesCode=AG_FPA_HMFP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ABNORMAL">Proporción de países que registran precios de los alimentos anormalmente altos o moderadamente altos, según el Indicador de anomalías de los precios de los alimentos (%) AG_FPA_HMFP</a> UNSTATS
+
+comparabilidad: >-
+  La serie "Indicador de anomalías de los precios de los alimentos" cumple con los metadatos de Naciones Unidas.
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0C-01.pdf">MetadatOS 2-c-1.pdf</a> (solo en inglés)
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

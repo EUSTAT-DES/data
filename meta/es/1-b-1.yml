@@ -1,0 +1,44 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.1-titulo
+# meta_global: meta_largo.1-b-titulo
+#  indicador_onu_global: indicador_largo.1-b-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  El indicador mide en qué medida el gasto público en tres áreas clave que son fundamentales para la 
+  erradicación de la pobreza, incluida la salud, la educación y otras transferencias directas, se asigna 
+  directamente a individuos u hogares en situación de pobreza monetaria según la definición nacional. 
+  
+  El indicador mide si el gasto público está dirigido a los pobres monetarios. El gasto social a favor de los 
+  pobres se define si la proporción de los gastos gubernamentales en servicios sociales es mayor que la proporción de 
+  la población, medida al nivel determinado por la definición nacional de pobreza de ingresos/consumo (en consonancia 
+  con el ODS 1.2.1). Por ejemplo, si la proporción del gasto público recibido por los pobres excede (cae por debajo) 
+  de la proporción de pobres según la definición de las definiciones nacionales, los gastos públicos pueden 
+  interpretarse como pro-pobres (no pro-pobres). Esta es una medida sólida del compromiso financiero que asumen 
+  los gobiernos para dirigir sus servicios y transferencias a los grupos pobres de la sociedad, reforzando las estrategias 
+  de desarrollo a favor de los pobres. 
+  
+  Los futuros desarrollos de la metodología y las mejoras en la disponibilidad de datos pueden 
+  permitir ampliar este indicador a otros grupos vulnerables, como las mujeres y los niños.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0b-01.pdf">Metadatos 1-b-1.pdf</a> (solo en inglés)
