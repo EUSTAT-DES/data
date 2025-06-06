@@ -5,38 +5,39 @@ meta_global: meta_largo.1-a-titulo
 #  indicador_onu_global: indicador_largo.1-a-2-titulo
 
 definicion: >-
-  Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud (grupo funcional 07 de la Clasificación de las Funciones de las Administraciones Públicas -COFOG-), utilizada a nivel internacional para clasificar los propósitos de las actividades gubernamentales)
+  Osasunera bideratutako herri-administrazio autonomikoen gastuaren proportzioa (07 talde funtzionala, Herri-Administrazioen Funtzioen Sailkapenean (COFOG), 
+  nazioartean gobernuaren jardueren helburuak sailkatzeko erabiltzen dena) 
 
 formula: |
 
-  $$PG_{salud}^{t} = \frac{G_{salud}^{t}}{G^{t}} \cdot 100$$
+  $$PG_{osasuna}^{t} = \frac{G_{osasuna}^{t}}{G^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $G_{salud}^{t} =$ gasto de las administraciones públicas autonómicas que se dedica a salud (grupo funcional 07 de la Clasificación de las Funciones de las Administraciones Públicas -COFOG-) en el año $t$
+  $G_{osasuna}^{t} =$ osasunera bideratutako herri-administrazio autonomikoen gastua  
+  (07 talde funtzionala Herri-Administrazioen Funtzioen Sailkapenean (COFOG) $t$ urtean
 
-  $G^{t} =$ gasto total de las administraciones públicas autonómicas en el año $t$
+  $G^{t} =$ herri-administrazio autonomikoen guztizko gastua $t$ urtean
 
 
 desagregacion: >-
 
 observaciones: |
 
-  La Clasificación de las Funciones de las Administraciones Públicas -COFOG-, desarrollada por la 
-  Organización para la Cooperación y el Desarrollo Económicos (OCDE) y publicada 
-  por la División de Estadística de las Naciones Unidas, estructura el gasto público
-  en 10 grupos funcionales:
+  Herri-Administrazioen Funtzioen Sailkapenak (COFOG), Ekonomia Lankidetza eta Garapenerako Erakundeak (ELGA) 
+  garatu eta Nazio Batuen Estatistika Atalak argitaratutakoak, gastu publikoa 10 talde funtzionaletan 
+  egituratzen du:
 
-  01 Servicios públicos generales
-  02 Defensa
-  03 Orden público y seguridad
-  04 Asuntos económicos
-  05 Protección del medio ambiente
-  06 Vivienda y servicios comunitarios
-  07 Salud
-  08 Ocio, cultura y religión
-  09 Educación
-  10 Protección social
+  - 01 Zerbitzu publiko orokorrak
+  - 02 Defentsa
+  - 03 Ordena publikoa eta segurtasuna
+  - 04 Gai ekonomikoak
+  - 05 Ingurumena babestea
+  - 06 Etxebizitza eta zerbitzu komunitarioak
+  - 07 Osasuna
+  - 08 Aisia, kultura eta erlijioa
+  - 09 Hezkuntza
+  - 10 Gizarte-babesa
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca

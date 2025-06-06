@@ -18,30 +18,30 @@ observaciones:
 
 
 justificacion_global: |
-  Este indicador busca medir el disfrute de las libertades fundamentales 
-  (por ejemplo, la libertad de opinión, la libertad de expresión y el acceso a la 
-  información, el derecho de reunión pacífica y la libertad de asociación) partiendo 
-  de la premisa de que los asesinatos, las desapariciones forzadas, la tortura, las 
-  detenciones arbitrarias, los secuestros y otros actos lesivos contra periodistas, 
-  sindicalistas y defensores de los derechos humanos tienen un efecto inhibidor 
-  en el ejercicio de estas libertades fundamentales.
+  Adierazle honek oinarrizko askatasunen gozamena neurtzea du xede (adibidez, iritzi-askatasuna, 
+  adierazpen-askatasuna eta informaziorako sarbidearen askatasuna, modu baketsuan biltzeko eta 
+  elkartzeko eskubidea), kontuan hartuta erailketak, behartutako desagerpenak, torturak, hautazko 
+  atxiloketak, bahiketak eta giza eskubideen defendatzaileen, sindikalisten eta kazetarien kontrako 
+  bestelako egintzak eragozpen bihurtzen direla oinarrizko askatasun horiek baliatzeko orduan. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: |
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.10.1&seriesCode=VC_VAW_MTUHRA&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">
-  Número de casos de asesinatos de defensores de derechos humanos, periodistas y sindicalistas VC_VAW_MTUHRA</a> UNSTATS
+  Giza eskubideen defendatzaileen, kazetarien eta sindikalisten hilketa-kasuen kopurua VC_VAW_MTUHRA</a> UNSTATS
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.10.1&seriesCode=VC_VOC_ENFDIS&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">
-  Número de casos de desaparición forzada de defensores de derechos humanos, periodistas y sindicalistas (Número) VC_VOC_ENFDIS</a> UNSTATS
+  Giza eskubideen defendatzaileen, kazetarien eta sindikalisten desagertze behartu kasuen kopurua (kopurua) VC_VOC_ENFDIS</a> UNSTATS
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.10.1&seriesCode=VC_VAW_MTUHRAN&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">
-  Países con al menos un caso verificado de asesinatos de defensores de derechos humanos, periodistas y sindicalistas (1 = SÍ, 0 = NO) VC_VAW_MTUHRAN</a> UNSTATS
+  Giza eskubideen defendatzaileen, kazetarien eta sindikalisten hilketen kasu egiaztatu bat gutxienez duten herrialdeak (1 = BAI, 0 = EZ) VC_VAW_MTUHRAN</a> UNSTATS
 
 comparabilidad:
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-10-01.pdf">Metadatos 16-10-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-10-01.pdf">Metadatuak 16-10-1.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 

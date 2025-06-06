@@ -22,25 +22,26 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  Si bien la meta 14.7 promueve el uso sostenible de los recursos marinos, 
-  incluidos la pesca, la acuicultura y el turismo, este indicador, seleccionado por 
-  el IAEG-ODS, se centra únicamente en el uso sostenible de los recursos marinos 
-  por parte de la pesca. La metodología propuesta por la FAO mide la pesca 
-  sostenible como porcentaje del PIB, de acuerdo con la formulación del indicador acordada. 
+  Nahiz eta 14.7 xedeak itsasoko baliabideen erabilera jasangarria sustatzen duen, arrantza, 
+  akuikultura eta turismoa barne, adierazle hori, IAEG-GJHek hautatua, arrantzaren eremuko 
+  itsasoko baliabideen erabilera jasangarrian oinarritzen da soilik. FAOk proposatutako 
+  metodologiak arrantza jasangarria neurtzen du, BPGd-ren ehuneko gisa, adostutako adierazlearen 
+  arabera. 
 
-  La proporción del valor añadido de una industria en el PIB se utiliza comúnmente como 
-  indicador de su importancia económica. En consecuencia, el valor añadido de la pesca de 
-  captura marina indica la importancia de las actividades relacionadas con la pesca marina 
-  en la economía del país y su importancia para los medios de vida. Tanto el PIB como el 
-  VA se miden en precios constantes y en moneda nacional.
+  Industria batek BPGd-n duen balio erantsiaren ehunekoa normalean bere garrantzia ekonomikoaren 
+  adierazle gisa erabiltzen da. Ondorioz, itsasoko harrapaketa-arrantzaren balio erantsiak itsas 
+  arrantzarekin lotutako jarduerek herrialde baten ekonomian duten garrantzia eta bizi-bitartekoetarako 
+  esangura adierazten du. Bai BPGd-a bai BEZa neurtzen dira prezio etengabetan eta moneta nazionalean. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=14.7.1&seriesCode=EN_SCP_FSHGDP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Pesca sostenible como proporción del PIB EN_SCP_FSHGDP</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=14.7.1&seriesCode=EN_SCP_FSHGDP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Arrantza jasangarria, BPGren proportzio gisa EN_SCP_FSHGDP</a> UNSTATS
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-14-07-01.pdf">Metadatos 14-7-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-14-07-01.pdf">Metadatuak 14-7-1.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''
