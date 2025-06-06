@@ -1,0 +1,95 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.4-6-1-titulo
+
+objetivo_global: objetivo_largo.4-titulo
+meta_global: meta_largo.4-6-titulo
+#  indicador_onu_global: indicador_largo.4-6-1-titulo
+
+
+definicion: >-
+  Proporción de personas entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia 
+  en la escala de comprensión lectora y en matemáticas
+
+formula: |
+
+  $$PPN2_{c}^{t} = \frac{PN2_{16-65\,c}^{t}}{P_{16-65}^{t}}$$
+
+  donde:
+
+  $PN2_{16-65\,c}^{t} =$ población entre 16 y 65 años que ha alcanzado al menos el nivel 2 de competencia 
+  en la escala del tipo de competencia $c$ en el año $t$
+
+  $P_{16-65}^{t} =$ población entre 16 y 65 años años en el año $t$
+
+
+desagregacion: | 
+  Tipo de competencia: comprensión lectora, matemáticas
+
+  Sexo
+
+periodicidad: FUENTE.FREQ_A10
+
+
+observaciones: |
+
+  El Programa de evaluación internacional de competencias de adultos utiliza una escala de 500 puntos 
+  para evaluar la comprensión lectora y la competencia en matemáticas. Para ayudar a 
+  interpretar esas puntuaciones, la escala se divide en seis categorías de  competencia:
+
+   - Inferior al nivel 1: puntuación inferior a 176
+   - Nivel 1: puntuación entre 176 y 225
+   - Nivel 2: puntuación entre 226 y 275
+   - Nivel 3: puntuación entre 276 y 325
+   - Nivel 4: puntuación entre 326 y 375
+   - Nivel 5: puntuación entre 376 y 500
+
+  Una persona alcanza al menos el nivel 2 de competencia en la escala de comprensión lectora cuando 
+  habitualmente es capaz de entender textos sobre temas que no conoce, aunque tenga dificultades ante 
+  tareas como comparar y contrastar diferentes textos o buscar textos digitales sobre un tema concreto 
+  que no conoce.
+
+  Una persona alcanza al menos el nivel 2 de competencia en la escala de matemáticas cuando 
+  habitualmente es capaz de responder a preguntas que requieren cálculos intermedios, entiende 
+  la información matemática de una tabla y no tiene dificultades para interpretar gráficas simples, 
+  aunque tenga dificultades ante tareas como manejar proporciones o interpretar gráficas complejas.
+
+  El dato de 2012 corresponde al estudio que se llevó a cabo entre el tercer cuatrimestre 
+  de 2011 y el primer cuatrimestre de 2012.
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: >-
+  El indicador es una medida directa de los niveles de habilidades de los jóvenes y los adultos 
+  en dos áreas: alfabetización y aritmética.
+
+  El nivel fijo de competencia (FLP) es el parámetro de referencia de los conocimientos básicos 
+  en un dominio (alfabetización o aritmética) medido a través de evaluaciones de aprendizaje. Actualmente, 
+  el FLP para los informes globales es el descriptor de nivel 2 del Programa para la Evaluación Internacional 
+  de Competencias de Adultos (PIAAC).
+
+  Los conceptos de alfabetización funcional y aritmética funcional se basan en las 
+  definiciones de la UNESCO, que ubren un continuo de niveles de competencia en lugar de una dicotomía. 
+  Una persona es alfabetizada funcionalmente si puede participar en todas aquellas actividades en las que la 
+  alfabetización es necesaria para el funcionamiento eficaz de su grupo y comunidad y también le permite 
+  seguir utilizando la lectura, la escritura y el cálculo para su propio desarrollo y el de la comunidad. 
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+
+dato_global: >-
+
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-06-01.pdf">Metadatos 4-6-1.pdf </a>(solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

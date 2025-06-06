@@ -1,0 +1,28 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.2-titulo
+# meta_global: meta_largo.2-a-titulo
+# indicador_onu_global: indicador_largo.2-a-2-titulo
+
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |  
+  Los flujos totales de Ayuda Oficial al Desarrollo (AOD) y otros 
+  flujos oficiales (OFO) a los países en desarrollo cuantifican 
+  el esfuerzo público (excluidos los créditos a las exportaciones) que los 
+  donantes proporcionan a los países en desarrollo para la agricultura.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >- 
+
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0a-02.pdf">Metadatos 2-a-2.pdf (solo en inglés)</a>
+
+

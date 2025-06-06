@@ -1,0 +1,72 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.1-5-2-titulo
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-5-titulo
+#  indicador_onu_global: indicador_largo.1-5-2-titulo
+
+
+definicion: >-
+  Proporción de indemnizaciones por daños personales, pérdidas pecuniarias 
+  y daños de bienes pagadas y/o provisionadas (pendientes de liquidación o pago) 
+  en relación al PIB a precios corrientes
+
+formula: |
+  $$INDEMPIB^{t} = \frac{(IDP^{t}+IPP^{t}+IDB^{t})/IUIPC_{refT}^{t}}{PIB^{t}} \cdot 100 \quad \mathrm t=1,\dots,\mathrm T$$
+
+  $$IUIPC_{refT}^{T} = 1$$
+
+  $$IUIPC_{refT}^{t-1} = IUIPC_{refT}^{t} \cdot \frac{(100+TIPC_{dic}^{t})}{100} \quad \mathrm t=\mathrm T,\mathrm T-1,\dots,\mathrm 2$$
+
+  donde:
+
+  $IDP^{t}$ = indemnizaciones por daños personales pagadas y/o provisionadas en el año $t$ a precios del año $T$
+
+  $IPP^{t}$ = indemnizaciones por pérdidas pecuniarias pagadas y/o provisionadas en el año $t$ a precios del año $T$
+
+  $IDB^{t}$ = indemnizaciones por daños de bienes pagadas y/o provisionadas en el año $t$ a precios del año $T$
+
+  $TIPC_{dic}^{t}$ = tasa de variación anual del IPC nacional en el mes de diciembre del año $t$ 
+
+  $PIB^{t}$ = producto interior bruto en términos corrientes en el año $t$
+
+desagregacion: Territorio histórico
+
+
+observaciones: >-
+  Las indemnizaciones se asignan al lugar y año de ocurrencia del siniestro, 
+  no incluyendo los siniestros ocurridos en el extranjero
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  El Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030 fue 
+  adoptado por los Estados miembros de las Naciones Unidas en marzo de 2015 
+  como una política global de reducción del riesgo de desastres.
+
+  Entre sus metas se encuentra la Meta C: Reducir las pérdidas económicas directas 
+  por desastres en relación con el producto interno bruto (PIB) mundial para 2030.
+
+  La consecución de sus metas contribuirá al desarrollo sostenible y fortalecerá la 
+  resiliencia económica, social, sanitaria y ambiental.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+
+comparabilidad: >-
+  El indicador disponible no cumple con los metadatos de Naciones Unidas, 
+  pero aporta información similar
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-02.pdf">Metadatos 1-5-2.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

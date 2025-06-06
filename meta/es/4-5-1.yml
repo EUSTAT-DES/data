@@ -1,0 +1,83 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.4-5-1-titulo
+
+objetivo_global: objetivo_largo.4-titulo
+meta_global: meta_largo.4-5-titulo
+#  indicador_onu_global: indicador_largo.4-5-1-titulo
+
+
+definicion: |
+  Relación entre las proporciones entre los siguientes grupos que han realizado actividades 
+  educativas (formales o no formales) en los últimos 12 meses o 4 semanas:
+
+   - Mujeres y hombres entre 18 y 64 años (en los últimos 12 meses)
+   - Personas entre 18 y 64 años pertenecientes a hogares que se encuentran en el nivel 
+     de ingresos inferior y superior (en los últimos 12 meses) 
+   - Personas entre 18 y 64 años con y sin limitaciones por problemas de salud 
+     (graves o no graves)(en los últimos 12 meses)
+   - Personas entre 15 y 64 años residentes en municipios de menos de 10.000 habitantes y más de 10.000 
+     habitantes (en las últimas 4 semanas)
+
+formula: |
+
+  $$IPD = \frac{[Ind_i]_d}{[Ind_i]_a}$$
+
+  donde:
+
+  $IPD$ = el Índice de Paridad de la Dimensión (Sexo, Riqueza, Ubicación, etc.)
+
+  $Ind_i$ = el Indicador de Educación: realización de actividades educativas (formales o no formales) en 
+  los últimos  12 meses o 4 semanas
+
+  $d$ = el grupo desfavorecido (mujeres, personas más pobres, personas que viven en municipios pequeños, 
+  personas con limitaciones por problemas de salud)
+
+  $a$ = el grupo favorecido (hombres, personas más ricas, personas que viven en municipios grandes, 
+  personas sin limitaciones por problemas de salud)
+
+desagregacion: |
+  
+  Edad 
+
+  Sexo 
+  
+  Territorio histórico 
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+  El valor de referencia de este indicador es 1, que se tiene cuando la paridad es absoluta. 
+  El grado de disparidad es mayor cuanto más se aleja de 1 el valor del indicador, reflejando 
+  una situación desfavorable o favorable del grupo poblacional del numerador respecto al 
+  grupo poblacional del denominador según tome un valor inferior o superior a 1 respectivamente. 
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: >-
+  Medir el nivel general de disparidad entre dos subpoblaciones de interés con respecto a un 
+  indicador determinado. Cuanto más alejado de 1 se encuentre el índice de paridad, mayor será la 
+  disparidad entre los dos grupos de interés. 
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.5.1&seriesCode=SE_GPI_PTNPRE&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Índice de paridad de género ajustado para la tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso a la primaria), (ratio) SE_GPI_PTNPRE</a> UNSTATS<br>
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-05-01.pdf"> Metadatos 4-5-1.pdf </a>(solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

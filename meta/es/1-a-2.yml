@@ -1,0 +1,112 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: global_indicators.1-a-2-title
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-a-titulo
+#  indicador_onu_global: indicador_largo.1-a-2-titulo
+
+definicion: |
+  Proporción del gasto de las administraciones públicas en la C.A. de Euskadi que se dedica a servicios
+  esenciales: educación, salud y protección social (grupos funcionales 09, 07 y 10 de la Clasificación 
+  de Funciones del Gobierno -COFOG-, utilizada a nivel 
+  internacional para clasificar los propósitos de las actividades gubernamentales)
+
+formula: |
+
+  $$PE_{t} = \frac{TE_{t} + TH_{t} + TS_{t}}{TG_{t}} \cdot 100$$
+
+  donde:
+
+  $PE_{t}$ = gasto del gobierno en servicios esenciales (educación, salud y protección social) como porcentaje del gasto total del gobierno en el año fiscal $t$
+
+  $TE_{t}$ = gasto total del gobierno en educación en el año fiscal $t$
+
+  $TH_{t}$ = gasto total del gobierno en salud en el año fiscal $t$
+
+  $TS_{t}$ = gasto total del gobierno en protección social en el año fiscal $t$
+
+  $TG_{t}$ = gasto total del gobierno en el año fiscal $t$
+
+desagregacion: |
+  Servicios esenciales: educación; salud; protección social
+
+observaciones: |
+
+  El indicador se calcula para el gobierno general, que incluye diferentes unidades
+  gubernamentales: gobierno central, gobierno autonómico, gobiernos forales y gobiernos locales.
+
+  La Clasificación de Funciones del Gobierno (COFOG), desarrollada por la 
+  Organización para la Cooperación y el Desarrollo Económicos (OCDE) y publicada 
+  por la División de Estadística de las Naciones Unidas, estructura el gasto público
+  en 10 grupos funcionales:
+
+   - 01 Servicios públicos generales
+   - 02 Defensa
+   - 03 Orden público y seguridad
+   - 04 Asuntos económicos
+   - 05 Protección del medio ambiente
+   - 06 Vivienda y servicios comunitarios
+   - 07 Salud
+   - 08 Ocio, cultura y religión
+   - 09 Educación
+   - 10 Protección social
+
+
+periodicidad: FUENTE.FREQ_A
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  El indicador se utiliza para evaluar el gasto del gobierno en servicios 
+  esenciales (educación, salud y protección social) en relación con el monto del 
+  gasto gubernamental total. Dado que proviene de un marco internacional, 
+  el Manual de estadísticas de finanzas públicas (MEFP 2014), proporciona a los 
+  analistas un conjunto de datos comparable entre países y garantiza el establecimiento 
+  de conclusiones analíticas sólidas para respaldar el seguimiento de los ODS 
+  utilizando datos fiscales.
+
+  Una alta proporción del gasto público en servicios esenciales (educación, 
+  salud y protección social) demuestra una alta prioridad gubernamental para 
+  estas funciones de gasto.
+
+  Para informar este indicador, se considera que el gobierno general es el 
+  nivel más apropiado de cobertura institucional, ya que abarcará las unidades 
+  gubernamentales pertinentes, incluidos los gobiernos locales, ya que en muchos 
+  países se debe considerar la descentralización de estas categorías de gasto. 
+  Un país puede tener un gobierno central; varios gobiernos estatales, 
+  provinciales o regionales; y muchos gobiernos locales, y el MEFP 2014 recomienda 
+  que se compilen estadísticas para todas esas unidades de gobierno general.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+
+comparabilidad: >-
+  El indicador disponible en la C.A de Euskadi utiliza la clasificación COFOG, 
+  que no cumple con los metadatos del indicador de Naciones Unidas pero 
+  aporta información similar. El indicador mundial utiliza el  manual de estadísticas 
+  de finanzas gubernamentales (MEFP) donde el concepto de gasto se aplica de manera 
+  ligeramente diferente.
+
+dato_global: |
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_ESSRV&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Proporción del gasto público total en servicios esenciales (%) SG_XPD_ESSRV</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_PROT&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Proporción del gasto público total en servicios esenciales, protección social (%) SG_XPD_PROT</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_EDUC&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Proporción del gasto público total en servicios esenciales, educación (%) SG_XPD_EDUC</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_HLTH&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Proporción del gasto público total en servicios esenciales, salud (%) SG_XPD_HLTH</a> UNSTATS
+
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02a.pdf">Metadatos 1-a-2 (1).pdf</a> (solo en inglés)
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02b.pdf">Metadatos 1-a-2 (2).pdf</a> (solo en inglés)
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
