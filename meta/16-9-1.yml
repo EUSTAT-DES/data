@@ -8,23 +8,24 @@ meta_global: meta_largo.16-9-titulo
 #  indicador_onu_global: indicador_largo.16-9-1-titulo
 
 definicion: >-
-  Proporción de menores de 5 años cuyo nacimiento se ha inscrito en el Registro Civil
+  Erregistro Zibilean inskribatu diren 5 urtetik beherakoen proportzioa 
 
 formula: |
 
   $$PPRC_{0-4}^{t} = \frac{PRC_{0-4}^{t}}{P_{0-4}^{t}}\cdot 100 $$
 
-  donde:
+  non:
 
-  $PRC_{0-4}^{t} =$ población de menos de 5 años cuyo nacimiento ha sido inscrito en el Registro Civil en el año $t$
+  $PRC_{0-4}^{t} =$ 5 urtetik beherako biztanleak, jaiotza Erregistro Zibilean inskribatutakoak $t$ urtean
 
-  $P_{0-4}^{t} =$ población de menos de 5 años en el año $t$
+  $P_{0-4}^{t} =$ 5 urtetik beherako biztanleria $t$ urtean
 
 
 desagregacion: 
 
 observaciones: |
-  El indicador es del 100% ya que la legislación sobre el Registro Civil establece la obligatoriedad de inscribir los nacimientos
+  Adierazlea % 100ekoa da, Erregistro Zibilari buruzko legeriak jaiotzak inskribatzeko 
+  betebeharra ezartzen baitu.
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
@@ -33,31 +34,31 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  El registro de los niños al nacer es el primer paso para garantizar su reconocimiento ante 
-  la ley, salvaguardar sus derechos y garantizar que cualquier violación de estos derechos 
-  no pase desapercibida.
+  Jaiotzean haurrak erregistratzea lehen urratsa da haurrak legez aitortuta egoteko, haien 
+  eskubideak babesteko eta eskubide horien edozein urraketa oharkabean ez dela pasatzen 
+  ziurtatzeko. 
 
-  A los niños que no tienen documentos de identificación oficiales se les puede negar 
-  la atención médica o la educación. Más adelante en la vida, la falta de dicha 
-  documentación puede significar que un niño pueda contraer matrimonio o ingresar al 
-  mercado laboral, o ser reclutado en las fuerzas armadas, antes de la edad legal. 
+  Identifikazio-agiri ofizialik ez duten haurrei ukatu egin dakieke arreta medikoa edo hezkuntza. 
+  Aurrerago, dokumentazio hori ez izateagatik gerta liteke haurra legezko adina baino lehen 
+  ezkontzea edo lanean jartzea, edo indar armatuek errekrutatzea. 
 
-  En la edad adulta, los certificados de nacimiento pueden ser necesarios para obtener 
-  asistencia social o un trabajo en el sector formal, para comprar o demostrar el 
-  derecho a heredar propiedades, para votar y para obtener un pasaporte. El derecho de los 
-  niños a un nombre y una nacionalidad está consagrado en la Convención sobre los 
-  Derechos del Niño (CDN) en el artículo 7.
+  Helduaroan, jaiotza-ziurtagiriak beharrezkoak izan daitezke gizarte-laguntza lortzeko edo 
+  sektore formalean lan egiteko, jabetzak oinordetzan hartzeko eskubidea hartu edo frogatzeko, 
+  botoa emateko eta pasaportea lortzeko. Haurrek izen bat eta nazionalitate bat izateko duten 
+  eskubidea Haurren Eskubideei buruzko Hitzarmenean jasota dago, 7. artikuluan. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.9.1&seriesCode=SG_REG_BRTH&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=%3C5Y">
-  Proporción de niños menores de 5 años cuyos nacimientos han sido registrados ante una autoridad civil (% de niños menores de 5 años) SG_REG_BRTH</a> UNSTATS
+  5 urtetik beherako haurren proportzioa, jaiotza agintaritza zibil baten aurrean erregistratutakoak (5 urtetik beherako haurren %) SG_REG_BRTH</a> UNSTATS
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-09-01.pdf">Metadatos 16-9-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-09-01.pdf">Metadatuak 16-9-1.pdf</a> (ingelesez bakarrik)'
 informacion_interes: 
 
 national_data_updated_date: ''

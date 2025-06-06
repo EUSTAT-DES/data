@@ -19,29 +19,26 @@ observaciones:
 
 justificacion_global: |
 
-  La razón de ser de este indicador es determinar si se solicitan obsequios o 
-  pagos informales (es decir, sobornos) a las empresas al realizar transacciones 
-  que involucran a funcionarios públicos. 
+  Adierazle honen helburua da zehaztea enpresei opari edo ordainketa informalak (hau da, eroskeriak) 
+  eskatzen zaizkien, funtzionario publikoak inplikatzen dituzten transakzioak egitean. 
 
-  Solicitar licencias regulatorias, obtener conexiones de servicios públicos y 
-  pagar impuestos se exigen formalmente en la mayoría de los países; por lo tanto, 
-  la razón de ser de este indicador es medir la incidencia de la corrupción 
-  en estas transacciones rutinarias.
+  Arautze-lizentziak eskatzea, zerbitzu publikoen konexioak lortzea eta zergak ordaintzea formalki 
+  eskatzen da herrialde gehienetan; beraz, adierazle honen helburua da ohiko transakzio horietan 
+  ustelkeriak duen eragina neurtzea. 
 
-  La principal fortaleza de la Encuesta Empresarial reside en que la mayoría de las preguntas 
-  se refieren a la experiencia cotidiana de la empresa; estas preguntas sobre corrupción 
-  no se basan en opiniones, sino en la realidad cotidiana de la empresa.
+  Enpresa Inkestaren indargune nagusia da galdera gehienak enpresaren eguneroko esperientziari buruzkoak 
+  direla; ustelkeriari buruzko galdera horiek ez dira iritzietan oinarritzen, enpresaren eguneroko 
+  errealitatean baizik. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+  Iturria: Nazio Batuen Estatistika Saila 
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.5.2&seriesCode=IC_FRM_BRIB&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
-  Incidencia del soborno (porcentaje de empresas que experimentaron al menos una solicitud de pago de soborno) IC_FRM_BRIB</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.5.2&seriesCode=IC_FRM_BRIB&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Eroskeriaren intzidentzia (gutxienez eroskeria ordaintzeko eskaera bat izan zuten enpresen ehunekoa) IC_FRM_BRIB</a> UNSTATS
 
 comparabilidad:
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-05-02.pdf">Metadatos 16-5-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-05-02.pdf">Metadatuak 16-5-2.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 

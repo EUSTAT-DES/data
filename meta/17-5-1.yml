@@ -21,28 +21,30 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  Los regímenes de promoción de la inversión pueden definirse como aquellos instrumentos que tienen como objetivo 
-  directo incentivar la inversión extranjera, tanto en el exterior como en el interior, mediante medidas específicas 
-  de los países de origen o de acogida de la inversión. 
+  Inbertsioa sustatzeko araubideak honela defini daitezke: atzerriko inbertsioa atzerrian zein barruan 
+  sustatzeko helburu zuzena duten tresnak, inbertsioa sortu edo jaso duten herrialdeetako berariazko 
+  neurrien bitartez. 
+  
+  Gutxien Aurreratutako Herrialdeetarako (GAH) inbertsioa sustatzeko araubideak inbertitzaileen 
+  jatorrizko herrialdeek GAHen kanpoko inbertsioa sustatzeko ezarri dituzten tresnak dira, zuzenean 
+  edo garapen bidean dauden herrialdeei zuzendutako neurrien bidez. 
+  
+  GAHetarako inbertsioa sustatzeko erregimenak hartzea bitarteko garrantzitsua da, baina ez da nahikoa 
+  GJHen aldeko munduko aliantza indartzeko (17. helburua). Araubide horiek gerora inplementatzea 
+  beharrezkoa da tresna eraginkorra izan dadin. 
+  
 
-  Los regímenes de promoción de la inversión para los Países Menos Adelantados (PMA) son aquellos instrumentos que 
-  los países de origen de los inversores han establecido para incentivar la inversión en el exterior de los PMA, ya 
-  sea directamente o mediante medidas dirigidas a los países en desarrollo. 
+  Iturria: Nazio Batuen Estatistika Sekzioa 
 
-  La adopción de regímenes de promoción de la inversión para los PMA es un medio importante, aunque insuficiente, para 
-  fortalecer la alianza mundial en pos de los ODS (Objetivo 17). La implementación posterior de estos regímenes es 
-  necesaria para que la herramienta sea eficaz.
-
-  Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global: |
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.5.1&seriesCode=SG_CPA_OFDI&areaCode=1&period=3&table=ALL">
-  Número de países con un programa de promoción de inversiones en el exterior que pueda beneficiar a los países en desarrollo, incluidos los PMA (1 = SÍ, 0 = NO) SG_CPA_OFDI</a> UNSTATS
+  Garapen bidean dauden herrialdeentzat onuragarriak izan daitezkeen atzerriko inbertsioak sustatzeko programa bat duten herrialdeen kopurua, GAHak barne (1 = BAI, 0 = EZ) SG_CPA_OFDI</a> UNSTATS
 
 comparabilidad:
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-05-01.pdf">Metadatos 17-5-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-05-01.pdf">Metadatuak 17-5-1.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

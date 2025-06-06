@@ -21,18 +21,19 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  El nivel promedio de los aranceles aduaneros aplicados en todo el mundo puede 
-  utilizarse como indicador del grado de éxito alcanzado por las negociaciones 
-  multilaterales y los acuerdos comerciales regionales.
+  Mundu osoan aplikatutako aduana-zergen batez besteko maila erabil daiteke negoziazio 
+  aldeaniztunek eta eskualdeko merkataritza-akordioek lortutako arrakasta-mailaren adierazle gisa. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global:
 
 comparabilidad:
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-10-01.pdf">Metadatos 17-10-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-10-01.pdf">Metadatuak 17-10-1.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

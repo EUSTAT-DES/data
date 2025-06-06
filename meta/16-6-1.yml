@@ -8,26 +8,25 @@ meta_global: meta_largo.16-6-titulo
 #  indicador_onu_global: indicador_largo.16-6-1-titulo
 
 definicion: >-
-  Gasto liquidado en proporción al gasto inicial de los presupuestos de las 
-  administraciones públicas autonómicas y locales
+  Gastu likidatua, administrazio publiko autonomikoen eta tokikoen aurrekontuen hasierako gastuaren proportzioan 
 
 formula: |
 
-  $$PG_{administración\, pública}^{t} = \frac{GL_{administración\, pública}^{t}}{GI_{administración\, pública}^{t}} \cdot 100$$ <br>
+  $$PG_{administrazio\, publikoa}^{t} = \frac{GL_{administrazio\, publikoa}^{t}}{GI_{administrazio\, publikoa}^{t}} \cdot 100$$ <br>
 
-  donde:
+  non:
 
-  $GL_{administración\, pública}^{t} =$ gasto total en la liquidación de presupuestos consolidados de la administración pública (administración autonómica o administración local) en el año $t$
+  $GL_{administrazio\, publikoa}^{t} =$ administrazio publikoaren (administrazio autonomikoa edo toki-administrazioa) aurrekontu bateratuen likidazioko guztizko gastua $t$ urtean
 
-  $GI_{CCAA}^{t} =$ gasto total en el presupuesto inicial consolidado de la administración pública (administración autonómica o administración local) en el año $t$
+  $GI_{administrazio\, publikoa}^{t} =$ administrazio publikoaren (autonomia-administrazioa edo toki-administrazioa) hasierako aurrekontu bateratuko guztizko gastua $t$ urtean
 
 
 desagregacion: |
-  Administración pública: administración autonómica y administración local
+  Administrazio publikoa: autonomia-administrazioa; toki-administrazioa
 
 
 observaciones: |
-  Los datos consolidados se toman depurados de IFL (intermediación financiera local) y PAC (política agrícola común).
+  Finkatutako datuak tokiko finantza-bitartekaritzatik eta nekazaritza-politika erkidetik hartzen dira, araztuta.
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
@@ -36,20 +35,22 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  El indicador intenta captar la fiabilidad de los presupuestos gubernamentales: 
-  ¿los gobiernos gastan lo que tienen previsto y recaudan lo que se han propuesto recaudar?
- 
-  Es un indicador sencillo e intuitivo que se entiende fácilmente y la metodología es 
-  transparente y cada calificación es fácilmente verificable.
+  Adierazlea gobernuaren aurrekontuen fidagarritasuna atzematen saiatzen da: Gobernuek gastatzen 
+  al dute aurreikusita dutena eta biltzen al dute bildu nahi dutena? 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+  Adierazle erraza eta intuitiboa da, erraz ulertzen dena, metodologia gardena da eta kalifikazio 
+  bakoitza erraz egiazta daiteke. 
+
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: 
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-06-01.pdf">Metadatos 16-6-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-06-01.pdf">Metadatuak 16-6-1.pdf</a> (ingelesez bakarrik)'
 informacion_interes: 
 
 national_data_updated_date: ''

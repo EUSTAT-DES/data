@@ -6,17 +6,17 @@ meta_global: meta_largo.6-1-titulo
 #  indicador_onu_global: indicador_largo.6-1-1-titulo
 
 definicion:  |
-  Proporción de personas en zonas de abastecimiento que notifican al Sistema de Información Nacional de Agua de Consumo (SINAC)
+  Kontsumorako Uraren Informazio Sistema Nazionalari (SINAC) jakinarazitako hornidura-eremuetako pertsonen proportzioa 
 
 formula:  |
 
   $$PPC^{t} = \frac{PC^{t}}{P^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PC^{t} =$ población en zonas de abastecimiento que notifican al Sistema Nacional de Información de Agua de Consumo en el año $t$
+  $PC^{t} =$ kontsumorako Uraren Informazio Sistema Nazionalari (SINAC) jakinarazitako hornidura-eremuetako pertsonak $t$ urtean
 
-  $P{t} =$ población a 1 de enero del año $t$
+  $P{t} =$ biztanleria $t$ urteko urtarrilaren 1ean
 
 desagregacion: >- 
 
@@ -24,7 +24,8 @@ periodicidad: FUENTE.FREQ_A
 
 observaciones: >-
 
-  Valores de 100 o próximos a esta cifra deben ser tomados con cautela, ya que se pueden deber a la doble contabilización de la población asociada a zonas que se han visto afectadas por fusiones de zonas de abastecimiento
+  100eko balioak edo kopuru horretatik hurbil daudenak zuhurtziaz hartu behar dira; izan ere, hornidura-eremuen 
+  bat-egiteen eraginez eremu horietako biztanleria bi aldiz kontabilizatu izanaren ondorio izan daiteke. 
 
 texto_oceca: FUENTE.oceca
 
