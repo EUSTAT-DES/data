@@ -9,31 +9,31 @@ meta_global: meta_largo.9-4-titulo
 
 
 definicion: >- 
-  Isuritako karbono dioxidoa (CO2), barne-produktu gordin errealeko unitate bakoitzeko
+  Isuritako karbono dioxidoa ($CO_2$), barne-produktu gordin errealeko unitate bakoitzeko
 
 formula:  |
-  <b>CO2 isurketak balio erantsiko unitate bakoitzeko</b>
+  <b>$CO_2$ isurketak balio erantsiaren unitateko</b>
 
   $$PPIBECO2^{t} = \frac{ECO2^{t}}{PIB_{2022}^{t}} $$
 
   non:
 
-  $ECO2^{t} =$ isuritako CO2a $t$ urtean
+  $ECO2^{t} =$ isuritako karbono dioxidoa ($CO_2$) $t$ urtean
 
-  $PIB_{2022}^{t} =$ barne-produktu gordina, 2022 erreferentziarekin kateatutako bolumenean $t$ urtean
+  $PIB_{2022}^{t} =$ barne-produktu gordina kateatutako bolumenean, 2022 erreferentziarekin $t$ urtean
 
    <br>
    
-   <b>CO2 isurketak manufaktura-sektoreko balio erantsiaren unitateko</b>
+   <b>$CO_2$ isurketak manufaktura-sektoreko balio erantsiaren unitateko</b>
 
   $$PVABECO2_{manufaktura}^{t} = \frac{ECO2_{manufaktura}^{t}}{VAB_{manufaktura\, 2022}^{t}} $$
 
   non:
 
-  $ECO2_{manufaktura}^{t} =$ manufaktura-sektorearen CO2 isuriak $t$ urtean
+  $ECO2_{manufaktura}^{t} =$ manufaktura-sektoreak isuritako karbono dioxidoa ($CO_2$) $t$ urtean
 
-  $VAB_{manufaktura\, 2022}^{t} =$ manufaktura sektorearen barne-produktu gordina, 
-  2022 erreferentziarekin kateatutako bolumenean $t$ urtean
+  $VAB_{manufaktura\, 2022}^{t} =$ manufaktura sektorearen barne-produktu gordina 
+  kateatutako bolumenean, 2022 erreferentziarekin $t$ urtean
 
 
 desagregacion:
@@ -49,7 +49,7 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  Balio erantsiko unitateen araberako CO2 emisioen adierazleak adierazten du jarduera ekonomiko batek 
+  Balio erantsiko unitateen araberako $CO_2$ emisioen adierazleak adierazten du jarduera ekonomiko batek 
   sortutako erregaien errekuntzatik sortutako emisioen kopurua, ekoizpen ekonomikoko unitateko. 
 
   Ekonomia osorako kalkulatzen denean, honako hauen efektuak uztartzen ditu: konbinazio energetikoko 
@@ -57,7 +57,7 @@ justificacion_global: |
   egitura (energian intentsiboak –gehiago edo gutxiago– diren sektoreetako pisu erlatiboari lotuta); 
   batez besteko eraginkortasuna energiaren erabileran. 
 
-  Manufaktura-sektorerako kalkulatzen denean (erregaien errekuntzatik eratorritako CO2 emisioak, 
+  Manufaktura-sektorerako kalkulatzen denean (erregaien errekuntzatik eratorritako $CO_2$ emisioak, 
   manufaktura-industriako balio erantsiko unitatearen arabera), manufaktura-ekoizpen ekonomikoaren 
   karbono-intentsitatea neurtzen da, eta haren joerak honako hauetan egondako aldaketen emaitza dira: 
   erabilitako konbinazio energetikoaren karbonoaren batez besteko intentsitatea, manufaktura-sektorearen 
@@ -69,7 +69,7 @@ justificacion_global: |
   murriztu ere egin daitezkeela manufaktura-industriako egiturazko aldaketen eta produktuak dibertsifikatzearen 
   ondorioz. 
 
-  CO2 emisioak fabrikazio-prozesuetako berotegi-efektuko gasen emisio guztien % 80 inguru dira. 
+  $CO_2$ emisioak fabrikazio-prozesuetako berotegi-efektuko gasen emisio guztien % 80 inguru dira. 
 
 
   Iturria: Nazio Batuen Estatistika Sekzioa 
