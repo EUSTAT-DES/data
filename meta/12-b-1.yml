@@ -21,31 +21,32 @@ observaciones:
 
 
 justificacion_global: |
-  La Meta 12.b insta a los países a desarrollar e implementar herramientas para monitorear 
-  el turismo sostenible. El turismo sostenible es aquel que tiene plenamente en cuenta sus 
-  impactos económicos, sociales y ambientales actuales y futuros, atendiendo al mismo 
-  tiempo las necesidades de los visitantes, la industria, el medio ambiente y las comunidades anfitrionas. 
-  [...] Es un proceso continuo que requiere un monitoreo constante de los impactos.
+  12.b xedeak herrialdeei dei egiten die garapen jasangarria ikuskatzeko tresnak garatu eta 
+  ezar ditzaten. Turismo jasangarria zera da: bai orain bai gero izango dituen eraginak kontuan 
+  hartzen dituen turismoa, (ekonomia, gizartea nahiz ingurumenekoak) eta, aldi berean, bisitarien, 
+  industriaren, ingurumenaren eta komunitate anfitrioien beharrizanei ondo erantzuten diena. [...] 
+  Eraginak une oro ikuskatzea eskatzen duen prozesu etengabea da. 
 
-  El indicador 12.b.1 de los ODS mide el nivel de capacidad estadística a nivel nacional y 
-  mundial para monitorear de forma creíble y comparable la sostenibilidad del turismo, 
-  especialmente las dimensiones económica y ambiental. Tiene la ventaja adicional de no 
-  solo monitorear y fomentar el logro de la meta 12.b, sino también de apoyar un monitoreo 
-  más general del turismo sostenible, incluyendo las demás metas relacionadas con el turismo, 
-  en particular la 8.9 y la 14.7.
+  GJHen 12.b.1 adierazleak turismoaren jasangarritasuna modu sinesgarrian eta alderatzeko moduan 
+  ikuskatzen duen estatu eta munduko gaitasun estatistikoko maila neurtzen du, bereziki ekonomiari 
+  eta ingurumenari lotuta. Abantaila osagarri bat ere badu: 12.b xedearen lorpena ikuskatu eta 
+  sustatzeaz gain, turismo jasangarriaren ikuspen orokorragoa babesten du, horren barruan sartuta 
+  turismoarekin lotutako gainerako xedeak, bereziki 8.9 eta 14.7. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: |
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.b.1&seriesCode=ST_EEV_STDACCT&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Implementación de herramientas contables estandarizadas para el seguimiento de los aspectos económicos y ambientales del turismo (número de tablas) ST_EEV_STDACCT</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.b.1&seriesCode=ST_EEV_STDACCT&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Kontabilitateko tresna estandarizatuen ezarpena turismoaren alderdi ekonomikoen eta ingurumenekoen segimendua egiteko (taula kopurua) ST_EEV_STDACCT</a> UNSTATS
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.b.1&seriesCode=ST_EEV_ACCSEEA&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Implementación de herramientas contables estándar para monitorear los aspectos económicos y ambientales del turismo (tablas SEEA) ST_EEV_ACCSEEA</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.b.1&seriesCode=ST_EEV_ACCSEEA&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Kontabilitateko tresna estandarizatuen ezarpena turismoaren alderdi ekonomikoen eta ingurumenekoen segimendua egiteko (SEEA taulak) ST_EEV_ACCSEEA</a> UNSTATS
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.b.1&seriesCode=ST_EEV_ACCTSA&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Implementación de herramientas contables estándar para el seguimiento de los aspectos económicos y ambientales del turismo (tablas de la Cuenta Satélite de Turismo) ST_EEV_ACCTSA</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.b.1&seriesCode=ST_EEV_ACCTSA&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Kontabilitateko tresna estandarizatuen ezarpena turismoaren alderdi ekonomikoen eta ingurumenekoen segimendua egiteko (Turismoaren kontu satelitearen taulak) ST_EEV_ACCTSA</a> UNSTATS
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-0b-01.pdf">Metadatos 12-b-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-0b-01.pdf">Metadatuak 12-b-1.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

@@ -9,32 +9,36 @@ meta_global: meta_largo.10-1-titulo
 
 
 definicion: >- 
-  Tasa de crecimiento promedio anualizada en un período de cinco años de los ingresos y gastos por persona de los hogares del 40% más pobre de la población de la comunidad autónoma (40% de las personas con menores ingresos por unidad de consumo (escala OCDE modificada)) y del total de la población.
+  
+  Bost urteko aldian, EAEko biztanleriaren % 40 pobreeneko etxeko pertsona bakoitzeko diru-sarrera eta gastuen 
+  urteko batez besteko hazkunde-tasa (diru-sarrera txikienak dituzten pertsonen % 40, kontsumo-unitate bakoitzeko 
+  (ELGA eskala aldatua)), eta biztanleria osoarena
 
 
 formula: |
 
-  El crecimiento anualizado del ingreso real medio per cápita o del consumo se calcula 
-  estimando primero el ingreso real medio per cápita o el consumo del 40% inferior de la 
-  distribución del bienestar en los años T0 y T1 y luego calculando la tasa de crecimiento 
-  promedio anual entre esos años utilizando una fórmula de crecimiento compuesto:
+  Batez besteko per capita diru-sarrera errealaren edo kontsumoaren urteko hazkundea kalkulatzeko, lehenik eta behin, 
+  ongizate-banaketaren % 40 baxuenaren T0 eta T1 urteetako batez besteko per capita diru-sarrera erreala edo kontsumoa 
+  kalkulatzen da, eta, ondoren, urte horien arteko urteko batez besteko hazkunde-tasa kalkulatzen da, hazkunde 
+  konposatuaren formula bat erabiliz:
 
-  Crecimiento del ingreso o consumo = $$\left( \frac{Media\, en\, T_1}{Media\, en\, T_0} \right)^{\frac{1}{T_1 - T_0}} - 1$$
+  Diru-sarreren edo kontsumoaren hazkundea = $$\left( \frac{Batezbestekoa\, T_1}{Batezbestekoa\, T_0} \right)^{\frac{1}{T_1 - T_0}} - 1$$
 
-
-  El crecimiento del ingreso real per cápita medio o del consumo de la población total 
-  se calcula de la misma manera utilizando datos de la población total.
+   
+  Biztanleria osoaren batez besteko per capita diru-sarrera errealaren edo kontsumoaren hazkundea modu berean kalkulatzen 
+  da, biztanleria osoaren datuak erabiliz.
 
 desagregacion: | 
-  Grupo de ingresos: 40% más pobre, total
+  Diru-sarreren taldea: %40 pobreena; guztizkoa
 
-  Territorio histórico
+  Lurralde historikoa
 
 observaciones: >-
 
-  El número de unidades de consumo de un hogar se calcula utilizando la escala OCDE modificada, 
-  que asigna un peso de 1 a la primera persona de 14 o más años, un peso de 0,5 al resto de 
-  personas de 14 o más años y un peso de 0,3 a las personas de menos de 14 años.
+  Etxeko kontsumo-unitateen kopurua kalkulatzeko, ELGA eskala aldatua erabiltzen da. 
+  Eskala horrek 1 pisua esleitzen dio 14 urte edo gehiagoko lehen pertsonari, 0,5 pisua 14 urte edo 
+  gehiagoko gainerako pertsonei eta 0,3 pisua 14 urtetik beherako pertsonei.
+
 
 periodicidad: FUENTE.FREQ_A
 
@@ -45,32 +49,32 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  Las mejoras en la prosperidad compartida requieren tanto una economía en crecimiento como 
-  una consideración de la equidad. La prosperidad compartida reconoce explícitamente que si 
-  bien el crecimiento es necesario para mejorar el bienestar económico 
-  en una sociedad, el progreso se mide por la forma en que esas ganancias se comparten 
-  con sus miembros más pobres. 
+  Oparotasun partekatuan hobekuntzak egoteko beharrezkoa da ekonomia hazten egotea eta ekitatea kontuan 
+  hartzea. Oparotasun partekatuak berariaz aitortzen du, hazkundea gizarte baten ongizate ekonomikoa 
+  hobetzeko beharrezkoa den arren, irabazi horiek kiderik pobreenekin partekatzeko moduaren arabera 
+  neurtzen dela aurrerapena. 
 
-  Además, en una sociedad inclusiva no es suficiente elevar a todos por encima de un nivel 
-  de vida mínimo absoluto, debe garantizarse que el crecimiento económico aumente la 
-  prosperidad entre los pobres a lo largo del tiempo.
+  Gainera, gizarte inklusibo batean ez da aski guztiak gutxieneko bizi-maila absolutuaren gainetik 
+  igotzea; bermatu beharra dago hazkunde ekonomikoak pobreen artean oparotasuna areagotzen duela denboran 
+  zehar. 
 
-  La decisión de medir la prosperidad compartida en función del ingreso o el consumo 
-  no se tomó para ignorar las muchas otras dimensiones del bienestar. Está motivada por la 
-  necesidad de un indicador que sea fácil de entender, comunicar y medir, aunque existen 
-  desafíos de medición. De hecho, la prosperidad compartida comprende muchas dimensiones 
-  del bienestar de los menos favorecidos, y al analizar la prosperidad compartida en 
-  el contexto de un país, es importante considerar una amplia gama de indicadores de bienestar.
+  Oparotasun partekatua diru-sarreren edo kontsumoaren arabera neurtzeko erabakia ez zen hartu ongizatearen 
+  beste dimentsio ugariak ahanzturan uzteko. Ulertzeko, komunikatzeko eta neurtzeko erraza den adierazle 
+  bat behar delako ezarri zen, nahiz eta neurketan erronkak dauden. Berez, oparotasun partekatuaren barruan 
+  kaltetuen dauden pertsonen ongizatearen dimentsio ugari sartzen dira eta, herrialde baten testuinguruan 
+  oparotasun partekatua aztertzean, garrantzitsua da ongizatearen adierazle ugariak hartzea kontuan. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-01-01.pdf">Metadatos 10-1-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-01-01.pdf">Metadatuak 10-1-1.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

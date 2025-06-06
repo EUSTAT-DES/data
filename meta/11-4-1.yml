@@ -9,24 +9,25 @@ meta_global: meta_largo.11-4-titulo
 
 
 definicion: >- 
-  Gasto liquidado por persona de las administraciones públicas autonómicas y locales en 
-  la preservación, protección y conservación del patrimonio cultural (patrimonio histórico 
-  y artístico, archivos y bibliotecas)
+  Erkidegoko eta tokiko administrazio publikoek pertsona bakoitzeko likidatutako gastua, 
+  kulturala-ondarea zaindu, babestu eta kontserbatzen (ondare historikoa eta artistikoa, 
+  artxiboak eta liburutegiak) 
+  
 
 formula: |
 
   $$GLPCP^{t} = \frac{GLPC_{CCAA}^{t}+GLPC_{EELL}^{t}}{P^{t}}$$
 
-  donde: 
+  non: 
 
-  $GLPC_{CCAA}^{t}$ = gasto liquidado por la comunidad autónoma en la preservación, protección y conservación del patrimonio cultural (patrimonio histórico y artístico, archivos y bibliotecas) en el año $t$
+  $GLPC_{CCAA}^{t}$ = Autonomia erkidegoko administrazio publikoak kultura-ondarea (historia- eta arte-ondarea, artxiboak eta liburutegiak) zaintzeko, babesteko eta kontserbatzeko likidatutako gastua $t$ urtean
 
-  $GLPC_{EELL}^{t}$ = gasto liquidado por las entidades locales de la comunidad autónoma en la preservación, protección y conservación del patrimonio cultural (patrimonio histórico y artístico, archivos y bibliotecas) en el año $t$
+  $GLPC_{EELL}^{t}$ = Toki-entitateetako administrazio publikoek kultura-ondarea (historia- eta arte-ondarea, artxiboak eta liburutegiak) zaintzeko, babesteko eta kontserbatzeko likidatutako gastua $t$ urtean
 
-  $P^{t}$ = población a 1 de julio del año $t$
+  $P^{t}$ = biztanleria $t$ urteko uztailaren 1ean
 
 desagregacion: >-
-  Administración pública: administración autonómica, administración local
+  Administrazio publikoa: Autonomia erkidegoa; toki-entitatea
 
 
 observaciones: >-
@@ -41,35 +42,37 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  Este indicador mide el gasto per cápita (público y privado) en la preservación, 
-  protección y conservación del patrimonio cultural y/o natural a lo largo del tiempo. 
-  Para monitorear la evolución a lo largo del tiempo de los esfuerzos 
-  nacionales para la protección y salvaguarda del patrimonio cultural y/o natural.
+  Adierazle honek zera neurtzen du: norbanako bakoitzak zenbateko gastua egin duen denboraren 
+  joanean ondare kulturala edota naturala zaindu, babestu eta kontserbatzen (ondare publikoa 
+  eta pribatua). Ondare kulturala edota naturala babestu eta zaintzeko ahalegin nazionalek 
+  izan duten bilakaera ikuskatzeko. 
 
-  Este indicador ilustra cómo los esfuerzos/acciones financieras realizadas por 
-  las autoridades públicas, tanto a nivel local, nacional como internacional, solas o en 
-  asociación con organizaciones de la sociedad civil (OSC) y el sector privado, para proteger 
-  y salvaguardar el patrimonio cultural y natural del mundo tienen un impacto directo en hacer 
-  que las ciudades y los asentamientos humanos sean más sostenibles. 
+  Agintari publikoek, tokian, Estatuan eta nazioartean, beren kabuz eta gizarte zibileko 
+  erakundeekin edo sektore pribatuarekin batera, munduko ondare kulturala eta naturala babestu 
+  eta zaintzeko egiten dituzten ahalegin eta ekintza finantzarioek eragin zuzena dute hiriak 
+  eta gizakien kokapenak jasangarriago bihurtzeko. Halaxe adierazten du adierazle honek. 
 
-  Esto significa que los recursos y activos culturales se salvaguardan para seguir 
-  atrayendo/atraer personas (habitantes, trabajadores, turistas, etc.) e inversiones 
-  financieras, para en última instancia aumentar el monto total del gasto. 
+  Horren arabera, baliabide eta aktibo kulturalak zaindu egiten dira, pertsonak (biztanleak, 
+  langileak, turistak eta abar) eta inbertsio finantzarioak erakartzeko edo erakartzen jarraitzeko, 
+  hartara gastuaren zenbateko osoa areagotze aldera. 
 
-  Este indicador es un indicador indirecto para medir el objetivo. Este indicador permitiría 
-  saber si los países están reforzando o no sus esfuerzos para salvaguardar su patrimonio cultural 
-  y natural. Ayudará a identificar áreas que requieren más atención a efectos de políticas.
+  Helburua neurtzeko zeharkako adierazlea da. Horri esker jakiteko moduan izango gara herrialdeak 
+  eginahalean ari diren, gero eta gogorrago, ondare kultural eta naturala zaintzeko ahaleginak 
+  indartzen ari diren ala ez. Lagungarria izango da politika-mailan arreta gehiago behar duten 
+  arloak identifikatzeko. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global:
 
 comparabilidad: >- 
-  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas. Solo se incluye
-  el patrimonio cultural, y no el patrimonio natural.
+  EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak. 
+  Kultura-ondarea bakarrik hartzen da kontuan, eta ez natura-ondarea.
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-04-01.pdf">Metadatos 11-4-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-04-01.pdf">Metadatuak 11-4-1.pdf</a> (ingelesez bakarrik)
 
 
 national_data_updated_date: ''

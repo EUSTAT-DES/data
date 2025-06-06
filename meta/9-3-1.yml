@@ -9,21 +9,24 @@ meta_global: meta_largo.9-3-titulo
 
 
 definicion: >- 
-  Proporción del valor añadido bruto correspondiente a las empresas del sector manufacturero que tienen menos de 20 trabajadores respecto al valor añadido bruto total del sector manufacturero
+  20 langile baino gutxiago dituzten manufaktura-sektoreko enpresei dagokien 
+  balio erantsi gordinaren proportzioa manufaktura-sektoreko balio erantsi gordin 
+  osoarekiko 
 
 formula: |
 
-  $$PVAB_{pequeñas\, empresas\, manufactura}^{t} = \frac{VAB_{pequeñas\, empresas\, manufactura}^{t}}{VAB_{manufactura}^{t}} \cdot 100$$
+  $$PVAB_{manufaktura\, enpresa\, txikiak}^{t} = \frac{VAB_{manufaktura\, enpresa\, txikiak}^{t}}{VAB_{manufaktura}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $VAB_{pequeñas\, empresas\, manufactura}^{t} =$ valor añadido bruto correspondiente a las empresas del sector manufacturero que tienen menos de 20 trabajadores en el año $t$
+  $VAB_{manufaktura\, enpresa\, txikiak}^{t} =$ 20 langile baino gutxiago dituzten manufaktura-sektoreko 
+  enpresei dagokien balio erantsi gordina $t$ urtean
 
-  $VAB_{manufactura}^{t} =$ valor añadido bruto total del sector manufacturero en el año $t$
+  $VAB_{manufaktura}^{t} =$ manufaktura-sektoreko balio erantsi gordina $t$ urtean
 
 
 desagregacion:  |
-  Territorio histórico
+  Lurralde historikoa
 
 observaciones: >-
 
@@ -36,30 +39,28 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  Las empresas industriales se clasifican en pequeñas en comparación con las grandes 
-  o medianas por su naturaleza distintiva de organización económica, capacidad 
-  de producción, escala de inversión y otras características económicas.
+  Industria-enpresa txikitzat jotzen dira, handi edo ertainekin alderatuta, antolaketa ekonomikoaren izaera 
+  bereizgarriaren, ekoizpen-gaitasunaren, inbertsio-eskalaren eta beste ezaugarri ekonomiko batzuen ondorioz. 
 
-  Las “industrias de pequeña escala” pueden funcionar con una pequeña cantidad de 
-  capital, mano de obra relativamente no calificada y utilizando 
-  materiales locales. 
+  “Eskala txikiko industriek” kapital-kopuru txikiarekin eta ez-kalifikatutako eskulanarekin funtziona 
+  dezakete, tokiko materialak erabilita. 
 
-  A pesar de su pequeña contribución a la producción industrial 
-  total, se reconoce que su papel en la creación de empleo, especialmente en los 
-  países en desarrollo, es significativo allí donde el alcance de absorción de la 
-  fuerza laboral excedente de sectores tradicionales como la agricultura o la pesca 
-  es muy alto. Las “industrias de pequeña escala” son capaces de 
-  satisfacer la demanda interna de bienes de consumo básicos como alimentos, ropa, muebles, etc.
+  Industria-ekoizpen osoan egiten duten ekarpena txikia izanik ere, enplegua sortzeko orduan, batez ere 
+  garapen-bidean dauden herrialdeetan, zeregin garrantzitsua dute nekazaritza eta arrantza bezalako sektore 
+  tradizionaletako soberako lan-indarraren xurgapen-irismena oso altua den lekuetan.  “Eskala txikiko industriak” 
+  gai dira oinarrizko kontsumo-ondasunen barne-eskaria asetzeko, besteak beste elikagai, arropa edo altzariena. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global:
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEko adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-03-01.pdf">Metadatos 9-3-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-03-01.pdf">Metadatuak 9-3-1.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

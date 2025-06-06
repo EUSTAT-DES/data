@@ -9,24 +9,21 @@ meta_global: meta_largo.9-1-titulo
 
 
 definicion: >- 
-  El Índice de Acceso Rural (IAR) mide la proporción de la población rural que vive a una distancia máxima 
-  de 2 km de una carretera transitable durante todo el año.
+  
+  Adierazleak, normalean Landa Sarbidearen Indizea bezala ezagutzen denak, urte osoan zehar ibiltzeko moduko errepide batetik gehienez 2 km-ra bizi den landa-eremuko biztanleriaren proportzioa neurtzen du. 
 
 formula:  |
 
-  $$IAR^{t} = \frac{PR_{carretera\, transitable}^{t}}{PR^{t}} \cdot 100$$
+  $$IAR^{t} = \frac{PR_{ibiltzeko\, moduko\, errepidea}^{t}}{PR^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PR_{carretera\, transitable}^{t} =$ población rural que vive a una distancia máxima de 
-  2 km de una carretera transitable durante todo el año en el año $t$
+  $PR_{ibiltzeko\, moduko\, errepidea}^{t} =$ urte osoan zehar ibiltzeko moduko errepide batetik gehienez 2 km-ra bizi den landa-eremuko biztanleria $t$ urtean
 
-  $PR^{t} =$ población rural en el año $t$
+  $PR^{t} =$ landa-eremuko biztanleria $t$ urtean
 
 
 desagregacion: >- 
-
-  Territorio histórico
 
 observaciones: >-
 
@@ -37,39 +34,37 @@ periodicidad: FUENTE.FREQ_A
 
 justificacion_global: | 
 
-  El Índice de Acceso Rural (IAR), desarrollado originalmente por el Banco Mundial 
-  en 2006, es uno de los indicadores de desarrollo global más importantes en el 
-  sector del transporte, y proporciona un indicador sólido, claramente comprensible 
-  y conceptualmente coherente en todos los países. Mide la proporción de personas que viven 
-  en zonas rurales que tienen acceso a una carretera transitable durante todo 
-  el año a una distancia aproximadamente caminable de 2 kilómetros (km). 
+  Landa Sarbidearen Indizea (LSI), 2006an Munduko Bankuak garatua, garraioaren sektorean garapen orokorraren 
+  adierazle garrantzitsuenetakoa da, eta herrialde guztietan kontzeptualki koherentea, ulerterraza eta sendoa 
+  den adierazle bat ematen du. Landaguneetan bizi diren eta urte osoan zehar oinez 2 kilometroko distantzian 
+  ibiltzeko moduko errepide baterako sarbidea duten pertsonen proportzioa da. 
 
-  Entre otros factores, la conectividad del transporte es una parte esencial del entorno 
-  propicio para un crecimiento inclusivo y sostenido. En los países en desarrollo, 
-  en particular en África, la gran mayoría de la producción agrícola sigue siendo de 
-  pequeños agricultores con un acceso limitado a los mercados locales, regionales o mundiales. 
+  Beste faktore batzuen artean, garraioaren konektibitatea funtsezko alderdia da hazkunde inklusibo eta 
+  jarraitua sustatzen duen inguru batean. Garapen-bidean dauden herrialdeetan, bereziki Afrikan, 
+  nekazaritza-ekoizpenaren zati handiena oraindik ere tokiko, eskualdeko eta munduko merkatuetara sarbide 
+  mugatua duten nekazari txikiei dagokie. 
 
-  Las empresas manufactureras aisladas y otras empresas locales (excepto las relacionadas 
-  con la minería) a menudo quedan rezagadas en el mercado mundial. La conectividad 
-  limitada del transporte también es una limitación crítica para el acceso a los servicios 
-  sociales y administrativos, especialmente en las zonas rurales donde vive la mayoría 
-  de los pobres.
+  Manufaktura-enpresa isolatuak eta tokiko beste enpresa batzuk (meatzaritzarekin lotutakoak salbu) sarritan 
+  atzeratuta geratzen dira mundu-mailako merkatuan.  Garraioaren konektibitate mugatua ere muga kritikoa da 
+  gizarte- eta administrazio-zerbitzuak eskuratzeko, batez ere landaguneetan, bertan bizi direlarik pobre gehienak. 
 
-  El acceso rural es clave para liberar el potencial económico desaprovechado y erradicar 
-  la pobreza en muchos países en desarrollo. A corto plazo, los costos de transporte y el tiempo 
-  de viaje pueden reducirse mediante la mejora de las condiciones de las carreteras. A largo 
-  plazo, la productividad agrícola aumentará y las empresas serán más rentables con la 
-  creación de más puestos de trabajo, lo que en última instancia ayudará a aliviar la pobreza.
+  Landagunea funtsezkoa da ondo aprobetxatu gabeko ahalmen ekonomikoa askatzeko eta garapen-bidean dauden 
+  herrialde askotan pobrezia ezabatzeko. Epe laburrera, garraio-kostuak eta bidaia-denborak murriztu egin 
+  daitezke, errepideetan baldintzak hobetuta. Epe luzera, nekazaritzako ekoizpena areagotu egingo da, eta 
+  enpresak errentagarriagoak izango dira lanpostu gehiago sortuta. Horrek, azken batean, pobrezia arintzen 
+  lagunduko du. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEko adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-01-01.pdf">Metadatos 9-1-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-01-01.pdf">Metadatuak 9-1-1.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

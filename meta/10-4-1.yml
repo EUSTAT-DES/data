@@ -9,23 +9,21 @@ meta_global: meta_largo.10-4-titulo
 
 
 definicion: >- 
-  Remuneración de personas asalariadas en proporción al PIB a precios corrientes
+  Soldatapeko pertsonen ordainsaria, BPGrekiko proportzioan, uneko prezioetan
 
 
 formula: |
 
   $$PPIBRA^{t} = \frac{RA^{t}}{PIB^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $RA^{t} =$ remuneración de personas asalariadas en el año $t$
+  $RA^{t} =$ soldatapeko pertsonen ordainsaria $t$ urtean
 
-  $PIB^{t} =$ producto interior bruto a precios corrientes en el año $t$
+  $PIB^{t} =$ barne produktu gordina uneko prezioetan $t$ urtean
   
 
 desagregacion: 
-
-  Territorio histórico 
 
 observaciones: >-
 
@@ -38,42 +36,39 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  La participación del trabajo en el PIB busca informar sobre la proporción relativa del PIB 
-  que corresponde a los trabajadores en comparación con la que corresponde al capital en 
-  un período de referencia determinado. 
+  Lanak BPGan duen partaidetzak informazioa eman asmo du langileei dagokien BPGaren proportzio erlatiboari 
+  buruz, kapitalari dagokionaren aldean, erreferentzia-aldi jakin batean. 
 
-  Para interpretar este indicador de manera efectiva, es importante considerarlo junto 
-  con las tendencias de crecimiento económico. La proporción de la remuneración del trabajo 
-  en la producción nacional puede resaltar hasta qué punto el crecimiento económico se traduce 
-  en mayores ingresos para los empleados a lo largo del tiempo (y/o mayores ganancias para 
-  los trabajadores por cuenta propia). En períodos de recesión económica, la participación 
-  del ingreso laboral proporciona una indicación de hasta qué punto la caída de la 
-  producción reduce el ingreso laboral en relación con las ganancias. 
+  Adierazle hori eraginkortasunez interpretatzeko, garrantzitsua da hazkunde ekonomikoaren joerekin batera 
+  aztertzea. Lanaren ordainsariak produkzio nazionalean duen proportzioak agerian jar dezake zein neurritaraino 
+  esan nahi duen hazkunde ekonomikoak diru-sarrera gehiago daudela enplegatuentzat epe luzean (edo irabazi 
+  handiagoak norbere konturako langileentzat). Atzerapen ekonomikoko garaietan, laneko sarreraren partaidetzak 
+  adierazten du zein neurritan murrizten dituen ekoizpenaren erorketak laneko diru-sarrerak, irabaziei lotuta. 
 
-  Si el ingreso laboral cae a un ritmo mayor que las ganancias, se espera que la 
-  participación del ingreso laboral caiga. Por el contrario, si hay una disminución más 
-  pronunciada de las ganancias que de los ingresos laborales, la participación aumentará. 
+  Laneko diru-sarrerak irabaziak baino erritmo handiagoan erortzen badira, laneko sarreraren partaidetza 
+  ere erortzea espero da. Bestalde, irabaziak laneko diru-sarrerak baino gehiago murrizten badira, partaidetza 
+  areagotu egingo da. 
 
-  Para cualquier nivel dado de PIB y ganancias, la participación del 
-  ingreso laboral puede caer como resultado de la caída de los salarios, la caída de los ingresos 
-  de los trabajadores por cuenta propia, cambios en la composición del empleo por ingresos o 
-  una combinación de estos. 
+  BPGaren eta irabazien edozein mailarako, laneko diru-sarreren partaidetza erori egin daiteke soldaten 
+  erorketaren, norbere kontuko langileen diru-sarreren erorketaren, enplegua osatzeko orduan diru-sarreren 
+  arabera egondako aldaketen edo horien arteko konbinazio baten ondorioz. 
 
-  El aumento de la producción y del PIB a menudo conduce a mejores niveles de vida de los individuos 
-  en la economía, pero esto dependerá de la distribución del ingreso real y de las políticas 
-  públicas, entre otros factores. 
+  Sarritan, ekoizpena eta BPGa areagotzeak norbanakoen bizi-maila hobeak ekartzen ditu ekonomian, baina hori 
+  benetako diru-sarreren banaketaren eta politika publikoen araberakoa izango da, besteak beste. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas 
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
 
- <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=10.4.1&seriesCode=SL_EMP_GTOTL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAGE">Participación del trabajo en el PIB (%) SL_EMP_GTOTL</a> UNSTATS
+ <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=10.4.1&seriesCode=SL_EMP_GTOTL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAGE">Lanaren partaidetza BPGean (%) SL_EMP_GTOTL</a> UNSTATS
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-04-01.pdf">Metadatos 10-4-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-04-01.pdf">Metadatuak 10-4-1.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

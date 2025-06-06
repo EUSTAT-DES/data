@@ -10,25 +10,26 @@ meta_global: meta_largo.7-1-titulo
 
 definicion: |
 
-  Número de personas que utilizan combustibles y tecnologías limpios para cocinar, 
-  calentar e iluminar, dividido por la población total que hace uso de cocina, 
-  calefacción o iluminación, expresado en porcentaje. 
+  Janaria prestatzeko, berotzeko eta argiztatzeko erregai eta teknologia 
+  garbiak erabiltzen dituzten pertsonen kopurua, zati sukaldea, berogailua 
+  edo argiztapena erabiltzen duen biztanleria osoa, ehunekotan adierazita. 
 
-  “Limpio” se define por los objetivos de tasa de emisiones y recomendaciones 
-  específicas sobre combustibles incluidos en las Directrices de la OMS para la calidad del 
-  aire en interiores. Se consideran combustibles no limpios el carbón sin procesar y el 
-  queroseno.
+  "Garbia" definitzen da OMEk barnealdeetako airearen kalitateari buruz emandako 
+  jarraibideetan jasotzen diren isuri-tasen eta erregaiei buruzko gomendio 
+  espezifikoetako helburuen arabera. Erregai ez-garbitzat hartzen dira prozesatu 
+  gabeko ikatza eta kerosenoa. 
+
 
 formula: |
 
-  $$PPUC_{combustibles\, limpios}^{t} = \frac{PUC_{combustibles\, limpios}^{t}}{PUC^{t}} \cdot 100$$
+  $$PPUC_{erregai\, garbiak}^{t} = \frac{PUC_{erregai\, garbiak}^{t}}{PUC^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PUC_{combustibles\, limpios}^{t} =$ población que utiliza combustibles y tecnologías 
-  limpios para cocinar, calentar e iluminar en el año $t$
+  $PUC_{erregai\, garbiak}^{t} =$ Janaria prestatzeko, berotzeko eta argiztatzeko erregai eta teknologia 
+  garbiak erabiltzen dituzten pertsonak $t$ urtean
 
-  $P^{t} =$ población que hace uso de cocina, calefacción o iluminación en el año $t$
+  $P^{t} =$ sukaldea, berogailua edo argiztapena erabiltzen duen biztanleria $t$ urtean
 
 
 desagregacion: 
@@ -43,40 +44,37 @@ observaciones:
 
 justificacion_global: | 
 
-  Cocinar, iluminar y calentar representan una gran parte del consumo de energía 
-  en los hogares de los países de ingresos bajos y medianos. Para cocinar y 
-  calentar, los hogares suelen depender de combustibles sólidos (como madera, 
-  carbón vegetal, biomasa) o queroseno combinados con tecnologías ineficientes 
-  (por ejemplo, fuegos abiertos, estufas, calentadores de ambiente o lámparas). 
+  Janaria prestatzea, argiztatzea eta berotzea diru-sarrera txikiko eta ertaineko herrialdeetako etxeetako 
+  energia-kontsumoaren zati handi bat dira. Janaria prestatzeko eta berotzeko, etxeak erregai solidoen 
+  (hala nola egurra, egur-ikatza, biomasa) edo kerosenoaren menpe egoten dira, teknologia ez-eraginkorrekin 
+  konbinatuta (adibidez, su irekiak, berogailuak, giro-berogailuak edo lanparak). 
 
-  Es bien sabido que la dependencia de esa energía ineficiente para cocinar, 
-  calentar e iluminar está asociada con altos niveles de contaminación del aire 
-  en los hogares (interiores). 
+  Jakina da janaria prestatzeko, berotzeko eta argiztatzeko energia ez-eraginkor horrekiko mendekotasuna 
+  etxeetan (barnealdean) airearen kutsadura-maila handiekin lotuta dagoela. 
 
-  Se estima que el uso de combustibles ineficientes 
-  para cocinar por sí solo causa más de 4 millones de muertes al año, principalmente 
-  entre mujeres y niños. Esto es más que la tuberculosis, el virus de inmunodeficiencia 
-  humana y la malaria juntos. Estos impactos adversos para la salud pueden evitarse 
-  adoptando combustibles y tecnologías limpios para todos los principales 
-  fines energéticos del hogar o, en algunas circunstancias, adoptando 
-  cocinas de combustión avanzada (es decir, aquellas que alcanzan 
-  los objetivos de tasas de emisión previstos en las directrices de la OMS) y 
-  adoptando protocolos estrictos para su uso seguro. 
+  Janaria prestatzeko erregai ez-eraginkorrak erabiltzeak urtean 4 milioi heriotza baino gehiago eragiten 
+  dituela kalkulatzen da, batez ere emakumeen eta haurren artean. Tuberkulosia, giza immunoeskasiaren 
+  birusa eta malaria batera baino gehiago da hori. Osasunerako kaltegarriak diren inpaktu horiek saihestu 
+  egin daitezke erregai eta teknologia garbiak hartuz etxeko helburu energetiko nagusi guztietarako, edo, 
+  egoera batzuetan, errekuntza aurreratuko sukaldeak hartuz (hau da, OMEren jarraibideetan aurreikusitako 
+  emisio-tasen helburuak lortzen dituztenak) eta erabilera segururako protokolo zorrotzak ezarriz. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: |
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=7.1.2&seriesCode=EG_EGY_CLEAN&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA">Proporción de la población que depende principalmente de combustibles y tecnologías limpios (%) EG_EGY_CLEAN</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=7.1.2&seriesCode=EG_EGY_CLEAN&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA">Batez ere erregai eta teknologia garbien mende dauden biztanleen proportzioa (%) EG_EGY_CLEAN</a> UNSTATS
 
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn erabilgarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: 
-  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-01-02.pdf">Metadatos 7-1-2.pdf</a> (solo en inglés)'
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-01-02.pdf">Metadatuak 7-1-2.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

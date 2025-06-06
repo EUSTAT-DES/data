@@ -8,19 +8,20 @@ meta_global: meta_largo.11-7-titulo
 #  indicador_onu_global: indicador_largo.11-7-1-titulo
 
 definicion: >-
-  Proporción que representa la superficie construida de las ciudades destinada a espacios públicos abiertos (plazas, parques…) y calles respecto a la superficie total construida
+  
+  Erabilera publikoko espazio irekietarako (plazak, parkeak...) eta kaleetarako erabiltzen den hirien azalera eraikiaren batez besteko proportzioa, azalera eraiki osoarekiko 
 
 formula: |
 
-  $$PSC_{espacios\, públicos\, abiertos\, y\, calles}^{t} = \frac{SC_{espacios\, públicos\, abiertos}^{t} + SC_{calles}^{t}}{SC^{t}} \cdot 100$$
+  $$PSC_{espazio\, publiko\, irekiak\, eta\, kaleak}^{t} = \frac{SC_{espazio\, publiko\, irekiak}^{t} + SC_{kaleak}^{t}}{SC^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $SC_{espacios\, públicos\, abiertos}^{t} =$ superficie construida destinada a espacios públicos abiertos en el año $t$
+  $SC_{espazio\, publiko\, irekiak}^{t} =$ espazio publiko irekietarako azalera eraikia $t$ urtean
 
-  $SC_{calles}^{t} =$ superficie construida destinada a calles en el año $t$
+  $SC_{kaleak}^{t} =$ kaleetarako azalera eraikia $t$ urtean 
 
-  $SC^{t} =$ superficie total construida en el año $t$
+  $SC^{t} =$ azalera eriki osoa $t$ urtean
 
 desagregacion:
 
@@ -34,23 +35,24 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  El valor de los espacios públicos suele ser ignorado o subestimado por 
-  los responsables políticos, líderes, ciudadanos y promotores urbanos. 
-  Esto se debe a varias razones, como la falta de recursos, comprensión o 
-  capacidad para utilizar el espacio público como un sistema urbano completo 
-  y multifuncional. 
+  Espazio publikoen balioa askotan ez dute ezagutu ere egiten arduradun politiko, lider, herritar 
+  eta hiri-sustatzaileek edo gutxietsi egin ohi dute. Hainbat arrazoi daude horretarako, besteak 
+  beste: baliabide-falta, espazio publikoa funtzio anitzeko hiri-sistema oso gisa erabiltzeko 
+  ezintasuna, edo gaiaren gaineko ulermen kaskarra. 
 
-  A menudo, la falta de marcos propicios adecuados, la escasa voluntad política y 
-  la ausencia de mecanismos de participación ciudadana agravan la situación. 
-  Sin embargo, fundamentalmente, la falta de un indicador de medición global ha 
-  dificultado la apreciación local y global del valor de los espacios públicos.
+  Sarritan, esparru egokirik ez badago, borondate politikoa urria bada edo herritarren partaidetzarako 
+  mekanismoak falta badira, egoera larriagoa bihurtzen da. Hala ere, funtsean, neurketa orokorreko 
+  adierazle bat ez egotea kaltegarria da espazio publikoen balioa kontuan hartzea, tokian nahiz 
+  orokorrean. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-07-01.pdf">Metadatos 11-7-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-07-01.pdf">Metadatuak 11-7-1.pdf</a> (ingelesez bakarrik)'
 informacion_interes: 
 
 national_data_updated_date: ''

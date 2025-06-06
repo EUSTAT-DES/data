@@ -8,43 +8,43 @@ meta_global: meta_largo.6-2-titulo
 #  indicador_onu_global: indicador_largo.6-2-1-titulo
 
 definicion: >-
-  Series disponibles: 
+  Eskuragarri dauden serieak: 
 
-   <b> - Proporción de viviendas con agua corriente</b>: Proporción de viviendas principales 
-   con abastecimiento de agua corriente 
+   <b> - Txorrotako ura duten etxebizitzen proportzioa</b>: Txorrotako uraren hornidura duten duten etxebizitza 
+  nagusien proportzioa 
   
-   <b> - Proporción de viviendas con baño</b>: Proporción de viviendas principales con baño 
+   <b> - Bainugela duten etxebizitzen proportzioa</b>: Bainugela duten etxebizitza nagusien proportzioa  
 
 formula: |
-  <b>Proporción de viviendas con agua corriente</b>
+  <b>Txorrotako ura duten etxebizitzen proportzioa</b>
 
-  $$PVP_{agua\, corriente}^{t} = \frac{VP_{agua\, corriente}^{t}}{VP^{t}} \cdot 100$$
+  $$PVP_{txorrotako\, ura}^{t} = \frac{VP_{txorrotako\, ura}^{t}}{VP^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $VP_{agua\, corriente}^{t} =$ viviendas principales con abastecimiento de agua corriente en el año $t$
+  $VP_{txorrotako\, ura}^{t} =$ txorrotako uraren hornidura duten etxebizitza nagusiak $t$ urtean
 
-  $VP^{t} =$ viviendas principales en el año $t$
+  $VP^{t} =$ etxebizitza nagusiak $t$ urtean
 
   <br>
 
-  <b>Proporción de viviendas con baño</b>
+  <b>Bainugela duten etxebizitzen proportzioa</b>
 
-  $$PVP_{baño}^{t} = \frac{VP_{baño}^{t}}{VP^{t}} \cdot 100$$
+  $$PVP_{bainugela}^{t} = \frac{VP_{bainugela}^{t}}{VP^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $VP_{baño}^{t} =$ viviendas principales con baño en el año $t$
+  $VP_{bainugela}^{t} =$ bainugela duten etxebizitza nagusiak $t$ urtean
 
-  $VP^{t} =$ viviendas principales en el año $t$
+  $VP^{t} =$ etxebizitza nagusiak $t$ urtean
 
 
 desagregacion: |
-  Territorio histórico/Comarca/Municipio
+  Lurralde historikoa/Eskualdea/Udalerria 
 
 observaciones: >-
-  Vivienda principal es aquella vivienda que es utilizada toda o la mayor parte del año como 
-  residencia habitual por una o más personas
+  Etxebizitza nagusia da urte osoan edo urtearen zatirik handienean pertsona batek edo gehiagok ohiko 
+  bizileku gisa erabiltzen duten etxebizitza.
 
 
 periodicidad: FUENTE.FREQ_A
@@ -54,38 +54,40 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |
 
-  El acceso a servicios de saneamiento e higiene seguros es esencial para la buena salud, el bienestar y la productividad y se reconoce 
-  ampliamente como un derecho humano. La gestión insegura de los excrementos humanos y las prácticas deficientes de saneamiento están 
-  estrechamente asociadas con las enfermedades diarreicas, que exacerban la malnutrición y siguen siendo un importante problema de salud 
-  pública y una de las principales causas mundiales de muerte infantil, así como con las infecciones parasitarias, como los helmintos 
-  transmitidos por el suelo (gusanos) y una serie de otras enfermedades tropicales desatendidas. Si bien el acceso a instalaciones sanitarias 
-  higiénicas es esencial para reducir la transmisión de patógenos, es igualmente importante garantizar la gestión, el tratamiento y la 
-  eliminación seguros de los excrementos producidos. 
-  
-  El uso compartido de las instalaciones de saneamiento también es una consideración importante, dados los impactos negativos en la 
-  dignidad, la privacidad y la seguridad personal. La falta de acceso a instalaciones de saneamiento e higiene adecuadas es una causa 
-  importante de riesgos y ansiedad, especialmente para las mujeres y las niñas. Por todas estas razones, el acceso a servicios 
-  de saneamiento e higiene que prevengan enfermedades, proporcionen privacidad y garanticen la dignidad se ha reconocido como un 
-  derecho humano básico. 
-  
-  La meta 6.2 de los ODS relacionada con el saneamiento y la higiene tiene por objeto lograr este derecho 
-  mediante el acceso universal a servicios gestionados de manera segura.
+  Saneamendu- eta higiene-zerbitzu seguruak izatea funtsezkoa da osasun onerako, ongizaterako eta produktibitaterako, 
+  eta giza eskubidetzat hartzen da. Giza gorotzen kudeaketa ez-seguruak eta saneamendu-jardunbide eskasak oso lotuta 
+  daude beherako-gaixotasunekin, malnutrizioa areagotzen dutelarik –oraindik ere osasun publikoko arazo garrantzitsua 
+  eta haurren heriotzaren munduko kausa nagusietako bat izaten jarraitzen dute–, bai eta parasito-infekzioekin ere, 
+  hala nola lurzorutik transmititutako helmintoekin (harrak) eta artatu gabeko beste gaixotasun tropikal batzuekin. 
+  Instalazio sanitario higienikoetarako sarbidea izatea patogenoen transmisioa murrizteko funtsezkoa bada ere, sortutako 
+  gorotzen kudeaketa, tratamendua eta deuseztapen segurua bermatzea ere garrantzitsua da. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+  Saneamendu-instalazioen erabilera partekatua ere garrantzitsua da, duintasunean, pribatutasunean eta segurtasun 
+  pertsonalean eragin negatiboak baititu. Saneamendu- eta higiene-instalazio egokietarako sarbiderik eza arrisku eta 
+  antsietaterako kausa garrantzitsua da, batez ere emakume eta neskentzat. Arrazoi horiengatik guztiengatik, gaixotasunak 
+  prebenitu, pribatutasuna eman eta duintasuna bermatzen duten saneamendu- eta higiene-zerbitzuetarako sarbidea oinarrizko 
+  giza eskubidetzat hartu da. 
+
+  Saneamenduarekin eta higienearekin lotutako GJHen 6.2 xedearen helburua eskubide hori modu seguruan kudeatutako 
+  zerbitzuetarako sarbide unibertsalaren bidez lortzea da. 
+
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: |
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.2.1&seriesCode=SH_SAN_HNDWSH&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA">Proporción de la población con instalaciones básicas para el lavado de manos en sus instalaciones, por zona urbana/rural (%) SH_SAN_HNDWSH</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.2.1&seriesCode=SH_SAN_HNDWSH&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA">Etxean eskuak garbitzeko oinarrizko instalazioak dituzten biztanleen proportzioa, landa-eremua/hiri-eremua izatearen arabera (%) SH_SAN_HNDWSH</a> UNSTATS
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.2.1&seriesCode=SH_SAN_SAFE&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA">
-  Proporción de la población que utiliza servicios de saneamiento gestionados de forma segura, por zonas urbanas o rurales (%) SH_SAN_SAFE</a> UNSTATS
+  Modu seguruan kudeatutako saneamendu-zerbitzuak erabiltzen dituzten biztanleen proportzioa, landa-eremua/hiri-eremua izatearen arabera (%) SH_SAN_SAFE</a> UNSTATS
 
 comparabilidad: >-
-  El indicador disponible no cumple los metadatos de Naciones Unidas, pero aporta información similar
+  EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du
 
 indicador_meta_enlace: |
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01a.pdf">Metadatos 6-2-1(a).pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01a.pdf">Metadatuak 6-2-1(a).pdf</a> (ingelesez bakarrik)
 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01b.pdf">Metadatos 6-2-1(b).pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01b.pdf">Metadatuak 6-2-1(b).pdf</a> (ingelesez bakarrik)
 
 informacion_interes: 
 

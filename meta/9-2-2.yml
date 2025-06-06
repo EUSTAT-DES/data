@@ -9,23 +9,23 @@ meta_global: meta_largo.9-2-titulo
 
 
 definicion: >- 
-  Proporción de personas ocupadas en el sector manufacturero respecto al total de personas ocupadas
+  Manufaktura-sektorean okupatutako pertsonen proportzioa, okupatutako pertsona guztiekiko
 
 formula:  |
 
-  $$PPO_{manufacturero}^{t} = \frac{PO_{manufacturero}^{t}}{PO^{t}} \cdot 100$$
+  $$PPO_{manufaktura}^{t} = \frac{PO_{manufaktura}^{t}}{PO^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PO_{manufacturero}^{t} =$ población ocupada en el sector manufacturero (sección C de la CNAE-2009) en el año $t$
+  $PO_{manufaktura}^{t} =$ Manufaktura-sektorean okupatutako biztanleria (EJSN-2009ko C sekzioa) $t$ urtean
 
-  $PO^{t} =$ población ocupada en el año $t$
+  $PO^{t} =$ biztanleria okupatua $t$ urtean
 
 
 desagregacion:  |
-  Sexo
+  Sexua
 
-  Territorio histórico
+  Lurralde historikoa
 
 observaciones: >-
 
@@ -38,25 +38,25 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  Este indicador refleja la contribución de la industria manufacturera al empleo total. 
-  Mide la capacidad del sector manufacturero para absorber el excedente de mano de obra 
-  de la agricultura y otros sectores tradicionales. Sin embargo, en los países 
-  desarrollados se espera una tendencia opuesta, donde el énfasis se ha desplazado 
-  hacia la reducción de la mano de obra en la industria manufacturera como parte 
-  de las medidas de reducción de costos, para promover industrias más intensivas en 
-  capital.
+  Adierazle horrek manufaktura-industriak enplegu osoari egiten dion ekarpena islatzen du. Manufaktura-industriak 
+  nekazaritzako eta beste sektore tradizional batzuetako eskulanaren soberakina xurgatzeko duen gaitasuna 
+  neurtzen du. Hala ere, garatutako herrialdeetan kontrako joera espero da. Horietan, manufaktura-industrian 
+  eskulana murrizteko ahaleginetan dabiltza, kostuak murrizteko, eta, hala, kapitalean industria intentsiboagoak 
+  sustatzeko helburuz. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: | 
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.2.2&seriesCode=SL_TLF_MANF&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX%20%7C%20ISIC4_C"> Empleo manufacturero como proporción del empleo total - 13.ª CIET (%) SL_TLF_MANF</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.2.2&seriesCode=SL_TLF_MANF&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX%20%7C%20ISIC4_C"> Manufaktura-enplegua guztizko enpleguaren proportzio gisa - 13. CIET (%) SL_TLF_MANF</a> UNSTATS
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEko adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-02-02.pdf">Metadatos 9-2-2.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-02-02.pdf">Metadatuak 9-2-2.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

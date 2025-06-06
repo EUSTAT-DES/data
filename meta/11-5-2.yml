@@ -9,10 +9,12 @@ meta_global: meta_largo.11-5-titulo
 
 
 definicion: >-
-  Proporción de indemnizaciones por daños personales, pérdidas pecuniarias 
-  y daños de bienes pagadas y/o provisionadas (pendientes de liquidación o pago) 
-  en relación al PIB a precios corrientes
+  Kalte pertsonalengatik, diruzko galerengatik eta ondasunetan izandako kalteengatiko 
+  kalte-ordainak, ordaindutakoak edota hornitutakoak (likidatzeke edo ordaintzeke daudenak) 
+  BPGarekiko proportzioan, uneko prezioetan.  
+   
 
+  
 formula: |
   $$INDEMPIB^{t} = \frac{(IDP^{t}+IPP^{t}+IDB^{t})/IUIPC_{refT}^{t}}{PIB^{t}} \cdot 100 \quad \mathrm t=1,\dots,\mathrm T$$
 
@@ -20,24 +22,24 @@ formula: |
 
   $$IUIPC_{refT}^{t-1} = IUIPC_{refT}^{t} \cdot \frac{(100+TIPC_{dic}^{t})}{100} \quad \mathrm t=\mathrm T,\mathrm T-1,\dots,\mathrm 2$$
 
-  donde:
+  non:
 
-  $IDP^{t}$ = indemnizaciones por daños personales pagadas y/o provisionadas en el año $t$ a precios del año $T$
+  $IDP^{t}$ = kalte pertsonalengatik ordaindutako edota hornitutako kalte-ordainak $T$ urteko prezioetan, $t$ urtean
 
-  $IPP^{t}$ = indemnizaciones por pérdidas pecuniarias pagadas y/o provisionadas en el año $t$ a precios del año $T$
+  $IPP^{t}$ = diru galerengatik ordaindutako edota hornitutako kalte-ordainak $T$ urteko prezioetan, $t$ urtean
 
-  $IDB^{t}$ = indemnizaciones por daños de bienes pagadas y/o provisionadas en el año $t$ a precios del año $T$
+  $IDB^{t}$ =  ondasunetan izandako kalteengatik ordaindutako edota hornitutako kalte-ordainak $T$ urteko prezioetan, $t$ urtean
 
-  $TIPC_{dic}^{t}$ = tasa de variación anual del IPC nacional en el mes de diciembre del año $t$ 
+  $TIPC_{dic}^{t}$ = KPI nazionalaren urteko aldakuntza-tasa $t$ urteko abenduan 
 
-  $PIB^{t}$ = producto interior bruto en términos corrientes en el año $t$
+  $PIB^{t}$ = barne-produktu gordina, uneko prezioetan $t$ urtean
 
-desagregacion: Territorio histórico
+desagregacion: Lurralde historikoa
 
 
 observaciones: >-
-  Las indemnizaciones se asignan al lugar y año de ocurrencia del siniestro, 
-  no incluyendo los siniestros ocurridos en el extranjero
+  Kalte-ordainak ezbeharra gertatu den lekurako eta urterako esleitzen dira; atzerrian gertatutako 
+  ezbeharrak ez dira sartzen. 
 
 periodicidad: FUENTE.FREQ_A
 
@@ -47,24 +49,22 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  El Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030 fue 
-  adoptado por los Estados miembros de las Naciones Unidas en marzo de 2015 
-  como una política global de reducción del riesgo de desastres.
+  Nazio Batuen estatu-kideek 2015eko martxoan ezarri zuten Hondamendien Arriskua Murrizteko 2015-2030 
+  aldiko Sendaiko Esparrua hondamendien arriskua murrizteko politika global gisa. 
 
-  Entre sus metas se encuentra la Meta C: Reducir las pérdidas económicas directas 
-  por desastres en relación con el producto interno bruto (PIB) mundial para 2030.
+  Xedeen artean dago C xedea: Hondamendien ondoriozko galera ekonomiko zuzenak murriztea, munduko 
+  barne-produktu gordinarekin (BPG) lotuta, 2030erako. 
 
-  La consecución de sus metas contribuirá al desarrollo sostenible y fortalecerá la 
-  resiliencia económica, social, sanitaria y ambiental.
+  Xedeak lortuz gero, garapen jasangarria sustatu eta erresilientzia indartuko da ekonomia, gizarte, 
+  osasun nahiz ingurumenean. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+  Iturria: Nazio Batuen Estatistika Sekzioa  
 
 
 comparabilidad: >-
-  El indicador disponible no cumple con los metadatos de Naciones Unidas, 
-  pero aporta información similar
+  EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa eskaintzen du.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-02.pdf">Metadatos 1-5-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-02.pdf">Metadatuak 1-5-2.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 

@@ -8,24 +8,24 @@ meta_global: meta_largo.11-7-titulo
 #  indicador_onu_global: indicador_largo.11-7-2-titulo
 
 definicion: >-
-  Número de personas que han sido víctimas de acoso contra la libertad de las personas, acoso inmobiliario, acoso laboral o funcionarial, o acoso sexual en los últimos 12 meses por cada 100.000 habitantes
+  Azken 12 hilabeteetan, askatasunaren aurkako jazarpenaren, higiezin-jazarpenaren, lan- edo funtzio-jazarpenaren edo sexu-jazarpenaren biktima izan diren pertsonak, 100.000 biztanleko 
 
 formula: |
 
   $$TVACOSO^{t} = \frac{VACOSO^{t}}{P^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $VACOSO^{t} =$ población que ha sido víctima de acoso no sexual o sexual en los últimos 12 meses, en el año $t$
+  $VACOSO^{t} =$ azken 12 hilabeteetan sexu-jazarpena edo jazarpen ez-sexuala pairatu duen biztanleria $t$ urtean
 
-  $P^{t} =$ población a 1 de julio del año $t$
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean
 
 desagregacion:
 
 observaciones: >-
 
-  Se contabiliza como acoso no sexual el acoso contra la libertad de las personas (art. 172 ter del código penal), 
-  el acoso inmobiliario (art. 172,1.3 del código penal) y el acoso laboral o funcionarial (art. 173.1 del código penal).
+  Sexu-jazarpena ez den jazarpentzat jotzen da askatasunaren aurkako jazarpena (zigor-kodearen 172 ter artikulua), higiezinei lotutako 
+  jazarpena (zigor-kodearen 172.1.3 artikulua) eta lan- edo funtzio-jazarpena (zigor-kodearen 173.1 artikulua). 
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
@@ -34,21 +34,22 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  La experiencia del acoso sexual y no sexual puede tener efectos negativos de gran alcance en las 
-  víctimas. 
+  Sexu-jazarpenak eta sexu-jazarpena ez denak ondorio negatibo nabarmenak izan ditzakete biktimengan. 
 
-  Además del daño emocional y psicológico sufrido, el acoso puede tener consecuencias negativas 
-  en la capacidad de las víctimas para participar plenamente en la vida pública y para participar y 
-  contribuir al desarrollo de sus comunidades. Por ejemplo, la incidencia generalizada del acoso sexual 
-  en el lugar de trabajo puede dar lugar a una menor participación de las mujeres en la fuerza laboral, 
-  especialmente en ocupaciones dominadas por los hombres, y reducir su capacidad de generar ingresos.
+  Jasandako kalte emozional eta psikologikoaz gain, jazarpenak ondorio negatiboak izan ditzake biktimek 
+  bizitza publikoan bete-betean parte hartzeko eta beren erkidegoen garapenean parte hartu eta laguntzeko 
+  duten gaitasunean. Adibidez, lantokiko sexu-jazarpenaren intzidentzia orokorrak emakumeek lan-indarrean 
+  gutxiago parte hartzea eragin dezake, batez ere gizonak nagusi diren lanbideetan, eta, horren ondorioz, 
+  diru-sarrerak sortzeko gaitasun gutxiago izatea. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 comparabilidad: >-
-  El indicador disponible no cumple con los metadatos de Naciones Unidas, pero aporta información complementaria.
+  EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-07-02.pdf">Metadatos 11-7-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-07-02.pdf">Metadatuak 11-7-2.pdf</a> (ingelesez bakarrik)'
 informacion_interes: 
 
 national_data_updated_date: ''

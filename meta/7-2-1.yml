@@ -8,19 +8,19 @@ meta_global: meta_largo.7-2-titulo
 #  indicador_onu_global: indicador_largo.7-2-1-titulo
 
 
-definicion: |
+definicion: >- 
 
-  Proporción de energías renovables en el consumo final bruto de energía
+  Energia berriztagarrien proportzioa energiaren azken kontsumo gordinean
 
 formula: |
 
   $$PER^{t} = \frac{ER^{t}}{CFE^{t}} \cdot 100$$ 
 
-  donde: 
+  non: 
 
-  $ER^{t} =$ consumo de energía procedente de fuentes renovables en el año $t$ 
+  $ER^{t} =$ iturri berriztagarrietatik sortutako energiaren kontsumoa $t$ urtean
 
-  $CFE^{t} =$ consumo final bruto de energía en el año $t$
+  $CFE^{t} =$ energiaren azken kontsumo gordina $t$ urtean 
 
 
 desagregacion: >- 
@@ -38,43 +38,39 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  El objetivo “De aquí a 2030, aumentar sustancialmente la proporción de 
-  energía renovable en la matriz energética mundial” afecta a las tres dimensiones 
-  del desarrollo sostenible. 
+  "Hemendik 2030era, munduko energia-matrizean energia berriztagarriaren proportzioa nabarmen handitzea" 
+  helburuak garapen jasangarriaren hiru dimentsioei eragiten die. 
 
-  Las tecnologías de energía renovable representan un elemento importante en 
-  las estrategias para hacer más ecológicas las economías en todo el mundo 
-  y para abordar el crítico problema mundial del cambio climático. 
+  Energia berriztagarrien teknologiak elementu garrantzitsuak dira mundu osoko ekonomiak ekologikoagoak 
+  egiteko eta klima-aldaketaren munduko arazo kritikoari aurre egiteko estrategietan. 
 
-  Existen varias definiciones de energía renovable; lo que tienen en común es destacar 
-  como renovables todas las formas de energía cuyo consumo no agote 
-  su disponibilidad en el futuro. Entre ellas se incluyen la solar, la eólica, 
-  la oceánica, la hidroeléctrica, las fuentes geotérmicas y la bioenergía 
-  (en el caso de la bioenergía, que puede agotarse, las fuentes de bioenergía 
-  pueden reemplazarse en un marco de corto a mediano plazo). 
+  Energia berriztagarriari buruzko hainbat definizio daude; komunean dutena zera da, berriztagarri gisa 
+  nabarmentzen dituztela kontsumituz gero etorkizunean agortuko ez diren energia-mota guztiak. Horien 
+  artean daude eguzki-energia, eolikoa, ozeanikoa, hidroelektrikoa, iturri geotermikoak eta bioenergia 
+  (bioenergiaren kasuan –zeina agortu egin baitaiteke–, bioenergia-iturriak epe laburretik ertainerako 
+  tartean ordezkatu daitezke). 
 
-  Es importante destacar que este indicador se centra en la cantidad de 
-  energía renovable 
-  realmente consumida en lugar de en la capacidad de producción de energía 
-  renovable, que no siempre puede utilizarse en su totalidad. Al centrarse 
-  en el consumo por parte del usuario final, evita las distorsiones causadas 
-  por el hecho de que las fuentes de energía convencionales están sujetas a 
-  pérdidas de energía significativas a lo largo de la cadena de producción.
+  Garrantzitsua da nabarmentzea adierazle hau benetan kontsumitutako energia berriztagarriaren kopuruan 
+  zentratzen dela, eta ez energia berriztagarria ekoizteko gaitasunean, zeina ezin baita beti osorik 
+  erabili. Azken erabiltzailearen kontsumoan zentratzen denez, saihestu egiten dira energia-iturri 
+  konbentzionalak eragiten dituen distortsioak ekoizpen-katean energia-galera nabarmenen pean egoteagatik. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: |
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=7.2.1&seriesCode=EG_FEC_RNEW&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Participación de las energías renovables en el consumo final total de energía (%) EG_FEC_RNEW</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EG_FEC_RNEW&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Energia berriztagarrien parte-hartzea energiaren azken kontsumo osoan (%) EG_FEC_RNEW</a> UNSTATS
 
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn erabilgarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu
 
 indicador_meta_enlace: 
-  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-02-01.pdf">Metadatos 7-2-1.pdf</a> (solo en inglés)'
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-02-01.pdf">Metadatuak 7-2-1.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

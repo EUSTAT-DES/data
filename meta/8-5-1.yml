@@ -9,36 +9,36 @@ meta_global: meta_largo.8-5-titulo
 
 
 definicion:  | 
-  Ganancia bruta por hora normal de trabajo del personal asalariado
+  Soldatapeko langileen irabazi gordina lanordu arrunt bakoitzeko
 
 formula:  |
-  <b>Ingreso medio por hora de las personas empleadas:</b>
+  <b>Enplegatuen batez besteko diru-sarrerak, lanorduko</b>
 
   $$GH^{t} = \frac{G^{t}}{H^{t}} $$
 
-  donde:
+  non:
 
-  $G^{t} =$ ganancia bruta del personal asalariado en el año $t$
+  $G^{t} =$ soldatapeko langileen irabazi gordina $t$ urtean
 
-  $H^{t} =$ horas normales de trabajo del personal asalariado en el año $t$
+  $H^{t} =$ soldatapeko langileen lanordu arruntak $t$ urtean
 
   <br>
 
-  <b>Brecha salarial de género:</b>
+  <b>Generoko soldata-arrakala</b>
 
-  $$BSG^{t} = \frac{GPH_{hombre}^{t} - GPH_{mujer}^{t}}{GPH_{hombre}^{t}} \cdot 100$$
+  $$BSG^{t} = \frac{GPH_{gizona}^{t} - GPH_{emakumea}^{t}}{GPH_{gizona}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $GPH_{hombre}^{t} =$ ganancia promedio por hora de los hombres en el año $t$
+  $GPH_{gizona}^{t} =$ gizonen orduko batez besteko irabazia $t$ urtean
 
-  $GPH_{mujer}^{t} =$ ganancia promedio por hora de las mujeres en el año $t$
+  $GPH_{emakumea}^{t} =$ emakumeen orduko batez besteko irabazia $t$ urtean
 
 desagregacion:  |
-  Sexo
+  Sexua
 
-  Personas sin discapacidad, y con discapacidad (personal asalariado con un 
-  grado de discapacidad superior o igual al 33%)
+  Desgaitasunik ez duten eta desgaitasuna duten pertsonak (soldatapeko langileak, % 33ko 
+  edo hortik gorako desgaitasun-maila dutenak)
 
 periodicidad: FUENTE.FREQ_A
 
@@ -51,20 +51,21 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  Los ingresos son un aspecto clave de la calidad del empleo y de las condiciones de 
-  vida. La información sobre los ingresos por hora desglosada por diversas clasificaciones 
-  (sexo, edad, ocupación, situación de discapacidad) proporciona cierta 
-  indicación de hasta qué punto se respeta o se logra la igualdad salarial.
+  Diru-sarrerak enpleguaren kalitatearen eta bizi-baldintzen funtsezko alderdia dira. Orduko diru-sarrerei 
+  buruzko informazioak, hainbat sailkapenen arabera banakatuta (sexua, adina, okupazioa, desgaitasun-egoera), 
+  soldata-berdintasuna zenbateraino errespetatzen edo lortzen den adierazten du. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
 
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-01.pdf">Metadatos 8-5-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-01.pdf">Metadatuak 8-5-1.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: >-
 

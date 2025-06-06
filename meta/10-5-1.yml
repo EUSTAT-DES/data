@@ -22,22 +22,23 @@ observaciones:
 
 justificacion_global: |
   
-  Se incluyen siete Indicadores de Solidez Financiera (ISF) como indicadores de los 
-  ODS para el punto 10.5.1, expresados ​​en porcentaje.
-   (1) Capital de Nivel 1 Regulatorio sobre activos
-   (2) Capital de Nivel 1 Regulatorio sobre activos ponderados por riesgo
-   (3) Préstamos morosos netos de provisiones sobre capital
-   (4) Préstamos morosos sobre préstamos brutos totales
-   (5) Rentabilidad de los activos
-   (6) Activos líquidos sobre pasivos a corto plazo
-   (7) Posición neta abierta en divisas sobre capital
+  10.5.1 punturako Finantza Sendotasun Adierazleak (SFA) –zehazki, zazpi– eta GJHen adierazleak sartzen dira, 
+  ehunekotan adieraziak.
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+   (1) 1. mailako kapitala, aktiboak arautzen dituena
+   (2) 1. mailako kapitala, arriskuen arabera haztatutako aktiboak arautzen dituena 
+   (3) Kapitalaren gaineko horniduren mailegu berankor garbiak
+   (4) Mailegu gordin guztien gaineko mailegu berankorrak
+   (5) Aktiboen errentagarritasuna 
+   (6) Epe laburreko pasiboen gaineko aktibo likidoak
+   (7) Kapitalaren gaineko posizio garbi irekia dibisatan
+
+  Iturria: Nazio Batuen Estatistika Sekzioa
 
 dato_global: 
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-05-01.pdf">Metadatos 10-5-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-05-01.pdf">Metadatuak 10-5-1.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

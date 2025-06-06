@@ -10,46 +10,45 @@ meta_global: meta_largo.6-3-titulo
 
 definicion: |
 
-  El indicador se define como la proporción de cuerpos de agua en un territorio que 
-  tienen una buena calidad ambiental del agua. La calidad ambiental del agua 
-  se refiere al agua natural, no tratada, en ríos, lagos y aguas subterráneas 
-  y representa una combinación de influencias naturales junto con los impactos 
-  de todas las actividades antropogénicas.
+  Adierazlea honela definitzen da: uraren ingurumen-kalitate ona duen lurralde bateko ur-gorputzen 
+  proportzioa. Uraren ingurumen-kalitatea ibaietan, aintziretan eta lurpeko uretan tratatu gabeko ur 
+  naturalari dagokio, eta eragin naturalen eta jarduera antropogeniko guztien inpaktuen arteko 
+  konbinazioa adierazten du.
 
-  Se presentan 3 series diferentes para distintas masas de agua: 
+  Ondoko ur-masetarako 3 serie desberdin aurkezten dira: 
 
-    - ríos
-    - aguas subterráneas
-    - aguas superficiales (incluye aguas costeras, aguas de transición, embalses, lagos y humedales y ríos)
+    - ibaiak
+    - lurpeko urak
+    - azaleko urak (kostaldeko urak, trantsizioko urak, urtegiak, lakuak eta hezeguneak eta ibaiak barne)
 
 
 formula: |
 
-  $$PMABC^{t} = \frac{MBC_{agua}^{t}}{M_{agua}^{t}} \cdot 100$$
+  $$PMABC^{t} = \frac{MBC_{ura}^{t}}{M_{ura}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $MBC_{agua}^{t} =$ masas de agua de buena calidad en el año $t$
+  $MBC_{ura}^{t} =$ kalitate oneko ur-masak $t$ urtean
 
-  $M_{agua}^{t} =$ masas de agua evaluadas en el año $t$
+  $M_{ura}^{t} =$ ebaluatutako ur-masak $t$ urtean
 
 desagregacion:
 
 observaciones: |
   
-  La evaluación de las aguas superficiales (estado ecológico) se realiza según la Directiva 2000/60/CE del Parlamento Europeo y del Consejo.
+  Gainazaleko uren ebaluazioa (egoera ekologikoa) Europako Parlamentuaren eta Kontseiluaren 2000/60/EE 
+  Zuzentarauaren arabera egiten da.
 
-  La evaluación de aguas subterráneas se realiza según la Guía para la evaluación del estado de las aguas superficiales y subterráneas, 
-  aprobada por Instrucción del 14 de octubre de 2020 del secretario de Estado de Medio Ambiente (SEMA)
+  Lurpeko uren ebaluazioa Lurrazaleko eta lurpeko uren egoera ebaluatzeko gidaren arabera egiten da. Gida 
+  hori Ingurumeneko Estatu Idazkariaren (SEMA) 2020ko urriaren 14ko Instrukzioaren bidez onartu zen.
 
-  El censo de masas de agua se corresponde con las masas que cuentan con presencia relevante dentro de la 
-  Comunidad Autónoma del País Vasco de acuerdo con el Real Decreto 35/2023, de 24 de enero, por el que se 
-  aprueba la revisión de los planes hidrológicos de las demarcaciones hidrográficas del Cantábrico Occidental, 
-  Guadalquivir, Ceuta, Melilla, Segura y Júcar, y de la parte española de las demarcaciones hidrográficas del Cantábrico 
-  Oriental, Miño-Sil, Duero, Tajo, Guadiana y Ebro.
+  Ur-masen zentsua bat dator urtarrilaren 24ko 35/2023 Errege Dekretuaren arabera Euskal Autonomia Erkidegoan 
+  presentzia nabarmena duten masekin. Errege Dekretu horrek onartzen du Kantauri Mendebaldeko, Guadalquivirreko, Ceutako, Melillako, Segurako eta 
+  Jucarreko demarkazio hidrografikoen eta Kantauri Ekialdeko, Miño-Sileko, Dueroko, Tajoko, Guadianako eta 
+  Ebroko demarkazio hidrografikoen Espainiako zatiaren plan hidrologikoen berrikuspena.
 
-  Para el periodo indicado, las evaluaciones se corresponden con revisiones de estado mediante criterios 
-  homogéneos atendiendo al Real Decreto 35/2023 y a los avances técnicos habidos.
+  Adierazitako aldirako, ebaluazioak irizpide homogeneoen bidezko egoera-berrikuspenei dagozkie, 35/2023 Errege 
+  Dekretuari eta izandako aurrerapen teknikoei jarraiki.
 
 periodicidad: FUENTE.FREQ_A
 
@@ -59,48 +58,39 @@ periodicidad: FUENTE.FREQ_A
 
 justificacion_global: | 
 
-  La buena calidad del agua ambiental es esencial para proteger los 
-  ecosistemas acuáticos y los servicios que prestan, entre ellos: 
-  la preservación de la biodiversidad; la protección de la salud humana 
-  durante el uso recreativo y mediante el suministro de agua potable; 
-  el apoyo a la nutrición humana mediante el suministro de peces y agua 
-  para riego; la facilitación de una variedad de actividades económicas; 
-  y el fortalecimiento de la resiliencia de las personas frente a los 
-  desastres relacionados con el agua. Por lo tanto, la buena calidad del agua 
-  ambiental está estrechamente vinculada al logro de muchos otros 
-  Objetivos de Desarrollo Sostenible.
+  Ingurumen-uraren kalitate ona funtsezkoa da uretako ekosistemak eta horiek ematen dituzten zerbitzuak babesteko, 
+  besteak beste: biodibertsitatea babestea; giza osasuna babestea aisialdian eta edateko uraren hornikuntzaren bidez; 
+  giza nutrizioari laguntzea arrainak eta ureztatzeko ura hornituz; askotariko jarduera ekonomikoak erraztea; eta 
+  pertsonen erresilientzia indartzea urarekin lotutako hondamendien aurrean. Beraz, ingurumen-uraren kalitate onak 
+  lotura estua du garapen jasangarriko beste helburu asko lortzearekin. 
 
-  La meta 6.3 tiene por objeto mejorar la calidad del agua y el 
-  indicador 6.3.2 proporciona un mecanismo para determinar si las medidas de 
-  gestión de la calidad del agua están contribuyendo a la mejora de la calidad 
-  del agua a lo largo del tiempo y en qué medida. El indicador también 
-  está directamente vinculado con el indicador 6.3.1 sobre el tratamiento 
-  de aguas residuales porque el tratamiento inadecuado de las aguas 
-  residuales conduce a la degradación de la calidad de las aguas que 
-  reciben los efluentes de aguas residuales. 
+  6.3 xedearen helburua uraren kalitatea hobetzea da, eta 6.3.2 adierazleak mekanismo bat eskaintzen du uraren 
+  kalitatea kudeatzeko neurriek uraren kalitatea denboran zehar zein neurritan hobetzen laguntzen duten zehazteko. 
+  Adierazlea zuzenean lotuta dago hondakin-uren tratamenduari buruzko 6.3.1 adierazlearekin, hondakin-uren tratamendu 
+  desegokiak hondakin-uren efluenteek jasotzen dituzten uren kalitatea degradatzera eramaten duelako. 
 
-  Informa directamente sobre el progreso hacia la meta 6.3 y 
-  está fuertemente vinculada a la meta 6.6 sobre ecosistemas relacionados 
-  con el agua, así como a la meta 14.1 sobre contaminación 
-  marina (eutrofización costera).
+  6.3 xederantz egindako aurrerapenaren berri ematen du zuzenean, eta lotura handia du 6.6 xedearekin (urarekin 
+  lotutako ekosistemak) eta 14.1 xedearekin (itsasoko kutsadura) (kostaldeko eutrofizazioa). 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: |
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_OPAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proporción de cuerpos de agua abiertos con buena calidad de agua ambiental (%) EN_H2O_OPAMBQ</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_OPAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Ingurumen-uraren kalitate ona duten aire-zabaleko ur-gorputzen proportzioa (%) EN_H2O_OPAMBQ</a> UNSTATS
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_RVAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proporción de cuerpos de agua fluviales con buena calidad ambiental del agua (%) EN_H2O_RVAMBQ</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_RVAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Uraren ingurumen-kalitate ona duten ibai-uren gorputzen proportzioa (%) EN_H2O_RVAMBQ</a> UNSTATS
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_GRAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proporción de masas de agua subterránea con buena calidad de agua ambiental (%) EN_H2O_GRAMBQ</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_GRAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Ingurumen-uraren kalitate ona duten lurpeko ur-masen proportzioa (%) EN_H2O_GRAMBQ</a> UNSTATS
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_WBAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proporción de masas de agua con buena calidad ambiental del agua (%) EN_H2O_WBAMBQ</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_WBAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Uraren ingurumen-kalitate ona duten ur-masen proportzioa (%) EN_H2O_WBAMBQ</a> UNSTATS
 
 comparabilidad: >- 
-  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta información similar.
+  EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa ematen du.
 
 indicador_meta_enlace: 
-  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-02.pdf">Metadatos 6-3-2.pdf</a> (solo en inglés)'
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-02.pdf">Metadatuak 6-3-2.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 
