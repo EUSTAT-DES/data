@@ -8,62 +8,60 @@ meta_global: meta_largo.11-6-titulo
 #  indicador_onu_global: indicador_largo.11-6-1-titulo
 
 definicion: >-
-  Residuos urbanos recogidos per cápita y proporción de residuos urbanos tratados (incinerados, 
-  vertidos y reciclados) en relación al total de residuos urbanos generados. Se 
-  consideran residuos urbanos los procedentes de los hogares y del sector servicios 
-  (comercios, oficinas e instituciones públicas o privadas), cuya gestión es asumida por 
-  las entidades locales
+  Pertsonako jasotako hiri-hondakinak eta tratatutako (erre, isuri eta birziklatutakoak) hiri-hondakinen 
+  proportzioa, sortutako hiri-hondakin guztien aldean. Etxeetan eta zerbitzuen sektorean (dendak, 
+  bulegoak eta erakunde publiko edo pribatuak) sortutakoak jotzen dira hiri-hondakintzat, betiere haien 
+  kudeaketa toki-erakundeen ardura bada 
 
 formula: |
 
-  <b> Residuos urbanos recogidos per cápita</b> 
+  <b> Biztanle bakoitzeko bildutako hiri-hondakinak</b> 
 
   $$RURP^{t} = \frac{RUR^{t}}{P^{t}} $$
 
-  donde:
+  non:
 
-  $RUR^{t} =$ cantidad de residuos urbanos recogidos en el año $t$ 
+  $RUR^{t} =$ bildutako hiri-hondakinen kantitatea $t$ urtean 
 
-  $P^{t} =$ población a 1 de julio del año $t$
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean
 
   <br>
 
-  <b> Proporción de residuos urbanos recogidos y gestionados en instalaciones controladas</b>
+  <b> Instalazio kontrolatuetan bildu eta kudeatutako hiri-hondakinen proportzioa</b>
 
   $$PRUR^{t} = \frac{RUG^{t}}{RUR^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $RUG^{t} =$ cantidad de residuos urbanos generados en el año $t$ 
+  $RUG^{t} =$ sortutako hiri-hondakinen kantitatea $t$ urtean  
 
-  $RUR^{t} =$ cantidad de residuos urbanos recogidos y gestionados en instalaciones controladas en el año $t$ 
+  $RUR^{t} =$ instalazio kontrolatuetan bildu eta kudeatutako hiri-hondakinen kantitatea $t$ urtean 
 
 
   <br>
 
-  <b> Proporción de residuos urbanos tratados, por operación de tratamiento</b> 
+  <b> Tratatutako hiri-hondakinen proportzioa, tratamendu-eragiketaren arabera</b> 
 
-  $$PRU_{tratamiento}^{t} = \frac{RU_{tratamiento}^{t}}{RU^{t}} \cdot 100$$ <br> 
+  $$PRU_{tratamendua}^{t} = \frac{RU_{tratamendua}^{t}}{RU^{t}} \cdot 100$$ <br> 
 
-  donde:  
+  non:  
 
-  $RU_{tratamiento}^{t} =$ cantidad de residuos urbanos tratados (según tipo de tratamiento) en el año $t$
+  $RU_{tratamendua}^{t} =$ Tratatutako hiri-hondakinen kantitatea (tratamendu-eragiketaren arabera) $t$ urtean
 
-  $RUR^{t} =$ cantidad total de residuos urbanos recogidos y gestionados en instalaciones controladas en el año $t$
+  $RUR^{t} =$ instalazio kontrolatuetan bildu eta kudeatutako hiri-hondakinen kantitatea $t$ urtean
 
 desagregacion: |
-  Operación de tratamiento de residuos: reciclaje, incineración con recuperación de energía,
-  depósito en vertedero
+  Hondakinak tratatzeko eragiketa: birziklatzea; erraustea eta energia berreskuratzea; zabortegian uztea 
 
-  Territorio histórico
+  Lurralde historikoa
 
 
 observaciones: >-
 
-  Se entiende por residuos urbanos los residuos domésticos y comerciales, procedentes 
-  de hogares y del sector servicios (comercio, oficinas e instituciones) gestionados por 
-  las entidades locales, no incluyéndose los residuos comerciales gestionados por canales 
-  privados distintos al municipal, ni residuos procedentes de la industria.
+  Hiri-hondakintzat jotzen dira, era berean, etxeko eta merkataritzako hondakinak, etxeetatik eta 
+  zerbitzuen sektoretik eratorriak (dendak, bulegoak eta erakundeak), baina ez dira sartzen udalaz 
+  aparteko bide pribatuetatik kudeatutako merkataritza-hondakinak ez industriatik eratorritako 
+  hondakinak. 
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
@@ -72,30 +70,31 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  Los hogares y empresas urbanas generan cantidades sustanciales de residuos que deben recolectarse regularmente, 
-  reciclarse o tratarse y eliminarse adecuadamente para mantener condiciones de vida saludables 
-  e higiénicas. 
+  Hiri-enpresek eta etxeek hondakin ugari sortzen dute, sarri-sarri jaso, birziklatu edo tratatu eta 
+  ezabatu behar direnak, bizi-baldintzak osasuntsu eta higieniko mantentzekotan. 
 
-  Muchas ciudades enfrentan cada vez más desafíos en la gestión de residuos
-  debido a la rápida urbanización, la falta de capacidad técnica y financiera o la baja prioridad 
-  política. Además, cuanto mayor es el nivel de ingresos de una ciudad, mayor es la cantidad de 
-  residuos sólidos que se producen. 
+  Hiri askok geroz eta erronka gehiago gainditu behar dituzte hondakinen kudeaketan, urbanizazio 
+  azkarraren, gaitasun tekniko eta finantzario faltaren eta lehentasun politiko baxuaren ondorioz. 
+  Gainera, zenbat eta altuagoa hiri baten diru-sarreren maila, orduan eta hondakin solido gehiago. 
 
-  Por lo tanto, el crecimiento económico que experimentarán los países en desarrollo y emergentes 
-  planteará mayores desafíos a los gobiernos locales en la gestión de residuos en las próximas décadas.
+  Hori dela eta, garapen-bidean dauden eta aurrerabidean dauden herrialdeek jasango duten hazkunde 
+  ekonomikoak hurrengo hamarkadetan erronka handiagoak planteatuko dizkiete tokiko gobernuei hondakinak 
+  kudeatzeko orduan. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa
+
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos de Naciones Unidas
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=11.6.1&seriesCode=EN_REF_WASCOL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=NOCITI"> Cobertura de recolección de residuos sólidos municipales, por ciudades (%) EN_REF_WASCOL</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=11.6.1&seriesCode=EN_REF_WASCOL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=NOCITI"> Udal-hondakin solidoen bilketaren estaldura, hirika (%) EN_REF_WASCOL</a> UNSTATS
 
 
 indicador_meta_enlace: 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-06-01.pdf">Metadatos 11-6-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-06-01.pdf">Metadatuak 11-6-1.pdf</a> (ingelesez bakarrik)
 
 informacion_interes: 
 

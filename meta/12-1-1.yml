@@ -9,14 +9,14 @@ meta_global: meta_largo.12-1-titulo
 
 
 definicion: >- 
-  Valor lógico que indica si se elabora, adopta o aplica políticas destinadas a apoyar 
-  la transición hacia modalidades de consumo y producción sostenibles
+  Kontsumo- eta ekoizpen-modalitate jasangarriak lortzera bideratutako politikarik sortzen, 
+  ezartzen eta aplikatzen ote den adierazten duen balio logikoa 
 
 formula: |
 
   $$PCPS^{t} =\begin{cases}
-  1 & \text{si se elabora, adopta o aplica políticas destinadas al consumo y producción sostenibles en el año } t \\
-  0 & \text{si no se elabora, adopta ni aplica políticas destinadas al consumo y producción sostenibles en el año } t
+  1 & \text{kontsumo eta ekoizpen jasangarrirako politikak egin, hartu edo aplikatzen badira $t$ urtean } \\
+  0 & \text{ez bada kontsumo eta ekoizpen jasangarrirako politikarik egin, ez hartu eta ez aplikatzen $t$ urtean } 
   \end{cases}$$
 
 desagregacion: 
@@ -34,48 +34,46 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  La incorporación del consumo y la producción sostenibles en la adopción de decisiones 
-  a todos los niveles es una función fundamental del Marco Decenal, que se espera que 
-  “apoye la integración del consumo y la producción sostenibles en las políticas, 
-  programas y estrategias de desarrollo sostenible, según corresponda, incluidas, cuando 
-  proceda, las estrategias de reducción de la pobreza” (Documento Final de Río+20 – A/CONF.216/5).
+  Maila guzti-guztietan, erabakiak hartzeko orduan kontsumo eta ekoizpen jasangarria sartzea da Hamar 
+  Urterako Esparruaren eginkizun nagusietako bat. Hala, espero da “kontsumo eta ekoizpen jasangarriak 
+  garapen jasangarriko politika, programa eta estrategietan sartzeko babesa eman dezala, kasuan kasu, 
+  bidezkoa denean pobrezia murrizteko estrategiak barne” (azken agiria: Rio+20 – A/CONF.216/5). 
 
-  El objetivo de este indicador es ayudar a evaluar el volumen y la distribución geográfica 
-  de los avances de los gobiernos en materia de consumo y producción sostenibles. Además, 
-  se está recopilando más información sobre los tipos, el enfoque y la orientación de 
-  los instrumentos de política que se están elaborando y utilizando, para supervisar su 
-  progreso a lo largo del tiempo, así como su contribución a otros Objetivos de 
-  Desarrollo Sostenible. 
+  Adierazle honen helburua da gobernuek kontsumo eta ekoizpen jasangarriaren arloan egindako aurrerapenen 
+  bolumena eta banaketa geografikoa ebaluatzen laguntzea. Gainera, informazio gehiago batzen ari da egiten 
+  eta erabiltzen ari diren politika-tresna motei, ikuspegiari eta orientazioari buruz, denboran zehar 
+  duten bilakaera ikuskatu eta garapen jasangarriko beste helburu batzuei egiten dieten ekarpena aztertze 
+  aldera. 
 
-  Esto debería respaldar la evaluación de cuánto y con qué rapidez avanzan los gobiernos 
-  en el desarrollo y la aplicación de políticas que abordan el consumo y la producción 
-  sostenibles, ya sea a nivel transversal o sectorial. El indicador también tiene en 
-  cuenta los instrumentos de política vinculantes (leyes y reglamentos) y no 
-  vinculantes. 
+  Horrek indarra eman behar lioke gobernuek kontsumo eta ekoizpen jasangarria lantzeko politikak garatu 
+  eta aplikatzeko orduan zenbat eta zein azkar aurreratzen duten jakiteko egiten duten ebaluazio-lanari, 
+  zeharka nahiz sektoreka. Halaber, adierazle honek lotesleak diren (legeak eta araudiak) eta lotesleak 
+  ez diren politika-tresnak hartzen ditu kontuan. 
 
-  La primera categoría es esencial para el cambio, ya que los instrumentos 
-  vinculantes proporcionan la base legal para el consumo y la producción sostenibles, y 
-  pueden utilizarse para hacer cumplir la ley o para proporcionar incentivos. La capacidad 
-  de elaborar, aprobar e implementar leyes es un indicador del compromiso de 
-  las jurisdicciones en el cambio hacia el consumo y la producción sostenibles. Este 
-  indicador también puede ayudar a monitorear la evolución del panorama legislativo global. 
+  Lehen kategoria funtsezkoa da aldaketarako. Izan ere, tresna lotesleek legezko oinarria ematen dute 
+  kontsumo eta ekoizpen jasangarrirako, eta erabilgarriak izan daitezke legea betearazteko edo pizgarriak 
+  emateko. Legeak egin, onartu eta ezartzeko gaitasuna adierazle zorrotza da jakiteko jurisdikzioek kontsumo 
+  eta ekoizpen jasangarrirako aldaketaren alde zenbateko konpromisoa duten.  Adierazle hau lagungarria izan 
+  daiteke, era berean, lege-panorama orokorraren bilakaera aztertzeko. 
 
-  La segunda categoría también es esencial para garantizar la participación, el compromiso y 
-  la apropiación institucional. En algunos casos, los instrumentos de política no vinculantes 
-  pueden conducir a la creación de nuevos instrumentos legales. El desarrollo y la implementación 
-  de instrumentos no vinculantes en todos los sectores también proporciona información sobre 
-  el compromiso de los socios y otras partes interesadas en el consumo y la producción sostenibles.
+  Bigarren kategoria ere funtsezkoa da partaidetza, konpromiso eta apropiazio instituzionala ziurtatzeko. 
+  Kasu batzuetan, lotesleak ez diren politika-tresnak lagungarriak izan daitezke lege-tresna berriak 
+  sortzeko. Sektore guztietan lotesleak ez diren tresnak garatu eta ezartzeak informazioa ematen du, gainera, 
+  bazkideek eta interesa duten beste alderdi batzuek kontsumo eta ekoizpen jasangarriaren gainean duten 
+  konpromisoari buruz. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.1.1&seriesCode=SG_SCP_CNTRY&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Países con planes de acción nacionales de consumo y producción sostenibles (CPS) o con CPS incorporado como prioridad u objetivo en las políticas nacionales (1 = SÍ; 0 = NO) SG_SCP_CNTRY</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.1.1&seriesCode=SG_SCP_CNTRY&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Kontsumo eta ekoizpen jasangarriko ekintza-plan nazionalak dituzten herrialdeak edo kontsumo eta ekoizpen jasangarria politika nazionaletan lehentasun edo helburu gisa txertatuta dituztenak (1 = BAI; 0 = EZ) SG_SCP_CNTRY</a> UNSTATS
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-01-01.pdf">Metadatos 12-1-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-01-01.pdf">Metadatuak 12-1-1.pdf</a> (ingelesez bakarrik)
 
 
 national_data_updated_date: ''

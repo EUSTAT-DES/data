@@ -9,30 +9,31 @@ meta_global: meta_largo.9-4-titulo
 
 
 definicion: >- 
-  Emisiones de dióxido de carbono (CO2) por unidad de PIB real
+  Isuritako karbono dioxidoa (CO2), barne-produktu gordin errealeko unitate bakoitzeko
 
 formula:  |
-  <b>Emisiones de CO2 por unidad de valor añadido</b>
+  <b>CO2 isurketak balio erantsiko unitate bakoitzeko</b>
 
   $$PPIBECO2^{t} = \frac{ECO2^{t}}{PIB_{2022}^{t}} $$
 
-  donde:
+  non:
 
-  $ECO2^{t} =$ emisiones de CO2 en el año $t$
+  $ECO2^{t} =$ isuritako CO2a $t$ urtean
 
-  $PIB_{2022}^{t} =$ producto interior bruto en volumen encadenado con referencia 2022 en el año $t$
+  $PIB_{2022}^{t} =$ barne-produktu gordina, 2022 erreferentziarekin kateatutako bolumenean $t$ urtean
 
    <br>
    
-   <b>Emisiones de CO2 por unidad de valor añadido del sector manufacturero</b>
+   <b>CO2 isurketak manufaktura-sektoreko balio erantsiaren unitateko</b>
 
-  $$PVABECO2_{manufacturero}^{t} = \frac{ECO2_{manufacturero}^{t}}{VAB_{manufacturero\, 2022}^{t}} $$
+  $$PVABECO2_{manufaktura}^{t} = \frac{ECO2_{manufaktura}^{t}}{VAB_{manufaktura\, 2022}^{t}} $$
 
-  donde:
+  non:
 
-  $ECO2_{manufacturero}^{t} =$ emisiones de CO2 del sector manufacturero en el año $t$
+  $ECO2_{manufaktura}^{t} =$ manufaktura-sektorearen CO2 isuriak $t$ urtean
 
-  $VAB_{manufacturero\, 2022}^{t} =$ valor añadido bruto del sector manufacturero en volumen encadenado con referencia 2022 en el año $t$
+  $VAB_{manufaktura\, 2022}^{t} =$ manufaktura sektorearen barne-produktu gordina, 
+  2022 erreferentziarekin kateatutako bolumenean $t$ urtean
 
 
 desagregacion:
@@ -48,46 +49,43 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  El indicador de emisiones de CO2 por unidad de valor añadido representa la 
-  cantidad de emisiones procedentes de la combustión de combustibles producidas 
-  por una actividad económica, por unidad de producción económica. 
+  Balio erantsiko unitateen araberako CO2 emisioen adierazleak adierazten du jarduera ekonomiko batek 
+  sortutako erregaien errekuntzatik sortutako emisioen kopurua, ekoizpen ekonomikoko unitateko. 
 
-  Cuando se calcula para el conjunto de la economía, combina los efectos de la 
-  intensidad media de carbono de la combinación energética (vinculada a las 
-  proporciones de los diversos combustibles fósiles en el total); de la estructura 
-  de una economía (vinculada al peso relativo de los sectores más o menos intensivos 
-  en energía); de la eficiencia media en el uso de la energía. 
+  Ekonomia osorako kalkulatzen denean, honako hauen efektuak uztartzen ditu: konbinazio energetikoko 
+  batez besteko karbono-intentsitatea (erregai fosil desberdinen proportzioei lotuta); ekonomia baten 
+  egitura (energian intentsiboak –gehiago edo gutxiago– diren sektoreetako pisu erlatiboari lotuta); 
+  batez besteko eraginkortasuna energiaren erabileran. 
 
-  Cuando se calcula para el sector manufacturero (emisiones de CO2 procedentes de 
-  la combustión de combustibles por unidad de valor añadido de la industria 
-  manufacturera), mide la intensidad de carbono de la producción económica 
-  manufacturera, y sus tendencias son resultado de los cambios en la 
-  intensidad media de carbono de la combinación energética utilizada, 
-  la estructura del sector manufacturero, la eficiencia energética de las tecnologías 
-  de producción en cada subsector y el valor económico de los diversos productos. 
+  Manufaktura-sektorerako kalkulatzen denean (erregaien errekuntzatik eratorritako CO2 emisioak, 
+  manufaktura-industriako balio erantsiko unitatearen arabera), manufaktura-ekoizpen ekonomikoaren 
+  karbono-intentsitatea neurtzen da, eta haren joerak honako hauetan egondako aldaketen emaitza dira: 
+  erabilitako konbinazio energetikoaren karbonoaren batez besteko intentsitatea, manufaktura-sektorearen 
+  egitura, ekoizpen-teknologien eraginkortasun energetikoa azpisektore bakoitzean, eta produktu 
+  desberdinen balio ekonomikoa. 
 
-  En general, las industrias manufactureras están mejorando la intensidad de sus 
-  emisiones a medida que los países avanzan hacia niveles más altos de industrialización, 
-  pero cabe señalar que las intensidades de las emisiones también pueden 
-  reducirse mediante cambios estructurales y la diversificación de productos en 
-  la industria manufacturera.
+  Orokorrean, manufaktura-industriak beren emisioen intentsitatea hobetzen ari dira, herrialdeek 
+  industrializazio-maila altuagoetara jotzen duten neurrian, baina aipatzekoa da emisioen intentsitateak 
+  murriztu ere egin daitezkeela manufaktura-industriako egiturazko aldaketen eta produktuak dibertsifikatzearen 
+  ondorioz. 
 
-  Las emisiones de CO2 representan alrededor del 80% de todas las emisiones de GEI de 
-  los procesos de fabricación.
+  CO2 emisioak fabrikazio-prozesuetako berotegi-efektuko gasen emisio guztien % 80 inguru dira. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: | 
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.4.1&seriesCode=EN_ATM_CO2GDP&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Emisiones de dióxido de carbono por unidad de PIB en Paridad de Poder Adquisitivo (kilogramos de CO2 por dólar estadounidense constante de 2021) EN_ATM_CO2GDP</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.4.1&seriesCode=EN_ATM_CO2GDP&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Karbono dioxidoaren isuriak, Eros Ahalmenaren Parekotasunean, BPGaren unitateko (CO2 kilogramoak 2021eko AEBetako dolar konstante bakoitzeko) EN_ATM_CO2GDP</a> UNSTATS
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.4.1&seriesCode=EN_ATM_CO2MVA&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ISIC4_C"> Emisiones de dióxido de carbono de las industrias manufactureras por unidad de valor añadido manufacturero (kilogramos de CO2 por dólar estadounidense constante de 2015) EN_ATM_CO2MVA</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.4.1&seriesCode=EN_ATM_CO2MVA&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ISIC4_C"> Manufaktura-industrien karbono dioxidoaren isurketak manufakturaren balio erantsiko unitate bakoitzeko (CO2 kilogramoak 2015eko AEBetako dolar konstante bakoitzeko) EN_ATM_CO2MVA</a> UNSTATS
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEko adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-04-01.pdf">Metadatos 9-4-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-04-01.pdf">Metadatuak 9-4-1.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

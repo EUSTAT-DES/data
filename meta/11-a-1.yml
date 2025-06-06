@@ -8,37 +8,38 @@ meta_global: meta_largo.11-a-titulo
 #  indicador_onu_global: indicador_largo.11-a-1-titulo
 
 definicion: |
-  Este indicador se compone de dos series temporales:
+  Adierazle honek bi denbora-serie ditu: 
 
-  - Proporción de la población residente en municipios que cuentan con un plan de ordenación territorial
-  - Proporción de la población residente en municipios que disponen de plan general o normas subsidiarias de planeamiento urbanístico
+  - Lurralde-antolamenduko plan bat duten udalerrietan bizi diren biztanleen proportzioa
+  - Hiri-plangintzako arau subsidiarioak edo plan orokorrak dituzten udalerrietan bizi diren biztanleen proportzioa
+
 
 formula: |
 
-  <b>Proporción de la población residente en municipios que cuentan con un plan de ordenación territorial</b>
+  <b>Lurralde-antolamenduko plana duten udalerrietako biztanleen proportzioa</b>
   
   $$PPTP^{t} = \frac{PTP^{t}}{P^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PTP^{t} =$ población residente en municipios que cuentan con Plan Territorial Parcial el 1 de enero del año $t$
+  $PTP^{t} =$ Lurralde Plan Partziala duten udalerrietako biztanleak $t$ urteko urtarrilaren 1ean 
 
-  $P^{t} =$ población a 1 de enero del año $t$
+  $P^{t} =$ guztizko biztanleria $t$ urteko urtarrilaren 1ean
 
 
   <br>
 
-  <b>Proporción de la población residente en municipios que disponen de plan general o normas subsidiarias de planeamiento urbanístico</b>
+  <b>Hirigintza-plangintzako plan orokorra edo arau subsidiarioak dituzten udalerrietako biztanleen proportzioa</b>
 
   $$PPPGNS^{t} = \frac{PPG^{t}+PNS^{t}}{P^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PPG^{t} =$ población residente en municipios que disponen de plan general el 1 de enero del año $t$
+  $PPG^{t} =$ plan orokorra duten udalerrietako biztanleak $t$ urteko urtarrilaren 1ean 
 
-  $PNS^{t} =$ población residente en municipios que disponen de normas subsidiarias el 1 de enero del año $t$
+  $PNS^{t} =$ arau subsidiarioak dituzten udalerrietan bizi diren biztanleak $t$ urteko urtarrilaren 1ean
 
-  $P^{t} =$ población a 1 de enero del año $t$
+  $P^{t} =$ guztizko biztanleria $t$ urteko urtarrilaren 1ean
 
 desagregacion:
 
@@ -51,39 +52,35 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  Este indicador se basa en la noción de que el desarrollo y la implementación de 
-  las Políticas Urbanas Nacionales deben apoyar la participación, la asociación, la 
-  cooperación y la coordinación de los actores, así como facilitar el diálogo. Las Políticas 
-  Urbanas Nacionales (PNU) y los Planes de Desarrollo Regional (PDR) promueven un 
-  desarrollo urbano coordinado y conectado. Un esfuerzo coordinado del 
-  gobierno a través de una PNU o un PDR brinda la mejor oportunidad para 
-  lograr una urbanización sostenible y un desarrollo territorial equilibrado al 
-  vincular las políticas sectoriales, conectar las políticas gubernamentales 
-  nacionales, regionales y locales, y fortalecer los vínculos urbanos, 
-  periurbanos y rurales a través de un desarrollo territorial equilibrado.
+  Adierazle honen abiapuntua da hiri-politika nazionalen garapenak eta ezarpenak babestu egin behar dutela 
+  eragileen partaidetza, elkartegintza, elkarlana eta koordinazioa, bai eta elkarrizketa sustatu ere. Hiri 
+  Politika Nazionalek (HPN) eta Eskualde Garapeneko Planek (EGP) hiri-garapen koordinatu eta konektatua 
+  sustatzen dute. Gobernuak ahaleginak koordinatuz gero; HPN edo EGP bidez, esaterako, abagune ezin hobea 
+  izango genuke urbanizazio jasangarria eta lurralde-garapen orekatua lortzeko, zergatik eta politika sektorialak 
+  lotu, nazio, eskualde eta tokiko politikak konektatu, eta hiriko, hiri-inguruko eta landako loturak indartzen 
+  direlako hala, lurralde-garapen orekatuaren bidez. 
 
-  Este indicador proporciona un buen barómetro sobre el progreso global en materia 
-  de políticas urbanas nacionales sostenibles. Sirve como análisis de brechas 
-  para respaldar las recomendaciones de políticas. El indicador puede identificar 
-  buenas prácticas y políticas entre los países que pueden promover la asociación 
-  y la cooperación entre todas las partes interesadas. Este indicador está orientado 
-  a los procesos y es aspiracional y tiene el potencial de respaldar la validación 
-  del Objetivo 11 y otros indicadores de los ODS con un componente urbano. El indicador 
-  tiene la capacidad de ser aplicable a niveles de múltiples jurisdicciones, es decir, 
-  abarcando varias áreas y al mismo tiempo atendiendo los desafíos urbanos de una manera 
-  nacional más integrada.
+  Estatuko hiri-politika jasangarrien gaineko aurrerapen orokorrari buruzko barometro ona ematen du adierazle 
+  honek. Politiken gomendioak babesteko arrakalen azterketa gisa ere baliagarria da. Halaber, herrialde interesdun 
+  guztien artean elkartegintza eta lankidetza sustatu ditzaketen herrialde arteko politikak eta jardunbide onak 
+  identifikatzen laguntzen du. Adierazle hau prozesuetara bideratzen da, aspirazionala da, eta GJHeko 11. helburua 
+  nahiz hiriarekin lotutako beste adierazle batzuk baliozkotzeari indarra emateko balio du. Halaber, jurisdikzio-maila 
+  askotan aplikatu daiteke, hau da, arlo asko hartzen ditu eta, aldi berean, hiri-erronkak maila nazional 
+  integratuagoan jorratzen ditu. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 comparabilidad: >-
-  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=11.a.1&seriesCode=SD_CPA_UPRDP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Países que cuentan con políticas urbanas nacionales o planes de desarrollo regional que respondan a la dinámica poblacional, aseguren un desarrollo territorial equilibrado y aumenten el espacio fiscal local (1 = SÍ; 0 = NO) SD_CPA_UPRDP</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=11.a.1&seriesCode=SD_CPA_UPRDP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Populazio-dinamikari erantzuten dioten, lurralde-garapen orekatua ziurtatzen duten eta tokiko zerga-espazioa handitzen duten hiri-politika nazionalak edo eskualde-garapeneko planak dituzten herrialdeak (1 = BAI; 0 = EZ) SD_CPA_UPRDP</a> UNSTATS
 
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-0a-01.pdf">Metadatos 11-a-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-0a-01.pdf">Metadatuak 11-a-1.pdf</a> (ingelesez bakarrik)'
 informacion_interes: 
 
 national_data_updated_date: ''

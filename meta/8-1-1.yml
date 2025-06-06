@@ -9,20 +9,20 @@ meta_global: meta_largo.8-1-titulo
 
 
 definicion: >- 
-  Tasa de crecimiento anual del PIB real por persona
+  BPG errealaren urteko hazkunde-tasa pertsonako
 
 formula:  |
 
   $$TCPIBPC^{t} = \frac{{\frac{PIB_{2022}^{t}}{P^t}-\frac{PIB_{2022}^{t-1}}{P^{t-1}}}}{\frac{PIB_{2022}^{t-1}}{P^{t-1}}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PIB_{2022}^{t} =$ producto interior bruto en volumen encadenado con referencia 2022 en el año $t$
+  $PIB_{2022}^{t} =$ barne-produktu gordina, 2022 erreferentziarekin kateatutako bolumenean $t$ urtean
 
-  $P^{t} =$ población a 1 de julio del año $t$
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean
 
 desagregacion: >- 
-  Territorio histórico
+  Lurralde historikoa
 
 periodicidad: FUENTE.FREQ_A
 
@@ -34,28 +34,29 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  El Producto Interno Bruto (PIB) real per cápita es un indicador del 
-  nivel de vida promedio de los residentes de un país o área.
+  Biztanleko Barne Produktu Gordin (BPG) erreala herrialde edo eremu bateko biztanleen batez besteko 
+  bizi-mailaren adierazle bat da. 
 
-  Un cambio porcentual positivo en el PIB real anual per cápita puede 
-  interpretarse como un aumento en el nivel de vida promedio de los 
-  residentes de un país o área.
+  Biztanleko urteko BPG errealaren ehuneko-aldaketa positiboa herrialde edo eremu bateko biztanleen 
+  batez besteko bizi-mailaren igoera gisa interpreta daiteke. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=8.1.1&seriesCode=NY_GDP_PCAP&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Tasa de crecimiento anual del PIB real per cápita (%) NY_GDP_PCAP</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=8.1.1&seriesCode=NY_GDP_PCAP&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Per capita BPG errealaren urteko hazkunde-tasa (%) NY_GDP_PCAP</a> UNSTATS
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-01-01.pdf">Metadatos 8-1-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-01-01.pdf">Metadatuak 8-1-1.pdf</a> (ingelesez bakarrik)
 
 informacion_interes: >-
 
-  <a href="https://www.eustat.eus/estadisticas/tema_489/opt_0/ti_pib-municipal/temas.html">PIB Municipal</a> Eustat
+  <a href="https://eu.eustat.eus/estadisticas/tema_489/opt_0/temas.html">Udal BPG</a> Eustat
 
 
 national_data_updated_date: ''
