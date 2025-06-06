@@ -9,55 +9,54 @@ meta_global: meta_largo.2-4-titulo
 
 definicion: |
 
-  Series disponibles: 
+  Adierazle honek bi serie ditu: 
 
-  <b> - Emisiones de amoníaco (NH3) de la agricultura y ganadería</b>
+  <b> - Nekazaritzaren eta abeltzaintzaren amoniako-isuriak (NH3)</b>
   
-  <b> - Emisiones de amoníaco (NH3) de la agricultura y ganadería por hectárea:</b> 
-  Emisiones de amoníaco (NH3) de la agricultura y ganadería por cada hectárea destinada a tierras de cultivo, prados y pastizales
+  <b> - Nekazaritzaren eta abeltzaintzaren amoniako-isuriak (NH3) hektareako:</b> 
+  Nekazaritzaren eta abeltzaintzaren amoniako-isuriak (NH3) laborantzarako, belardietarako 
+  eta larreetarako hektarea bakoitzeko 
 
 
 formula: |
 
-  <b> Emisiones de amoníaco (NH3) de la agricultura y ganadería</b>
+  <b> Nekazaritzaren eta abeltzaintzaren amoniako-isuriak (NH3)</b>
 
-  $$ENH3_{agricultura\, y\, ganadería}^{t} = ENH3_{agricultura}^{t} + ENH3_{ganadería}^{t}$$
+  $$ENH3_{nekazaritza\, eta\, abeltzaintza}^{t} = ENH3_{nekazaritza}^{t} + ENH3_{abeltzaintza}^{t}$$
 
-  donde: 
+  non: 
 
-  $ENH3_{agricultura}^{t}$ = emisiones de NH3 de la agricultura en el año $t$
+  $ENH3_{nekazaritza}^{t}$ = nekazaritzaren amoniako-isuriak $t$ urtean
 
-  $ENH3_{ganadería}^{t}$ = emisiones de NH3 de la ganadería en el año $t$
+  $ENH3_{abeltzaintza}^{t}$ = abeltzaintzaren amoniako-isuriak $t$ urtean
 
   <br>
 
-  <b>Emisiones de amoníaco (NH3) de la agricultura y ganadería por hectárea</b>
+  <b>Nekazaritzaren eta abeltzaintzaren amoniako-isuriak (NH3) hektareako</b>
 
-  $$ENH3S_{agricultura\, y\, ganadería}^{t} = \frac{ENH3_{agricultura}^{t} + ENH3_{ganadería}^{t}}{S_{tierras\, de\, cultivo}^{t} + S_{prados\, y\, pastizales}^{t}}$$
+  $$ENH3S_{nekazaritza\, eta\, abeltzaintza}^{t} = \frac{ENH3_{nekazaritza}^{t} + ENH3_{abeltzaintza}^{t}}{S_{labore-lurrak}^{t} + S_{belardiak\, eta\, larreak}^{t}}$$
 
-  donde:
+  non:
 
-  $ENH3_{agricultura}^{t}$ = emisiones de NH3 de la agricultura en el año $t$
+  $ENH3_{nekazaritza}^{t}$ = nekazaritzaren amoniako-isuriak $t$ urtean
 
-  $ENH3_{ganadería}^{t}$ = emisiones de NH3 de la ganadería en el año $t$
+  $ENH3_{abeltzaintza}^{t}$ = abeltzaintzaren amoniako-isuriak $t$ urtean
 
-  $S_{tierras\, de\, cultivo}^{t}$ = superficie destinada a tierras de cultivo en el año $t$
+  $S_{labore-lurrak}^{t}$ = labore-lurren azalera $t$ urtean
 
-  $S_{prados\, y\, pastizales}^{t}$ = superficie destinada a prados y pastizales en el año $t$
+  $S_{belardiak\, eta\, larreak}^{t}$ = belardi eta larreen azalera $t$ urtean
 
 
 desagregacion: >-
-  Actividad agrícola: agricultura, ganadería
+  Jarduera: nekazaritza; abeltzaintza
 
 observaciones: |
 
-  Las emisiones de amoníaco asignadas a la agricultura son las 
-  correspondientes a las actividades con códigos NFR (Nomenclature for Reporting): 
-  3Da1, 3Da2a, 3Da2b, 3Da2c, 3Da3, 3Da4, 3Db, 3Dc, 3Dd, 3De, 3Df, 3F y 3I.
+  Nekazaritzari esleitutako amoniako-isuriak ondoko NFR (Nomenclature for Reporting) kodeak dituzten 
+  jarduerei dagozkienak dira: 3Da1, 3Da2a, 3Da2b, 3Da2c, 3Da3, 3Da4, 3Db, 3Dc, 3Dd, 3De, 3Df, 3F eta 3I.
 
-  Las emisiones de amoníaco asignadas a la ganadería son las correspondientes a 
-  las actividades con códigos NFR (Nomenclature for Reporting): 3B1a, 3B1b, 
-  3B2, 3B3, 3B4a, 3B4d, 3B4e, 3B4f, 3B4gi, 3B4gii, 3B4giii, 3B4giv y 3B4h.
+  Abeltzaintzari esleitutako amoniako-isuriak ondoko NFR (Nomenclature for Reporting) kodeak dituzten 
+  jarduerei dagozkienak dira: 3B1a, 3B1b, 3B2, 3B3, 3B4a, 3B4d, 3B4e, 3B4f, 3B4gi, 3B4gii, 3B4giii, 3B4giv eta 3B4h.
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
@@ -66,41 +65,40 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  El indicador forma parte del conjunto de indicadores de los Objetivos de Desarrollo Sostenible (ODS) de la UE.
-  Se utiliza para hacer el seguimiento del progreso hacia el ODS 2 sobre poner fin al hambre y la desnutrición, y está 
-  integrado en las prioridades de la Comisión Europea en el marco del Acuerdo Verde Europeo
+  Adierazlea EBko Garapen Jasangarriko Helburuen (GJH) adierazleen parte da. Goseari eta desnutrizioari amaiera jartzeko 
+  2. GJHrako aurrerapenaren jarraipena egiteko erabiltzen da, eta Europako Batzordearen lehentasunetan sartzen da, Europako 
+  Akordio Berdearen esparruan. 
 
-  El indicador mide las emisiones de amoniaco ($NH_3$) como resultado de 
-  la producción agrícola. Estas emisiones resultan del manejo del estiércol, 
-  las aplicaciones de fertilizantes nitrogenados inorgánicos y estiércol animal 
-  aplicado al suelo, así como la orina y el estiércol depositados por los animales en pastoreo.
+  Adierazleak nekazaritzako ekoizpenaren ondoriozko amoniako-emisioak neurtzen ditu ($NH_3$). Emisio hauen atzean daude 
+  simaurraren erabilera, ongarri nitrogenatu inorganikoen aplikazioak, lurrera aplikatutako animalia-simaurra, eta animaliek 
+  larreetan utzitako txiza eta simaurra. 
 
-  El amoníaco ($NH_3$) es un gas incoloro, de olor acre y corrosivo que se produce por la descomposición 
-  de la materia orgánica vegetal y de los excrementos de humanos y animales. Cuando se libera a la atmósfera, 
-  el amoníaco contribuye al nivel de contaminación del aire. El sector agrícola sigue siendo el mayor contribuyente 
-  a las emisiones de amoníaco en la UE.
+  Amoniakoa ($NH_3$) kolorerik gabeko gasa da, akre usainekoa eta korrosiboa. Material organiko begetala eta gizakien eta 
+  animalien gorozkiak deskonposatzean sortzen da. Atmosferara isurtzen denean, amoniakoak airearen kutsadura-maila igotzen 
+  du. Nekazaritzaren sektorea da oraindik ere EBn amoniako-emisioen ekarpen gehien egiten duena. 
 
-  Las medidas implementadas en el marco de la Política Agrícola Común (PAC) y la 
-  Directiva Marco del Agua han llevado a la UE a reducir las emisiones de 
-  amoníaco procedentes de la agricultura desde la década de 1990. En concreto, las 
-  medidas para cambiar las prácticas agrícolas provocaron reducciones en el uso de 
-  fertilizantes nitrogenados y una reducción de la densidad ganadera por hectárea en toda la UE-15.
+  Nekazaritza Politika Erkidearen (NPE) eta Uraren Zuzentarau Esparruaren barnean ezarritako neurrien ondorioz, EBk murriztu 
+  egin ditu nekazaritzatik datozen amoniako-emisioak, 1990eko hamarkadaz geroztik. Zehazki, nekazaritzako praktikak aldatzeko 
+  neurriek murrizketak eragin zituzten ongarri nitrogenatuen erabileran eta, murrizketak, halaber, hektareako abeltzaintza-dentsitatean, 
+  EB-15 osoan. 
 
-  La Directiva sobre Compromisos Nacionales de Reducción de Emisiones (Directiva NEC) 
-  establece compromisos nacionales de reducción de emisiones para los Estados miembros y la
-  UE para cinco importantes contaminantes del aire, incluido el amoníaco.
+  Emisioak Murrizteko Konpromiso Nazionalei buruzko Zuzentarauak (NEC Zuzentaraua) emisioak murrizteko konpromiso nazionalak 
+  ezartzen dizkie estatu-kideei eta EBri, airearen bost kutsatzaile handiri begira (amoniakoa barne). 
 
-  Fuente: Eurostat
+
+  Iturria: Eurostat
+
+ 
 
 dato_global: >-
   <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_02_60/default/table?lang=en&category=sdg.sdg_02">
-  Emisiones de amoníaco de la agricultura (sdg_02_60)</a> Eurostat
+  Nekazaritzaren amoniako-isuriak (sdg_02_60)</a> Eurostat
 
 comparabilidad: >-
-  El indicador disponible en la C.A. de Euskadi es comparable con el indicador europeo.
+  Euskal Autonomia Erkidegoan eskuragarri dagoen adierazlea Europako adierazlearekin aldera daiteke.
 
 indicador_meta_enlace: >-
-  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_02_60_esmsip2.htm">Metadata sdg_20_60</a> (solo en inglés)<br>
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_02_60_esmsip2.htm">Metadatuak sdg_20_60</a> (ingelesez bakarrik)<br>
 
 
 national_data_updated_date: '2024-07-29'

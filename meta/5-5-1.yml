@@ -9,26 +9,26 @@ meta_global: meta_largo.5-5-titulo
 
 
 definicion: >-
-  Proporción de escaños ocupados por mujeres en el parlamento autonómico, consejeras en los departamentos 
-  del gobierno autonómico, electas en Juntas Generales, diputadas en los departamentos de los 
-  gobiernos forales, y alcaldías y concejalías en gobiernos locales.
+  Emakumeen proportzioa parlamentu autonomikoko eserlekuetan, gobernu autonomikoko sailburuen artean, 
+  Batzar Nagusietako hautetsien artean, foru gobernuetako sailetako diputatuen artean, eta tokiko gobernuetako 
+  alkateen eta zinegotzien artean. 
 
 formula: |
 
-  $$PINST_{mujeres}^{t} = \frac{INST_{mujeres}^{t}}{INST_{mujeres}^{t}+INST_{hombres}^{t}} \cdot 100$$
+  $$PINST_{emakumeak}^{t} = \frac{INST_{emakumeak}^{t}}{INST_{emakumeak}^{t}+INST_{gizonak}^{t}} \cdot 100$$ 
 
-  donde:
+  non: 
 
-  $INST_{mujeres}^{t} =$ puestos ocupados por mujeres en la institución correspondiente en el año $t$
+  $INST_{emakumeak}^{t} =$ dagokion erakundean emakumeek betetako postuak $t$ urtean 
 
-  $INST_{hombres}^{t} =$ puestos ocupados por hombres en la institución correspondiente en el año $t$
+  $INST_{gizonak}^{t} =$ dagokion erakundean gizonek betetako postuak $t$ urtean 
 
 desagregacion: |
-  Puestos en instituciones: electas en el parlamento autonómico; consejeras en los departamentos 
-  del gobierno autonómico; electas en Juntas Generales; diputadas en los departamentos de los 
-  gobiernos forales; alcaldías y concejalías en gobiernos locales.
+  Erakundeetako postuak: parlamentu autonomikoko hautetsiak; gobernu autonomikoko sailburuak; 
+  Batzar Nagusietako hautetsiak; foru gobernuetako sailetako diputatuak; tokiko 
+  gobernuetako alkate eta zinegotziak.
 
-  Territorio histórico
+  Lurralde historikoa
 
 periodicidad: FUENTE.FREQ_A
 
@@ -38,52 +38,47 @@ periodicidad: FUENTE.FREQ_A
 
 justificacion_global: |
 
-  El indicador mide el grado en que las mujeres tienen acceso igualitario a la toma de 
-  decisiones parlamentarias. La participación de las mujeres en los parlamentos es un 
-  aspecto clave de las oportunidades de las mujeres en la vida política y 
-  pública y está vinculada al empoderamiento de las mujeres. Un número igual de 
-  mujeres y hombres en las cámaras bajas daría un valor del indicador del 50 por ciento.
+  Adierazleak neurtzen du zenbateraino diren berdinak emakumeak, parlamentuan erabakiak hartzeko orduan. Emakumeek 
+  parlamentuan parte hartzea funtsezkoa da emakumeek bizitza politikoan eta publikoan dituzten aukeretan, eta emakumeen 
+  ahalduntzeari lotuta dago. Behe-ganberetan emakumeen eta gizonen kopuru berdina balitz, adierazlearen ehunekoa 
+  50ekoa litzateke. 
 
-  Una mayor presencia de mujeres en el parlamento permite destacar nuevas preocupaciones 
-  en las agendas políticas y poner en práctica nuevas prioridades mediante la adopción 
-  y aplicación de políticas y leyes. La inclusión de las perspectivas e intereses de las 
-  mujeres es un requisito previo para la democracia y la igualdad de género y contribuye 
-  a la buena gobernanza. Un parlamento representativo también permite que las 
-  diferentes experiencias de hombres y mujeres afecten el futuro social, político 
-  y económico de las sociedades.
+  Parlamentuan emakume gehiago egoteak aukera ematen du agenda politikoetan kezka berriak nabarmentzeko eta lehentasun 
+  berriak praktikan jartzeko, politikak eta legeak onartuz eta aplikatuz. Emakumeen ikuspegiak eta interesak kontuan 
+  hartzea aldez aurreko baldintza da demokraziarako eta genero-berdintasunerako, eta gobernantza ona lortzen laguntzen 
+  du. Parlamentu ordezkagarri batek aukera ematen du, halaber, gizonen eta emakumeen esperientziek eragina izan dezaten 
+  gizarteen etorkizun sozial, politiko eta ekonomikoan. 
 
-  Aunque la comunidad internacional ha apoyado y promovido la participación de las mujeres 
-  en las estructuras de toma de decisiones políticas durante varias décadas, la mejora 
-  en el acceso de las mujeres al parlamento ha sido lenta. Esto ha llevado a la 
-  introducción de políticas especiales y medidas legales para aumentar la proporción 
-  de mujeres en los escaños parlamentarios en varios países. Los países que han adoptado 
-  medidas especiales generalmente tienen una mayor representación de mujeres en el parlamento 
-  que los países que no las han adoptado.
+  Nahiz eta nazioarteko komunitateak hainbat hamarkadaz sustatu eta babestu duen emakumeen parte-hartzea erabaki politikoak 
+  hartzeko egituretan, emakumeak parlamentura sartzeko orduan egondako hobekuntza motela izan da. Horren ondorioz, politika 
+  bereziak eta lege-neurriak sartu dira hainbat herrialdetan emakumeek parlamentuko eserlekuetan duten proportzioa handitzeko. 
+  Neurri bereziak hartu dituzten herrialdeek, oro har, emakumeen ordezkaritza handiagoa dute parlamentuan, neurri bereziak 
+  hartu ez dituzten herrialdeek baino. 
 
-  El indicador 5.5.1(b) complementa el indicador 5.5.1(a) sobre las mujeres en los 
-  parlamentos nacionales y da cuenta de la representación de las mujeres entre los millones 
-  de miembros de los gobiernos locales que influyen (o tienen el potencial de influir) en 
-  la vida de las comunidades locales en todo el mundo. El indicador abarca todos 
-  los niveles de gobierno local, de conformidad con los marcos jurídicos nacionales 
-  que definen el gobierno local.
+  5.5.1 (b) adierazleak estatuetako parlamentuetako emakumeei buruzko 5.5.1 (a) adierazlea osatzen du. Halaber, mundu osoan 
+  tokiko komunitateen bizitzan eragiten duten (edo eragiteko ahalmena duten) tokiko gobernuetako milioika kideen artean 
+  emakumeek duten ordezkaritzaren berri ematen du. Adierazleak tokiko gobernu-maila guztiak hartzen ditu, tokiko gobernua 
+  definitzen duten esparru juridiko nazionalekin bat etorriz. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: |
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.5.1&seriesCode=SG_GEN_PARL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=FEMALE">Proporción de escaños ocupados por mujeres en los parlamentos nacionales (% del número total de escaños) SG_GEN_PARL</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.5.1&seriesCode=SG_GEN_PARL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=FEMALE">Estatuetako parlamentuetan emakumeek okupatutako eserlekuen proportzioa (eserleku guztien %) SG_GEN_PARL</a> UNSTATS
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.5.1&seriesCode=SG_GEN_LOCGELS&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=FEMALE">Proporción de escaños electos ocupados por mujeres en órganos deliberativos de los gobiernos locales (%) SG_GEN_LOCGELS</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.5.1&seriesCode=SG_GEN_LOCGELS&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=FEMALE">Tokiko gobernuetako eztabaida-organoetan emakumeek okupatutako eserleku hautetsien proportzioa (%) SG_GEN_LOCGELS</a> UNSTATS
 
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: |
 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01a.pdf">Metadatos 5-5-1 (1).pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01a.pdf">Metadatuak 5-5-1 (1).pdf</a> (ingelesez bakarrik)
 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01b.pdf">Metadatos 5-5-1 (2).pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01b.pdf">Metadatuak 5-5-1 (2).pdf</a> (ingelesez bakarrik)
 
 informacion_interes: 
 

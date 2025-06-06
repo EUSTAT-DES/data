@@ -9,33 +9,35 @@ meta_global: meta_largo.4-4-titulo
 
 
 definicion: |
-  Proporción de personas, por grupo de edad, que han utilizado alguna de las siguientes habilidades informáticas: 
-  descargar o instalar software o apps; cambiar la configuración del software, la app o del dispositivo; copiar 
-  o mover ficheros entre carpetas, dispositivos o en la nube; crear presentaciones que integren texto, 
-  imágenes o tablas; programar en un lenguaje de programación y usar funciones básicas de una hoja de cálculo
+  Honako trebetasun informatiko hauetakoren bat erabili duten pertsonen proportzioa, adin-taldearen arabera: 
+  softwarea edo app-ak deskargatzea edo instalatzea; softwarearen, app-aren edo gailuaren konfigurazioa aldatzea; 
+  fitxategiak karpeten, gailuen edo hodeiaren artean kopiatzea edo mugitzea; testua, irudiak edo taulak 
+  integratzen dituzten aurkezpenak sortzea; programazio-lengoaia batean programatzea; eta kalkulu-orri baten 
+  oinarrizko funtzioak erabiltzea.
 
 formula: |
 
-  $$PPHAB_{grupo\, edad}^{t} = \frac{PHAB_{grupo\, edad}^{t}}{P_{grupo\, edad}^{t}} \cdot 100$$
+  $$PPHAB_{adin\, taldea}^{t} = \frac{PHAB_{adin\, taldea}^{t}}{P_{adin\, taldea}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PHAB_{grupo\, edad}^{t} =$ población de un grupo de edad que en los últimos 12 meses ha utilizado alguna habilidad informática en el año $t$
+  $PHAB_{adin\, taldea}^{t} =$ azken 12 hilabeteetan trebetasun informatikoren bat erabili duen adin-talde bateko biztanleria 
+  $t$ urtean 
 
-  $P_{grupo\, edad}^{t} =$ población de un grupo de edad en el año $t$
+  $P_{adin\, taldea}^{t} =$ Adin-talde bateko biztanleria $t$ urtean
 
 
 desagregacion: | 
-  Habilidades informáticas: descargar o instalar software o apps; cambiar la configuración del 
-  software, la app o del dispositivo; copiar o mover ficheros entre carpetas, dispositivos o en la 
-  nube; crear presentaciones que integren texto, imágenes o tablas; programar en un lenguaje 
-  de programación y usar funciones básicas de una hoja de cálculo
+  Trebetasun informatikoak: softwarea edo app-ak deskargatzea edo instalatzea; softwarearen, app-aren edo 
+  gailuaren konfigurazioa aldatzea; fitxategiak karpeten, gailuen edo hodeiaren artean kopiatzea edo mugitzea; 
+  testua, irudiak edo taulak integratzen dituzten aurkezpenak sortzea; programazio-lengoaia batean programatzea; 
+  kalkulu-orri baten oinarrizko funtzioak erabiltzea
 
-  Edad: 16-24; 25-74
+  Adina: 16-24; 25-74
 
-  Sexo
+  Sexua
 
-  Territorio histórico
+  Lurralde historikoa
 
 periodicidad: FUENTE.FREQ_A
 
@@ -48,25 +50,26 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  Las competencias en materia de TIC determinan el uso eficaz de las tecnologías de la información y la 
-  comunicación, por lo que este indicador puede ayudar a establecer el vínculo entre el uso de las TIC y su impacto. 
-  La falta de dichas competencias sigue siendo una de las principales barreras que impiden a las personas aprovechar 
-  al máximo el potencial de las tecnologías de la información y la comunicación.
+  IKTen arloko gaitasunek informazioaren eta komunikazioaren teknologien erabilera eraginkorra zehazten dute; 
+  beraz, adierazle horrek IKTen erabileraren eta haren eraginaren arteko lotura ezartzen lagun dezake. Gaitasun 
+  horien falta da oraindik ere pertsonek informazioaren eta komunikazioaren teknologien potentziala ahalik eta 
+  gehien aprobetxatzea eragozten duen oztopo nagusietako bat. 
 
-  Estos datos pueden utilizarse para fundamentar políticas específicas destinadas a mejorar las competencias 
-  en TIC y, de este modo, contribuir a una sociedad de la información inclusiva. Este es también un indicador 
-  fundamental de la Lista básica de indicadores de la Alianza para la medición de las TIC para el 
-  desarrollo, que ha sido aprobada por la Comisión de Estadística de las Naciones Unidas (en 2020).
+  Datu horiek IKTen gaitasunak hobetzeko politika espezifikoak oinarritzeko erabil daitezke, eta, horrela, 
+  informazioaren gizarte inklusiboa sustatzeko. Garapenerako IKTak neurtzeko Aliantzaren adierazleen oinarrizko 
+  zerrendan ere funtsezko adierazlea da. Zerrenda hori Nazio Batuen Estatistika Batzordeak onartu zuen 2020an. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 
 dato_global:
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-04-01.pdf">Metadatos 4-4-1.pdf </a>(solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-04-01.pdf">Metadatuak 4-4-1.pdf </a>(ingelesez bakarrik)'
 
 informacion_interes: 
 

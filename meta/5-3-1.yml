@@ -9,20 +9,20 @@ meta_global: meta_largo.5-3-titulo
 
 
 definicion: >-
-  Matrimonios de mujeres de 16 y 17 años con un hombre por cada 100 mujeres de 16 y 17 años
+  16-17 urteko emakumeen ezkontzak gizonekin, 16-17 urteko 100 emakumeko 
 
 formula: |
 
-  $$PMAT_{mujeres\, 16-17}^{t} = \frac{MAT_{mujeres\, 16-17}^{t}}{P_{mujeres\, 16-17}^{t}} \cdot 100$$
+  $$PMAT_{emakumeak\, 16-17}^{t} = \frac{MAT_{emakumeak\, 16-17}^{t}}{P_{emakumeak\, 16-17}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $MAT_{mujeres\, 16-17}^{t} =$ matrimonios de mujeres de 16 y 17 años con un hombre en el año $t$
+  $MAT_{emakumeak\, 16-17}^{t} =$ 16-17 urteko emakumeen ezkontzak gizonekin $t$ urtean
 
-  $P_{mujeres\, 16-17}^{t} =$ mujeres de 16 y 17 años a 1 de julio del año $t$
+  $P_{emakumeak\, 16-17}^{t} =$ 16-17 urteko emakumeak $t$ urteko uztailaren 1ean
 
 desagregacion: >-
-  Territorio histórico
+  Lurralde historikoa
 
 periodicidad: FUENTE.FREQ_A
 
@@ -31,35 +31,34 @@ periodicidad: FUENTE.FREQ_A
 
 
 justificacion_global: |
-  El matrimonio antes de los 18 años es una violación fundamental de los derechos humanos. 
-  El matrimonio infantil a menudo compromete el desarrollo de la niña al provocar un embarazo 
-  precoz y aislamiento social, interrumpir su educación, limitar sus oportunidades de 
-  desarrollo profesional y vocacional y exponerla a un mayor riesgo de violencia de pareja.
+  18 urte bete aurretik ezkontzea giza eskubideen funtsezko urraketa da. Haurren ezkontzak askotan neskaren garapena arriskuan 
+  jartzen du, haurdunaldi goiztiarra eta isolamendu soziala eragiten dituelako, bere hezkuntza eteten duelako, garapen 
+  profesionalerako eta bokazionalerako aukerak mugatzen dituelako eta bikotearen indarkeria-arrisku handiagoa eragiten 
+  duelako. 
 
-  En muchas culturas, se espera que las niñas que llegan a la pubertad asuman roles 
-  de género asociados con la feminidad, como entrar en una unión y convertirse en madres. 
-  La práctica del matrimonio precoz/infantil es una manifestación directa de la 
-  desigualdad de género.
+  Kultura askotan, pubertarora iristen diren neskek feminitatearekin lotutako genero-rolak bereganatzea espero da, hala nola 
+  harreman batean sartzea eta ama bihurtzea. Ezkontza goiztiarra/haurren arteko ezkontza genero-desberdintasunaren adierazpen 
+  zuzena da. 
 
-  La cuestión del matrimonio infantil se aborda en varios convenios y acuerdos 
-  internacionales. Aunque el matrimonio no se menciona directamente en la Convención 
-  sobre los Derechos del Niño, el matrimonio infantil está vinculado a otros derechos, 
-  como el derecho a la libertad de expresión, el derecho a la protección contra 
-  todas las formas de abuso y el derecho a ser protegida de prácticas 
-  tradicionales nocivas.
+  Haurren ezkontzaren gaia nazioarteko hainbat hitzarmen eta akordiotan lantzen da. Nahiz eta ezkontza ez den zuzenean aipatzen 
+  Haurren Eskubideei buruzko Hitzarmenean, haurren ezkontza beste eskubide batzuekin lotuta dago, hala nola 
+  adierazpen-askatasunerako eskubidearekin, abusu-mota guztien aurka babesteko eskubidearekin eta praktika tradizional 
+  kaltegarrietatik babestua izateko eskubidearekin. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.3.1&seriesCode=SP_DYN_MRBF18&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=20-24%20%7C%20FEMALE">Proporción de mujeres de 20 a 24 años que estaban casadas o en unión antes de los 18 años (%) SP_DYN_MRBF18</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.3.1&seriesCode=SP_DYN_MRBF18&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=20-24%20%7C%20FEMALE">18 urte bete aurretik ezkonduta zeuden edo bikotekidea zuten 20-24 urteko emakumeen proportzioa (%) SP_DYN_MRBF18</a> UNSTATS
 
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-03-01.pdf">Metadatos 5-3-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-03-01.pdf">Metadatuak 5-3-1.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 

@@ -10,47 +10,46 @@ meta_global: meta_largo.1-4-titulo
 
 definicion: | 
 
-  Series disponibles: 
+  Eskuragarri dauden serieak: 
 
-  <b> - Proporción de viviendas con agua corriente:</b>
-  Proporción de viviendas principales con abastecimiento de agua corriente
+  <b> - Txorrotako ura duten etxebizitzen proportzioa:</b> 
+  Ur-hornidura duten etxebizitza nagusien proportzioa
   
-  <b> - Proporción de viviendas con baño:</b>
-  Proporción de viviendas principales con baño
+  <b> - Bainugela duten etxebizitzen proportzioa:</b> 
+  Bainugela duten etxebizitza nagusien proportzioa
 
 
 formula: |
 
-  <b>Proporción de viviendas con agua corriente</b>
+  <b>Txorrotako ura duten etxebizitzen proportzioa</b>
 
-  $$PVP_{agua\, corriente}^{t} = \frac{VP_{agua\, corriente}^{t}}{VP^{t}} \cdot 100$$
+  $$PVP_{txorrotako\, ura}^{t} = \frac{VP_{txorrotako\, ura}^{t}}{VP^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $VP_{agua\, corriente}^{t} =$ viviendas principales con abastecimiento de agua corriente en el año $t$
+  $VP_{txorrotako\, ura}^{t} =$ ur-hornidura duten etxebizitza nagusiak $t$ urtean
 
-  $VP^{t} =$ viviendas principales en el año $t$
+  $VP^{t} =$ etxebizitza nagusiak $t$ urtean
 
   <br>
 
-  <b>Proporción de viviendas con baño</b>
+  <b>Bainugela duten etxebizitzen proportzioa</b>
 
-  $$PVP_{baño}^{t} = \frac{VP_{baño}^{t}}{VP^{t}} \cdot 100$$
+  $$PVP_{bainugela}^{t} = \frac{VP_{bainugela}^{t}}{VP^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $VP_{baño}^{t} =$ viviendas principales con baño en el año $t$
+  $VP_{bainugela}^{t} =$ bainugela duten etxebizitza nagusiak $t$ urtean
 
-  $VP^{t} =$ viviendas principales en el año $t$
+  $VP^{t} =$ etxebizitza nagusiak $t$ urtean
 
 desagregacion: >-
 
-  Territorio histórico/Comarca/Municipio
+  Lurralde historikoa/Eskualdea/Udalerria
 
 observaciones: >-
-  Vivienda principal es aquella vivienda que es utilizada toda o la mayor parte del año como 
-  residencia habitual por una o más personas
-
+  Etxebizitza nagusia da urte osoan edo urte gehienean pertsona batek edo gehiagok 
+  ohiko bizileku gisa erabiltzen duten etxea.
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
@@ -59,51 +58,49 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |
 
-  El indicador de Naciones Unidas se basa en 9 componentes. La proporción de la población 
-  que vive en hogares con acceso a servicios básicos se define como la proporción de la población 
-  que utiliza sistemas de prestación de servicios públicos que satisfacen las necesidades 
-  humanas básicas, incluidos agua potable, saneamiento, 
-  higiene, energía, movilidad, recogida de residuos, atención sanitaria, educación y tecnologías 
-  de la información.
+  Nazio Batuen adierazlea 9 osagaitan oinarritzen da. Oinarrizko zerbitzuak eskura dituzten etxeetan bizi 
+  diren biztanleen proportzioa honela definitzen da: oinarrizko giza beharrizanak asetzeko zerbitzu publikoko 
+  sistemak erabiltzen dituzten biztanleen proportzioa, zerbitzu horien barruan sartzen direlarik edateko ura, 
+  saneamendua, higienea, energia, mugikortasuna, hondakinen bilketa, arreta sanitarioa, hezkuntza eta 
+  informazioaren teknologiak. 
 
-  Estos componentes se capturan en varios indicadores independientes de los ODS, 
-  lo que significa que los conceptos y definiciones del indicador 1.4.1 de los ODS se derivarán 
-  de estos indicadores específicos de los ODS o serán los mismos que ellos.
+  Osagai horiek GJHetatik independenteak diren hainbat adierazletan jasotzen dira; ondorioz, GJHen 1.4.1 
+  adierazleko kontzeptuak eta definizioak GJHen adierazle espezifiko hauetatik eratorriko dira, edo horien 
+  berdinak izango dira. 
 
-  Entre los diferentes aspectos de la pobreza, este indicador se centra en el acceso a 
-  servicios básicos. Proporcionar acceso a servicios básicos como agua potable, servicios 
-  de saneamiento e higiene, energía 
-  y movilidad sostenibles, vivienda, educación, atención sanitaria, etc., ayuda a mejorar 
-  la calidad de vida de los pobres.
+  Pobreziaren alderdi desberdinen artean, oinarrizko zerbitzuetarako sarbidea neurtzen du adierazle honek. 
+  Oinarrizko zerbitzuetarako sarbidea emateak (besteak beste, edateko ura, saneamendu- eta higiene-zerbitzuak, 
+  energia eta mugikortasun jasangarriak, etxebizitza, hezkuntza, arreta sanitarioa eta abar eskuratzeko) 
+  pobreen bizi-kalitatea hobetzen laguntzen du. 
 
-  La falta de prestación de servicios básicos y la falta de empoderamiento y participación 
-  de los gobiernos locales en la prestación de servicios básicos socavan el crecimiento económico 
-  y la calidad de vida en cualquier comunidad. Unos sistemas adecuados de prestación de servicios 
-  básicos promueven mejoras socioeconómicas y ayudan a lograr el crecimiento económico, la 
-  inclusión social, la reducción de la pobreza y la igualdad.
+  Oinarrizko zerbitzuen prestaziorik ez badago eta tokiko gobernuek oinarrizko zerbitzuak emateko orduan 
+  parte hartzen ez badute edo horretarako ahaldunduta ez badaude, edozein komunitatetako hazkunde ekonomikoa 
+  eta bizi-kalitatea kaltetu egiten dira.  Oinarrizko zerbitzuak emateko sistema egokiek hobekuntza sozioekonomikoak 
+  sustatzen dituzte, eta hazkunde ekonomikoa, inklusio soziala, pobreziaren murrizketa eta berdintasuna lortzen 
+  laguntzen dute. 
 
-  Más específicamente, la mejora de los servicios básicos puede ayudar a aumentar el bienestar 
-  y la productividad de las comunidades, crear empleos, ahorrar tiempo y esfuerzo humano en 
-  el transporte de agua, apoyar la seguridad alimentaria, mejorar el uso de la energía, producir 
-  productos básicos esenciales, mejorar la salud (haciendo que los servicios médicos atención 
-  sanitaria, disponibilidad de agua potable o recogida de residuos sólidos) o mejorar el nivel 
-  de educación.
+  Zehatzago, oinarrizko zerbitzuak hobetzea lagungarria izan daiteke komunitateen ongizatea eta produktibitatea 
+  areagotzeko, enpleguak sortzeko, uraren garraioan denbora eta giza ahalegina aurrezteko, elikagaien segurtasuna 
+  babesteko, energiaren erabilera hobetzeko, oinarrizko funtsezko produktuak ekoizteko, osasuna hobetzeko (arreta 
+  sanitarioko zerbitzu medikoak, edateko uraren erabilgarritasuna edo hondakin solidoen bilketa) edo hezkuntza 
+  maila hobetzeko. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+  
+  Iturria: Nazio Batuen Estatistika Sekzioa
+
 
 dato_global: |
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.4.1&seriesCode=SP_ACS_BSRVH2O&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=RURAL">Proporción de población que utiliza servicios básicos de agua potable, por ubicación (%) SP_ACS_BSRVH2O</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.4.1&seriesCode=SP_ACS_BSRVH2O&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=RURAL">Edateko uraren oinarrizko zerbitzuak erabiltzen dituzten biztanleen proportzioa, kokapenaren arabera (%) SP_ACS_BSRVH2O</a> UNSTATS
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.4.1&seriesCode=SP_ACS_BSRVSAN&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA">
-  Proporción de población que utiliza servicios básicos de saneamiento, por ubicación (%) SP_ACS_BSRVSAN</a> UNSTATS
+  Oinarrizko saneamendu-zerbitzuak erabiltzen dituzten biztanleen proportzioa, kokapenaren arabera (%) SP_ACS_BSRVSAN</a> UNSTATS
 
 comparabilidad: >-
-  El indicador disponible en la C.A de Euskadi cumple con 
-  los metadatos de Naciones Unidas para las series analizadas. Otras series se presentan en otros indicadores de desarrollo sostenible de esta plataforma (3-8-1, 4-1-1, 7-1-2, 9-1-1, 9-c-1, 11-2-1, 11-6-1)
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu aztertutako serieetarako. Beste serie batzuk plataforma honetako garapen jasangarriaren beste adierazle batzuetan aurkezten dira (3-8-1, 4-1-1, 7-1-2, 9-1-1, 9-c-1, 11-2-1, 11-6-1)
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-01.pdf">Metadatos 1-4-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-01.pdf">Metadatuak 1-4-1.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

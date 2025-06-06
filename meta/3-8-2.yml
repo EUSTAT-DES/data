@@ -9,20 +9,21 @@ meta_global: meta_largo.3-8-titulo
 
 
 definicion: >-
-  Proporción de personas que viven en hogares con un gasto sanitario que representa más del 10% o 25 % del gasto total del hogar
+  Etxeko guztizko gastuaren % 10 edo % 25 baino gehiago osasun-gastuetara bideratzen den etxeetan bizi diren pertsonen proportzioa
+
 
 formula: |
 
   $$PPGGS_{\gt x\%}^{t} = \frac{PGGS_{\gt x\%}^{t}}{P^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PGGS_{\gt x\%}^{t} =$ población que vive en hogares con grandes gastos sanitarios, superiores a $x\%$ del gasto total del hogar, en el año $t$
+  $PGGS_{\gt x\%}^{t} =$ osasun-gastu handiak (etxeko guztizko gastuaren $%\x$etik gorakoak) dituzten etxeetan bizi den biztanleria $t$ urtean
 
-  $P^{t} =$ población total en el año $t$
+  $P^{t} =$ biztanleria $t$ urtean
 
 desagregacion: >- 
-  Umbral de gasto: 10% y 25% del gasto total del hogar
+  Gastuaren atalasea: Familia-gastuaren %10; %25
 
 periodicidad: FUENTE.FREQ_A
 
@@ -36,41 +37,40 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |
 
-  El indicador mide la proporción de la población con un elevado gasto familiar en salud como porcentaje del gasto o ingreso 
-  total del hogar. Se utilizan dos umbrales para definir el “gran gasto familiar en salud”: superior al 10% y superior 
-  al 25% del gasto o ingreso total del hogar.
+  Adierazleak familia-osasunean gastu handia duen biztanleriaren proportzioa neurtzen du, etxekoen gastu edo diru-sarrera 
+  osoaren ehuneko gisa. Bi atalase erabiltzen dira "osasun-arloko familia-gastu handia" definitzeko: etxekoen guztizko 
+  gastuaren edo diru-sarreraren % 10etik gorakoa eta % 25etik gorakoa. 
 
-  La meta 3.8 se refiere a la cobertura sanitaria universal (CSU) y se define como “Lograr la cobertura 
-  sanitaria universal, incluida la protección contra los riesgos financieros, el acceso a servicios 
-  de salud esenciales de calidad y el acceso a medicamentos y vacunas esenciales seguros, eficaces, de calidad 
-  y asequibles para todos”. 
+  3.8 xedea osasun-estaldura unibertsalari (OEU) buruzkoa da, eta honela definitzen da: "Osasun-estaldura unibertsala 
+  lortzea, finantza-arriskuen aurkako babesa, kalitatezko oinarrizko osasun-zerbitzuetarako sarbidea eta oinarrizko 
+  sendagai eta txerto seguruak, eraginkorrak, kalitatezkoak eta guztiontzat eskuragarriak eskuratzeko bidea barne". 
 
-  La preocupación es que todas las personas y comunidades reciban los servicios sanitarios
-  de calidad que necesitan (incluidos los medicamentos y otros productos sanitarios) sin dificultades financieras. 
-  Las dificultades financieras son una consecuencia clave de los mecanismos inadecuados de protección
-  contra los riesgos financieros y pueden experimentarse en cualquier país, independientemente del nivel de ingresos
-   y el tipo de sistema sanitario.  
+  Asmoa da pertsona eta komunitate guztiek behar dituzten kalitatezko osasun-zerbitzuak jasotzea (sendagaiak eta bestelako 
+  osasun-produktuak barne), finantza-zailtasunik gabe. Finantza-zailtasunak finantza-arriskuen aurkako babes-mekanismo 
+  desegokien funtsezko ondorio dira, eta edozein herrialdetan izan daitezke, diru-sarreren maila eta osasun-sistemaren 
+  mota edozein izanda ere. 
 
-  El indicador 3.8.2 trata de identificar a las personas con gastos de 
-  bolsillo en salud que exceden su capacidad de pago, lo que podría llevar a recortar el gasto en otras necesidades 
-  básicas como la educación, la alimentación, la vivienda y los servicios públicos. 
+  3.8.2 adierazlearen bidez, ordaintzeko gaitasuna gainditzen duten osasun-arloko poltsikoko gastuak dituzten pertsonak 
+  identifikatu nahi dira, horrek oinarrizko beste premia batzuetako gastua murriztea ekar bailezake, hala nola hezkuntzakoa, 
+  elikadurakoa, etxebizitzakoa eta zerbitzu publikoetakoa. 
 
-  Reducir las dificultades financieras en materia de salud es importante en la 
-  agenda de desarrollo mundial, así como una prioridad del 
-  sector sanitario de muchos países en todas las regiones.
+  Osasunaren arloko finantza-zailtasunak murriztea garrantzitsua da munduko garapen-agendan. Halaber, herrialde askotako 
+  osasun-sektoreak eskualde guztietan duen lehentasuna ere bada. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: |
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.8.2&seriesCode=SH_XPD_EARN25&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Proporción de la población con grandes gastos domésticos en salud (superiores al 25%) como porcentaje del gasto o ingreso total del hogar (%) SH_XPD_EARN25</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.8.2&seriesCode=SH_XPD_EARN25&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Etxeko osasun-gastu handiak ( %25etik gorakoak) dituzten biztanleen proportzioa, etxeko gastu edo diru-sarrera osoaren portzentaje gisa (%) SH_XPD_EARN25</a> UNSTATS
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.8.2&seriesCode=SH_XPD_EARN10&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Proporción de la población con grandes gastos domésticos en salud (superiores al 10%) como porcentaje del gasto o ingreso total del hogar (%) SH_XPD_EARN10</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.8.2&seriesCode=SH_XPD_EARN10&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Etxeko osasun-gastu handiak ( %10etik gorakoak) dituzten biztanleen proportzioa, etxeko gastu edo diru-sarrera osoaren portzentaje gisa (%) SH_XPD_EARN10</a> UNSTATS
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-08-02.pdf">Metadatos 3-8-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-08-02.pdf">Metadatuak 3-8-2.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 

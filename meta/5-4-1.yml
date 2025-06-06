@@ -9,22 +9,22 @@ meta_global: meta_largo.5-4-titulo
 
 
 definicion: >-
-  Promedio diario de minutos dedicados a actividades destinadas al hogar y la familia por habitante
+  Batez besteko egun batean etxearekin eta familiarekin lotutako jardueretan emandako minutuak, biztanleko
 
 formula: |
 
   $$THFP^{t} = \frac{THF^{t}}{PHF^{t}}$$
 
-  donde:
+  non:
 
-  $THF^{t} =$ minutos dedicados por la población al hogar y la familia en un día promedio en el año $t$
+  $THF^{t} =$ biztanleriak batez besteko egun batean etxearekin eta familiarekin lotutako jardueretan emandako minutuak $t$ urtean 
 
-  $PHF^{t} =$ población que destina tiempo al hogar y la familia en un día promedio en el año $t$
+  $PHF^{t} =$ batez besteko egun batean etxeari eta familiari denbora ematen dion biztanleria $t$ urtean 
 
 desagregacion: |
-  Sexo
+  Sexua
 
-  Territorio histórico
+  Lurralde historikoa
 
 periodicidad: FUENTE.FREQ_A5
 
@@ -33,25 +33,22 @@ periodicidad: FUENTE.FREQ_A5
 
 
 justificacion_global: |
-  El objetivo del indicador es medir la cantidad de tiempo que las mujeres y los hombres 
-  dedican a realizar tareas no remuneradas, para garantizar que todo trabajo, ya sea remunerado 
-  o no, sea valorado.
+  Adierazlearen helburua da emakumeek eta gizonek ordaindu gabeko lanak egiten ematen duten denbora neurtzea, lan oro, 
+  ordaindua izan ala ez, balioesten dela bermatzeko. 
 
-  Además, también proporciona una evaluación de la igualdad de género, al destacar las 
-  discrepancias entre el tiempo que las mujeres y los hombres dedican a tareas no remuneradas, 
-  como cocinar, limpiar o cuidar a los niños.
+  Gainera, genero-berdintasunaren ebaluazioa ere egiten du, emakumeek eta gizonek ordaindu gabeko zereginetan (janaria 
+  prestatzen, garbitzen edo haurrak zaintzen) ematen duten denboraren arteko aldeak nabarmentzen baititu. 
 
-  Este indicador mide la cantidad promedio de tiempo como proporción en un día, de modo 
-  que si para un país determinado se informa que las mujeres de 15 años o más dedican el 
-  10% de su día a tareas domésticas no remuneradas mientras que los 
-  hombres del mismo grupo de edad dedican el 1%, indica que las mujeres dedican
-   2,4 horas (2 horas y 24 minutos), mientras que los hombres dedican 14,4 minutos a ello 
-  al día, en promedio. Como se explica más adelante en 4.c, este promedio 
-  diario se obtiene a partir de un promedio tomado durante el período de referencia 
-  para la recopilación de datos y, por lo tanto, no significa que las mujeres y los 
-  hombres dediquen estas cantidades de tiempo dadas todos los días.
+  Adierazle horrek egun bateko batez besteko denbora-kopurua neurtzen du proportzio gisa. Hala, adierazten bada herrialde 
+  jakin batean 15 urteko edo gehiagoko emakumeek beren egunaren % 10 ematen dutela ordaindu gabeko etxeko lanetan eta 
+  adin-talde bereko gizonek % 1, emakumeek 2,4 ordu ematen dituzte (2 ordu eta 24 minutu) eta gizonek, aldiz, 14,4 minutu 
+  egunean, batez beste. Aurrerago 4.c atalean azaltzen den bezala, eguneko batezbesteko hori datuak biltzeko erreferentziazko 
+  aldian hartutako batezbesteko batetik ateratzen da, eta, beraz, ez du esan nahi emakumeek eta gizonek egunero ematen 
+  dituztenik denbora-kopuru horiek. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 
 
@@ -59,10 +56,9 @@ dato_global: >-
 
 
 comparabilidad: >-
-  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta
-  información similar.
+  EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa ematen du.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-04-01.pdf">Metadatos 5-4-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-04-01.pdf">Metadatuak 5-4-1.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 

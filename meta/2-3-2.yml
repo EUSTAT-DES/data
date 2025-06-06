@@ -10,34 +10,32 @@ meta_global: meta_largo.2-3-titulo
 
 
 definicion: |
-  Ingreso Bruto de la Explotación de las explotaciones agrícolas, pequeñas y grandes.
+  Nekazaritzako ustiategi txiki eta handien diru-sarrera gordina.
 
-  Una explotación se considera pequeña cuando cumple ambas condiciones:
-   - Opera una cantidad de tierra que se encuentra en los dos primeros quintiles 
-     (el 40% inferior) de la distribución acumulada del tamaño de la tierra a nivel de la 
-     Comunidad Autónoma de Euskadi (medida en hectáreas).
-   - Obtiene un ingreso económico anual de las actividades agrícolas que se encuentra en los 
-     dos primeros quintiles (el 40% inferior) de la distribución acumulada de los ingresos 
-     económicos agrícolas por unidad de producción a nivel de la Comunidad Autónoma de Euskadi.
+  Ustiategia txikitzat hartzen da ondoko bi baldintzak betetzen baditu:
+   - Erabiltzen duen lur-kantitatea (hektareatan neurtuta) Euskal Autonomia Erkidegoko 
+     nekazaritza-ustiategien tamainaren banaketa metatuaren % 40 baxuenaren barruan dago. 
+   - Nekazaritzako jardueren urteko diru-sarrera Euskal Autonomia Erkidegoko nekazaritzako 
+     diru-sarreren banaketa metatuaren % 40 txikienaren barruan dago.
 
-  Si una explotación no cumple alguna de estas condiciones, se considera grande.
+  Ustiategiak baldintza horietakoren bat betetzen ez badu, handitzat joko da.
 
 formula: |
 
   $$IBM^{t} = SE131^{t} - SE275^{t} - SE365^{t}$$
 
-  donde:
+  non:
 
-  $SE131^{t}$ = producción total de cultivos y derivados, ganado y productos ganaderos y 
-  otras producciones en el año $t$
+  $SE131^{t}$ = laboreen eta horien deribatuen, abereen, abeltzaintzako produktuen eta nekazaritzako 
+  beste ekoizpen batzuen guztizko ekoizpena $t$ urtean
 
-  $SE275^{t}$ = costes específicos de cultivos y ganado como los costes generales en el año $t$
+  $SE275^{t}$ = laboreen eta aziendaren kostu espezifikoak, hala nola kostu orokorrak $t$ urtean
 
-  $SE365^{t}$ = remuneración de los factores de producción (trabajo, tierra y capital) que no 
-  son propiedad del agricultor (salarios, arrendamientos e intereses pagados) en el año $t$
+  $SE365^{t}$ = nekazariaren jabetzakoak ez diren ekoizpen-faktoreen ordainketa (lana, lurra eta 
+  kapitala), hau da, soldatak, errentamenduak eta ordaindutako interesak $t$ urtean
 
 desagregacion: 
-  Territorio histórico
+  Lurralde historikoa
 
 observaciones: 
 
@@ -47,24 +45,24 @@ periodicidad: FUENTE.FREQ_A
 
 justificacion_global: |
 
-  La Agenda 2030 para el Desarrollo Sostenible ha hecho hincapié en la importancia de mejorar los 
-  ingresos de los pequeños productores de alimentos, ya que estos desempeñan un papel importante 
-  en la producción mundial de alimentos. El indicador monitorea los avances en esta área, donde 
-  el objetivo es duplicar los ingresos para el año 2030.
+  Garapen Jasangarrirako 2030eko Agendak nabarmendu duenez, garrantzitsua da elikagaien ekoizle txikien 
+  diru-sarrerak hobetzea, horiek berebiziko esangura baitute elikagaiak mundu-mailan ekoizteko orduan. 
+  Adierazleak arlo honetako aurrerapenak ikuskatzen ditu, 2030. urterako diru-sarrerak bikoizteko asmoz. 
 
-  La mejora de los ingresos de las unidades de producción en pequeña escala también tiene 
-  implicaciones en la reducción de la pobreza, ya que los pequeños productores de alimentos 
-  suelen ser pobres y con frecuencia se encuentran cerca de las condiciones de subsistencia.
+  Eskala txikiko ekoizpen-unitateetan diru-sarrerak hobetzeak, halaber, eragina dauka pobrezia murrizteko 
+  orduan, elikagaien ekoizle txikiak pobreak izan ohi direlako eta, askotan, bizirauteko baldintza urrietan 
+  daudelako. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas, Eurostat
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-03-02.pdf">Metadatos 2-3-2.pdf (solo en inglés)</a>'
+  Iturria: Nazio Batuen Estatistika Sekzioa, Eurostat 
+
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-03-02.pdf">Metadatuak 2-3-2.pdf (ingelesez bakarrik)</a>'
 
 dato_global:
 
 comparabilidad: >-
-  El indicador disponible no cumple con los metadatos de Naciones Unidas pero aporta
-  información similar.
+  EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du.
 
 informacion_interes: 
 

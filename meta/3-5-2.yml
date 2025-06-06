@@ -10,21 +10,22 @@ meta_global: meta_largo.3-5-titulo
 
 definicion: >-
 
-  Consumo anual de alcohol registrado en litros de alcohol puro (bebidas destiladas, vino y cerveza) por persona de 15 y más años
+  Urteko erregistratutako alkohola-kontsumoa alkohol puruaren litrotan (edari destilatuak, ardoa eta garagardoa), 15 urte eta gehiagoko pertsona bakoitzeko
 
 formula: |
 
-  $$ECAR^{t} = \frac{CAR_{bebidas\, destiladas}^{t}+CAR_{vino}^{t}+CAR_{cerveza}^{t}}{P_{15+}^{t}}$$
+  $$ECAR^{t} = \frac{CAR_{edari\, destilatuak}^{t}+CAR_{ardoa}^{t}+CAR_{garagardoa}^{t}}{P_{15+}^{t}}$$
 
-  donde:
+  non:
 
-  $CAR_{bebidas\, destiladas}^{t} =$ consumo de alcohol registrado en bebidas destiladas en el año $t$
+  $CAR_{edari\, destilatuak}^{t} =$ edari destilatuetan erregistratutako alkohol-kontsumoa $t$ urtean
 
-  $CAR_{vino}^{t} =$ consumo de alcohol registrado en vino en el año $t$
+  $CAR_{ardoa}^{t} =$ ardoan erregistratutako alkohol-kontsumoa $t$ urtean
 
-  $CAR_{cerveza}^{t} =$ consumo de alcohol registrado en cerveza en el año $t$
+  $CAR_{garagardoa}^{t} =$ garagardoan erregistratutako alkohol-kontsumoa $t$ urtean
 
-  $P_{15+}^{t} =$ población de 15 y más años a 1 de julio del año $t$
+  $P_{15+}^{t} =$ 15 urteko eta gehiagoko biztanleak $t$ urteko uztailaren 1ean
+
 
 
 desagregacion: >- 
@@ -40,32 +41,33 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |
 
-  El indicador de Naciones Unidas mide el uso nocivo de alcohol, definido 
-  según el contexto nacional como el consumo de alcohol 
-  per cápita (personas de 15 años o más) en un año calendario en litros de alcohol puro.
+  Nazio Batuen adierazleak alkoholaren erabilera kaltegarria neurtzen du, testuinguru nazionalaren arabera biztanleko 
+  alkohol-kontsumo gisa zehaztua (15 urte edo gehiagoko pertsonak) egutegiko urtebetean, alkohol puruko litrotan. 
 
-  El consumo de alcohol puede tener un impacto no sólo en la incidencia de enfermedades, lesiones y 
-  otras condiciones de salud, sino también en la evolución de los trastornos y sus consecuencias en las personas.
+  Alkoholaren kontsumoak eragina izan dezake ez soilik gaixotasunen, lesioen eta beste osasun-arazo batzuen intzidentzian, 
+  baizik eta baita nahasmenduen bilakaeran eta pertsonen gaineko ondorioetan ere. 
 
-  El consumo de alcohol se ha identificado como una causa componente de más de 200 enfermedades, lesiones y otros problemas
-  de salud. El consumo de alcohol per cápita es ampliamente aceptado como el mejor indicador posible de la exposición al
-  alcohol en las poblaciones y el indicador clave para la estimación de la carga de enfermedades atribuibles al alcohol y
-  las muertes atribuibles al alcohol.
+  Alkoholaren kontsumoa 200dik gora gaixotasun, lesio edo bestelako osasun-arazoren arrazoitzat jo da. Biztanleko 
+  alkohol-kontsumoa biztanleen artean alkoholaren esposizioa ondoen zehazten duen adierazletzat jotzen da. Halaber, 
+  funtsezko adierazlea da alkoholari egotzi ahal zaizkion gaixotasunen karga eta alkoholari egotzi ahal zaizkion 
+  heriotzak kalkulatzeko. 
 
-  Su correcta interpretación requiere el uso de indicadores poblacionales adicionales, como la prevalencia del consumo de 
-  alcohol, y, como resultado, estimula el desarrollo de sistemas nacionales de vigilancia del alcohol y la salud que 
-  involucran contribuciones de una amplia gama de partes interesadas, incluidos los sectores de producción y comercio de alcohol.
+  Zuzen interpretatzeko, biztanleria-adierazle osagarriak erabili behar dira, besteak beste alkohol-kontsumoaren 
+  nagusitasuna. Ondorioz, alkohola eta osasuna zaintzeko sistema nazionalen garapena sustatzen da, interesa duten 
+  alderdi askoren ekarpenak inplikatuz (alkohola ekoitzi eta merkaturatzen duten sektoreak barne). 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.5.2&seriesCode=SH_ALC_CONSPT&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15%2B%20%7C%20BOTHSEX">Consumo de alcohol per cápita (mayores de 15 años) en un año calendario (litros de alcohol puro) SH_ALC_CONSPT</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.5.2&seriesCode=SH_ALC_CONSPT&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15%2B%20%7C%20BOTHSEX">Alkohol-kontsumoa per capita (15 urtetik gorakoak) egutegiko urte batean (alkohol puruaren litroak) SH_ALC_CONSPT</a> UNSTATS
 
 comparabilidad: >- 
-  El indicador disponible no cumple con los metadatos del indicador de 
-  Naciones Unidas, pero aporta información similar.
+  EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina 
+  antzeko informazioa ematen du.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-05-02.pdf">Metadatos 3-5-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-05-02.pdf">Metadatuak 3-5-2.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 
