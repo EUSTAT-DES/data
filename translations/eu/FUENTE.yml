@@ -77,9 +77,9 @@ Eustat_ccst: Turismoaren kontu satelitea
 Eustat_cpib: Kontu ekonomikoak
 Eustat_ceav: Euskal administrazioen kontu ekonomikoak
 Eustat_cpibmun: Udal BPG
-Euskadi_Industria_dener: Euskal AEko datu energetikoak
+Euskadi_Industria_dener: Euskal AEko energia-datuak
 Euskadi_Bienestar_essas: Gizarte-zerbitzuen eta gizarte-ekintzaren estatistika
-Eustat_epb: Ongizate pertsonalaren inkesta
+Eustat_epb: Norberaren ongizate-inkesta
 BE_ecf: Finantza-gaitasunen inkesta
 INE_ecv: Bizi-baldintzen inkesta
 Eustat_ecv: Bizi-baldintzen inkesta
@@ -95,8 +95,8 @@ Eustat_ept: Denbora-aurrekontuen inkesta
 Euskadi_Salud_escav: Osasun Inkesta
 INE_ees: Europako Osasun Inkesta
 INE_ense: Espainiako Osasun Inkesta Nazionala
-Eustat_cindus: Industria-inkesta
-Eustat_ceea: Nekazaritzako ustiategien egiturari buruzko inkesta
+Eustat_cindus: Industriaren inkesta
+Eustat_ceea: Nekazaritzako ustiategien egituraren inkesta
 Eustat_cca: Nekazaritza-zentsua
 INE_eada: Helduek ikaskuntza-jardueretan duten parte-hartzeari buruzko inkesta
 Eustat_cesif: Informazioaren gizartearen inkesta. Familiak
@@ -112,7 +112,7 @@ Euskadi_Industria_ind: Ingurumen adierazleak
 Eustat_ceens: Eskola-jardueraren estatistika 
 Euskadi_Industria_cma: Ur-masen kalitatearen estatistika
 Ekolurra_epe: Ekoizpen ekologikoaren estatistika
-GE_Agricultura_esyrce: Laboreen gainazalei eta errendimenduei buruzko inkesta (ESYRCE)
+GE_Agricultura_esyrce: Laborantzen gainazalei eta errendimenduei buruzko inkesta (ESYRCE)
 GE_Agricultura_recan: Nekazaritzako kontabilitate-sare nazionala
 Eustat_emat: Ezkontzen estatistika
 Eustat_cemm: Migrazio-mugimenduen estatistika
@@ -120,7 +120,7 @@ Eustat_enac: Jaiotzen estatistika
 Eustat_iig: Genero berdintasunaren indizea
 GE_Interior_pint: Nazioarteko babesa eskatzen duten atzerritarren, errefuxiatuen, babes subsidiarioaren onuradunen, desplazatuen eta aberrigabeen estatistika
 GE_Interior_esap: "Segurtasun-estatistika: polizia-jarduerak"
-Eustat_rpf: Errenta pertsonala eta familiarra
+Eustat_rpf: Errenta pertsonala eta familiarraren estatistika
 Euskadi_Industria_rp: Hondakin arriskutsuen estatistika
 Euskadi_Industria_ru: Hiri-hondakinen estatistika
 Consorcio_ere: Aparteko arriskuen estatistika
@@ -130,16 +130,16 @@ Euskadi_Seguridad_ed: Delitu estatistikak
 INE_eepd: Desgaitasuna duten Pertsonen Enpleguaren Estatistika
 INE_espd: Desgaitasuna duten Pertsonen Soldataren Estatistika
 Eustat_ceit: Goi teknologiako sektorearen estatistika
-GE_Interior_egpr: Presoen Estatistika Orokorra
+GE_Interior_egpr: Presoen Estatistika
 Eustat_cempa: Biztanleriaren eta etxebizitzen errolda. Jarduera
 Eustat_ida: Urteko adierazle demografikoak
 Eustat_cepsp: Sektore publikoaren aurrekontuen estatistikak
 Eustat_cid: Ikerketa zientifikoko eta garapen teknologikoko jarduerei buruzko estatistika-I+G
 GE_Transicion_egfs: Baso-kudeaketa iraunkorrari buruzko estatistika
 GE_Transicion_tratar: Hiriko hondakin-uren tratamendua
-GE_Educacion_sinf: Unibertsitateaz kanpoko ikastetxeetako informazioaren eta komunikazioaren gizarteari buruzko estatistika
+GE_Educacion_sinf: Ikastetxeetako informazioaren eta komunikazioaren teknologiari buruzko estatistika
 BE_eap: Administrazio Publikoen estatistikak
-GE_Transicion_ecocirc: Ekonomia zirkularreko Espainiako estrategia, Espainia zirkularra 2030
+GE_Transicion_ecocirc: Ekonomia Zirkularraren Espainiako Estrategia eta Ekintza Planak
 EC_REG_eqi: European Quality of Government Index (EQI)
 INE_etr: Egoiliarren Turismo Inkesta (ETR-Familitur)
 INE_egatur: Turismo-gastuaren inkesta (EGATUR)
@@ -147,11 +147,11 @@ Eustat_indes: Egiturako adierazleak
 INE_ipc: Kontsumoko prezioen indizea
 TIE_incau: Autonomia Erkidegoen Gardentasun Indizea (INCAU)
 INE_epsc: Osasun arloko profesional elkargokideen estatistika
-GE_Hacienda_iart: Zerga-bilketaren urteko txostenak
+GE_Hacienda_iart: Zerga-bilketari buruzko urteko txostenak
 Eustat_egf: Familia-gastuaren inkesta
 Euskadi_Industria_ieca: Atmosferara igorritako kutsatzaileen inbentarioa
 Euskadi_Industria_gei: Berotegi-efektuko gasen inbentarioa
-Euskadi_Alimentacion_invfor: Baso Inbentarioa 
+Euskadi_Alimentacion_invfor: Basoen Inbentarioa 
 Euskadi_Lehendakaritza_sv: Euskal Soziometroa
 GE_Hacienda_lpca: Autonomia-erkidegoetako aurrekontuen likidazioa
 GE_Igualdad_mc: Emakumeak zenbakitan
@@ -163,7 +163,7 @@ ONU_sdg: SDG Global Database
 GE_Hacienda_pca: Autonomia-erkidegoen aurrekontuak
 GE_Hacienda_pel: Toki-erakundeen aurrekontuak
 Euskadi_Salud_pcszb: Bainu-eremuen osasun-kontrolerako programa
-Euskadi_Salud_ritox: Toxikomaniei buruzko informazioaren erregistroa
+Euskadi_Salud_ritox: Adikzioei buruzko informazio-sistema
 Euskadi_Salud_ris: Osasun Erregistroak eta Informazioa
 Euskadi_Salud_ekuis: Kontsumoko Uren Informazio Sistema (EKUIS)
 Euskadi_Economia_atep: Lan istripu eta lan gaixotasunen estatistika
@@ -171,128 +171,129 @@ GE_Economia_rie: Kanpo-inbertsioen erregistroa
 GE_Vivienda_siu: Hiri-informazioko sistema
 CNMC_tsa: Telekomunikazioak eta ikus-entzunezkoen sektorea
 GE_Interior_tesh: Gizakien salerosketa eta esplotazioa Espainian. Balantze estatistikoa
-Euskadi_Vivienda_udalplan: EAEko hirigintza-plangintzaren informazio geografikoko sistema (UDALPLAN)
+Euskadi_Vivienda_udalplan: EAEko hirigintza-plangintzaren informazio geografikokoaren sistema (UDALPLAN)
 CGPD_ejud: Estatistika Judiziala
 
 
 # URL
 
-BM_url: https://datos.bancomundial.org/
+BM_url: https://data.worldbank.org/
 OMS_url: https://www.who.int/data/gho/data/themes/air-pollution/household-air-pollution
-Geoeuskadi_url: https://www.geo.euskadi.eus/
-GE_Inclusion_ebcss_url: https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/c9bd51e5-79bc-44f2-9618-14d6094eb585
-Euskadi_Bienestar_esses_url: https://www.euskadi.eus/web01-a2inghon/es/contenidos/informacion/essec_oe/es_def/index.shtml
-Euskadi_Alimentacion_edgt_url: https://www.euskadi.eus/web01-a1estadi/es/
-Euskadi_Alimentacion_ricav_url: https://www.euskadi.eus/ricav-agroganaderia/web01-a2estadi/es/
+Geoeuskadi_url: https://www.geo.euskadi.eus/hasiera/
+GE_Inclusion_ebcss_url: https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/c9bd51e5-79bc-44f2-9618-14d6094eb585?changeLanguage=eu
+Euskadi_Bienestar_esses_url: https://www.euskadi.eus/web01-a2inghon/eu/contenidos/informacion/essec_oe/eu_def/index.shtml
+Euskadi_Alimentacion_edgt_url: https://www.euskadi.eus/eusko-jaurlaritza/estatistikak-nekazaritza-arrantza-elikagai-industria/hasiera/
+Euskadi_Alimentacion_ricav_url: https://www.euskadi.eus/nekazaritza-abeltzaintza-enkas/web01-a2estadi/eu/
 BE_bp_url: https://www.bde.es/webbe/es/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/capitulo-17.html
-GE_Territorial_bep_url: https://digital.gob.es
-GE_Sanidad_cach_url: https://www.miteco.gob.es/es/agua/temas/estado-y-calidad-de-las-aguas/aguas-superficiales/programas-seguimiento/control-adiciona-zonas-protegidas-abastecimientos.html
-Eustat_ceme_url: https://www.eustat.eus/estadisticas/tema_271/opt_1/tipo_15/temas.html
-Eustat_cepv_url: https://www.eustat.eus/estadisticas/tema_25/opt_1/ti_censos-de-poblacion-y-viviendas/temas.html
+GE_Territorial_bep_url: https://digital.gob.es/eu/inicio
+GE_Sanidad_cach_url: https://www.miteco.gob.es/eu/agua/temas/estado-y-calidad-de-las-aguas/aguas-superficiales/programas-seguimiento/control-adiciona-zonas-protegidas-abastecimientos.html
+Eustat_ceme_url: https://eu.eustat.eus/estadisticas/tema_271/opt_1/tipo_15/temas.html
+Eustat_cepv_url: https://eu.eustat.eus/estadisticas/tema_25/opt_1/temas.html
 GE_Transformacion_cba_url: https://avancedigital.mineco.gob.es/banda-ancha/cobertura/consulta/Paginas/consulta-cobertura-banda-ancha.aspx
-Eustat_cedu_url: https://www.eustat.eus/estadisticas/tema_302/opt_0/ti_cuenta-de-la-educacion/temas.html 
-Eustat_ceap_url: https://www.eustat.eus/estadisticas/tema_149/opt_1/ti_cuentas-de-las-administraciones-publicas/temas.html
-Eustat_cseepros_url: https://www.eustat.eus/estadisticas/tema_94/opt_0/ti_cuenta-de-la-proteccion-social/temas.html
-Eustat_ccs_url: https://www.eustat.eus/estadisticas/tema_121/opt_0/ti_cuenta-de-la-salud/temas.html
-Eustat_ccst_url: https://www.eustat.eus/estadisticas/tema_220/opt_0/ti_cuenta-satelite-del-turismo/temas.html
-Eustat_cpib_url: https://www.eustat.eus/estadisticas/tema_10/opt_1/ti_cuentas-economicas/temas.html
-Eustat_ceav_url: https://www.eustat.eus/estadisticas/tema_190/opt_1/ti_cuentas-economicas-de-las-administraciones-vascas/temas.html
-Eustat_cpibmun_url: https://www.eustat.eus/estadisticas/tema_489/opt_0/ti_pib-municipal/temas.html
-Euskadi_Industria_dener_url: https://eve.eus/Conoce-la-Energia/La-energia-en-Euskadi/Publicaciones?lang=es-es
-Euskadi_Bienestar_essas_url: https://www.eustat.eus/estadisticas/tema_87/opt_1/ti_estadistica-de-servicios-sociales-y-accion-social/temas.html
-Eustat_epb_url: https://www.eustat.eus/estadisticas/tema_632/opt_1/ti_encuesta-de-bienestar-personal/temas.html
+Eustat_cedu_url: https://eu.eustat.eus/estadisticas/tema_302/opt_0/temas.html 
+Eustat_ceap_url: https://eu.eustat.eus/estadisticas/tema_149/opt_1/temas.html
+Eustat_cseepros_url: https://eu.eustat.eus/estadisticas/tema_94/opt_0/temas.html
+Eustat_ccs_url: https://eu.eustat.eus/estadisticas/tema_121/opt_0/temas.html
+Eustat_ccst_url: https://eu.eustat.eus/estadisticas/tema_221/opt_0/temas.html
+Eustat_cpib_url: https://eu.eustat.eus/estadisticas/tema_10/opt_1/temas.html
+Eustat_ceav_url: https://eu.eustat.eus/estadisticas/tema_190/opt_1/temas.html
+Eustat_cpibmun_url: https://eu.eustat.eus/estadisticas/tema_489/opt_0/temas.html
+Euskadi_Industria_dener_url: https://eve.eus/Conoce-la-Energia/La-energia-en-Euskadi/Publicaciones?lang=eu-es
+Euskadi_Bienestar_essas_url: https://eu.eustat.eus/estadisticas/tema_87/opt_1/temas.html
+Eustat_epb_url: https://eu.eustat.eus/estadisticas/tema_632/opt_1/temas.html
 BE_ecf_url: https://www.bde.es/wbe/es/publicaciones/analisis-economico-investigacion/encuesta-de-competencias-financieras/
 INE_ecv_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176807&menu=ultiDatos&idp=1254735976608
-Eustat_ecv_url: https://www.eustat.eus/estadisticas/tema_76/opt_1/ti_encuesta-de-condiciones-de-vida/temas.html
+Eustat_ecv_url: https://eu.eustat.eus/estadisticas/tema_76/opt_1/temas.html
 INE_eaes_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177025&menu=ultiDatos&idp=1254735976596
 INE_eesal_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177025&menu=ultiDatos&idp=1254735976596
 INE_efec_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177006&menu=ultiDatos&idp=1254735573002
-Eustat_cegf_url: https://www.eustat.eus/estadisticas/tema_237/opt_1/ti_encuesta-de-gasto-familiar/temas.html
-Eustat_cemaf_url: https://www.eustat.eus/estadisticas/tema_217/opt_1/ti_encuesta-de-medio-ambiente---familias/temas.html
-Eustat_iig_url: https://www.eustat.eus/estadisticas/tema_515/opt_0/ti_indice-de-igualdad-de-genero/temas.html
-Eustat_emh_url: https://www.eustat.eus/estadisticas/tema_268/opt_1/ti_censo-de-poblacion-y-viviendas-estructura-de-la-poblacion/temas.html
-Eustat_pra_url: https://es.eustat.eus/estadisticas/tema_57/opt_1/ti_encuesta-de-poblacion-en-relacion-con-la-actividad/temas.html
-Euskadi_Bienestar_epds_url: https://www.euskadi.eus/encuesta-de-pobreza-y-desigualdades-sociales-epds/web01-s2enple/es/
-Eustat_ept_url: https://www.eustat.eus/estadisticas/tema_77/opt_1/ti_encuesta-de-presupuestos-de-tiempo/temas.html
-Euskadi_Salud_escav_url: https://www.euskadi.eus/encuesta-salud/inicio/
-INE_ees_url: "https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176784&menu=resultados&idp=1254735573175"
-INE_ense_url: "https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176783&menu=resultados&idp=1254735573175"
-Eustat_cindus_url: https://www.eustat.eus/estadisticas/tema_112/opt_1/ti_encuesta-industrial/temas.html
-Eustat_ceea_url: https://www.eustat.eus/estadisticas/tema_92/opt_1/ti_encuesta-sobre-la-estructura-de-las-explotaciones-agrarias/temas.html
-Eustat_cca_url: https://www.eustat.eus/estadisticas/tema_260/opt_1/ti_censo-agrario/temas.html
+Eustat_cegf_url: https://eu.eustat.eus/estadisticas/tema_237/opt_1/temas.html
+Eustat_cemaf_url: https://eu.eustat.eus/estadisticas/tema_217/opt_1/temas.html
+Eustat_iig_url: https://eu.eustat.eus/estadisticas/tema_515/opt_0/temas.html
+Eustat_emh_url: https://eu.eustat.eus/estadisticas/tema_268/opt_1/temas.html
+Eustat_pra_url: https://eu.eustat.eus/estadisticas/tema_57/opt_1/temas.html
+Euskadi_Bienestar_epds_url: https://www.euskadi.eus/pobreziaren-eta-gizarte-desparekotasunei-buruzko-inkesta-pgdi/web01-s2enple/eu/
+Eustat_ept_url: https://eu.eustat.eus/estadisticas/tema_77/opt_1/temas.html
+Euskadi_Salud_escav_url: https://www.euskadi.eus/osasun-inkesta/hasiera/
+INE_ees_url: "https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176784&menu=resultados&idp=1254735573175#_tabs-1254736195745"
+INE_ense_url: "https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176783&menu=resultados&idp=1254735573175#_tabs-1254736195650"
+Eustat_cindus_url: https://eu.eustat.eus/estadisticas/tema_112/opt_1/temas.html
+Eustat_ceea_url: https://eu.eustat.eus/estadisticas/tema_92/opt_1/temas.html
+Eustat_cca_url: https://eu.eustat.eus/estadisticas/tema_260/opt_1/temas.html
 INE_eada_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176759&menu=ultiDatos&idp=1254735573113
-Eustat_cesif_url: https://www.eustat.eus/estadisticas/tema_15/opt_1/ti_encuesta-sobre-la-sociedad-de-la-informacion-familias/temas.html
-BE_efc_url: https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/relacionados/entidades/guia-textual/tiposentidadesso/Establecimientos-financieros-de-credito.html
-GE_Exteriores_aod_url: https://www.aecid.es/la-aecid/en-cifras#:~:text=La%20Ayuda%20Oficial%20al%20Desarrollo,gestion%C3%B3%20307%20millones%20de%20euros.
-Euskadi_Industria_ecair_url: https://www.euskadi.eus/web01-s2ekono/es/contenidos/informacion/estatistika_ing_090203/es_def/index.shtml
-Euskadi_Industria_ecagua_url: https://www.euskadi.eus/informacion/estadistica-de-consumo-del-agua-090215/web01-s2ing/es/
-Eustat_edef_url: https://www.eustat.eus/estadisticas/tema_28/opt_0/tipo_1/ti_defunciones/temas.html
-GE_Sanidad_edo_url: https://cne.isciii.es/es/servicios/departamento-enfermedades-transmisibles/enfermedades-a-z
+Eustat_cesif_url: https://eu.eustat.eus/estadisticas/tema_15/opt_1/temas.html
+BE_efc_url: https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/relacionados/entidades/guia-textual/tiposentidadesso/Establecimiento_00f96c8a0a53d51.html
+GE_Exteriores_aod_url: https://www.aecid.es/la-aecid/en-cifras#:~:text=La%20Ayuda%20Oficial%20al%20Desarrollo,gestion%C3%B3%20307%20millones%20de%20euros
+Euskadi_Industria_ecair_url: https://www.euskadi.eus/informazioa/atmosfera-kutsaduraren-estatistika-090203/web01-s2ekono/eu/
+Euskadi_Industria_ecagua_url: https://www.euskadi.eus/informazioa/ur-kontsumoaren-estatistika-090215/web01-s2ing/eu/
+Eustat_edef_url: https://eu.eustat.eus/estadisticas/tema_28/opt_0/tipo_1/temas.html
+GE_Sanidad_edo_url: https://cne.isciii.es/en/services/department-of-communicable-diseases/diseases-a-z
 GE_Cultura_efgpc_url: https://www.cultura.gob.es/servicios-al-ciudadano/estadisticas/cultura/mc/culturabase/gasto-publico/resultados-gasto-publico.html
-Euskadi_Industria_fm_url: https://www.euskadi.eus/informacion/estadistica-de-flujo-de-materiales-090217/web01-s2ing/es/
-Euskadi_Industria_ind_url: https://www.euskadi.eus/informacion/indicadores-ambientales-090207/web01-a2inguru/es/
-Eustat_ceens_url: https://www.eustat.eus/estadisticas/tema_68/opt_1/ti_estadistica-de-la-actividad-escolar/temas.html
-Euskadi_Industria_cma_url: https://www.euskadi.eus/informacion/estadistica-de-calidad-de-las-masas-de-aguas-090214/web01-s2ing/es/
-Ekolurra_epe_url: https://www.euskadi.eus/produccion-ecologica/web01-a2estadi/es/
-GE_Agricultura_esyrce_url: https://www.mapa.gob.es/es/estadistica/temas/estadisticas-agrarias/agricultura/esyrce/
-GE_Agricultura_recan_url: https://www.mapa.gob.es/es/estadistica/temas/estadisticas-agrarias/economia/red-contable-recan/
-Eustat_emat_url: https://www.eustat.eus/estadisticas/tema_50/opt_1/tipo_1/ti_estadistica-de-matrimonios/temas.html
-Eustat_cemm_url: https://www.eustat.eus/estadisticas/tema_30/opt_0/ti_movimientos-migratorios/temas.html
-Eustat_enac_url: https://es.eustat.eus/estadisticas/tema_48/opt_1/ti_estadistica-de-nacimientos/temas.html
-GE_Interior_pint_url: https://datos.gob.es/es/catalogo/e00003801-estadistica-de-poblacion-extranjera-solicitante-de-proteccion-internacional-refugiados-beneficiarios-de-proteccion-subsidiaria-desplazados-y-apatridas-2020-anuario-estadistico-del-ministerio-del-interior
-Eustat_rpf_url: https://www.eustat.eus/estadisticas/tema_395/opt_0/ti_renta-personal-y-familiar/temas.html
-Euskadi_Industria_rp_url: https://www.euskadi.eus/informacion/estadistica-de-residuos-peligrosos-090209/web01-a2inghon/es/
-Euskadi_Industria_ru_url: https://www.euskadi.eus/informacion/estadistica-de-residuos-solidos-urbanos-090218/web01-a2inghon/es/
-Consorcio_ere_url: https://www.consorseguros.es/noticias/-/asset_publisher/ya2OdYGgbjgX/content/publicacion-de-la-estadistica-de-riesgos-extraordinarios-1971-2023-
+Euskadi_Industria_fm_url: https://www.euskadi.eus/informazioa/materialen-fluxuaren-estatistika-090217/web01-s2ing/eu/
+Euskadi_Industria_ind_url: https://www.euskadi.eus/informazioa/ingurumen-adierazleak-090207/web01-a2inguru/eu/
+Eustat_ceens_url: https://eu.eustat.eus/estadisticas/tema_68/opt_1/temas.html
+Euskadi_Industria_cma_url: https://www.euskadi.eus/informazioa/ur-masen-kalitatearen-estatistika-090214/web01-s2ing/eu/
+Ekolurra_epe_url: https://www.euskadi.eus/ekoizpen-ekologikoa/web01-a2estadi/eu/
+GE_Agricultura_esyrce_url: https://www.mapa.gob.es/eu/estadistica/temas/estadisticas-agrarias/agricultura/esyrce/
+GE_Agricultura_recan_url: https://www.mapa.gob.es/eu/estadistica/temas/estadisticas-agrarias/economia/red-contable-recan/
+Eustat_emat_url: https://eu.eustat.eus/estadisticas/tema_50/opt_1/tipo_1/temas.html
+Eustat_cemm_url: https://eu.eustat.eus/estadisticas/tema_30/opt_0/temas.html
+Eustat_enac_url: https://eu.eustat.eus/estadisticas/tema_48/opt_1/temas.html
+GE_Interior_pint_url: https://datos.gob.es/eu/catalogo/e00003801-estadistica-de-poblacion-extranjera-solicitante-de-proteccion-internacional-refugiados-beneficiarios-de-proteccion-subsidiaria-desplazados-y-apatridas-2020-anuario-estadistico-del-ministerio-del-interior
+Eustat_rpf_url: https://eu.eustat.eus/estadisticas/tema_395/opt_0/temas.html
+Euskadi_Industria_rp_url: https://www.euskadi.eus/informazioa/hondakin-arriskutsuen-estatistika-090209/web01-a2inghon/eu/
+Euskadi_Industria_ru_url: https://www.euskadi.eus/informazioa/hiri-hondakin-solidoen-estatistika-090218/web01-a2inghon/eu/
+Consorcio_ere_url: https://www.consorseguros.es/eu/la-entidad/publicaciones
 GE_Sanidad_evs_url: https://pestadistico.inteligenciadegestion.sanidad.gob.es/publicoSNS/S/sivamin
-Euskadi_Seguridad_evcm_url: https://www.eustat.eus/estadisticas/tema_292/opt_2/tipo_10/ti_violencia-contra-las-mujeres/temas.html
-Euskadi_Seguridad_ed_url: https://www.ertzaintza.euskadi.eus/lfr/web/ertzaintza/estadisticas-delictivas
+Euskadi_Seguridad_evcm_url: https://eu.eustat.eus/estadisticas/tema_292/opt_2/tipo_10/temas.html
+Euskadi_Seguridad_ed_url: https://www.ertzaintza.euskadi.eus/lfr/eu/web/ertzaintza/estadisticas-delictivas
 INE_eepd_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736055502&menu=resultados&idp=1254735976595
 INE_espd_url: https://www.ine.es/dynt3/inebase/es/index.htm?padre=9494
-Eustat_ceit_url: https://www.eustat.eus/estadisticas/tema_652/opt_1/ti_estadistica-del-sector-de-alta-tecnologia/temas.html
+Eustat_ceit_url: https://eu.eustat.eus/estadisticas/tema_652/opt_1/temas.html
 GE_Interior_egpr_url: https://www.interior.gob.es/opencms/es/archivos-y-documentacion/documentacion-y-publicaciones/anuarios-y-estadisticas/estadisticas-del-ministerio-del-interior/
 GE_Interior_esap_url: https://www.interior.gob.es/opencms/es/archivos-y-documentacion/documentacion-y-publicaciones/anuarios-y-estadisticas/estadisticas-del-ministerio-del-interior/
-Eustat_cempa_url: https://www.eustat.eus/estadisticas/tema_276/opt_1/ti_censo-de-poblacion-y-viviendas-actividad/temas.html
-Eustat_cid_url: https://www.eustat.eus/estadisticas/tema_179/opt_0/ti_estadistica-sobre-actividades-de-investigacion-cientifica-y-desarrollo-tecnologico-id/temas.html
-GE_Transicion_egfs_url: https://www.miteco.gob.es/es/ministerio/servicios/estadisticas/estadisticas-forestales/estadistica-sobre-gestion-forestal-sostenible.html
-GE_Transicion_tratar_url: https://www.miteco.gob.es/es/agua/temas/saneamiento-depuracion.html
-GE_Educacion_sinf_url: https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/no-universitaria/centros/sice.html
+Eustat_cempa_url: https://en.eustat.eus/estadisticas/tema_276/opt_1/temas.html
+Eustat_cid_url: https://eu.eustat.eus/estadisticas/tema_179/opt_0/temas.html
+GE_Transicion_egfs_url: https://www.miteco.gob.es/eu/ministerio/servicios/estadisticas/estadisticas-forestales/estadistica-sobre-gestion-forestal-sostenible.html
+GE_Transicion_tratar_url: https://www.miteco.gob.es/eu/agua/temas/saneamiento-depuracion.html
+GE_Educacion_sinf_url: https://www.educacionfpydeportes.gob.es/eu/servicios-al-ciudadano/estadisticas/no-universitaria/centros/tic.html
 BE_eap_url: https://www.bde.es/webbe/es/estadisticas/temas/administraciones-publicas.html
-Eustat_cepsp_url: https://www.eustat.eus/estadisticas/tema_151/opt_1/ti_estadisticas-presupuestarias-del-sector-publico/temas.html
-GE_Transicion_ecocirc_url: https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/economia-circular/estrategia.html
+Eustat_cepsp_url: https://eu.eustat.eus/estadisticas/tema_151/opt_1/temas.html
+GE_Transicion_ecocirc_url: https://www.miteco.gob.es/eu/calidad-y-evaluacion-ambiental/temas/economia-circular/estrategia.html
 EC_REG_eqi_url: https://ec.europa.eu/regional_policy/information-sources/maps/quality-of-government_en
 INE_etr_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176990&idp=1254735576863
 INE_egatur_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177002&menu=ultiDatos&idp=1254735576863
-Eustat_indes_url: https://www.eustat.eus/indic/indicadoresEstruc.html
+Eustat_indes_url: https://eu.eustat.eus/indicadores/indicadoresEstruc.html
 INE_ipc_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176802&menu=ultiDatos&idp=1254735976607
 TIE_incau_url: https://transparencia.org.es/
 INE_epsc_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176781&idp=1254735573175
-GE_Hacienda_iart_url: https://sede.agenciatributaria.gob.es/Sede/datosabiertos/catalogo/hacienda/Informes_anuales_de_Recaudacion_Tributaria.shtml
-Eustat_egf_url: https://www.eustat.eus/estadisticas/tema_237/opt_1/ti_encuesta-de-gasto-familiar/temas.html
-Euskadi_Industria_ieca_url: https://www.euskadi.eus/web01-s2ekono/es/contenidos/informacion/estatistika_ing_090226/es_def/index.shtml
-Euskadi_Industria_gei_url: https://www.euskadi.eus/informacion/inventario-de-gases-de-efecto-invernadero-090205/web01-a2ingair/es/
-Euskadi_Alimentacion_invfor_url: https://www.euskadi.eus/gobierno-vasco/-/informacion/inventarios-forestales/ 
-Euskadi_Lehendakaritza_sv_url: https://www.euskadi.eus/sociometros-vascos/web01-s1lehike/es/
-GE_Hacienda_lpca_url: https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Financiacion%20Autonomica/Paginas/DatosPresupuestarios.aspx
-GE_Igualdad_mc_url: https://www.inmujeres.gob.es/MujerCifras/Home.htm
-Euskadi_Movilidad_oteus_url: https://www.euskadi.eus/oteus-home/web01-a1oteusn/es/ 
+GE_Hacienda_iart_url: https://sede.agenciatributaria.gob.es/Sede/eu_es/datosabiertos/catalogo/hacienda/Informes_anuales_de_Recaudacion_Tributaria.shtml
+Eustat_egf_url: https://eu.eustat.eus/estadisticas/tema_237/opt_1/temas.html
+Euskadi_Industria_ieca_url: https://www.euskadi.eus/web01-s2ekono/eu/contenidos/informacion/estatistika_ing_090226/eu_def/index.shtml
+Euskadi_Industria_gei_url: https://www.euskadi.eus/informazioa/berotegi-efektuko-gasen-inbentarioa-090205/web01-a2ingair/eu/
+Euskadi_Alimentacion_invfor_url: https://www.euskadi.eus/eusko-jaurlaritza/-/informazioa/baso-inbentarioak/ 
+Euskadi_Lehendakaritza_sv_url: https://www.euskadi.eus/euskal-soziometroak/web01-s1lehike/eu/
+GE_Hacienda_lpca_url: https://www.hacienda.gob.es/eu-ES/Areas%20Tematicas/Financiacion%20Autonomica/Paginas/DatosPresupuestarios.aspx
+GE_Igualdad_mc_url: https://www.inmujeres.gob.es/eu/MujerCifras/Home.htm
+Euskadi_Movilidad_oteus_url: https://www.euskadi.eus/oteus-home-eu/web01-a1oteusn/eu/
 CIS_oppf_url: https://www.cis.es/catalogo-estudios/avance-resultados
 OCDE_pisa_url: https://www.oecd.org/en/about/programmes/pisa.html
 OCDE_piaac_url: https://www.oecd.org/en/about/programmes/piaac.html
 ONU_sdg_url: https://unstats.un.org/sdgs/dataportal
-GE_Hacienda_pca_url: https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Financiacion%20Autonomica/Paginas/DatosPresupuestarios.aspx
-GE_Hacienda_pel_url: https://www.hacienda.gob.es/es-ES/CDI/Paginas/InformacionPresupuestaria/InformacionCCLLs/Presupuestos_EELL.aspx
-Euskadi_Salud_pcszb_url: https://www.euskadi.eus/aguas-bano/inicio/
-Euskadi_Salud_ritox_url: https://www.euskadi.eus/informacion/sistema-de-informacion-de-toxicomanias/web01-a3regepi/es/
-Euskadi_Salud_ekuis_url: https://beta.euskadi.eus/informacion/el-abastecimiento-de-agua-en-la-capv/web01-a3aguas/es/
-Eustat_ida_url: https://www.eustat.eus/estadisticas/tema_169/opt_0/ti_indicadores-demograficos-anuales/temas.html
-Euskadi_Economia_atep_url: https://www.euskadi.eus/informazioa/lan-istripu-eta-lan-gaixotasunen-estadistika/web01-s2lanju/eu/
-GE_Economia_rie_url: https://comercio.gob.es/es-es/inversiones_exteriores/Paginas/default.aspx
+GE_Hacienda_pca_url: https://www.hacienda.gob.es/eu-ES/Areas%20Tematicas/Financiacion%20Autonomica/Paginas/DatosPresupuestarios.aspx
+GE_Hacienda_pel_url: https://www.hacienda.gob.es/eu-ES/CDI/Paginas/InformacionPresupuestaria/InformacionCCLLs/Presupuestos_EELL.aspx
+Euskadi_Salud_pcszb_url: https://www.euskadi.eus/bainu-urak/hasiera/
+Euskadi_Salud_ritox_url: https://www.euskadi.eus/informazioa/toxikomaniei-buruzko-informazio-sistema/web01-a3regepi/eu/
+Euskadi_Salud_ekuis_url: https://beta.euskadi.eus/informazioa/ehaeko-ur-horniketa/web01-a3aguas/eu/
+Eustat_ida_url: https://eu.eustat.eus/estadisticas/tema_169/opt_0/temas.html
+Euskadi_Ekonomia_atep_url: https://www.euskadi.eus/informazioa/lan-istripu-eta-lan-gaixotasunen-estadistika/web01-s2lanju/eu/
+GE_Economia_rie_url: https://comercio.gob.es/eu-es/inversiones_exteriores/paginas/default.aspx
 GE_Vivienda_siu_url: https://www.mivau.gob.es/urbanismo-y-suelo/sistema-de-informacion-urbana
 CNMC_tsa_url: https://data.cnmc.es/telecomunicaciones-y-sector-audiovisual
-GE_Interior_tesh_url: https://www.interior.gob.es/opencms/es/servicios-al-ciudadano/trata/situacion-en-espana/
-Euskadi_Vivienda_udalplan_url: https://www.euskadi.eus/udalplan_es/web01-a2lurral/es/
-CGPD_ejud_url: https://www.poderjudicial.es/cgpj/es/Temas/Estadistica-Judicial/
+GE_Interior_tesh_url: https://www.interior.gob.es/opencms/eu/servicios-al-ciudadano/trata/situacion-en-espana/
+Euskadi_Vivienda_udalplan_url: https://www.euskadi.eus/udalplan_eu/web01-a2lurral/eu/
+CGPD_ejud_url: https://www.poderjudicial.es/portal/site/cgpj/menuitem.5eba20fd90ee79c47405fa65655a4ea0/?vgnextoid=9dccd1a4dc1c3510VgnVCM1000006f48ac0aRCRD&vgnextfmt=default&vgnextlocale=eu&lang_choosen=eu
+
 
 
 
