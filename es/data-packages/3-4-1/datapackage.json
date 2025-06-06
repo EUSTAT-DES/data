@@ -93,7 +93,7 @@
             "constraints": {
               "enum": [
                 "Por 100.000 habitantes",
-                "Porcentaje",
+                "%",
                 ""
               ]
             },

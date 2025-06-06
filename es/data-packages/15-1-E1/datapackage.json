@@ -49,7 +49,7 @@
             "constraints": {
               "enum": [
                 "Kilómetros cuadrados",
-                "Porcentaje",
+                "%",
                 ""
               ]
             },

@@ -36,7 +36,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -94,7 +94,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -141,7 +141,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 "Millones de euros",
                 ""
               ]
@@ -677,7 +677,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -796,7 +796,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -831,7 +831,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -925,7 +925,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -973,7 +973,7 @@
             "constraints": {
               "enum": [
                 "Millones de euros",
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -1128,7 +1128,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -1175,7 +1175,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -1221,7 +1221,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -1280,7 +1280,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -1631,7 +1631,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -1682,7 +1682,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -1742,7 +1742,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -1799,7 +1799,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -1878,7 +1878,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -2265,7 +2265,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -2341,7 +2341,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -2786,7 +2786,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 "Puntos porcentuales",
                 ""
               ]
@@ -2856,7 +2856,7 @@
             "constraints": {
               "enum": [
                 "Kilómetros cuadrados",
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -2931,7 +2931,7 @@
             "constraints": {
               "enum": [
                 "Kg per cápita",
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -3911,7 +3911,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -3966,7 +3966,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -4061,7 +4061,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -4154,7 +4154,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -4214,7 +4214,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -4260,7 +4260,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -4295,7 +4295,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -4330,7 +4330,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -4545,7 +4545,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -4593,7 +4593,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -4628,7 +4628,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -4781,7 +4781,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -4853,7 +4853,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -4912,7 +4912,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -4959,7 +4959,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -4994,7 +4994,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -5077,7 +5077,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -5147,7 +5147,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -5195,7 +5195,7 @@
             "constraints": {
               "enum": [
                 "Hectáreas",
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -5254,7 +5254,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -5339,7 +5339,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -5400,7 +5400,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -5447,7 +5447,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -5533,7 +5533,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -5580,7 +5580,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -5628,7 +5628,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -5663,7 +5663,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -5711,7 +5711,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -5825,7 +5825,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -5871,7 +5871,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -6340,7 +6340,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -6375,7 +6375,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -6423,7 +6423,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -6482,7 +6482,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -6577,7 +6577,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -6641,7 +6641,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -6732,7 +6732,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -6779,7 +6779,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -6828,7 +6828,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -7180,7 +7180,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -7331,7 +7331,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -7471,7 +7471,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -7524,7 +7524,7 @@
                 "Toneladas de CO2 - equivalente",
                 "Kg de CO2 equivalente por euro de PIB",
                 "Toneladas de CO2 equivalente per cápita",
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -7874,7 +7874,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -8315,7 +8315,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -8402,7 +8402,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -8437,7 +8437,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -8484,7 +8484,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -8565,7 +8565,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -8625,7 +8625,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 "Euro per cápita",
                 ""
               ]
@@ -8661,7 +8661,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -9001,7 +9001,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -9078,7 +9078,7 @@
             "constraints": {
               "enum": [
                 "Euros",
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -9126,7 +9126,7 @@
             "constraints": {
               "enum": [
                 "Hectáreas",
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -9820,7 +9820,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -10313,7 +10313,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -10348,7 +10348,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -10383,7 +10383,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -10431,7 +10431,7 @@
             "constraints": {
               "enum": [
                 "Millones de euros",
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -10479,7 +10479,7 @@
             "constraints": {
               "enum": [
                 "Millones de euros",
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -10670,7 +10670,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -10718,7 +10718,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -10911,7 +10911,7 @@
             "constraints": {
               "enum": [
                 "Kg per cápita",
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -11030,7 +11030,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -11078,7 +11078,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -11185,7 +11185,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -11603,7 +11603,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -11651,7 +11651,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -11686,7 +11686,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -11733,7 +11733,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -12443,7 +12443,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -12542,7 +12542,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -12601,7 +12601,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -12661,7 +12661,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -12707,7 +12707,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -12921,7 +12921,7 @@
             "constraints": {
               "enum": [
                 "Por 100.000 habitantes",
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -12974,7 +12974,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -13009,7 +13009,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -13056,7 +13056,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -13296,7 +13296,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -13416,7 +13416,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -13464,7 +13464,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },
@@ -13609,7 +13609,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },

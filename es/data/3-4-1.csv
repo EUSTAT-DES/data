@@ -1,7 +1,7 @@
 Year,Series,Enfermedad no transmisible,Sexo,Territorio histórico,Comarca,Municipio,Units,GeoCode,Value
 2023,Tasa de mortalidad,Diabetes,,,,,Por 100.000 habitantes,,21.7
 2015,Tasa de mortalidad,Cáncer,,,,,Por 100.000 habitantes,,284.0
-2019,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",,,,,Porcentaje,,9.6
+2019,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",,,,,%,,9.6
 2023,Tasa de mortalidad,"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",,,,,Por 100.000 habitantes,,612.8
 2020,Tasa de mortalidad,Enfermedades cardiovasculares,,,,,Por 100.000 habitantes,,255.5
 2019,Tasa de mortalidad,Enfermedades cardiovasculares,,,,,Por 100.000 habitantes,,256.3
@@ -42,9 +42,9 @@ Year,Series,Enfermedad no transmisible,Sexo,Territorio histórico,Comarca,Munici
 2012,Tasa de mortalidad,Enfermedades cardiovasculares,,,,,Por 100.000 habitantes,,263.2
 2021,Tasa de mortalidad,Cáncer,,,,,Por 100.000 habitantes,,276.7
 2018,Tasa de mortalidad,Enfermedades cardiovasculares,,,,,Por 100.000 habitantes,,265.0
-2015,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",,,,,Porcentaje,,10.3
+2015,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",,,,,%,,10.3
 2015,Tasa de mortalidad,Diabetes,,,,,Por 100.000 habitantes,,22.2
-2010,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",,,,,Porcentaje,,11.0
+2010,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",,,,,%,,11.0
 2018,Tasa de mortalidad,Enfermedades respiratorias crónicas,,,,,Por 100.000 habitantes,,81.7
 2013,Tasa de mortalidad,"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",,,,,Por 100.000 habitantes,,613.0
 2013,Tasa de mortalidad,Diabetes,,,,,Por 100.000 habitantes,,23.2
@@ -296,7 +296,7 @@ Year,Series,Enfermedad no transmisible,Sexo,Territorio histórico,Comarca,Munici
 2022,Tasa de mortalidad,Cáncer,Mujer,,,,Por 100.000 habitantes,,228.0
 2010,Tasa de mortalidad,Enfermedades cardiovasculares,Mujer,,,,Por 100.000 habitantes,,262.6
 2011,Tasa de mortalidad,Diabetes,Mujer,,,,Por 100.000 habitantes,,24.5
-2019,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Mujer,,,,Porcentaje,,6.5
+2019,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Mujer,,,,%,,6.5
 2020,Tasa de mortalidad,"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Mujer,,,,Por 100.000 habitantes,,550.5
 2010,Tasa de mortalidad,Cáncer,Mujer,,,,Por 100.000 habitantes,,195.2
 2014,Tasa de mortalidad,"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Mujer,,,,Por 100.000 habitantes,,556.0
@@ -305,7 +305,7 @@ Year,Series,Enfermedad no transmisible,Sexo,Territorio histórico,Comarca,Munici
 2012,Tasa de mortalidad,Enfermedades cardiovasculares,Mujer,,,,Por 100.000 habitantes,,275.6
 2013,Tasa de mortalidad,"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Mujer,,,,Por 100.000 habitantes,,538.5
 2021,Tasa de mortalidad,Diabetes,Mujer,,,,Por 100.000 habitantes,,23.1
-2015,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Mujer,,,,Porcentaje,,6.6
+2015,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Mujer,,,,%,,6.6
 2013,Tasa de mortalidad,Enfermedades cardiovasculares,Mujer,,,,Por 100.000 habitantes,,252.4
 2014,Tasa de mortalidad,Diabetes,Mujer,,,,Por 100.000 habitantes,,22.4
 2019,Tasa de mortalidad,"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Mujer,,,,Por 100.000 habitantes,,567.0
@@ -322,7 +322,7 @@ Year,Series,Enfermedad no transmisible,Sexo,Territorio histórico,Comarca,Munici
 2017,Tasa de mortalidad,Diabetes,Mujer,,,,Por 100.000 habitantes,,18.5
 2022,Tasa de mortalidad,"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Mujer,,,,Por 100.000 habitantes,,573.5
 2021,Tasa de mortalidad,"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Mujer,,,,Por 100.000 habitantes,,566.5
-2010,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Mujer,,,,Porcentaje,,6.7
+2010,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Mujer,,,,%,,6.7
 2012,Tasa de mortalidad,Enfermedades respiratorias crónicas,Mujer,,,,Por 100.000 habitantes,,60.5
 2016,Tasa de mortalidad,"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Mujer,,,,Por 100.000 habitantes,,572.1
 2018,Tasa de mortalidad,"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Mujer,,,,Por 100.000 habitantes,,580.4
@@ -612,12 +612,12 @@ Year,Series,Enfermedad no transmisible,Sexo,Territorio histórico,Comarca,Munici
 2010,Tasa de mortalidad,Cáncer,Hombre,,,,Por 100.000 habitantes,,343.2
 2013,Tasa de mortalidad,Cáncer,Hombre,,,,Por 100.000 habitantes,,348.9
 2012,Tasa de mortalidad,Enfermedades cardiovasculares,Hombre,,,,Por 100.000 habitantes,,249.9
-2015,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Hombre,,,,Porcentaje,,14.0
+2015,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Hombre,,,,%,,14.0
 2016,Tasa de mortalidad,"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Hombre,,,,Por 100.000 habitantes,,714.0
 2020,Tasa de mortalidad,Enfermedades cardiovasculares,Hombre,,,,Por 100.000 habitantes,,243.3
 2014,Tasa de mortalidad,Enfermedades respiratorias crónicas,Hombre,,,,Por 100.000 habitantes,,77.9
 2021,Tasa de mortalidad,Enfermedades cardiovasculares,Hombre,,,,Por 100.000 habitantes,,260.7
-2019,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Hombre,,,,Porcentaje,,12.8
+2019,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Hombre,,,,%,,12.8
 2015,Tasa de mortalidad,Cáncer,Hombre,,,,Por 100.000 habitantes,,353.1
 2019,Tasa de mortalidad,Diabetes,Hombre,,,,Por 100.000 habitantes,,18.4
 2010,Tasa de mortalidad,Diabetes,Hombre,,,,Por 100.000 habitantes,,20.9
@@ -628,7 +628,7 @@ Year,Series,Enfermedad no transmisible,Sexo,Territorio histórico,Comarca,Munici
 2022,Tasa de mortalidad,Enfermedades respiratorias crónicas,Hombre,,,,Por 100.000 habitantes,,67.2
 2022,Tasa de mortalidad,Cáncer,Hombre,,,,Por 100.000 habitantes,,340.1
 2013,Tasa de mortalidad,"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Hombre,,,,Por 100.000 habitantes,,691.4
-2010,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Hombre,,,,Porcentaje,,15.4
+2010,Tasa de mortalidad prematura (entre 30 y 70 años),"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",Hombre,,,,%,,15.4
 2013,Tasa de mortalidad,Enfermedades cardiovasculares,Hombre,,,,Por 100.000 habitantes,,244.5
 2013,Tasa de mortalidad,Enfermedades respiratorias crónicas,Hombre,,,,Por 100.000 habitantes,,78.8
 2019,Tasa de mortalidad,Cáncer,Hombre,,,,Por 100.000 habitantes,,343.8
