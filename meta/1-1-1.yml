@@ -32,13 +32,13 @@ periodicidad: FUENTE.FREQ_A2
 
 observaciones: >- 
 
-  Etxearen tamainan eta osaeran dauden desberdintasunen eragina kontuan hartzeko, 
-  etxeko diru-sarrera erabilgarria zatitu egiten da heldu baliokide bihurtutako etxeko kideen artean
-  (kontsumo-unitateak). 
+  Errenta baliokidea etxekoen unitate baten guztizko errentatik eta etxekoen unitate horretatik 
+  bizi diren pertsonen kopurutik eta adinetik eratorritako balioa da. Baliokidetasun-eskala baten 
+  bidez, errenta etxearen tamainaren eta osaeraren arabera haztatzen da, espazio bizigarriaren eta 
+  etxetresna elektrikoen erabilera partekatuak aurrezkiak sortzen baititu. Errenta baliokidea etxeko 
+  kide bakoitzari zuzen esleitzean, errenta konpara daiteke etxekoen unitatearen tamaina edo kideen 
+  adina edozein dela ere. 
 
-  Etxeko kontsumo-unitateen kopurua kalkulatzeko, ELGA eskala aldatua erabiltzen da. 
-  Eskala horrek 1 pisua esleitzen dio 14 urte edo gehiagoko lehen pertsonari, 0,5 pisua 14 urte edo 
-  gehiagoko gainerako pertsonei eta 0,3 pisua 14 urtetik beherako pertsonei.
 
  # Metadatos mundiales (Descripción del indicador)  
 
@@ -81,3 +81,7 @@ dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.1.1&seriesCode=SI_POV_DAY1&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAGE%20%7C%20ALLAREA%20%7C%20BOTHSEX">Nazioarteko pobrezia-atalasearen azpitik dagoen biztanleriaren proportzioa (%) SI_POV_DAY1</a> UNSTATS
 
 informacion_interes: <a href="https://pip.worldbank.org/home">Munduko Bankuaren Pobreziaren eta Desberdintasunaren Plataforma</a>
+
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
