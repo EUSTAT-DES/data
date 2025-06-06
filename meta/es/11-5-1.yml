@@ -1,0 +1,64 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.11-5-1-titulo
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-5-titulo
+#  indicador_onu_global: indicador_largo.11-5-1-titulo
+
+definicion: >-
+  Defunciones atribuidas a desastres naturales por cada 100.000 habitantes
+
+formula: |
+
+  $$TM_{desastres}^{t} = \frac{D_{desastres}^{t}}{P^{t}} \cdot 100$$
+
+  donde:
+
+  $D_{desastres}^{t} =$ defunciones atribuidas a desastres naturales (códigos X30-X39 de la CIE-10) en el año $t$
+
+  $P^{t} =$ población a 1 de julio del año $t$
+
+desagregacion: |
+  Sexo
+  
+  Territorio histórico/Comarca/Municipio
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  El Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030 fue 
+  adoptado por los Estados miembros de las Naciones Unidas en marzo de 2015 
+  como una política global de reducción del riesgo de desastres.
+
+  Entre sus metas se encuentran:
+
+  Meta A: Reducir sustancialmente la mortalidad global por desastres para 
+  2030, con el objetivo de reducir el promedio de mortalidad global por cada 100.000 habitantes entre 
+  2020-2030 en comparación con 2005-2015
+
+  Meta B: Reducir sustancialmente el número de personas afectadas
+  a nivel mundial para 2030 , con el objetivo de reducir la cifra promedio 
+  mundial por cada 100.000 habitantes 
+  entre 2020 y 2030 en comparación con el período 2005-2015.
+
+  La consecución de sus metas contribuirá al desarrollo sostenible y fortalecerá la 
+  resiliencia económica, social, sanitaria y ambiental.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+comparabilidad: >-
+  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-05-01.pdf">Metadatos 11-5-1.pdf</a> (solo en inglés)'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

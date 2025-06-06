@@ -1,0 +1,70 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.11-1-1-titulo
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-1-titulo
+#  indicador_onu_global: indicador_largo.11-1-1-titulo
+
+
+definicion: >- 
+  Proporción de personas que en sus viviendas tienen determinadas deficiencias:
+
+   - problemas de humedad (techo con goteras; paredes, suelos, techos o cimientos con humedad, o podredumbre en marcos de ventanas, puertas o suelo)
+   - vivienda sin retrete o bañera/ducha
+   - superficie inferior al número de miembros por 20 metros cuadrados
+   - problemas de exposición a ruidos y contaminación 
+   - vivienda oscura, sin luz suficiente, o escasez de luz natural
+
+formula: |
+
+  $$PPDV^{t} = \frac{PDV^{t}}{P^{t}} \cdot 100$$
+
+  donde: 
+
+  $PDV^{t} =$ población que experimenta una determinada deficiencia en la condiciones de su vivienda en el año $t$ 
+
+  $P^{t} =$ población total en el año $t$
+
+
+desagregacion:
+
+observaciones: >-
+
+
+periodicidad: FUENTE.FREQ_A2
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  La naturaleza del sector de la vivienda, con sus instituciones, leyes y reglamentos, 
+  afecta a todos los aspectos de la economía de un país y tiene interrelación con 
+  prácticamente todos los sectores del desarrollo social. 
+
+  Las personas que viven en viviendas adecuadas tienen mejor salud, mayores posibilidades 
+  de mejorar su capital humano y aprovechar las oportunidades disponibles en los contextos 
+  urbanos. Al mismo tiempo, un sector de la vivienda que funciona bien actúa como un 
+  "multiplicador del desarrollo" que beneficia a las industrias complementarias, 
+  contribuyendo al desarrollo económico, la generación de empleo, la prestación de 
+  servicios y la reducción general de la pobreza.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=11.1.1&seriesCode=EN_LND_SLUM&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=URBAN"> Proporción de la población urbana que vive en barrios marginales (%) EN_LND_SLUM</a> UNSTATS
+
+comparabilidad: >- 
+  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta información complementaria.
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-01-01.pdf">Metadatos 11-1-1.pdf</a> (solo en inglés)
+
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

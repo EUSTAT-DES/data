@@ -1,0 +1,59 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.7-3-1-title
+
+objetivo_global: objetivo_largo.7-titulo
+meta_global: meta_largo.7-3-titulo
+#  indicador_onu_global: indicador_largo.7-3-1-titulo
+
+
+definicion: |
+
+  Nivel de intensidad energética de la energía primaria (megajulios por PIB en paridad de poder adquisitivo constante de 2017) 
+
+formula: |
+
+  $$IE^{t} = \frac{CE^{t}}{PIB_{2017PPA}^{t}}$$
+
+  donde:
+
+  $CE^{t} =$ consumo interior bruto de energía en el año $t$
+
+  $PIB_{2017PPA}^{t} =$ producto interior bruto en paridad de poder adquisitivo en precios constantes de USD de 2017 en el año $t$ 
+
+
+desagregacion: >- 
+ 
+periodicidad: FUENTE.FREQ_A
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  La intensidad energética es un indicador de cuánta energía 
+  se utiliza para producir una unidad de producción económica. Es 
+  un indicador inverso de la eficiencia con la que una economía es 
+  capaz de utilizar la energía para producir una producción económica.
+ 
+  Un índice más bajo indica que se utiliza menos energía para producir 
+  una unidad de producción, por lo que las tendencias decrecientes indican progreso.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=7.3.1&seriesCode=EG_EGY_PRIM&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Nivel de intensidad energética de la energía primaria (megajulios por PIB en paridad de poder adquisitivo constante de 2017) EG_EGY_PRIM</a> UNSTATS
+
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: 
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-03-01.pdf">Metadatos 7-3-1.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

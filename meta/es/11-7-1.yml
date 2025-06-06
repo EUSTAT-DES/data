@@ -1,0 +1,57 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.11-7-1-titulo
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-7-titulo
+#  indicador_onu_global: indicador_largo.11-7-1-titulo
+
+definicion: >-
+  Proporción que representa la superficie construida de las ciudades destinada a espacios públicos abiertos (plazas, parques…) y calles respecto a la superficie total construida
+
+formula: |
+
+  $$PSC_{espacios\, públicos\, abiertos\, y\, calles}^{t} = \frac{SC_{espacios\, públicos\, abiertos}^{t} + SC_{calles}^{t}}{SC^{t}} \cdot 100$$
+
+  donde:
+
+  $SC_{espacios\, públicos\, abiertos}^{t} =$ superficie construida destinada a espacios públicos abiertos en el año $t$
+
+  $SC_{calles}^{t} =$ superficie construida destinada a calles en el año $t$
+
+  $SC^{t} =$ superficie total construida en el año $t$
+
+desagregacion:
+
+observaciones:
+
+periodicidad: FUENTE.FREQ_I
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  El valor de los espacios públicos suele ser ignorado o subestimado por 
+  los responsables políticos, líderes, ciudadanos y promotores urbanos. 
+  Esto se debe a varias razones, como la falta de recursos, comprensión o 
+  capacidad para utilizar el espacio público como un sistema urbano completo 
+  y multifuncional. 
+
+  A menudo, la falta de marcos propicios adecuados, la escasa voluntad política y 
+  la ausencia de mecanismos de participación ciudadana agravan la situación. 
+  Sin embargo, fundamentalmente, la falta de un indicador de medición global ha 
+  dificultado la apreciación local y global del valor de los espacios públicos.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+comparabilidad: >-
+  El indicador disponible cumple con los metadatos de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-07-01.pdf">Metadatos 11-7-1.pdf</a> (solo en inglés)'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

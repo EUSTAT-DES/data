@@ -1,0 +1,76 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.10-1-1-title
+
+objetivo_global: objetivo_largo.10-titulo
+meta_global: meta_largo.10-1-titulo
+#  indicador_onu_global: indicador_largo.10-1-1-titulo
+
+
+definicion: >- 
+  Tasa de crecimiento promedio anualizada en un período de cinco años de los ingresos y gastos por persona de los hogares del 40% más pobre de la población de la comunidad autónoma (40% de las personas con menores ingresos por unidad de consumo (escala OCDE modificada)) y del total de la población.
+
+
+formula: |
+
+  El crecimiento anualizado del ingreso real medio per cápita o del consumo se calcula 
+  estimando primero el ingreso real medio per cápita o el consumo del 40% inferior de la 
+  distribución del bienestar en los años T0 y T1 y luego calculando la tasa de crecimiento 
+  promedio anual entre esos años utilizando una fórmula de crecimiento compuesto:
+
+  Crecimiento del ingreso o consumo = $$\left( \frac{Media\, en\, T_1}{Media\, en\, T_0} \right)^{\frac{1}{T_1 - T_0}} - 1$$
+
+
+  El crecimiento del ingreso real per cápita medio o del consumo de la población total 
+  se calcula de la misma manera utilizando datos de la población total.
+
+desagregacion: | 
+  Grupo de ingresos: 40% más pobre, total
+
+  Territorio histórico
+
+observaciones: >-
+
+  El número de unidades de consumo de un hogar se calcula utilizando la escala OCDE modificada, 
+  que asigna un peso de 1 a la primera persona de 14 o más años, un peso de 0,5 al resto de 
+  personas de 14 o más años y un peso de 0,3 a las personas de menos de 14 años.
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Las mejoras en la prosperidad compartida requieren tanto una economía en crecimiento como 
+  una consideración de la equidad. La prosperidad compartida reconoce explícitamente que si 
+  bien el crecimiento es necesario para mejorar el bienestar económico 
+  en una sociedad, el progreso se mide por la forma en que esas ganancias se comparten 
+  con sus miembros más pobres. 
+
+  Además, en una sociedad inclusiva no es suficiente elevar a todos por encima de un nivel 
+  de vida mínimo absoluto, debe garantizarse que el crecimiento económico aumente la 
+  prosperidad entre los pobres a lo largo del tiempo.
+
+  La decisión de medir la prosperidad compartida en función del ingreso o el consumo 
+  no se tomó para ignorar las muchas otras dimensiones del bienestar. Está motivada por la 
+  necesidad de un indicador que sea fácil de entender, comunicar y medir, aunque existen 
+  desafíos de medición. De hecho, la prosperidad compartida comprende muchas dimensiones 
+  del bienestar de los menos favorecidos, y al analizar la prosperidad compartida en 
+  el contexto de un país, es importante considerar una amplia gama de indicadores de bienestar.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-01-01.pdf">Metadatos 10-1-1.pdf</a> (solo en inglés)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
