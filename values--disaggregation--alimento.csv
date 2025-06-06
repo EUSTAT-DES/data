@@ -1,10 +1,10 @@
-Value,es,eu,en,Disaggregation combinations using this value,Number of indicators
-ECOICOP011,Alimentos (total),Elikagaiak (guztira),ECOICOP011,5,1
-ECOICOP_RUB_01,Cereales y derivados,Zerealak eta deribatuak,ECOICOP_RUB_01,1,1
-ECOICOP_RUB_01_02,Pan y cereales,Ogia eta zerealak,ECOICOP_RUB_01_02,1,1
-ECOICOP_RUB_02,Pan,Ogia,ECOICOP_RUB_02,1,1
-ECOICOP_RUB_10,Huevos,Arrautzak,ECOICOP_RUB_10,1,1
-ECOICOP_RUB_11,Leche,Esnea,ECOICOP_RUB_11,1,1
-ECOICOP_RUB_13,Aceites y grasas,Olioak eta koipeak,ECOICOP_RUB_13,1,1
-ECOICOP_RUB_14,Frutas frescas,Fruta freskoak,ECOICOP_RUB_14,1,1
-ECOICOP_RUB_16,Legumbres y hortalizas frescas,Lekale eta barazki freskoak,ECOICOP_RUB_16,1,1
+Value,eu,es,en,Disaggregation combinations using this value,Number of indicators
+ECOICOP011,Elikagaiak (guztira),Alimentos (total),ECOICOP011,5,1
+ECOICOP_RUB_01,Zerealak eta deribatuak,Cereales y derivados,ECOICOP_RUB_01,1,1
+ECOICOP_RUB_01_02,Ogia eta zerealak,Pan y cereales,ECOICOP_RUB_01_02,1,1
+ECOICOP_RUB_02,Ogia,Pan,ECOICOP_RUB_02,1,1
+ECOICOP_RUB_10,Arrautzak,Huevos,ECOICOP_RUB_10,1,1
+ECOICOP_RUB_11,Esnea,Leche,ECOICOP_RUB_11,1,1
+ECOICOP_RUB_13,Olioak eta koipeak,Aceites y grasas,ECOICOP_RUB_13,1,1
+ECOICOP_RUB_14,Fruta freskoak,Frutas frescas,ECOICOP_RUB_14,1,1
+ECOICOP_RUB_16,Lekale eta barazki freskoak,Legumbres y hortalizas frescas,ECOICOP_RUB_16,1,1

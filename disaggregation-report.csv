@@ -1,36 +1,36 @@
-Disaggregation,es,eu,en,Number of indicators,Number of values
-Actividad,Actividad económica,Jarduera ekonomikoa,Actividad,2,3
-Adiccion,Sustancia adictiva,Substantzia adiktiboa,Adiccion,1,3
-Administracion,Administración pública,Administrazio publikoa,Administracion,1,3
-Alimento,Alimento,Elikagaiak,Alimento,1,9
-Comarca,Comarca,Eskualdea,Comarca,17,20
-Competencia,Tipo de competencia,Konpetentzia,Competencia,2,4
-Discapacidad,Personas sin y con discapacidad,Desgaitasunik ez duten pertsonak,Discapacidad,2,2
-Ecosistema,Ecosistema,Ekosistema,Ecosistema,1,6
-Edad,Edad,Adina,Edad,10,16
-Educacion,Nivel educativo,Hezkuntza-maila,Educacion,2,4
-EmpCont,Tipo de contrato,Kontratu mota,EmpCont,1,2
-Energia,Tipo de tecnología renovable,Teknologia berriztagarri mota,Energia,2,4
-Explotacion,Tipo de explotación,Ustiategi mota,Explotacion,1,5
-Gasto,Gasto,Gastua,Gasto,1,2
-Habilidad_IT,Habilidad informática,Trebetasun informatikoa,Habilidad_IT,1,8
-Ingreso_cuantil,Grupo de ingresos,Diru-sarreren taldea,Ingreso_cuantil,1,1
-Institucion,Institución,Erakundea,Institucion,2,19
-Municipio,Municipio,Udalerria,Municipio,17,252
-NCD,Enfermedad no transmisible,Gaixotasun ez-kutsakorra,NCD,1,5
-Ocupacion,Ocupacion,Okupazioa,Ocupacion,1,3
-PM,Partículas en suspensión,Partikula esekiak,PM,2,2
-Pobreza,Dimensión de la pobreza,Pobreziaren dimentsioa,Pobreza,1,3
-Profesion,Profesión,Lanbidea,Profesion,1,4
-Residencia,Residencia,Egoitza,Residencia,1,1
-Series,Serie,Seriea,Series,72,127
-ServBasico,Servicios básicos,Oinarrizko zerbitzuak,ServBasico,1,5
-ServEsencial,Servicios esenciales,Funtsezko zerbitzuak,ServEsencial,1,3
-ServPub,Servicios públicos,Zerbitzu publikoak,ServPub,1,9
-Sexo,Sexo,Sexua,Sexo,45,2
-Tenencia,Tipo de tenencia,Jabetza mota,Tenencia,1,2
-Territorio,Territorio histórico,Lurralde historikoa,Territorio,75,4
-Tratamiento,Operación de tratamiento de residuos,Hondakinen tratamendua,Tratamiento,2,4
-Units,Unidad,Unitatea,Units,149,41
-Vacuna,Tipo de vacuna,Txerto mota,Vacuna,1,4
-Velocidad,Tecnología de acceso,Teknologia,Velocidad,1,4
+Disaggregation,eu,es,en,Number of indicators,Number of values
+Actividad,Jarduera ekonomikoa,Actividad económica,Actividad,2,3
+Adiccion,Substantzia adiktiboa,Sustancia adictiva,Adiccion,1,3
+Administracion,Administrazio publikoa,Administración pública,Administracion,1,3
+Alimento,Elikagaiak,Alimento,Alimento,1,9
+Comarca,Eskualdea,Comarca,Comarca,17,20
+Competencia,Konpetentzia,Tipo de competencia,Competencia,2,4
+Discapacidad,Desgaitasunik ez duten pertsonak,Personas sin y con discapacidad,Discapacidad,2,2
+Ecosistema,Ekosistema,Ecosistema,Ecosistema,1,6
+Edad,Adina,Edad,Edad,10,16
+Educacion,Hezkuntza-maila,Nivel educativo,Educacion,2,4
+EmpCont,Kontratu mota,Tipo de contrato,EmpCont,1,2
+Energia,Teknologia berriztagarri mota,Tipo de tecnología renovable,Energia,2,4
+Explotacion,Ustiategi mota,Tipo de explotación,Explotacion,1,5
+Gasto,Gastua,Gasto,Gasto,1,2
+Habilidad_IT,Trebetasun informatikoa,Habilidad informática,Habilidad_IT,1,8
+Ingreso_cuantil,Diru-sarreren taldea,Grupo de ingresos,Ingreso_cuantil,1,1
+Institucion,Erakundea,Institución,Institucion,2,19
+Municipio,Udalerria,Municipio,Municipio,17,252
+NCD,Gaixotasun ez-kutsakorra,Enfermedad no transmisible,NCD,1,5
+Ocupacion,Okupazioa,Ocupacion,Ocupacion,1,3
+PM,Partikula esekiak,Partículas en suspensión,PM,2,2
+Pobreza,Pobreziaren dimentsioa,Dimensión de la pobreza,Pobreza,1,3
+Profesion,Lanbidea,Profesión,Profesion,1,4
+Residencia,Egoitza,Residencia,Residencia,1,1
+Series,Seriea,Serie,Series,72,127
+ServBasico,Oinarrizko zerbitzuak,Servicios básicos,ServBasico,1,5
+ServEsencial,Funtsezko zerbitzuak,Servicios esenciales,ServEsencial,1,3
+ServPub,Zerbitzu publikoak,Servicios públicos,ServPub,1,9
+Sexo,Sexua,Sexo,Sexo,45,2
+Tenencia,Jabetza mota,Tipo de tenencia,Tenencia,1,2
+Territorio,Lurralde historikoa,Territorio histórico,Territorio,75,4
+Tratamiento,Hondakinen tratamendua,Operación de tratamiento de residuos,Tratamiento,2,4
+Units,Unitatea,Unidad,Units,149,41
+Vacuna,Txerto mota,Tipo de vacuna,Vacuna,1,4
+Velocidad,Teknologia,Tecnología de acceso,Velocidad,1,4
