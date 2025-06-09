@@ -10,7 +10,7 @@ meta_global: meta_largo.1-2-titulo
 
 definicion: >-
   Euskadiko A.E.-ko diru-sarreren medianaren %60tik beherako diru-sarrera 
-  baliokidea duten pertsonen proportzioa (ELGAren baliokidetasun-eskala aldatua erabiliz doitua).
+  baliokidea duten pertsonen proportzioa (ELGAren baliokidetasun-eskala aldatua erabiliz).
 
 formula: |
 
@@ -31,8 +31,8 @@ observaciones: >-
   Diru-sarrera baliokidea etxeko diru-sarrera erabilgarria da, etxeko 
   kontsumo-unitate kopuruaren arabera zatitua, ELGAren (Ekonomia Lankidetza eta Garapenerako Erakundea)
   baliokidetasun-eskala aldatua erabiliz.
-  Eskala horren arabera, 1 pisuko pisua esleitzen zaio 14 urte edo gehiagoko lehen pertsonari, 
-  0,5 pisukoa gainerako pertsona helduei, eta 0,3 pisukoa 14 urtetik beherakoei.
+  Eskala horren arabera, 1eko pisua ematen zaio 14 urteko edo gehiagoko lehen pertsonari, 0,5eko pisua 14 urteko edo 
+  gehiagoko gainerako pertsonei, eta 0,3koa, azkenik, 14 urtetik beherakoei.
   Helburua da tamaina eta osaera desberdina duten etxeen arteko bizi-mailak modu parekatuan alderatzea.
 
 texto_oceca: FUENTE.oceca
@@ -74,5 +74,5 @@ indicador_meta_enlace: |
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

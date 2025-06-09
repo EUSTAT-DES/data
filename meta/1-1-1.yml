@@ -10,10 +10,8 @@ meta_global: meta_largo.1-1-titulo
 
 
 definicion: >- 
-  Transferentzia sozialen ondoren, diru-sarrera garbi baliokidea pobreziaren 
-  nazioarteko atalasea baino txikiagoa duten pertsonen proportzioa. Muga hori 
+  Diru-sarrera baliokidea pobreziaren nazioarteko atalasea baino txikiagoa duten pertsonen proportzioa. Muga hori 
   AEBetako 2,15 dolarretan dago ezarrita, 2017ko erosteko ahalmenaren parekotasunean.  
-
 
 formula: |
 
@@ -21,7 +19,7 @@ formula: |
 
   non:
 
-  $P_{UIP}^{t} =$ pobreziaren nazioarteko atalasea baino diru-sarrera garbi baliokide 
+  $P_{UIP}^{t} =$ pobreziaren nazioarteko atalasea (2,15 dolar/eguneko) baino diru-sarrera baliokide 
   txikiagoa duten biztanleak, $t$ urtean
 
   $P^{t} =$ biztanleria $t$ urtean
@@ -32,12 +30,9 @@ periodicidad: FUENTE.FREQ_A2
 
 observaciones: >- 
 
-  Errenta baliokidea etxekoen unitate baten guztizko errentatik eta etxekoen unitate horretatik 
-  bizi diren pertsonen kopurutik eta adinetik eratorritako balioa da. Baliokidetasun-eskala baten 
-  bidez, errenta etxearen tamainaren eta osaeraren arabera haztatzen da, espazio bizigarriaren eta 
-  etxetresna elektrikoen erabilera partekatuak aurrezkiak sortzen baititu. Errenta baliokidea etxeko 
-  kide bakoitzari zuzen esleitzean, errenta konpara daiteke etxekoen unitatearen tamaina edo kideen 
-  adina edozein dela ere. 
+  Diru-sarrera baliokidea etxeko diru-sarrera erabilgarria da, etxeko kontsumo-unitate kopuruaren arabera 
+  zatitua, ELGAren (Ekonomia Lankidetza eta Garapenerako Erakundea) baliokidetasun-eskala aldatua erabiliz.
+  Helburua da tamaina eta osaera desberdina duten etxeen arteko bizi-mailak modu parekatuan alderatzea.
 
 
  # Metadatos mundiales (Descripción del indicador)  
