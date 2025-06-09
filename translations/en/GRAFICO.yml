@@ -294,9 +294,9 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 8-2-1-notapie: Los datos del último año son provisionales
 
 # PESTAÑA "INDICADORES RELACIONADOS" (EMBEDED)
-embeded-1-2-1: "https://eustat-des.github.io/site/embeded/1-2-1"
-embeded-1-2-2: "https://eustat-des.github.io/site/embeded/1-2-2"
-embeded-1-a-2: "https://eustat-des.github.io/site/embeded/1-a-2"
-embeded-6-1-1: "https://eustat-des.github.io/site/embeded/6-1-1"
-embeded-8-9-1: "https://eustat-des.github.io/site/embeded/8-9-1"
-embeded-9-4-1: "https://eustat-des.github.io/site/embeded/9-4-1"
+embeded-1-2-1: "/site/en/embeded/1-2-1" 
+embeded-1-2-2: "/site/en/embeded/1-2-2"
+embeded-1-a-2: "/site/en/embeded/1-a-2"
+embeded-6-1-1: "/site/en/embeded/6-1-1"
+embeded-8-9-1: "/site/en/embeded/8-9-1"
+embeded-9-4-1: "/site/en/embeded/9-4-1"
