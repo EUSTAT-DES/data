@@ -866,7 +866,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Emisiones de CO2 respecto al año 2005",
+                "_L_ES_090401_06",
                 ""
               ]
             },
@@ -3361,7 +3361,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Emisiones de CO2 respecto al año 1990",
+                "_L_ES_090401_05",
                 ""
               ]
             },
