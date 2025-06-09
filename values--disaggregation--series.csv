@@ -13,8 +13,8 @@ BX_TRF_PWKRV,Atzerrira egindako diru-bidalketen bolumena,Volumen de remesas envi
 DP_DOD_DLD2_CR_CG_Z1,"Administrazio publiko autonomikoen zor gordina, gehiegizko defizitaren protokoloaren arabera, BPGrekiko proportzioan",Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB,DP_DOD_DLD2_CR_CG_Z1,1,1
 EG_ACS_ELEC,Elektrizitaterako sarbidea duen biztanleriaren proportzioa,Proporción de la población con acceso a la electricidad,EG_ACS_ELEC,1,1
 EG_EGY_CLEAN,Energia-iturri nagusia erregai eta teknologia garbiak dituen biztanleriaren proportzioa,Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios,EG_EGY_CLEAN,1,1
-EN_ATM_CO2GDP,CO2 isurketak balio erantsiko unitate bakoitzeko,Emisiones de CO2 por unidad de valor añadido,EN_ATM_CO2GDP,1,1
-EN_ATM_CO2MVA,"Manufaktura-sektorearen CO2 isuriak, manufaktura-sektorearen balio erantsiaren unitateko",Emisiones de CO2 del sector manufacturero por unidad de valor añadido del sector manufacturero,EN_ATM_CO2MVA,1,1
+EN_ATM_CO2GDP,CO2 isurketak balio erantsiko unitate bakoitzeko,Emisiones de $CO_2$ por unidad de valor añadido,EN_ATM_CO2GDP,1,1
+EN_ATM_CO2MVA,"Manufaktura-sektorearen CO2 isuriak, manufaktura-sektorearen balio erantsiaren unitateko",Emisiones de $CO_2$ del sector manufacturero por unidad de valor añadido del sector manufacturero,EN_ATM_CO2MVA,1,1
 EN_ATM_GHGGDP,"Berotegi-efektuko gasen isurketak, guztira, BPGren unitateko",Emisiones totales de gases de efecto invernadero por unidad de PIB,EN_ATM_GHGGDP,1,1
 EN_ATM_GHGPC,"Berotegi-efektuko gasen isurketak, guztira, biztanleko",Emisiones totales de gases de efecto invernadero per cápita,EN_ATM_GHGPC,1,1
 EN_ATM_GHGT_AIP,"Berotegi-efektuko gasen isurketak, guztira, urtearen arabera",Emisiones totales de gases de efecto invernadero por año,EN_ATM_GHGT_AIP,1,1

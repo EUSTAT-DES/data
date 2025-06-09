@@ -8,7 +8,7 @@ G_PER_GDP_EUR,Gramoa BPGaren euro bakoitzeko,Gramo por euro de PIB,G_PER_GDP_EUR
 GPERM3,Mikrogramoak metro kubikoko,Microgramos por metro cúbico,GPERM3,2,1
 HA,Hektareak,Hectáreas,HA,2,2
 IX,Aurkibidea,Índice,IX,14,2
-KG_CO2_PER_GDP_EUR,Kg CO2 baliokide BPGd-ko,Kg de CO2 equivalente por euro de PIB,KG_CO2_PER_GDP_EUR,3,2
+KG_CO2_PER_GDP_EUR,Kg CO2 baliokide BPGd-ko,Kg de $CO_2$ equivalente por euro de PIB,KG_CO2_PER_GDP_EUR,3,2
 KG_PER_CAPITA,Kg per capita,Kg per cápita,KG_PER_CAPITA,8,2
 KG_PER_GDP_1000_EUR,Kg BPGd-ko euro bakoitzeko,Kg por euro de PIB,KG_PER_GDP_1000_EUR,1,1
 KG_PER_HA,Kg hektareako,Kg por hectárea,KG_PER_HA,3,1
@@ -37,6 +37,6 @@ RO,Ratioa,Ratio,RO,72,2
 T_CO2_PER_CAPITA,Biztanle bakoitzeko CO2 baliokidearen tonak,Toneladas de CO2 equivalente per cápita,T_CO2_PER_CAPITA,1,1
 T_MILLON_EUR,T_MILLON_EUR,T_MILLON_EUR,T_MILLON_EUR,1,1
 T_PER_CAPITA,Tonak per capita,Toneladas per cápita,T_PER_CAPITA,2,2
-TCO2E,CO2 tonak - baliokidea,Toneladas de CO2 - equivalente,TCO2E,1,1
+TCO2E,CO2 tonak - baliokidea,Toneladas de $CO_2$ - equivalente,TCO2E,1,1
 W_PER_CAPITA,Watts per capita,Watts per cápita,W_PER_CAPITA,2750,2
 YR,Urteak,Años,YR,12,1

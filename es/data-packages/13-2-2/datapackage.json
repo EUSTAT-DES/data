@@ -35,8 +35,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Toneladas de CO2 - equivalente",
-                "Kg de CO2 equivalente por euro de PIB",
+                "Toneladas de $CO_2$ - equivalente",
+                "Kg de $CO_2$ equivalente por euro de PIB",
                 "Toneladas de CO2 equivalente per cápita",
                 "%",
                 ""
