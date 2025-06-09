@@ -297,21 +297,21 @@ CGPD_ejud_url: https://www.poderjudicial.es/cgpj/es/Temas/Estadistica-Judicial/
 
 
 # LOGOS
-BE_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/BE.png?raw=true'
-CIS_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/CIS.png?raw=true'
-CNMC_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/CNMC.png?raw=true'
-EVE_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/EVE.png?raw=true'
-Ekolurra_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/Ekolurra.png?raw=true'
-Euskadi_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/Euskadi.png?raw=true'
-Eustat_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/Eustat.png?raw=true'
-GE_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/GE.png?raw=true'
-Hazi_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/Hazi.png?raw=true'
-INE_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/INE.png?raw=true'
-Ihobe_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/Ihobe.png?raw=true'
-OCDE_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/OCDE.png?raw=true'
-ONU_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/ONU.png?raw=true'
-BM_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/BM.png?raw=true'
-OMS_logo: 'https://github.com/EUSTAT-DES/site/blob/develop/assets/img/fuentes/OMS.png?raw=true' 
+BE_logo: '{{ site.baseurl }}/assets/img/fuentes/BE.png'
+CIS_logo: '{{ site.baseurl }}/assets/img/fuentes/CIS.png'
+CNMC_logo: '{{ site.baseurl }}/assets/img/fuentes/CNMC.png'
+EVE_logo: '{{ site.baseurl }}/assets/img/fuentes/EVE.png'
+Ekolurra_logo: '{{ site.baseurl }}/assets/img/fuentes/Ekolurra.png'
+Euskadi_logo: '{{ site.baseurl }}/assets/img/fuentes/Euskadi.png'
+Eustat_logo: '{{ site.baseurl }}/assets/img/fuentes/Eustat.png'
+GE_logo: '{{ site.baseurl }}/assets/img/fuentes/GE.png'
+Hazi_logo: '{{ site.baseurl }}/assets/img/fuentes/Hazi.png'
+INE_logo: '{{ site.baseurl }}/assets/img/fuentes/INE.png'
+Ihobe_logo: '{{ site.baseurl }}/assets/img/fuentes/Ihobe.png'
+OCDE_logo: '{{ site.baseurl }}/assets/img/fuentes/OCDE.png'
+ONU_logo: '{{ site.baseurl }}/assets/img/fuentes/ONU.png'
+BM_logo: '{{ site.baseurl }}/assets/img/fuentes/BM.png'
+OMS_logo: '{{ site.baseurl }}/assets/img/fuentes/OMS.png' 
   
 # FRECUENCIA
 
@@ -337,5 +337,5 @@ FREQ_P: Plurianual
 
 # OCECA
 oceca: >-
-  <img src="/site/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS">
+  <img src="{{ site.baseurl }}/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS">
   Indicador calculado utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas
