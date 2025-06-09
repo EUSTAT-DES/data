@@ -32,8 +32,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Elikagaiak (guztira)",
-                "Ogia eta zerealak",
                 "Ogia",
                 "Zerealak eta deribatuak",
                 "Arrautzak",
@@ -41,6 +39,7 @@
                 "Olioak eta koipeak",
                 "Fruta freskoak",
                 "Lekale eta barazki freskoak",
+                "Ogia eta zerealak",
                 ""
               ]
             },

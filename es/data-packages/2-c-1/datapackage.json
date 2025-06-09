@@ -32,8 +32,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Alimentos (total)",
-                "Pan y cereales",
                 "Pan",
                 "Cereales y derivados",
                 "Huevos",
@@ -41,6 +39,7 @@
                 "Aceites y grasas",
                 "Frutas frescas",
                 "Legumbres y hortalizas frescas",
+                "Pan y cereales",
                 ""
               ]
             },

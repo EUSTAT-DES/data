@@ -5725,8 +5725,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ECOICOP011",
-                "ECOICOP_RUB_01_02",
                 "ECOICOP_RUB_02",
                 "ECOICOP_RUB_01",
                 "ECOICOP_RUB_10",
@@ -5734,6 +5732,7 @@
                 "ECOICOP_RUB_13",
                 "ECOICOP_RUB_14",
                 "ECOICOP_RUB_16",
+                "ECOICOP_RUB_01_02",
                 ""
               ]
             },
