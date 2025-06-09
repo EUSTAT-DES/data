@@ -8663,7 +8663,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All",
                 "Araba / Álava",
                 "Bizkaia",
                 "Gipuzkoa",
