@@ -18,11 +18,6 @@ footer_fields: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_target_lines:
-  - series: EU_CNCR_CCR
-    unit: ''
-    label_content: GRAFICO.3-4-E1-anotacion
-    value: 65
 graph_title: GRAFICO.3-4-E1-titulo
 graph_titles: []
 graph_type: line
