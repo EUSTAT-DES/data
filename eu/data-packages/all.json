@@ -13299,8 +13299,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lesio okupazional ez-hilgarriak",
                 "Lesio okupazional hilgarriak",
+                "Lesio okupazional ez-hilgarriak",
                 ""
               ]
             },

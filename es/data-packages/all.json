@@ -13299,8 +13299,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                " Lesiones ocupacionales no mortales ",
                 " Lesiones ocupacionales mortales ",
+                " Lesiones ocupacionales no mortales ",
                 ""
               ]
             },
