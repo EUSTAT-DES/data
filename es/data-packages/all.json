@@ -9008,7 +9008,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ingreso medio por hora ",
+                "Ingreso medio por hora",
                 "Brecha de género en el salario medio por hora",
                 ""
               ]
@@ -12671,17 +12671,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EU_H20_COVNAC",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -13310,8 +13299,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SL_EMP_INJUR",
-                "SL_EMP_FTLINJUR",
+                " Lesiones ocupacionales no mortales ",
+                " Lesiones ocupacionales mortales ",
                 ""
               ]
             },

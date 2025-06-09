@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SL_EMP_INJUR",
-                "SL_EMP_FTLINJUR",
+                "Lesio okupazional ez-hilgarriak",
+                "Lesio okupazional hilgarriak",
                 ""
               ]
             },

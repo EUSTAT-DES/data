@@ -12671,17 +12671,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EU_H20_COVNAC",
-                ""
-              ]
-            },
-            "title": "Seriea"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -13310,8 +13299,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SL_EMP_INJUR",
-                "SL_EMP_FTLINJUR",
+                "Lesio okupazional ez-hilgarriak",
+                "Lesio okupazional hilgarriak",
                 ""
               ]
             },

@@ -16,17 +16,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EU_H20_COVNAC",
-                ""
-              ]
-            },
-            "title": "Seriea"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
