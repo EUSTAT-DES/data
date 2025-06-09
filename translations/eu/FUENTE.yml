@@ -298,21 +298,21 @@ CGPD_ejud_url: https://www.poderjudicial.es/portal/site/cgpj/menuitem.5eba20fd90
 
 
 # LOGOS
-BE_logo: '{{ site.baseurl }}/assets/img/fuentes/BE.png'
-CIS_logo: '{{ site.baseurl }}/assets/img/fuentes/CIS.png'
-CNMC_logo: '{{ site.baseurl }}/assets/img/fuentes/CNMC.png'
-EVE_logo: '{{ site.baseurl }}/assets/img/fuentes/EVE.png'
-Ekolurra_logo: '{{ site.baseurl }}/assets/img/fuentes/Ekolurra.png'
-Euskadi_logo: '{{ site.baseurl }}/assets/img/fuentes/Euskadi.png'
-Eustat_logo: '{{ site.baseurl }}/assets/img/fuentes/Eustat.png'
-GE_logo: '{{ site.baseurl }}/assets/img/fuentes/GE.png'
-Hazi_logo: '{{ site.baseurl }}/assets/img/fuentes/Hazi.png'
-INE_logo: '{{ site.baseurl }}/assets/img/fuentes/INE.png'
-Ihobe_logo: '{{ site.baseurl }}/assets/img/fuentes/Ihobe.png'
-OCDE_logo: '{{ site.baseurl }}/assets/img/fuentes/OCDE.png'
-ONU_logo: '{{ site.baseurl }}/assets/img/fuentes/ONU.png'
-BM_logo: '{{ site.baseurl }}/assets/img/fuentes/BM.png'
-OMS_logo: '{{ site.baseurl }}/assets/img/fuentes/OMS.png' 
+BE_logo: '/assets/img/fuentes/BE.png'
+CIS_logo: '/assets/img/fuentes/CIS.png'
+CNMC_logo: '/assets/img/fuentes/CNMC.png'
+EVE_logo: '/assets/img/fuentes/EVE.png'
+Ekolurra_logo: '/assets/img/fuentes/Ekolurra.png'
+Euskadi_logo: '/assets/img/fuentes/Euskadi.png'
+Eustat_logo: '/assets/img/fuentes/Eustat.png'
+GE_logo: '/assets/img/fuentes/GE.png'
+Hazi_logo: '/assets/img/fuentes/Hazi.png'
+INE_logo: '/assets/img/fuentes/INE.png'
+Ihobe_logo: '/assets/img/fuentes/Ihobe.png'
+OCDE_logo: '/assets/img/fuentes/OCDE.png'
+ONU_logo: '/assets/img/fuentes/ONU.png'
+BM_logo: '/assets/img/fuentes/BM.png'
+OMS_logo: '/assets/img/fuentes/OMS.png' 
   
 # FRECUENCIA
 
@@ -338,5 +338,5 @@ FREQ_P: Urte anitzekoa
 
 # OCECA
 oceca: >-
-  <img src="{{ site.baseurl }}/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS">
+  <img src="/site/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS">
   Autonomia-erkidegoetako estatistika-organo zentralen arteko metodologia harmonizatua erabiliz kalkulatutako adierazlea
