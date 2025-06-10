@@ -5872,8 +5872,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "$CO_2$ isuriak balio erantsiko unitate bakoitzeko",
-                "Manufaktura-sektorearen $CO_2$ isuriak, manufaktura-sektorearen balio erantsiaren unitateko",
+                "CO2 isuriak balio erantsiko unitate bakoitzeko",
+                "Manufaktura-sektorearen CO2 isuriak, manufaktura-sektorearen balio erantsiaren unitateko",
                 ""
               ]
             },
@@ -7489,7 +7489,7 @@
               "enum": [
                 "CO2 tonak - baliokidea",
                 "Kg CO2 baliokide BPGd-ko",
-                "Biztanle bakoitzeko $CO_2$ baliokidearen tonak",
+                "Biztanle bakoitzeko CO2 baliokidearen tonak",
                 "%",
                 ""
               ]
