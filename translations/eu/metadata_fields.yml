@@ -1,5 +1,4 @@
  # Metadatos Eustat  
- 
 indicador_disponible: Eskuragarri dagoen adierazlea
 objetivo_global: Helburua
 meta_global: Helmuga
@@ -7,7 +6,7 @@ indicador_onu_global: Adierazlea
 definicion: Definizioa
 formula: Formula teorikoa
 periodicidad: Aldizkakotasuna
-desagregacion: Eskuragarri dauden desagregazioak
+desagregacion: Desagregazioak
 observaciones: Oharra
 oceca: OCECA adierazlea
 texto_oceca: OCECA
@@ -15,25 +14,26 @@ descripcion_global: Deskribapena
 justificacion_global: Justifikazioa
 indicador_meta_enlace: NBEko metadatuetarako esteka   
 dato_global: Nazioarteko emaitzak
-comparabilidad: Eskuragarri dagoen adierazlearen eta NBE adierazlearen arteko konparagarritasuna
+dato_ccaa: Autonomia Erkidegoetako emaitzak
+comparabilidad: Eskura dagoen adierazlearen eta NBE adierazlearen arteko konparagarritasuna
 informacion_interes: Informazio gehigarria
 
  # A partir de aquí, metadatos open SDG
-
 other_info: Bestelako informazioa
 computation_calculations: Kalkuluak
 computation_definitions: Definizioak
-computation_units: Neurri-unitatea
+computation_units: Unitatea
 goal_meta_link: NBEko metadatuetarako esteka
 indicator: Adierazlearen zenbakia
 indicator_definition: Adierazle mundialaren deskribapena
 indicator_name: adierazlearen izena
-indicator_sort_order: Adierazlea bistaratzeko agindua (helburua)
-national_data_update_url: Azken aldiz eguneratutako datuak
+indicator_sort_order: Adierazlea bistaratzeko 
+  agindua (helburua)
+national_data_update_url: Datuak azken aldiz eguneratuta
 national_geographical_coverage: Estaldura geografikoa
-national_indicator_available: Adierazle erabilgarria
+national_indicator_available: Eskura dagoen adierazlea
 national_indicator_description: Adierazlearen deskribapena
-national_metadata_update_url: Azken aldiz eguneratutako metadatuak
+national_metadata_update_url: Metadatuak azken aldiz eguneratuta
 source_contact_1: Harremanetarako xehetasunak
 source_contact_2: Harremanetarako xehetasunak
 source_contact_3: Harremanetarako xehetasunak
@@ -110,9 +110,11 @@ COVERAGE: Datuen erabilgarritasuna eta banakapena
 QUALITY_ASSMNT: Kalitatearen ebaluazioa
 QUALITY_ASSURE: Kalitate-asegurua
 QUALITY_MGMNT: Kalitatearen kudeaketa
-DOC_METHOD: Herrialdeen eskura dauden metodoak eta orientabideak, datuak nazio-mailan lortzeko
+DOC_METHOD: Herrialdeen eskura dauden metodoak eta orientabideak, datuak 
+  nazio-mailan lortzeko
 REG_AGG: Lurralde-agregazioak
-IMPUTATION: Galdutako balioen tratamendua (i) herrialde mailan eta (ii) lurralde mailan
+IMPUTATION: Galdutako balioen tratamendua (i) herrialde mailan eta 
+  (ii) lurralde mailan
 ADJUSTMENT: Doikuntzak
 DATA_VALIDATION: Balidazioa
 DATA_COMP: Kalkulu-metodoa
@@ -139,7 +141,8 @@ ORGANISATION_UNIT: Kontaktuak antolatzeko unitatea
 CONTACT_NAME: Harremanetarako pertsona (k)
 CONTACT_ORGANISATION: Antolaketa
 CONTACT: Datu-erreportaria
-SDG_CUSTODIAN_AGENCIES: Mundu mailako jarraipenaz arduratzen diren nazioarteko erakundeak
+SDG_CUSTODIAN_AGENCIES: Mundu mailako jarraipenaz arduratzen diren nazioarteko 
+  erakundeak
 SDG_RELATED_INDICATORS: Erlazionatutako adierazleak
 META_LAST_UPDATE: Metadatuak eguneratzea
 SDG_SERIES_DESCR: Serieak
@@ -147,3 +150,4 @@ SDG_INDICATOR: Adierazlea
 SDG_TARGET: Helmuga
 SDG_GOAL: Helburua
 SDG_INDICATOR_INFO: Adierazlearen informazioa
+OCECA: OCECA

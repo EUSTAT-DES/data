@@ -1,0 +1,65 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.8-b-1-titulo
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-b-titulo
+#  indicador_onu_global: indicador_largo.8-b-1-titulo
+
+
+definicion:  | 
+  Proporción del gasto de la administración autonómica en fomento del empleo (política de gasto 24 de la clasificación funcional empleada en las liquidaciones presupuestarias de las comunidades autónomas) 
+
+formula:  |
+
+  $$G_{fomento\, empleo}^{t} = \frac{G_{fomento\, empleo}^{t}}{G^{t}} \cdot 100$$
+
+  donde:
+
+  $G_{fomento\, empleo}^{t} =$ gasto en fomento del empleo en la liquidación de presupuestos consolidados de la comunidad autónoma (política de gasto 24 de la clasificación funcional) en el año $t$
+
+  $G^{t} =$ gasto total en la liquidación de presupuestos consolidados de la comunidad autónoma en el año $t$
+
+
+desagregacion:  |
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+  Los datos consolidados de las liquidaciones presupuestarias de las comunidades autónomas 
+  se toman depurados de IFL (intermediación financiera local) y PAC (política agrícola común)
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  El objetivo del indicador 8.b.1 de los ODS es proporcionar una indicación del 
+  progreso de los países en la resolución de las cuestiones relacionadas con el 
+  empleo juvenil. 
+
+  En este sentido, se supone que haber adoptado oficialmente lo que puede 
+  reconocerse como una estrategia estructurada para el empleo juvenil 
+  significaría que un país prestaría mayor atención a los desafíos del mercado 
+  laboral juvenil, en comparación con los países que no cuentan con una estrategia. 
+
+  De hecho, el desarrollo de una estrategia de este tipo suele implicar una amplia 
+  participación y consulta/coordinación entre las diferentes partes interesadas.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+
+comparabilidad: >- 
+  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas pero aporta información complementaria.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-0b-01.pdf">Metadatos 8-b-1.pdf</a> (solo en inglés)'
+
+informacion_interes: >-
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

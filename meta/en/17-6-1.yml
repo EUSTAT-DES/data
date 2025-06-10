@@ -1,0 +1,74 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  global_indicators.17-6-1-title
+
+objetivo_global: objetivo_largo.17-titulo
+meta_global: meta_largo.17-6-titulo
+#  indicador_onu_global: indicador_largo.17-6-1-titulo
+
+definicion: >-
+  Number of fixed broadband lines in relation to the number of inhabitants
+
+formula: |
+
+  $$TLBAF^{t} = \frac{LBAF^{t}}{P^{t}}  \cdot 100$$
+
+  where: 
+
+  $LBAF^{t} =$  fixed broadband lines in year $t$
+
+  $P^{t} =$ population as of January 1 of the year $t$
+
+
+desagregacion: |
+  Access technology: DSL; fiber optic (FTTH); hybrid fiber coaxial (HFC); other technology
+
+  Province
+
+observaciones:
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  The Internet has become an increasingly important tool to provide access to information, and can help 
+  foster and enhance regional and international cooperation on, and access to, science, technology and 
+  innovations, and enhance knowledge sharing. 
+
+  High-speed Internet access is important to ensure that 
+  Internet users have quality access to the Internet and can take advantage of the growing amount of 
+  Internet content – including user-generated content –, services and information. 
+
+  While the number of fixed-broadband subscriptions has increased substantially over the last years and 
+  while service providers offer increasingly higher speeds, fixed Internet broadband can vary tremendously 
+  by speed, thus affecting the quality and functionality of Internet access. 
+
+  Many countries, especially in the 
+  developing world, have not only a very limited amount of fixed-broadband subscriptions, but also at very 
+  low speeds. This limitation is a barrier to the Target 17.6 and the indicator highlights the potential of the 
+  Internet (especially through high-speed access) to enhance cooperation, improve access to science, 
+  technology and innovation, and share knowledge. 
+
+  The indicator also highlights the importance of Internet 
+  use as a development enabler and helps to measure the digital divide, which, if not properly addressed, 
+  will aggravate inequalities in all development domains. Information on fixed broadband subscriptions by 
+  speed will contribute to the design of targeted policies to overcome those divides. 
+
+  Source: United Nations Statistics Division
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.6.1&seriesCode=IT_NET_BBND&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ANYS">Fixed broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants) IT_NET_BBND</a> UNSTATS
+
+comparabilidad: >-
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-06-01.pdf">Metadata 17-6-1.pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

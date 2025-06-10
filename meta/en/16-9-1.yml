@@ -1,0 +1,60 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  global_indicators.16-9-1-title
+
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-9-titulo
+#  indicador_onu_global: indicador_largo.16-9-1-titulo
+
+definicion: >-
+  Proportion of children under 5 years of age whose birth has been registered in the Civil Registry
+
+formula: |
+
+  $$PPRC_{0-4}^{t} = \frac{PRC_{0-4}^{t}}{P_{0-4}^{t}}\cdot 100 $$
+
+  where:
+
+  $PRC_{0-4}^{t} =$ children under 5 years of age whose birth has been registered in the Civil Registry in year $t$
+
+  $P_{0-4}^{t} =$ children under 5 years of age in year $t$
+
+
+desagregacion: 
+
+observaciones: |
+  The indicator is 100% since the legislation on the Civil Registry establishes the obligation to register births
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Registering children at birth is the first step in securing their recognition before the law, safeguarding 
+  their rights, and ensuring that any violation of these rights does not go unnoticed. 
+
+  Children without official identification documents may be denied health care or education. Later in life, 
+  the lack of such documentation can mean that a child may enter into marriage or the labour market, or 
+  be conscripted into the armed forces, before the legal age. 
+
+  In adulthood, birth certificates may be required to obtain social assistance or a job in the formal sector, 
+  to buy or prove the right to inherit property, to vote and to obtain a passport. Children’s right to a name 
+  and nationality is enshrined in the Convention on the Rights of the Child (CRC) under Article 7. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: 
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.9.1&seriesCode=SG_REG_BRTH&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=%3C5Y">
+  Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age) SG_REG_BRTH</a> UNSTATS
+
+comparabilidad: >-
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-09-01.pdf">Metadata 16-9-1.pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -9,61 +9,65 @@ meta_global: meta_largo.16-1-titulo
 
 
 definicion: >-
-  Número de víctimas de homicidio doloso/asesinato consumado por cada 100.000 habitantes.
+  Dolozko homizidioa/erailketa burutuaren biktimen kopurua 100.000 biztanleko 
   
 
 formula: |
   $$THD^{t} = \frac{HD^{t}}{P^{t}} \cdot 100.000$$
 
-  donde:
+  non:
 
-  $HD^{t} =$ número de infracciones penales conocidas por homicidio doloso/asesinato consumado en el año $t$
+  $HD^{t} =$ gauzatutako dolozko homizidioagatik/erailketagatik ezagutzen diren zigor-arloko arau-hausteen kopurua $t$ urtean
 
-  $P^{t} =$ población a 1 de julio del año $t$
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean
 
 desagregacion: |
 
-  Territorio histórico
+  Lurralde historikoa
 
 
 periodicidad: FUENTE.FREQ_A
 
 observaciones: >-
-  Datos recogidos por la Ertzaintza y por las Policías Locales. Los datos solo incluyen los homicidios dolosos consumados registrados en poblaciones de más de 15.000 habitantes.
-  
-  Se utilizan las tipologías comunes básicas establecidas en la Unión Europea (a través de su oficina estadística -EUROSTAT-) sobre las infracciones penales conocidas por los cuerpos policiales de los distintos países.
+  Ertzaintzak eta udaltzaingoek bildutako datuak. Datuek 15.000 biztanletik gorako herrietan erregistratutako 
+  dolozko homizidioak baino ez dituzte biltzen. 
+
+  Europar Batasunean ezarritako oinarrizko tipologia komunak erabiltzen dira (EUROSTAT estatistika-bulegoaren 
+  bidez), herrialdeetako polizia-kidegoek ezagutzen dituzten arau-hauste penalei dagokienez. 
 
 
  # Metadatos mundiales (Descripción del indicador)  
 
 
 justificacion_global: |
-  Este indicador se utiliza ampliamente a nivel nacional e internacional para medir la forma más extrema de delito violento 
-  y también proporciona una indicación directa de la falta de seguridad. 
+  Adierazle hori zabal erabiltzen da estatuan eta nazioartean, indarkeria-delitu muturrekoena neurtzeko, 
+  eta segurtasun-falta zuzena adierazten du. 
 
-  La seguridad frente a la violencia es un requisito previo para que las personas disfruten de una vida segura 
-  y activa y para que las sociedades y las economías se desarrollen libremente. Los homicidios intencionales ocurren 
-  en todos los países del mundo y este indicador tiene una aplicabilidad global. El seguimiento de los homicidios 
-  intencionales es necesario para evaluar mejor sus causas, factores impulsores y consecuencias y, a 
-  largo plazo, para desarrollar medidas preventivas eficaces. Si los datos se desglosan 
-  adecuadamente (como se sugiere en la Clasificación Internacional del Delito con Fines Estadísticos), el indicador puede 
-  identificar los diferentes tipos de violencia asociados con el homicidio: interpersonal (incluida la violencia relacionada 
-  con la pareja y la familia), criminal (incluido el crimen organizado y otras formas de actividades delictivas) y 
-  sociopolítica (incluido el terrorismo y los delitos motivados por el odio).
+  Indarkeriaren aurreko segurtasuna aldez aurreko baldintza da pertsonek bizitza segurua eta aktiboa 
+  izan dezaten eta gizarteak eta ekonomiak askatasunez gara daitezen. Intentziozko homizidioak munduko 
+  herrialde guztietan gertatzen dira, eta adierazle horrek aplikagarritasun globala du. Intentziozko 
+  homizidioen jarraipena beharrezkoa da kausak, faktore bultzatzaileak eta ondorioak hobeto ebaluatzeko 
+  eta, epe luzera, prebentzio-neurri eraginkorrak garatzeko. Datuak behar bezala banakatzen badira 
+  (Helburu Estatistikoetarako Delituaren Nazioarteko Sailkapenean iradokitzen den bezala), adierazleak 
+  homizidioarekin lotutako indarkeria-motak identifika ditzake: pertsonen artekoa (bikotekidearekin eta 
+  familiarekin lotutako indarkeria barne), kriminala (krimen antolatua eta beste delitu-jarduera batzuk 
+  barne) eta soziopolitikoa (terrorismoa eta gorroto-delituak barne). 
 
-  El homicidio intencional se define como la muerte ilegal infligida a una persona con la intención de 
-  causarle la muerte o lesiones graves (Fuente: Clasificación Internacional de Delitos con Fines Estadísticos, ICCS 2015).
+  Intentziozko homizidioa da norbaiti heriotza edo lesio larriak eragiteko asmoz egindako legez kanpoko 
+  hilketa (Iturria: Helburu Estatistikoetarako Delituaren Nazioarteko Sailkapena, ICCS 2015). 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.1.1&seriesCode=VC_IHR_PSRC&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">Número de víctimas de homicidio intencional por cada 100.000 habitantes, por sexo (víctimas por cada 100.000 habitantes) VC_IHR_PSRC</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.1.1&seriesCode=VC_IHR_PSRC&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">Nahita egindako hilketen biktimen kopurua 100.000 biztanleko, sexuaren arabera (biktimak 100.000 biztanleko) VC_IHR_PSRC</a> UNSTATS
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-01.pdf">Metadatos 16-1-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-01.pdf">Metadatuak 16-1-1.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 

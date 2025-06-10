@@ -1,0 +1,78 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.10-7-3-titulo
+
+# objetivo_global: objetivo_largo.10-titulo
+# meta_global: meta_largo.10-7-titulo
+#  indicador_onu_global: indicador_largo.10-7-3-titulo
+
+definicion: >- 
+
+  Number of people who have recognized refugee status or a similar 
+  international protection status per 100,000 inhabitants 
+
+
+formula: |
+
+  $$TR^{t} = \frac{R^{t}}{P^{t+1}} \cdot 100.000$$
+
+  where:
+
+  $PR^{t} =$ people with a refugee identity document, subsidiary protection identity document or temporary residence authorization
+  due to exceptional circumstances in force on December 31 of the year $t$
+
+  $P^{t+1} =$  population on January 1 of year $t+1$
+
+desagregacion: 
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca 
+
+observaciones:
+
+  It should be noted that the breakdown by autonomous communities of the number 
+  of people who have been granted refugee status or a similar international 
+  protection status in Spain is not based on place of residence, but rather on 
+  the location where the administrative procedure that gave rise to that status 
+  was carried out. 
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  
+  Forced displacement as a result of conflict, violence, and other causes 
+  undermine sustainable development, and can increase the risk of regional 
+  instability, especially when refugees are hosted in neighbouring countries, 
+  resulting in possible tensions with local populations. 
+
+  The United Nations General Assembly Resolution (A/Res/70/1) that adopted 
+  the 2030 Agenda for Sustainable Development at paragraph 23 recognizes 
+  the relevance of the Agenda to meet the needs of refugees, internally displaced 
+  persons and migrants on the basis that they are among the most vulnerable. It 
+  also explicitly states that Member States resolve to take further effective 
+  measures and actions, to strengthen support and meet the special needs of 
+  people living in areas affected by complex humanitarian emergencies. 
+
+   In addition, target 10.7 recognizes for the first time the contribution 
+  of migration to sustainable development by aiming to facilitate orderly, 
+  safe, and responsible migration and mobility of people, including through 
+  implementation of planned and well-managed migration policies. 
+
+  This indicator tracks the number of people displaced across national borders 
+  as a result of persecution, conflict, violence, human rights violations, or 
+  events seriously disturbing public order. It measures the total count of refugee 
+  population by country or territory of origin as a proportion of the total population. 
+
+  Source: United Nations Statistics Division
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=10.7.4&seriesCode=SM_POP_REFG_OR&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Number of refugees per 100,000 population, by country of origin (per 100,000 population) SM_POP_REFG_OR</a> UNSTATS
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-07-04.pdf">Metadata 10-7-4.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

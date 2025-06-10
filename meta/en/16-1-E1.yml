@@ -1,0 +1,69 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.16-1-E1-titulo
+
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-1-titulo
+
+
+definicion: >-
+  Proportion of people who report living in an area with crime or vandalism problems
+
+formula: |
+
+  $$PPDVZ^{t} = \frac{PDVZ^{t}}{P^{t}} \cdot 100$$
+
+  where:
+
+  $PDVZ^{t} =$ people who report living in an area with crime or vandalism problems in year $t$ 
+
+  $P^{t} =$ total population in year $t$
+
+desagregacion: |
+
+  Province
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  The indicator shows the share of the population who reported facing a problem of crime, violence or 
+  vandalism in their local area. This describes the situation where the respondent feels crime, violence 
+  or vandalism in the area to be a problem for the household, although this perception is not necessarily 
+  based on personal experience. 
+
+  On 24 July 2020, the European Commission presented a new EU Security Union Strategy for the period 2020-2025, 
+  which replaces the previous security strategy set out in the European Agenda on Security (2015-2020). As a 
+  central component of the strategy, the Commission defines a new way forward on internal security with actions 
+  in key areas: organized crime; terrorism and preventing violent radicalization; resilience of our critical 
+  infrastructure and public spaces; cybercrime, including the fight against child sexual abuse; police cooperation 
+  and information sharing; and research and innovation. 
+
+  Safety is a crucial aspect in people’s lives. Insecurity of any kind is a source of fear and worry, which 
+  negatively affect quality of life. Physical insecurity includes all the external factors that could potentially 
+  put the individual’s physical integrity in danger. Criminal actions are one of the most obvious abuses of insecurity. 
+  Analyses of physical insecurity usually combine both subjective and objective aspects – the subjective perception 
+  of insecurity and the objective lack of safety as measured by crime statistics. This indicator therefore complements 
+  the indicator on homicide rates by focussing on the perception of insecurity. 
+
+  Source: Eurostat
+
+dato_global: 
+
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_16_20/default/table?lang=en&category=sdg.sdg_16">Population reporting occurrence of crime, violence or vandalism in their area by poverty status (sdg_16_20)</a> Eurostat
+
+
+comparabilidad: >-
+  The available indicator complies with the EU indicator metadata.
+
+indicador_meta_enlace: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_16_20_esmsip2.htm">Metadata sdg_16_20</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

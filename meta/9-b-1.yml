@@ -9,38 +9,37 @@ meta_global: meta_largo.9-b-titulo
 
 
 definicion: >- 
-  Proporción del valor añadido bruto del sector manufacturero correspondiente a las actividades de media-alta y alta tecnología
+  Teknologia ertain-altuko eta altuko jarduerei dagokien manufaktura-sektorearen balio erantsi gordinaren proportzioa
 
 formula:  |
 
-  $$PVAB_{manufacturero\,media-alta\, y\, alta}^{t} = \frac{VAB_{manufacturero\,media-alta\, y\, alta}^{t}}{VAB_{manufacturero}^{t}} \cdot 100$$
-  donde:
+  $$PVAB_{manufaktura\, ertain-altua\, eta\, altua}^{t} = \frac{VAB_{manufaktura\, ertain-altua\, eta\, altua}^{t}}{VAB_{manufaktura}^{t}} \cdot 100$$
+  
+  non:
 
-  $VAB_{manufacturero\,media-alta\, y\, alta}^{t}$ = valor añadido bruto correspondiente a las ctividades manufactureras de media-alta y alta tecnología en el año $t$
+  $VAB_{manufaktura\, ertain-altua\, eta\, altua}^{t}$ = teknologia ertain-altuko eta altuko jarduerei dagokien manufaktura-sektorearen balio erantsia $t$ urtean
 
-  $VAB_{manufacturero}^{t}$ = valor añadido bruto total del sector manufacturero en el año $t$
+  $VAB_{manufaktura}^{t}$ = manufaktura-sektorearen balio erantsi gordin osoa $t$ urtean
 
 
 desagregacion:  
 
 observaciones:  |
 
-  Se consideran actividades manufactureras de media-alta y alta tecnología las actividades 
-  con CNAE-2009:
+  Teknologia ertain-altuko eta altuko manufaktura-jardueratzat hartzen dira JESN-2009ko ondoko jarduerak: 
 
-  Media-alta tecnología
-  - 20: Industria química
-  - 25.4: Fabricación de armas y municiones
-  - 27 a 29: Fabricación de material y equipo eléctrico; Fabricación de maquinaria 
-  y equipo n.c.o.p;   Fabricación de vehículos de motor, remolques y semirremolques
-  - 30 excepto 30.1 y 30.3: Fabricación de otro material de transporte excepto 
-  construcción naval, construcción aeronáutica y espacial y su maquinaria
-  - 32.5: Fabricación de instrumentos y suministros médicos y odontológicos
+  Teknologia ertain-altua
+  - 20: Industria kimikoa 
+  - 25.4: Armen eta munizioen fabrikazioa 
+  - 27tik 29ra: Material eta ekipo elektrikoen fabrikazioa; Makineria eta ekipoen fabrikazioa b.i.s.g.; ibilgailu motordunen, atoien eta erdi-atoien fabrikazioa 
+  - 30 (30.1 eta 30.3 izan ezik): Beste garraio-material batzuen fabrikazioa (ontzigintza, eraikuntza aeronautikoa eta espaziala eta hartarako makineria izan ezik) 
+  - 32.5: Tresna eta hornidura mediko eta odontologikoen fabrikazioa 
 
-  Alta tecnología
-  - 21: Fabricación de productos farmaceúticos
-  - 26: Fabricación de productos informáticos, electrónicos y ópticos
-  - 30.3: Construcción aeronáutica y espacial y su maquinaria
+  Teknologia altua 
+  - 21: Produktu farmazeutikoen fabrikazioa 
+  - 26: Produktu informatiko, elektroniko eta optikoen fabrikazioa 
+  - 30.3: Eraikuntza aeronautikoa eta espaziala eta bere makineria 
+
 
 periodicidad: FUENTE.FREQ_A
 
@@ -51,27 +50,27 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  El desarrollo industrial generalmente implica una transición estructural desde 
-  actividades basadas en recursos y de baja tecnología a actividades manufactureras de MAT. 
+  Garapen industrialak, oro har, egiturazko trantsizioa dakar: baliabideetan eta teknologia baxuetan 
+  oinarritutako teknologietatik MATeko manufaktura-industrietara. 
 
-  Una estructura de producción moderna y altamente compleja ofrece mejores oportunidades 
-  para el desarrollo de habilidades y la innovación tecnológica. Las actividades 
-  de MHT generalmente corresponden a las industrias con mayor valor agregado y 
-  productividad laboral. El aumento de la participación de los sectores de MAT 
-  también refleja el impacto de la innovación.
+  Ekoizpen modernoko egitura oso konplexuak aukera hobeak eskaintzen ditu gaitasunak eta berrikuntza 
+  teknologia garatzeko. MHTren jarduerak, oro har, balio erantsi eta lan-produktibitate handiagoko 
+  industriei dagozkie. MATeko sektoreen partaidetzaren igoerak, halaber, berrikuntzaren eragina islatzen du. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: | 
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.b.1&seriesCode=NV_IND_TECH&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ISIC3_D">Proporción del valor añadido de las manufacturas de tecnología media y alta en el valor añadido total (%) NV_IND_TECH</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.b.1&seriesCode=NV_IND_TECH&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ISIC3_D">Teknologia ertaineko eta altuko manufakturen balio erantsiaren proportzioa guztizko balio erantsian (%) NV_IND_TECH</a> UNSTATS
 
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEko adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-0B-01.pdf">Metadatos 9-b-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-0B-01.pdf">Metadatuak 9-b-1.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

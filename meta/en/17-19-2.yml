@@ -1,0 +1,73 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.17-19-2-titulo
+
+objetivo_global: objetivo_largo.17-titulo
+meta_global: meta_largo.17-19-titulo
+#  indicador_onu_global: indicador_largo.17-19-2-titulo
+
+definicion: >-
+
+  Logical value that indicates whether a) at least one population and housing census has been carried out in the last ten years, b) 100% of births and at least 80% of deaths have been registered
+
+formula: |
+
+  $$CPV^{t} = \begin{cases} YES & \text{At least one population and housing census has been conducted In [t, t − 9]} \\ NO & \text{no population and housing census has been carried out in [t, t − 9]} \end{cases} $$
+
+  $$RND^{t} = \begin{cases} 1 & \text{Yes, 100% of births and at least 80% of deaths have been registered in year 𝑡} \\ 0 & \text{No, 100% of births and at least 80% of deaths have not been registered in year 𝑡} \end{cases} $$
+
+
+desagregacion: 
+
+observaciones: 
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+
+  Population and housing censuses are one of the primary sources of data needed for formulating, 
+  implementing and monitoring policies and programmes aimed at inclusive socioeconomic development 
+  and environmental sustainability. Population and housing censuses are an important source for supplying 
+  disaggregated data needed for the measurement of progress of the 2030 Agenda for Sustainable 
+  Development, especially in the context of assessing the situation of people by income, sex, age, race, 
+  ethnicity, migratory status, disability and geographic location, or other characteristics. 
+
+  The introduction of indicator 17.19.2b as part of the SDG global framework reflects the recognition of the 
+  fundamental role of the civil registration system to the functioning of societies, and the legal and 
+  protective advantages that it offers to individuals. 
+
+  The essential purpose of civil registration system is to 
+  furnish legal documents of direct interest to individuals. Aside from the direct and overarching 
+  importance of civil registration to the public authorities, in that the information compiled using the 
+  registration method provides essential data for national and regional preparation and planning for 
+  medical and health-care programmes, the role played by civil registration in proving, establishing, 
+  implementing and realizing many of the human rights embodied in international declarations and 
+  conventions reflects one of its most important contributions to the normal functioning of societies. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: | 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.19.2&seriesCode=SG_REG_CENSUS&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proportion of countries that have conducted at least one population and housing census in the last 10 years (%) SG_REG_CENSUS</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.19.2&seriesCode=SG_REG_BRTH90&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proportion of countries with birth registration data that are at least 90 percent complete (%) SG_REG_BRTH90</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.19.2&seriesCode=SG_REG_DETH75&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proportion of countries with death registration data that are at least 75 percent complete (%) SG_REG_DETH75</a> UNSTATS
+
+comparabilidad: >-
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-19-02a.pdf">Metadata 17-19-2a.pdf</a>
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-19-02b.pdf">Metadata 17-19-2b.pdf</a>
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

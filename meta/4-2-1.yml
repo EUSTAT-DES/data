@@ -22,25 +22,24 @@ observaciones:
 
 
 justificacion_global: |
-  El desarrollo de la primera infancia (DPI) sienta las bases para un desarrollo 
-  integral a lo largo de la vida. Invertir en DPI es una de las inversiones más 
-  cruciales y rentables que un país puede realizar para mejorar la salud, la educación 
-  y la productividad de los adultos, con el fin de fortalecer el capital humano y 
-  promover el desarrollo sostenible. 
+  Lehen haurtzaroaren garapenak (LHG) bizitzan zehar garapen integrala izateko oinarriak ezartzen ditu. LHGan inbertitzea 
+  herrialde batek helduen osasuna, hezkuntza eta produktibitatea hobetzeko egin dezakeen inbertsiorik erabakigarrienetako 
+  eta errentagarrienetako bat da, giza kapitala indartu eta garapen iraunkorra sustatze aldera. 
 
-  El DPI implica equidad desde el principio y constituye un buen indicador 
-  del desarrollo nacional. Los esfuerzos para mejorar el DPI pueden generar 
-  mejoras humanas, sociales y económicas tanto para las personas como para las sociedades.
+  LHGak ekitatea dakar hasieratik, eta garapen nazionalaren adierazle ona da. LHGa hobetzeko ahaleginek hobekuntza humanoak, 
+  sozialak eta ekonomikoak eragin ditzakete, bai pertsonentzat, bai gizarteentzat. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >- 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.2.1&seriesCode=SE_DEV_ONTRK&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=M36T59%20%7C%20BOTHSEX">Proporción de niños de 36 a 59 meses que están encaminados en su desarrollo en al menos tres de los siguientes dominios; alfabetización y aritmética, desarrollo físico, desarrollo socioemocional y aprendizaje (% de niños de 36 a 59 meses) SE_DEV_ONTRK</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=4.2.1&seriesCode=SE_DEV_ONTRK&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=M36T59%20%7C%20BOTHSEX">Honako eremu hauetako hiru gutxienez garatzera bideratutako 36 eta 59 hilabete bitarteko haurren proportzioa: alfabetatzea eta aritmetika, garapen fisikoa, garapen sozioemozionala eta ikaskuntza (36 eta 59 hilabete bitarteko haurren %) SE_DEV_ONTRK</a> UNSTATS
 
 comparabilidad:
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-02-01.pdf">Metadatos 4-2-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-02-01.pdf">Metadatuak 4-2-1.pdf</a> (ingelesez bakarrik)
 
 informacion_interes: 
 national_data_updated_date: ''

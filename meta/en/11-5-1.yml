@@ -1,0 +1,63 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.11-5-1-titulo
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-5-titulo
+#  indicador_onu_global: indicador_largo.11-5-1-titulo
+
+definicion: >-
+  Deaths attributed to natural disasters per 100.000 inhabitants 
+
+formula: |
+
+  $$TM_{disasters}^{t} = \frac{D_{disasters}^{t}}{P^{t}} \cdot 100$$
+
+  where:
+
+  $D_{disasters}^{t} =$ deaths attributed to natural disasters (codes X30-X39 of the ICD-10) in year $t$
+
+  $P^{t} =$ population as of 1 July of year $t$
+
+desagregacion: |
+  Sex
+  
+  Province/County/Municipality
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  The Sendai Framework for Disaster Risk Reduction 2015-2030 was adopted 
+  by UN Member States in March 2015 as a global policy of disaster risk 
+  reduction. 
+
+  Its targets include: 
+
+  Target A: Substantially reduce global disaster mortality by 2030, aiming 
+  to lower average per 100,000 global mortality between 2020-2030 compared 
+  with 2005-2015. 
+
+  Target B: Substantially reduce the number of affected people globally by 
+  2030, aiming to lower the average global figure per 100,000 between 2020-2030 
+  compared with 2005-2015. 
+
+  The achievement of its targets will contribute to sustainable development 
+  and strengthen economic, social, health, and environmental resilience. 
+
+  Source: United Nations Statistics Division 
+
+comparabilidad: >-
+  The available indicator partially complies with the United Nations metadata
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-05-01.pdf">Metadata 11-5-1.pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

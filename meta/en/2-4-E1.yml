@@ -15,7 +15,7 @@ definicion: >-
 formula: |
   $$PSA_{organic}^{t} = \frac{SA_{organic}^{t}}{SA^{t}} \cdot 100$$
 
-  donde:
+  where:
 
   $SA_{organic}^t =$ agricultural area used for organic production in the year $t$
 

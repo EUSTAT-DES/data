@@ -1,0 +1,63 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.3-3-1-titulo
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-3-titulo
+#  indicador_onu_global: indicador_largo.3-3-1-titulo
+
+
+definicion: >-
+  Nuevos diagnósticos de VIH notificados al Sistema de Información sobre Nuevos Diagnósticos de VIH 
+  (SINIVIH) por cada 1.000 habitantes
+
+formula: |
+
+  $$TND_{VIH}^{t} = \frac{ND_{VIH}^{t}}{P^{t}} \cdot 1.000$$
+
+  donde:
+
+  $ND_{VIH}^{t} =$ nuevos diagnósticos de VIH notificados al Sistema de Información sobre Nuevos Diagnósticos de VIH (SINIVIH) en el año $t$
+
+  $P^{t} =$ población a 1 de julio del año $t$
+
+desagregacion: >- 
+  Sexo
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: |
+
+  Este indicador no tiene en cuenta el lugar de origen de la infección, es decir, se consideran tanto infecciones 
+  autóctonas   (infecciones producidas en el territorio nacional) como infecciones no autóctonas (infecciones producidas 
+  en el extranjero). 
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  La tasa de incidencia proporciona una medida del progreso hacia la prevención de la transmisión del VIH.
+  Aunque otros indicadores también son muy importantes para la epidemia del VIH, la incidencia del VIH refleja el éxito en
+  programas de prevención y, hasta cierto punto, programas de tratamiento exitosos, ya que también conducirán
+  a reducir la incidencia del VIH.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.3.1&seriesCode=SH_HIV_INCD&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=%3C15Y%20%7C%20BOTHSEX">Número de nuevas infecciones por VIH por cada 1.000 habitantes no infectados, por sexo y edad (por cada 1.000 habitantes no infectados) SH_HIV_INCD</a> UNSTATS
+
+comparabilidad: >- 
+  El indicador disponible no cumple estrictamente con los metadatos de Naciones Unidas 
+  al no cuantificar la tasa sobre la población no infectada, sino por toda la población.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-01.pdf">Metadatos 3-3-1.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

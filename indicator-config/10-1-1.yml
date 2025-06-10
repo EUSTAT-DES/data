@@ -39,8 +39,8 @@ sources:
     logo: FUENTE.Euskadi_logo
   - organisation: FUENTE.Eustat
     periodicity: FUENTE.FREQ_A
-    url: FUENTE.Eustat_cegf_url
-    url_text: FUENTE.Eustat_cegf
+    url: FUENTE.Eustat_egf_url
+    url_text: FUENTE.Eustat_egf
     logo: FUENTE.Eustat_logo
 standalone: false
 tags: ''

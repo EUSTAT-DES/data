@@ -1,0 +1,79 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.16-2-2-titulo
+
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-2-titulo
+#  indicador_onu_global: indicador_largo.16-2-2-titulo
+
+definicion: >-
+  Number of detected victims of human trafficking for sexual exploitation, labour exploitation, removal of organ, forced marriages, forced crime and/or begging per 100,000 inhabitants
+
+formula: |
+
+  $$TVTP^{t} = \frac{VTP_{sexual\, exp}^{t}+VTP_{labour\, exp}^{t}+VTP_{organ\, removal}^{t}+VTP_{other\, purposes}^{t}}{P^{t}} \cdot 100.000$$ 
+
+  where:
+
+  $VTP_{sexual\, exp}^{t} =$ number of detected victims of human trafficking for sexual exploitation in year $t$ 
+
+  $VTP_{labour\, exp}^{t} =$ number of detected victims of human trafficking for labour exploitation in year $t$ 
+
+  $VTP_{organ\, removal}^{t} =$ number of detected victims of human trafficking for removal of organ in year $t$ 
+
+  $VTP_{other\, purposes}^{t} =$ number of detected victims of human trafficking for forced marriages, forced crime and/or begging in year $t$ 
+  
+  $P^{t} =$ population as of July 1 of the year $t$ 
+
+
+desagregacion: |
+  Type of exploitation: sexual exploitation; labour exploitation; removal of organ; other purposes (forced marriages, forced crime and begging) 
+
+
+observaciones: |
+
+  The indicator may be somewhat overestimated, as the same person may have been detected as a victim of human 
+  trafficking in two or more different types of exploitation, and their identification is not possible for 
+  confidentiality reasons. Likewise, the indicator may be somewhat overestimated at the state level, as the same 
+  person may have been detected as a victim of human trafficking in two or more different autonomous communities, 
+  and their identification is not possible for confidentiality reasons. 
+
+  Human trafficking: recruitment, transportation, transfer, harbouring or receipt of persons, by means of the threat 
+  or use of force or other forms of coercion, abduction, fraud, deception, abuse of power or a position of vulnerability, 
+  or the giving or receiving of payments or benefits to achieve the consent of a person having control over another, 
+  for the purpose of exploitation. Such exploitation shall include, as a minimum, the exploitation of the prostitution 
+  of others or other forms of sexual exploitation, forced labour or services, slavery or practices similar to slavery, 
+  servitude or the removal of organs. 
+
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Trafficking in persons is a serious crime and a grave violation of human rights. Every day, victims are 
+  exploited in restaurants, farms, construction sites, brothels, factories, markets, mines and in people’s 
+  homes everywhere, but little is known about the prevalence and characteristics of the crime. Better data 
+  is needed to inform more effective responses, and provide policymakers and practitioners with the 
+  information and analysis they need to sharpen anti-trafficking action and improve prevention. 
+
+  This indicator aims to measure the prevalence of trafficking in persons according to the victims profile 
+  and the forms of exploitation, and to track global, regional, and national progress in combatting this 
+  crime. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: 
+
+
+comparabilidad: >-
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-02.pdf">Metadata 16-2-2.pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

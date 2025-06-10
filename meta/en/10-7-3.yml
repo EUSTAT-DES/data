@@ -1,0 +1,47 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.10-titulo
+# meta_global: meta_largo.10-7-titulo
+#  indicador_onu_global: indicador_largo.10-7-3-titulo
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  
+  Missing Migrants Project (MMP) data bears witness to the ongoing 
+  global crisis of deaths during migration and is the only global 
+  database on this topic. It is hoped that by counting and accounting 
+  for these deaths, almost all of which are linked to irregular migration, 
+  policymakers, academics, and the general public will be better informed 
+  about the risks linked to unsafe migration. 
+
+  While data by itself might not bring about change, it can provide the 
+  necessary evidence to prompt action. However, it is likely that the data 
+  currently available is a vast undercount of the true number of lives lost 
+  during migration. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=10.7.3&seriesCode=SM_DTH_MIGR&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Total deaths and disappearances recorded during migration (number) SM_DTH_MIGR</a> UNSTATS
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-07-03.pdf">Metadata 10-7-3.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

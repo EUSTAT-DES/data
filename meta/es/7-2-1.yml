@@ -1,0 +1,80 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.7-2-1-title
+
+objetivo_global: objetivo_largo.7-titulo
+meta_global: meta_largo.7-2-titulo
+#  indicador_onu_global: indicador_largo.7-2-1-titulo
+
+
+definicion: |
+
+  Proporción de energías renovables en el consumo final bruto de energía
+
+formula: |
+
+  $$PER^{t} = \frac{ER^{t}}{CFE^{t}} \cdot 100$$ 
+
+  donde: 
+
+  $ER^{t} =$ consumo de energía procedente de fuentes renovables en el año $t$ 
+
+  $CFE^{t} =$ consumo final bruto de energía en el año $t$
+
+
+desagregacion: >- 
+ 
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >- 
+
+
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  El objetivo “De aquí a 2030, aumentar sustancialmente la proporción de 
+  energía renovable en la matriz energética mundial” afecta a las tres dimensiones 
+  del desarrollo sostenible. 
+
+  Las tecnologías de energía renovable representan un elemento importante en 
+  las estrategias para hacer más ecológicas las economías en todo el mundo 
+  y para abordar el crítico problema mundial del cambio climático. 
+
+  Existen varias definiciones de energía renovable; lo que tienen en común es destacar 
+  como renovables todas las formas de energía cuyo consumo no agote 
+  su disponibilidad en el futuro. Entre ellas se incluyen la solar, la eólica, 
+  la oceánica, la hidroeléctrica, las fuentes geotérmicas y la bioenergía 
+  (en el caso de la bioenergía, que puede agotarse, las fuentes de bioenergía 
+  pueden reemplazarse en un marco de corto a mediano plazo). 
+
+  Es importante destacar que este indicador se centra en la cantidad de 
+  energía renovable 
+  realmente consumida en lugar de en la capacidad de producción de energía 
+  renovable, que no siempre puede utilizarse en su totalidad. Al centrarse 
+  en el consumo por parte del usuario final, evita las distorsiones causadas 
+  por el hecho de que las fuentes de energía convencionales están sujetas a 
+  pérdidas de energía significativas a lo largo de la cadena de producción.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=7.2.1&seriesCode=EG_FEC_RNEW&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Participación de las energías renovables en el consumo final total de energía (%) EG_FEC_RNEW</a> UNSTATS
+
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+
+indicador_meta_enlace: 
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-02-01.pdf">Metadatos 7-2-1.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

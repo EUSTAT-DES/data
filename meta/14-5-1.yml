@@ -8,19 +8,19 @@ indicador_disponible: GRAFICO.14-5-1-titulo
 
 
 definicion:
-  Porcentaje de los lugares importantes para la biodiversidad marina (aquellos que contribuyen 
-  significativamente a la persistencia global de la biodiversidad) que está 
-  cubierto por áreas protegidas
+  Itsasoko biodibertsitaterako garrantzitsuak diren lekuen ehunekoa (biodibertsitatearen iraunkortasun 
+  orokorrean nabarmen laguntzen duten horiena), babestutako inguruen bidez estalia 
+
 
 formula: |
 
   $$PKBA_{mar}^{t} = \frac{APKBA_{mar}^{t}}{KBA_{mar}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $APKBA_{mar}^{t} =$ superficie de los lugares importantes para la biodiversidad marina cubierta por áreas protegidas en el año $t$
+  $APKBA_{mar}^{t} =$ eremu babestuek estalitako itsas biodibertsitaterako leku garrantzitsuen azalera $t$ urtean
 
-  $KBA_{mar} =$ superficie de los lugares importantes para la biodiversidad marina en el año $t$
+  $KBA_{mar} =$ itsas biodibertsitaterako leku garrantzitsuen azalera $t$ urtean
 
 
 desagregacion: 
@@ -33,30 +33,30 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  La protección de lugares importantes es vital para frenar la pérdida de biodiversidad 
-  y garantizar el uso sostenible a largo plazo de los recursos naturales marinos. 
-  El establecimiento de áreas protegidas es un mecanismo clave para lograr este objetivo, 
-  y este indicador sirve para medir el progreso hacia la conservación, la restauración y 
-  el uso sostenible de los ecosistemas marinos y sus servicios, de conformidad con las 
-  obligaciones contraídas en virtud de los acuerdos internacionales.
+  Leku garrantzitsuak babestea funtsezkoa da biodibertsitateren galera eten eta itsasoko baliabide 
+  naturalen erabilera jasangarria bermatzeko epe luzera. Arlo babestuak ezartzea gakoa da helburu 
+  hori lortzeko, eta adierazle hau, era berean, lagungarria da ikusteko zenbat egin den aurrera 
+  itsas ekosistemak eta horien zerbitzuak kontserbatzen, lehengoratzen eta erabilera jasangarria 
+  ematen, nazioarteko akordioen arabera hartutako betebeharrei jarraikiz. 
 
-  Este indicador aporta información significativa, complementa y amplía las 
-  estadísticas simples tradicionalmente reportadas sobre el área marina cubierta 
-  por áreas protegidas. Se calcula dividiendo el área protegida total de un país 
-  entre su superficie territorial total y multiplicando por 100 (p. ej., Chape et al., 2005). 
-  Estas estadísticas de cobertura porcentual no reconocen la extrema variación de la importancia 
-  de la biodiversidad en el espacio (Rodrigues et al., 2004), por lo que corren el riesgo de 
-  generar resultados perversos al proteger áreas extensas en detrimento de las que requieren protección.
+  Adierazle honek informazio esanguratsua ematen du, eta babestutako arloek estalitako itsas guneari 
+  buruz tradizionalki emandako estatistika sinpleak osatu eta hedatzen ditu. Hori kalkulatzeko eragiketa 
+  hau egin behar da: herrialde bateko arlo babestua guztira zati lurraldeko azalera guztira bider 100 
+  (adibidez, Chape et al., 2005). Ehuneko-estalduraren estatistika hauek ez dute aitortzen biodibertsitatearen 
+  garrantziak muturreko aldaketak dituela espazioan (Rodrigues eta al., 2004). Ondorioz, emaitza negatiboak 
+  sortzeko arriskua dute, inguru zabalak babestu ditzaketelako, babesa behar duten horien kaltetan. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=14.5.1&seriesCode=ER_MRN_MPA&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
-  Proporción promedio de áreas marinas clave para la biodiversidad (KBA) cubiertas por áreas protegidas (%) ER_MRN_MPA</a> UNSTATS
+  Babestutako eremuek estalitako biodibertsitaterako funtsezko itsas eremuen (KBA) batez besteko proportzioa (%) ER_MRN_MPA</a> UNSTATS
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-14-05-01.pdf">Metadatos 14-5-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-14-05-01.pdf">Metadatuak 14-5-1.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

@@ -1,0 +1,67 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.9-1-1-title
+
+objetivo_global: objetivo_largo.9-titulo
+meta_global: meta_largo.9-1-titulo
+#  indicador_onu_global: indicador_largo.9-1-1-titulo
+
+
+definicion: >- 
+  The indicator (commonly known as the Rural Access Index or RAI) measures the share of a country’s rural 
+  population that lives within 2 km of an all-season road.
+
+formula:  |
+
+  $$IAR^{t} = \frac{PR_{all\, season\, road}^{t}}{PR^{t}} \cdot 100$$
+
+  where:
+
+  $PR_{all\, season\, road}^{t} =$ rural population that lives within 2 km of an all-season road in year $t$
+
+  $PR^{t} =$ rural population in year $t$
+
+
+desagregacion: >- 
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  The Rural Access Index (RAI), originally developed by the World Bank in 2006, is among the most 
+  important global development indicators in the transport sector, providing a strong, clearly 
+  understandable and conceptually consistent indicator across countries. It measures the proportion of 
+  people living in rural areas who have access to an all-season road within a walking distance of 
+  approximately 2 kilometres (km). 
+
+  Among other factors, transport connectivity is an essential part of the enabling environment for inclusive 
+  and sustained growth. In developing countries, particularly in Africa, the vast majority of agricultural 
+  production remains smallholder farming with limited access to local, regional, or global markets. 
+
+  Isolated manufacturing and other local businesses (except for those related to mining) often lag behind 
+  in the   global market. Limited transport connectivity is also a critical constraint to accessing social 
+  and administrative services, especially in rural areas where the majority of the poor live. 
+
+  Rural access is key to unleashing untapped economic potential and eradicating poverty in many 
+  developing countries. In the short term, transport costs and travel time can be reduced by improved road 
+  conditions. Over the longer term, agricultural productivity will be increased, and firms will become more 
+  profitable with the creation of more jobs, eventually helping to alleviate poverty. 
+
+  Source: United Nations Statistics Division
+
+dato_global: >-
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-01-01.pdf">Metadata 9-1-1.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

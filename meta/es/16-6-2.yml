@@ -1,0 +1,82 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.16-6-2-titulo
+
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-6-titulo
+#  indicador_onu_global: indicador_largo.16-6-2-titulo
+
+definicion: >-
+  Proporción media de la población que se siente muy o bastante satisfecha con el funcionamiento de los servicios públicos en materia de enseñanza, asistencia sanitaria, gestión de pensiones, administración de justicia, seguridad ciudadana, servicios sociales, transporte público, obras públicas y ayuda a personas dependientes.
+
+formula: |
+
+  $$PPS^t = \frac{1}{n} \sum_{i=1}^{n} PPS_{i}^{t}$$
+
+  donde:
+
+  $PPS_{i}^{t}$ representa la proporción de la población satisfecha con el funcionamiento de los servicios públicos en el año $t$ 
+  para las siguientes áreas: enseñanza, asistencia sanitaria, gestión de pensiones, 
+  administración de justicia, seguridad ciudadana, servicios sociales, transporte 
+  público, obras públicas y ayuda a personas dependientes
+  
+desagregacion: |
+
+  Servicios públicos: enseñanza, asistencia sanitaria, gestión de pensiones, 
+  administración de justicia, seguridad ciudadana, servicios sociales, transporte 
+  público, obras públicas y ayuda a personas dependientes
+
+  Sexo
+
+  Territorio histórico
+
+
+observaciones:
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Los gobiernos tienen la obligación de proporcionar una amplia gama de servicios públicos 
+  que satisfagan las expectativas de sus ciudadanos en términos de acceso, capacidad de 
+  respuesta y fiabilidad/calidad. 
+
+  Cuando los ciudadanos no pueden permitirse algunos servicios esenciales, cuando su 
+  acceso geográfico o electrónico a los servicios y a la información es difícil, cuando 
+  los servicios prestados no responden a sus necesidades y son de mala calidad, los 
+  ciudadanos tenderán naturalmente a manifestar una menor satisfacción no solo con 
+  estos servicios, sino también con las instituciones públicas y los gobiernos. 
+
+  En este sentido, se ha demostrado que la experiencia de los ciudadanos con los 
+  servicios públicos de primera línea afecta a su confianza en las instituciones públicas 
+  (OCDE 2017, Confianza y políticas públicas: cómo una mejor gobernanza puede ayudar a 
+  reconstruir la confianza pública; Eurofound 2018, Cambio social y confianza en 
+  las instituciones).
+
+  Conscientes de esta estrecha relación entre la prestación y el rendimiento de los servicios, 
+  la satisfacción de los ciudadanos y la confianza pública, los gobiernos están cada vez 
+  más interesados ​​en comprender mejor las necesidades, experiencias y preferencias de 
+  los ciudadanos para poder proporcionar servicios más específicos, incluso para las 
+  poblaciones desatendidas.
+
+  Medir la satisfacción con los servicios públicos es el núcleo de un enfoque centrado en 
+  los ciudadanos para la prestación de servicios y un indicador de resultados importante 
+  del desempeño general del gobierno.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: 
+
+
+comparabilidad: >-
+  El indicador disponible cumple con los metadatos de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-06-02.pdf">Metadatos 16-6-2.pdf</a> (solo en inglés)'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

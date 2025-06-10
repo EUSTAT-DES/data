@@ -1,0 +1,71 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.17-8-1-titulo
+
+objetivo_global: objetivo_largo.17-titulo
+meta_global: meta_largo.17-8-titulo
+#  indicador_onu_global: indicador_largo.17-8-1-titulo
+
+definicion: >-
+  Proportion of people aged 16-74 who have used the Internet in the last three months
+
+formula: |
+
+  $$PPINT_{16-74}^{t} = \frac{PINT_{16-74}^{t}}{P_{16-74}^{t}} \cdot 100$$
+
+  where:
+ 
+  $PINT_{16-74}^{t} =$ people aged 16-74 who have used the Internet in the last three months in year $t$
+
+  $P^{t} =$ population aged 16-74 in year $t$
+
+desagregacion: |
+  Sex
+
+  Province
+
+observaciones: 
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  The Internet has become an increasingly important tool to access public information, which is a relevant 
+  means to protect fundamental freedoms. 
+
+  The number of Internet users has increased substantially over 
+  the last decade and access to the Internet has changed the way people live, communicate, work and do 
+  business. Internet uptake is a key indicator tracked by policy makers and others to measure the 
+  development of the information society and the growth of Internet content – including user-generated 
+  content – provides access to increasing amounts of information and services. 
+
+  Despite growth in networks, services and applications, information and communication technology (ICT) 
+  access and use is still far from equally distributed, and many people cannot yet benefit from the potential 
+  of the Internet. 
+
+  This indicator highlights the importance of Internet use as a development enabler and 
+  helps to measure the digital divide, which, if not properly addressed, will aggravate inequalities in all 
+  development domains. Classificatory variables for individuals using the Internet –such as age, sex, 
+  education level or labour force status – can help identify digital divides in individuals using the Internet. 
+  This information can contribute to the design of targeted policies to overcome those divides. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.8.1&seriesCode=IT_USE_ii99&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">Proportion of individuals using the Internet (%) IT_USE_ii99</a> UNSTATS
+
+
+comparabilidad: >-
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-08-01.pdf">Metadata 17-8-1.pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

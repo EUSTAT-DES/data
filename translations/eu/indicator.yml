@@ -1,8 +1,10 @@
 chart: Grafikoa
 clear_all: Dena garbitu
 clear_selections: Ezabatu aukeraketak
-data_not_available: Informazio hau ez dago eskuragarri. Aukeratu datu alternatiboak erakusteko.
-dataset_size_warning: Datu gehiegi daude grafikoan erakusteko. Dena ez da erakutsiko selekzio batzuk kendu arte.
+data_not_available: Informazio hau ez dago eskuragarri. Aukeratu datu alternatiboak 
+  erakusteko.
+dataset_size_warning: Datu gehiegi daude grafikoan erakusteko. Dena ez da erakutsiko aukeraketa 
+  batzuk kendu arte.
 download_chart: Deskargatu grafikoko datuak (.csv)
 download_csv: Deskargatu datuak (.csv)
 download_csv_title: Deskargatu CSV datuak
@@ -23,28 +25,32 @@ edit_metadata: Metadatuak editatu
 footnote: Oharra
 geographical_area: Eremu geografikoa
 global_metadata: Adierazlearen deskribapena
-global_metadata_blurb: Taula honek GJHen adierazleen metadatuei buruzko informazioa ematen du, NBEko Estatistika Batzordeak definitzen dituen moduan.  <a href="https://unstats.un.org/sdgs/metadata/">Metadatu osoagoak</a> NBEko Estatistika Dibisioak ematen ditu.
+global_metadata_blurb: Atal honek Nazio Batuen adierazleari edo Europar Batasunaren Garapen Jasangarrirako adierazleari buruzko informazio gehiago ematen du, hala nola justifikazioa, nazioarteko emaitzak, metadatuak eta beste estatistika interesgarri batzuk 
 legend_help: Egin klik legendan grafikotik banakako lerroak ezabatzeko.
 loading: Kargatzen
 loading_map: Mapa kargatzen
 map: Mapa
 national_metadata: Metodologia fitxa
-national_metadata_blurb: Taula honek GJHen adierazletik hurbilen dagoen eta eskuragarria den %country.adjective adierazle errealerako metadatuak ematen ditu. Kontuan izan %country.adjective GJHen adierazle globala guztiz eskuragarri denean ere, taula hau kontsultatu daitekeela metodologia nazionalari eta metadatu espezifikoei buruzko informazioa lortzeko.
+national_metadata_blurb: Euskal AErako eskuragarri dagoen adierazlearen fitxa metodologikoa
 no_data_hint: Ez dago aukerarik eskuragarri aurreko aukeraketak direla eta
+relacionados: Lotutako adierazleak
 select_all: Dena hautatu
 series: Seriea
-series_help: Datuen desagregazioak ikusteko, aukeratu jarraian goitibeherako zerrenden kategoriak. Batzuk ez dira erabilgarri egongo goragoko mailan kategoriaren bat aukeratu arte
+series_help: Datuen desagregazioak ikusteko, aukeratu jarraian goitibeherako 
+  zerrenden kategoriak. Batzuk ez dira erabilgarri egongo goragoko mailan 
+  kategoriaren bat aukeratu arte. 
 source: Iturria
 sources: Iturriak
 sub_categories: Azpikategoriak
 table: Taula
-unit_of_measurement: Neurri-unitatea
+unit_of_measurement: Unitatea
 units_type: Unitate mota
 variable_hint: «%field» hautatzen denean eskuragarri
 view_indicator_list: Ikusi helburu honetako adierazleen zerrenda
 edit_configuration: Konfigurazioa editatu
 next: Hurrengo adierazlea
 previous: Aurreko adierazlea
+main: Adierazle nagusira itzuli
 tags: Etiketak
 status: adierazlearen egoera
 table_column_sort: Sakatu zutabe honen bidez ordenatzeko
@@ -55,8 +61,10 @@ map_year_slider: Urteko irristagailua
 chart_annotation: Grafiko batean idaztea
 annotation_2030_target: 2030erako adierazlearen helburua
 plot_legend_description: 'Grafikoaren legenda: grafikoan sartutako lerroen zerrenda'
-data_keyboard_navigation: Sakatu Enter datu-puntuetan ezkerreko eta eskuineko gezi-teklekin.
-data_tabular_alternative: Datuak taula forman ikusteko, joan Taula pestañara.
+data_keyboard_navigation: Sakatu Enter datu-puntuetan ezkerreko eta eskuineko 
+  gezi-teklekin.
+data_tabular_alternative: Datuak taula forman ikusteko, joan Taula 
+  erlaitzera.
 announce_data_removed: Grafiko eta taula eguneratuak datuak kentzeko.
 announce_data_added: Grafiko eta taula eguneratuak datuak sartzeko.
 announce_data_not_available: Taulak eta grafikoak ez dute daturik erakusten.
@@ -64,7 +72,8 @@ sub_categories_show: 'Azpikategoriak erakutsi:'
 unit: Unitatea
 headline_data: Datu nagusiak
 no_headline_data: Ez dago datu nagusirik
-download_source_for_disaggregations: Deskargatu desagregazioen jatorrizko datuak (.csv)
+download_source_for_disaggregations: Deskargatu desagregazioen jatorrizko 
+  datuak (.csv)
 apply: Aplikatu
 cancel: Ezeztatu
 change_breakdowns: Desagregazioak aldatu
@@ -79,11 +88,17 @@ map_fullscreen: Ikusi mapa pantaila osoan
 map_fullscreen_exit: Mapatik pantaila osora ateratzea
 map_slider_back: Ikusi aurreko denbora-tarterako maparen datuak
 map_slider_forward: Ikusi hurrengo denbora-tarterako maparen datuak
-map_slider_keyboard: Ikusi maparen datuak denbora-tarte osoan, ezkerreko eta eskuineko gezi-teklak erabilita
+map_slider_keyboard: Ikusi maparen datuak denbora-tarte osoan, ezkerreko eta 
+  eskuineko gezi-teklak erabilita
 annotation_series_break: Seriearen haustura
 empty_metadata_placeholder_sources: Ez dago eskuragarri iturri honetarako
 proxy: Proxy
-proxy_description: Adierazle honek Nazio Batuen Erakundeak (NBE) zehaztutako adierazleaz bestelako datu batzuk ditu. Adierazle hau da gaur egun aurkitu den estatistiketatik egokiena dena.
+proxy_description: Adierazle honek Nazio Batuen Erakundeak (NBE) zehaztutako adierazleaz 
+  bestelako datu batzuk ditu. Adierazle hau da gaur egun aurkitu den estatistiketatik 
+  egokiena dena.
 note: oharra
 announce_series_switched: Grafiko eta taula eguneratuak serie desberdin bat erakusteko.
 announce_unit_switched: Grafiko eta taula eguneratuak, unitate desberdin bat erakusteko.
+territorio: Lurraldeak
+comarca: Eskualdeak
+municipio: Udalerriak

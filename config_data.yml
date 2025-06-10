@@ -8,8 +8,8 @@
 # This tells sdg-build to perform "translated builds" for each of the specified
 # languages. Each build is in its own subfolder - one for each language.
 languages:
-  - es
   - eu
+  - es
   - en
 
 # Destination directory
@@ -72,9 +72,9 @@ inputs:
 # The defaults below show what is used when this is omitted.
 translations:
   # This pulls in translations from a Git repository.
-  - class: TranslationInputSdgTranslations
-    source: https://github.com/open-sdg/sdg-translations.git
-    tag: 2.3.0
+  #- class: TranslationInputSdgTranslations
+  #  source: https://github.com/open-sdg/sdg-translations.git
+  #  tag: 2.3.0
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations

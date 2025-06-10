@@ -1,0 +1,98 @@
+ # Metadatos nacionales (ficha metodológica)
+
+indicador_disponible: >-
+  GRAFICO.6-2-1-titulo
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.6-2-titulo
+#  indicador_onu_global: indicador_largo.6-2-1-titulo
+
+definicion: >-
+  Available series:  
+
+   - Proportion of homes with running water: Proportion of main family dwellings with 
+   running water supply
+  
+   - Proportion of homes with a bathroom: Proportion of main family dwellings with a bathroom 
+
+formula: |
+  <b>Proportion of homes with running water</b>
+
+  $$PVP_{running\, water}^{t} = \frac{VP_{running\, water}^{t}}{VP^{t}} \cdot 100$$
+
+  where:
+
+  $VP_{running\, water}^{t} =$ main family dwellings with running water supply in year $t$
+
+  $VP^{t} =$ main family dwellings in year $t$
+
+  <br>
+
+  <b>Proportion of homes with a bathroom</b>
+
+  $$PVP_{bathroom}^{t} = \frac{VP_{bathroom}^{t}}{VP^{t}} \cdot 100$$
+
+  where:
+
+  $VP_{bathroom}^{t} =$ main family dwellings with a bathroom in year $t$
+
+  $VP^{t} =$ main family dwellings in year $t$
+
+
+desagregacion: |
+  Province/County/Municipality
+
+observaciones: >-
+  A main family dwelling is a home that is used all or most of the year 
+  as a habitual residence by one or more persons.
+
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+
+  Access to safe sanitation and hygiene services is essential 
+  for good health, welfare and productivity and is  widely recognized 
+  as a human right. Unsafe management of human excreta and poor 
+  sanitation practices are closely associated with diarrhoeal diseases, 
+  which exacerbate malnutrition and remain a major public health concern 
+  and a leading global cause of child deaths, as well as parasitic infections 
+  such as soil  transmitted helminths (worms) and a range of other neglected 
+  tropical diseases. While access to a hygienic toilet facility is essential 
+  for reducing the transmission of pathogens, it is equally important to ensure 
+  safe management, treatment and disposal of the excreta produced. 
+  
+  Sharing of sanitation facilities is also an important consideration given 
+  the negative impacts on dignity, privacy and personal safety. Lack of access 
+  to suitable sanitation and hygiene facilities is a major cause of risks and 
+  anxiety, especially for women and girls. For all these reasons, access to 
+  sanitation and hygiene services that prevent disease, provide privacy and ensure 
+  dignity has been recognized as a basic human right. 
+  
+  The SDG target 6.2 relating to sanitation and hygiene aim to achieve this right 
+  through universal access to safely managed services. 
+
+  Source: United Nations Statistics Division
+
+dato_global: |
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.2.1&seriesCode=SH_SAN_HNDWSH&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA">Proportion of population with basic handwashing facilities on premises, by urban/rural (%) SH_SAN_HNDWSH</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.2.1&seriesCode=SH_SAN_SAFE&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA">
+  Proportion of population using safely managed sanitation services, by urban/rural (%) SH_SAN_SAFE</a> UNSTATS
+
+comparabilidad: >-
+  The available indicator does not comply with United Nations metadata but provides similar information
+
+indicador_meta_enlace: |
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01a.pdf">Metadata 6-2-1(a).pdf</a> 
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01b.pdf">Metadata 6-2-1(b).pdf</a>
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

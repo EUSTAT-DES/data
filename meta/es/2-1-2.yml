@@ -1,0 +1,76 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+indicador_disponible: >-
+  GRAFICO.2-1-2-titulo
+
+objetivo_global: objetivo_largo.2-titulo
+meta_global: meta_largo.2-1-titulo
+ # indicador_onu_global: indicador_largo.1-2-2-titulo
+
+
+definicion: >-
+  Porcentaje de la población que ha sufrido durante los últimos doce meses alguno de los
+  problemas de inseguridad alimentaria de la Escala de Seguridad Alimentaria (FSS)
+
+formula: |
+
+  $$T_{FSS}^{t} = \frac{P_{FSS}^{t}}{P^{t}} \cdot 100$$
+
+  donde:
+
+  $P_{FSS}^{t} =$ población que ha sufrido alguna situación de inseguridad alimentaria 
+  grave o muy grave en los últimos 12 meses en el año $t$
+
+  $P^{t} =$ población total en el año $t$
+
+desagregacion: 
+
+observaciones: |
+  El indicador mide la proporción de personas que experimentan alguna situación de
+  inseguridad alimentaria según el siguiente cuestionario:
+
+   - A- Se les agotan los alimentos que compran y no disponen de dinero para conseguir más
+   - B- No pueden conseguir una alimentación equilibrada y variada
+   - C- ¿Han recortado la cantidad de comida o incluso se han saltado algunas comidas porque no disponían de dinero suficiente para alimentación?
+   - E- ¿Han comido menos de lo que hubiesen querido porque no disponían de suficiente dinero para comprar alimentos?
+   - F- ¿Han tenido ustedes hambre pero no comieron porque no pudieron conseguir comida suficiente?
+
+
+periodicidad: FUENTE.FREQ_A2
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+
+  La inseguridad alimentaria en niveles moderados de gravedad suele estar asociada 
+  a la incapacidad de comer regularmente dietas saludables y equilibradas. Por tanto, 
+  una prevalencia elevada de inseguridad alimentaria en niveles moderados puede 
+  considerarse un predictor de diversas formas de problemas de salud relacionados 
+  con la dieta en la población, asociados a la deficiencia de micronutrientes y a 
+  dietas desequilibradas. 
+
+  Los niveles graves de inseguridad alimentaria, por otra parte, implican una alta 
+  probabilidad de reducción de la ingesta de alimentos y, por tanto, pueden dar lugar a 
+  formas más graves de desnutrición, incluido el hambre.
+
+  Los cuestionarios breves como la Escala de experiencia de inseguridad alimentaria 
+  son muy fáciles de administrar y 
+  tienen un coste limitado, lo que constituye una de las principales ventajas de su uso.
+
+  Fuente: División de Estadísticas de las Naciones Unidas, Eurostat
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-01-02.pdf">Metadatos 2-1-2.pdf (solo en inglés)</a>'
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.1.2&seriesCode=AG_PRD_FIESMS&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAGE%20%7C%20ALLAREA%20%7C%20BOTHSEX">
+  Prevalencia de inseguridad alimentaria moderada o severa en la población (%) AG_PRD_FIESMS</a> UNSTATS
+
+comparabilidad: >-
+  El indicador disponible no cumple con los metadatos de Naciones Unidas pero aporta
+  información similar.
+
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

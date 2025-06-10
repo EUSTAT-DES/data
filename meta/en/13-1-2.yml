@@ -1,0 +1,59 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+#objetivo_global: objetivo_largo.13-titulo
+#meta_global: meta_largo.13-1-titulo
+#indicador_onu_global: indicador_largo.13-1-2-titulo
+
+
+definicion: 
+formula: 
+desagregacion: 
+periodicidad: 
+observaciones: 
+ 
+# Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  The Sendai Framework for Disaster Risk Reduction 2015-2030 was adopted by UN Member States in 
+  March 2015 as a global policy of disaster risk reduction. 
+
+  The expected outcome of the Sendai Framework 
+  is to realize “The substantial reduction of disaster risk and losses in lives, 
+  livelihoods and health and in the economic, physical, social, cultural 
+  and environmental assets of persons, businesses, communities and 
+  countries”. Among the Sendai Framework global targets, “Target E: Substantially 
+  increase the number of countries with national and local disaster risk reduction 
+  strategies by 2020” aims to enhance the global progress and coverage of national 
+  and local disaster risk reduction strategies and policies. 
+
+  The objectives of the national DRR plans, strategies and policies are to prevent 
+  new and reduce existing disaster risk through the implementation of integrated 
+  and inclusive economic, structural, legal, social, health, cultural, educational, 
+  environmental, technological, political and institutional measures that prevent and 
+  reduce hazard exposure and vulnerability to disaster, increase preparedness for 
+  response and recovery, and thus strengthen resilience. 
+
+  The indicator will build bridge between the SDGs and the Sendai Framework for Disaster 
+  Risk Reduction (DRR). Increasing number of national governments that adopt and 
+  implement national and local DRR strategies, which the Sendai Framework calls for, 
+  will contribute to sustainable development from economic, environmental and social perspectives.
+
+  Source: United Nations Statistics Division
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=13.1.2&seriesCode=SG_DSR_SFDRR&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Number of countries that reported having a National DRR Strategy aligned with the Sendai Framework SG_DSR_SFDRR</a> UNSTATS
+
+comparabilidad: >-
+
+indicador_meta_enlace: >-
+   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-13-01-02.pdf">Metadata 13-1-2.pdf</a>
+
+informacion_interes: 
+
+national_data_updated_date:
+national_metadata_updated_date: ''

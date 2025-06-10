@@ -21,21 +21,23 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  Los flujos totales de Ayuda oficial al desarrollo (AOD) y de otros flujos oficiales 
-  a los países en desarrollo cuantifican el esfuerzo público (excluidos los 
-  créditos a las exportaciones) que los donantes proporcionan a los países en desarrollo.
+  Garapenerako laguntza ofizialaren (GLO) eta garapen-bidean dauden herrialdeetarako beste 
+  fluxu ofizial batzuen guztizko fluxuek emaileek garapen-bidean dauden herrialdeei ematen 
+  dieten ahalegin publikoa zenbatesten dute (esportazioetarako kredituak izan ezik). 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa
+
 
 dato_global: |
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.9.1&seriesCode=DC_FTA_TOTAL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
-  Asistencia oficial total para el desarrollo (desembolso bruto) para cooperación técnica (millones de dólares de los Estados Unidos de 2022) DC_FTA_TOTAL</a> UNSTATS
+  Lankidetza teknikorako garapenerako laguntza ofizial osoa (ordainketa gordina) (2022ko Estatu Batuetako milioika dolar) DC_FTA_TOTAL</a> UNSTATS
 
 
 comparabilidad:
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-09-01.pdf">Metadatos 17-9-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-09-01.pdf">Metadatuak 17-9-1.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

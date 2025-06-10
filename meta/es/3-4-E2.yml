@@ -1,0 +1,67 @@
+ # Metadatos nacionales (ficha metodológica)
+
+indicador_disponible: >- 
+  GRAFICO.3-4-E2-titulo
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-4-titulo
+
+
+definicion: |
+  Número promedio de años que se espera viviría un recién nacido, si en el transcurso de su vida 
+  estuviera expuesto a las tasas de mortalidad específicas por edad al momento de su nacimiento 
+  
+
+formula: |
+
+  $$EV_{0}^{t} = \frac{1}{2} + \frac{2.5S_{1}^{t} + 4.5S_{5}^{t} + 5(S_{10}^{t} + S_{15}^{t} + \cdots)}{S_{0}^{t}}$$ 
+
+  donde: 
+  
+  $S_{x}^{t} =$ supervivientes en la edad o rango de edad $x$ en el año $t$ (según método Chiang, con los 
+  intervalos de edad de 5 años, excepto el de menores de 1 año y el de 1 a 4 años) 
+
+
+desagregacion: | 
+
+  Sexo
+
+  Territorio histórico 
+
+  
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: |
+
+  
+texto_oceca:
+
+
+justificacion_global: |
+  Durante más de dos décadas, el aumento gradual de la esperanza de vida en la UE ha sido uno de los 
+  principales factores que contribuyen al envejecimiento de la población europea, junto con unos 
+  niveles de fecundidad relativamente bajos que se han mantenido durante décadas. 
+
+  El brote de la pandemia de COVID-19 en 2020 tendrá un impacto duradero en nuestra forma de vivir 
+  y trabajar juntos. El brote se produjo en un momento en que Europa ya atravesaba un período de 
+  profundos cambios demográficos y sociales. 
+
+
+  Fuente: Eurostat
+  
+dato_global: >- 
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/demo_mlexpec/default/table?lang=en">
+  Esperanza de vida por edad y sexo</a> Eurostat
+
+
+comparabilidad: >- 
+  El indicador disponible es comparable con el indicador europeo "Esperanza de vida al nacer (demo_mlexpec)"
+
+indicador_meta_enlace:
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/demo_mor_esms.htm"> Metadatos Eurostat (demo_mor) </a> (solo en inglés) 
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

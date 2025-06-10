@@ -21,40 +21,38 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  La medición de la alineación del apoyo de los socios para el desarrollo con 
-  las prioridades nacionales, en términos del diseño de las intervenciones 
-  y el tipo de mecanismos de presentación de informes de resultados, 
-  proporciona una evaluación relevante del grado de respeto al espacio político 
-  y liderazgo de cada país para establecer e implementar políticas nacionales 
-  de erradicación de la pobreza y desarrollo sostenible.
+  Bazkideek lehentasun nazionalak garatzeko egiten duten ahalegina neurtzeak, hau da, esku-hartzeen 
+  diseinuari eta emaitzen txostenak aurkezteko mekanismo-motei erreparatzeak, herrialde bakoitzaren 
+  espazio politikoarekiko eta lidergoarekiko errespetu-mailaren ebaluazio garrantzitsua ematen du, 
+  pobrezia desagerrarazteko eta garapen jasangarrirako politika nazionalak ezartze aldera. 
 
-  En particular, para las intervenciones aprobadas en el año de referencia 
-  (es decir, el comportamiento más reciente), la evaluación mide hasta qué punto 
-  el apoyo de otros países y organizaciones internacionales establece prioridades 
-  y condiciones exógenas para los países socios que reciben cooperación para el 
-  desarrollo, que no se reflejan en los mecanismos de establecimiento de 
-  prioridades o las herramientas de planificación existentes a nivel nacional.
+  Zehazki, erreferentziako urtean onartutako esku-hartzeetan (hau da, portaera berrienetan), 
+  ebaluazioak neurtzen du beste herrialde eta nazioarteko erakunde batzuen laguntzak zenbateraino 
+  ezartzen dituen garapenerako lankidetza jasotzen duten herrialde elkartuentzat lehentasunak eta 
+  baldintza exogenoak, hain zuzen ere nazio-mailako lehentasunak ezartzeko mekanismoetan edo 
+  plangintza-tresnetan jasotzen ez direnak. 
 
-  La información recopilada a lo largo del indicador proporciona una visión bidireccional: 
-  proporciona una estimación a nivel nacional sobre el espacio político existente de un 
-  país y una estimación a nivel de socio para el desarrollo sobre su grado de alineación 
-  con los marcos de resultados y los mecanismos de establecimiento de prioridades 
-  existentes en los países socios donde opera.
+  Adierazleak bildutako informazioak bi norabideko ikuspegia ematen du: herrialde jakin batean 
+  daukaten eremu politikoari buruzko zenbatespen bat ematen du maila nazionalean, bai eta 
+  bazkide-mailako zenbatespen bat ere, jakiteko nola datorren bat emaitzen esparruekin nahiz 
+  herrialde elkartuetan dauden lehentasunak ezartzeko mekanismoekin. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: |
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.15.1&seriesCode=SG_PLN_PRVRIMON&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
-  Proporción de indicadores de resultados que serán monitoreados utilizando fuentes gubernamentales y sistemas de monitoreo - datos por proveedor (%) SG_PLN_PRVRIMON</a> UNSTATS
+  Gobernu-iturriak eta monitorizazio-sistemak erabiliz monitorizatuko diren emaitzen adierazleen proportzioa - datuak hornitzaileko (%) SG_PLN_PRVRIMON</a> UNSTATS
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.15.1&seriesCode=SG_PLN_RECRIMON&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
-  Proporción de indicadores de resultados que serán monitoreados utilizando fuentes gubernamentales y sistemas de monitoreo - datos por receptor (%) SG_PLN_RECRIMON</a> UNSTATS
+  Gobernu-iturriak eta monitorizazio-sistemak erabiliz monitorizatuko diren emaitzen adierazleen proportzioa - datuak hartzaileko (%) SG_PLN_RECRIMON</a> UNSTATS
 
 comparabilidad:
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-15-01.pdf">Metadatos 17-15-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-15-01.pdf">Metadatuak 17-15-1.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

@@ -22,21 +22,23 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  Los océanos son una parte importante del sistema global y cubren más del 70% de 
-  la superficie terrestre. Proporcionan alimento y sustento a miles de millones de 
-  personas, absorben el calor atmosférico y más de una cuarta parte del dióxido de 
-  carbono, y producen aproximadamente la mitad del oxígeno atmosférico. 
+  Ozeanoak sistema globalaren zati garrantzitsua dira, eta lurreko azaleraren % 70 baino gehiago 
+  estaltzen dute. Elikagaiak eta mantenua ematen diete milioika pertsonari, bero atmosferikoa eta 
+  karbono-dioxidoaren laurden bat baino gehiago xurgatzen dute, eta oxigeno atmosferikoaren erdia 
+  inguru ekoizten dute. 
 
-  Debido a las actividades humanas, el cambio climático global y los problemas ambientales han 
-  generado amenazas para los ecosistemas y entornos marinos. Es importante identificar maneras 
-  de evaluar los planes existentes y desarrollar la capacidad para una planificación integrada.
+  Giza jardueren ondorioz, klima-aldaketa globalak eta ingurumen-arazoak mehatxuak sortu dituzte 
+  ekosistemetarako eta itsas inguruetarako. Garrantzitsua da egungo planak ebaluatzeko moduak 
+  identifikatzea eta plangintza integratu baterako gaitasuna garatzea. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global:
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-14-02-01.pdf">Metadatos 14-2-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-14-02-01.pdf">Metadatuak 14-2-1.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

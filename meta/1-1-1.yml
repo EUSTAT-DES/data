@@ -10,19 +10,19 @@ meta_global: meta_largo.1-1-titulo
 
 
 definicion: >- 
-  Proporción de personas cuyo ingreso neto equivalente, después de las transferencias sociales, 
-  es inferior al umbral internacional de pobreza, establecido en 2,15 dólares estadounidenses 
-  en paridad de poder adquisitivo (PPA) de 2017.
+  Diru-sarrera baliokidea pobreziaren nazioarteko atalasea baino txikiagoa duten pertsonen proportzioa. Muga hori 
+  AEBetako 2,15 dolarretan dago ezarrita, 2017ko erosteko ahalmenaren parekotasunean.  
 
 formula: |
 
   $$PP_{UIP}^{t} = \frac{P_{UIP}^{t}}{P^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $P_{UIP}^{t} =$ población con ingresos neto equivalente inferior al umbral internacional de la pobreza, en el año $t$
+  $P_{UIP}^{t} =$ pobreziaren nazioarteko atalasea (2,15 dolar/eguneko) baino diru-sarrera baliokide 
+  txikiagoa duten biztanleak, $t$ urtean
 
-  $P^{t} =$ población total en el año $t$
+  $P^{t} =$ biztanleria $t$ urtean
 
 desagregacion: 
 
@@ -30,61 +30,53 @@ periodicidad: FUENTE.FREQ_A2
 
 observaciones: >- 
 
-  Para tener en cuenta el impacto de las diferencias en el tamaño y la composición del hogar,
-  el ingreso disponible de un hogar se divide por el número de miembros del hogar convertidos en adultos 
-  equivalentes (unidades de consumo). 
-
-  El número de unidades de consumo de un hogar
-  se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la
-  primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o
-  más años y un peso de 0,3 a las personas de menos de 14 años.
-
+  Diru-sarrera baliokidea etxeko diru-sarrera erabilgarria da, etxeko kontsumo-unitate kopuruaren arabera 
+  zatitua, ELGAren (Ekonomia Lankidetza eta Garapenerako Erakundea) baliokidetasun-eskala aldatua erabiliz.
+  Helburua da tamaina eta osaera desberdina duten etxeen arteko bizi-mailak modu parekatuan alderatzea.
 
 
  # Metadatos mundiales (Descripción del indicador)  
 
 
 justificacion_global: |
-  Las líneas de pobreza varían según el poder adquisitivo de los países y 
-  presentan un fuerte gradiente económico, de modo que los países más ricos 
-  tienden a adoptar estándares de vida más altos para definir la pobreza. 
+  Pobrezia-lerroak aldatu egiten dira herrialdeen erosahalmenaren arabera, eta gradiente ekonomiko 
+  esanguratsua dute. Hori dela eta, herrialde aberatsenek bizi-estandar altuagoak ezarri ohi dituzte 
+  pobrezia zehazteko. 
 
-  Sin embargo, para medir de forma consistente la pobreza absoluta global en 
-  términos de consumo, es necesario tratar a dos personas con el mismo poder 
-  adquisitivo sobre bienes básicos de la misma manera —ambas son pobres o 
-  no pobres—, incluso si viven en países diferentes.
+  Hala ere, pobrezia absolutu globala kontsumoaren arabera neurtu nahi bada, beharrezkoa da oinarrizko 
+  ondasunen gainean erosahalmen berdina duten bi pertsona berdin tratatzea –biak pobreak edo biak ez-pobreak–, 
+  baita herrialde desberdinetan bizi badira ere. 
 
-  Desde el Informe sobre el Desarrollo Mundial de 1990, el Banco Mundial se ha 
-  propuesto aplicar un estándar común para medir la pobreza extrema, basado 
-  en lo que significa la pobreza en los países más pobres del mundo. El 
-  bienestar de las personas que viven en diferentes países puede medirse en 
-  una escala común ajustando las diferencias en el poder adquisitivo de las 
-  monedas. 
+  Mundu Mailako Garapenari buruzko 1990eko Txostena egin zenetik, Munduko Bankuak estandar komun bat ezarri 
+  nahi izan du muturreko pobrezia neurtzeko, pobreziak munduko herrialde pobreenetan zer esan nahi duen 
+  oinarri hartuta. Herrialde desberdinetan bizi diren pertsonen ongizatea eskala komun batean neur daiteke, 
+  moneten erosahalmenean dauden aldeak doituz. 
 
-  El estándar comúnmente utilizado de 1 dólar al día, medido a precios 
-  internacionales de 1985 y ajustado a la moneda local utilizando tipos 
-  de cambio de paridad de poder adquisitivo (PPA), se eligió para el 
-  Informe sobre el Desarrollo Mundial de 1990 porque era típico de las 
-  líneas de pobreza en los países de bajos ingresos de la época. A medida 
-  que evolucionan las diferencias en el costo de vida a nivel mundial, la 
-   línea de pobreza internacional debe actualizarse periódicamente 
-  utilizando nuevos datos de precios PPA para reflejar estos cambios. 
-  El último cambio se produjo en septiembre de 2022, cuando el Banco 
-  Mundial adoptó 2,15 dólares como línea de pobreza internacional 
-  utilizando la PPA de 2017.
+  Normalean erabiltzen den estandarra eguneko dolar 1ekoa da, 1985eko nazioarteko prezioen arabera neurtua 
+  eta tokiko dibisara egokitua, erosahalmenaren paritatearen (EAP) aldaketa-tasak erabiliz. Estandar hori 
+  Mundu Mailako Garapenari buruzko 1990eko Txostenerako aukeratu zen, garai hartan diru-sarrera baxuko 
+  herrialdeetako pobrezia-lerroetan ohikoa zelako. Mundu-mailan bizitzaren kostuan dauden aldeak aldatu 
+  ahala, nazioarteko pobrezia-lerroa eguneratu egin behar da, EAP prezioen datu berriak erabilita, aldaketa 
+  horiek islatzek aldera. Azken aldaketa 2022ko irailean izan zen. Munduko Bankuak 2,15 dolar ezarri zituen 
+  nazioarteko pobrezia-lerro gisa, 2017ko EAP baliatuta.  
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa
 
 indicador_meta_enlace: |
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf">Metadatos 1-1-1 (1).pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf">Metadatuak 1-1-1 (1).pdf</a> (ingelesez bakarrik)
 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01b.pdf">Metadatos 1-1-1 (2).pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01b.pdf">Metadatuak 1-1-1 (2).pdf</a> (ingelesez bakarrik)
 
 comparabilidad: |
-  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta
-  información similar.
+  EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina 
+  antzeko informazioa ematen du. 
 
 dato_global: >- 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.1.1&seriesCode=SI_POV_DAY1&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAGE%20%7C%20ALLAREA%20%7C%20BOTHSEX">Proporción de población por debajo del umbral internacional de pobreza (%) SI_POV_DAY1</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.1.1&seriesCode=SI_POV_DAY1&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAGE%20%7C%20ALLAREA%20%7C%20BOTHSEX">Nazioarteko pobrezia-atalasearen azpitik dagoen biztanleriaren proportzioa (%) SI_POV_DAY1</a> UNSTATS
 
-informacion_interes: <a href="https://pip.worldbank.org/home">Plataforma de Pobreza y Desigualdad del Banco Mundial</a>
+informacion_interes: <a href="https://pip.worldbank.org/home">Munduko Bankuaren Pobreziaren eta Desberdintasunaren Plataforma</a>
+
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

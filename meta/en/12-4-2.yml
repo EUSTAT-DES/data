@@ -1,0 +1,90 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  global_indicators.12-4-2-title
+
+objetivo_global: objetivo_largo.12-titulo
+meta_global: meta_largo.12-4-titulo
+#  indicador_onu_global: indicador_largo.12-4-2-titulo
+
+definicion: >-
+  Hazardous waste generated per capita and proportion of hazardous waste treated 
+  by treatment operation (incinerated, landfilled, and recycled) in relation to 
+  total hazardous waste generated and treated.
+
+formula: |
+
+  <b> Hazardous waste generated per capita</b> 
+
+  $$RPPC^{t} = \frac{RP^{t}}{P^{t}} $$
+
+  where:
+
+  $RP^{t} =$ amount of hazardous waste generated in year $t$ 
+
+  $P^{t} =$ population as of July 1 of year $t$
+
+  <br>
+
+  <b> Proportion of hazardous waste treated, by type of treatment</b> 
+
+  $$PRP_{treatment}^{t} = \frac{RP_{treatment}^{t}}{RP^{t}} \cdot 100$$ <br> 
+
+  $RP_{treatment}^{t} =$ amount of hazardous waste treated, by type of treatment in year $t$
+
+  $RP^{t} =$ total amount of hazardous waste generated and treated in year $t$
+
+desagregacion: |
+  Waste treatment operations: recycling; incineration with energy recovery; 
+  incineration without energy recovery; landfill. 
+
+  Province
+
+
+observaciones: >-
+
+  R1 treatment operations in accordance with Waste Directive 2008/98/EC.
+
+
+periodicidad: FUENTE.FREQ_A
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Chemicals are part of everyday life. There are over 140,000 different substances 
+  used in all economic sectors globally. Their benefits are many and so too are their 
+  potential to adversely impact human health and the environment if not properly managed. 
+  All countries, especially middle- and low-income countries, are facing the complex 
+  challenge of managing hazardous waste according to international standards of good 
+  practice. The situation is complicated by limited human, financial and/or technical 
+  resources. 
+
+  As such, action is needed to support the sustainable use of chemicals and environmentally 
+  sound management of hazardous waste. There is also a rapid increase in the generation of 
+  hazardous waste. 
+
+  Where most of the conventional hazardous wastes are produced in industrial and manufacturing 
+  operations, significantamounts are generated in non-industrial sectors, including sludge 
+  from the healthcare sector; waste-water treatment plants, waste oils, and waste batteries. 
+
+  There is also an increase in the complexity of products and unidentified hazardous components 
+  like coatings, and/or items which are not hazardous (laminates and multi-layer packaging), 
+  but present hazardousness in a variety of ways when improperly discarded and end up in air, 
+  water or are burned. 
+
+  Source: United Nations Statistics Division 
+
+comparabilidad: >-
+  The available indicator partially complies with the United Nations metadata. 
+
+dato_global:
+
+indicador_meta_enlace: 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-04-02.pdf">Metadata 12-4-2.pdf</a>
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

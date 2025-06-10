@@ -23,15 +23,15 @@ formula: |
 
   where:
 
-  $IDP^{t}$ Compensation for personal injuries paid and/or provisioned in year $t$ at prices of year $T$
+  $IDP^{t} =$ Compensation for personal injuries paid and/or provisioned in year $t$ at prices of year $T$
 
-  $IPP^{t}$ Compensation for pecuniary losses paid and/or provisioned in year $t$ at prices of year $T$
+  $IPP^{t} =$ Compensation for pecuniary losses paid and/or provisioned in year $t$ at prices of year $T$
 
-  $IDB^{t}$ Compensation for property damage paid and/or provisioned in year $t$ at prices of year $T$
+  $IDB^{t} =$ Compensation for property damage paid and/or provisioned in year $t$ at prices of year $T$
 
-  $TIPC_{dic}^{t}$ annual variation rate of the national CPI in the month of December of year $t$ 
+  $TIPC_{dic}^{t} =$ annual variation rate of the national CPI in the month of December of year $t$ 
 
-  $PIB^{t}$ gross domestic product at current prices in year $t$
+  $PIB^{t} =$ gross domestic product at current prices in year $t$
 
 desagregacion: Province
 

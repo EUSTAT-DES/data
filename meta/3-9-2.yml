@@ -23,25 +23,26 @@ observaciones:
 
 justificacion_global: |
 
-  El indicador expresa el número de muertes causadas por la falta de agua, 
-  saneamiento e higiene (con especial atención a los servicios de agua, saneamiento 
-  e higiene) que podrían evitarse mejorando esos servicios y prácticas. 
+  Adierazle honek zehazten du zenbat pertsona hil diren urik, saneamendurik eta higienerik ez izateagatik 
+  (arreta berezia jarriz ur-, saneamendu- eta higiene-zerbitzuetan). Zerbitzu eta praktika horiek hobetuta 
+  saihestu litekeen egoera da hori. 
 
-  Se basa tanto en la prestación de servicios de agua, saneamiento e higiene en 
-  el país como en los resultados sanitarios relacionados, por lo que proporciona 
-  información importante sobre las enfermedades reales causadas por los riesgos 
-  medidos en las metas 6.1 y 6.2.
+  Herrialdeko ur-, saneamendu- eta higiene-zerbitzuetan eta horiekin lotutako osasun emaitzetan oinarritzen da, 
+  eta, beraz, 6.1 eta 6.2 xedeetan neurtutako arriskuek eragindako gaixotasun errealei buruzko informazio 
+  garrantzitsua ematen du. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
 
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
+  
 
 comparabilidad:
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-02.pdf">Metadatos 3-9-2.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-02.pdf">Metadatuak 3-9-2.pdf</a> (ingelesez bakarrik)
 
 dato_global: >-
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.9.2&seriesCode=SH_STA_WASHARI&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Tasa de mortalidad atribuida al agua insalubre, el saneamiento inseguro y la falta de higiene por diarrea, infecciones por nematodos intestinales, desnutrición e infecciones respiratorias agudas (muertes por cada 100.000 habitantes) SH_STA_WASHARI</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.9.2&seriesCode=SH_STA_WASHARI&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Higiene eza, hesteetako nematodoek eragindako infekzioak, desnutrizioa eta arnas infekzio akutuengatik, ur osasungaitzari, saneamendu ez-seguruari eta beherakoari egotzitako heriotza-tasa (heriotzak 100.000 biztanleko) SH_STA_WASHARI</a> UNSTATS
 
 informacion_interes: 
 national_data_updated_date: '2024-10-29'

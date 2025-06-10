@@ -6,7 +6,7 @@ indicators: Adierazle
 loading: Bilaketa-emaitzak kargatzen
 opens_new_window: Beste leiho batean irekiko da
 hide: Ezkutatu
-sdg: Garapen Jasangarriko Helburuak
+sdg: Garapen Jasangarrirako Helburuak
 target: Helmuga
 targets: Helmugak
 twitter: Twitter
@@ -20,6 +20,8 @@ targets_and_indicators: Helmugak eta adierazleak
 back_to_top: Gora itzuli 
 pais: Euskal AE
 adjetivo: Euskal AEko
-Territorio: Lurraldeak
-Comarca: Eskualdeak
-Municipio: Udalerriak
+territorio: Lurraldeak
+comarca: Eskualdeak
+municipio: Udalerriak
+aviso_desglose: "Adierazlearen izenburuaren azpian adierazten da adierazleak Euskal AEtik beherako lurralde-eremuaren edo sexuaren arabera banakatuta dauden. 
+  Lurraldearen gehieneko banakapena adierazten da (lurralde historikoa, eskualdea edo udalerria)"

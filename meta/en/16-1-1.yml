@@ -1,0 +1,73 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.16-1-1-titulo
+
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-1-titulo
+#  indicador_onu_global: indicador_largo.16-1-1-titulo
+
+
+definicion: >-
+  Number of victims of intentional homicide/completed murder per 100,000 inhabitants.
+  
+
+formula: |
+  $$THD^{t} = \frac{HD^{t}}{P^{t}} \cdot 100.000$$
+
+  where:
+
+  $HD^{t} =$ number of known criminal offenses for intentional homicide/completed murder in year $t$
+
+  $P^{t} =$ population as of July 1 of year $t$
+
+desagregacion: |
+
+  Province
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones: >-
+  Data collected by the Ertzaintza (Basque Police) and local police forces. The data only include 
+  intentional homicides recorded in towns with more than 15,000 inhabitants. 
+
+  The basic common typologies established by the European Union (through its statistical office,  
+  Eurostat) for criminal offenses known to police forces in different countries are used. 
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  This indicator is widely used at national and international level to measure the most extreme 
+  form of violent crime and it also provides a direct indication of lack of security. 
+
+  Security from violence is a prerequisite for individuals to enjoy a safe and active life and 
+  for societies and economies to develop freely. Intentional homicides occur in all countries 
+  of the world and this indicator has a global applicability. Monitoring intentional homicides 
+  is necessary to better assess their causes, drivers and consequences and, in the longer term, 
+  to develop effective preventive measures. If data are properly disaggregated (as suggested in 
+  the International Classification of Crime for Statistical Purposes), the indicator can identify 
+  the different type of violence associated with homicide: inter-personal (including partner and 
+  familyrelated violence), crime (including organized crime and other forms of criminal activities) 
+  and sociopolitical (including terrorism, hate crime). 
+
+  Intentional homicide is defined as the unlawful death inflicted upon a person with the intent 
+  to cause death or serious injury (Source: International Classification of Crime for Statistical 
+  Purposes, ICCS 2015). 
+
+  Source: United Nations Statistics Division 
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.1.1&seriesCode=VC_IHR_PSRC&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=BOTHSEX">Number of victims of intentional homicide per 100,000 population, by sex (victims per 100,000 population) VC_IHR_PSRC</a> UNSTATS
+
+comparabilidad: >-
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-01.pdf">Metadata 16-1-1.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

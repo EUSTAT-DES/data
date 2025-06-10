@@ -1,0 +1,101 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.6-3-2-titulo
+
+objetivo_global: objetivo_largo.6-titulo
+meta_global: meta_largo.6-3-titulo
+#  indicador_onu_global: indicador_largo.6-3-2-titulo
+
+
+definicion: |
+
+  The indicator is defined as the proportion of water bodies in a territory that 
+  have good environmental water quality. Environmental water quality refers to natural, 
+  untreated water in rivers, lakes, and groundwater and represents a combination of 
+  natural influences along with the impacts of all anthropogenic activities. 
+
+  3 series are presented for different water bodies: 
+
+    - rivers
+    - groundwater
+    - surface waters (includes coastal waters, transitional waters, reservoirs, lakes and wetlands, and rivers)
+
+
+formula: |
+
+  $$PMABC^{t} = \frac{MBC_{water}^{t}}{M_{water}^{t}} \cdot 100$$
+
+  where:
+
+  $MBC_{water}^{t} =$ good quality water bodies in year $t$
+
+  $M_{water}^{t} =$ total number of water bodies evaluated in year $t$
+
+desagregacion:
+
+observaciones: |
+  
+  The assessment of surface waters (ecological status) is carried out according to Directive 2000/60/EC 
+  of the European Parliament and of the Council. 
+
+  Groundwater assessment is carried out according to the Guide for the Assessment of the Status of 
+  Surface and Groundwater, approved by Instruction of October 14, 2020, from the Secretary of State 
+  for the Environment (SEMA). 
+
+  The water body census corresponds to the water bodies that have a significant presence within the 
+  Autonomous Community of the Basque Country in accordance with Royal Decree 35/2023, of January 24, 
+  which approves the revision of the hydrological plans of the Western Cantabrian, Guadalquivir, Ceuta, 
+  Melilla, Segura, and Júcar river basins, and of the Spanish part of the Eastern Cantabrian, Miño-Sil, 
+  Duero, Tajo, Guadiana, and Ebro river basins. 
+
+  For the indicated period, the evaluations correspond to status reviews using uniform criteria in 
+  accordance with Royal Decree 35/2023 and the technical advances that have occurred. 
+
+
+periodicidad: FUENTE.FREQ_A
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Good ambient water quality is essential for protecting aquatic ecosystems and the services 
+  they provide, including: the preservation of biodiversity; the protection of human health 
+  during recreational use and through the provision of drinking water; the support of human 
+  nutrition through the provision of fish and water for irrigation; the enabling of a variety 
+  of economic activities; and the strengthening of the resilience of people against water-related 
+  disasters. Good ambient water quality is therefore closely linked to the achievement of many 
+  other Sustainable Development Goals. 
+
+  Target 6.3 aims at improving water quality and indicator 6.3.2 provides a mechanism for determining 
+  whether, and to which extent, water quality management measures are contributing to the improvement 
+  of water quality over time. The indicator is also directly linked to indicator 6.3.1 on wastewater 
+  treatment because inadequate wastewater treatment leads to degradation in quality of the waters 
+  receiving the wastewater effluents. 
+
+  It directly informs progress towards target 6.3 and is strongly linked to target 6.6 on water-related 
+  ecosystems, as well as target 14.1 on marine pollution (coastal eutrophication). 
+
+  Source: United Nations Statistics Division
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_OPAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proportion of open water bodies with good ambient water quality (%) EN_H2O_OPAMBQ</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_RVAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proportion of river water bodies with good ambient water quality (%) EN_H2O_RVAMBQ</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_GRAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proportion of groundwater bodies with good ambient water quality (%) EN_H2O_GRAMBQ</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.3.2&seriesCode=EN_H2O_WBAMBQ&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proportion of bodies of water with good ambient water quality (%) EN_H2O_WBAMBQ</a> UNSTATS
+
+comparabilidad: >- 
+  The available indicator does not comply with United Nations metadata but provides similar information.
+
+indicador_meta_enlace: 
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-02.pdf">Metadata 6-3-2.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

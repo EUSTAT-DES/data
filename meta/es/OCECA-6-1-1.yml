@@ -1,0 +1,34 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+objetivo_global: objetivo_largo.6-titulo
+meta_global: meta_largo.6-1-titulo
+#  indicador_onu_global: indicador_largo.6-1-1-titulo
+
+definicion:  |
+  Proporción de personas en zonas de abastecimiento que notifican al Sistema de Información Nacional de Agua de Consumo (SINAC)
+
+formula:  |
+
+  $$PPC^{t} = \frac{PC^{t}}{P^{t}} \cdot 100$$
+
+  donde:
+
+  $PC^{t} =$ población en zonas de abastecimiento que notifican al Sistema Nacional de Información de Agua de Consumo en el año $t$
+
+  $P{t} =$ población a 1 de enero del año $t$
+
+desagregacion: >- 
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones: >-
+
+  Valores de 100 o próximos a esta cifra deben ser tomados con cautela, ya que se pueden deber a la doble contabilización de la población asociada a zonas que se han visto afectadas por fusiones de zonas de abastecimiento
+
+texto_oceca: FUENTE.oceca
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

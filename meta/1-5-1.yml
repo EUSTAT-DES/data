@@ -8,22 +8,26 @@ meta_global: meta_largo.1-5-titulo
 #  indicador_onu_global: indicador_largo.1-5-1-titulo
 
 definicion: >-
-  Defunciones atribuidas a desastres naturales por cada 100.000 habitantes
+  Hondamendi naturalei egotzitako heriotzak 100.000 biztanleko
 
 formula: |
 
-  $$TM_{desastres}^{t} = \frac{D_{desastres}^{t}}{P^{t}} \cdot 100$$
+  $$TM_{hondamendiak}^{t} = \frac{D_{hondamendiak}^{t}}{P^{t}} \cdot 100$$
 
   donde:
 
-  $D_{desastres}^{t} =$ defunciones atribuidas a desastres naturales (códigos X30-X39 de la CIE-10) en el año $t$
+  $D_{hondamendiak}^{t} =$ hondamendi naturalei egotzitako heriotzak (GNS-10eko X30-X39 kodeak) $t$ urtean
 
-  $P^{t} =$ población a 1 de julio del año $t$
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean
 
 desagregacion: |
-  Sexo
+  Sexua 
   
-  Territorio histórico/Comarca/Municipio
+  Lurralde historikoa 
+  
+  Eskualdea 
+ 
+  Udalerria 
 
 observaciones: >-
 
@@ -34,31 +38,28 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  El Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030 fue 
-  adoptado por los Estados miembros de las Naciones Unidas en marzo de 2015 
-  como una política global de reducción del riesgo de desastres.
+  Nazio Batuen estatu-kideek 2015eko martxoan ezarri zuten Hondamendien Arriskua Murrizteko 2015-2030 aldiko 
+  Sendaiko Esparrua hondamendien arriskua murrizteko politika global gisa. 
 
-  Entre sus metas se encuentran:
+  Hona hemen haren xedeetako batzuk:
 
-  Meta A: Reducir sustancialmente la mortalidad global por desastres para 
-  2030, con el objetivo de reducir el promedio de mortalidad global por cada 100.000 habitantes entre 
-  2020-2030 en comparación con 2005-2015
+  A xedea: Hondamendien ondoriozko heriotza-tasa orokorra nabarmen murriztea 2030erako, hartara 2020 eta 2030 
+  artean 100.000 biztanleko heriotza-tasaren batezbestekoa gutxitzeko, 2005-2015 aldiaren aldean. 
 
-  Meta B: Reducir sustancialmente el número de personas afectadas
-  a nivel mundial para 2030 , con el objetivo de reducir la cifra promedio 
-  mundial por cada 100.000 habitantes 
-  entre 2020 y 2030 en comparación con el período 2005-2015.
+  B xedea: Mundu-mailan hondamendiek erasandako pertsonen kopuru orokorra nabarmen murriztea 2030erako, hartara 
+  2020 eta 2030 artean 100.000 biztanleko munduko batezbestekoa gutxitzeko, 2005-2015 aldiaren aldean. 
 
-  La consecución de sus metas contribuirá al desarrollo sostenible y fortalecerá la 
-  resiliencia económica, social, sanitaria y ambiental.
+  Xedeak lortuz gero, garapen jasangarria sustatu eta erresilientzia indartuko da ekonomia, gizarte, osasun 
+  nahiz ingurumenean. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa  
 
 comparabilidad: >-
-  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-01.pdf">Metadatos 1-5-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-01.pdf">Metadatuak 1-5-1.pdf</a> (ingelesez bakarrik)'
 informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

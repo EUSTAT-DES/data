@@ -1,0 +1,65 @@
+ # Metadatos nacionales (ficha metodológica)
+
+indicador_disponible: >- 
+  GRAFICO.3-4-E2-titulo
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-4-titulo
+
+
+definicion: |
+  Jaioberri bat biziko litzatekeela uste den batez besteko urte-kopurua, bizitzan zehar, 
+  jaiotzen den uneko adinaren araberako hilkortasun-tasa espezifikoen eraginpean egongo balitz 
+
+
+formula: |
+
+  $$BI_{0}^{t} = \frac{1}{2} + \frac{2.5B_{1}^{t} + 4.5B_{5}^{t} + 5(B_{10}^{t} + B_{15}^{t} + \cdots)}{B_{0}^{t}}$$ 
+
+  non: 
+  
+  $B_{x}^{t} =$ $x$ adinean edo adin-tartean bizirik daudenak $t$ urtean (Chiang metodoaren arabera, 5 urteko adin-tarteekin, urtebetetik
+  beherakoena eta 1etik 4 urtera bitartekoena izan ezik) 
+
+
+desagregacion: | 
+
+  Sexua
+
+  Lurralde historikoa 
+
+  
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: |
+
+  
+texto_oceca:
+
+ 
+justificacion_global: |
+  Bi hamarkada baino gehiagoz, EBn bizi-itxaropena apurka-apurka handitzea izan da Europako 
+  biztanleria zahartzen lagundu duen faktore nagusietako bat, eta horrekin batera, ugalkortasun-maila 
+  nahiko apalak ere bai, hainbat hamarkadatan mantendu direnak. 
+
+  2020ko COVID-19aren pandemiaren agerraldiak eragin iraunkorra izango du gure bizitzeko eta elkarrekin 
+  lan egiteko moduan. Europa aldaketa demografiko eta sozial sakonak jasaten ari zen garaian gertatu 
+  zen agerraldia. 
+
+  Iturria: Eurostat
+  
+dato_global: >-
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/demo_mlexpec/default/table?lang=en">
+  Bizi-itxaropena adinaren eta sexuaren arabera</a> Eurostat
+
+comparabilidad: >- 
+  Euskal AEn eskuragarri dagoen adierazlea Europako "Bizi-itxaropena jaiotzean (demo_mlexpec)" adierazlearekin aldera daiteke. 
+
+indicador_meta_enlace:
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/demo_mor_esms.htm"> Metadatuak Eurostat (demo_mor) </a> (ingelesez bakarrik) 
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

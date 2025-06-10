@@ -1,0 +1,41 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.14-titulo
+# meta_global: meta_largo.14-2-titulo
+#  indicador_onu_global: indicador_largo.14-2-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Oceans are an important part of the global system and covering more than 70 per cent of the Earth’s 
+  surface. They provide food and livelihoods for billions of people, absorb atmospheric heat and more than 
+  a quarter of carbon dioxide, and produce about half of the oxygen in the atmosphere. 
+
+  Due to human activities, global climate change and environmental problems have led to threats to 
+  marine ecosystems and environments. It is important to identify ways to measure existing plans and to 
+  build capacity for integrated planning. 
+
+  Source: United Nations Statistics Division 
+
+dato_global:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-14-02-01.pdf">Metadata 14-2-1.pdf</a> 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

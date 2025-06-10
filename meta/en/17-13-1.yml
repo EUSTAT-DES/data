@@ -1,0 +1,176 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  global_indicators.17-13-1-title
+
+objetivo_global: objetivo_largo.17-titulo
+meta_global: meta_largo.17-13-titulo
+#  indicador_onu_global: indicador_largo.17-13-1-titulo
+
+definicion: |
+  Macroeconomic panel that includes important macroeconomic indicators covering the external, financial, fiscal and real sectors: 
+   - Year-on-year rate of change in real GDP 
+   - Unemployment rate 
+   - Year-on-year rate of change in the consumer price index 
+   - Volume of remittances sent abroad as a proportion of GDP 
+   - Gross debt of autonomous public administrations according to the excessive deficit protocol as a proportion of GDP 
+   - Tax revenues of autonomous public administrations as a proportion of GDP 
+   - Fiscal balance of autonomous public administrations as a proportion of GDP 
+
+formula: |
+
+  <b>Year-on-year rate of change in real GDP</b>
+
+  $$TVPIB^{t} = \left(\frac{PIB_{2022}^{t}}{PIB_{2022}^{t-1}} - 1 \right) \cdot 100$$ 
+
+  where: 
+
+  $PIB_{2022}^{t} =$ gross domestic product in chained volume with reference to 2022 in year $t$ 
+
+  $PIB_{2022}^{t-1} =$ gross domestic product in chained volume with reference to 2022 in year $t-1$ 
+
+  <br>
+
+  <b>Unemployment rate</b>
+
+  $$TD^{t} = \frac{D^{t}}{A^{t}}  \cdot 100$$ 
+
+  where: 
+
+  $D^{t} =$ unemployed people in year $t$ 
+
+  $A^{t} =$ economically active people in year $t$, taking into account that each of these populations is calculated as the arithmetic mean of the four quarters of the year 
+
+  <br>
+
+  <b>Year-on-year rate of change in the consumer price index</b>
+
+  $$TVIPC^{t} = \left(\frac{IPC^{t}}{IPC^{t-1}} - 1 \right) \cdot 100$$ 
+
+  where:
+
+  $IPC^{t} =$ consumer price index in year $t$ 
+
+  $IPC^{t-1} =$ consumer price index in year $t-1$, taking into account that the annual consumer price indices are calculated as the arithmetic mean of the monthly consumer price indices 
+
+  <br>
+
+  <b>Volume of remittances sent abroad as a proportion of GDP</b>
+
+  $VR^{t} =$ volume of remittances sent abroad in year $t$  
+  
+  $PIB^{t} =$ gross domestic product at current prices in year $t$ 
+
+  If we denote: 
+
+  $VR_{Spain,c}^{t} =$ volume of remittances sent from Spain to country $c$ in year $t$ 
+
+  $P_{16-64,Spain,c}^{t} =$ foreign population between 16 and 64 years of age from the country $c$ residing in Spain as of 1 January of year $t$ 
+
+  $P_{16-64,c}^{t} =$ foreign population between 16 and 64 years of age from the country $c$ resident in the autonomous community as of January 1 of year $t$ 
+
+  Then:  
+
+  $$ VR^{t} = \displaystyle \sum_{p \epsilon Countries} VR_{Spain,c}^{t} = \frac{\frac{P_{16-64,c}^{t}+P_{16-64,c}^{t+1}}{2}}{\frac{P_{16-64,Spain,c}^{t}+P_{16-64,Spain,c}^{t+1}}{2}} $$ 
+
+  Countries are: Colombia, Morocco, Ecuador, the Dominican Republic, Honduras, Bolivia, Senegal, Paraguay, Pakistan, Romania, and other countries. Countries belonging to the European Union are not included in "other countries". 
+
+  <br>
+
+  <b>Gross debt of autonomous public administrations according to the excessive deficit protocol as a proportion of GDP</b>
+
+  $$PPIBDBPDE^{t} = \frac{DBPDE^{t}}{PIB^{t}} \cdot 100$$ 
+
+  where: 
+
+  $DBPDE^{t} =$ gross public debt according to the excessive deficit protocol in year $t$ 
+
+  $PIB^{t} =$ gross domestic product at current prices in year $t$ 
+
+  <br>
+
+  <b>Tax revenues of autonomous public administrations as a proportion of GDP</b>
+
+  $$PPIBIF^{t} = \frac{D.211^{t} + D.212^{t} + D.214^{t} + D.29^{t} + D.51^{t} + D.59^{t} + D.91^{t} + D.611^{t} + D.613^{t}}{PIB^{t}} \cdot 100$$ 
+
+  where:
+
+   - $D.211^{t} =$ value-added taxes (VAT) in year $t$ 
+   - $D.212^{t} =$ taxes and duties on imports excluding VAT in year $t$ 
+   - $D.214^{t} =$ taxes on products excluding VAT and imports in year $t$ 
+   - $D.29^{t} =$ other taxes on production in year $t$ 
+   - $D.51^{t} =$ income taxes in year $t$ 
+   - $D.59^{t} =$ other current taxes in year $t$ 
+   - $D.91^{t} =$ capital taxes in year $t$ 
+   - $D.611^{t} =$ effective social contributions paid by employers in year $t$ 
+   - $D.613^{t} =$ effective social contributions paid by households in year $t$ 
+
+  $PIB^{t} =$ gross domestic product at current prices in year $t$ 
+
+  <br>
+
+  <b>Fiscal balance of autonomous public administrations as a proportion of GDP</b>
+
+  $$PPIBSF^{t} = \frac{SF^{t}}{PIB^{t}} \cdot 100$$ 
+
+  where:
+
+  $SF^{t} =$ fiscal balance (capacity or need for financing) of autonomous public administrations as a proportion of GDP in year $t$ 
+
+  $PIB^{t} =$ gross domestic product at current prices in year $t$ 
+
+desagregacion: |
+  Province
+
+observaciones:
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  1. External sector: Indicators for the current and capital & financial accounts are included 
+  to monitor each country's trade and balance of payments. The sustainability of the balance of 
+  payments depends on both the current account and the capital and financial account balances, 
+  including foreign reserves. 
+
+  2. Fiscal sector: For a sustainable economic growth path, a country needs a sustainable fiscal 
+  policy. The dashboard monitors government revenues, fiscal balance, and public debt as a share 
+  of GDP to inform policy-decision making. 
+
+  3. Real sector: GDP measures the nation's total output of goods and services. For many decades, 
+  it has been a comprehensive measure of market activity used for a wide variety of analytical 
+  purposes such as measuring productivity, conducting monetary policy, and projecting tax revenues. 
+  In this section, we monitor growth trends of GDP; Gross capital formation; Exports of goods and 
+  services; Imports of goods and services; Household consumption; Government consumption; and 
+  Consumer Price Index to monitor the price trends. 
+
+  4. Financial sector: Financial sector indicators are essential for measuring countries' financial 
+  market stability and economic stability. Stronger financial institutions play a significant role 
+  in a country's economic performance. 
+
+  5. Unenmployment: Trends in unemployment rate data are a vital indicator for analyzing the long-term 
+  economic development of a country (SDG 8.5.2). Stronger and sustainable economic growth often results 
+  in lower unemployment rates. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.13.1&seriesCode=NY_GDP_MKTP_KD_ZG&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Annual GDP growth  (%) NY_GDP_MKTP_KD_ZG</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.13.1&seriesCode=FP_CPI_TOTL_ZG&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Annual inflation, consumer prices (%) FP_CPI_TOTL_ZG</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.13.1&seriesCode=GC_BAL_CASH_GD_ZS&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Cash surplus/deficit as a proportion of GDP (%) GC_BAL_CASH_GD_ZS</a> UNSTATS
+
+comparabilidad: >-
+  The available indicator partially complies with the United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-13-01.pdf">Metadata 17-13-1.pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

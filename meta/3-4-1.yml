@@ -10,59 +10,60 @@ meta_global: meta_largo.3-4-titulo
 
 definicion: |
 
-  Este indicador se compone de dos series temporales:
+  Adierazle honek bi denborazko serie ditu: 
 
-   <b> - Tasa de mortalidad prematura (entre 30 y 70 años) atribuida a las enfermedades no transmisibles</b>: probabilidad de morir entre los 30 y los 70 años por enfermedades cardiovasculares, cáncer, 
-  diabetes o enfermedades respiratorias crónicas.
+   <b> - Transmititu ezin diren gaixotasunei egotzitako heriotza goiztiarren (30-70 urtekoen) tasa:</b>  gaixotasun kardiobaskularren, 
+  minbiziaren, diabetesaren edo arnas gaixotasun kronikoen ondorioz 30 eta 70 urte bitartean hiltzeko probabilitatea. 
 
-   <b> - Tasa de mortalidad atribuida a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias 
-  crónicas por cada 100.000 habitantes</b>: defunciones atribuidas a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias 
-  crónicas por cada 100.000 habitantes
+   <b> - Gaixotasun kardiobaskularrei, minbiziari, diabetesari edo arnas gaixotasun kronikoei egotzitako heriotza-tasa 100.000 
+  biztanleko:</b> gaixotasun kardiobaskularrei, minbiziari, diabetesari edo arnas gaixotasun kronikoei egotzitako 
+  heriotzak 100.000 biztanleko 
 
 formula: |
 
-  <b>Tasa de mortalidad prematura atribuida a las enfermedades no transmisibles</b>
+  <b>Transmititu ezin diren gaixotasunei egotzitako heriotza goiztiarren tasa</b>
 
   $$^{5}M_x = \frac{DENT_{x,x+5}^{t}}{PENT_{x,x+5}^{t}}$$
 
-  donde:
+  non:
 
-  $DENT_{x,x+5}^{t} =$ defunciones atribuidas a las 4 enfermedades no transmisibles
-  entre la edad exacta $x$ y la edad exacta $x+5$ en el año $t$
+  $DENT_{x,x+5}^{t} =$ $x$ adin zehatzaren eta $x+5$ adin zehatzaren artean transmititu ezin diren 4 gaixotasunei 
+  egotzitako heriotzak $t$ urtean
 
-  $P^{t} =$ población entre la edad exacta $x$ y la edad exacta $x+5$ del año $t$
+  $P^{t} =$ $x$ adin zehatzaren eta $x+5$ adin zehatzaren arteko biztanleria $t$ urtean
 
 
-  <b>Tasa de mortalidad atribuida a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias 
-  crónicas por cada 100.000 habitantes</b>
+  <b>Gaixotasun kardiobaskularrei, minbiziari, diabetesari edo arnas gaixotasun kronikoei egotzitako heriotza-tasa 
+  100.000 biztanleko</b>
 
 
   $$TM_{ENT}^{t} = \frac{D_{ENT}^{t}}{P^{t}} \cdot 100.000$$
 
 
-  donde:
+  non:
 
-  $D_{ENT}^{t} =$ defunciones atribuidas a enfermedades no transmisibles en el año $t$
+  $D_{ENT}^{t} =$ transmititu ezin diren gaixotasunei egotzitako heriotzak $t$ urtean
 
-  $P^{t} =$ población a 1 de julio del año $t$
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean
 
 
 desagregacion: | 
 
-  Enfermedad no transmisible (ENT): enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias 
-  crónicas
+  Gaixotasun ez-transmitigarria (GET): gaixotasun kardiobaskularrak; minbizia; diabetesa; arnas gaixotasun 
+  kronikoak
 
-  Sexo
+  Sexua
+
 periodicidad: FUENTE.FREQ_A
 
 
 observaciones: |
 
-  Se utilizan los siguientes códigos de la Clasificación Internacional de Enfermedades para cada una de las enfermedades no transmisibles:
-  - enfermedades cardiovasculares (códigos I00-I99 de la CIE-10) 
-  - cáncer (códigos C00-C97 de la CIE-10)
-  - diabetes (códigos E10-E14 de la CIE-10)
-  - enfermedades respiratorias crónicas (códigos J30-J98 de la CIE-10) 
+  Gaixotasunen Nazioarteko Sailkapenaren kode hauek erabiltzen dira transmititu ezin den gaixotasun bakoitzerako: 
+  - gaixotasun kardiobaskularrak (GNS-10eko I00-I99 kodeak)
+  - minbizia (GNS-10eko C00-C97 kodeak)
+  - diabetesa (GNS-10eko E10-E14 kodeak)
+  - arnas gaixotasun kronikoak (GNS-10eko J30-J98 kodeak)  
 
 texto_oceca: FUENTE.oceca
 
@@ -71,29 +72,31 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |
 
-  La morbilidad por enfermedades no transmisibles (ENT) entre los adultos está aumentando rápidamente a nivel mundial debido
-   al envejecimiento y las transiciones epidemiológicas. Las enfermedades cardiovasculares, el cáncer, la diabetes y las
-   enfermedades respiratorias crónicas son las cuatro causas principales de la carga de ENT. Medir el riesgo de morir 
-  por estas cuatro causas principales es importante para evaluar el alcance de la carga de mortalidad prematura por ENT en 
-  una población, suponiendo que experimentaría las tasas de mortalidad actuales a cualquier edad y no moriría por ninguna
-   otra causa de muerte (por ejemplo, lesiones o VIH/SIDA).
+  Helduen artean, gaixotasun ez-kutsakorren (GEK) ziozko erikortasuna azkar handitzen ari da mundu-mailan, zahartzearen 
+  eta trantsizio epidemiologikoen ondorioz. Gaixotasun kardiobaskularrak, minbizia, diabetesa eta arnas-gaixotasun 
+  kronikoak dira GEK kargaren lau arrazoi nagusiak. Lau arrazoi nagusi hauen ondorioz hiltzeko arriskua neurtzea 
+  garrantzitsua da biztanleria baten GEK bidez goiz hiltzeko kargaren irismena ebaluatzeko, suposatuz edozein adinetan 
+  egungo heriotza-tasak esperimentatuko lituzkeela eta ez litzatekeela beste heriotza-arrazoi baten zioz hilko (esaterako, 
+  lesioek edo GIB/hiesak eraginda). 
 
-  La tasa de mortalidad atribuida a enfermedades cardiovasculares, cáncer, diabetes o 
-  enfermedades respiratorias crónicas es la probabilidad de morir entre los 30 y los 70 años 
-  por enfermedades cardiovasculares, cáncer, diabetes
-  o enfermedades respiratorias crónicas, definida como el porcentaje de personas de 30 años que morirían antes de cumplir 
-  70 años por enfermedades cardiovasculares, cáncer, diabetes o enfermedades respiratorias crónicas, suponiendo que experimentaría 
-  las tasas de mortalidad actuales a cualquier edad y no moriría por ninguna otra causa de muerte (por ejemplo, lesiones o VIH/SIDA).
+  Gaixotasun kardiobaskularrei, minbiziari, diabetesari eta arnasketa-gaixotasun kronikoei lotutako heriotza-tasa da 30 
+  eta 70 urte bitartean gaixotasun kardiobaskularren, minbiziaren, diabetesaren edo arnasketa-gaixotasun kronikoen ondorioz 
+  hiltzeko arriskua, hau da, gaixotasun kardiobaskularren, minbiziaren, diabetesaren edo arnasketa-gaixotasun kronikoen 
+  ondorioz 70 urteak bete baino lehen hilko diren 30 urteko pertsonen ehunekoa, suposatuz egungo heriotza-tasak esperimentatuko 
+  dituela edozein adinetan eta ez dela hilko beste ezein heriotza-arrazoiren ondorioz (esaterako, lesioek edo GIB/ihesak 
+  eraginda). 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.4.1&seriesCode=SH_DTH_NCOM&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=30-70%20%7C%20BOTHSEX">Tasa de mortalidad atribuida a enfermedades cardiovasculares, cáncer, diabetes o enfermedades respiratorias crónicas (probabilidad) SH_DTH_NCOM</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.4.1&seriesCode=SH_DTH_NCOM&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=30-70%20%7C%20BOTHSEX">Gaixotasun kardiobaskularrei, minbiziari, diabetesari edo arnas gaixotasun kronikoei egotzitako heriotza-tasa (probabilitatea) SH_DTH_NCOM</a> UNSTATS
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-04-01.pdf">Metadatos 3-4-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-04-01.pdf">Metadatuak 3-4-1.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 

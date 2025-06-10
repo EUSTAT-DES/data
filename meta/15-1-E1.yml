@@ -8,8 +8,8 @@ indicador_disponible: GRAFICO.15-1-E1-titulo
 
 
 definicion:
-  Superficie terrestre incluida en áreas protegidas (Red Natura 2000 y Espacios Naturales Protegidos), 
-  y porcentaje sobre el total de la superficie terrestre
+  Eremu babestuetan (Natura 2000 Sarea eta Naturagune Babestuak) 
+  sartutako lehorreko azalera, eta lehorreko azalera osoaren gaineko ehunekoa 
 
 
 formula: |
@@ -17,26 +17,24 @@ formula: |
 
   $$PSTP^{t} = \frac{STP^{t}}{ST^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $STP^{t} =$ superficie terrestre incluida en áreas protegidas en el año $t$
+  $STP^{t} =$ eremu babestuetan sartutako lur-azalera $t$ urtean
 
-  $ST^{t} =$ superficie terrestre en el año $t$
+  $ST^{t} =$ lur-azalera $t$ urtean
 
-  La desagregación por tipo de ecosistema se realiza sobre la superficie total del ecosistema, según
-  la siguiente fórmula:
+  Ekosistema motaren araberako bereizketa ekosistemaren azalera osoan egiten da, formula honen arabera:
 
-  $$PSTP_{ecosistema}^{t} = \frac{STP_{ecosistema}^{t}}{ST_{ecosistema}^{t}} \cdot 100$$
+  $$PSTP_{ekosistema}^{t} = \frac{STP_{ekosistema}^{t}}{ST_{ekosistema}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $STP_{ecosistema}^{t} =$ superficie de un ecosistema determinado incluida en áreas protegidas en el año $t$
+  $STP_{ekosistema}^{t} =$ ekosistema jakin baten azalera, eremu babestuetan dagoena $t$ urtean
 
-  $ST_{ecosistema}^{t} =$ superficie total de un ecosistema determinado en el año $t$
+  $ST_{ekosistema}^{t} =$ ekosistema jakin baten guztizko azalera $t$ urtean
 
 desagregacion: >-
-  Tipo de ecosistema: bosques, humedales, pastizales, tierras de cultivo, 
-  asentamientos, otras tierras
+  Ekosistema mota: basoak; hezeguneak; larreak; laborantza-lurrak; asentamenduak; beste lur batzuk 
 
 periodicidad: FUENTE.FREQ_A3
 
@@ -46,25 +44,27 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  Este indicador mide la extensión de las áreas terrestres protegidas, que incluyen las designadas 
-  a nivel nacional y los espacios Natura 2000. Un área designada a nivel nacional es un 
-  área protegida por la legislación nacional.
+  Adierazle honek babestutako lur-eremuen hedadura neurtzen du, maila nazionalean izendatutakoak 
+  eta Natura 2000 guneak barne. Nazio-mailan izendatutako eremu bat legeria nazionalak babestutako 
+  eremua da. 
 
-  Los espacios Natura 2000 se designan para salvaguardar las especies y los hábitats de 
-  Europa, incluidos en las Directivas de Hábitats y de Aves de la UE.
+  Natura 2000 guneak Europako espezieak eta habitatak babesteko izendatzen dira, EBren Habitatei 
+  eta Hegaztiei buruzko Zuzentarauetan sartuta daudenak. 
 
-  Fuente: Eurostat
+
+  Iturria: Eurostat
+
 
 dato_global: |
 
   <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_15_20/default/table?lang=en&category=sdg.sdg_15">
-  Superficie de las áreas terrestres protegidas(sdg_15_20)</a> Eurostat
+  Lurreko eremu babestuen azalera (sdg_15_20)</a> Eurostat
 
 comparabilidad: |
-  El indicador disponible es comparable con el indicador europeo.
+  EAEn eskuragarri dagoen adierazlea Europako adierazlearekin aldera daiteke.
 
 indicador_meta_enlace: >- 
-  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_15_20_esmsip2.htm">Metadatos Eurostat (sdg_15_20)</a> (solo en inglés)
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_15_20_esmsip2.htm">Metadatuak Eurostat (sdg_15_20)</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

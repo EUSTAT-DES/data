@@ -1,0 +1,39 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.17-titulo
+# meta_global: meta_largo.17-12-titulo
+#  indicador_onu_global: indicador_largo.17-12-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  El nivel promedio de los aranceles aduaneros que enfrentan los 
+  países en desarrollo y los países menos adelandados (PMA) permite 
+  observar a qué ritmo avanza el sistema multilateral hacia la 
+  implementación del acceso a los mercados libre de derechos y de cuotas.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global:
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-12-01.pdf">Metadatos 17-12-1.pdf</a> (solo en inglés)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -1,0 +1,109 @@
+ # Metadatos nacionales (ficha metodológica)
+
+indicador_disponible: >-
+  GRAFICO.1-4-1-titulo
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-4-titulo
+#  indicador_onu_global: indicador_largo.1-4-1-titulo
+
+
+definicion: | 
+
+  Series disponibles: 
+
+  <b> - Proporción de viviendas con agua corriente:</b>
+  Proporción de viviendas principales con abastecimiento de agua corriente
+  
+  <b> - Proporción de viviendas con baño:</b>
+  Proporción de viviendas principales con baño
+
+
+formula: |
+
+  <b>Proporción de viviendas con agua corriente</b>
+
+  $$PVP_{agua\, corriente}^{t} = \frac{VP_{agua\, corriente}^{t}}{VP^{t}} \cdot 100$$
+
+  donde:
+
+  $VP_{agua\, corriente}^{t} =$ viviendas principales con abastecimiento de agua corriente en el año $t$
+
+  $VP^{t} =$ viviendas principales en el año $t$
+
+  <br>
+
+  <b>Proporción de viviendas con baño</b>
+
+  $$PVP_{baño}^{t} = \frac{VP_{baño}^{t}}{VP^{t}} \cdot 100$$
+
+  donde:
+
+  $VP_{baño}^{t} =$ viviendas principales con baño en el año $t$
+
+  $VP^{t} =$ viviendas principales en el año $t$
+
+desagregacion: >-
+
+  Territorio histórico/Comarca/Municipio
+
+observaciones: >-
+  Vivienda principal es aquella vivienda que es utilizada toda o la mayor parte del año como 
+  residencia habitual por una o más personas
+
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+
+  El indicador de Naciones Unidas se basa en 9 componentes. La proporción de la población 
+  que vive en hogares con acceso a servicios básicos se define como la proporción de la población 
+  que utiliza sistemas de prestación de servicios públicos que satisfacen las necesidades 
+  humanas básicas, incluidos agua potable, saneamiento, 
+  higiene, energía, movilidad, recogida de residuos, atención sanitaria, educación y tecnologías 
+  de la información.
+
+  Estos componentes se capturan en varios indicadores independientes de los ODS, 
+  lo que significa que los conceptos y definiciones del indicador 1.4.1 de los ODS se derivarán 
+  de estos indicadores específicos de los ODS o serán los mismos que ellos.
+
+  Entre los diferentes aspectos de la pobreza, este indicador se centra en el acceso a 
+  servicios básicos. Proporcionar acceso a servicios básicos como agua potable, servicios 
+  de saneamiento e higiene, energía 
+  y movilidad sostenibles, vivienda, educación, atención sanitaria, etc., ayuda a mejorar 
+  la calidad de vida de los pobres.
+
+  La falta de prestación de servicios básicos y la falta de empoderamiento y participación 
+  de los gobiernos locales en la prestación de servicios básicos socavan el crecimiento económico 
+  y la calidad de vida en cualquier comunidad. Unos sistemas adecuados de prestación de servicios 
+  básicos promueven mejoras socioeconómicas y ayudan a lograr el crecimiento económico, la 
+  inclusión social, la reducción de la pobreza y la igualdad.
+
+  Más específicamente, la mejora de los servicios básicos puede ayudar a aumentar el bienestar 
+  y la productividad de las comunidades, crear empleos, ahorrar tiempo y esfuerzo humano en 
+  el transporte de agua, apoyar la seguridad alimentaria, mejorar el uso de la energía, producir 
+  productos básicos esenciales, mejorar la salud (haciendo que los servicios médicos atención 
+  sanitaria, disponibilidad de agua potable o recogida de residuos sólidos) o mejorar el nivel 
+  de educación.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: |
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.4.1&seriesCode=SP_ACS_BSRVH2O&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=RURAL">Proporción de población que utiliza servicios básicos de agua potable, por ubicación (%) SP_ACS_BSRVH2O</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.4.1&seriesCode=SP_ACS_BSRVSAN&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAREA">
+  Proporción de población que utiliza servicios básicos de saneamiento, por ubicación (%) SP_ACS_BSRVSAN</a> UNSTATS
+
+comparabilidad: >-
+  El indicador disponible en la C.A de Euskadi cumple con 
+  los metadatos de Naciones Unidas para las series analizadas. Otras series se presentan en otros indicadores de desarrollo sostenible de esta plataforma (3-8-1, 4-1-1, 7-1-2, 9-1-1, 9-c-1, 11-2-1, 11-6-1)
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-01.pdf">Metadatos 1-4-1.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

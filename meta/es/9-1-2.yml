@@ -1,0 +1,67 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.9-titulo
+# meta_global: meta_largo.9-1-titulo
+# indicador_onu_global: indicador_largo.9-1-2-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Desarrollar infraestructuras de calidad, fiables, sostenibles y resilientes, 
+  incluidas las infraestructuras regionales y transfronterizas, para apoyar el 
+  desarrollo económico y el bienestar humano, con especial atención al acceso asequible 
+  y equitativo para todos. 
+
+  El desarrollo de las infraestructuras transfronterizas se refleja mejor 
+  en los volúmenes de pasajeros y mercancías transportados por los Estados 
+  miembros y las regiones. Un crecimiento de los volúmenes de pasajeros y mercancías 
+  muestra un sólido desarrollo de las infraestructuras en los Estados y las 
+  regiones, junto con el consiguiente beneficio socioeconómico. 
+
+  El transporte aéreo es especialmente importante no solo por los beneficios 
+  económicos y laborales, sino también porque es uno de los únicos modos de 
+  transporte en los que se puede confiar durante las emergencias y los brotes 
+  de enfermedades para hacer llegar rápidamente alimentos, medicamentos, personal 
+  médico, vacunas y otros suministros a las personas afectadas en las zonas afectadas. 
+
+  Además, el seguimiento de cómo cambia con el tiempo la proporción de los volúmenes 
+  de mercancías no destinados a la carretera y la proporción de los volúmenes de 
+  pasajeros correspondientes al transporte público permite obtener información 
+  sobre la sostenibilidad general del sistema de transporte mundial.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.1.2&seriesCode=IS_RDP_FRGVOL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=AIR">Volumen de carga, por modo de transporte (toneladas-kilómetro) IS_RDP_FRGVOL</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.1.2&seriesCode=IS_RDP_PFVOL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=AIR">Volumen de pasajeros (pasajeros-kilómetros), por modo de transporte IS_RDP_PFVOL</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.1.2&seriesCode=IS_RDP_PORFVOL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=SEA">Tráfico portuario de contenedores, transporte marítimo (unidades equivalentes a veinte pies - TEUs) IS_RDP_PORFVOL</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.1.2&seriesCode=IS_RDP_LULFRG&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=SEA">Carga cargada y descargada, transporte marítimo (toneladas métricas) IS_RDP_LULFRG</a> UNSTATS
+
+comparabilidad: 
+
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-01-02.pdf">Metadatos 9-1-2.pdf</a> (solo en inglés)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

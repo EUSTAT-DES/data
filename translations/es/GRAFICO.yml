@@ -1,11 +1,11 @@
 # TITULOS
 
-nodisponible: No hay datos disponibles para este indicador
+nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con la metodología del indicador 
 
 1-1-1-titulo: "Proporción de la población que vive por debajo del umbral internacional de la pobreza"
-1-2-1-titulo: "Proporción de la población que vive por debajo del umbral de la pobreza"
+1-2-1-titulo: "Proporción de la población que vive por debajo del umbral de la pobreza desglosada por sexo"
 1-2-2-titulo: "Tasa AROPE. Proporción de personas en riesgo de pobreza o exclusión social"
-1-3-1-titulo: "Proporción de la población cubierta por sistemas o niveles mínimos de protección social, desglosada por sexo, distinguiendo entre los desempleados y la población que ha superado la edad legal de jubilación"
+1-3-1-titulo: "Proporción de la población cubierta por sistemas o niveles mínimos de protección social, desglosada por sexo, distinguiendo entre las personas desempleadas y la población que ha superado la edad legal de jubilación"
 1-4-1-titulo: "Proporción de viviendas principales con acceso a servicios básicos (abastecimiento de agua corriente y baño)"
 1-5-1-titulo: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
 1-5-2-titulo: "Indemnizaciones por daños personales, pérdidas pecuniarias y daños de bienes pagadas y/o provisionadas en proporción al PIB"
@@ -26,7 +26,7 @@ nodisponible: No hay datos disponibles para este indicador
 
 3-3-1-titulo: "Número de infecciones por el VIH por cada 1.000 habitantes, desglosado por sexo"
 3-4-E1-titulo: Tasa de participación en los programas de cribado poblacional de cáncer (Indicador Gobierno Vasco)
-3-4-E2-titulo: Esperanza de vida y esperanza de vida en buena salud (Indicador Gobierno Vasco)
+3-4-E2-titulo: Esperanza de vida al nacer (Indicador Gobierno Vasco)
 3-5-1-titulo: "Número de admisiones a tratamiento por abuso o dependencia de alcohol y drogas ilegales por cada 100.000 habitantes"
 3-5-2-titulo: "Consumo anual de alcohol en litros de alcohol puro por persona de 15 y más años"
 3-7-1-titulo: "Proporción de mujeres en edad de procrear (entre 18 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos"
@@ -38,7 +38,7 @@ nodisponible: No hay datos disponibles para este indicador
 4-1-E1-titulo: "Tasa de abandono escolar prematuro de la población de 18-24 años"
 4-1-2-titulo: "Tasa de finalización (educación secundaria inferior y educación secundaria superior)"
 4-2-2-titulo: "Tasa neta de escolarización a los 5 años"
-4-3-1-titulo: "Tasa de participación de jóvenes y adultos en la educación y formación académica y no académica, desglosada por sexo"
+4-3-1-titulo: "Tasa de participación de personas jóvenes y adultas en la educación y formación académica y no académica, desglosada por sexo"
 4-5-1-titulo: "Índices de paridad (entre mujeres y hombres, quintiles de riqueza superior e inferior, municipios de más y menos de 10.000 habitantes y personas con y sin limitaciones por problemas de salud) en la realización de actividades educativas (formales o no formales) en los últimos 12 meses o 4 semanas"
 4-6-1-titulo: "Proporción de personas entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de comprensión lectora y en matemáticas"
 
@@ -59,8 +59,8 @@ nodisponible: No hay datos disponibles para este indicador
 
 7-3-E1-titulo: "Consumo de energía eléctrica (Indicador Gobierno Vasco)"
 
-8-5-1-titulo: "Ingreso medio por hora de personas empleadas, desglosado por sexo y personas con
-  o sin discapacidad"
+8-5-1-titulo: "Ingreso medio por hora de personas empleadas, desglosado por sexo y por personas con
+  o sin discapacidad" 
 8-5-E1-titulo: "Tasa de ocupación de la población (Indicador UE sdg_08_30)" 
 8-8-1-titulo: "Índice de incidencia de accidentes con baja en jornada/in itinere, según gravedad" 
 8-9-1-titulo: "PIB generado directamente por el turismo en proporción al PIB total y tasa de crecimiento"
@@ -130,8 +130,8 @@ OCECA-1-2-2-1A: "Proporción de personas en riesgo de pobreza o exclusión socia
 OCECA-1-a-2-1: Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación
 OCECA-1-a-2-2: Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud
 OCECA-6-1-1: Proporción de personas en zonas de abastecimiento que notifican al Sistema de Información Nacional de Agua de Consumo (SINAC)
-OCECA-9-4-1-5: Emisiones de CO2 respecto al año 1990
-OCECA-9-4-1-6: Emisiones de CO2 respecto al año 2005
+OCECA-9-4-1-5: Emisiones de $CO_2$ respecto al año 1990
+OCECA-9-4-1-6: Emisiones de $CO_2$ respecto al año 2005
 OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional
 OCECA-13-2-2-3: Emisiones de gases de efecto invernadero respecto al año 1990
 OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
@@ -245,6 +245,7 @@ OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
 8-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
 8-5-E1-contenido: "<b>Dirección deseada:</b> En la serie Tasa de ocupación, el objetivo europeo es alcanzar un 78% para el año 2030. Por su parte, en la serie Brecha de género, la meta es reducir la diferencia a un máximo de 5,8 puntos porcentuales en ese mismo año."
 8-6-1-contenido: "<b>Dirección deseada:</b> El objetivo establecido a nivel europeo es que, para el año 2030, el valor del indicador correspondiente a los jóvenes de entre 15 y 29 años no supere el 9%"
+8-8-1-contenido: "<b>Dirección deseada:</b> Descenso"
 8-9-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 8-10-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 8-10-2-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -254,7 +255,7 @@ OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
   cuyo objetivo es facilitar la transición de las personas jóvenes hacia la vida adulta, promoviendo su autonomía y su incorporación al ámbito laboral, especialmente de aquellas alejadas actualmente del mercado de trabajo.
 
   
-  La <a href="https://www.euskadi.eus/planes-informes-planificacion-innovacion-empleo/web01-s2enple/es/">Estrategia Vasca de Empleo 2030 los Planes Estratégicos de Empleo</a> 
+  La <a href="https://www.euskadi.eus/planes-informes-planificacion-innovacion-empleo/web01-s2enple/es/">Estrategia Vasca de Empleo 2030 y los Planes Estratégicos de Empleo</a> 
   también incluyen líneas de actuación específicas para fomentar el empleo juvenil, mediante programas de formación, incentivos a la contratación y apoyo al emprendimiento joven.
 
 9-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -376,11 +377,11 @@ OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
 8-2-1-notapie: Los datos del último año son provisionales
 
 # PESTAÑA "INDICADORES RELACIONADOS" (EMBEDED)
-embeded-1-2-1: "https://eustat-des.github.io/site/embeded/1-2-1"
-embeded-1-2-2: "https://eustat-des.github.io/site/embeded/1-2-2"
-embeded-1-a-2: "https://eustat-des.github.io/site/embeded/1-a-2"
-embeded-6-1-1: "https://eustat-des.github.io/site/embeded/6-1-1"
-embeded-8-9-1: "https://eustat-des.github.io/site/embeded/8-9-1"
-embeded-9-4-1: "https://eustat-des.github.io/site/embeded/9-4-1"
-embeded-10-2-1: "https://eustat-des.github.io/site/embeded/10-2-1"
-embeded-13-2-2: "https://eustat-des.github.io/site/embeded/13-2-2"
+embeded-1-2-1: "/site/es/embeded/1-2-1"
+embeded-1-2-2: "/site/es/embeded/1-2-2"
+embeded-1-a-2: "/site/es/embeded/1-a-2"
+embeded-6-1-1: "/site/es/embeded/6-1-1"
+embeded-8-9-1: "/site/es/embeded/8-9-1"
+embeded-9-4-1: "/site/es/embeded/9-4-1"
+embeded-10-2-1: "/site/es/embeded/10-2-1"
+embeded-13-2-2: "/site/es/embeded/13-2-2"

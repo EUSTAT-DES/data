@@ -1,0 +1,35 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-2-titulo
+#  indicador_onu_global: indicador_largo.1-2-1-titulo
+
+
+definicion: >-
+  Proportion of people with income per consumption unit below 60% of the national median (modified OECD scale)
+
+formula: |
+  $$PPRPR_{NAC}^{t} = \frac{PRPR_{NAC}^{t}}{P^{t}} \cdot 100$$
+
+  where:
+
+  $PRPR_{NAC}^{t} =$ population at risk of relative poverty considering the national poverty threshold (60% of the national median income per consumption unit (modified OECD scale) in year $t$
+
+  $P^{t} =$ total population in year $t$
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones: |
+
+  The income used in the calculation of this indicator corresponds to the year prior to the survey. 
+
+  The number of consumption units in a household 
+  is calculated using the modified OECD scale, which assigns a weight of 1 to the 
+  first person aged 14 or over, a weight of 0.5 for other people aged 14 or over 
+  and a weight of 0.3 for people under 14 years of age.
+
+texto_oceca: FUENTE.oceca
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

@@ -9,20 +9,20 @@ meta_global: meta_largo.3-1-titulo
 
 
 definicion: >-
-  Defunciones de mujeres atribuidas a embarazo, parto y puerperio por cada 100.000 nacimientos
+  Haurdunaldiari, erditzeari eta erdiberrialdiari egotzitako emakumeen heriotzak 100.000 jaiotzako
 
 formula: |
 
-  $$TM_{materna}^{t} = \frac{D_{materna}^{t}}{N^{t}} \cdot 100.000$$
+  $$TM_{amatasuna}^{t} = \frac{D_{amatasuna}^{t}}{N^{t}} \cdot 100.000$$
 
-  donde:
+  non:
 
-  $D_{materna}^{t} =$ defunciones de mujeres atribuidas a embarazo, parto y puerperio (códigos O00-O99 de la CIE-10) en el año $t$
+  $D_{amatasuna}^{t} =$ haurdunaldiari, erditzeari eta erdiberrialdiari egotzitako emakumeen heriotzak (GNS-10eko O00-O99 kodeak) $t$ urtean
 
-  $N^{t} =$ nacimientos en el año $t$
+  $N^{t} =$ jaiotzak $t$ urtean
 
 desagregacion: >- 
-  Territorio histórico
+  Lurralde historikoa
 
 periodicidad: FUENTE.FREQ_A
 
@@ -35,21 +35,23 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |
 
-  La tasa de mortalidad materna se define como el número de muertes maternas durante un tiempo determinado
-  por cada 100.000 nacidos vivos durante el mismo período. Representa el riesgo de muerte materna en relación
-  al número de nacidos vivos y esencialmente captura el riesgo de muerte en un solo embarazo (representado por un
-  único nacido vivo).
+  Amen heriotza-tasa denbora jakin batez bizirik irten diren 100.000 umeko hil diren amen kopurua da. Amaren heriotza-arriskua 
+  adierazten du, bizirik jaio diren umeen kopuruari lotuta, eta, funtsean, haurdunaldi bakar bateko heriotza-arriskua hartzen 
+  du (bizirik jaiotako haur bakar baten arabera irudikatua). 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 
 dato_global: >-
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.1.1&seriesCode=SH_STA_MORT&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=FEMALE">Tasa de mortalidad materna (%) SH_STA_MORT</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.1.1&seriesCode=SH_STA_MORT&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=FEMALE">Amen heriotza-tasa (%) SH_STA_MORT</a> UNSTATS
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-01-01.pdf">Metadatos 3-1-1.pdf</a> (solo en inglés)'
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-01-01.pdf">Metadatuak 3-1-1.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 

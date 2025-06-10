@@ -8,42 +8,47 @@ meta_global: meta_largo.16-7-titulo
 #  indicador_onu_global: indicador_largo.16-7-1-titulo
 
 definicion: >-
-  Ratio de la proporción de mujeres en el sector público respecto a la proporción de mujeres en la población entre 16 y 64 años, por institución pública
+  Sektore publikoko emakumeen proportzioaren ratioa 16 eta 64 urte bitarteko emakumeen proportzioarekiko, erakunde publikoaren arabera 
+
 
 formula: |
 
   $$RM_{SP}^{t} = \frac{PM_{SP}^{t}}{PM_{16-64}^{t}}$$
 
-  siendo:
+  izanik:
 
-  $$PM_{SP}^{t} = \frac{P_{SP\, mujeres}^{t}}{P_{SP}^{t}} \cdot 100 $$
+  $$PM_{SP}^{t} = \frac{P_{SP\, emakumeak}^{t}}{P_{SP}^{t}} \cdot 100 $$
 
-  $$PM_{16-64}^{t} = \frac{P_{16-64\, mujeres}^{t}}{P_{16-64}^{t}} \cdot 100 $$
+  $$PM_{16-64}^{t} = \frac{P_{16-64\, emakumeak}^{t}}{P_{16-64}^{t}} \cdot 100 $$
 
-  donde: 
+  non: 
 
-  $P_{SP\, mujeres}^{t} =$ mujeres al servicio del sector público a 1 de enero del año $t$ 
+  $P_{SP\, emakumeak}^{t} =$ sektore publikoan zerbitzua ematen duten emakumeak $t$ urteko urtarrilaren 1ean
 
-  $P_{SP}^{t} =$ personas al servicio del sector público a 1 de enero del año $t$ 
+  $P_{SP}^{t} =$ sektore publikoan zerbitzua ematen duten pertsonak $t$ urteko urtarrilaren 1ean
 
-  $P_{16-64\, mujeres}^{t} =$ mujeres entre 16 y 64 años a 1 de enero del año $t$ 
+  $P_{16-64\, emakumeak}^{t} =$ 16 eta 64 urte bitarteko emakumeak $t$ urteko urtarrilaren 1ean
 
-  $P_{16-64}^{t} =$ personas entre 16 y 64 años a 1 de enero del año $t$ 
+  $P_{16-64}^{t} =$ 16 eta 64 urte bitarteko pertsonak $t$ urteko urtarrilaren 1ean
 
 
 desagregacion: |
 
-  Institución pública: sector público (total), sector público autonómico, sector público local, sector público estatal, instituciones sanitarias autonómicas, centros educativos no universitarios autonómicos, diputaciones forales, ayuntamientos, universidades, policía autonómica, administración de justicia autonómica, administración de justicia del Estado, fuerzas armadas, fuerzas y cuerpos de seguridad del Estado.
+  Erakunde publikoa: sektore publikoa (guztira); sektore publiko autonomikoa; tokiko sektore publikoa; 
+  estatuko sektore publikoa; osasun-erakunde autonomikoak; unibertsitateaz kanpoko ikastetxe autonomikoak; 
+  foru-aldundiak; udalak; unibertsitateak; polizia autonomikoa; justizia-administrazio autonomikoa; 
+  estatuko justizia-administrazioa; indar armatuak; estatuko segurtasun-indar eta -kidegoak.
+
+  Lurralde historikoa 
 
 
 observaciones: |
-  El valor de referencia de este indicador es 1, que se tiene cuando la representación de la 
-  mujer en la administración pública analizada es perfectamente proporcional a su presencia 
-  en la población entre 16 y 64 años. 
+  Adierazle horren erreferentzia-balioa 1 da, aztertutako administrazio publikoan emakumeak duen 
+  ordezkaritza 16 eta 64 urte bitarteko biztanlerian duen presentziarekiko guztiz proportzionala 
+  denean. 
 
-  Si el indicador toma un valor menor que 1 significa que la mujer está 
-  infrarepresentada, mientras que si toma un valor mayor que 1 significa que 
-  está sobrerepresentada.
+  Adierazleak 1 baino balio txikiagoa badu, emakumea gutxiegi ordezkatuta dagoela esan nahi du; 
+  aldiz, 1 baino balio handiagoa badu, gainordezkatuta dagoela esan nahi du. 
 
 
 periodicidad: FUENTE.FREQ_A
@@ -53,39 +58,37 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  El servicio público es la base del gobierno, donde se desarrollan e implementan las 
-  políticas y programas públicos y donde la sociedad interactúa con el gobierno. En la 
-  mayoría de los países, el servicio público es también el mayor empleador. Es en este 
-  contexto que el ODS 16, en su meta 16.7, alienta a los países a garantizar que el 
-  servicio público sea representativo de las personas a las que sirve “en todos 
-  los niveles”. 
+  Zerbitzu publikoa gobernuaren oinarria da. Bertan garatzen eta ezartzen dira politika eta 
+  programa publikoak, eta gizarteak gobernuarekin elkarreragiten du. Herrialde gehienetan, 
+  zerbitzu publikoa da enplegatzaile handiena. Testuinguru horretan, 16. GJHk, 16.7 xedean, 
+  herrialdeak bultzatzen ditu zerbitzu publikoa pertsona hartzaileen adierazgarri izan dadin 
+  bermatzera, "maila guztietan". 
 
-  El indicador 16.7.1 se centra en la representación proporcional en las instituciones 
-  públicas; mide el grado en que las instituciones públicas de un país son representativas 
-  de la población general. La representación proporcional (también conocida como 
-  “representación descriptiva”) en el servicio público se relaciona con el grado en que 
-  la composición del servicio público refleja los diversos grupos sociodemográficos de 
-  la población nacional. El supuesto subyacente es que cuando el servicio público 
-  refleja la diversidad social de una nación, esto puede conducir a una mayor 
-  legitimidad del servicio público a los ojos de los ciudadanos, ya que los 
-  funcionarios públicos se asemejan a las personas a las que prestan servicios. 
+  16.7.1 adierazlea erakunde publikoetako ordezkaritza proportzionalean zentratzen da; herrialde 
+  bateko erakunde publikoak biztanleria orokorraren adierazgarri diren maila neurtzen du. Zerbitzu 
+  publikoko ordezkaritza proportzionala ("irudikapen deskriptiboa" ere esaten zaio) zerbitzu 
+  publikoaren osaerak biztanleria nazionalaren talde soziodemografikoak islatzen dituen mailarekin 
+  lotzen da. Azpian dagoen suposizioa da zerbitzu publikoak nazio baten dibertsitate soziala islatzen 
+  duenean, horrek zerbitzu publikoaren legitimitate handiagoa ekar dezakeela herritarren begietara, 
+  funtzionario publikoek zerbitzua jasotzen duten pertsonen antza baitute. 
 
-  Se ha descubierto que la representación proporcional está asociada con niveles más 
-  altos de confianza en las instituciones públicas, ya que las personas perciben 
-  procesos de formulación de políticas más inclusivos para mejorar la calidad y la equidad 
-  de las decisiones políticas y ayudar a frenar la influencia indebida de intereses 
-  creados sobre la toma de decisiones.
+  Ikusi da ordezkaritza proportzionala erakunde publikoekiko konfiantza-maila handiagoekin lotuta 
+  dagoela; izan ere, pertsonek politika inklusiboagoak formulatzeko prozesuak hautematen dituzte, 
+  erabaki politikoen kalitatea eta ekitatea hobetzeko eta erabakiak hartzerakoan sortutako interesen 
+  eragin bidegabea geldiarazten laguntzeko. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.7.1&seriesCode=SG_DMK_PARLMP_LC&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
-  Ratio de mujeres miembros de los parlamentos (Relación de la proporción de mujeres en el parlamento con la proporción de mujeres en la población nacional, con la edad de elegibilidad como límite inferior), Cámara Baja o Unicameral SG_DMK_PARLMP_LC</a> UNSTATS
+  Parlamentuetako emakume kideen ratioa (Parlamentuko emakumeen proportzioaren eta estatuko biztanleriako emakumeen proportzioaren arteko erlazioa, hautagarritasun-adina beheko muga gisa hartuta), Behe Ganbera edo Ganbera Bakarra SG_DMK_PARLMP_LC</a> UNSTATS
 
 comparabilidad: >-
-  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas. Se centra en el subindicador b).
+  EAEn erabilgarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak. b) azpiadierazlean zentratzen da.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01b.pdf">Metadatos 16-7-1(b).pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01b.pdf">Metadatuak 16-7-1(b).pdf</a> (ingelesez bakarrik)'
 informacion_interes: 
 
 national_data_updated_date: ''

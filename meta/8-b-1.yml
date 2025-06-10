@@ -9,17 +9,18 @@ meta_global: meta_largo.8-b-titulo
 
 
 definicion:  | 
-  Proporción del gasto de la administración autonómica en fomento del empleo (política de gasto 24 de la clasificación funcional empleada en las liquidaciones presupuestarias de las comunidades autónomas) 
+  Administrazio autonomikoak enplegua sustatzeko egiten duen gastuaren proportzioa (autonomia erkidegoetako 
+  aurrekontu-likidazioetan erabilitako sailkapen funtzionalaren 24. gastu-politika)
 
 formula:  |
 
-  $$G_{fomento\, empleo}^{t} = \frac{G_{fomento\, empleo}^{t}}{G^{t}} \cdot 100$$
+  $$G_{enplegu\, sustapena}^{t} = \frac{G_{enplegu\, sustapena}^{t}}{G^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $G_{fomento\, empleo}^{t} =$ gasto en fomento del empleo en la liquidación de presupuestos consolidados de la comunidad autónoma (política de gasto 24 de la clasificación funcional) en el año $t$
+  $G_{enplegu\, sustapena}^{t} =$ autonomia erkidegoko aurrekontu bateratuen likidazioan enplegua sustatzeko gastua (sailkapen funtzionalaren 24. gastu-politika) $t$ urtean
 
-  $G^{t} =$ gasto total en la liquidación de presupuestos consolidados de la comunidad autónoma en el año $t$
+  $G^{t} =$ autonomia erkidegoko aurrekontu bateratuen likidazioko guztizko gastua $t$ urtean
 
 
 desagregacion:  |
@@ -29,8 +30,8 @@ periodicidad: FUENTE.FREQ_A
 
 observaciones: >-
 
-  Los datos consolidados de las liquidaciones presupuestarias de las comunidades autónomas 
-  se toman depurados de IFL (intermediación financiera local) y PAC (política agrícola común)
+  Autonomia erkidegoetako aurrekontu-likidazioen datu bateratuak araztuta hartzen dira tokiko finantza-bitartekaritzatik 
+  eta NPEtik (nekazaritza-politika erkidea)
 
 texto_oceca: FUENTE.oceca
 
@@ -38,28 +39,28 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  El objetivo del indicador 8.b.1 de los ODS es proporcionar una indicación del 
-  progreso de los países en la resolución de las cuestiones relacionadas con el 
-  empleo juvenil. 
+  GJHen 8.b.1 adierazlearen helburua da herrialdeen aurrerapenaren azalpen bat ematea gazteen enpleguarekin 
+  lotutako gaien ebazpenean. 
 
-  En este sentido, se supone que haber adoptado oficialmente lo que puede 
-  reconocerse como una estrategia estructurada para el empleo juvenil 
-  significaría que un país prestaría mayor atención a los desafíos del mercado 
-  laboral juvenil, en comparación con los países que no cuentan con una estrategia. 
+  Suposatzen da gazteen enplegurako estrategia egituratu gisa aitortu daitekeen hori ofizialki ezarrita, 
+  herrialde batek arreta gehiago jarriko diela gazteen lan-merkatuaren erronkei, estrategiarik ez duten 
+  herrialdeekin alderatuta. 
 
-  De hecho, el desarrollo de una estrategia de este tipo suele implicar una amplia 
-  participación y consulta/coordinación entre las diferentes partes interesadas.
+  Era horretarako estrategia bat garatzeak, gainera, sarritan alde interesdunen arteko partaidetza eta 
+  kontsulta/koordinazio handia inplikatzen du. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
 
 comparabilidad: >- 
-  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas pero aporta información complementaria.
+  EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-0b-01.pdf">Metadatos 8-b-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-0b-01.pdf">Metadatuak 8-b-1.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: >-
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -21,7 +21,7 @@
 
 3-3-1-titulo: "Número de infecciones por el VIH por cada 1.000 habitantes, desglosado por sexo"
 3-4-E1-titulo: Tasa de participación en los programas de cribado poblacional de cáncer (<b>Indicador Gobierno Vasco</b>)
-3-4-E2-titulo: Esperanza de vida y esperanza de vida en buena salud (<b>Indicador Gobierno Vasco</b>)
+3-4-E2-titulo: Esperanza de vida al nacer (<b>Indicador Gobierno Vasco</b>)
 3-5-1-titulo: "Número de admisiones a tratamiento por abuso o dependencia de alcohol y drogas ilegales por cada 100.000 habitantes"
 3-5-2-titulo: "Consumo anual de alcohol en litros de alcohol puro por persona de 15 y más años"
 3-7-1-titulo: "Proporción de mujeres en edad de procrear (entre 18 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos"
@@ -294,9 +294,9 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 8-2-1-notapie: Los datos del último año son provisionales
 
 # PESTAÑA "INDICADORES RELACIONADOS" (EMBEDED)
-embeded-1-2-1: "https://eustat-des.github.io/site/embeded/1-2-1"
-embeded-1-2-2: "https://eustat-des.github.io/site/embeded/1-2-2"
-embeded-1-a-2: "https://eustat-des.github.io/site/embeded/1-a-2"
-embeded-6-1-1: "https://eustat-des.github.io/site/embeded/6-1-1"
-embeded-8-9-1: "https://eustat-des.github.io/site/embeded/8-9-1"
-embeded-9-4-1: "https://eustat-des.github.io/site/embeded/9-4-1"
+embeded-1-2-1: "/site/en/embeded/1-2-1" 
+embeded-1-2-2: "/site/en/embeded/1-2-2"
+embeded-1-a-2: "/site/en/embeded/1-a-2"
+embeded-6-1-1: "/site/en/embeded/6-1-1"
+embeded-8-9-1: "/site/en/embeded/8-9-1"
+embeded-9-4-1: "/site/en/embeded/9-4-1"

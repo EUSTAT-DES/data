@@ -12,17 +12,17 @@ indicador_disponible: GRAFICO.nodisponible
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |  
-  Los flujos totales de Ayuda Oficial al Desarrollo (AOD) y otros 
-  flujos oficiales (OFO) a los países en desarrollo cuantifican 
-  el esfuerzo público (excluidos los créditos a las exportaciones) que los 
-  donantes proporcionan a los países en desarrollo para la agricultura.
+  Garapen-bidean dauden herrialdetara egiten diren Garapenerako Laguntza Ofizialaren (GLO) fluxuek eta beste 
+  fluxu ofizial batzuek (BFO) zenbatesten dute emaileek garapen-bidean dauden herrialdeei nekazaritzarako ematen 
+  dieten ahalegin publikoa (esportazioetarako kredituak kanpo). 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa
 
 dato_global: >- 
 
 
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0a-02.pdf">Metadatos 2-a-2.pdf (solo en inglés)</a>
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0a-02.pdf">Metadatuak 2-a-2.pdf</a> (ingelesez bakarrik) 
 
 

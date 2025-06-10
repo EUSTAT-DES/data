@@ -1,0 +1,89 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.17-1-2-titulo
+
+objetivo_global: objetivo_largo.17-titulo
+meta_global: meta_largo.17-1-titulo
+#  indicador_onu_global: indicador_largo.17-1-2-titulo
+
+definicion: >-
+
+  Available series: 
+
+   - Proportion of non-financial income of the Basque public administrations that comes from taxes
+
+   - Proportion of total income of the Basque public administrations that comes from taxes
+  
+formula: |
+
+  <b>Proportion of non-financial income that comes from taxes</b>
+
+  $$PI_{tax}^{t} = \frac{I_{tax}^{t}}{I_{non\_fin}^{t}} \cdot 100$$
+
+  where: 
+
+  $I_{tax}^{t}$ = direct and indirect tax revenues of the Autonomous Community and Local Entities in year $t$ 
+
+  $I_{non_fin}^{t}$ = consolidated non-financial income of the Autonomous Community and Local Entitites in year $t$ (chapters 1 to 5, eliminating internal transfers between administrations)
+
+  <br>
+ 
+  <b>Proportion of total income of the Basque public administrations that comes from taxes</b>
+
+  $$PIT_{tax}^{t} = \frac{I_{tax}^{t}}{I_{tot}^{t}} \cdot 100$$
+
+  where: 
+
+  $I_{imp}^{t}$ = direct and indirect tax revenues of the Autonomous Community and Local Entities in year $t$
+
+  $I_{tot}^{t}$ = consolidated non-financial income of the Autonomous Community and Local Entitites in year $t$ (chapters 1 to 9, eliminating internal transfers between administrations)
+
+
+desagregacion:
+
+observaciones: |
+
+  The consolidated data on the budget settlements of the autonomous communities are taken after being filtered 
+  from the IFL (Local Financial Intermediation) and CAP (Common Agricultural Policy). 
+
+  In the first series, tax revenues are considered to be those included in Chapters 1 (direct taxes) and 2 
+  (indirect taxes) of the economic classification. Non-financial revenues correspond to Chapters 1 to 5. Double 
+  counting of transfers between the autonomous community and local entities is eliminated. 
+
+  La segunda serie incluye tanto los ingresos no financieros como los financieros (capítulo 9). También 
+  se consolidan las transferencias internas para evitar duplicidades. 
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Indicator 17.1.2, Proportion of domestic budgetary central government expenditure funded by taxes, 
+  supports an understanding of the extent to which countries’ recurrent and capital outlays are actually 
+  covered by domestic revenue mobilization in the form of taxation. 
+
+  The indicator, which can be directly derived from GFS series reported by national authorities to the 
+  IMF Statistics Department, will provide analysts with a cross-country comparable dataset that highlights 
+  the relationship between the executed national budget and the revenue/tax administration. 
+
+  Source: United Nations Statistics Division 
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.1.2&seriesCode=GC_GOB_TAXD&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proportion of domestic budget funded by domestic taxes (%) GC_GOB_TAXD</a> UNSTATS
+
+comparabilidad: >-
+  The available indicator does not comply with the United Nations metadata, but provides complementary information. 
+  While the United Nations indicator relates tax revenue to total public spending, the Basque Country indicator measures 
+  the proportion of the total consolidated revenue of the Basque public administrations that comes from taxes. Therefore, 
+  it focuses on the financing structure of the Basque public sector and not on its budget execution. 
+
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-01-02.pdf">Metadata 17-1-2.pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

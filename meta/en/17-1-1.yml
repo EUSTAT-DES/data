@@ -1,0 +1,83 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  global_indicators.17-1-1-title
+
+objetivo_global: objetivo_largo.17-titulo
+meta_global: meta_largo.17-1-titulo
+#  indicador_onu_global: indicador_largo.17-1-1-titulo
+
+definicion: >-
+  Total consolidated revenue of the Basque public administrations as a proportion of GDP at current prices
+
+formula: |
+
+  $$PPIBIAP^{t} = \frac{ICN_{CCAA+EELL}^{t}}{PIB_{CCAA}^{t}} \cdot 100$$
+
+  where:
+
+  $ICN_{CCAA+EELL}^{t} =$ consolidated revenue of the Basque public administrations in year $t$
+
+  $PIB_{CCAA}^{t} =$ gross domestic product of the Autonomous Community of the Basque Country at current prices in year $t$
+
+  <br>
+
+  For territorial disaggregations this formula is used:
+
+  $$PPIBIEL^{t} = \frac{IN_{EELL}^{t}}{PIB_{TH}^{t}} \cdot 100$$
+
+  where:
+
+  $IN_{EELL}^{t} =$ net income of local entities of a province in year $t$
+
+  $PIB_{TH}^{t} =$ gross domestic product of a province at current prices in year $t$
+
+desagregacion:
+
+observaciones: |
+  The consolidated income of the Basque administrations is obtained by adding the income of the autonomous 
+  community and local entities, subtracting the transfers between them (both current and capital), to avoid 
+  double counting. 
+
+  The territorialized indicators for Araba/Álava, Bizkaia and Gipuzkoa correspond to the data of the local 
+  entities of each province, without including the income of the autonomous administration or consolidation 
+  of transfers. 
+
+periodicidad: FUENTE.FREQ_A
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Fiscal policy is the use of the level and composition of the general government and public sectors’ 
+  spending and revenue—and the related accumulation of government assets and liabilities—to achieve 
+  such goals as the stabilization of the economy, the reallocation of resources, and the redistribution of 
+  income. 
+
+  In addition to revenue mobilization, government units may also finance a portion of their 
+  activities in a specific period by borrowing or by acquiring funds from sources other than compulsory 
+  transfers—for example, interest revenue, incidental sales of goods and services, or the rent of subsoil 
+  assets. 
+
+  Indicator 17.1.1 Total government revenue as a proportion of GDP, by source supports 
+  understanding countries’ domestic revenue mobilization in the form of tax and non-tax sources. The 
+  indicator will provide analysts with a cross-country comparable dataset that highlights the relationship 
+  between the four main types of revenue as well as the relative "tax burden" (revenue in the form of 
+  taxes) and “fiscal burden” (revenue in the form of taxes plus social contributions). 
+
+  Source: United Nations Statistics Division
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.1.1&seriesCode=GR_G14_GDP&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Total government revenue (budgetary central government) as a proportion of GDP (%) GR_G14_GDP</a> UNSTATS
+
+comparabilidad: >-
+  The available indicator partially complies with the United Nations metadata. The indicator has been adapted to the context of the Basque Country.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-01-01.pdf">Metadata 17-1-1.pdf</a>'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

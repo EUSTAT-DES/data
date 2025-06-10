@@ -10,23 +10,23 @@ meta_global: meta_largo.7-b-titulo
 
 definicion: |
 
-  Capacidad instalada de las instalaciones que generan electricidad 
-  a partir de fuentes de energía renovables dividida por la población
+  Energia-iturri berriztagarrietatik elektrizitatea sortzen 
+  duten instalazioen ahalmen instalatua, biztanleriaren arabera zatitua  
 
 formula: |
 
-  $$CINSTPC_{renovable}^{t} = \frac{CINST_{renovable}^{t}}{P^{t}} \cdot 100$$ 
+  $$CINSTPC_{berriztagarria}^{t} = \frac{CINST_{berriztagarria}^{t}}{P^{t}} \cdot 100$$ 
 
-  donde:
+  non:
 
-  $CINST_{renovable}^{t} =$ capacidad instalada de generación de energía eléctrica procedente de fuentes renovables en el año $t$ 
+  $CINST_{berriztagarria}^{t} =$ energia-iturri berriztagarrietatik elektrizitatea sortzeko ahalmen instalatua $t$ urtean 
 
-  $P^{t} =$ población total en el año  $t$
+  $P^{t} =$ biztanleria $t$ urtean
 
 
 desagregacion: |
 
-  Tipo de fuente de energía renovable: hidraúlica, fotovoltaica, eólica, solar térmica
+  Energia berriztagarrien iturri mota: hidraulikoa; fotovoltaikoa; eolikoa; eguzki-energia termikoa
  
 periodicidad: FUENTE.FREQ_A
 
@@ -38,57 +38,48 @@ observaciones:
 
 justificacion_global: | 
 
-  La infraestructura y las tecnologías necesarias para suministrar 
-  servicios energéticos modernos y sostenibles abarcan una
-  amplia gama de equipos y dispositivos que se utilizan en numerosos 
-  sectores económicos. No existe un mecanismo fácilmente disponible 
-  para recopilar, agregar y medir la contribución de este grupo dispar de 
-  productos a la prestación de servicios energéticos modernos y sostenibles.
- 
-  Sin embargo, una parte importante de la cadena de suministro de energía 
-  que puede medirse fácilmente es la infraestructura utilizada para 
-  producir electricidad. 
+  Energia-zerbitzu moderno eta jasangarriak hornitzeko beharrezkoak diren azpiegitura eta teknologiek sektore 
+  ekonomiko askotan erabiltzen diren ekipo eta gailu ugari hartzen dituzte. Ez dago erraz eskura daitekeen 
+  mekanismorik produktu-talde desberdin horrek energia-zerbitzu moderno eta jasangarriak emateko egiten duen 
+  ekarpena biltzeko, gehitzeko eta neurtzeko. 
 
-  Las energías renovables se consideran una forma sostenible de suministro 
-  de energía, ya que su uso actual no suele agotar su disponibilidad para 
-  su uso en el futuro. El enfoque de este indicador en la electricidad 
-  refleja el énfasis del objetivo en las fuentes modernas de energía y 
-  es particularmente relevante para los países en desarrollo donde la 
-  demanda de electricidad suele ser alta y su disponibilidad es limitada. 
+  Hala ere, energia-horniduraren katearen zati handi bat (erraz neur daitekeena) elektrizitatea ekoizteko 
+  erabiltzen den azpiegitura da.
 
-  Además, el enfoque en las energías renovables refleja el hecho de que las 
-  tecnologías utilizadas para producir electricidad renovable son 
-  generalmente modernas y más sostenibles que las no renovables, 
-  en particular en los subsectores de mayor crecimiento de la generación 
-  de electricidad a partir de energía eólica y solar.
+  Energia berriztagarriak energia hornitzeko modu jasangarritzat jotzen dira, gaur egun duten erabilerak ez 
+  baitu etorkizunean erabiltzeko aukera agortzen. Adierazle horrek elektrizitatean duen ikuspegiak helburuak 
+  energia-iturri modernoetan duen enfasia islatzen du, eta bereziki garrantzitsua da garapen-bidean dauden 
+  herrialdeentzat, non elektrizitate-eskaria handia izaten den eta erabilgarritasuna mugatua. 
 
-  La división de la capacidad de electricidad renovable por población 
-  (para producir una medida de vatios per cápita) propone escalar los datos 
-  de capacidad para tener en cuenta la gran variación de necesidades entre 
-  países. Utiliza la población en lugar del PIB para escalar los datos, 
-  porque este es el indicador más básico de la demanda de servicios 
-  energéticos modernos y sostenibles en un país.
+  Gainera, energia berriztagarrien ikuspegiak erakusten du elektrizitate berriztagarria ekoizteko erabiltzen 
+  diren teknologiak modernoak eta jasangarriagoak direla berriztagarriak ez direnak baino, bereziki energia 
+  eolikotik eta eguzki-energiatik elektrizitatea sortzeko hazkunde handiena duten azpisektoreetan. 
 
-  Este indicador también debería complementar los indicadores 
-  7.1.1 y 7.2.1. Con respecto al acceso a la electricidad, proporcionará 
-  información adicional sobre la proporción de personas con acceso a la 
-  electricidad al mostrar cuánta infraestructura está disponible 
-  para brindar ese acceso (en términos de la cantidad de capacidad por persona). 
-  El enfoque en la capacidad renovable también agregará valor al indicador 
-  de energías renovables existente (7.2.1) al mostrar cuánto contribuye 
-  la energía renovable a la necesidad de un mejor acceso a la electricidad.
+  Elektrizitate berriztagarriaren ahalmena biztanleriaren arabera banatzeak (biztanle bakoitzeko watt-en 
+  neurri bat sortzeko) gaitasun-datuak eskalatzea proposatzen du, herrialdeen arteko premien artean dagoen 
+  aldaketa handia kontuan hartzeko. BPGaren ordez biztanleria erabiltzen du datuak eskalatzeko, herrialde 
+  batean energia-zerbitzu moderno eta jasangarrien eskariaren adierazlerik oinarrizkoena delako. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+  Adierazle horrek 7.1.1 eta 7.2.1 adierazleak ere osatu beharko lituzke. Elektrizitaterako sarbideari dagokionez, 
+  informazio gehigarria emango du elektrizitaterako sarbidea duten pertsonen proportzioari buruz; izan ere, 
+  erakutsiko du zenbat azpiegitura dagoen erabilgarri sarbide hori emateko (pertsona bakoitzeko edukiera-kantitateari 
+  dagokionez). Ahalmen berriztagarriaren ikuspegiak ere balioa gehituko dio energia berriztagarrien adierazleari 
+  (7.2.1), energia berriztagarriak elektrizitatea hobeto eskuratzeko zer ekarpen egiten duen erakusten baitu. 
+
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
+
 
 dato_global: |
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=7.b.1&seriesCode=EG_EGY_RNEW&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALL">Capacidad instalada de generación de electricidad renovable (vatios per cápita) EG_EGY_RNEW</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=7.b.1&seriesCode=EG_EGY_RNEW&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALL">Elektrizitate berriztagarria sortzeko ahalmen instalatua (watt per capita) EG_EGY_RNEW</a> UNSTATS
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: 
-  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-0b-01.pdf">Metadatos 7-b-1.pdf</a> (solo en inglés)'
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-0b-01.pdf">Metadatuak 7-b-1.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 

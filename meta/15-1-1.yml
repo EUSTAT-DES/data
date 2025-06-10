@@ -8,20 +8,24 @@ meta_global: meta_largo.15-1-titulo
 #  indicador_onu_global: indicador_largo.15-1-1-titulo
 
 definicion: >-
-  Superficie forestal arbolada en proporción a la superficie total
+  Zuhaitzez hornitutako baso-azalera, azalera osoaren aldean 
 
 formula: |
 
   $$PSFA^{t} = \frac{SFA^{t}}{ST^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $SFA^{t} =$ superficie forestal arbolada en el año $t$ 
+  $SFA^{t} =$ zuhaiztien baso-azalera $t$ urtean 
 
-  $ST^{t} =$ superficie total en el año $t$
+  $ST^{t} =$ guztizko azalera $t$ urtean
 
 desagregacion: |
-  Territorio histórico/Comarca/Municipio
+  Lurralde historikoa 
+  
+  Eskualdea 
+ 
+  Udalerria 
 
 observaciones: >-
 
@@ -32,33 +36,34 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  Los bosques cumplen una serie de funciones vitales para la humanidad, entre ellas 
-  la provisión de bienes (madera y productos forestales no madereros) y servicios como 
-  hábitats para la biodiversidad, secuestro de carbono, protección costera y conservación del 
-  suelo y el agua.
+  Basoak izugarrizko onurak dakarzkigu gizateriari, besteak beste, ondasunak (zura eta zurezkoak 
+  ez diren baso-produktuak) eta zerbitzuak ematea, hala nola biodibertsitaterako habitatak 
+  kontserbatzea, karbonoa bahitzea, kostaldearen babestea eta lurzorua eta ura zaintzea. 
 
-  El indicador proporciona una medida de la extensión relativa de los bosques en un país. 
-  La disponibilidad de datos precisos sobre la superficie forestal de un país es un elemento 
-  clave para la política y la planificación forestales en el contexto del desarrollo sostenible.
+  Adierazleak herrialde bateko basoen hedapen erlatiboaren neurria ematen du. Herrialde bateko 
+  baso-azalerari buruzko datu zehatzak edukitzea funtsezko elementua da baso-politika eta -plangintzarako 
+  garapen jasangarriaren testuinguruan. 
 
-  Los cambios en la superficie forestal reflejan la demanda de tierras para otros usos y 
-  pueden ayudar a identificar prácticas no sostenibles en el sector forestal y agrícola.
+  Baso-azalerako aldaketek beste erabilera batzuetarako lurren eskaria islatzen dute, eta baso- eta 
+  nekazaritza-sektorean jardunbide ez-jasangarriak identifikatzen lagun dezakete. 
 
-  La superficie forestal como porcentaje de la superficie terrestre total puede utilizarse 
-  como un indicador aproximado del grado en que se están conservando o restaurando los bosques 
-  de un país, pero es sólo en parte una medida del grado en que se gestionan de forma sostenible.
+  Baso-azalera, lurreko azalera osoaren ehuneko jakina, herrialde bateko basoak zein mailatan 
+  kontserbatzen edo leheneratzen ari diren zehazten duen gutxi gorabeherako adierazle gisa erabil daiteke, 
+  baina, neurri batean, basoak modu jasangarrian kudeatzen diren mailaren neurri bat baino ez da. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: | 
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=15.1.1&seriesCode=AG_LND_FRST&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Superficie forestal como proporción de la superficie total del terreno (%) AG_LND_FRST</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=15.1.1&seriesCode=AG_LND_FRST&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Baso-azalera, lursailaren azalera osoaren proportzio gisa (%) AG_LND_FRST</a> UNSTATS
 
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-01.pdf">Metadatos 15-1-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-01.pdf">Metadatuak 15-1-1.pdf</a> (ingelesez bakarrik)'
 informacion_interes: 
 
 national_data_updated_date: ''

@@ -7,50 +7,48 @@ meta_global: meta_largo.1-a-titulo
 #  indicador_onu_global: indicador_largo.1-a-2-titulo
 
 definicion: |
-  Proporción del gasto de las administraciones públicas en la C.A. de Euskadi que se dedica a servicios
-  esenciales: educación, salud y protección social (grupos funcionales 09, 07 y 10 de la Clasificación 
-  de Funciones del Gobierno -COFOG-, utilizada a nivel 
-  internacional para clasificar los propósitos de las actividades gubernamentales)
+  Oinarrizko zerbitzuetara (hezkuntza, osasuna eta gizarte-babesa) bideratzen den EAEko 
+  herri-administrazioen gastuaren proportzioa (gobernu-jardueren helburuak sailkatzeko 
+  nazioartean erabiltzen den Gobernuaren Funtzioen Sailkapeneko 09, 07 eta 10 funtzio-taldeak)   
 
 formula: |
 
   $$PE_{t} = \frac{TE_{t} + TH_{t} + TS_{t}}{TG_{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PE_{t}$ = gasto del gobierno en servicios esenciales (educación, salud y protección social) como porcentaje del gasto total del gobierno en el año fiscal $t$
+  $PE_{t}$ = gobernuaren gastua oinarrizko zerbitzuetan (hezkuntza, osasuna eta gizarte-babesa), gobernuaren $t$ urte fiskaleko gastu osoaren ehuneko gisa 
 
-  $TE_{t}$ = gasto total del gobierno en educación en el año fiscal $t$
+  $TE_{t}$ = gobernuak hezkuntzan egiten duen guztizko gastua, $t$ urte fiskalean
 
-  $TH_{t}$ = gasto total del gobierno en salud en el año fiscal $t$
+  $TH_{t}$ = gobernuak osasunean egiten duen guztizko gastua, $t$ urte fiskalean
 
-  $TS_{t}$ = gasto total del gobierno en protección social en el año fiscal $t$
+  $TS_{t}$ = gobernuak gizarte-babesean egiten duen guztizko gastua, $t$ urte fiskalean
 
-  $TG_{t}$ = gasto total del gobierno en el año fiscal $t$
+  $TG_{t}$ = gobernuaren guztizko gastua, $t$ urte fiskalean
 
 desagregacion: |
-  Servicios esenciales: educación; salud; protección social
+  Oinarrizko zerbitzua
 
 observaciones: |
 
-  El indicador se calcula para el gobierno general, que incluye diferentes unidades
-  gubernamentales: gobierno central, gobierno autonómico, gobiernos forales y gobiernos locales.
+  Adierazlea gobernu orokorrerako kalkulatzen da, gobernu-unitate desberdinak barne hartzen dituena: 
+  gobernu zentrala, gobernu autonomikoa, foru gobernuak eta tokiko gobernuak.
 
-  La Clasificación de Funciones del Gobierno (COFOG), desarrollada por la 
-  Organización para la Cooperación y el Desarrollo Económicos (OCDE) y publicada 
-  por la División de Estadística de las Naciones Unidas, estructura el gasto público
-  en 10 grupos funcionales:
+  Gobernuaren Funtzioen Sailkapenak (COFOG), Ekonomia Lankidetza eta Garapenerako Erakundeak (ELGA) 
+  garatu eta Nazio Batuen Estatistika Atalak argitaratutakoak, gastu publikoa 10 talde funtzionaletan 
+  egituratzen du:
 
-   - 01 Servicios públicos generales
-   - 02 Defensa
-   - 03 Orden público y seguridad
-   - 04 Asuntos económicos
-   - 05 Protección del medio ambiente
-   - 06 Vivienda y servicios comunitarios
-   - 07 Salud
-   - 08 Ocio, cultura y religión
-   - 09 Educación
-   - 10 Protección social
+  - 01 Zerbitzu publiko orokorrak
+  - 02 Defentsa
+  - 03 Ordena publikoa eta segurtasuna
+  - 04 Gai ekonomikoak
+  - 05 Ingurumena babestea
+  - 06 Etxebizitza eta zerbitzu komunitarioak
+  - 07 Osasuna
+  - 08 Aisia, kultura eta erlijioa
+  - 09 Hezkuntza
+  - 10 Gizarte-babesa
 
 
 periodicidad: FUENTE.FREQ_A
@@ -58,53 +56,48 @@ periodicidad: FUENTE.FREQ_A
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: |
-  El indicador se utiliza para evaluar el gasto del gobierno en servicios 
-  esenciales (educación, salud y protección social) en relación con el monto del 
-  gasto gubernamental total. Dado que proviene de un marco internacional, 
-  el Manual de estadísticas de finanzas públicas (MEFP 2014), proporciona a los 
-  analistas un conjunto de datos comparable entre países y garantiza el establecimiento 
-  de conclusiones analíticas sólidas para respaldar el seguimiento de los ODS 
-  utilizando datos fiscales.
+  Adierazlea gobernuak oinarrizko zerbitzuetan egiten duen gastua ebaluatzeko erabiltzen da (hezkuntza, 
+  osasuna eta gizarte-babesa), gobernuaren gastu osoaren zenbatekoarekin lotuta. Nazioarteko esparrutik 
+  datorrenez, finantza publikoen estatistiken eskuliburuak (2014) analistei datu batzuk eskaintzen dizkie, 
+  herrialdeen artean alderatzeko modukoak. Halaber, ondorio analitiko solidoak ezarri ahal izatea bermatzen 
+  du, GJHen jarraipena babesteko, zerga-datuak kontuan hartuta. 
 
-  Una alta proporción del gasto público en servicios esenciales (educación, 
-  salud y protección social) demuestra una alta prioridad gubernamental para 
-  estas funciones de gasto.
+  Oinarrizko zerbitzuetan gastu publikoa altua bada (hezkuntza, osasuna eta gizarte-babesa), gobernuek 
+  gastuaren eginkizun horiei lehentasun altua ematen dietela esan nahi du. 
 
-  Para informar este indicador, se considera que el gobierno general es el 
-  nivel más apropiado de cobertura institucional, ya que abarcará las unidades 
-  gubernamentales pertinentes, incluidos los gobiernos locales, ya que en muchos 
-  países se debe considerar la descentralización de estas categorías de gasto. 
-  Un país puede tener un gobierno central; varios gobiernos estatales, 
-  provinciales o regionales; y muchos gobiernos locales, y el MEFP 2014 recomienda 
-  que se compilen estadísticas para todas esas unidades de gobierno general.
+  Adierazle horren berri emateko, kontuan hartzen da gobernu orokorra dela estaldura instituzionaleko 
+  mailarik egokiena, gobernu-unitate egokiak hartzen baititu bere baitan, tokiko gobernuak barne. Izan ere, 
+  herrialde askotan gastuaren kategoria hauek deszentralizatuta daude, hau da, herrialde batek gobernu zentral 
+  bat eduki dezake, estatu, probintzia edo eskualdeko hainbat gobernu, eta tokiko gobernu asko. 2014ko eskuliburuak, 
+  beraz, gobernu orokorraren unitate horientzat guztientzat estatistikak batu daitezela gomendatzen du. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
 
 
 comparabilidad: >-
-  El indicador disponible en la C.A de Euskadi utiliza la clasificación COFOG, 
-  que no cumple con los metadatos del indicador de Naciones Unidas pero 
-  aporta información similar. El indicador mundial utiliza el  manual de estadísticas 
-  de finanzas gubernamentales (MEFP) donde el concepto de gasto se aplica de manera 
-  ligeramente diferente.
+  Euskal Autonomia Erkidegoan eskuragarri dagoen adierazleak COFOG sailkapena erabiltzen du. 
+  Sailkapen horrek ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko 
+  informazioa ematen du. Munduko adierazleak gobernu finantzen estatistiken eskuliburua 
+  (GFEE) erabiltzen du, non gastuaren kontzeptua pixka bat desberdin aplikatzen den.  
 
 dato_global: |
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_ESSRV&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
-  Proporción del gasto público total en servicios esenciales (%) SG_XPD_ESSRV</a> UNSTATS
+  Oinarrizko zerbitzuetako guztizko gastu publikoaren proportzioa (%) SG_XPD_ESSRV</a> UNSTATS
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_PROT&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
-  Proporción del gasto público total en servicios esenciales, protección social (%) SG_XPD_PROT</a> UNSTATS
+  Oinarrizko zerbitzuetako guztizko gastu publikoaren proportzioa, gizarte-babesa (%) SG_XPD_PROT</a> UNSTATS
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_EDUC&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
-  Proporción del gasto público total en servicios esenciales, educación (%) SG_XPD_EDUC</a> UNSTATS
+  Oinarrizko zerbitzuetako guztizko gastu publikoaren proportzioa, hezkuntza (%) SG_XPD_EDUC</a> UNSTATS
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=1.a.2&seriesCode=SG_XPD_HLTH&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
-  Proporción del gasto público total en servicios esenciales, salud (%) SG_XPD_HLTH</a> UNSTATS
+  Oinarrizko zerbitzuetako guztizko gastu publikoaren proportzioa, osasuna (%) SG_XPD_HLTH</a> UNSTATS
 
 indicador_meta_enlace: |
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02a.pdf">Metadatos 1-a-2 (1).pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02a.pdf">Metadatuak 1-a-2 (1).pdf</a> (ingelesez bakarrik)
 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02b.pdf">Metadatos 1-a-2 (2).pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02b.pdf">Metadatuak 1-a-2 (2).pdf</a> (ingelesez bakarrik)
 
 informacion_interes: 
 

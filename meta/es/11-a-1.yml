@@ -1,0 +1,90 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.11-a-1-titulo
+
+objetivo_global: objetivo_largo.11-titulo
+meta_global: meta_largo.11-a-titulo
+#  indicador_onu_global: indicador_largo.11-a-1-titulo
+
+definicion: |
+  Este indicador se compone de dos series temporales:
+
+  - Proporción de la población residente en municipios que cuentan con un plan de ordenación territorial
+  - Proporción de la población residente en municipios que disponen de plan general o normas subsidiarias de planeamiento urbanístico
+
+formula: |
+
+  <b>Proporción de la población residente en municipios que cuentan con un plan de ordenación territorial</b>
+  
+  $$PPTP^{t} = \frac{PTP^{t}}{P^{t}} \cdot 100$$
+
+  donde:
+
+  $PTP^{t} =$ población residente en municipios que cuentan con Plan Territorial Parcial el 1 de enero del año $t$
+
+  $P^{t} =$ población a 1 de enero del año $t$
+
+
+  <br>
+
+  <b>Proporción de la población residente en municipios que disponen de plan general o normas subsidiarias de planeamiento urbanístico</b>
+
+  $$PPPGNS^{t} = \frac{PPG^{t}+PNS^{t}}{P^{t}} \cdot 100$$
+
+  donde:
+
+  $PPG^{t} =$ población residente en municipios que disponen de plan general el 1 de enero del año $t$
+
+  $PNS^{t} =$ población residente en municipios que disponen de normas subsidiarias el 1 de enero del año $t$
+
+  $P^{t} =$ población a 1 de enero del año $t$
+
+desagregacion:
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Este indicador se basa en la noción de que el desarrollo y la implementación de 
+  las Políticas Urbanas Nacionales deben apoyar la participación, la asociación, la 
+  cooperación y la coordinación de los actores, así como facilitar el diálogo. Las Políticas 
+  Urbanas Nacionales (PNU) y los Planes de Desarrollo Regional (PDR) promueven un 
+  desarrollo urbano coordinado y conectado. Un esfuerzo coordinado del 
+  gobierno a través de una PNU o un PDR brinda la mejor oportunidad para 
+  lograr una urbanización sostenible y un desarrollo territorial equilibrado al 
+  vincular las políticas sectoriales, conectar las políticas gubernamentales 
+  nacionales, regionales y locales, y fortalecer los vínculos urbanos, 
+  periurbanos y rurales a través de un desarrollo territorial equilibrado.
+
+  Este indicador proporciona un buen barómetro sobre el progreso global en materia 
+  de políticas urbanas nacionales sostenibles. Sirve como análisis de brechas 
+  para respaldar las recomendaciones de políticas. El indicador puede identificar 
+  buenas prácticas y políticas entre los países que pueden promover la asociación 
+  y la cooperación entre todas las partes interesadas. Este indicador está orientado 
+  a los procesos y es aspiracional y tiene el potencial de respaldar la validación 
+  del Objetivo 11 y otros indicadores de los ODS con un componente urbano. El indicador 
+  tiene la capacidad de ser aplicable a niveles de múltiples jurisdicciones, es decir, 
+  abarcando varias áreas y al mismo tiempo atendiendo los desafíos urbanos de una manera 
+  nacional más integrada.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+comparabilidad: >-
+  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas.
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=11.a.1&seriesCode=SD_CPA_UPRDP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Países que cuentan con políticas urbanas nacionales o planes de desarrollo regional que respondan a la dinámica poblacional, aseguren un desarrollo territorial equilibrado y aumenten el espacio fiscal local (1 = SÍ; 0 = NO) SD_CPA_UPRDP</a> UNSTATS
+
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-0a-01.pdf">Metadatos 11-a-1.pdf</a> (solo en inglés)'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -8,41 +8,43 @@ meta_global: meta_largo.17-1-titulo
 #  indicador_onu_global: indicador_largo.17-1-1-titulo
 
 definicion: >-
-  Total de ingresos consolidados de las administraciones públicas vascas en proporción al PIB a precios corrientes
+  EAEko administrazio publikoen diru-sarrera bateratuak, guztira, BPG-rekiko proportzioan, uneko prezioetan.
 
 formula: |
 
-  $$PPIBIAP^{t} = \frac{ICN_{CCAA+EELL}^{t}}{PIB_{CCAA}^{t}} \cdot 100$$
+  $$PPIBIAP^{t} = \frac{ICN_{AAEE+TTEE}^{t}}{PIB_{AAEE}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $ICN_{CCAA+EELL}^{t} =$ ingresos consolidados netos de las administraciones públicas vascas en el año $t$
+  $ICN_{AAEE+TTEE}^{t} =$ euskal administrazio publikoen diru-sarrera kontsolidatu garbiak $t$ urtean
 
-  $PIB_{CCAA}^{t} =$ producto interior bruto de la Comunidad Autónoma de Euskadi a precios corrientes en el año $t$
+  $PIB_{AAEE}^{t} =$ Euskal Autonomia Erkidegoko barne-produktu gordina, uneko prezioetan $t$ urtean
 
   <br>
 
-  Para las desagregaciones territoriales se utiliza esta fórmula:
+  Lurralde-desagregazioetarako formula hau erabiltzen da::
 
-  $$PPIBIEL^{t} = \frac{IN_{EELL}^{t}}{PIB_{TH}^{t}} \cdot 100$$
+  $$PPIBIEL^{t} = \frac{IN_{TTEE}^{t}}{PIB_{LH}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $IN_{EELL}^{t} =$ ingresos netos de las entidades locales en un determinado territorio histórico en el año $t$
+  $IN_{TTEE}^{t} =$ lurralde historiko jakin bateko toki-erakundeen diru-sarrera garbiak $t$ urtean 
 
-  $PIB_{TH}^{t} =$ producto interior bruto de un determinado territorio histórico a precios corrientes en el año $t$
+  $PIB_{LH}^{t} =$ lurralde historiko jakin bateko barne-produktu gordina, uneko prezioetan $t$ urtean 
 
-desagregacion:
+desagregacion: |
+
+  Lurralde historikoa 
 
 observaciones: |
-  Los ingresos consolidados de las administraciones vascas se obtienen sumando los ingresos de la 
-  comunidad autónoma y las 
-  entidades locales, restando las transferencias entre ellas (tanto corrientes como de capital), 
-  para evitar doble contabilización.
+  EAEko administrazioen diru-sarrera bateratuak autonomia-erkidegoen eta toki-erakundeen 
+  diru-sarrerak batuz lortzen dira, haien arteko transferentziak kenduta (arruntak zein 
+  kapitalekoak), kontabilizazio bikoitza saihesteko. 
 
-  Los indicadores territorializados Araba/Álava, Bizkaia y Gipuzkoa, se corresponden con los 
-  datos de las entidades locales de cada territorio histórico, sin incluir los ingresos 
-  de la administración autonómica ni consolidación de transferencias.
+  Arabako, Bizkaiko eta Gipuzkoako lurraldekako adierazleak bat datoz lurralde historiko 
+  bakoitzeko toki-erakundeen datuekin, administrazio autonomikoaren diru-sarrerak eta 
+  transferentzien kontsolidazioa kontuan hartu gabe. 
+
 
 periodicidad: FUENTE.FREQ_A
 
@@ -51,36 +53,36 @@ periodicidad: FUENTE.FREQ_A
 
 
 justificacion_global: |
-  La política fiscal es el uso del nivel y la composición del gasto y los ingresos del 
-  gobierno general y del sector público, así como la acumulación conexa de activos y 
-  pasivos gubernamentales, para alcanzar objetivos como la estabilización de la economía, 
-  la reasignación de recursos y la redistribución del ingreso. 
+  Zerga-politika gobernu orokorraren eta sektore publikoaren gastu eta diru-sarreren mailaz 
+  eta osaeraz ari da, baita gobernuko aktibo eta pasiboak elkarri lotuta pilatzeaz ere, 
+  ekonomia egonkortzea, baliabideak berresleitzea eta diru-sarrerak birbanatzea bezalako 
+  helburuak lortzeko. 
 
-  Además de la movilización de ingresos, las unidades gubernamentales también pueden 
-  financiar una parte de sus actividades en un período específico mediante préstamos o 
-  adquiriendo fondos de fuentes distintas de las transferencias obligatorias, por 
-  ejemplo, ingresos por intereses, ventas incidentales de bienes y servicios o la renta 
-  de activos del subsuelo. 
+  Diru-sarreren mobilizazioaz gain, gobernu-unitateek beren jardueren zati bat finantza 
+  dezakete aldi jakin batean, maileguen bidez edo nahitaezko transferentziak ez diren 
+  iturrietako funtsak eskuratuz, hala nola interesengatiko sarrerak, ondasunen eta zerbitzuen 
+  ustekabeko salmentak edo zorupeko aktiboen errenta. 
 
-  El indicador 17.1.1 Ingresos gubernamentales totales como proporción del PIB, por 
-  fuente, permite comprender la movilización de ingresos internos de los países en 
-  forma de fuentes tributarias y no tributarias. El indicador proporcionará a los analistas 
-  un conjunto de datos comparables entre países que resalta la relación entre los cuatro 
-  tipos principales de ingresos, así como la "carga tributaria" relativa (ingresos en 
-  forma de impuestos) y la "carga fiscal" (ingresos en forma de impuestos más 
-  contribuciones sociales).
+  17.1.1 adierazleak (Gobernuaren guztizko diru-sarrerak, guztira, BPGd-ren proportzio gisa), 
+  iturriaren arabera, herrialdeen barneko diru-sarreren mobilizazioa zerga-iturri gisa (eta 
+  ez tributu-iturri gisa) ulertzeko modua ematen du. Adierazleak datu-multzo bat emango die 
+  analistei, herrialdeen artean alderatzeko modukoa, lau diru-sarrera mota nagusien arteko 
+  erlazioa nabarmentzen duena, baita "zerga karga" erlatiboa (zerga bidezko sarrerak) eta 
+  "zerga-karga" ere (zerga bidezko sarrerak gehi kontribuzio sozialak). 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >- 
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.1.1&seriesCode=GR_G14_GDP&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
-  Ingresos totales del gobierno (gobierno central presupuestario) como proporción del PIB (%) GR_G14_GDP</a> UNSTATS
+  Gobernuaren guztizko diru-sarrerak (aurrekontuen gobernu zentrala), BPGren proportzio gisa (%) GR_G14_GDP</a> UNSTATS
 
 comparabilidad: >-
-  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas. El indicador se ha adaptado al contexto de la C.A. de Euskadi.
+  EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak. Adierazlea Euskal AEko testuingurura egokitu da. 
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-01-01.pdf">Metadatos 17-1-1.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-01-01.pdf">Metadatuak 17-1-1.pdf</a> (ingelesez bakarrik)'
 informacion_interes: 
 
 national_data_updated_date: ''

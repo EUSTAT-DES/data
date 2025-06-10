@@ -9,25 +9,25 @@ meta_global: meta_largo.2-2-titulo
 
 
 definicion: |
-  
-  El indicador mide la proporción de personas obesas en función de su índice de masa corporal (IMC). 
-  El IMC se define como el peso en kilos dividido por el cuadrado de la altura en metros.
+  Adierazleak obesitatea duten pertsonen proportzioa neurtzen du, gorputz-masaren indizearen (GMI) 
+  arabera. GMIa honela definitzen da: pisua kilotan, zati garaieraren karratua, metrotan.
 
-  Se considera obesas a las personas de 18 años o más con un IMC igual o superior a 30.
+  Obesitatea duten pertsonatzat hartzen dira 30 edo gehiagoko GMIa duten 18 urtetik gorakoak. 
+  
 
 formula: |
 
   $$PPO_{>18}^{t} = \frac{PO_{>18}^{t}}{P_{>18}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PPO_{>18}^{t} =$ población adulta con obesidad (IMC>=30) en el año $t$
+  $PPO_{>18}^{t} =$ obesitatea duten helduak (GMI >30) $t$ urtean 
 
-  $P_{>18}^{t} =$ población adulta en el año $t$
+  $P_{>18}^{t} =$ 18 urte edo gehiagoko biztanleak $t$ urtean 
 
 
 desagregacion: >-
-  Sexo
+  Sexua
 
 observaciones: >-
 
@@ -38,31 +38,31 @@ periodicidad: FUENTE.FREQ_I
 
 justificacion_global: |
 
-  Aunque la UE ha superado en gran medida los problemas del hambre, están surgiendo nuevos desafíos
-  relacionados con la nutrición, como el aumento de la obesidad.
+  Nahiz eta EBk neurri handi batean gosearen arazoak gainditu dituen, nutrizioarekin lotutako erronka 
+  berriak ari dira agertzen, besteak beste obesitatearen igoera. 
 
-  Por ello, el indicador europeo mide la obesidad en la edad adulta, y se utiliza para 
-  hacer el seguimiento del progreso hacia el ODS 2
-  (poner fin al hambre y la malnutrición) y el ODS 3 (buena salud y bienestar), que están
-  incluidos en las prioridades de la Comisión Europea en el marco del "Acuerdo Verde Europeo", 
-  "Una economía que funcione para las personas" y "Promoción de nuestro modo de vida europeo".
+  Horregatik, adierazle europarrak helduaroko obesitatea neurtzen du, eta 2. GJHra (goseari eta malnutrizioari 
+  amaiera jartzea) eta 3. GJHra (osasun ona eta ongizatea) heltzeko aurrerapenaren jarraipena egiteko 
+  erabiltzen da. Helburu horiek Europako Batzordearen lehentasunen artean sartzen dira, “Akordio Berde Europarra”, 
+  “Pertsonentzat funtzionatzen duen ekonomia” eta “Gure bizimodu europarraren sustapena” izenekoen esparruan. 
 
-  La política alimentaria de la UE incluye iniciativas de nutrición y trabaja con los Estados 
-  miembros de la UE en diversas iniciativas de salud pública en el área de la nutrición y 
-  la actividad física para promover un estilo de vida saludable y equilibrado.
+  EBko elikadura-politikan nutrizio-ekimenak sartzen dira, eta EBko estatu-kideekin lan egiten da osasun 
+  publikoko hainbat ekimenetan, nutrizioaren eta jarduera fisikoaren arloan, bizimodu osasuntsu eta orekatua 
+  sustatzeko.
 
-  Fuente: Eurostat
+ 
+  Iturria: Eurostat 
 
+  
 dato_global: >-
 
-  <a href="https://ec.europa.eu/eurostat/databrowser/bookmark/4a2b0f6f-97a9-496c-9336-19b95f81ddc1?lang=en">Tasa de obesidad por índice de masa corporal (IMC) (sdg_02)</a> Eurostat <br>
+  <a href="https://ec.europa.eu/eurostat/databrowser/bookmark/4a2b0f6f-97a9-496c-9336-19b95f81ddc1?lang=en">Obesitate-tasa, gorputz-masaren indizearen arabera (GMI) (sdg_02)</a> Eurostat <br>
 
 comparabilidad: >-
-  La tasa de obesidad
-  de la población adulta es comparable con el indicador europeo.
+  Helduen obesitate-tasa Europako adierazlearekin aldera daiteke.
 
 indicador_meta_enlace: |
-  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_02_10_esmsip2.htm">Metadatos sdg_02_10</a> (solo en inglés)
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_02_10_esmsip2.htm">Metadatuak sdg_02_10</a> (ingelesez bakarrik)
 
 national_data_updated_date: '2024-07-29'
 national_metadata_updated_date: '2024-07-29'

@@ -9,26 +9,26 @@ meta_global: meta_largo.3-3-titulo
 
 
 definicion: >-
-  Casos autóctonos de hepatitis B notificados a la Red Nacional de Vigilancia Epidemiológica (RENAVE) por cada 100.000 habitantes
+  Zaintza Epidemiologikoko Sare Nazionalari (RENAVE) jakinarazitako B hepatitisaren kasu autoktonoak, 100.000 biztanleko
 
 formula: |
 
-  $$TCA_{hepatitis\, B}^{t} = \frac{CA_{hepatitis\, B}^{t}}{P^{t}} \cdot 100.000$$
+  $$TCA_{B\, hepatitisa}^{t} = \frac{CA_{B\, hepatitisa}^{t}}{P^{t}} \cdot 100.000$$
 
-  donde:
+  non:
 
-  $CA_{hepatitis\, B}^{t} =$ casos autóctonos de hepatitis B notificados a la Red Nacional de Vigilancia Epidemiológica (RENAVE) en el año $t$
+  $CA_{B\, hepatitisa}^{t} =$ Zaintza Epidemiologikoko Sare Nazionalari (RENAVE) jakinarazitako B hepatitisaren kasu autoktonoak $t$ urtean 
 
-  $P^{t} =$ población a 1 de julio del año $t$
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean 
 
 desagregacion: >- 
-  Sexo
+  Sexua
 
 periodicidad: FUENTE.FREQ_A
 
 
 observaciones: >-
-  Los casos autóctonos son aquellos en los que la enfermedad se ha contraído en el territorio nacional.
+  Kasu autoktonoak dira gaixotasuna lurralde nazionalean harrapatu dutenak.
 
 texto_oceca: FUENTE.oceca
 
@@ -37,28 +37,30 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |
 
-  El propósito es describir la reducción de las infecciones crónicas por hepatitis B. La mayor parte de la carga 
-  de enfermedad por infección por VHB proviene de infecciones adquiridas antes de los 5 años de edad. Por lo tanto, 
-  la prevención de la infección por VHB se centra en niños menores de 5 años. Las Naciones Unidas seleccionaron 
-  el acumulado de la incidencia de infección crónica por VHB a los 5 años de edad como indicador del objetivo de 
-  “combatir la hepatitis”. Este indicador se mide indirectamente a través de la proporción de niños 5 años de edad 
-  que han desarrollado una infección crónica por VHB (es decir, la proporción que da positivo en una 
-  prueba marcador de infección llamado antígeno de superficie de la hepatitis B [HBsAg]).
+  Asmoa da B hepatitisaren ziozko infekzio kronikoen murrizketa deskribatzea. GIBaren ondoriozko infekzioaren 
+  gaixotasun-karga handiena 5 urteak bete baino lehen hartutako infekzioetatik dator. Ondorioz, GIBaren infekzioaren 
+  prebentzioa 5 urtetik beherako haurrengan lantzen da bereziki. Nazio Batuek 5 urtekoen GIBaren ondoriozko infekzio 
+  kronikoen intzidentziaren metaketa aukeratu zuten “hepatitisari aurre egiteko” helburuaren adierazle gisa. Adierazle 
+  hori zuzenean neurtzen da GIBaren ziozko infekzio kronikoa garatu duten 5 urteko haurren proportzioaren bidez 
+  (hau da, hepatitisaren azalera-antigenoa izeneko infekzio-proba markatzaile batean positibo eman dutenen proportzioa 
+  [HBsAg]).
 
-  Este indicador se mide indirectamente a través de la proporción de niños de 5 años que han desarrollado una 
-  infección crónica por VHB (es decir, la proporción que da positivo para un marcador de infección llamado 
-  antígeno de superficie de la hepatitis B [HBsAg]). 
+  Adierazle hori zuzenean neurtzen da GIBaren ziozko infekzio kronikoa garatu duten 5 urteko haurren proportzioaren 
+  bidez (hau da, hepatitisaren azalera-antigenoa izeneko infekzio proba markatzaile batean positibo eman dutenen 
+  proportzioa [HBsAg]). 
 
-  Fuente: División de Estadísticas de las Naciones Unidas 
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >-
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.3.4&seriesCode=SH_HAP_HBSAG&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=%3C5Y">Prevalencia del antígeno de superficie de la hepatitis B (HBsAg) (%) SH_HAP_HBSAG</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.3.4&seriesCode=SH_HAP_HBSAG&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=%3C5Y">B hepatitisaren gainazaleko antigenoaren prebalentzia (HBsAg) (%) SH_HAP_HBSAG</a> UNSTATS
 
  
 comparabilidad: >- 
-  El indicador disponible no cumple con los metadatos de Naciones Unidas, pero aporta información similar
+  Eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-04.pdf">Metadatos 3-3-4.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-04.pdf">Metadatuak 3-3-4.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 

@@ -1,0 +1,77 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.3-c-1-title
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-c-titulo
+#  indicador_onu_global: indicador_largo.3-c-1-titulo
+
+
+definicion: >-
+  Number of registered health workers per 10,000 inhabitants by healthcare occupation
+
+formula: |
+
+  $$TPSC_{health\, worker}^{t} = \frac{PSC_{health\, worker}^{t}}{P^{t+1}} \cdot 10.000$$
+
+  where:
+
+  $PSC_{health\, worker}^{t} =$ number of health workers registered in the healthcare speciality as of 31 December in year $t$
+
+  $P^{t+1} =$  total population as of 1 January of year $t+1$
+
+
+desagregacion: |
+  Healthcare profession: medical doctors, nursing and midwifery professionals, dentists, pharmacists.
+
+  Sex
+
+  Province
+
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  A health workforce of adequate size and skill mix, as well as required teachers and trainers, 
+  are critical to the attainment of any population health goal. This includes the achievement 
+  of universal health coverage and the health-related targets of the United Nations Sustainable 
+  Development Goals.
+
+  Yet countries globally are affected by health workforce challenges of a multifaceted nature, 
+  such as difficulties in the education and training, deployment, performance and retention of 
+  their health workforces. A suboptimal allocation of health workers is one of the main challenges 
+  that directly influences the availability, accessibility, quality and performance of national 
+  health services. In the worst case, this may leave populations with inadequate access to the 
+  health services they need. It is clear that efforts to achieve the SDGs and UHC are thwarted by 
+  these health workforce challenges.
+
+  Therefore, the World Health Organization (WHO) and its partners developed the Global Strategy 
+  on Human Resources for Health: Workforce 2030 (GSHRH), which sets out the policy agenda to ensure 
+  a health workforce that is fit for purpose to attain the targets of UHC and the SDGs (WHO 2016c).
+
+  Source: United Nations Statistics Division
+
+
+dato_global: >-
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.c.1&seriesCode=SH_MED_DEN&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=DENT">Health worker density, by type of occupation (per 10,000 population) SH_MED_DEN</a> UNSTATS
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0c-01.pdf">Metadata 3-c-1.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

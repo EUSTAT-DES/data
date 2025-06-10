@@ -1,0 +1,59 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.3-titulo
+# meta_global: meta_largo.3-d-titulo
+#  indicador_onu_global: indicador_largo.3-d-2-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  Antimicrobial resistance (AMR) is a global threat to health, livelihoods, 
+  food security and the achievement of many of the Sustainable Development 
+  Goals. Antibiotics, antivirals, antiparasitic agents and antifungals are 
+  increasingly ineffective owing to resistance developed through their excessive 
+  or inappropriate use, with serious consequences for human and animal health 
+  (terrestrial and aquatic), and plant health, and negative impacts on food production, 
+  the environment and the global economy. 
+
+  In particular, antimicrobial resistance will negatively impact the achievement 
+  of many of the targets listed under Goal 3 due to reduced treatment options for 
+  infections by resistant pathogens; will impact targets under Goal 2 by impacting 
+  the agricultural productivity, including food animal production; and will impact 
+  targets in Goal 1 as increased antimicrobial resistance will result in large declines 
+  in economic growth, increase economic inequality and drive an additional 24 million 
+  people into extreme poverty by 2030. 
+
+  Source: United Nations Statistics Division
+
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.d.2&seriesCode=SH_BLD_MRSA&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested (%) SH_BLD_MRSA</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.d.2&seriesCode=SH_BLD_ECOLI&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested (%) SH_BLD_ECOLI</a> UNSTATS
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0d-02.pdf">Metadata 3-d-2.pdf</a>
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

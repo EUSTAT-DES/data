@@ -9,36 +9,36 @@ meta_global: meta_largo.4-3-titulo
 
 
 definicion: >-
-  Proporción de personas que han realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas o 12 meses, desglosada
-  por sexo y grupos de edad
+  Azken 4 asteetan edo 12 hilabeteetan hezkuntza-jarduerak (arautuak edo arautu gabeak) egin dituztenen proportzioa, 
+  sexuaren eta adin taldearen arabera
 
 formula: |
 
-  $$PPE_{grupo\, edad}^{t} = \frac{PE_{grupo\, edad}^{t}}{P_{grupo\, edad}^{t}} \cdot 100$$
+  $$PPE_{adin\, taldea}^{t} = \frac{PE_{adin\, taldea}^{t}}{P_{adin\, taldea}^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PE_{grupo\, edad}^{t} =$ población de un grupo de edad que ha realizado estudios o formación (reglada o no reglada) en el año $t$
+  $PE_{adin\, taldea}^{t} =$  ikasketak edo prestakuntza (arautua edo arautu gabea) egin duen adin-talde bateko biztanleria $t$ urtean
 
-  $P_{grupo\, edad}^{t} =$ población de un grupo de edad en el año $t$
+  $P_{adin\, taldea}^{t} =$ adin-talde bateko biztanleria $t$ urtean
 
 
 desagregacion: | 
-  Edad: 15-24; 15-64; 25-64; 18-64
+  Adina: 15-24; 15-64; 25-64; 18-64 
 
-  Sexo
+  Sexua
 
-  Territorio histórico
+  Lurralde historikoa
 
 periodicidad: FUENTE.FREQ_A
 
 
 observaciones: | 
-  Los datos que provienen de la Encuesta de Población en Relación con la Actividad son datos anuales por grupo de edad, y
-  se pregunta por las actividades realizadas en las últimas 4 semanas. 
- 
-  Los datos que provienen de la Encuesta sobre la participación de la población adulta en las actividades de aprendizaje se refieren al
-  grupo de edad 18-64 y se pregunta por las actividades realizadas en los últimos 12 meses.
+  Biztanleria Jardueraren Arabera Sailkatzeko Inkestatik datozen datuak urtekoak dira, adin-taldearen arabera, 
+  eta azken 4 asteetan egindako jarduerei buruz galdetzen da.
+
+  Biztanleria helduak ikaskuntza-jardueretan duen parte-hartzeari buruzko inkestatik datozen datuak 18-64 
+  adin-taldekoak dira, eta azken 12 hilabeteetan egindako jarduerei buruz galdetzen da.  
 
 texto_oceca: FUENTE.oceca
 
@@ -46,24 +46,25 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  Naciones Unidas define el indicador como el porcentaje de jóvenes y adultos en un rango 
-  de edad determinado (15-24 años, 25-54 años, 55-64 años, 15-64 años) que participaron en educación y capacitación formal 
-  o no formal en los 12 meses anteriores.
+  Nazio Batuen adierazleak honela definitzen du adierazlea: aurreko 12 hilabeteetan hezkuntzan eta trebakuntza 
+  formalean edo ez-formalean parte hartu zuten adin-tarte jakin bateko (15-24 urte, 25-54 urte, 55-64 urte, 15-64 
+  urte) gazteen eta helduen ehunekoa. 
 
-  El indicador mide el nivel de participación de jóvenes y adultos en la educación y la formación de todo tipo. 
-  Un valor alto indica que una gran proporción de la población del grupo de edad pertinente participa en la educación 
-  y la formación formales y no formales.
+  Adierazleak gazteek eta helduek hezkuntzan eta era guztietako prestakuntzan duten partaidetza-maila neurtzen 
+  du. Balio handi batek adierazten du dagokion adin-taldeko biztanleriaren proportzio handi batek hezkuntza eta 
+  prestakuntza formal eta ez-formaletan parte hartzen duela. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
 
 
 dato_global: >-
 
 
 comparabilidad: >- 
-  El indicador disponible no cumple con los metadatos de Naciones Unidas pero aporta información similar.
+  EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-03-01.pdf">Metadatos 4-3-1.pdf </a>(solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-03-01.pdf">Metadatuak 4-3-1.pdf </a>(ingelesez bakarrik)'
 
 informacion_interes: 
 

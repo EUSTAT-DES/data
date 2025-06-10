@@ -7,48 +7,52 @@ objetivo_global: objetivo_largo.1-titulo
 meta_global: meta_largo.1-5-titulo
 #  indicador_onu_global: indicador_largo.1-5-4-titulo
 
-definicion: >-
-  Porcentaje de gobiernos locales que adoptan e implementan estrategias locales de reducción del riesgo de desastres mediante
-  planes territoriales de emergencias y planes municipales de emergencias
 
+definicion: >-
+  Larrialdietako lurralde-planen eta larrialdietako udal-planen bidez hondamendi-arriskua 
+  murrizteko tokiko estrategiak ezarri eta hartzen dituzten tokiko gobernuen ehunekoa 
 
 formula: |
-  <b>Porcentaje de municipios que disponen de un plan municipal de emergencias</b>
+  <b>Larrialdietarako udal-plana duten udalerrien ehunekoa</b>
 
-  $$PMUN_{RRD\, municipal}^{t} = \frac{MUN_{RRD\, municipal}^{t}}{MUN^{t}} \cdot 100$$
+  $$PMUN_{udal\, HAM}^{t} = \frac{MUN_{udal\, HAM}^{t}}{MUN^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $MUN_{RRD\, municipal}^{t} =$ número de gobiernos locales con planes municipales de emergencias en el año $t$
+  $MUN_{udal\, HAM}^{t} =$ larrialdietarako udal-planak dituzten udalerrien kopurua $t$ urtean
 
-  $MUN^{t} =$ número de gobiernos locales en el año $t$
+  $MUN^{t} =$ udalerrien kopurua $t$ urtean
 
    <br>
 
-  <b>Porcentaje de municipios cubiertos por un plan territorial de emergencias</b>
+  <b>Larrialdietarako lurralde-plan batek estalitako udalerrien ehunekoa</b>
 
-  $$PMUN_{RRD\, territorial}^{t} = \frac{MUN_{RRD\, territorial}^{t}}{MUN^{t}} \cdot 100$$
+  $$PMUN_{lurralde\, HAM}^{t} = \frac{MUN_{lurralde\, HAM}^{t}}{MUN^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $MUN_{RRD\, territorial}^{t} =$ número de gobiernos locales con planes territoriales de emergencias en el año $t$
+  $MUN_{lurralde\, HAM}^{t} =$ larrialdietarako lurralde-planak dituzten udalerrien kopurua, $t$ urtean
 
-  $MUN^{t} =$ número de gobiernos locales en el año $t$
+  $MUN^{t} =$ udalerrien kopurua $t$ urtean
   
-desagregacion: 
+desagregacion: |
 
-  Territorio histórico/Comarca/Municipio
+  Lurralde historikoa 
+
+  Eskualdea 
+  
+  Udalerria 
 
 
 observaciones: |
 
-  En Euskadi, según determina el Plan de Protección Civil de Euskadi – LABI, deben elaborar 
-  y aprobar planes municipales de emergencia (PEM) los municipios con población superior a 20.000 habitantes. 
+  Euskadin, Euskadiko Babes Zibileko Planak (LABI) ezarritakoaren arabera, 20.000 biztanletik gorako 
+  udalerriek larrialdietarako udal-planak egin eta onartu behar dituzte.
 
-  Para los municipios de más de 5.000 habitantes, en coherencia con la normativa estatal reguladora de las 
-  Bases del Régimen Local, esta directriz es recomendatoria. En 2024, el 96% de los municipios de 5.000 a 20.000 habitantes 
-  y el 25% de los municipios de 1.000 a 5.000 habitantes disponen de Plan de Emergencia Municipal homologado.
-
+  5.000 biztanletik gorako udalerrietan, Toki Araubidearen Oinarriak arautzen dituen Estatuko araudiarekin 
+  bat etorriz, jarraibide hau gomendagarria da. 2024an, 5.000 eta 20.000 biztanle arteko udalerrien % 96k 
+  eta 1.000 eta 5.000 biztanle arteko udalerrien % 25ek Udal Larrialdi Plan homologatua dute.
+  
 
 periodicidad: FUENTE.FREQ_A
 
@@ -57,35 +61,33 @@ periodicidad: FUENTE.FREQ_A
 
 
 justificacion_global: |
-  El Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030 fue adoptado por los 
-  Estados Miembros de las Naciones Unidas en marzo de 2015 como una política global de 
-  reducción del riesgo de desastres. El resultado esperado del Marco de Sendai es lograr 
-  “la reducción sustancial del riesgo de desastres y de las pérdidas en vidas, medios de 
-  subsistencia y salud y en los activos económicos, físicos, sociales, culturales y 
-  ambientales de las personas, las empresas, las comunidades y los países”. 
+  Nazio Batuen estatu-kideek 2015eko martxoan ezarri zuten Hondamendien Arriskua Murrizteko 2015-2030 aldiko 
+  Sendaiko Esparrua hondamendien arriskua murrizteko politika global gisa. Sendaiko Esparrutik espero den 
+  emaitza da “nabarmen murriztea hondamendien arriskua eta galerak bizitzetan, bizirauteko bitartekoetan, 
+  osasunean, jarduera ekonomikoetan, fisikoetan, sozialetan, kulturaletan eta ingurumenekoetan, pertsona, 
+  enpresa, komunitate eta herrialdeetan”. 
 
-  Entre las metas globales del Marco de Sendai, la “Meta E: Aumentar sustancialmente 
-  el número de países con estrategias nacionales y locales de reducción del riesgo 
-  de desastres para 2020” tiene por objeto mejorar el progreso y la cobertura globales 
-  de las estrategias y políticas nacionales y locales de reducción del riesgo de desastres.
- 
-  Los objetivos de los planes, estrategias y políticas nacionales de reducción del riesgo 
-  de desastres son prevenir nuevos riesgos de desastres y reducir los existentes mediante 
-  la implementación de medidas económicas, estructurales, legales, sociales, de salud, culturales, 
-  educativas, ambientales, tecnológicas, políticas e institucionales integradas e inclusivas que 
-  prevengan y reduzcan la exposición a los peligros y la vulnerabilidad a los desastres, aumenten 
-  la preparación para la respuesta y la recuperación y, de ese modo, fortalezcan la resiliencia. 
+  Sendaiko Esparruko xede orokorren artean E xedea dago: Hondamendien arriskua murrizteko nazioko eta tokiko 
+  estrategiak dituzten herrialdeen kopurua nabarmen areagotzea 2020rako. Hartara, hondamendien arriskua murrizteko 
+  nazioko eta tokiko estrategia eta politiken estaldura orokorra eta aurrerapena hobetu nahi dira. 
 
-  Aumentar la proporción de gobiernos locales que adoptan e implementan estrategias locales de 
-  reducción del riesgo de desastres, como lo exige el Marco de Sendai, contribuirá al desarrollo 
-  sostenible y fortalecerá la resiliencia económica, social, sanitaria y ambiental. 
+  Hondamendien arriskua murrizteko plan, estrategia eta politika nazionalen helburuak dira hondamendien arrisku 
+  berriak prebenitzea eta daudenak murriztea, horretarako neurri integratu eta inklusiboak ezarriz ekonomian, 
+  egituran, legean, gizartean, osasunean, kulturan, hezkuntzan, ingurumenean, teknologietan, politiketan eta 
+  instituzioetan, hartara hondamendien aurreko arriskua eta zaurgarritasuna prebenitu eta murrizteko, egoera 
+  horri erantzun eta horretatik berreskuratzeko prestaketa-lana areagotzeko, eta, beraz, erresilientzia indartzeko. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+  Hondamendien arriskua murrizteko tokiko estrategiak ezartzen dituzten tokiko gobernuak zenbat eta gehiago izan 
+  (halaxe ezartzen du Sendaiko Esparruak), orduan eta gehiago sustatuko da garapen jasangarria, eta erresilientzia 
+  indartuko da ekonomiaren, osasunaren, ingurumenaren eta gizartearen ikuspegitik. 
+
+
+  Iturria: Nazio Batuen Estatistika Sekzioa  
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-04.pdf">Metadatos 1-5-4.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-04.pdf">Metadatuak 1-5-4.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 

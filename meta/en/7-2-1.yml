@@ -1,0 +1,78 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.7-2-1-title
+
+objetivo_global: objetivo_largo.7-titulo
+meta_global: meta_largo.7-2-titulo
+#  indicador_onu_global: indicador_largo.7-2-1-titulo
+
+
+definicion: >-
+
+  Renewable energy share in gross final energy consumption
+
+formula: |
+
+  $$PER^{t} = \frac{ER^{t}}{CFE^{t}} \cdot 100$$ 
+
+  where:
+
+  $ER^{t} =$ consumption of energy from renewable sources in the year $t$ 
+
+  $CFE^{t} =$ renewable energy share in gross final energy consumption in year $t$
+
+
+desagregacion: >- 
+ 
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >- 
+
+
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  The target “By 2030, increase substantially the share of renewable 
+  energy in the global energy mix” impacts all three dimensions of 
+  sustainable development. 
+
+  Renewable energy technologies represent a major element in strategies 
+  for greening economies everywhere in the world and for tackling the critical 
+  global problem of climate change. 
+
+  A number of definitions of renewable energy exist; what they have in 
+  common is highlighting as renewable all forms of energy that their 
+  consumption does not deplete their availability in the future. These 
+  include solar, wind, ocean, hydropower, geothermal sources, and bioenergy 
+  (in the case of bioenergy, which can be depleted, sources of bioenergy can 
+  be replaced withina short to medium-term frame). 
+
+  Importantly, this indicator focuses on the amount of renewable energy actually 
+  consumed rather than the capacity for renewable energy production, which cannot 
+  always be fully utilized. By focusing on consumption by the end user, it avoids 
+  the distortions caused by the fact that conventional energy sources are subject 
+  to significant energy losses along the production chain. 
+
+  Source: United Nations Statistics Division
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=7.2.1&seriesCode=EG_FEC_RNEW&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Renewable energy share in the total final energy consumption (%) EG_FEC_RNEW</a> UNSTATS
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: 
+  '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-02-01.pdf">Metadata 7-2-1.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

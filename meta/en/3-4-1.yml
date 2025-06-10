@@ -12,13 +12,13 @@ definicion: |
 
   This indicator is composed of two time series:
 
-   <b>-Premature mortality rate (between ages 30 and 70) attributed to non-communicable diseases: 
+    <b>- Premature mortality rate (between ages 30 and 70) attributed to non-communicable diseases:</b>  
    probability of dying between ages 30 and 70 from cardiovascular disease, cancer, diabetes, or 
    chronic respiratory disease.
 
-   <b>-Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory 
-   disease per 100,000 inhabitants </b>: Deaths attributed to cardiovascular disease, cancer, diabetes 
-   or chronic respiratory disease per 100,000 inhabitants.
+    <b>- Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory 
+   disease per 100,000 inhabitants:</b> Deaths attributed to cardiovascular disease, cancer, diabetes 
+   or chronic respiratory disease per 100,000 inhabitants. 
 
 formula: |
 
@@ -35,7 +35,7 @@ formula: |
 
 
   <b>Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory 
-   disease per 100,000 inhabitants</b>
+  disease per 100,000 inhabitants</b>
 
 
   $$TM_{ENT}^{t} = \frac{D_{ENT}^{t}}{P^{t}} \cdot 100.000$$
@@ -43,9 +43,9 @@ formula: |
 
   where:
 
-  $D_{ENT}^{t} =$ Deaths attributed to non-communicable diseases in year $t$
+  $D_{ENT}^{t} =$ Deaths attributed to non-communicable diseases in year $t$ 
 
-  $P^{t} =$ population as of 1 July of year $t$
+  $P^{t} =$ population as of 1 July of year $t$ 
 
 
 desagregacion: | 
@@ -84,9 +84,10 @@ justificacion_global: |
   chronic respiratory disease, defined as the percentage of 30-year-olds who would die before reaching age 70
   from cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming they would 
   experience current mortality rates at any age and would not die from any other cause of death (e.g., 
-  injuries or HIV/AIDS).
-  
+  injuries or HIV/AIDS). 
 
+  Source: United Nations Statistics Division 
+  
 dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.4.1&seriesCode=SH_DTH_NCOM&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=30-70%20%7C%20BOTHSEX">Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability) SH_DTH_NCOM</a> UNSTATS
 

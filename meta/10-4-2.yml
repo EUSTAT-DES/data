@@ -9,31 +9,32 @@ meta_global: meta_largo.10-4-titulo
 
 
 definicion: | 
+  Errenta erabilgarri baliokidearen Gini-indizea per capita transferentzia sozialen ondoren (postfiskala)
+  
+  Gini Indizeak biztanleria baten diru-sarreren banaketan dagoen sakabanatze estatistikoa neurtzen du. 
+  Diru-sarreren banaketan dagoen desberdintasuna lurraldeka alderatzeko erabiltzen da. Balioa 
+  0tik 100era bitartekoa da; zenbat eta hurbilago izan 100etik, orduan eta handiagoa izango da 
+  diru-sarreren kontzentrazioa, eta 0tik zenbat eta hurbilago egon, orduan eta ekitatiboagoa izango da 
+  aberastasunaren banaketa.
 
-  Índice de Gini de la renta disponible equivalente per cápita después de transferencias sociales (postfiscal). 
-
-  El Índice de Gini mide la dispersión estadística en la distribución del ingreso en una población. 
-  Se utiliza para comparar la desigualdad en la distribución de los ingresos en distintos
-  territorios. Su valor está entre 0 y 100, de manera que cuanto más próximo sea a 100, mayor será la 
-  concentración de los ingresos y cuanto más próximo a 0, más equitativa es la distribución de la riqueza.
  
 formula: |
 
   $$I_{gini}^{t}= \frac{\sum_{i=1}^{n-1} (P_i^{t} - Y_i^{t})}{\sum_{i=1}^{n-1} P_i^{t}}$$
 
-  donde:
+  non:
 
-  $P_i^{t} =$ proporción acumulada de personas, ordenadas por ingreso ascendente, en el año $t$
+  $P_i^{t} =$ pertsonen proportzio metatua, goranzko diru-sarreraren arabera ordenatuta $t$ urtean
 
-  $Y_i^{t} =$ proporción acumulada de ingresos correspondientes a esas personas en el año $t$
+  $Y_i^{t} =$ pertsona horiei dagozkien diru-sarreren proportzio metatua $t$ urtean
 
-  $n =$ número total de personas
+  $n =$ guztizko pertsona kopurua
 
 desagregacion: 
 
 observaciones: >- 
 
-  La renta equivalente es un valor derivado de los ingresos totales de un hogar y del número y la edad de las personas que viven de estos ingresos.
+  Errenta baliokidea etxe bateko guztizko diru-sarreretatik eta diru-sarrera horietatik bizi diren pertsonen kopuru eta adinetik eratorritako balio bat da.
 
 periodicidad: FUENTE.FREQ_A2
 
@@ -42,32 +43,33 @@ periodicidad: FUENTE.FREQ_A2
 
 justificacion_global: | 
 
-  El indicador de Impacto Redistributivo de la Política Fiscal demuestra en un marco 
-  contable la cantidad total en la que la actual desigualdad de ingresos se reduce o 
-  aumenta mediante la ejecución de la política fiscal (incluidos los impuestos directos 
-  e indirectos; las contribuciones a la seguridad social y a las pensiones de vejez; 
-  las transferencias directas en efectivo o cuasiefectivo; y los subsidios). 
+  Zerga Politikaren Birbanaketa Eraginaren adierazleak, kontabilitateko esparruan, agerian jartzen du 
+  diru-sarreren egungo desberdinkeria zein neurritan murrizten edo igotzen den guztira, zerga-politikaren 
+  egungo egikaritzaren bidez (kontuan hartuta zuzeneko eta zeharkako gastuak; gizarte-segurantzarako eta 
+  zahartzaroko pentsioetarako ekarpenak; dirutan edo ia dirutan egindako transferentzia zuzenak; eta laguntzak). 
 
-  Por ejemplo, si el Impacto Redistributivo de la Política Fiscal es positivo, 
-  eso indica que el efecto neto de la política fiscal es reducir el índice de Gini respecto 
-  de lo que sería de otra manera sin la política fiscal (en un sentido contable, no como un 
-  contrafactual económico). 
+  Adibidez, Zerga Politikaren Birbanaketa Eragina positiboa bada, zerga-politikaren eragin garbia hauxe dela 
+  esan nahi du: Gini indizea zerga-politikarik gabe izango litzatekeen horren aldean murriztea (kontabilitateari 
+  begira, ez suposizio ekonomiko gisa). 
 
-  El indicador permite a los responsables de las políticas y a las 
-  comunidades más amplias de partes interesadas y promotoras hacer un seguimiento sistemático del 
-  progreso a nivel de país en la contribución de la política fiscal a sociedades más equitativas.
+  Adierazle honek aukera ematen die politiken arduradunei eta alde interesdunen eta sustatzaileen komunitate 
+  handiagoei herrialde-mailako aurrerapenaren jarraipen sistematikoa egiteko, zerga-politikak gizarte 
+  ekitatiboagoak lortzeko orduan egin duten ekarpena neurtuz. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas 
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
 
 dato_global:
 
 comparabilidad: >- 
-  El indicador cumple parcialmente con los metadatos del indicador de Naciones Unidas. Se presenta la serie
-  correspondiente al índice de Gini postfiscal, pero no el índice de Gini prefiscal.
+  
+
+  Adierazleak partzialki betetzen ditu Nazio Batuen adierazlearen metadatuak. Zergen ondoko Gini 
+  indizeari dagokion seriea aurkezten da, baina ez zergen aurreko Gini indizeari dagokiona. 
 
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-04-02.pdf">Metadatos 10-4-2.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-04-02.pdf">Metadatuak 10-4-2.pdf</a> (ingelesez bakarrik)
 
 
 national_data_updated_date: ''

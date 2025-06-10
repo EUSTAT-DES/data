@@ -1,0 +1,46 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-3-titulo
+#  indicador_onu_global: indicador_largo.16-3-3-titulo
+
+
+definicion:
+formula:
+desagregacion:
+periodicidad:
+
+observaciones:
+ 
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Si bien no existe una definición estándar de acceso a la justicia, en términos generales se refiere 
+  a “la capacidad de las personas para defender y hacer valer sus derechos y obtener una resolución 
+  justa de los problemas justiciables en cumplimiento de las normas de derechos humanos; de ser necesario, 
+  a través de instituciones imparciales de justicia formales o informales y con el apoyo jurídico adecuado”.  
+
+  En el caso de los ciudadanos que necesitan justicia, se deben cumplir una serie de 
+  condiciones para que se reconozcan sus derechos, como el acceso a información adecuada, 
+  el acceso a servicios de justicia y asesoramiento jurídico, y el acceso a instituciones de 
+  justicia que proporcionen un trato justo e imparcial. La razón de ser de este indicador es 
+  centrarse en un paso del proceso y, en particular, en la accesibilidad de las instituciones y 
+  los mecanismos de justicia (tanto formales como informales) por parte de quienes han experimentado un problema justiciable. 
+
+  El indicador puede proporcionar información importante sobre la accesibilidad general de las 
+  instituciones y los procesos de justicia civil, las barreras y las razones de exclusión de algunas personas.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global:
+comparabilidad:
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-03-03.pdf">Metadatos 16-3-3.pdf</a> (solo en inglés)'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -22,23 +22,25 @@ observaciones:
 
 
 justificacion_global: |
-  El indicador mide en qué medida el gasto público en tres áreas clave que son fundamentales para la 
-  erradicación de la pobreza, incluida la salud, la educación y otras transferencias directas, se asigna 
-  directamente a individuos u hogares en situación de pobreza monetaria según la definición nacional. 
-  
-  El indicador mide si el gasto público está dirigido a los pobres monetarios. El gasto social a favor de los 
-  pobres se define si la proporción de los gastos gubernamentales en servicios sociales es mayor que la proporción de 
-  la población, medida al nivel determinado por la definición nacional de pobreza de ingresos/consumo (en consonancia 
-  con el ODS 1.2.1). Por ejemplo, si la proporción del gasto público recibido por los pobres excede (cae por debajo) 
-  de la proporción de pobres según la definición de las definiciones nacionales, los gastos públicos pueden 
-  interpretarse como pro-pobres (no pro-pobres). Esta es una medida sólida del compromiso financiero que asumen 
-  los gobiernos para dirigir sus servicios y transferencias a los grupos pobres de la sociedad, reforzando las estrategias 
-  de desarrollo a favor de los pobres. 
-  
-  Los futuros desarrollos de la metodología y las mejoras en la disponibilidad de datos pueden 
-  permitir ampliar este indicador a otros grupos vulnerables, como las mujeres y los niños.
+  Adierazle honek neurtzen du pobrezia ezabatzeko funtsezkoak diren hiru arlo gakotan (osasuna, hezkuntza 
+  eta beste transferentzia zuzen batzuk) zein neurritan esleitzen zaien gastu publikoa zuzenean definizio 
+  nazionalaren arabera diru-pobreziako egoeran dauden norbanako edo etxeei. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+  Gastu publikoa diruz pobre direnei zuzentzen zaien neurtzen du adierazleak. Pobreen aldeko gastu soziala 
+  zehazteko kontuan hartzen da ea oinarrizko zerbitzuen gobernu-gastuen proportzioa handiagoa den biztanleriaren 
+  proportzioa baino, diru-sarreren eta kontsumoaren araberako pobreziaren definizio nazionalak zehaztutako 
+  maila kontuan hartuta (1.2.1 GJHrekin bat). Adibidez, pobreek jasotako gastu publikoaren proportzioak gainditu 
+  egiten badu pobreen proportzioa, definizio nazionalek emandako definizioaren arabera, gastu publikoak pobreen 
+  aldekotzat jo daitezke; proportzio hori azpitik geratzen bada, bestalde, ez da pobreen aldekotzat jotzen. 
+  Adierazle sendoa da, beraz, gobernuek beren zerbitzuak eta transferentziak gizarteko talde pobreei zuzentzeko 
+  orduan hartzen duten finantza-konpromisoa neurtzeko, pobreen aldeko garapen-estrategiak indartuz. 
+
+  Etorkizunean metodologia garatu eta datu eskuragarriak hobetu ahala, adierazle hau beste talde zaurgarri 
+  batzuetara hedatu ahalko da, hala nola emakume eta haurrengana. 
+
+
+  Iturria: Nazio Batuen Estatistika Sekzioa
+
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0b-01.pdf">Metadatos 1-b-1.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-0b-01.pdf">Metadatuak 1-b-1.pdf</a> (ingelesez bakarrik)

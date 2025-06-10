@@ -1,0 +1,72 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-2-titulo
+#  indicador_onu_global: indicador_largo.1-2-2-titulo
+
+
+definicion: >-
+
+  Proportion of people who are in at least one of the three situations of risk of poverty or social 
+  exclusion: at risk of relative poverty (considering the national poverty line), living in households 
+  with severe material deprivation or living in households with low work intensity 
+
+
+formula: |
+  $$AROPE_{NAC}^{t} = \frac{PRPES_{NAC}^{t}}{P^{t}} \cdot 100$$
+
+  where:
+
+  $PRPES_{NAC}^{t} =$ population at risk of poverty or social exclusion in year $t$, considering the national poverty line 
+
+  $P^{t} =$ total population in year $t$
+
+periodicidad: FUENTE.FREQ_A2
+
+observaciones: |
+  The indicator measures the proportion of people who meet at least one of the following criteria:
+
+  <b>People at risk of relative poverty:</b> people with income per consumption unit below 60% of the median (modified OECD scale) 
+
+  The number of consumption units in a household 
+  is calculated using the modified OECD scale, which assigns a weight of 1 to the 
+  first person aged 14 or over, a weight of 0.5 for other people aged 14 or over 
+  and a weight of 0.3 for people under 14 years of age. 
+
+  <b>People in situations of severe material and social deprivation:</b> people who suffer from at least seven 
+  of the following list of thirteen limitations (seven defined at the household level and six at the individual level): 
+
+  At the household level:
+   1. You can't afford to go on vacation for at least one week a year.
+   2. You cannot afford a meal of meat, chicken or fish at least every other day.
+   3. You cannot afford to keep the home at an adequate temperature.
+   4. You do not have the capacity to face unforeseen expenses.
+   5. You have had delays in the payment of expenses related to the main home (mortgage or rent, gas bills, community...) 
+   or in installment purchases in the last 12 months.
+   6. You can't afford a car.
+   7. You cannot replace damaged or old furniture.
+
+  At the individual level:
+   8. You cannot afford to replace damaged clothes with new ones.
+   9. You can't afford to have two pairs of shoes in good condition.
+   10. You can't afford to meet friends/family for food or drinks at least once a month.
+   11. You cannot afford to regularly participate in leisure activities.
+   12. You can't afford to spend a small amount of money on yourself.
+   13. Cannot afford internet connection.
+
+  In the case of minors under 16 years of age, the six concepts listed above are not available at the individual level. 
+  For these minors, the values of these elements are imputed from the values collected for the members of their household aged 16 or over. 
+
+  <b>Low work intensity:</b> these are households in which their working age members (people from 18 to 64 years old, excluding 
+  students from 18 to 24 years old, retirees or retirees, as well as inactive people between 60 and 64 whose main source of household income 
+  are pensions) worked less than 20% of their total work potential during the reference year. 
+  This variable does not apply for people aged 65 and over. 
+
+  Data from 2022 onwards for the AROPE Poverty and Exclusion Indicator are calculated using the new definition of the rate (Eurostat 
+  methodology from 2021), while previous data correspond to the old definition. 
+
+texto_oceca: FUENTE.oceca
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

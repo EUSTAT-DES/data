@@ -1,0 +1,64 @@
+ # Metadatos nacionales (ficha metodológica)
+
+indicador_disponible: >-
+  GRAFICO.6-4-2-titulo
+
+objetivo_global: objetivo_largo.6-titulo
+meta_global: meta_largo.6-4-titulo
+#  indicador_onu_global: indicador_largo.6-4-2-titulo
+
+definicion: >-
+  Volume of water supplied to final consumers through urban supply systems
+
+formula: |
+  $$VOL_{water}^{t}$$
+
+desagregacion: |
+  Type of use: domestic, industrial, commercial, public, agricultural, other uses
+    
+  Province
+
+observaciones: |
+
+  Public use includes the supplier entities' own consumption and free supplies. 
+
+  Agricultural use does not include consumption by Irrigation Communities and agricultural 
+  uses in general in the Autonomous Community of the Basque Country. 
+
+periodicidad: FUENTE.FREQ_A
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+
+  The purpose of this indicator is to show the degree to which water resources 
+  are being exploited to meet the country's water demand. It measures a country's 
+  pressure on its water resources and therefore the challenge on the sustainability 
+  of its water use. It tracks progress regarding “withdrawals and supply of 
+  freshwater to address water scarcity”, i.e. the environmental component of target 6.4. 
+
+  The indicator shows to what extent water resources are already used, and signals the 
+  importance of effective supply and demand management policies. It indicates the 
+  likelihood of increasing competition and conflict between different water uses and users 
+  in a situation of increasing water scarcity. Increased water stress, shown by an increase 
+  in the value of the indicator, has potentially negative effects on the sustainability 
+  of the natural resources and on economic development. On the other hand, low values of 
+  the indicator indicate that water does not represent a particular challenge for economic 
+  development and sustainability.
+  
+  Source: United Nations Statistics Division
+
+dato_global: |
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=6.4.2&seriesCode=ER_H2O_STRESS&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=TOTAL">Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%) ER_H2O_STRESS</a> UNSTATS
+
+comparabilidad: >-
+  The available indicator does not comply with the United Nations metadata requirements. 
+  The available indicator measures water resource extraction but not water stress. 
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-04-02.pdf">Metadata 6-4-2.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -1,0 +1,71 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.16-1-4-titulo
+
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-1-titulo
+#  indicador_onu_global: indicador_largo.16-1-4-titulo
+
+definicion: >-
+  Proporción de personas de 16 y más años que se sienten seguras (muy o bastante seguras) al caminar solas de noche en la zona en la que vive
+
+formula: |
+
+  $$PPSSC_{16+}^{t} = \frac{PSSC_{16+}^{t}}{P_{16+}^{t}} \cdot 100$$
+
+  donde:
+
+  $PSSC_{16+}^{t} =$ población de 16 y más años que se siente segura (muy o bastante segura) al caminar sola de noche en la zona en la que vive en el año $t$ 
+
+  $P^{t} =$ población de 16 y más años en el año $t$
+
+desagregacion: |
+  Sexo
+
+  Territorio histórico
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  La percepción de seguridad se considera un indicador subjetivo de bienestar. 
+  Afecta la forma en que los seres humanos interactúan con su entorno, su salud y, 
+  en consecuencia, su calidad de vida. 
+
+  El indicador 16.1.4 se basa en el concepto de “miedo al delito”, que se ha obtenido en 
+  docenas de encuestas de victimización por delitos, y la formulación estándar utilizada 
+  aquí ha demostrado ser aplicable en diferentes contextos culturales.
+
+  Es importante señalar que el miedo al delito es un fenómeno que está separado de la 
+  prevalencia del delito y que el miedo al delito puede incluso ser en gran medida 
+  independiente de la experiencia real. La percepción del delito y el miedo resultante 
+  al mismo están influenciados por varios factores, como la conciencia del delito, 
+  el discurso público, el discurso de los medios de comunicación y las circunstancias 
+  personales. 
+
+  Sin embargo, el miedo al delito es un indicador importante en sí mismo, ya que 
+  los altos niveles de miedo pueden influir negativamente en el bienestar y conducir a 
+  una reducción de los contactos con el público, una menor confianza y compromiso en 
+  la comunidad y, por lo tanto, representar un obstáculo para el desarrollo. El miedo 
+  al delito también difiere entre los grupos demográficos y este indicador ayuda a 
+  identificar a los grupos vulnerables.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: 
+
+
+comparabilidad: >-
+  El indicador disponible cumple con los metadatos de Naciones Unidas.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-04.pdf">Metadatos 16-1-4.pdf</a> (solo en inglés)'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -1,0 +1,59 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.5-titulo
+# meta_global: meta_largo.5-c-titulo
+#  indicador_onu_global: indicador_largo.5-c-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  Una financiación adecuada y eficaz es esencial para alcanzar el ODS 5 y 
+  las metas relacionadas con el género en todo el marco de los ODS. Al dar seguimiento 
+  y hacer públicas las asignaciones para la igualdad de género, los gobiernos promueven 
+  una mayor transparencia, lo que puede respaldar una rendición de cuentas más sólida.
+ 
+  El indicador alienta a los gobiernos a implementar un sistema para dar seguimiento 
+  y hacer públicas las asignaciones de recursos que luego puedan fundamentar la 
+  revisión de políticas, una mejor formulación de políticas y una gestión financiera 
+  pública más eficaz. 
+
+  El principio de financiación adecuada para la igualdad de 
+  género se basa en la Declaración y Plataforma de Acción de Beijing (párrafos 345 y 346), 
+  adoptadas en 1995. Sin embargo, el informe del Secretario General sobre la revisión y 
+  evaluación de veinte años de la Plataforma de Acción concluyó que la inversión insuficiente 
+  en igualdad de género y empoderamiento de las mujeres ha contribuido a un progreso 
+  lento y desigual en las 12 áreas críticas de preocupación. La financiación inadecuada 
+  obstaculiza la implementación de leyes y políticas con perspectiva de género. 
+
+  Los datos muestran que las brechas de financiación a veces alcanzan el 90%, con déficits 
+  críticos en los sectores de infraestructura, productivo y económico.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global:
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.c.1&seriesCode=SG_GEN_EQPWN&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proporción de países con sistemas para hacer seguimiento y hacer públicas las asignaciones para la igualdad de género y el empoderamiento de las mujeres (%) SG_GEN_EQPWN</a> UNSTATS
+
+comparabilidad:
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-0c-01.pdf">Metadatos 5-c-1.pdf</a> (solo en inglés)
+
+
+informacion_interes: 
+national_data_updated_date: ''
+national_metadata_updated_date: ''

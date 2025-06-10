@@ -9,20 +9,20 @@ meta_global: meta_largo.3-1-titulo
 
 
 definicion: >-
-  Proporción de partos atendidos por personal sanitario especializado
+  Osasun-langile espezializatuek artatutako erditzeen proportzioa
 
 formula: |
 
-  $$PPAR_{atendidos}^{t} = \frac{PAR_{atendidos}^{t}}{PAR^{t}} \cdot 100$$
+  $$PPAR_{artatutakoak}^{t} = \frac{PAR_{artatutakoak}^{t}}{PAR^{t}} \cdot 100$$
 
-  donde:
+  non:
 
-  $PAR_{atendidos}^{t} =$ partos atendidos por personal sanitario especializado en el año $t$
+  $PAR_{artatutakoak}^{t} =$ osasun-langile espezializatuek artatutako erditzeak $t$ urtean
 
-  $PAR^{t} =$ partos en el año $t$
+  $PAR^{t} =$ erditzeak $t$ urtean
 
 desagregacion: >- 
-  Territorio histórico
+  Lurralde historikoa
 
 periodicidad: FUENTE.FREQ_A
 
@@ -34,31 +34,31 @@ texto_oceca: FUENTE.oceca
  # Metadatos mundiales (Descripción del indicador)  
 
 justificacion_global: | 
-  Proporción de partos atendidos por personal sanitario cualificado (generalmente médicos, enfermeras o matronas, pero puede
-  referirse a otros profesionales de la salud que brindan atención al parto) es la proporción de partos atendidos
-  por personal sanitario cualificado.
+  Kualifikatutako osasun-langileek (oro har, medikuek, erizainek edo emaginek, baina baita erditzeetan laguntzen duten 
+  bestelako osasun-profesionalek ere) artatutako erditzeen proportzioa neurtzeko, kualifikatutako osasun-langileek 
+  artatutako erditzeen proportzioa kalkulatzen da. 
 
-  Según la definición actual estos son 
-  profesionales de la salud maternal o neonatal (MNH) educados, capacitados y regulados según estándares a nivel nacional e internacional. Son competentes para:
+  Egungo definizioaren arabera, nazioko eta nazioarteko estandarrei jarraikiz hezi, trebatu eta araututako osasun-profesionalak 
+  dira, amen edo jaioberrien arloan. Beren eskumenen artean sartzen dira: 
 
-  - (i) proporcionar y promover la calidad basada en evidencia y derechos humanos,
-  atención socioculturalmente sensible y digna a las mujeres y recién nacidos
+  - (i) emakumeei eta jaio berriei ebidentzian, giza eskubideetan eta kalitatean oinarritutako, eta soziokulturalki 
+  sentikorra den arreta duina ematea eta sustatzea 
 
-  - (ii) facilitar los procesos fisiológicos
-  durante el trabajo de parto y el parto para garantizar una experiencia de parto limpia y positiva
+  - (ii) erditzeko prozesu fisiologikoak eta erditzea bera erraztea, erditze-esperientzia garbia eta positiboa 
+  izan dadin 
 
-  - (iii) identificar y
-  atender o derivar mujeres y/o recién nacidos con complicaciones
+  - (iii) konplikazioak dituzten amak edo jaio berriak identifikatu eta artatu edo bideratzea 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+ 
+  Iturria: Nazio Batuen Estatistika Sekzioa
 
 dato_global: >-
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.1.2&seriesCode=SH_STA_BRTC&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proporción de partos atendidos por personal sanitario especializado (%) SH_STA_BRTC</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.1.2&seriesCode=SH_STA_BRTC&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Osasun-langile espezializatuek artatutako erditzeen proportzioa (%) SH_STA_BRTC</a> UNSTATS
 
 comparabilidad: >- 
-  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-01-02.pdf">Metadatos 3-1-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-01-02.pdf">Metadatuak 3-1-2.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 

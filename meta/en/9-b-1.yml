@@ -1,0 +1,77 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  global_indicators.9-b-1-title
+
+objetivo_global: objetivo_largo.9-titulo
+meta_global: meta_largo.9-b-titulo
+#  indicador_onu_global: indicador_largo.9-b-1-titulo
+
+
+definicion: >- 
+  Proportion of gross value added of the manufacturing sector corresponding to medium-high and high technology activities
+
+formula:  |
+
+  $$PVAB_{manufacturing\, medium-high\, and\, high}^{t} = \frac{VAB_{manufacturing\, medium-high\, and\, high}^{t}}{VAB_{manufacturing}^{t}} \cdot 100$$
+
+  where:
+
+  $VAB_{manufacturing\, medium-high\, and\, high}^{t} $ = gross value added of the manufacturing sector corresponding to medium-high and high technology activities in year $t$
+
+  $VAB_{manufacturing}^{t} $ = gross value added of the manufacturing sector in year $t$
+
+
+desagregacion:  
+
+observaciones:  |
+  
+  Medium-high and high technology manufacturing activities are considered activities with CNAE-2009:
+ 
+  Medium-high technology 
+  - 20: Chemical industry 
+  - 25.4: Manufacture of weapons and ammunition 
+  - 27 to 29: Manufacture of electrical material and equipment; Manufacture of machinery and equipment n.c.o.p; 
+    Manufacture of vehicles motor, trailers and semi-trailers 
+  - 30 except 30.1 and 30.3: Manufacture of other transport material except shipbuilding, aeronautical construction 
+    and spacecraft and its machinery 
+  - 32.5: Manufacture of medical and dental instruments and supplies
+  
+  High technology 
+  - 21: Manufacture of pharmaceuticals
+  - 26: Manufacture of computer, electronic and optical products
+  - 30.3: Aeronautical and space construction and its machinery
+
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Industrial development generally entails a structural transition from resource-based and low technology 
+  activities to MHT manufacturing activities. 
+
+  A modern, highly complex production structure offers better opportunities for skills development 
+  and technological innovation. MHT activities generally correspond to the industries with higher 
+  value addition and labour productivity. Increasing the share of MHT sectors also reflects the 
+  impact of innovation. 
+
+  Source: United Nations Statistics Division
+
+dato_global: | 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.b.1&seriesCode=NV_IND_TECH&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ISIC3_D">Proportion of medium and high-tech manufacturing value added in total value added (%) NV_IND_TECH</a> UNSTATS
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-09-0B-01.pdf">Metadata 9-b-1.pdf</a>
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

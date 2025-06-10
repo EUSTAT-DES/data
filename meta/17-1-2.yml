@@ -8,52 +8,54 @@ meta_global: meta_largo.17-1-titulo
 #  indicador_onu_global: indicador_largo.17-1-2-titulo
 
 definicion: >-
+  Serie erabilgarriak:
 
-  Series disponibles: 
+    - EAEko administrazio publikoen diru-sarrera ez-finantzarioen artean zergetatik datozenen proportzioa 
 
-   - Proporción de los ingresos no financieros  de las administraciones públicas vascas que provienen de impuestos
+    - EAEko administrazio publikoen diru-sarrera guztien artean zergetatik datozenen proportzioa
 
-   - Proporción de los ingresos totales de las administraciones públicas vascas que provienen de impuestos
-  
+ 
 formula: |
 
-  <b>Proporción de los ingresos no financieros que provienen de impuestos</b>
+  <b>Diru-sarrera ez-finantzarioen artean zergetatik datozenen proportzioa</b>
 
-  $$PI_{imp}^{t} = \frac{I_{imp}^{t}}{I_{no\_fin}^{t}} \cdot 100$$
+  $$PI_{zerga}^{t} = \frac{I_{zerga}^{t}}{I_{ez\_fin}^{t}} \cdot 100$$
 
-  donde: 
+  non: 
 
-  $I_{imp}^{t}$ = ingresos por impuestos directos e indirectos de la CCAA y EELL en el año $t$ 
+  $I_{zerga}^{t}$ = autonomia-erkidegoen eta toki-erakundeen zuzeneko eta zeharkako zergengatiko diru-sarrerak $t$ urtean 
 
-  $I_{no_fin}^{t}$ = ingresos no financieros consolidados de la CCAA y EELL en el año $t$ (capítulos 1 a 5, eliminando las transferencias internas entre administraciones)
+  $I_{ez_fin}^{t}$ = Autonomia-erkidegoen eta toki-erakundeen diru-sarrera ez-finantzario kontsolidatuak $t$ urtean 
+  (1. kapitulutik 5.era, administrazioen arteko barne-transferentziak ezabatuta) 
+
 
   <br>
  
-  <b>Proporción de los ingresos totales de las administraciones públicas vascas que provienen de impuestos</b>
+  <b>Diru-sarrera guztien artean zergetatik datozenen proportzioa</b>
 
-  $$PIT_{imp}^{t} = \frac{I_{imp}^{t}}{I_{tot}^{t}} \cdot 100$$
+  $$PIT_{zerga}^{t} = \frac{I_{zerga}^{t}}{I_{guzt}^{t}} \cdot 100$$ 
 
-  donde: 
+  non:  
 
-  $I_{imp}^{t}$ = ingresos por impuestos directos e indirectos de la CCAA y EELL en el año $t$
+  $I_{zerga}^{t}$ = autonomia-erkidegoen eta toki-erakundeen zuzeneko eta zeharkako zergengatiko diru-sarrerak $t$ urtean 
 
-  $I_{tot}^{t}$ = ingresos totales consolidados de la CCAA y EELL en el año $t$ (capítulos 1 a 9, eliminando transferencias internas entre administraciones)
+  $I_{guzt}^{t}$ = Autonomia-erkidegoen eta toki-erakundeen guztizko diru-sarrera kontsolidatuak $t$ urtean (1. kapitulutik 9.era, administrazioen arteko barne-transferentziak ezabatuta) 
 
 
 desagregacion:
 
 observaciones: |
 
-  Los datos consolidados de las liquidaciones presupuestarias de las comunidades autónomas 
-  se toman depurados de IFL (Intermediación Financiera Local) y PAC (política agrícola común).
+  Autonomia-erkidegoen aurrekontu-likidazioen datu bateratuak Tokiko Finantza Bitartekaritzatik eta 
+  Nekazaritza Politika Erkidetik hartzen dira, araztuta. 
 
-  En la primera serie se consideran ingresos por impuestos los incluidos en los capítulos 1 
-  (impuestos directos) y 2 (impuestos indirectos) de la clasificación económica. Los ingresos 
-  no financieros corresponden a los capítulos 1 a 5. Se elimina la doble contabilización de 
-  transferencias entre la comunidad autónoma y las entidades locales.
+  Lehen seriean, zergen bidezko diru-sarreratzat hartzen dira sailkapen ekonomikoaren 1. kapituluan 
+  (zuzeneko zergak) eta 2. kapituluan (zeharkako zergak) jasotakoak. Diru-sarrera ez-finantzarioak 
+  1. kapitulutik 5.era bitartekoak dira. Autonomia-erkidegoaren eta toki-erakundeen arteko 
+  transferentzien kontabilizazio bikoitza kendu da. 
 
-  La segunda serie incluye tanto los ingresos no financieros como los financieros (capítulo 9). También 
-  se consolidan las transferencias internas para evitar duplicidades.
+  Bigarren seriean diru-sarrera ez-finantzarioak eta finantzarioak sartzen dira (9. kapitulua). 
+  Barne-transferentziak ere finkatzen dira, bikoiztasunak saihesteko. 
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
@@ -62,31 +64,32 @@ texto_oceca: FUENTE.oceca
 
 
 justificacion_global: |
-  El indicador 17.1.2, proporción del gasto presupuestario interno del gobierno central 
-  financiado con impuestos, respalda una comprensión de hasta qué punto los gastos 
-  recurrentes y de capital de los países están realmente cubiertos por la movilización de 
-  ingresos internos en forma de impuestos. 
+  17.1.2 adierazleak (gobernu zentralaren barneko aurrekontu-gastuetatik, zergen bidez 
+  finantzatuaren proportzioa) argi uzten du zenbateraino daukan estalita barneko diru-sarreren 
+  mobilizazioak herrialdeetako gastu errepikariak eta kapital-gastuak, zerga gisa. 
 
-  El indicador, que puede derivarse directamente de las series de EFP comunicadas por 
-  las autoridades nacionales al Departamento de Estadística del FMI, proporcionará a los 
-  analistas un conjunto de datos comparable entre países que destaca la relación entre 
-  el presupuesto nacional ejecutado y la administración de ingresos/impuestos. 
+  Adierazleak, agintari nazionalek Nazioarteko Diru Funtsaren Estatistika Departamentuari 
+  jakinarazitako finantza publikoen estatistiken serieetatik zuzenean ondoriozta daitekeenak, 
+  herrialdeen artean konparatzeko moduko datu-multzo bat emango die analistei, eta, horren barruan, 
+  nabarmentzekoa da egikaritutako aurrekontu nazionalaren eta diru-sarreren/zergen administrazioaren 
+  arteko erlazioa. 
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+
+  Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global: >- 
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.1.2&seriesCode=GC_GOB_TAXD&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Proporción del presupuesto interno financiado por impuestos internos (%) GC_GOB_TAXD</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.1.2&seriesCode=GC_GOB_TAXD&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Barne-zergen bidez finantzatutako barne-aurrekontuaren proportzioa (%) GC_GOB_TAXD</a> UNSTATS
 
 comparabilidad: >-
-  El indicador disponible no cumple con los metadatos de Naciones Unidas, pero aporta
-  información complementaria. Mientras que el indicador de Naciones Unidas relaciona los 
-  ingresos tributarios con el total del gasto público, el indicador de la C.A. de Euskadi mide 
-  la proporción de los ingresos totales consolidados de las administraciones públicas 
-  vascas que provienen de impuestos. Por tanto, se centra en la estructura de 
-  financiación del sector público vasco y no en su ejecución presupuestaria.
+  Eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina informazio 
+  osagarria ematen du. Nazio Batuen adierazleak zerga-sarrerak gastu publiko osoarekin lotzen 
+  dituen bitartean, Euskal AEko adierazleak zergetatik datozen euskal administrazio publikoen 
+  guztizko diru-sarrera bateratuen proportzioa neurtzen du. Beraz, euskal sektore publikoaren 
+  finantzaketa-egituran zentratzen da, eta ez aurrekontu-betearazpenean. 
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-01-02.pdf">Metadata 17-1-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-01-02.pdf">Metadatuak 17-1-2.pdf</a> (ingelesez bakarrik)'
 informacion_interes: 
 
 national_data_updated_date: ''

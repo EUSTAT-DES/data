@@ -1,0 +1,94 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.8-5-E1-titulo
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-5-titulo
+#  indicador_onu_global: indicador_largo.8-5-1-titulo
+
+
+definicion:  | 
+  Proporción de personas entre 20 y 64 años que están ocupadas o empleadas, según tramos de edad, y brecha de género en el empleo.
+
+  Se considera persona empleada a quien, durante una semana de referencia, trabajó al menos una hora 
+  por remuneración o beneficio, o bien no trabajó, pero tuvo un empleo del que estuvo ausente temporalmente.
+
+formula:  |
+  <b>Tasa de ocupación</b>
+
+  $$TA^{t} = \frac{PO^{t}}{P^{t}} $$
+
+  donde:
+
+  $PO^{t} =$ población ocupada en el año $t$
+
+  $P^{t} =$ población en el año $t$
+
+  <br>
+
+  <b>Brecha género en el empleo</b>
+
+  $$BGE^{t} ={TA_{hombre}^{t} - TA_{mujer}^{t}}$$
+
+  donde:
+
+  $TA_{hombre}^{t} =$ tasa de ocupación de los hombres en el año $t$
+
+  $TA_{mujer}^{t} =$ tasa de ocupación de las mujeres en el año $t$
+
+desagregacion:  |
+  Sexo
+
+  Edad
+
+  Territorio histórico
+
+  Comarca
+
+  Municipio
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones:
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  El empleo remunerado es fundamental para garantizar un nivel de vida adecuado y 
+  proporciona la base necesaria para que las personas alcancen sus metas y aspiraciones 
+  personales. Además, el empleo contribuye al rendimiento económico, la calidad de 
+  vida y la inclusión social, lo que lo convierte en una piedra angular del 
+  desarrollo socioeconómico y el bienestar.
+
+  El pilar europeo de derechos sociales, proclamado conjuntamente por la Comisión Europea, 
+  el Parlamento Europeo y el Consejo Europeo en 2017, establece 20 principios y derechos 
+  clave esenciales para unos mercados laborales y unos sistemas de protección social 
+  justos y que funcionen correctamente. El <a href="https://op.europa.eu/webpub/empl/european-pillar-of-social-rights/es/">
+  Plan de Acción del Pilar Europeo de Derechos Sociales</a>, adoptado en 2021, convierte los 
+  Principios en acciones concretas en beneficio de los ciudadanos. También propone un ambicioso objetivo 
+  de empleo del 78 % de la población de 20 a 64 años que la UE debe alcanzar de aquí a 2030. Para respaldarlo, 
+  el Plan de Acción propone reducir a la mitad la brecha de género en materia de 
+  empleo en el año 2030 en comparación con  2019 y reducir al 9 % la tasa de jóvenes 
+  de entre 15 y 29 años que ni trabajan ni siguen estudios ni formación (ninis) 
+  al 9 % en el año 2030.
+
+  Fuente: Eurostat
+
+dato_global: >-
+
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_08_30/default/table?lang=en&category=sdg.sdg_08">
+  Tasa de empleo por sexo (sdg_08_30)</a> Eurostat
+
+comparabilidad: >- 
+  El indicador disponible es comparable con el indicador europeo "Tasa de empleo por sexo (sdg_08_30)"
+
+indicador_meta_enlace:
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_08_30_esmsip2.htm"> Metadatos Eurostat sdg_08_30 </a> (solo en inglés)
+
+informacion_interes: >-
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -1,0 +1,47 @@
+# Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+# objetivo_global: objetivo_largo.13-titulo
+# meta_global: meta_largo.13-a-titulo
+#  indicador_onu_global: indicador_largo.13-a-1-titulo
+
+
+definicion:
+
+formula:
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones:
+
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  En el marco del proceso de la CMNUCC, la COP solicitó al Comité Permanente de Finanzas (SCF) que elaborara 
+  una Evaluación y Panorama Bienal de los Flujos de Financiación para el Clima (AB), basándose en las fuentes 
+  de información disponibles e incluyendo información sobre el equilibrio geográfico y temático de los flujos. 
+
+  No existe una definición consensuada en la CMNUCC sobre qué elementos deben contabilizarse para evaluar 
+  el progreso hacia el compromiso de 100.000 millones de dólares. Los datos de la secretaría de la 
+  CMNUCC se refieren al apoyo financiero específico para el clima a las Partes que son países en 
+  desarrollo, notificado por las Partes del Anexo I en sus Informes Bienales. Solo las Partes del Anexo 
+  II están obligadas a informar sobre el apoyo financiero proporcionado. Las Partes del Anexo I 
+  también proporcionan voluntariamente esta información. Por consiguiente, estos datos no deben 
+  interpretarse como un indicador en relación con el logro del objetivo de movilización colectiva 
+  del compromiso de 100.000 millones de dólares.
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=13.a.1&seriesCode=DC_FIN_CLIMT&areaCode=1&period=3&table=Total"> Apoyo financiero total específico para el clima proporcionado (miles de millones de dólares estadounidenses actuales) DC_FIN_CLIMT</a> UNSTATS
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-13-0a-01.pdf">Metadatos 13-a-1.pdf</a> (solo en inglés)
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

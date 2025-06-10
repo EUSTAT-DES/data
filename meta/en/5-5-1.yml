@@ -1,0 +1,84 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.5-5-1-titulo
+
+objetivo_global: objetivo_largo.5-titulo
+meta_global: meta_largo.5-5-titulo
+#  indicador_onu_global: indicador_largo.5-5-1-titulo
+
+
+definicion: >-
+  Proportion of seats held by women in the regional parliament, councilors in regional government 
+  departments, elected to provincial parliaments, deputies in provincial government departments, and mayoral 
+  and councilor positions in local governments.
+
+formula: |
+
+  $$PINST_{women}^{t} = \frac{INST_{women}^{t}}{INST_{women}^{t}+INST_{men}^{t}} \cdot 100$$
+
+  where:
+
+  $INST_{women}^{t} =$ positions held by women in the corresponding institution in the year $t$
+
+  $INST_{men}^{t} =$ positions held by men in the corresponding institution in the year $t$
+
+desagregacion: |
+  Positions in institutions: elected to the regional parliament; councilors in the departments of the regional government; 
+  elected to the provincial parliaments; deputies in the departments of the provincial governments; and mayors and 
+  councilors in local governments.
+
+  Province
+
+periodicidad: FUENTE.FREQ_A
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  The indicator measures the degree to which women have equal access to parliamentary decision-making. 
+  Women’s participation in parliaments is a key aspect of women’s opportunities in political and public 
+  life and is linked to women’s empowerment. Equal numbers of women and men in lower chambers would 
+  give an indicator value of 50 percent. 
+
+  A stronger presence of women in parliament allows new concerns to be highlighted on political agendas, 
+  and new priorities to be put into practice through the adoption and implementation of policies and laws. 
+  The inclusion of the perspectives and interests of women is a prerequisite for democracy and gender 
+  equality and contributes to good governance. A representative parliament also allows the different 
+  experiences of men and women to affect the social, political, and economic future of societies. 
+
+  Although the international community has supported and promoted women’s participation in political 
+  decision-making structures for several decades, improvement in women’s access to parliament has been 
+  slow. This has led to the introduction of special policies and legal measures to increase women’s 
+  shares of parliamentary seats in several countries. Those countries that have adopted special measures 
+  generally have greater representation of women in parliament than countries without special measures. 
+
+  Indicator 5.5.1(b) complements Indicator 5.5.1(a) on women in national parliaments, and accounts for the 
+  representation of women among the millions of members of local governments that influence (or have the 
+  potential to influence) the lives of local communities around the world. All tiers of local government are 
+  covered by the indicator, consistent with national legal frameworks defining local government. 
+
+  Source: United Nations Statistics Division
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.5.1&seriesCode=SG_GEN_PARL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=FEMALE">Proportion of seats held by women in national parliaments (% of total number of seats) SG_GEN_PARL</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.5.1&seriesCode=SG_GEN_LOCGELS&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=FEMALE">Proportion of elected seats held by women in deliberative bodies of local governments (%) SG_GEN_LOCGELS</a> UNSTATS
+
+
+comparabilidad: >-
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: |
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01a.pdf">Metadata 5-5-1 (1).pdf</a>
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01b.pdf">Metadata 5-5-1 (2).pdf</a>
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

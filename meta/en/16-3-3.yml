@@ -1,0 +1,45 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-3-titulo
+#  indicador_onu_global: indicador_largo.16-3-3-titulo
+
+
+definicion:
+formula:
+desagregacion:
+periodicidad:
+
+observaciones:
+ 
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  While there is no standard definition of access to justice, it is broadly concerned with “the ability of 
+  people to defend and enforce their rights and obtain just resolution of justiciable problems in compliance 
+  with human rights standards; if necessary, through impartial formal or informal institutions of 
+  justice and with appropriate legal support.”  
+
+  For citizens in need of justice, a number of conditions should 
+  be met for their rights to be recognised, such as access to adequate information, access to justice services 
+  and legal advice, and access to institutions of justice that provide fair and impartial treatment. The rationale 
+  of this indicator is to focus on one step of the process and in particular on the accessibility of justice institutions 
+  and mechanisms (both formal and informal) by those who have experienced a justiciable problem. 
+
+  The indicator can provide important information about the overall accessibility of civil justice institutions 
+  and processes, barriers, and reasons for exclusion of some people. 
+
+  Source: United Nations Statistics Division 
+
+dato_global:
+comparabilidad:
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-03-03.pdf">Metadata 16-3-3.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

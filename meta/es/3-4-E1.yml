@@ -1,0 +1,70 @@
+ # Metadatos nacionales (ficha metodológica)
+
+indicador_disponible: >- 
+  GRAFICO.3-4-E1-titulo
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-4-titulo
+
+
+definicion: |
+
+  Este indicador se compone de dos series temporales:
+
+   <b> - Porcentaje de participación en los programas de cribado poblacional de cáncer colorrectal entre la población diana (hombres y mujeres de entre 50 y 74 años)</b> 
+
+   <b> - Porcentaje de participación en los programas de cribado poblacional de cáncer de mama entre la población diana (mujeres de entre 50 y 69 años)</b> 
+
+formula: |
+  <b>Porcentaje de participación en los programas de cribado poblacional de cáncer colorrectal entre la población diana (hombres y mujeres de entre 50 y 74 años)</b> 
+
+  $$PP_{colorrectal}^{t} = \frac{P_{colorrectal}^{t}}{P_{D\, colorrectal}^{t}} \cdot 100$$ 
+
+  donde:
+
+  $P_{colorrectal}^{t} =$ número de participantes en el programa de detección precoz de cáncer colorrectal en el año $t$ 
+
+  $P_{D\, colorrectal}^{t} =$ población diana del programa de detección precoz de cáncer colorrectal en el año $t$ 
+
+
+  <b>Porcentaje de participación en los programas de cribado poblacional de cáncer de mama entre la población diana (mujeres de entre 50 y 69 años)</b>
+
+
+  $$PP_{mama}^{t} = \frac{P_{mama}^{t}}{P_{D\, mama}^{t}} \cdot 100$$ 
+
+  donde:
+
+  $P_{mama}^{t} =$ número de participantes en el programa de detección precoz de cáncer de mama en el año $t$ 
+
+  $P_{D\, mama}^{t} =$ población diana del programa de detección precoz de cáncer de mama en el año $t$ 
+
+
+desagregacion: | 
+
+  Sexo 
+
+  
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: |
+
+  
+texto_oceca:
+
+
+justificacion_global: |
+
+  
+dato_global: >-
+  
+
+comparabilidad: >- 
+  
+
+indicador_meta_enlace:
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

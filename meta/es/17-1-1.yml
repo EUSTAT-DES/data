@@ -1,0 +1,89 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  global_indicators.17-1-1-title
+
+objetivo_global: objetivo_largo.17-titulo
+meta_global: meta_largo.17-1-titulo
+#  indicador_onu_global: indicador_largo.17-1-1-titulo
+
+definicion: >-
+  Total de ingresos consolidados de las administraciones públicas vascas en proporción al PIB a precios corrientes
+
+formula: |
+
+  $$PPIBIAP^{t} = \frac{ICN_{CCAA+EELL}^{t}}{PIB_{CCAA}^{t}} \cdot 100$$
+
+  donde:
+
+  $ICN_{CCAA+EELL}^{t} =$ ingresos consolidados netos de las administraciones públicas vascas en el año $t$
+
+  $PIB_{CCAA}^{t} =$ producto interior bruto de la Comunidad Autónoma de Euskadi a precios corrientes en el año $t$
+
+  <br>
+
+  Para las desagregaciones territoriales se utiliza esta fórmula:
+
+  $$PPIBIEL^{t} = \frac{IN_{EELL}^{t}}{PIB_{TH}^{t}} \cdot 100$$
+
+  donde:
+
+  $IN_{EELL}^{t} =$ ingresos netos de las entidades locales en un determinado territorio histórico en el año $t$
+
+  $PIB_{TH}^{t} =$ producto interior bruto de un determinado territorio histórico a precios corrientes en el año $t$
+
+desagregacion: 
+
+  Territorio histórico
+
+observaciones: |
+  Los ingresos consolidados de las administraciones vascas se obtienen sumando los ingresos de la 
+  comunidad autónoma y las 
+  entidades locales, restando las transferencias entre ellas (tanto corrientes como de capital), 
+  para evitar doble contabilización.
+
+  Los indicadores territorializados Araba/Álava, Bizkaia y Gipuzkoa, se corresponden con los 
+  datos de las entidades locales de cada territorio histórico, sin incluir los ingresos 
+  de la administración autonómica ni consolidación de transferencias.
+
+periodicidad: FUENTE.FREQ_A
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  La política fiscal es el uso del nivel y la composición del gasto y los ingresos del 
+  gobierno general y del sector público, así como la acumulación conexa de activos y 
+  pasivos gubernamentales, para alcanzar objetivos como la estabilización de la economía, 
+  la reasignación de recursos y la redistribución del ingreso. 
+
+  Además de la movilización de ingresos, las unidades gubernamentales también pueden 
+  financiar una parte de sus actividades en un período específico mediante préstamos o 
+  adquiriendo fondos de fuentes distintas de las transferencias obligatorias, por 
+  ejemplo, ingresos por intereses, ventas incidentales de bienes y servicios o la renta 
+  de activos del subsuelo. 
+
+  El indicador 17.1.1 Ingresos gubernamentales totales como proporción del PIB, por 
+  fuente, permite comprender la movilización de ingresos internos de los países en 
+  forma de fuentes tributarias y no tributarias. El indicador proporcionará a los analistas 
+  un conjunto de datos comparables entre países que resalta la relación entre los cuatro 
+  tipos principales de ingresos, así como la "carga tributaria" relativa (ingresos en 
+  forma de impuestos) y la "carga fiscal" (ingresos en forma de impuestos más 
+  contribuciones sociales).
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.1.1&seriesCode=GR_G14_GDP&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">
+  Ingresos totales del gobierno (gobierno central presupuestario) como proporción del PIB (%) GR_G14_GDP</a> UNSTATS
+
+comparabilidad: >-
+  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas. El indicador se ha adaptado al contexto de la C.A. de Euskadi.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-01-01.pdf">Metadatos 17-1-1.pdf</a> (solo en inglés)'
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

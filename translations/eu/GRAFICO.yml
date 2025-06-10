@@ -1,302 +1,386 @@
 # TITULOS
 
-1-1-1-titulo: "Proporción de la población que vive por debajo del umbral internacional de la pobreza"
-1-2-1-titulo: "Proporción de la población que vive por debajo del umbral de la pobreza"
-1-2-2-titulo: "Tasa AROPE. Proporción de personas en riesgo de pobreza o exclusión social"
-1-3-1-titulo: "Proporción de la población cubierta por sistemas o niveles mínimos de protección social, desglosada por sexo, distinguiendo entre los desempleados y la población que ha superado la edad legal de jubilación"
-1-4-1-titulo: "Proporción de viviendas principales con acceso a servicios básicos (abastecimiento de agua corriente y baño)"
-1-5-1-titulo: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
-1-5-2-titulo: "Indemnizaciones por daños personales, pérdidas pecuniarias y daños de bienes pagadas y/o provisionadas en proporción al PIB"
-1-a-2-titulo: "Proporción del gasto público total que se dedica a servicios esenciales (educación, salud y protección social)"
-1-b-1-titulo: "Gasto en prestaciones de garantía de ingresos (RGI) y ayudas de emergencia social (AES)"
+nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adierazlearen metodologiarekin 
 
-2-2-2-titulo: "Prevalencia de la malnutrición por grupos de edad"
-2-3-1-titulo: Volumen de producción por unidad de trabajo
-2-3-2-titulo: Media de ingresos de los productores de alimentos en pequeña escala
-2-4-1-titulo: "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible"
-2-4-E1-titulo: Superficie dedicada a la agricultura ecológica (<b>Indicador UE sdg_02_40</b>)
-2-4-E2-titulo: Emisiones de amoníaco de la agricultura y ganadería (<b>Indicador UE sdg_02_60</b>)
-2-a-1-titulo: "Valor añadido de la Agricultura como porcentaje del PIB"
-2-c-1-titulo: "Índice de precios de los alimentos"
+1-1-1-titulo: "Nazioarteko pobrezia atalasearen azpitik bizi den biztanleriaren ehunekoa"
+1-2-1-titulo: "Pobrezia atalasearen azpitik bizi den biztanleriaren ehunekoa, sexuaren arabera banakatuta"
+1-2-2-titulo: "AROPE tasa. Pobreziako edo gizarte-bazterketako arriskuan dauden pertsonen proportzioa"
+1-3-1-titulo: "Gizarte-babeseko gutxieneko sistemen edo mailen arabera estalitako biztanleriaren proportzioa, sexuaren arabera banakatuta, langabeak eta erretirorako legezko adina gainditu duten biztanleak bereizita"
+1-4-1-titulo: "Oinarrizko zerbitzuak (txorrotako uraren hornidura eta bainua) eskura dituzten etxebizitza nagusien proportzioa"
+1-5-1-titulo: "Hondamendiei zuzenean egotzitako hildakoen kopurua 100.000 biztanleko"
+1-5-2-titulo: "Kalte pertsonalengatik, diruzko galerengatik eta ondasunen gaineko kalteengatik ordaindutako edo/eta hornitutako kalte-ordainak, BPGarekiko proportzioan"
+1-5-4-titulo: "Hondamendi-arriskua murrizteko tokiko estrategiak hartzen eta ezartzen dituzten tokiko gobernuen proportzioa"
+1-a-2-titulo: "Funtsezko zerbitzuetara (hezkuntza, osasuna eta gizarte-babesa) bideratzen den guztizko gastu orokorraren proportzioa"
+1-b-1-titulo: "Diru-sarrerak bermatzeko prestazioetan (DBE) eta gizarte-larrialdietako laguntzetan (GLL) egindako gastua"
 
-3-3-1-titulo: "Número de infecciones por el VIH por cada 1.000 habitantes, desglosado por sexo"
-3-4-E1-titulo: Tasa de participación en los programas de cribado poblacional de cáncer (<b>Indicador Gobierno Vasco</b>)
-3-4-E2-titulo: Esperanza de vida y esperanza de vida en buena salud (<b>Indicador Gobierno Vasco</b>)
-3-5-1-titulo: "Número de admisiones a tratamiento por abuso o dependencia de alcohol y drogas ilegales por cada 100.000 habitantes"
-3-5-2-titulo: "Consumo anual de alcohol en litros de alcohol puro por persona de 15 y más años"
-3-7-1-titulo: "Proporción de mujeres en edad de procrear (entre 18 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos"
-3-8-1-titulo: "Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica"
-3-8-2-titulo: "Proporción de la población con grandes gastos sanitarios por hogar como porcentaje del total de gasto del hogar"
-3-a-1-titulo: "Proporción de personas de 15 y más años que fuman a diario"
+2-1-2-titulo: "Elikagaien segurtasun-gabezia larriaren edo oso larriaren prebalentzia"
+2-2-2-titulo: "Obesitatea, gehiegizko pisua edo pisu eskasa duten 2-17 urteko adingabeen proportzioa"
+2-2-E1-titulo: "Helduen obesitate-tasa, gorputz-masaren indizearen arabera (GMI) (EBren sdg_02_10 adierazlea)"
+2-3-1-titulo: "Produkzio-bolumena lan-unitate bakoitzeko"
+2-3-2-titulo: "Elikagaien eskala txikiko ekoizleen batez besteko diru-sarrerak"
+2-4-1-titulo: "Nekazaritza produktibo iraunkorrerako erabiltzen den nekazaritza-azaleraren proportzioa"
+2-4-E1-titulo: "Nekazaritza ekologikora bideratutako azalera (EBren sdg_02_40 adierazlea)"
+2-4-E2-titulo: "Nekazaritzaren eta abeltzaintzaren amoniako emisioak (EBren sdg_02_60 adierazlea)"
+2-a-1-titulo: "Nekazaritzaren balio erantsia BPGren ahuneko gisa"
+2-c-1-titulo: "Elikagaien prezioen indizea"
 
-4-1-1-titulo: "Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura y matemáticas"
-4-1-E1-titulo: "Tasa de abandono escolar prematuro de la población de 18-24 años"
-4-1-2-titulo: "Tasa de finalización (educación secundaria inferior y educación secundaria superior)"
-4-2-2-titulo: "Tasa neta de escolarización a los 5 años"
-4-3-1-titulo: "Tasa de participación de jóvenes y adultos en la educación y formación académica y no académica, desglosada por sexo"
-4-5-1-titulo: "Índices de paridad (entre mujeres y hombres, quintiles de riqueza superior e inferior, municipios de más y menos de 10.000 habitantes y personas con y sin limitaciones por problemas de salud) en la realización de actividades educativas (formales o no formales) en los últimos 12 o 4 semanas"
-4-6-1-titulo: "Proporción de personas entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de comprensión lectora y en matemáticas"
+3-3-1-titulo: "GIBak eragindako infekzioen kopurua 1.000 biztanleko, sexuaren arabera"
+3-4-E1-titulo: "Minbiziaren baheketa-programetako parte-hartze tasa (Eusko Jaurlaritzaren adierazlea)"
+3-4-E2-titulo: "Bizi-itxaropena jaiotzean (Eusko Jaurlaritzaren adierazlea)"
+3-5-1-titulo: "Alkoholaren eta legez kanpoko drogen gehiegizko erabilera edo mendekotasunagatik tratamenduan artatutakoen kopurua 100.000 biztanleko"
+3-5-2-titulo: "Alkoholaren urteko kontsumoa alkohol puruaren litrotan, 15 urte eta gehiagoko pertsona bakoitzeko"
+3-7-1-titulo: "Familia-plangintzako premiak metodo modernoekin betetzen dituzten eta ugaltzeko adinean dauden emakumeen proportzioa (18-49 urte)"
+3-8-1-titulo: "Arreta medikoaren beharra bete gabe duten 16 urte edo gehiagoko pertsonen proportzioa"
+3-8-2-titulo: "Etxeko osasun-gastu handiak dituzten biztanleen proportzioa, etxeko gastu osoaren ehuneko gisa"
+3-a-1-titulo: "Egunero erretzen duten 15 urte eta gehiagoko pertsonen proportzioa"
 
-5-1-1-titulo: "Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género"
-5-2-1-titulo: "Tasa de victimizaciones contra las mujeres a manos de su actual o anterior pareja "
-5-2-2-titulo: "Tasa de victimizaciones contra las mujeres por violencia sexual fuera del ámbito familiar"
-5-3-1-titulo: "Proporción de mujeres de 16 y 17 años que han contraído matrimonio con un hombre"
-5-4-1-titulo: "Tiempo dedicado al hogar y familia en un día promedio"
-5-5-1-titulo: "Proporción de escaños ocupados por mujeres en a) el parlamento autonómico y b) los gobiernos autonómicos, forales y locales"
-5-a-2-titulo: "Grado en que el marco jurídico garantiza la igualdad de derechos de la mujer a la propiedad o el control de tierras"
-5-b-1-titulo: "Proporción de personas entre 16 y 74 años que han usado el móvil en los últimos tres meses"
+4-1-1-titulo: "Irakurtzeko eta matematikarako gutxienez 2. gaitasun-maila lortu duten 15 urteko pertsonen proportzioa"
+4-1-E1-titulo: "18-24 urteko biztanleen eskola-uzte goiztiarraren tasa"
+4-1-2-titulo: "Amaiera-tasa (beheko bigarren hezkuntza eta goi-mailako bigarren hezkuntza)"
+4-2-2-titulo: "5 urtekoen eskolatze-tasa garbia"
+4-3-1-titulo: "Gazteek eta helduek hezkuntza eta prestakuntza akademikoan eta ez-akademikoan duten parte-hartzearen tasa, sexuaren arabera banatuta"
+4-5-1-titulo: "Parekotasun-indizeak (emakume eta gizonen artean, goi- eta behe-aberastasuneko kintilak, 10.000 biztanle baino gehiagoko eta gutxiagoko udalerriak eta osasun-arazoak dituzten eta ez dituzten pertsonen artean), azken 12 edo 4 asteetan hezkuntza-jarduerak (formalak edo ez-formalak) egitean"
+4-6-1-titulo: "Irakurmen-eskalan eta matematikan gutxienez 2. gaitasun maila lortu duten 16 eta 65 urte bitarteko pertsonen proportzioa"
 
-6-2-1-titulo: "Proporción de viviendas principales con acceso a servicios básicos (abastecimiento de agua corriente y baño)"
-6-4-2-titulo: Extracción de agua (consumo de agua)
+5-1-1-titulo: "Genero-berdintasuna sustatzeko, indartzeko eta gainbegiratzeko esparru juridikoak izatea"
+5-2-1-titulo: "Egungo edo aurreko bikotekideak emakumeen aurka egindako biktimizazioen tasa"
+5-2-2-titulo: "Familiatik kanpoko sexu-indarkeriagatiko emakume-biktimizazioen tasa"
+5-3-1-titulo: "Gizon batekin ezkondu diren 16 eta 17 urteko emakumeen proportzioa"
+5-4-1-titulo: "Batez besteko egun batean etxeari eta familiari eskainitako denbora"
+5-5-1-titulo: "Emakumeek betetzen dituzten aulkien proportzioa a) parlamentu autonomikoan eta b) gobernu autonomiko, foral eta lokaletan"
+5-a-2-titulo: "Lege-esparruak zenbateraino bermatzen duen emakumeek lurren jabetza edo kontrolerako duten eskubide-berdintasuna"
+5-b-1-titulo: "Azken hiru hilabeteetan mugikorra erabili duten 16 eta 74 urte bitarteko pertsonen proportzioa"
 
-7-3-E1-titulo: Consumo de energía eléctrica (<b>Indicador Gobierno Vasco</b>)
+6-2-1-titulo: "Oinarrizko zerbitzuetarako sarbidea duten etxebizitza nagusien proportzioa (txorroteko uraren hornidura eta bainugela)"
+6-3-1-titulo: "Kolektore-sistema bati konektatutako eta modu egokian tratatutako hondakin-uren fluxuen proportzioa" 
+6-3-2-titulo: "Kalitate oneko ur-masen proportzioa"
+6-4-2-titulo: "Ur-kontsumoa (ur-erauzketa)"
+6-5-2-titulo: "Uren arloko lankidetzarako eragiketen konponketei lotutako mugaz gaindiko arroen azaleraren proportzioa"
 
-8-5-1-titulo: Ingreso medio por hora de personas empleadas, desglosado por sexo y personas con
-  o sin discapacidad
-8-5-E1-titulo: Tasa de ocupación de la población (<b>Indicador UE sdg_08_30</b>) 
-8-10-1-titulo: "Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años"
-8-10-2-titulo: "Proporción de personas entre 18 y 79 años que tienen una cuenta corriente"
-8-b-1-titulo: Gasto de las administraciones públicas autonómicas en fomento del empleo
+7-3-E1-titulo: "Energia elektrikoaren kontsumoa (Eusko Jaurlaritzaren adierazlea)"
 
-9-4-E1-titulo: Intensidad de las emisiones atmosféricas de la industria (<b>Indicador UE sdg_09_70</b>) 
+8-5-1-titulo: "Enplegatutako pertsonen batez besteko diru-sarrera orduko, sexuaren eta desgaitasuna duten edo ez duten pertsonen arabera banakatuta"
+8-5-E1-titulo: "Biztanleriaren okupazio-tasa (EBren sdg_08_30 adierazlea)" 
+8-8-1-titulo: "Lanaldian/in itinere baja eragin duten istripuen intzidentzia-tasa, larritasunaren arabera" 
+8-9-1-titulo: "Turismoak zuzenean sortutako BPG, BPG osoarekiko proportzioan eta hazkunde-tasa"
+8-10-1-titulo: "Merkataritza-bankuen sukurtsalen kopurua 15 urte eta gehiagoko 100.000 biztanleko"
+8-10-2-titulo: "Kontu korrontea duten 18 eta 79 urte bitarteko pertsonen proportzioa"
+8-b-1-titulo: "Administrazio publiko autonomikoek enplegua sustatzeko egindako gastua"
 
-10-2-1-titulo: "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos"
-10-4-2-titulo: "Índice de Gini del ingreso disponible equivalente (postfiscal)"
+9-4-E1-titulo: "Industriaren emisio atmosferikoen intentsitatea (EBren sdg_09_70 adierazlea)" 
 
-11-1-1-titulo: "Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda"
-11-4-1-titulo: "Total de gastos per cápita de fuente de financiación pública destinados a la preservación, protección y conservación de todo el patrimonio cultural, desglosado por nivel de gobierno (autonómico y local/municipal)"
-11-5-1-titulo: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
-11-5-2-titulo: "Indemnizaciones por daños personales, pérdidas pecuniarias y daños de bienes pagadas y/o provisionadas en proporción al PIB" 
-11-6-1-titulo: "Residuos urbanos recogidos per cápita y proporción de residuos tratados, desglosados por tipo de tratamiento"
-11-6-2-titulo: "Niveles medios anuales de partículas finas en suspensión (PM2.5 y PM10) en las ciudades (ponderados según la población)"
-11-7-2-titulo: "Número de personas que han sido víctimas de acoso no sexual o sexual en los últimos 12 meses por cada 100.000 habitantes"
-11-a-1-titulo: "Proporción de la población residente en municipios que disponen de Plan General o Normas Subsidiarias o figuras equivalentes"
+10-2-1-titulo: "Diru-sarreren medianaren %50etik behera bizi diren pertsonen proportzioa"
+10-4-2-titulo: "Eskura dagoen diru-sarrera baliokidearen Gini indizea (postfiskala)"
+10-7-3-titulo: "Errefuxiatuen kopurua 100.000 biztanleko"
+
+11-1-1-titulo: "Gabezia jakin batzuk dituzten etxebizitzetan bizi diren pertsonen proportzioa"
+11-4-1-titulo: "Kultura-ondare osoa zaintzeko, babesteko eta kontserbatzeko finantzaketa publikoko iturrien per capita gastuak, gobernu-mailaren arabera (autonomikoa eta tokikoa/udalekoa)"
+11-5-1-titulo: "Hondamendien ondorioz zuzenean hildako pertsonen kopurua 100.000 biztanleko"
+11-5-2-titulo: "Kalte pertsonalengatik, diruzko galerengatik eta ondasunen gaineko kalteengatik ordaindutako edo/eta hornitutako kalte-ordainak, BPGarekiko proportzioan" 
+11-6-1-titulo: "Bildutako hiri-hondakinak, per capita, eta tratatutako hondakinen proportzioa, tratamendu-motaren arabera"
+11-6-2-titulo: "Hirietako partikula fin esekien (PM2.5 eta PM10) urteko batez besteko mailak (populazioaren arabera haztatuak)"
+11-7-1-titulo: "Erabilera publikoko espazio irekietarako erabiltzen den hirien azalera eraikiaren batez besteko proportzioa"
+11-7-2-titulo: "Azken 12 hilabeteetan sexuala edo ez sexuala den jazarpenaren biktima izan diren pertsonen kopurua 100.000 biztanleko"
+11-a-1-titulo: "Plan Orokorra edo Arau Subsidiarioak edo antzeko figurak dituzten usalerrietako biztanleriaren proportzioa"
 
 
-12-1-1-titulo: "Se elaboran, adoptan o aplican instrumentos de política destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles"
-12-5-1-titulo: "Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados"
-12-6-1-titulo: "Número de organizaciones con EMAS o Ecolabel"
+12-1-1-titulo: "Kontsumo- eta ekoizpen-modalitate jasangarrietarako trantsizioa bultzatzeko politika-tresnak egiten, hartzen edo aplikatzen dira"
+12-5-1-titulo: "Birziklatutako udal-hondakinen proportzioa, sortutako eta tratatutako udal-hondakinen guztizkoarekiko"
+12-6-1-titulo: "EMAS edo Ecolabel duten erakundeen kopurua"
 
-13-1-1-titulo: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
-13-2-2-titulo: Emisiones totales de gases de efecto invernadero (GEI) por unidad de PIB real, 
-  per cápita, y tasas de variación respecto a 1990 y 2005
+13-1-1-titulo: "Hondamendien ondorioz zuzenean hildako pertsonen kopurua 100.000 biztanleko"
+13-2-2-titulo: "Berotegi-efektuko gasen (BEG) emisio totalak, per capita BPG unitateko, eta aldaketa-tasak 1990 eta 2005eko datuekiko" 
 
-15-3-1-titulo: "Superficie de suelos potencialmente contaminados y recuperados para nuevos usos"
-15-8-1-titulo: "Se dispone de legislación nacional pertinente y se destinan recursos para la prevención o el control de las especies exóticas invasoras"
+14-3-1-titulo: "Itsasoaren batez besteko azidotasuna (pH), laginketa-estazio adierazgarrien multzo hitzartu batean neurtuta"
+14-5-1-titulo: "Eremu babestuen estaldura, itsas eremuei dagokienez"
 
-16-2-2-titulo: "Número de víctimas detectadas de tráfico de personas por cada 100.000 habitantes, desglosado por tipo de explotación"
 
-16-6-1-titulo: "Gasto liquidado en proporción al gasto inicial de los presupuestos de 
-  las administraciones públicas autonómicas y locales"
-16-6-2-titulo: "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos"
+15-1-2-titulo: "Eremu babestuetako lurreko biodibertsitaterako eta ur gezarako leku garrantzitsuen proportzioa"
+15-1-E1-titulo: "Babestutako lehorreko eremuen azalera (km2 eta ehunekoa) (EBren sdg_15_20 adierazlea)"
+15-3-1-titulo: "Poluituta egon daitezkeen eta erabilera berrietarako berreskuratu diren lorzoruen azalera"
+15-4-1-titulo: "Mendietako biodibertsitaterako leku garrantzitsuak, eremu babestuetan sartuak"
+15-4-2-titulo: "Mendien estaldura berdearen indizea"
+15-8-1-titulo: "Legeria nazional egokia dago, eta baliabideak bideratzen dira espezie exotiko inbaditzaileak prebenitzeko edo kontrolatzeko"
 
-16-7-1-titulo: "Ratio de la proporción de mujeres en el sector público respecto a la proporción de mujeres en la población entre 16 y 64 años, por institución pública"
 
-17-1-1-titulo: "Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB "
-17-1-2-titulo: "Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos"
-17-2-1-titulo: "Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales, y en proporción al PIB"
-17-3-1-titulo: "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo, y en proporción al PIB" 
-17-3-2-titulo: "Volumen de remesas enviadas al extranjero, y en proporción al PIB" 
-17-8-1-titulo: "Proporción de personas entre 16 y 74 años que han utilizado Internet en los últimos tres meses"
-17-18-2-titulo: "La legislación sobre estadísticas cumple los Principios Fundamentales de las Estadísticas Oficiales"
-17-18-3-titulo: "Se dispone de un plan estadístico autonómico plenamente financiado y en fase de aplicación"
-17-19-2-titulo: "a) Se ha realizado al menos un censo de población y vivienda en los últimos diez años, b) Se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones"
+16-1-1-titulo: "Nahita eragindako hilketen biktimen kopurua 100.000 biztanleko"
+16-1-4-titulo: "Ilundu ondoren bizi diren zonaldean bakarrik ibiltzean seguru sentitzen den biztanleriaren proportzioa"
+16-1-E1-titulo: "Bizi den eremuan delituak, indarkeria edo bandalismoa gertatzen direla adierazten duen biztanleria (EBren sdg_16_20 adierazlea)" 
+16-2-2-titulo: "Pertsona-trafikoan detektatutako biktimen kopurua 100.000 biztanleko, esplotazio-motaren arabera"
+
+16-6-1-titulo: "Autonomia-erkidegoetako eta tokiko administrazio publikoen aurrekontuetako hasierako gastuaren proportzioan likidatutako gastua"
+16-6-2-titulo: "Zerbitzu publikoen funtzionamenduarekin gustura dauden biztanleen proportzioa"
+
+16-7-1-titulo: "Sektore publikoko emakumeen proportzioaren ratioa, 16 eta 64 urte bitarteko biztanlerian dagoen emakumeen proportzioarekiko, erakunde publikoaren arabera"
+
+17-1-1-titulo: "Autonomia-erkidegoetako eta tokiko administrazio publikoen diru-sarrerak, guztira, BPGarekiko proportzioan"
+17-1-2-titulo: "Autonomia-erkidegoetako eta tokiko administrazio publikoen zergetatik datozen diru-sarreren proportzioa"
+17-2-1-titulo: "Autonomia-erkidegoetako eta tokiko administrazio publikoen Garapenerako Laguntza Ofiziala, BPGarekiko proportzioan"
+17-3-1-titulo: "Zuzeneko inbertsio garbia Garapenerako Laguntza Ofiziala jasotzen duten herrialdeen, BPGarekiko proportzioan" 
+17-3-2-titulo: "Atzerrira bidalitako diru-igorpenen bolumena, BPGarekiko proportzioan" 
+17-8-1-titulo: "Azken hiru hilabeteetan Internet erabili duten 16 eta 74 urte bitarteko pertsonen proportzioa"
+17-18-2-titulo: "Estatistikei buruzko legeriak Estatistika Ofizialen Oinarrizko Printzipioak betetzen ditu"
+17-18-3-titulo: "Erkidegoko estatistika-plan bat dago, erabat finantzatua eta aplikazio-fasean"
+17-19-2-titulo: "a) Azken hamar urteetan gutxienez biztanleriaren eta etxebizitzen zentsu bat egin da, b) jaiotzen %100 eta heriotzen %80 gutxienez erregistratu dira"
 
  # OCECA
-OCECA-1-2-1-1A: Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza
-OCECA-1-2-1-2A: Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza
-OCECA-1-2-1-2B: Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza
-OCECA-1-2-2-1A: "Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza"
-OCECA-1-a-2-1: Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación
-OCECA-1-a-2-2: Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud
-OCECA-6-1-1: Proporción de personas en zonas de abastecimiento que notifican al Sistema de Información Nacional de Agua de Consumo (SINAC)
-OCECA-9-4-1-5: Emisiones de CO2 respecto al año 1990
-OCECA-9-4-1-6: Emisiones de CO2 respecto al año 2005
-OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional
-
+OCECA-1-2-1-1A: "Pobrezia erlatiboan egoteko arriskuan dauden pertsonen ehunekoa, estatu mailako pobrezia-muga kontuan hartuta" 
+OCECA-1-2-1-2A: "Pobrezia erlatiboan egoteko arriskuan dauden pertsonen ehunekoa, alokairua imputatuta, estatu mailako pobrezia-muga kontuan hartuta" 
+OCECA-1-2-1-2B: "Pobrezia erlatiboan egoteko arriskuan dauden pertsonen ehunekoa, alokairua imputatuta, erkidego mailako pobrezia-muga erabilita"
+OCECA-1-2-2-1A: "Pobreziako edo gizarte-bazterketako arriskuan dauden pertsonen proportzioa: AROPE adierazlea, estatu mailako pobrezia-muga kontuan hartuta"
+OCECA-1-a-2-1: "Hezkuntzara bideratzen den administrazio publiko autonomikoen gastuaren proportzioa"
+OCECA-1-a-2-2: "Osasungintzara bideratzen den administrazio publiko autonomikoen gastuaren proportzioa"
+OCECA-6-1-1: "Kontsumorako Uraren Informazio Sistema Nazionalari (SINAC) jakinarazitako hornidura-eremuetako pertsonen proportzioa"
+OCECA-9-4-1-5: "$CO_2$ isurketak 1990. urtearekiko"
+OCECA-9-4-1-6: "$CO_2$ isurketak 2005. urtearekiko"
+OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen proportzioa, estatuko mediana kontuan hartuta"
+OCECA-13-2-2-3: "Berotegi-efektuko gasen emisioak, 1990. urtearekiko"
+OCECA-13-2-2-4: "Berotegi-efektuko gasen emisioak, 2005. urtearekiko"
 
 # CONTENIDO
 
-1-1-1-contenido: "<b>Meta:</b> Erradicar la pobreza extrema"
-1-2-1-contenido: "<b>Meta:</b> Reducir a la mitad la población que vive en la pobreza en todas sus dimensiones"
-1-2-2-contenido: "<b>Meta:</b> Reducir a la mitad la población que vive en la pobreza en todas sus dimensiones"
-1-3-1-contenido: "<b>Dirección deseada:</b> Aumento"
-1-4-1-contenido: "<b>Dirección deseada:</b> Aumento"
-1-5-1-contenido: "<b>Dirección deseada:</b> Descenso"
-1-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
-1-a-2-contenido: "<b>Meta:</b> Se considera como meta la media de la UE para el indicador"
-1-b-1-contenido: "<b>Meta:</b> No evaluable"
+1-1-1-contenido: "<b>Xedea:</b> Muturreko pobrezia desagerraraztea"
+1-2-1-contenido: "<b>Xedea:</b> Erdira murriztea dimentsio guztietan pobrezian bizi diren biztanleak"
+1-2-2-contenido: "<b>Xedea:</b> Erdira murriztea dimentsio guztietan pobrezian bizi diren biztanleak"
+1-3-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+1-4-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+1-5-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+1-5-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+1-5-3-contenido: |
+  Euskal Autonomia Erkidegoak hondamendiak prebenitzera eta horiei erantzutera bideratutako legeak, estrategiak 
+  eta planak ditu, eta Eusko Jaurlaritzako sailak eta toki-administrazioak tartean sartzen dira:
+  
+  <a href="https://www.euskadi.eus/larrialdiei-aurre-egiteko-bidea/web01-a2blarri/eu/" target="_blank"> Euskadiko Herri Babeseko Plana, Larrialdiei Aurregiteko Bidea-LABI</a>: EAEko babes zibilaren esparrua
+  
+  <a href="https://www.euskadi.eus/lurralde-antolamenduaren-gidalerroak-lag/web01-a3lurral/eu/" target="_blank"> Lurralde Antolamenduaren Gidalerroak</a>: lurzoruaren erabilera murrizteko helburua jasotzen du, 
+  dauden kalteberatasunen arabera, eta lurzorua modu egokiagoan erabiltzea, arriskua handitu ez dadin.
+  
+  <a href="https://www.euskadi.eus/dokumentazioa/2015/2050erako-klima-aldaketaren-euskadiko-estrategia/web01-a2ingkli/eu/" target="_blank">2050erako klima-aldaketaren Euskadiko estrategia</a>  epe luzerako helburutzat hartzen du berotegi-efektuko gasen emisioak % 80 murriztea 2050erako, bai eta euskal lurraldearen erresilientzia handitzea ere, klima-aldaketak espero dituen ondorioei aurre egiteko.
 
-2-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
-2-2-2-contenido: "<b>Dirección deseada:</b> Descenso"
-2-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-2-3-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-2-4-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-2-4-E1-contenido: "<b>Dirección deseada:</b> Ascenso"
-2-4-E2-contenido: "<b>Dirección deseada:</b> Descenso"
-2-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-2-c-1-contenido: "<b>Meta:</b> Limitar la extrema volatilidad de los precios de los alimentos"
+1-5-4-contenido: "Euskal Autonomia Erkidegoan larrialdi-plan bat eta hiru lurralde-plan daude, bat lurralde historiko bakoitzeko. Beraz, udalerrien % 100 lurraldeko larrialdi-plan baten babespean daude."
+1-a-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
-
-3-1-1-contenido: "<b>Meta:</b> Reducir a menos de 70 por cada 100.000 nacidos vivos"
-3-1-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-3-2-1-contenido: "<b>Meta:</b> Reducir al menos a 25 por cada 1.000 nacidos vivos"
-3-2-2-contenido: "<b>Meta:</b> Reducir al menos a 12 por cada 1.000 nacidos vivos"
-3-3-1-contenido: "<b>Dirección deseada:</b> Descenso"
-3-3-2-contenido: "<b>Dirección deseada:</b> Descenso"
-3-3-3-contenido: "<b>No aplicable:</b> La Comunidad Autónoma de Euskadi no es actualmente zona de transmisión de la malaria"
-3-3-4-contenido: "<b>Dirección deseada:</b> Descenso"
-3-4-1-contenido: "<b>Meta:</b> Reducir en un tercio la mortalidad prematura por enfermedades no transmisibles"
-3-4-2-contenido: "<b>Dirección deseada:</b> Descenso"
-3-4-E1-contenido: "<b>Dirección deseada:</b> Ascenso"
-3-4-E2-contenido: "<b>Dirección deseada:</b> Ascenso"
-3-5-1-contenido: "<b>Dirección deseada:</b> No evaluable"
-3-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
-3-6-1-contenido: "<b>Meta:</b> Reducir a la mitad el número de muertes"
-3-7-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-3-7-2-contenido: "<b>Dirección deseada:</b> Descenso"
-3-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-3-8-2-contenido: "<b>Dirección deseada:</b> Descenso"
-3-9-3-contenido: "<b>Dirección deseada:</b> Descenso"
-3-a-1-contenido: "<b>Dirección deseada:</b> Descenso"
-3-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-3-c-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-
-4-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-4-1-E1-contenido: "<b>Meta:</b> Menos de 9% en el año 2030"
-4-1-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-4-2-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-4-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-4-4-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-
-4-5-1-contenido: "Se mide el indicador educativo: realización de actividades educativas (formales o no formales). <b>Dirección deseada:</b> Índice=1"
-4-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-4-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-4-c-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-
-5-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-5-2-1-contenido: "<b>Dirección deseada:</b> Descenso"
-5-2-2-contenido: "<b>Dirección deseada:</b> Descenso"
-5-3-1-contenido: "<b>Dirección deseada:</b> Descenso"
-5-4-1-contenido: "<b>Dirección deseada:</b> Para poder calcular el progreso hacia el objetivo de reparto equitativo de las funciones parentales y las responsabilidades familiares, se valora la relación entre la proporción de tiempo de las mujeres y el de los hombres, con un objetivo deseado de 1"
-5-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-5-5-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-5-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-5-a-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-5-a-E1-contenido: "<b>Dirección deseada:</b> Descenso en la brecha de género"
-5-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-
-6-1-1-contenido: "La calidad del agua distribuida, los niveles máximos de contaminantes y la frecuencia mínima de análisis han sido establecidas en el ámbito de la Unión Europea (Directiva UE 2020/2184), y han sido transpuestas a la legislación española (Real Decreto 3/2023). Los sistemas de abastecimiento como la calidad del agua están estrechamente vigilados por los titulares de los abastecimientos a través de las unidades de control y vigilancia (UCV), y por el Departamento de Salud."
-6-2-1-contenido: "<b>Dirección deseada:</b> Aumento"
-6-3-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-6-4-2-contenido: "<b>Dirección deseada:</b> No evaluable"
-6-5-2-contenido: "La gestión integrada de ríos y lagos se organiza en comisiones internacionales para cuencas hidrográficas enteras en el caso de aguas transfronterizas. 
-  Las actividades de las comisiones se basan en acuerdos internacionales. Parte de la C.A. de Euskadi se ubica en la cuenca hidrográfica internacional de Garonne – Cantabrico -Ebro.
-  En febrero del año 2006 se firmó en Toulouse el acuerdo de cooperación para coordinar de la mejor manera posible las medidas tomadas en las cuencas hidrográficas situadas a ambos lados de la frontera, en aplicación de la Directiva Marco del Agua (DMA), 
-  así como establecer una cooperación administrativa regular"
-6-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+2-1-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+2-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+2-2-E1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+2-3-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+2-3-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+2-4-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+2-4-E1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+2-4-E2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+2-a-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+2-c-1-contenido: "<b>Xedea:</b> Elikagaien prezioen muturreko hegakortasuna mugatzea"
 
 
-7-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-7-1-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-7-2-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-7-3-1-contenido: "<b>Dirección deseada:</b> Descenso"
-7-3-E1-contenido: "<b>Dirección deseada:</b> No evaluable"
-7-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+3-1-1-contenido: "<b>Xedea:</b> Bizirik jaiotako 100.000 haurreko 70 baino gutxiagora murriztea"
+3-1-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+3-2-1-contenido: "<b>Xedea:</b> Bizirik jaiotako 1.000 haurreko 25era murriztea, gutxienez"
+3-2-2-contenido: "<b>Xedea:</b> Bizirik jaiotako 1.000 haurreko 12ra murriztea, gutxienez"
+3-3-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+3-3-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+3-3-3-contenido: "<b>Ez aplikagarria:</b> Euskal Autonomia Erkidegoa ez da gaur egun malariaren transmisio-gunea"
+3-3-4-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+3-4-1-contenido: "<b>Xedea:</b> Gaixotasun ez-kutsakorren ondoriozko hilkortasun goiztiarra heren bat murriztea" 
+3-4-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+3-4-E1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+3-4-E2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+3-5-1-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
+3-5-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+3-6-1-contenido: "<b>Xedea:</b> Heriotza kopurua erdira murriztea"
+3-7-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+3-7-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+3-8-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+3-8-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+3-9-3-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+3-a-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+3-b-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+3-c-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+
+4-1-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+4-1-E1-contenido: "<b>Xedea:</b> %9 baino gutxiago 2030ean"
+4-1-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+4-2-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+4-3-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+4-4-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+
+4-5-1-contenido: "Hezkuntza-adierazlea neurtzen da: hezkuntza-jarduerak egitea (formalak edo ez-formalak). <b>Nahi den norabidea:</b> Adierazlearen balioa=1"
+4-6-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+4-a-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+4-c-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+
+5-1-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+5-2-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+5-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+5-3-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+5-4-1-contenido: "<b>Nahi den norabidea:</b> Guraso-funtzioak eta familia-ardurak berdintasunez banatzeko helbururantz egindako aurrerapena kalkulatu ahal izateko, emakumeen eta gizonen denbora-proportzioaren arteko erlazioa baloratzen da, lortu nahi den helburua 1 izanik"
+5-5-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+5-5-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+5-a-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+5-a-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+5-a-E1-contenido: "<b>Nahi den norabidea:</b> Genero arrakala murriztea"
+5-b-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+
+6-1-1-contenido: "Banatutako uraren kalitatea, kutsatzaileen gehieneko mailak eta analisien gutxieneko maiztasuna Europar Batasunaren esparruan ezarri dira (EB 2020/2184 Zuzentaraua), eta Espainiako legeriara ekarri dira (3/2023 Errege Dekretua). Hornidura-sistemak, hala nola uraren kalitatea, estu zaintzen dituzte hornikuntzen titularrek, kontrol- eta zaintza-unitateen (KZU) eta Osasun Sailaren bitartez"
+6-2-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+6-3-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+6-4-2-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
+6-5-2-contenido: "Ibaien eta lakuen kudeaketa integratua arro hidrografiko osoetarako nazioarteko batzordeetan antolatzen da, mugaz gaindiko uren kasuan.
+  Batzordeen jarduerak nazioarteko akordioetan oinarritzen dira. Euskal Autonomia Erkidegoaren zati bat Garonne – Kantauri – Ebroko nazioarteko arro hidrografikoan dago.
+  2006ko otsailean, lankidetza-akordioa sinatu zen Toulousen, mugaren bi aldeetako arro hidrografikoetan hartutako neurriak ahalik eta ondoen koordinatzeko, Uraren Esparru Zuzentaraua (UEZ) aplikatuz, eta administrazio-lankidetza erregularra ezartzeko"
+6-b-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
 
-8-1-1-contenido: "<b>Dirección deseada:</b> Cambio porcentual positivo en la tasa de crecimiento del PIB real anual per cápita"
-8-2-1-contenido: "<b>Dirección deseada:</b> Cambio porcentual positivo en la tasa de crecimiento del PIB real por persona empleada"
-8-4-2-contenido: "<b>Dirección deseada:</b> Descenso en la serie Consumo doméstico de materiales por PIB"
-8-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-8-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
-8-5-E1-contenido: "<b>Dirección deseada:</b> En la serie Tasa de ocupación, el objetivo europeo es alcanzar un 78% para el año 2030. Por su parte, en la serie Brecha de género, la meta es reducir la diferencia a un máximo de 5,8 puntos porcentuales en ese mismo año."
-8-6-1-contenido: "<b>Dirección deseada:</b> El objetivo establecido a nivel europeo es que, para el año 2030, el valor del indicador correspondiente a los jóvenes de entre 15 y 29 años no supere el 9%"
-8-9-1-contenido: "<b>Dirección deseada:</b> No evaluable"
-8-10-1-contenido: "<b>Dirección deseada:</b> No evaluable"
-8-10-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-8-b-1-contenido: "<b>Dirección deseada:</b> No evaluable"
+7-1-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+7-1-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+7-2-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+7-3-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+7-3-E1-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
+7-b-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
-9-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-9-2-1-contenido: "<b>Dirección deseada:</b> Mantenimiento o ascenso"
-9-2-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-9-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-9-4-1-contenido: "<b>Dirección deseada:</b> Descenso"
-9-4-E1-contenido: "<b>Dirección deseada:</b> Descenso"
-9-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-9-5-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-9-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-9-c-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
-10-1-1-contenido: "<b>Dirección deseada:</b> Mantener el crecimiento de los ingresos del 40% más pobre de la población a una tasa superior a la media"
-10-2-1-contenido: "<b>Dirección deseada:</b> Descenso"
-10-4-1-contenido: "<b>Dirección deseada:</b> No evaluable"
-10-4-2-contenido: "<b>Dirección deseada:</b> Descenso"
+8-1-1-contenido: "<b>Nahi den norabidea:</b> Ehuneko-aldaketa positiboa per capita urteko BPG errealaren hazkunde-tasan"
+8-2-1-contenido: "<b>Nahi den norabidea:</b> Ehuneko-aldaketa positiboa enplegatuko BPG errealaren hazkunde-tasan"
+8-4-2-contenido: "<b>Nahi den norabidea:</b> BPGaren araberako materialen etxeko kontsumoa seriearen jaitsiera"
+8-5-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+8-5-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+8-5-E1-contenido: "<b>Nahi den norabidea:</b> Okupazio-tasa seriean, Europaren helburua 2030erako % 78ra iristea da. Bestalde, Genero-arrakala seriean, urte horretan bertan aldea gehienez ehuneko 5,8 puntura murriztea da helburua."
+8-6-1-contenido: "<b>Nahi den norabidea:</b> Europa mailan ezarritako helburua da 2030. urterako 15 eta 29 urte bitarteko gazteei dagokien adierazlearen balioa ez izatea % 9 baino handiagoa."
+8-8-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+8-9-1-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
+8-10-1-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
+8-10-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+8-b-1-contenido: |
 
-11-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
-11-3-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-11-4-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-11-5-1-contenido: "<b>Dirección deseada:</b> Descenso"
-11-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
-11-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-11-6-2-contenido: "<b>Dirección deseada:</b> Descenso"
-11-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+  Euskal AEk gazteen emantzipazioa laguntzeko 2030 Euskal Estrategia eta  
+  <a href="https://www.euskadi.eus/planak-egitasmoak-gazteria/web01-a2gazter/eu/">V. Gazte Plana 2022-2026</a>, 
+  ditu. Horien helburua da gazteei helduarorako trantsizioa erraztea, haien autonomia eta lan-eremuan sartzea sustatuz, batez ere gaur egun lan-merkatutik urrun daudenei dagokienez. 
 
-12-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-12-2-2-contenido: "<b>Dirección deseada:</b> Descenso en la serie Consumo material interno por PIB"
-12-4-2-contenido: "<b>Dirección deseada:</b> Ascenso en la proporción de residuos peligrosos reciclados"
-12-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-12-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+  
+  <a href="https://www.euskadi.eus/planak-txostenak-plangintza-berrikuntza-enpleguan/web01-s2enple/eu/">Enpleguaren Euskal Estrategia 2030ak eta Enplegu Planek</a> 
+  barne hartzen dituzte gazteen enplegua sustatzeko jarduera-ildo espezifikoak, prestakuntza-programen, kontrataziorako pizgarrien eta gazte-ekintzailetzarako laguntzaren bidez.
 
-13-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
-13-2-2-contenido: "<b>Dirección deseada:</b> Descenso en la serie Emisiones totales de gases de efecto invernadero per cápita"
+9-1-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+9-2-1-contenido: "<b>Nahi den norabidea:</b> Mantentzea edo igoera"
+9-2-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+9-3-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+9-4-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+9-4-E1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+9-5-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+9-5-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+9-b-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+9-c-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
-15-1-1-contenido: "<b>Dirección deseada:</b> Mantenimiento o ascenso"
-15-2-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-15-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-15-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+10-1-1-contenido: "<b>Nahi den norabidea:</b> Biztanleriaren % 40 pobreenaren diru-sarreren hazkundeari batez bestekoa baino tasa handiagoan eustea"
+10-2-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+10-4-1-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
+10-4-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 
-16-1-4-contenido: "<b>Dirección deseada:</b> Ascenso"
-16-2-2-contenido: "<b>Dirección deseada:</b> Descenso"
-16-3-2-contenido: "<b>Dirección deseada:</b> Descenso"
-16-6-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-16-7-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-16-9-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+11-1-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+11-3-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+11-4-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+11-5-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+11-5-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+11-6-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+11-6-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+11-a-1-contenido:  |
+  <a href="https://www.euskadi.eus/lurralde-antolamenduaren-gidalerroak-lag/web01-a3lurral/eu/">
+  Lurralde Antolamenduaren Gidalerroek</a> EAEko udalerrietako plangintzaren bizitegi-kuantifikazioari buruzko irizpideak ematen dituzte, biztanleria egoiliarraren aldakuntza, familiaren batez besteko tamainaren aldaketa edo etxebizitza-eskaera kontuan hartuta. 
+  <a href="https://www.euskadi.eus/informazioa/lurralde-plan-partzialak-lpp/web01-a3lurral/eu/">
+  Lurralde Plan Partzialek</a> Lurralde Antolamenduaren Gidalerroak garatzen dituzte Eremu Funtzionalak izeneko hamabost eremu geografikoetan, eta antolamenduaren helburuak zehazten dituzte lurraldearen egoeraren, egoera sozioekonomikoaren eta bilakaera-aukeren azterketatik abiatuta. 
 
-17-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-1-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-2-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-3-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-13-1-contenido: "<b>Dirección deseada:</b> En indicadores basados cuyos valores son tasas de crecimiento, se utiliza el criterio experto para la evaluación"
-17-18-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-18-3-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-19-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+12-1-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+12-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera BPGren araberako Barne-materialaren kontsumoa seriean"
+12-4-1-contenido:  |
+  Adierazleak Ingurumen Akordio Multilateral (AAM) hauek berretsi, onartu edo atxiki diren Estatu (Alderdi) kopuruari egiten dio erreferentzia. 
+  Akordio horiek Europar Batasunaren esparruan daude araututa, baina kasuan kasuko konbentzioetako idazkaritzek eskatutako informazioa estatu-mailan 
+  kudeatzen da. Europako bost akordioak eta lege-oinarriak ondokoak dira:
+
+   1. <a href="http://www.basel.int/">Basileako Hitzarmena</a> hondakin arriskutsuen mugaz gaindiko mugimenduen kontrolari eta horiek ezabatzeari buruzkoa: 
+    <a href="https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex%3A32006R1013">
+   1013/2006 (EE) Erregelamendua, Europako Parlamentuarena eta Kontseiluarena</a>, 2006ko ekainaren 14koa, hondakinak lekualdatzeari buruzkoa  
+
+   2. <a href="http://www.pic.int/">Roterdameko Hitzarmena</a> nazioarteko merkataritzaren xede diren plagizida eta produktu kimiko arriskutsu batzuei aplikatu beharreko aldez aurreko baimen arrazoituaren prozedurari buruzkoa: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1616424284711&uri=CELEX%3A32012R0649">649/2012 (EB) Erregelamendua, Europako Parlamentuarena eta Kontseiluarena</a>, 2012ko uztailaren 4koa, produktu kimiko arriskutsuen esportazioari eta inportazioari buruzkoa 
+
+   3. <a href="http://www.pops.int/">Stockholmeko Hitzarmena</a> kutsatzaile organiko iraunkorrei buruzkoa: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1616424312742&uri=CELEX%3A32019R1021">2019/1021 (EB) Erregelamendua, Europako Parlamentuarena eta Kontseiluarena</a>, 2019ko ekainaren 20koa, kutsatzaile organiko iraunkorrei buruzkoa 
+
+   4. <a href="https://ozone.unep.org/treaties/montreal-protocol">Montrealgo Hitzarmena</a> ozono-geruza agortzen duten substantziei buruzkoa: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1616423953157&uri=CELEX%3A32009R1005"> 1005/2009 (EB) Erregelamendua, Europako Parlamentuarena eta Kontseiluarena</a>, 2009ko irailaren 16koa, ozono-geruza agortzen duten substantziei buruzkoa 
+
+   5. <a href="http://www.mercuryconvention.org/">Minamatako Hitzarmena </a> merkurioari buruzkoa: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1616424340862&uri=CELEX%3A32017R0852"> 2017/852 (EB) Erregelamendua, Europako Parlamentuarena eta Kontseiluarena</a>, 2017ko maiatzaren 17koa, merkurioari buruzkoa 
+
+
+
+12-4-2-contenido: "<b>Nahi den norabidea:</b> Birziklatutako hondakin arriskutsuen proportzioaren igoera"
+12-5-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+12-6-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+
+13-1-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+
+13-2-1-contenido: |
+  Europar Batasunak eta estatu kideek 2016ko urrian aurkeztu zuten Parisko akordioari nazio mailan zehaztutako ekarpena (NDC), 2030erako ekonomia osoan berotegi-efektuko gasen isuriak gutxienez 
+  % 40 murrizteko helburuarekin, 1990eko mailekin alderatuta. 
+  2023ko urrian aurkeztu zen<a href="https://unfccc.int/sites/default/files/NDC/2023-10/ES-2023-10-17%20EU%20submission%20NDC%20update.pdf" target="_blank">Europar Batasunaren eta haren estatu kideen nazio-mailan zehaztutako ekarpenaren azken eguneratzea</a>. 
+
+  2021eko urrian, Eusko Jaurlaritzak Trantsizio Energetikorako eta Klima Aldaketarako 2021-2024 Plana onartu zuen, eta, bertan, 2024. urterako klima-helburuak ezarri ziren: 
+  berotegi-efektuko gasen emisioa % 30 murriztea; energia berriztagarrien kuota energiaren azken kontsumoaren % 20 izatea lortzea; eta euskal lurraldeak klima-aldaketarekiko duen erresilientzia bermatzea. 
+
+
+13-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera Per capita berotegi-efektuko gasen guztizko emisioak seriean"
+
+14-3-1-contenido: "<b>Nahi den norabidea:</b> Mantentzea"
+
+15-1-1-contenido: "<b>Nahi den norabidea:</b> Mantentzea edo igoera"
+15-1-E1-contenido: "<b>Nahi den norabidea:</b> Mantentzea edo igoera"
+15-2-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+15-3-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+15-4-2-contenido: "<b>Dirección deseada:</b> Mantentzea edo igoera"
+15-8-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+
+16-1-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+16-1-2-contenido: "Euskal Autonomia Erkidegoa ez dago Giza Eskubideen aldeko Nazio Batuen Goi Komisarioaren Bulegoak (GENBGK) adierazle horretarako aintzat hartutako gatazka armatuen egoeren zerrendan"
+16-1-4-contenido: "<b>Nahi den norabidea:</b> Igoera"
+16-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+16-3-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+16-6-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+16-7-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+16-9-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+
+17-1-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+17-1-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+17-2-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+17-3-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+17-3-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+17-6-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+17-8-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+17-13-1-contenido: "<b>Nahi den norabidea:</b> Hazkunde-tasetan oinarritutako adierazleetan, ebaluaziorako irizpide aditua erabiltzen da"
+17-18-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+17-18-3-contenido: "<b>Nahi den norabidea:</b> Igoera"
+17-19-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
 
 # NOTAS
 
-1-3-1-nota: "Indicador en revisión"
+1-3-1-nota: "Adierazlea berrikusten"
 
 # ANOTACIONES
 
-3-4-E1-anotacion: "Recomendación Guía Europea"
-8-5-E1-anotacion: "Objetivo UE"
-8-6-1-anotacion: "Objetivo UE"
+3-4-E1-anotacion: "Europako Gidaren gomendioa"
+8-5-E1-anotacion: "EBren helburua"
+8-6-1-anotacion: "EBren helburua"
 
 # NOTAS AL PIE (FOOTNOTE)
-1-2-2-notapie: Los datos a partir del 2022 del Indicador de pobreza y exclusion AROPE se 
-  calculan con la nueva definicion de la tasa (metodología Eurostat del año 2021), 
-  mientras que los datos anteriores corresponden a la definición antigua.
-8-1-1-notapie: Los datos del último año son provisionales
-8-2-1-notapie: Los datos del último año son provisionales
+1-2-2-notapie: AROPE pobreziaren eta bazterketaren adierazlearen 2022tik aurrerako datuak tasaren definizio berriarekin 
+  kalkulatzen dira (2021eko Eurostat metodologia); aurreko datuak, berriz, lehengo definizioarekin bat datoz. 
+1-5-4-notapie: Larrialdietarako plan bat (udalekoa edo lurraldekoa) duten udalerriek % 100eko balioa dute
+8-1-1-notapie: Azken urteko datuak behin-behinekoak dira
+8-2-1-notapie: Azken urteko datuak behin-behinekoak dira
+
 
 # PESTAÑA "INDICADORES RELACIONADOS" (EMBEDED)
-embeded-1-2-1: "https://eustat-des.github.io/site/embeded/1-2-1"
-embeded-1-2-2: "https://eustat-des.github.io/site/embeded/1-2-2"
-embeded-1-a-2: "https://eustat-des.github.io/site/embeded/1-a-2"
-embeded-6-1-1: "https://eustat-des.github.io/site/embeded/6-1-1"
-embeded-8-9-1: "https://eustat-des.github.io/site/embeded/8-9-1"
-embeded-9-4-1: "https://eustat-des.github.io/site/embeded/9-4-1"
+embeded-1-2-1: "/site/embeded/1-2-1"
+embeded-1-2-2: "/site/embeded/1-2-2"
+embeded-1-a-2: "/site/embeded/1-a-2"
+embeded-6-1-1: "/site/embeded/6-1-1"
+embeded-8-9-1: "/site/embeded/8-9-1"
+embeded-9-4-1: "/site/embeded/9-4-1"
+embeded-10-2-1: "/site/embeded/10-2-1"
+embeded-13-2-2: "/site/embeded/13-2-2"

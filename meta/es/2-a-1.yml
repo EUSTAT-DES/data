@@ -1,0 +1,75 @@
+ 
+indicador_disponible: >-
+  GRAFICO.2-a-1-titulo
+
+objetivo_global: objetivo_largo.2-titulo
+meta_global: meta_largo.2-a-titulo
+#  indicador_onu_global: global_indicators.2-a-1-title
+
+definicion: |
+
+  Valor Añadido Bruto (VAB) del sector de la agricultura, ganadería y pesca respecto 
+  al VAB del total de los sectores, a precios corrientes.
+ 
+  El valor agregado agrícola y el PIB se basan en el Sistema Europeo de Cuentas (SEC-2010). La agricultura se refiere 
+  al sector de agricultura, silvicultura, pesca y caza (Sección A de la CNAE 2009 o CIIU Rev4)
+
+formula: |
+
+  $$PVAB_{agricultura}^{t} = \frac{VAB_{agricultura}^{t}}{PIB^{t}} \cdot 100$$
+
+  donde:
+
+  $VAB_{agricultura}^{t} =$ valor añadido bruto del sector de la agricultura, ganadería y pesca a precios corrientes en el año $t$
+
+  $PIB^{t} =$  producto interior bruto a precios corrientes en el año $t$
+
+
+desagregacion: |
+  Territorio histórico/Comarca/Municipio
+
+observaciones: 
+  Los datos difundidos en el PIB Municipal se elaboran mediante estimaciones realizadas en base a la 
+  metodología establecida en el Sistema Europeo de Cuentas (SEC-2010).
+
+periodicidad: FUENTE.FREQ_A
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+  Un índice de orientación agrícola (IOA) superior a 1 refleja una mayor orientación hacia 
+  el sector agrícola, que recibe una mayor proporción del gasto público en relación con su contribución 
+  al valor añadido económico. 
+  
+  Un IOA inferior a 1 refleja una menor orientación hacia la agricultura, mientras que un IOA igual a 1 refleja neutralidad 
+  en la orientación de un gobierno hacia el sector agrícola. El gasto público en agricultura incluye el gasto en políticas 
+  y programas sectoriales; mejora del suelo y control de la degradación del suelo; riego y embalses para uso agrícola; 
+  gestión de la salud animal, investigación ganadera y capacitación en cría de animales; investigación biológica marina y de 
+  agua dulce; forestación y otros proyectos forestales; etc. 
+  
+  El gasto en estas actividades agrícolas ayuda a aumentar la eficiencia del sector, la productividad y 
+  el crecimiento de los ingresos al aumentar el capital físico o humano y/o reducir las restricciones presupuestarias 
+  intertemporales. 
+  
+  Sin embargo, el sector privado normalmente invierte poco en estas actividades debido a la presencia de fallas del mercado 
+  (por ejemplo, la naturaleza de bien público de la investigación y el desarrollo; las externalidades positivas 
+  de las condiciones mejoradas del suelo y el agua; la falta de acceso a crédito competitivo debido a la 
+  información asimétrica entre productores e instituciones financieras, etc.). 
+  
+  De manera similar, el alto 
+  riesgo que enfrentan los productores agrícolas, en particular los pequeños agricultores que no pueden 
+  protegerse contra el riesgo, a menudo requiere la intervención del gobierno en términos de redistribución 
+  del ingreso para apoyar a los pequeños agricultores en dificultades luego de pérdidas de cosechas y 
+  ganado debido a plagas, sequías, inundaciones, fallas de infraestructura o cambios severos de precios.
+
+dato_global: >-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.a.1&seriesCode=AG_PRD_AGVAS&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Valor añadido de la agricultura como porcentaje del PIB (%) AG_PRD_AGVAS</a> UNSTATS
+
+comparabilidad: >-
+  El indicador disponible es una de las series del indicador de Naciones Unidas, pero no es el indicador principal.
+
+indicador_meta_enlace: >-
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0A-01.pdf">Metadatos 2-a-1.pdf</a> (solo en inglés)
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'

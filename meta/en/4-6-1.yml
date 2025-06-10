@@ -1,0 +1,96 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >- 
+  GRAFICO.4-6-1-titulo
+
+objetivo_global: objetivo_largo.4-titulo
+meta_global: meta_largo.4-6-titulo
+#  indicador_onu_global: indicador_largo.4-6-1-titulo
+
+
+definicion: >-
+  Proportion of people aged 16 to 65 who have reached at least level 2 
+  proficiency on the reading comprehension scale and the mathematics scale
+
+formula: |
+
+  $$PPN2_{c}^{t} = \frac{PN2_{16-65\,c}^{t}}{P_{16-65}^{t}}$$
+
+  where:
+
+  $PN2_{16-65\,c}^{t} =$ Population aged 16 to 65 who have achieved at least level 2 
+  of proficiency on $c$ type of competence in the year $t$
+
+  $P_{16-65}^{t} =$ population aged 16 to 65 in year $t$
+
+
+desagregacion: | 
+  Type of competence: reading comprehension, mathematics
+
+  Sex
+
+periodicidad: FUENTE.FREQ_A10
+
+
+observaciones: |
+
+  The Programme for the International Assessment of Adult Competencies uses a 500-point scale to assess 
+  reading comprehension and mathematics proficiency. To help interpret these scores, the scale is divided 
+  into six proficiency categories:
+
+  - Below Level 1: score below 176 
+  - Level 1: score between 176 and 225 
+  - Level 2: score between 226 and 275 
+  - Level 3: score between 276 and 325 
+  - Level 4: score between 326 and 375 
+  - Level 5: score between 376 and 500 
+
+  A person reaches at least Level 2 proficiency on the reading comprehension scale when they can usually 
+  understand texts on unfamiliar topics, although they may struggle with tasks such as comparing and 
+  contrasting different texts or searching for digital texts on a specific topic. 
+
+  A person reaches at least Level 2 proficiency on the mathematics scale when they are routinely able 
+  to answer questions requiring intermediate calculations, understand the mathematical information in a 
+  table, and have no difficulty interpreting simple graphs, although they may have difficulty with tasks 
+  such as handling proportions or interpreting complex graphs. 
+
+  The 2012 data corresponds to the study conducted between the third quarter of 2011 and the first quarter 
+  of 2012.
+
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: >-
+  The indicator is a direct measure of the skill levels of youth and adults in the two 
+  areas: literacy and numeracy. 
+
+  The fixed level of proficiency (FLP) is the benchmark of basic knowledge in a domain 
+  (literacy or numeracy) measured through learning assessments. Currently, the FLP for 
+  global reporting is the Programme for the International Assessment of Adult Competencies 
+  (PIAAC) level 2 descriptor. 
+
+  The concepts of functional literacy and functional numeracy are based on the UNESCO 
+  definitions, which cover a continuum of proficiency levels rather than a dichotomy. A 
+  person is functionally literate if he/she can engage in all those activities in which 
+  literacy is required for the effective functioning of his/her group and community and 
+  also which enables them to continue to use reading, writing and calculation for his/her 
+  own and the community’s development. 
+
+  Source: United Nations Statistics Division
+
+
+dato_global: >-
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-06-01.pdf">Metadata 4-6-1.pdf </a>'
+
+informacion_interes: 
+
+national_data_updated_date: '2024-10-29'
+national_metadata_updated_date: '2024-10-29'

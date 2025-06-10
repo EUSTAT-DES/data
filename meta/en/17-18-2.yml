@@ -1,0 +1,50 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.17-18-2-titulo
+
+objetivo_global: objetivo_largo.17-titulo
+meta_global: meta_largo.17-18-titulo
+#  indicador_onu_global: indicador_largo.17-18-2-titulo
+
+definicion: >-
+
+  Logical value indicating whether the legislation on statistics complies with the Fundamental 
+  Principles of Official Statistics adopted by the United Nations Statistical Commission at the 
+  special session of 11-15 April 1994 
+
+formula: |
+
+  $$LAPFEO^{t} = \begin{cases} 1 & \text{It complies with the Fundamental Principles of Official Statistics in year 𝑡} \\ 0 & \text{It does not comply with the Fundamental Principles of Official Statistics in year 𝑡} \end{cases} $$
+
+
+desagregacion: >-
+
+observaciones: >-
+
+periodicidad: FUENTE.FREQ_A
+texto_oceca: FUENTE.oceca
+
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+  A country’s statistics law will be considered compliant with the UN Fundamental Principles of Official 
+  Statistics if the law has provisions relating to all ten Principles.  
+
+  Source: United Nations Statistics Division
+
+dato_global: >- 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=17.18.2&seriesCode=SG_STT_FPOS&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO) SG_STT_FPOS</a> UNSTATS
+
+comparabilidad: >-
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-18-02.pdf">Metadata 17-18-2.pdf</a>'
+
+informacion_interes: 
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
