@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Emisiones de $CO_2$ por unidad de valor añadido",
-                "Emisiones de $CO_2$ del sector manufacturero por unidad de valor añadido del sector manufacturero",
+                "Emisiones de CO2 por unidad de valor añadido",
+                "Emisiones de CO2 del sector manufacturero por unidad de valor añadido del sector manufacturero",
                 ""
               ]
             },
@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kg de $CO_2$ equivalente por euro de PIB",
+                "Kg de CO2 equivalente por euro de PIB",
                 ""
               ]
             },
