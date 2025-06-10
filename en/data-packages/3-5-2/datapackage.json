@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_ALC_CONSPT",
+                "Alcohol consumption per capita (age 15 and older) during a calendar year.",
                 ""
               ]
             },
@@ -31,11 +31,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LITRES_PURE_ALCOHOL",
+                "Liters of pure alcohol",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

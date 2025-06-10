@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SG_DMK_PARLMP_LC",
-                "SG_DMK_PSRVC",
-                "SG_DMK_JDC",
+                "Proportion of women in parliament relative to the proportion of women in the population",
+                "Proportion of women in public administration relative to the proportion of women in the population",
+                "Proportion of women in the judiciary relative to the proportion of women in the population",
                 ""
               ]
             },
@@ -33,47 +33,47 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_DMK_PSRVC_AUT",
-                "EU_DMK_PSRVC_LOC",
-                "EU_DMK_PSRVC_NAC",
-                "EU_DMK_SAN_AUT",
-                "EU_DMK_EDU_AUT",
-                "EU_DMK_DF",
-                "EU_DMK_MUN",
-                "EU_DMK_UNI",
-                "EU_DMK_POL_AUT",
-                "EU_DMK_JUST_AUT",
-                "EU_DMK_JUST_NAC",
-                "EU_DMK_FCSE",
-                "EU_DMK_FA",
+                "Regional Public Sector",
+                "Local Public Sector",
+                "State Public Sector",
+                "Regional Health Institutions",
+                "Regional Non-University Educational Institutions",
+                "Regional Governments",
+                "City Councils",
+                "Universities",
+                "Regional Police",
+                "Regional Justice Administration",
+                "State Justice Administration",
+                "State Security Forces and Corps",
+                "Armed Forces",
                 ""
               ]
             },
-            "title": "Institucion"
+            "title": "Institution"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "RO",
+                "Ratio",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

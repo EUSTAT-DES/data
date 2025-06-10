@@ -1,73 +1,73 @@
-Year,Series,Sexo,Tenencia,Territorio,Units,Value
-2016,SP_LGL_LNDAGSEC,,,,PT,51.7
-2009,SP_LGL_LNDAGSEC,,,,PT,54.5
-2013,SP_LGL_LNDAGSEC,,,,PT,57.5
-2016,SP_LGL_LNDAGSEC,,,ES211,PT,42.8
-2013,SP_LGL_LNDAGSEC,,,ES211,PT,49.2
-2009,SP_LGL_LNDAGSEC,,,ES211,PT,51.2
-2013,SP_LGL_LNDAGSEC,,,ES213,PT,62.0
-2009,SP_LGL_LNDAGSEC,,,ES213,PT,58.3
-2016,SP_LGL_LNDAGSEC,,,ES213,PT,54.5
-2009,SP_LGL_LNDAGSEC,,,ES212,PT,52.1
-2016,SP_LGL_LNDAGSEC,,,ES212,PT,53.0
-2013,SP_LGL_LNDAGSEC,,,ES212,PT,57.1
-2016,SP_LGL_LNDAGSEC,F,,,PT,53.4
-2009,SP_GNP_WNOWNS,F,,,PT,33.2
-2013,SP_GNP_WNOWNS,F,,,PT,37.4
-2016,SP_GNP_WNOWNS,F,,,PT,38.2
-2013,SP_LGL_LNDAGSEC,F,,,PT,58.9
-2009,SP_LGL_LNDAGSEC,F,,,PT,55.8
-2013,SP_LGL_LNDAGSEC,F,,ES211,PT,50.9
-2009,SP_GNP_WNOWNS,F,,ES211,PT,29.1
-2013,SP_GNP_WNOWNS,F,,ES211,PT,29.2
-2016,SP_GNP_WNOWNS,F,,ES211,PT,31.6
-2016,SP_LGL_LNDAGSEC,F,,ES211,PT,43.4
-2009,SP_LGL_LNDAGSEC,F,,ES211,PT,56.7
-2013,SP_LGL_LNDAGSEC,F,,ES213,PT,62.8
-2009,SP_GNP_WNOWNS,F,,ES213,PT,36.8
-2016,SP_GNP_WNOWNS,F,,ES213,PT,41.4
-2009,SP_LGL_LNDAGSEC,F,,ES213,PT,60.6
-2016,SP_LGL_LNDAGSEC,F,,ES213,PT,57.1
-2013,SP_GNP_WNOWNS,F,,ES213,PT,40.9
-2009,SP_LGL_LNDAGSEC,F,,ES212,PT,49.6
-2016,SP_GNP_WNOWNS,F,,ES212,PT,37.0
-2013,SP_GNP_WNOWNS,F,,ES212,PT,37.1
-2009,SP_GNP_WNOWNS,F,,ES212,PT,31.1
-2013,SP_LGL_LNDAGSEC,F,,ES212,PT,57.5
-2016,SP_LGL_LNDAGSEC,F,,ES212,PT,53.2
-2009,SP_GNP_WNOWNS,F,PROP,,PT,35.1
-2016,SP_GNP_WNOWNS,F,PROP,,PT,40.4
-2013,SP_GNP_WNOWNS,F,PROP,,PT,38.4
-2013,SP_GNP_WNOWNS,F,PROP,ES211,PT,28.2
-2016,SP_GNP_WNOWNS,F,PROP,ES211,PT,35.6
-2009,SP_GNP_WNOWNS,F,PROP,ES211,PT,30.7
-2009,SP_GNP_WNOWNS,F,PROP,ES213,PT,39.0
-2016,SP_GNP_WNOWNS,F,PROP,ES213,PT,43.3
-2013,SP_GNP_WNOWNS,F,PROP,ES213,PT,42.9
-2009,SP_GNP_WNOWNS,F,PROP,ES212,PT,32.5
-2013,SP_GNP_WNOWNS,F,PROP,ES212,PT,37.3
-2016,SP_GNP_WNOWNS,F,PROP,ES212,PT,38.4
-2013,SP_GNP_WNOWNS,F,RENT,,PT,33.9
-2016,SP_GNP_WNOWNS,F,RENT,,PT,29.8
-2009,SP_GNP_WNOWNS,F,RENT,,PT,26.4
-2016,SP_GNP_WNOWNS,F,RENT,ES211,PT,28.9
-2013,SP_GNP_WNOWNS,F,RENT,ES211,PT,33.0
-2009,SP_GNP_WNOWNS,F,RENT,ES211,PT,23.2
-2016,SP_GNP_WNOWNS,F,RENT,ES213,PT,35.5
-2013,SP_GNP_WNOWNS,F,RENT,ES213,PT,36.7
-2009,SP_GNP_WNOWNS,F,RENT,ES213,PT,30.6
-2013,SP_GNP_WNOWNS,F,RENT,ES212,PT,30.3
-2009,SP_GNP_WNOWNS,F,RENT,ES212,PT,23.1
-2016,SP_GNP_WNOWNS,F,RENT,ES212,PT,19.0
-2009,SP_LGL_LNDAGSEC,M,,,PT,53.9
-2013,SP_LGL_LNDAGSEC,M,,,PT,56.7
-2016,SP_LGL_LNDAGSEC,M,,,PT,50.7
-2009,SP_LGL_LNDAGSEC,M,,ES211,PT,49.2
-2013,SP_LGL_LNDAGSEC,M,,ES211,PT,48.5
-2016,SP_LGL_LNDAGSEC,M,,ES211,PT,42.6
-2013,SP_LGL_LNDAGSEC,M,,ES213,PT,61.4
-2009,SP_LGL_LNDAGSEC,M,,ES213,PT,57.1
-2016,SP_LGL_LNDAGSEC,M,,ES213,PT,52.9
-2013,SP_LGL_LNDAGSEC,M,,ES212,PT,56.9
-2009,SP_LGL_LNDAGSEC,M,,ES212,PT,53.4
-2016,SP_LGL_LNDAGSEC,M,,ES212,PT,52.8
+Year,Series,Sex,Type of tenure,Province,Units,Value
+2016,Proportion of the total agricultural population with property rights or secure rights to agricultural land,,,,%,51.7
+2009,Proportion of the total agricultural population with property rights or secure rights to agricultural land,,,,%,54.5
+2013,Proportion of the total agricultural population with property rights or secure rights to agricultural land,,,,%,57.5
+2016,Proportion of the total agricultural population with property rights or secure rights to agricultural land,,,Araba/Álava,%,42.8
+2013,Proportion of the total agricultural population with property rights or secure rights to agricultural land,,,Araba/Álava,%,49.2
+2009,Proportion of the total agricultural population with property rights or secure rights to agricultural land,,,Araba/Álava,%,51.2
+2013,Proportion of the total agricultural population with property rights or secure rights to agricultural land,,,Bizkaia,%,62.0
+2009,Proportion of the total agricultural population with property rights or secure rights to agricultural land,,,Bizkaia,%,58.3
+2016,Proportion of the total agricultural population with property rights or secure rights to agricultural land,,,Bizkaia,%,54.5
+2009,Proportion of the total agricultural population with property rights or secure rights to agricultural land,,,Gipuzkoa,%,52.1
+2016,Proportion of the total agricultural population with property rights or secure rights to agricultural land,,,Gipuzkoa,%,53.0
+2013,Proportion of the total agricultural population with property rights or secure rights to agricultural land,,,Gipuzkoa,%,57.1
+2016,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Female,,,%,53.4
+2009,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,,,%,33.2
+2013,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,,,%,37.4
+2016,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,,,%,38.2
+2013,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Female,,,%,58.9
+2009,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Female,,,%,55.8
+2013,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Female,,Araba/Álava,%,50.9
+2009,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,,Araba/Álava,%,29.1
+2013,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,,Araba/Álava,%,29.2
+2016,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,,Araba/Álava,%,31.6
+2016,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Female,,Araba/Álava,%,43.4
+2009,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Female,,Araba/Álava,%,56.7
+2013,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Female,,Bizkaia,%,62.8
+2009,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,,Bizkaia,%,36.8
+2016,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,,Bizkaia,%,41.4
+2009,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Female,,Bizkaia,%,60.6
+2016,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Female,,Bizkaia,%,57.1
+2013,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,,Bizkaia,%,40.9
+2009,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Female,,Gipuzkoa,%,49.6
+2016,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,,Gipuzkoa,%,37.0
+2013,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,,Gipuzkoa,%,37.1
+2009,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,,Gipuzkoa,%,31.1
+2013,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Female,,Gipuzkoa,%,57.5
+2016,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Female,,Gipuzkoa,%,53.2
+2009,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Owned,,%,35.1
+2016,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Owned,,%,40.4
+2013,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Owned,,%,38.4
+2013,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Owned,Araba/Álava,%,28.2
+2016,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Owned,Araba/Álava,%,35.6
+2009,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Owned,Araba/Álava,%,30.7
+2009,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Owned,Bizkaia,%,39.0
+2016,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Owned,Bizkaia,%,43.3
+2013,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Owned,Bizkaia,%,42.9
+2009,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Owned,Gipuzkoa,%,32.5
+2013,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Owned,Gipuzkoa,%,37.3
+2016,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Owned,Gipuzkoa,%,38.4
+2013,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Rented,,%,33.9
+2016,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Rented,,%,29.8
+2009,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Rented,,%,26.4
+2016,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Rented,Araba/Álava,%,28.9
+2013,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Rented,Araba/Álava,%,33.0
+2009,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Rented,Araba/Álava,%,23.2
+2016,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Rented,Bizkaia,%,35.5
+2013,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Rented,Bizkaia,%,36.7
+2009,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Rented,Bizkaia,%,30.6
+2013,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Rented,Gipuzkoa,%,30.3
+2009,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Rented,Gipuzkoa,%,23.1
+2016,"Proportion of women among owners or holders of rights to agricultural land, by tenure type",Female,Rented,Gipuzkoa,%,19.0
+2009,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Male,,,%,53.9
+2013,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Male,,,%,56.7
+2016,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Male,,,%,50.7
+2009,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Male,,Araba/Álava,%,49.2
+2013,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Male,,Araba/Álava,%,48.5
+2016,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Male,,Araba/Álava,%,42.6
+2013,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Male,,Bizkaia,%,61.4
+2009,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Male,,Bizkaia,%,57.1
+2016,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Male,,Bizkaia,%,52.9
+2013,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Male,,Gipuzkoa,%,56.9
+2009,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Male,,Gipuzkoa,%,53.4
+2016,Proportion of the total agricultural population with property rights or secure rights to agricultural land,Male,,Gipuzkoa,%,52.8

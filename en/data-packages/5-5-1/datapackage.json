@@ -20,40 +20,40 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "GEN_PARL",
-                "GEN_G",
-                "GEN_REGIOG",
-                "GEN_REGIOPARL",
-                "GEN_LOCG",
-                "GEN_LOCP",
+                "Elected in the Regional Parliament",
+                "Departments in the Regional Government",
+                "Departments in Regional Governments",
+                "Elected in General Assemblies",
+                "Mayors",
+                "Council Members",
                 ""
               ]
             },
-            "title": "Institucion"
+            "title": "Institution"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

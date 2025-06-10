@@ -1,36 +1,36 @@
 Disaggregation,eu,es,en,Number of indicators,Number of values
-Actividad,Jarduera ekonomikoa,Actividad económica,Actividad,1,2
-Adiccion,Substantzia adiktiboa,Sustancia adictiva,Adiccion,1,3
-Administracion,Administrazio publikoa,Administración pública,Administracion,1,3
-Alimento,Elikagaiak,Alimento,Alimento,1,8
-Comarca,Eskualdea,Comarca,Comarca,17,20
-Competencia,Konpetentzia,Tipo de competencia,Competencia,2,4
-Discapacidad,Desgaitasunik ez duten pertsonak,Personas sin y con discapacidad,Discapacidad,2,2
-Ecosistema,Ekosistema,Ecosistema,Ecosistema,1,6
-Edad,Adina,Edad,Edad,9,15
-Educacion,Hezkuntza-maila,Nivel educativo,Educacion,2,4
-EmpCont,Kontratu mota,Tipo de contrato,EmpCont,1,2
-Energia,Teknologia berriztagarri mota,Tipo de tecnología renovable,Energia,2,4
-Explotacion,Ustiategi mota,Tipo de explotación,Explotacion,1,5
-Gasto,Gastua,Gasto,Gasto,1,2
-Habilidad_IT,Trebetasun informatikoa,Habilidad informática,Habilidad_IT,1,8
-Ingreso_cuantil,Diru-sarreren taldea,Grupo de ingresos,Ingreso_cuantil,1,1
-Institucion,Erakundea,Institución,Institucion,2,19
-Municipio,Udalerria,Municipio,Municipio,17,252
-NCD,Gaixotasun ez-kutsakorra,Enfermedad no transmisible,NCD,1,5
-Ocupacion,Okupazioa,Ocupacion,Ocupacion,1,3
-PM,Partikula esekiak,Partículas en suspensión,PM,2,2
-Pobreza,Pobreziaren dimentsioa,Dimensión de la pobreza,Pobreza,1,3
-Profesion,Lanbidea,Profesión,Profesion,1,4
-Residencia,Egoitza,Residencia,Residencia,1,1
+Actividad,Jarduera ekonomikoa,Actividad económica,Economic activity,1,2
+Adiccion,Substantzia adiktiboa,Sustancia adictiva,Addictive substance,1,3
+Administracion,Administrazio publikoa,Administración pública,Public administration,1,3
+Alimento,Elikagaiak,Alimento,Food,1,8
+Comarca,Eskualdea,Comarca,County,17,20
+Competencia,Konpetentzia,Tipo de competencia,Type of skill,2,4
+Discapacidad,Desgaitasunik ez duten pertsonak,Personas sin y con discapacidad,People with and without disabilities,2,2
+Ecosistema,Ekosistema,Ecosistema,Ecosystem,1,6
+Edad,Adina,Edad,Age,9,15
+Educacion,Hezkuntza-maila,Nivel educativo,Educational level,2,4
+EmpCont,Kontratu mota,Tipo de contrato,Type of contract,1,2
+Energia,Teknologia berriztagarri mota,Tipo de tecnología renovable,Type of renewable technology,2,4
+Explotacion,Ustiategi mota,Tipo de explotación,Type of operation,1,5
+Gasto,Gastua,Gasto,Expenditure,1,2
+Habilidad_IT,Trebetasun informatikoa,Habilidad informática,Computer skills,1,8
+Ingreso_cuantil,Diru-sarreren taldea,Grupo de ingresos,Income group,1,1
+Institucion,Erakundea,Institución,Institution,2,19
+Municipio,Udalerria,Municipio,Municipality,17,252
+NCD,Gaixotasun ez-kutsakorra,Enfermedad no transmisible,Non-communicable disease,1,5
+Ocupacion,Okupazioa,Ocupacion,Occupation,1,3
+PM,Partikula esekiak,Partículas en suspensión,Suspended particles,2,2
+Pobreza,Pobreziaren dimentsioa,Dimensión de la pobreza,Dimension of poverty,1,3
+Profesion,Lanbidea,Profesión,Profession,1,4
+Residencia,Egoitza,Residencia,Residence,1,1
 Series,Seriea,Serie,Series,71,125
-ServBasico,Oinarrizko zerbitzuak,Servicios básicos,ServBasico,1,5
-ServEsencial,Funtsezko zerbitzuak,Servicios esenciales,ServEsencial,1,3
-ServPub,Zerbitzu publikoak,Servicios públicos,ServPub,1,9
-Sexo,Sexua,Sexo,Sexo,45,2
-Tenencia,Jabetza mota,Tipo de tenencia,Tenencia,1,2
-Territorio,Lurralde historikoa,Territorio histórico,Territorio,75,3
-Tratamiento,Hondakinen tratamendua,Operación de tratamiento de residuos,Tratamiento,2,4
-Units,Unitatea,Unidad,Units,149,41
-Vacuna,Txerto mota,Tipo de vacuna,Vacuna,1,4
-Velocidad,Teknologia,Tecnología de acceso,Velocidad,1,4
+ServBasico,Oinarrizko zerbitzuak,Servicios básicos,Basic services,1,5
+ServEsencial,Funtsezko zerbitzuak,Servicios esenciales,Essential services,1,3
+ServPub,Zerbitzu publikoak,Servicios públicos,Public services,1,9
+Sexo,Sexua,Sexo,Sex,45,2
+Tenencia,Jabetza mota,Tipo de tenencia,Type of tenure,1,2
+Territorio,Lurralde historikoa,Territorio histórico,Province,75,3
+Tratamiento,Hondakinen tratamendua,Operación de tratamiento de residuos,Waste treatment operation,2,4
+Units,Unitatea,Unidad,Unit,149,41
+Vacuna,Txerto mota,Tipo de vacuna,Type of vaccine,1,4
+Velocidad,Teknologia,Tecnología de acceso,Access technology,1,4

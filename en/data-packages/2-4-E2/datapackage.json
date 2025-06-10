@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_SDG_02_60_KG_PER_HA",
-                "EU_SDG_02_60_KT",
+                "Ammonia emissions from agriculture and livestock per hectare",
+                "Ammonia emissions from agriculture and livestock",
                 ""
               ]
             },
@@ -32,24 +32,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NFR_3DF",
-                "NFR_3B",
+                "Agriculture",
+                "Livestock",
                 ""
               ]
             },
-            "title": "Actividad"
+            "title": "Economic activity"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "KG_PER_HA",
-                "KT",
+                "Kg per hectare",
+                "Kilotons",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

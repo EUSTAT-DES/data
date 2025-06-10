@@ -20,26 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SE_ACS_ELECT",
-                "SE_ACS_CMPTR",
-                "SE_ACS_H2O",
-                "SE_ACS_SANIT",
-                "SE_ACS_HNDWSH",
+                "Electricity",
+                "Internet connection",
+                "Drinking water",
+                "Single-sex restrooms",
+                "Handwashing",
                 ""
               ]
             },
-            "title": "ServBasico"
+            "title": "Basic services"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

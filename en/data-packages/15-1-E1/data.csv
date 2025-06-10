@@ -1,43 +1,43 @@
-Year,Series,Ecosistema,Units,Value
-2018,EU_SDG_15_20_KM2,,KM2,1713.6
-2021,EU_SDG_15_20_KM2,,KM2,1714.1
-2015,EU_SDG_15_20_KM2,,KM2,1698.7
-2015,EU_SDG_15_20_KM2,LC_TRE,KM2,1138.9
-2021,EU_SDG_15_20_KM2,LC_TRE,KM2,1147.5
-2018,EU_SDG_15_20_KM2,LC_TRE,KM2,1147.4
-2021,EU_SDG_15_20_KM2,LC_WL,KM2,37.8
-2015,EU_SDG_15_20_KM2,LC_WL,KM2,37.5
-2018,EU_SDG_15_20_KM2,LC_WL,KM2,37.6
-2015,EU_SDG_15_20_KM2,LC_GRS,KM2,429.0
-2021,EU_SDG_15_20_KM2,LC_GRS,KM2,432.2
-2018,EU_SDG_15_20_KM2,LC_GRS,KM2,432.1
-2021,EU_SDG_15_20_KM2,LC_CRP,KM2,35.9
-2018,EU_SDG_15_20_KM2,LC_CRP,KM2,35.9
-2015,EU_SDG_15_20_KM2,LC_CRP,KM2,32.5
-2015,EU_SDG_15_20_KM2,LC_ART,KM2,14.8
-2021,EU_SDG_15_20_KM2,LC_ART,KM2,14.8
-2018,EU_SDG_15_20_KM2,LC_ART,KM2,14.8
-2021,EU_SDG_15_20_KM2,LC_OL,KM2,45.9
-2015,EU_SDG_15_20_KM2,LC_OL,KM2,46.0
-2018,EU_SDG_15_20_KM2,LC_OL,KM2,45.9
-2015,EU_SDG_15_20_PT,,PT,23.5
-2018,EU_SDG_15_20_PT,,PT,23.7
-2021,EU_SDG_15_20_PT,,PT,23.7
-2015,EU_SDG_15_20_PT,LC_TRE,PT,28.7
-2018,EU_SDG_15_20_PT,LC_TRE,PT,28.9
-2021,EU_SDG_15_20_PT,LC_TRE,PT,28.9
-2018,EU_SDG_15_20_PT,LC_WL,PT,70.6
-2021,EU_SDG_15_20_PT,LC_WL,PT,70.9
-2015,EU_SDG_15_20_PT,LC_WL,PT,70.4
-2021,EU_SDG_15_20_PT,LC_GRS,PT,24.2
-2018,EU_SDG_15_20_PT,LC_GRS,PT,24.2
-2015,EU_SDG_15_20_PT,LC_GRS,PT,24.0
-2021,EU_SDG_15_20_PT,LC_CRP,PT,4.1
-2018,EU_SDG_15_20_PT,LC_CRP,PT,4.1
-2015,EU_SDG_15_20_PT,LC_CRP,PT,3.7
-2021,EU_SDG_15_20_PT,LC_ART,PT,3.2
-2015,EU_SDG_15_20_PT,LC_ART,PT,3.2
-2018,EU_SDG_15_20_PT,LC_ART,PT,3.2
-2021,EU_SDG_15_20_PT,LC_OL,PT,70.6
-2018,EU_SDG_15_20_PT,LC_OL,PT,70.6
-2015,EU_SDG_15_20_PT,LC_OL,PT,70.5
+Year,Series,Ecosystem,Units,Value
+2018,Area of protected terrestrial areas (km2),,Square kilometers,1713.6
+2021,Area of protected terrestrial areas (km2),,Square kilometers,1714.1
+2015,Area of protected terrestrial areas (km2),,Square kilometers,1698.7
+2015,Area of protected terrestrial areas (km2),Forests,Square kilometers,1138.9
+2021,Area of protected terrestrial areas (km2),Forests,Square kilometers,1147.5
+2018,Area of protected terrestrial areas (km2),Forests,Square kilometers,1147.4
+2021,Area of protected terrestrial areas (km2),Wetlands,Square kilometers,37.8
+2015,Area of protected terrestrial areas (km2),Wetlands,Square kilometers,37.5
+2018,Area of protected terrestrial areas (km2),Wetlands,Square kilometers,37.6
+2015,Area of protected terrestrial areas (km2),Grasslands,Square kilometers,429.0
+2021,Area of protected terrestrial areas (km2),Grasslands,Square kilometers,432.2
+2018,Area of protected terrestrial areas (km2),Grasslands,Square kilometers,432.1
+2021,Area of protected terrestrial areas (km2),Croplands,Square kilometers,35.9
+2018,Area of protected terrestrial areas (km2),Croplands,Square kilometers,35.9
+2015,Area of protected terrestrial areas (km2),Croplands,Square kilometers,32.5
+2015,Area of protected terrestrial areas (km2),Settlements,Square kilometers,14.8
+2021,Area of protected terrestrial areas (km2),Settlements,Square kilometers,14.8
+2018,Area of protected terrestrial areas (km2),Settlements,Square kilometers,14.8
+2021,Area of protected terrestrial areas (km2),Other lands,Square kilometers,45.9
+2015,Area of protected terrestrial areas (km2),Other lands,Square kilometers,46.0
+2018,Area of protected terrestrial areas (km2),Other lands,Square kilometers,45.9
+2015,Proportion of protected terrestrial area relative to terrestrial area,,%,23.5
+2018,Proportion of protected terrestrial area relative to terrestrial area,,%,23.7
+2021,Proportion of protected terrestrial area relative to terrestrial area,,%,23.7
+2015,Proportion of protected terrestrial area relative to terrestrial area,Forests,%,28.7
+2018,Proportion of protected terrestrial area relative to terrestrial area,Forests,%,28.9
+2021,Proportion of protected terrestrial area relative to terrestrial area,Forests,%,28.9
+2018,Proportion of protected terrestrial area relative to terrestrial area,Wetlands,%,70.6
+2021,Proportion of protected terrestrial area relative to terrestrial area,Wetlands,%,70.9
+2015,Proportion of protected terrestrial area relative to terrestrial area,Wetlands,%,70.4
+2021,Proportion of protected terrestrial area relative to terrestrial area,Grasslands,%,24.2
+2018,Proportion of protected terrestrial area relative to terrestrial area,Grasslands,%,24.2
+2015,Proportion of protected terrestrial area relative to terrestrial area,Grasslands,%,24.0
+2021,Proportion of protected terrestrial area relative to terrestrial area,Croplands,%,4.1
+2018,Proportion of protected terrestrial area relative to terrestrial area,Croplands,%,4.1
+2015,Proportion of protected terrestrial area relative to terrestrial area,Croplands,%,3.7
+2021,Proportion of protected terrestrial area relative to terrestrial area,Settlements,%,3.2
+2015,Proportion of protected terrestrial area relative to terrestrial area,Settlements,%,3.2
+2018,Proportion of protected terrestrial area relative to terrestrial area,Settlements,%,3.2
+2021,Proportion of protected terrestrial area relative to terrestrial area,Other lands,%,70.6
+2018,Proportion of protected terrestrial area relative to terrestrial area,Other lands,%,70.6
+2015,Proportion of protected terrestrial area relative to terrestrial area,Other lands,%,70.5

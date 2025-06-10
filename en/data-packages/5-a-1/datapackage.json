@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SP_LGL_LNDAGSEC",
-                "SP_GNP_WNOWNS",
+                "Proportion of the total agricultural population with property rights or secure rights to agricultural land",
+                "Proportion of women among owners or holders of rights to agricultural land, by tenure type",
                 ""
               ]
             },
@@ -32,48 +32,48 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sex"
           },
           {
             "name": "Tenencia",
             "type": "string",
             "constraints": {
               "enum": [
-                "PROP",
-                "RENT",
+                "Owned",
+                "Rented",
                 ""
               ]
             },
-            "title": "Tenencia"
+            "title": "Type of tenure"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

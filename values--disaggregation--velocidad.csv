@@ -1,5 +1,5 @@
 Value,eu,es,en,Disaggregation combinations using this value,Number of indicators
-NET_DSL,DSL,DSL,NET_DSL,4,1
-NET_FTTH,Zuntz optikoko kablea (FTTH),Fibra óptica (FTTH),NET_FTTH,4,1
-NET_HFC,"Zuntz hibridoa, kable ardazkidea (HFC)",Híbrido de Fibra Coaxial (HFC),NET_HFC,4,1
-NET_OTHER,Beste teknologia batzuk,Otra tecnología,NET_OTHER,4,1
+NET_DSL,DSL,DSL,DSL,4,1
+NET_FTTH,Zuntz optikoko kablea (FTTH),Fibra óptica (FTTH),Fiber optic cable (FTTH),4,1
+NET_HFC,"Zuntz hibridoa, kable ardazkidea (HFC)",Híbrido de Fibra Coaxial (HFC),Hybrid fiber-coaxial cable (HFC),4,1
+NET_OTHER,Beste teknologia batzuk,Otra tecnología,Other technology,4,1

@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_MAT_DOMCMPT",
-                "EN_MAT_DOMCMPC",
-                "EN_MAT_DOMCMPG",
+                "Domestic material consumption in absolute terms",
+                "Domestic material consumption per capita",
+                "Domestic material consumption per GDP",
                 ""
               ]
             },
@@ -33,13 +33,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KT",
-                "T_PER_CAPITA",
-                "KG_PER_GDP_1000_EUR",
+                "Kilotons",
+                "Tons per capita",
+                "Kg per euro of GDP",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

@@ -20,38 +20,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NET_DSL",
-                "NET_FTTH",
-                "NET_HFC",
-                "NET_OTHER",
+                "DSL",
+                "Fiber optic cable (FTTH)",
+                "Hybrid fiber-coaxial cable (HFC)",
+                "Other technology",
                 ""
               ]
             },
-            "title": "Velocidad"
+            "title": "Access technology"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100_POP",
+                "Per 100 people",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

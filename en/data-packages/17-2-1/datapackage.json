@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_ODA_EUR",
-                "EU_ODA_GDP",
+                "Net Official Development Aid from regional and local governments",
+                "Net Official Development Aid from regional and local governments as a proportion of GDP",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EUR_1000000",
-                "PT",
+                "Millions of euros",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_CNCR_CCR",
-                "EU_CNCR_BCI",
+                "Colorectal cancer",
+                "Breast cancer",
                 ""
               ]
             },
@@ -32,23 +32,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sex"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

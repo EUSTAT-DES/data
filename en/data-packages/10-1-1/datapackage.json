@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UE_HEI_HE",
-                "UE_HEI_HI",
+                "Growth rate of household expenditure per capita",
+                "Growth rate of household income per capita",
                 ""
               ]
             },
@@ -32,35 +32,35 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "B40",
+                "The poorest 40%",
                 ""
               ]
             },
-            "title": "Ingreso_cuantil"
+            "title": "Income group"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

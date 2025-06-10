@@ -1,5 +1,5 @@
 Value,eu,es,en,Disaggregation combinations using this value,Number of indicators
-WT_INCINRT,"Errausketa, energia berreskurapenik gabe",Incineración sin recuperación de energía,WT_INCINRT,4,1
-WT_INCINRT_EGY,"Errausketa, energia berreskurapenarekin",Incineración con recuperación de energía,WT_INCINRT_EGY,8,2
-WT_LANDFIL,Zabortegia,Depósito en vertedero,WT_LANDFIL,8,2
-WT_RECYC,Birziklatzea,Reciclaje,WT_RECYC,8,2
+WT_INCINRT,"Errausketa, energia berreskurapenik gabe",Incineración sin recuperación de energía,Incineration without energy recovery,4,1
+WT_INCINRT_EGY,"Errausketa, energia berreskurapenarekin",Incineración con recuperación de energía,Incineration with energy recovery,8,2
+WT_LANDFIL,Zabortegia,Depósito en vertedero,Landfill,8,2
+WT_RECYC,Birziklatzea,Reciclaje,Recycling,8,2

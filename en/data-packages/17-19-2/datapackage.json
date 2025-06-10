@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SG_REG_CENSUSN",
-                "SG_REG_BRTH100N",
+                "At least one population and housing census has been conducted in the last ten years.",
+                "100% of births and at least 80% of deaths have been registered.",
                 ""
               ]
             },
@@ -32,11 +32,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BOOL_YES_NO",
+                "Logic (1=Yes, 0=No)",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

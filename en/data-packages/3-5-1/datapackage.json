@@ -20,36 +20,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "DRUG_TOTAL",
-                "ALCOHOL",
-                "ILDRUGS",
+                "All addictive substances",
+                "Alcohol",
+                "Illegal drugs",
                 ""
               ]
             },
-            "title": "Adiccion"
+            "title": "Addictive substance"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sex"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000",
+                "Per 100,000",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

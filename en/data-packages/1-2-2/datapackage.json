@@ -20,36 +20,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NAHC",
-                "SMSD",
-                "VLWI",
+                "Risk of poverty (monetary)",
+                "Severe material and social deprivation",
+                "Low work intensity",
                 ""
               ]
             },
-            "title": "Pobreza"
+            "title": "Dimension of poverty"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sex"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

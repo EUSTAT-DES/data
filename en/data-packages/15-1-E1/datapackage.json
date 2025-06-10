@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_SDG_15_20_KM2",
-                "EU_SDG_15_20_PT",
+                "Area of protected terrestrial areas (km2)",
+                "Proportion of protected terrestrial area relative to terrestrial area",
                 ""
               ]
             },
@@ -32,28 +32,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LC_TRE",
-                "LC_WL",
-                "LC_GRS",
-                "LC_CRP",
-                "LC_ART",
-                "LC_OL",
+                "Forests",
+                "Wetlands",
+                "Grasslands",
+                "Croplands",
+                "Settlements",
+                "Other lands",
                 ""
               ]
             },
-            "title": "Ecosistema"
+            "title": "Ecosystem"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "KM2",
-                "PT",
+                "Square kilometers",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

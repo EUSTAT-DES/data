@@ -20,67 +20,67 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ICT",
-                "ICTCPT",
-                "ICTPST",
-                "ICTSSHT",
-                "ICTPRGM",
-                "ICTTRFF",
-                "ICTSFWR",
-                "ICTPRVCY",
+                "at least one of the computer skills",
+                "Copying or moving files or folders",
+                "Creating presentations or documents that integrate text, images, tables, or graphs",
+                "Using spreadsheets",
+                "Programming in a programming language",
+                "Transferring files between the computer and other devices (digital cameras, mobile phones, MP3 or MP4 players)",
+                "Installing software or applications (apps)",
+                "Changing the settings of any software, including the operating system and security programs",
                 ""
               ]
             },
-            "title": "Habilidad_IT"
+            "title": "Computer skills"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sex"
           },
           {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y16T24",
-                "Y16T74",
-                "Y25T74",
+                "16-24 years",
+                "16-74 years",
+                "25-74 years",
                 ""
               ]
             },
-            "title": "Edad"
+            "title": "Age"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

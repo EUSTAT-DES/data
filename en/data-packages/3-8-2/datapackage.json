@@ -20,23 +20,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_XPD_EARN25",
-                "SH_XPD_EARN10",
+                "Over 25%",
+                "Over 10%",
                 ""
               ]
             },
-            "title": "Gasto"
+            "title": "Expenditure"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

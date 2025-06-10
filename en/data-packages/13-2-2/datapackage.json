@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_ATM_GHGT_AIP",
-                "EN_ATM_GHGGDP",
-                "EN_ATM_GHGPC",
-                "EU_GHG_TV1990",
-                "EU_GHG_TV2005",
+                "Total greenhouse gas emissions per year",
+                "Total greenhouse gas emissions per unit of GDP",
+                "Total greenhouse gas emissions per capita",
+                "Greenhouse gas emissions compared to 1990",
+                "Greenhouse gas emissions compared to 2005",
                 ""
               ]
             },
@@ -35,14 +35,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TCO2E",
-                "KG_CO2_PER_GDP_EUR",
-                "T_CO2_PER_CAPITA",
-                "PT",
+                "Tons of CO2 equivalent",
+                "Kg of CO2 equivalent per euro of GDP",
+                "Tons of CO2 equivalent per capita",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

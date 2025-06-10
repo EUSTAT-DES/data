@@ -1,44 +1,44 @@
-Year,Explotacion,Units,Value
-2021,EU_HTF_DETVFL,PER_100000,0.0
-2016,EU_HTF_DETVFL,PER_100000,0.0
-2023,EU_HTF_DETVFL,PER_100000,0.8
-2017,VC_HTF_DETVOGR,PER_100000,0.0
-2022,EU_HTF_DETVFL,PER_100000,0.0
-2020,EU_HTF_DETVFL,PER_100000,0.1
-2020,VC_HTF_DETVOGR,PER_100000,0.0
-2019,VC_HTF_DETVOGR,PER_100000,0.0
-2017,EU_HTF_DETVFL,PER_100000,0.0
-2015,EU_HTF_DETVFL,PER_100000,0.0
-2019,EU_HTF_DETVFL,PER_100000,0.0
-2018,EU_HTF_DETVFL,PER_100000,0.0
-2018,VC_HTF_DETVOGR,PER_100000,0.0
-2016,VC_HTF_DETVOGR,PER_100000,0.0
-2021,VC_HTF_DETVOGR,PER_100000,0.0
-2023,EU_HTF_DETVR,PER_100000,1.5
-2019,EU_HTF_DETVR,PER_100000,0.8
-2017,EU_HTF_DETVR,PER_100000,0.1
-2018,EU_HTF_DETVR,PER_100000,0.0
-2020,EU_HTF_DETVR,PER_100000,0.5
-2021,EU_HTF_DETVR,PER_100000,0.0
-2022,EU_HTF_DETVR,PER_100000,0.2
-2016,EU_HTF_DETVR,PER_100000,0.0
-2012,EU_HTF_DETVSXR,PER_100000,0.1
-2015,EU_HTF_DETVSXR,PER_100000,0.1
-2013,EU_HTF_DETVSXR,PER_100000,0.4
-2014,EU_HTF_DETVSXR,PER_100000,0.0
-2016,EU_HTF_DETVSXR,PER_100000,0.0
-2017,EU_HTF_DETVSXR,PER_100000,0.1
-2021,EU_HTF_DETVSXR,PER_100000,0.0
-2018,EU_HTF_DETVSXR,PER_100000,0.0
-2020,EU_HTF_DETVSXR,PER_100000,0.4
-2022,EU_HTF_DETVSXR,PER_100000,0.2
-2019,EU_HTF_DETVSXR,PER_100000,0.8
-2023,EU_HTF_DETVSXR,PER_100000,0.7
-2017,VC_HTF_DETVOP,PER_100000,0.0
-2018,VC_HTF_DETVOP,PER_100000,0.0
-2019,VC_HTF_DETVOP,PER_100000,0.0
-2016,VC_HTF_DETVOP,PER_100000,0.0
-2023,VC_HTF_DETVOP,PER_100000,0.0
-2020,VC_HTF_DETVOP,PER_100000,0.0
-2021,VC_HTF_DETVOP,PER_100000,0.0
-2022,VC_HTF_DETVOP,PER_100000,0.0
+Year,Type of operation,Units,Value
+2021,"Forced labor, servitude, and slavery","Per 100,000",0.0
+2016,"Forced labor, servitude, and slavery","Per 100,000",0.0
+2023,"Forced labor, servitude, and slavery","Per 100,000",0.8
+2017,Organ procurement,"Per 100,000",0.0
+2022,"Forced labor, servitude, and slavery","Per 100,000",0.0
+2020,"Forced labor, servitude, and slavery","Per 100,000",0.1
+2020,Organ procurement,"Per 100,000",0.0
+2019,Organ procurement,"Per 100,000",0.0
+2017,"Forced labor, servitude, and slavery","Per 100,000",0.0
+2015,"Forced labor, servitude, and slavery","Per 100,000",0.0
+2019,"Forced labor, servitude, and slavery","Per 100,000",0.0
+2018,"Forced labor, servitude, and slavery","Per 100,000",0.0
+2018,Organ procurement,"Per 100,000",0.0
+2016,Organ procurement,"Per 100,000",0.0
+2021,Organ procurement,"Per 100,000",0.0
+2023,Human trafficking (all purposes),"Per 100,000",1.5
+2019,Human trafficking (all purposes),"Per 100,000",0.8
+2017,Human trafficking (all purposes),"Per 100,000",0.1
+2018,Human trafficking (all purposes),"Per 100,000",0.0
+2020,Human trafficking (all purposes),"Per 100,000",0.5
+2021,Human trafficking (all purposes),"Per 100,000",0.0
+2022,Human trafficking (all purposes),"Per 100,000",0.2
+2016,Human trafficking (all purposes),"Per 100,000",0.0
+2012,Sexual exploitation,"Per 100,000",0.1
+2015,Sexual exploitation,"Per 100,000",0.1
+2013,Sexual exploitation,"Per 100,000",0.4
+2014,Sexual exploitation,"Per 100,000",0.0
+2016,Sexual exploitation,"Per 100,000",0.0
+2017,Sexual exploitation,"Per 100,000",0.1
+2021,Sexual exploitation,"Per 100,000",0.0
+2018,Sexual exploitation,"Per 100,000",0.0
+2020,Sexual exploitation,"Per 100,000",0.4
+2022,Sexual exploitation,"Per 100,000",0.2
+2019,Sexual exploitation,"Per 100,000",0.8
+2023,Sexual exploitation,"Per 100,000",0.7
+2017,Other purposes,"Per 100,000",0.0
+2018,Other purposes,"Per 100,000",0.0
+2019,Other purposes,"Per 100,000",0.0
+2016,Other purposes,"Per 100,000",0.0
+2023,Other purposes,"Per 100,000",0.0
+2020,Other purposes,"Per 100,000",0.0
+2021,Other purposes,"Per 100,000",0.0
+2022,Other purposes,"Per 100,000",0.0

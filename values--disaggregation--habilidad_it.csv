@@ -1,9 +1,9 @@
 Value,eu,es,en,Disaggregation combinations using this value,Number of indicators
-ICT,Trebetasun informatikoren bat behintzat,Alguna habilidad informática,ICT,36,1
-ICTCPT,Fitxategiak edo karpetak kopiatu edo mugitu,Copiar o mover ficheros o carpetas,ICTCPT,36,1
-ICTPRGM,Programazio-lengoaia batean programatzea,Programar en un lenguaje de programación,ICTPRGM,36,1
-ICTPRVCY,"Edozein softwareren konfigurazioa aldatzea, sistema eragilea eta segurtasun-programak barne","Cambiar la configuración de cualquier software, incluídos el sistema operativo y los programas de seguridad",ICTPRVCY,36,1
-ICTPST,"Testua, irudiak, taulak edo grafikoak osatzen dituzten aurkezpenak edo dokumentuak sortzea","Crear presentaciones o documentos que integren texto, imágenes, tablas o gráficos",ICTPST,36,1
-ICTSFWR,Softwarea edo aplikazioak instalatzea (app-ak),Instalar software o aplicaciones(apps),ICTSFWR,36,1
-ICTSSHT,Kalkulu-orriak erabiltzea,Usar hojas de cálculo,ICTSSHT,36,1
-ICTTRFF,"Fitxategiak ordenagailuaren eta beste gailu batzuen artean transferitzea (kamera digitalak, telefono mugikorrak, mp3 edo mp4)","Transferir ficheros entre el ordenador y otros dispositivos (cámaras digitales, teléfonos móviles, mp3 o mp4)",ICTTRFF,36,1
+ICT,Trebetasun informatikoren bat behintzat,Alguna habilidad informática,at least one of the computer skills,36,1
+ICTCPT,Fitxategiak edo karpetak kopiatu edo mugitu,Copiar o mover ficheros o carpetas,Copying or moving files or folders,36,1
+ICTPRGM,Programazio-lengoaia batean programatzea,Programar en un lenguaje de programación,Programming in a programming language,36,1
+ICTPRVCY,"Edozein softwareren konfigurazioa aldatzea, sistema eragilea eta segurtasun-programak barne","Cambiar la configuración de cualquier software, incluídos el sistema operativo y los programas de seguridad","Changing the settings of any software, including the operating system and security programs",36,1
+ICTPST,"Testua, irudiak, taulak edo grafikoak osatzen dituzten aurkezpenak edo dokumentuak sortzea","Crear presentaciones o documentos que integren texto, imágenes, tablas o gráficos","Creating presentations or documents that integrate text, images, tables, or graphs",36,1
+ICTSFWR,Softwarea edo aplikazioak instalatzea (app-ak),Instalar software o aplicaciones(apps),Installing software or applications (apps),36,1
+ICTSSHT,Kalkulu-orriak erabiltzea,Usar hojas de cálculo,Using spreadsheets,36,1
+ICTTRFF,"Fitxategiak ordenagailuaren eta beste gailu batzuen artean transferitzea (kamera digitalak, telefono mugikorrak, mp3 edo mp4)","Transferir ficheros entre el ordenador y otros dispositivos (cámaras digitales, teléfonos móviles, mp3 o mp4)","Transferring files between the computer and other devices (digital cameras, mobile phones, MP3 or MP4 players)",36,1

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_ATM_PM25",
+                "Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population)",
                 ""
               ]
             },
@@ -31,23 +31,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PM25",
-                "PM10",
+                "PM 2.5",
+                "PM 10",
                 ""
               ]
             },
-            "title": "PM"
+            "title": "Suspended particles"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "GPERM3",
+                "Micrograms per cubic meter",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

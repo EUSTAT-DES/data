@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_ATM_CO2GDP",
-                "EN_ATM_CO2MVA",
+                "CO2 emissions per unit of value added",
+                "CO2 emissions from the manufacturing sector per unit of manufacturing value added",
                 ""
               ]
             },
@@ -32,11 +32,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KG_CO2_PER_GDP_EUR",
+                "Kg of CO2 equivalent per euro of GDP",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

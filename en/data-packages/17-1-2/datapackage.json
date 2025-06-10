@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_GOB_TAX",
-                "EU_GOB_TAX_NOFIN",
+                "Proportion of regional and local government revenue from taxes",
+                "Proportion of non-financial revenue of government Regional and local governments from taxes",
                 ""
               ]
             },
@@ -32,11 +32,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

@@ -1,7 +1,7 @@
 Value,eu,es,en,Disaggregation combinations using this value,Number of indicators
-LC_ART,Asentamenduak,Asentamientos,LC_ART,2,1
-LC_CRP,Laborantza-lurrak,Tierras de cultivo,LC_CRP,2,1
-LC_GRS,Larreak,Pastizales,LC_GRS,2,1
-LC_OL,Beste lur batzuk,Otras tierras,LC_OL,2,1
-LC_TRE,Basoak,Bosques,LC_TRE,2,1
-LC_WL,Hezeguneak,Humedales,LC_WL,2,1
+LC_ART,Asentamenduak,Asentamientos,Settlements,2,1
+LC_CRP,Laborantza-lurrak,Tierras de cultivo,Croplands,2,1
+LC_GRS,Larreak,Pastizales,Grasslands,2,1
+LC_OL,Beste lur batzuk,Otras tierras,Other lands,2,1
+LC_TRE,Basoak,Bosques,Forests,2,1
+LC_WL,Hezeguneak,Humedales,Wetlands,2,1

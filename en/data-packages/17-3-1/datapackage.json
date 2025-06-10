@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_FRN_FDI_EUR",
-                "EU_FRN_FDI_GDP",
+                "Net direct investment in countries receiving Official Development Assistance",
+                "Net direct investment in countries receiving Official Development Assistance as a proportion of GDP",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EUR_1000000",
-                "PT",
+                "Millions of euros",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

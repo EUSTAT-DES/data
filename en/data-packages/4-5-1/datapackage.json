@@ -20,10 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_GPI_TRN",
-                "EU_SESPI",
-                "EU_RUPI_TRN",
-                "EU_PI_HEALTH",
+                "Gender Parity Index",
+                "Income parity index (top and bottom quintiles)",
+                "Location Parity Index (municipalities with more than and less than 10,000 inhabitants) inhabitants)",
+                "Health Parity Index",
                 ""
               ]
             },
@@ -34,48 +34,48 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sex"
           },
           {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y15T64",
-                "Y18T64",
+                "15-64 years",
+                "18-64 years",
                 ""
               ]
             },
-            "title": "Edad"
+            "title": "Age"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "RO",
+                "Ratio",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

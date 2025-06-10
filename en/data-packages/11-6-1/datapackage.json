@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_W_GENPCAP",
-                "EN_REF_WASCOL",
-                "EN_MWT_TREATV",
+                "Urban waste collected per capita",
+                "Proportion of municipal waste collected and managed in controlled facilities",
+                "Proportion of municipal waste treated, broken down by treatment type",
                 ""
               ]
             },
@@ -33,38 +33,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "WT_RECYC",
-                "WT_INCINRT_EGY",
-                "WT_LANDFIL",
+                "Recycling",
+                "Incineration with energy recovery",
+                "Landfill",
                 ""
               ]
             },
-            "title": "Tratamiento"
+            "title": "Waste treatment operation"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "KG_PER_CAPITA",
-                "PT",
+                "Kg per capita",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

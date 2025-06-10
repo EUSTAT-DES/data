@@ -1,57 +1,57 @@
-Year,Series,Territorio,Units,Value
-2018,SI_AGR_SSFP,,CON_EUR,7612.6
-2020,SI_AGR_SSFP,,CON_EUR,3757.6
-2019,SI_AGR_SSFP,,CON_EUR,7899.9
-2016,SI_AGR_SSFP,,CON_EUR,8479.1
-2015,SI_AGR_SSFP,,CON_EUR,7680.2
-2017,SI_AGR_SSFP,,CON_EUR,6744.6
-2021,SI_AGR_SSFP,,CON_EUR,4033.8
-2016,SI_AGR_SSFP,ES211,CON_EUR,17907.0
-2021,SI_AGR_SSFP,ES211,CON_EUR,7234.3
-2017,SI_AGR_SSFP,ES211,CON_EUR,12241.1
-2019,SI_AGR_SSFP,ES211,CON_EUR,12267.3
-2020,SI_AGR_SSFP,ES211,CON_EUR,7637.6
-2018,SI_AGR_SSFP,ES211,CON_EUR,14879.2
-2015,SI_AGR_SSFP,ES211,CON_EUR,18898.2
-2018,SI_AGR_SSFP,ES213,CON_EUR,7334.5
-2015,SI_AGR_SSFP,ES213,CON_EUR,6274.2
-2017,SI_AGR_SSFP,ES213,CON_EUR,5406.1
-2019,SI_AGR_SSFP,ES213,CON_EUR,11525.0
-2016,SI_AGR_SSFP,ES213,CON_EUR,7118.4
-2021,SI_AGR_SSFP,ES213,CON_EUR,5118.8
-2020,SI_AGR_SSFP,ES213,CON_EUR,7641.5
-2015,SI_AGR_SSFP,ES212,CON_EUR,4877.0
-2021,SI_AGR_SSFP,ES212,CON_EUR,2926.6
-2018,SI_AGR_SSFP,ES212,CON_EUR,6386.2
-2020,SI_AGR_SSFP,ES212,CON_EUR,1816.6
-2017,SI_AGR_SSFP,ES212,CON_EUR,6196.0
-2019,SI_AGR_SSFP,ES212,CON_EUR,5670.4
-2016,SI_AGR_SSFP,ES212,CON_EUR,6939.4
-2018,SI_AGR_LSFP,,CON_EUR,15931.4
-2015,SI_AGR_LSFP,,CON_EUR,13529.1
-2019,SI_AGR_LSFP,,CON_EUR,17862.3
-2020,SI_AGR_LSFP,,CON_EUR,16492.3
-2021,SI_AGR_LSFP,,CON_EUR,18226.4
-2017,SI_AGR_LSFP,,CON_EUR,19387.5
-2016,SI_AGR_LSFP,,CON_EUR,15834.3
-2016,SI_AGR_LSFP,ES211,CON_EUR,17472.5
-2015,SI_AGR_LSFP,ES211,CON_EUR,9404.4
-2020,SI_AGR_LSFP,ES211,CON_EUR,20197.8
-2018,SI_AGR_LSFP,ES211,CON_EUR,18254.9
-2017,SI_AGR_LSFP,ES211,CON_EUR,19983.4
-2019,SI_AGR_LSFP,ES211,CON_EUR,22051.5
-2021,SI_AGR_LSFP,ES211,CON_EUR,33766.7
-2021,SI_AGR_LSFP,ES213,CON_EUR,14025.1
-2020,SI_AGR_LSFP,ES213,CON_EUR,20190.1
-2018,SI_AGR_LSFP,ES213,CON_EUR,12988.9
-2015,SI_AGR_LSFP,ES213,CON_EUR,14542.8
-2017,SI_AGR_LSFP,ES213,CON_EUR,18102.8
-2016,SI_AGR_LSFP,ES213,CON_EUR,15362.7
-2019,SI_AGR_LSFP,ES213,CON_EUR,17973.2
-2021,SI_AGR_LSFP,ES212,CON_EUR,11246.8
-2015,SI_AGR_LSFP,ES212,CON_EUR,15465.7
-2019,SI_AGR_LSFP,ES212,CON_EUR,15346.9
-2018,SI_AGR_LSFP,ES212,CON_EUR,15629.8
-2017,SI_AGR_LSFP,ES212,CON_EUR,19512.8
-2016,SI_AGR_LSFP,ES212,CON_EUR,15024.3
-2020,SI_AGR_LSFP,ES212,CON_EUR,13018.2
+Year,Series,Province,Units,Value
+2018,Average income of small food producers,,Constant euros,7612.6
+2020,Average income of small food producers,,Constant euros,3757.6
+2019,Average income of small food producers,,Constant euros,7899.9
+2016,Average income of small food producers,,Constant euros,8479.1
+2015,Average income of small food producers,,Constant euros,7680.2
+2017,Average income of small food producers,,Constant euros,6744.6
+2021,Average income of small food producers,,Constant euros,4033.8
+2016,Average income of small food producers,Araba/Álava,Constant euros,17907.0
+2021,Average income of small food producers,Araba/Álava,Constant euros,7234.3
+2017,Average income of small food producers,Araba/Álava,Constant euros,12241.1
+2019,Average income of small food producers,Araba/Álava,Constant euros,12267.3
+2020,Average income of small food producers,Araba/Álava,Constant euros,7637.6
+2018,Average income of small food producers,Araba/Álava,Constant euros,14879.2
+2015,Average income of small food producers,Araba/Álava,Constant euros,18898.2
+2018,Average income of small food producers,Bizkaia,Constant euros,7334.5
+2015,Average income of small food producers,Bizkaia,Constant euros,6274.2
+2017,Average income of small food producers,Bizkaia,Constant euros,5406.1
+2019,Average income of small food producers,Bizkaia,Constant euros,11525.0
+2016,Average income of small food producers,Bizkaia,Constant euros,7118.4
+2021,Average income of small food producers,Bizkaia,Constant euros,5118.8
+2020,Average income of small food producers,Bizkaia,Constant euros,7641.5
+2015,Average income of small food producers,Gipuzkoa,Constant euros,4877.0
+2021,Average income of small food producers,Gipuzkoa,Constant euros,2926.6
+2018,Average income of small food producers,Gipuzkoa,Constant euros,6386.2
+2020,Average income of small food producers,Gipuzkoa,Constant euros,1816.6
+2017,Average income of small food producers,Gipuzkoa,Constant euros,6196.0
+2019,Average income of small food producers,Gipuzkoa,Constant euros,5670.4
+2016,Average income of small food producers,Gipuzkoa,Constant euros,6939.4
+2018,Average income of large food producers,,Constant euros,15931.4
+2015,Average income of large food producers,,Constant euros,13529.1
+2019,Average income of large food producers,,Constant euros,17862.3
+2020,Average income of large food producers,,Constant euros,16492.3
+2021,Average income of large food producers,,Constant euros,18226.4
+2017,Average income of large food producers,,Constant euros,19387.5
+2016,Average income of large food producers,,Constant euros,15834.3
+2016,Average income of large food producers,Araba/Álava,Constant euros,17472.5
+2015,Average income of large food producers,Araba/Álava,Constant euros,9404.4
+2020,Average income of large food producers,Araba/Álava,Constant euros,20197.8
+2018,Average income of large food producers,Araba/Álava,Constant euros,18254.9
+2017,Average income of large food producers,Araba/Álava,Constant euros,19983.4
+2019,Average income of large food producers,Araba/Álava,Constant euros,22051.5
+2021,Average income of large food producers,Araba/Álava,Constant euros,33766.7
+2021,Average income of large food producers,Bizkaia,Constant euros,14025.1
+2020,Average income of large food producers,Bizkaia,Constant euros,20190.1
+2018,Average income of large food producers,Bizkaia,Constant euros,12988.9
+2015,Average income of large food producers,Bizkaia,Constant euros,14542.8
+2017,Average income of large food producers,Bizkaia,Constant euros,18102.8
+2016,Average income of large food producers,Bizkaia,Constant euros,15362.7
+2019,Average income of large food producers,Bizkaia,Constant euros,17973.2
+2021,Average income of large food producers,Gipuzkoa,Constant euros,11246.8
+2015,Average income of large food producers,Gipuzkoa,Constant euros,15465.7
+2019,Average income of large food producers,Gipuzkoa,Constant euros,15346.9
+2018,Average income of large food producers,Gipuzkoa,Constant euros,15629.8
+2017,Average income of large food producers,Gipuzkoa,Constant euros,19512.8
+2016,Average income of large food producers,Gipuzkoa,Constant euros,15024.3
+2020,Average income of large food producers,Gipuzkoa,Constant euros,13018.2

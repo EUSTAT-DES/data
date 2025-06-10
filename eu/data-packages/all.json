@@ -866,7 +866,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CO2 isurketak 2005. urtearekiko",
+                "_L_ES_090401_06",
                 ""
               ]
             },
@@ -3361,7 +3361,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CO2 isurketak 1990. urtearekiko",
+                "_L_ES_090401_05",
                 ""
               ]
             },

@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "IT_MOB_3GNTWK",
-                "IT_MOB_4GNTWK",
-                "IT_MOB_5GNTWK",
+                "Proportion of households covered by 3.5G mobile networks",
+                "Proportion of households covered by 4G mobile networks",
+                "Proportion of households covered by 5G mobile networks",
                 ""
               ]
             },
@@ -33,24 +33,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

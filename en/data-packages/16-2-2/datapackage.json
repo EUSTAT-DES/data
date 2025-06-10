@@ -20,26 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_HTF_DETVFL",
-                "VC_HTF_DETVOGR",
-                "EU_HTF_DETVR",
-                "EU_HTF_DETVSXR",
-                "VC_HTF_DETVOP",
+                "Forced labor, servitude, and slavery",
+                "Organ procurement",
+                "Human trafficking (all purposes)",
+                "Sexual exploitation",
+                "Other purposes",
                 ""
               ]
             },
-            "title": "Explotacion"
+            "title": "Type of operation"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000",
+                "Per 100,000",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

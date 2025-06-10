@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_EXP_EMP",
-                "EU_EXP_EMPGDP",
+                "Regional public administration spending on employment promotion",
+                "Regional public administration spending on employment promotion as a proportion of total spending",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EUR_1000000",
-                "PT",
+                "Millions of euros",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

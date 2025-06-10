@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_MED_DEN",
+                "Density and distribution of health care workers.",
                 ""
               ]
             },
@@ -31,50 +31,50 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCO08_221",
-                "ISCO08_2221_3221",
-                "ISCO08_2261",
-                "ISCO08_2262",
+                "Physician",
+                "Nursing and midwifery professionals",
+                "Dentist",
+                "Pharmacist",
                 ""
               ]
             },
-            "title": "Profesion"
+            "title": "Profession"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sex"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_10000_POP",
+                "Per 10,000 inhabitants",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

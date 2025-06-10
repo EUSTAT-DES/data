@@ -1,43 +1,43 @@
-Year,Series,Sexo,Units,Value
-2015,SH_STA_MALR,,PER_1000,0
-2017,SH_STA_MALR,,PER_1000,0
-2014,SH_STA_MALR,,PER_1000,0
-2022,SH_STA_MALR,,PER_1000,0
-2020,SH_STA_MALR,,PER_1000,0
-2010,SH_STA_MALR,,PER_1000,0
-2012,SH_STA_MALR,,PER_1000,0
-2018,SH_STA_MALR,,PER_1000,0
-2011,SH_STA_MALR,,PER_1000,0
-2021,SH_STA_MALR,,PER_1000,0
-2016,SH_STA_MALR,,PER_1000,0
-2013,SH_STA_MALR,,PER_1000,0
-2023,SH_STA_MALR,,PER_1000,0
-2019,SH_STA_MALR,,PER_1000,0
-2017,SH_STA_MALR,F,PER_1000,0
-2014,SH_STA_MALR,F,PER_1000,0
-2023,SH_STA_MALR,F,PER_1000,0
-2016,SH_STA_MALR,F,PER_1000,0
-2021,SH_STA_MALR,F,PER_1000,0
-2011,SH_STA_MALR,F,PER_1000,0
-2020,SH_STA_MALR,F,PER_1000,0
-2022,SH_STA_MALR,F,PER_1000,0
-2019,SH_STA_MALR,F,PER_1000,0
-2010,SH_STA_MALR,F,PER_1000,0
-2015,SH_STA_MALR,F,PER_1000,0
-2013,SH_STA_MALR,F,PER_1000,0
-2018,SH_STA_MALR,F,PER_1000,0
-2012,SH_STA_MALR,F,PER_1000,0
-2018,SH_STA_MALR,M,PER_1000,0
-2019,SH_STA_MALR,M,PER_1000,0
-2021,SH_STA_MALR,M,PER_1000,0
-2014,SH_STA_MALR,M,PER_1000,0
-2020,SH_STA_MALR,M,PER_1000,0
-2015,SH_STA_MALR,M,PER_1000,0
-2010,SH_STA_MALR,M,PER_1000,0
-2011,SH_STA_MALR,M,PER_1000,0
-2012,SH_STA_MALR,M,PER_1000,0
-2013,SH_STA_MALR,M,PER_1000,0
-2017,SH_STA_MALR,M,PER_1000,0
-2023,SH_STA_MALR,M,PER_1000,0
-2022,SH_STA_MALR,M,PER_1000,0
-2016,SH_STA_MALR,M,PER_1000,0
+Year,Series,Sex,Units,Value
+2015,"Malaria incidence per 1,000 population.",,"Per 1,000",0
+2017,"Malaria incidence per 1,000 population.",,"Per 1,000",0
+2014,"Malaria incidence per 1,000 population.",,"Per 1,000",0
+2022,"Malaria incidence per 1,000 population.",,"Per 1,000",0
+2020,"Malaria incidence per 1,000 population.",,"Per 1,000",0
+2010,"Malaria incidence per 1,000 population.",,"Per 1,000",0
+2012,"Malaria incidence per 1,000 population.",,"Per 1,000",0
+2018,"Malaria incidence per 1,000 population.",,"Per 1,000",0
+2011,"Malaria incidence per 1,000 population.",,"Per 1,000",0
+2021,"Malaria incidence per 1,000 population.",,"Per 1,000",0
+2016,"Malaria incidence per 1,000 population.",,"Per 1,000",0
+2013,"Malaria incidence per 1,000 population.",,"Per 1,000",0
+2023,"Malaria incidence per 1,000 population.",,"Per 1,000",0
+2019,"Malaria incidence per 1,000 population.",,"Per 1,000",0
+2017,"Malaria incidence per 1,000 population.",Female,"Per 1,000",0
+2014,"Malaria incidence per 1,000 population.",Female,"Per 1,000",0
+2023,"Malaria incidence per 1,000 population.",Female,"Per 1,000",0
+2016,"Malaria incidence per 1,000 population.",Female,"Per 1,000",0
+2021,"Malaria incidence per 1,000 population.",Female,"Per 1,000",0
+2011,"Malaria incidence per 1,000 population.",Female,"Per 1,000",0
+2020,"Malaria incidence per 1,000 population.",Female,"Per 1,000",0
+2022,"Malaria incidence per 1,000 population.",Female,"Per 1,000",0
+2019,"Malaria incidence per 1,000 population.",Female,"Per 1,000",0
+2010,"Malaria incidence per 1,000 population.",Female,"Per 1,000",0
+2015,"Malaria incidence per 1,000 population.",Female,"Per 1,000",0
+2013,"Malaria incidence per 1,000 population.",Female,"Per 1,000",0
+2018,"Malaria incidence per 1,000 population.",Female,"Per 1,000",0
+2012,"Malaria incidence per 1,000 population.",Female,"Per 1,000",0
+2018,"Malaria incidence per 1,000 population.",Male,"Per 1,000",0
+2019,"Malaria incidence per 1,000 population.",Male,"Per 1,000",0
+2021,"Malaria incidence per 1,000 population.",Male,"Per 1,000",0
+2014,"Malaria incidence per 1,000 population.",Male,"Per 1,000",0
+2020,"Malaria incidence per 1,000 population.",Male,"Per 1,000",0
+2015,"Malaria incidence per 1,000 population.",Male,"Per 1,000",0
+2010,"Malaria incidence per 1,000 population.",Male,"Per 1,000",0
+2011,"Malaria incidence per 1,000 population.",Male,"Per 1,000",0
+2012,"Malaria incidence per 1,000 population.",Male,"Per 1,000",0
+2013,"Malaria incidence per 1,000 population.",Male,"Per 1,000",0
+2017,"Malaria incidence per 1,000 population.",Male,"Per 1,000",0
+2023,"Malaria incidence per 1,000 population.",Male,"Per 1,000",0
+2022,"Malaria incidence per 1,000 population.",Male,"Per 1,000",0
+2016,"Malaria incidence per 1,000 population.",Male,"Per 1,000",0

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_LND_REM",
-                "EU_LND_REM_PT",
+                "Area of land recovered for new uses (cumulative)",
+                "Percentage of land recovered for new uses (cumulative)",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "HA",
-                "PT",
+                "Hectares",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

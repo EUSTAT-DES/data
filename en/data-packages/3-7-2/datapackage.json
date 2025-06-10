@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SP_DYN_ADKL",
+                "Adolescent fertility rate (ages 10–14 and 15–19)",
                 ""
               ]
             },
@@ -31,23 +31,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y10T14",
-                "Y15T19",
+                "10-14 years",
+                "15-19 years",
                 ""
               ]
             },
-            "title": "Edad"
+            "title": "Age"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_1000_POP",
+                "Per 1,000 inhabitants",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

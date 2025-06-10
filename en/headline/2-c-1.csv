@@ -1,46 +1,46 @@
 Year,Value,Units,Series
-2022,2.6,IX,AG_FPA_CFPI
-2009,-1.0,IX,AG_FPA_CFPI
-2008,0.6,IX,AG_FPA_CFPI
-2021,-0.3,IX,AG_FPA_CFPI
-2004,0.3,IX,AG_FPA_CFPI
-2014,-0.9,IX,AG_FPA_CFPI
-2019,-0.5,IX,AG_FPA_CFPI
-2017,-0.4,IX,AG_FPA_CFPI
-2006,0.2,IX,AG_FPA_CFPI
-2011,-0.3,IX,AG_FPA_CFPI
-2023,1.9,IX,AG_FPA_CFPI
-2003,0.4,IX,AG_FPA_CFPI
-2010,-0.9,IX,AG_FPA_CFPI
-2020,-0.2,IX,AG_FPA_CFPI
-2012,0.0,IX,AG_FPA_CFPI
-2016,-0.5,IX,AG_FPA_CFPI
-2005,0.1,IX,AG_FPA_CFPI
-2007,0.5,IX,AG_FPA_CFPI
-2015,-0.4,IX,AG_FPA_CFPI
-2018,-0.5,IX,AG_FPA_CFPI
-2024,0.2,IX,AG_FPA_CFPI
-2013,-0.2,IX,AG_FPA_CFPI
-2024,129.1,IX,EU_FPA_IPC
-2019,95.6,IX,EU_FPA_IPC
-2009,83.9,IX,EU_FPA_IPC
-2012,87.3,IX,EU_FPA_IPC
-2021,100.0,IX,EU_FPA_IPC
-2016,92.1,IX,EU_FPA_IPC
-2002,64.9,IX,EU_FPA_IPC
-2004,70.6,IX,EU_FPA_IPC
-2003,67.7,IX,EU_FPA_IPC
-2018,94.7,IX,EU_FPA_IPC
-2011,85.0,IX,EU_FPA_IPC
-2020,98.2,IX,EU_FPA_IPC
-2008,84.1,IX,EU_FPA_IPC
-2023,123.7,IX,EU_FPA_IPC
-2005,73.2,IX,EU_FPA_IPC
-2010,83.3,IX,EU_FPA_IPC
-2015,90.6,IX,EU_FPA_IPC
-2017,93.3,IX,EU_FPA_IPC
-2007,79.1,IX,EU_FPA_IPC
-2013,89.9,IX,EU_FPA_IPC
-2006,76.2,IX,EU_FPA_IPC
-2022,111.4,IX,EU_FPA_IPC
-2014,89.3,IX,EU_FPA_IPC
+2022,2.6,Index,Food price anomaly indicator
+2009,-1.0,Index,Food price anomaly indicator
+2008,0.6,Index,Food price anomaly indicator
+2021,-0.3,Index,Food price anomaly indicator
+2004,0.3,Index,Food price anomaly indicator
+2014,-0.9,Index,Food price anomaly indicator
+2019,-0.5,Index,Food price anomaly indicator
+2017,-0.4,Index,Food price anomaly indicator
+2006,0.2,Index,Food price anomaly indicator
+2011,-0.3,Index,Food price anomaly indicator
+2023,1.9,Index,Food price anomaly indicator
+2003,0.4,Index,Food price anomaly indicator
+2010,-0.9,Index,Food price anomaly indicator
+2020,-0.2,Index,Food price anomaly indicator
+2012,0.0,Index,Food price anomaly indicator
+2016,-0.5,Index,Food price anomaly indicator
+2005,0.1,Index,Food price anomaly indicator
+2007,0.5,Index,Food price anomaly indicator
+2015,-0.4,Index,Food price anomaly indicator
+2018,-0.5,Index,Food price anomaly indicator
+2024,0.2,Index,Food price anomaly indicator
+2013,-0.2,Index,Food price anomaly indicator
+2024,129.1,Index,Food price index
+2019,95.6,Index,Food price index
+2009,83.9,Index,Food price index
+2012,87.3,Index,Food price index
+2021,100.0,Index,Food price index
+2016,92.1,Index,Food price index
+2002,64.9,Index,Food price index
+2004,70.6,Index,Food price index
+2003,67.7,Index,Food price index
+2018,94.7,Index,Food price index
+2011,85.0,Index,Food price index
+2020,98.2,Index,Food price index
+2008,84.1,Index,Food price index
+2023,123.7,Index,Food price index
+2005,73.2,Index,Food price index
+2010,83.3,Index,Food price index
+2015,90.6,Index,Food price index
+2017,93.3,Index,Food price index
+2007,79.1,Index,Food price index
+2013,89.9,Index,Food price index
+2006,76.2,Index,Food price index
+2022,111.4,Index,Food price index
+2014,89.3,Index,Food price index

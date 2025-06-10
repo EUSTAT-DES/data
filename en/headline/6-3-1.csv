@@ -1,13 +1,13 @@
 Year,Value,Units,Series
-2014,100.0,PT,EU_WWT_COLECT
-2018,100.0,PT,EU_WWT_COLECT
-2018,80.0,PT,EN_WWT_WWDS
-2012,100.0,PT,EU_WWT_COLECT
-2020,100.0,PT,EU_WWT_COLECT
-2012,74.0,PT,EN_WWT_WWDS
-2016,100.0,PT,EU_WWT_COLECT
-2016,76.3,PT,EN_WWT_WWDS
-2022,79.4,PT,EN_WWT_WWDS
-2020,80.8,PT,EN_WWT_WWDS
-2014,77.5,PT,EN_WWT_WWDS
-2022,99.9,PT,EU_WWT_COLECT
+2014,100.0,%,Proportion of domestic wastewater streams connected to a collection system
+2018,100.0,%,Proportion of domestic wastewater streams connected to a collection system
+2018,80.0,%,Proportion of domestic wastewater streams treated in a controlled manner Adequate
+2012,100.0,%,Proportion of domestic wastewater streams connected to a collection system
+2020,100.0,%,Proportion of domestic wastewater streams connected to a collection system
+2012,74.0,%,Proportion of domestic wastewater streams treated in a controlled manner Adequate
+2016,100.0,%,Proportion of domestic wastewater streams connected to a collection system
+2016,76.3,%,Proportion of domestic wastewater streams treated in a controlled manner Adequate
+2022,79.4,%,Proportion of domestic wastewater streams treated in a controlled manner Adequate
+2020,80.8,%,Proportion of domestic wastewater streams treated in a controlled manner Adequate
+2014,77.5,%,Proportion of domestic wastewater streams treated in a controlled manner Adequate
+2022,99.9,%,Proportion of domestic wastewater streams connected to a collection system

@@ -20,35 +20,35 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SKILL_LTRCY",
-                "SKILL_NMRCY",
+                "Functional literacy",
+                "Functional numeracy",
                 ""
               ]
             },
-            "title": "Competencia"
+            "title": "Type of skill"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sex"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

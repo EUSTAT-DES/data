@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_SH_DTH_NCOM",
-                "SH_DTH_NCOM",
+                "Mortality rate",
+                "Premature mortality rate (ages 30–70)",
                 ""
               ]
             },
@@ -32,40 +32,40 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "DIABTS",
-                "CNCR",
-                "NCOM",
-                "CARDIO",
-                "CRESPD",
+                "Diabetes",
+                "Cancer",
+                "Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",
+                "Cardiovascular diseases",
+                "Chronic respiratory diseases",
                 ""
               ]
             },
-            "title": "NCD"
+            "title": "Non-communicable disease"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sex"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Comarca",
@@ -75,7 +75,7 @@
                 ""
               ]
             },
-            "title": "Comarca"
+            "title": "County"
           },
           {
             "name": "Municipio",
@@ -85,19 +85,19 @@
                 ""
               ]
             },
-            "title": "Municipio"
+            "title": "Municipality"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_POP",
-                "PT",
+                "Per 100,000 inhabitants",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "GeoCode",

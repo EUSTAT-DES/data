@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SE_ADT_EDUCTRN",
-                "AES_EDUCTRN",
+                "Participation rate in formal and non-formal education and training in the last 4 weeks",
+                "Participation rate in educational activities in the last 12 months",
                 ""
               ]
             },
@@ -32,50 +32,50 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sex"
           },
           {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y15T24",
-                "Y15T64",
-                "Y25T64",
-                "Y18T64",
+                "15-24 years",
+                "15-64 years",
+                "25-64 years",
+                "18-64 years",
                 ""
               ]
             },
-            "title": "Edad"
+            "title": "Age"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

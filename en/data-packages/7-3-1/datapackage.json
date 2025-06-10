@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MJ_PER_GDP_CON_PPP_USD",
+                "Megajoules per constant USD PPP (GDP)",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

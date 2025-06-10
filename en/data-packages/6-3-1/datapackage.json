@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_WWT_COLECT",
-                "EN_WWT_WWDS",
+                "Proportion of domestic wastewater streams connected to a collection system",
+                "Proportion of domestic wastewater streams treated in a controlled manner Adequate",
                 ""
               ]
             },
@@ -32,11 +32,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

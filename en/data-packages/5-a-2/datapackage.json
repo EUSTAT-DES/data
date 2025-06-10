@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "IX",
+                "Index",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

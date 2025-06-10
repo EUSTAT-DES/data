@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AG_PRD_FIESMS",
-                "AG_PRD_FIESS",
+                "Prevalence of severe or very severe food insecurity",
+                "Prevalence of very severe food insecurity",
                 ""
               ]
             },
@@ -32,11 +32,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

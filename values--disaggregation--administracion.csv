@@ -1,4 +1,4 @@
 Value,eu,es,en,Disaggregation combinations using this value,Number of indicators
-ADM_AUT,Administrazio autonomikoa,Administración autonómica,ADM_AUT,1,1
-ADM_MUN,Toki-administrazioa,Administración local,ADM_MUN,1,1
-ADM_MUN_AUT,Administrazio autonomikoa eta tokikoa,Administración autonómica y local,ADM_MUN_AUT,1,1
+ADM_AUT,Administrazio autonomikoa,Administración autonómica,Regional government,1,1
+ADM_MUN,Toki-administrazioa,Administración local,Local government,1,1
+ADM_MUN_AUT,Administrazio autonomikoa eta tokikoa,Administración autonómica y local,Regional and local government,1,1

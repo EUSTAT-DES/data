@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ESED",
-                "HLTH",
-                "PROT",
+                "Education",
+                "Healthcare",
+                "Social protection",
                 ""
               ]
             },
-            "title": "ServEsencial"
+            "title": "Essential services"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

@@ -20,55 +20,55 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_PSR_SATIS_EDU",
-                "SP_PSR_SATIS_HLTH",
-                "EU_PSR_SATIS_PENSN",
-                "EU_PSR_SATIS_JUST",
-                "EU_PSR_SATIS_SEC",
-                "EU_PSR_SATIS_SOCSERV",
-                "EU_PSR_SATIS_TRANSPORT",
-                "EU_PSR_SATIS_OBRA",
-                "EU_PSR_SATIS_DPDNT",
+                "Teaching",
+                "Healthcare",
+                "Pension management",
+                "Administration of justice",
+                "Citizen safety",
+                "Social services",
+                "Public transportation",
+                "Public works",
+                "Help for dependent persons",
                 ""
               ]
             },
-            "title": "ServPub"
+            "title": "Public services"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sex"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

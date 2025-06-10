@@ -1,66 +1,66 @@
 Year,Series,Units,Value
-2013,EN_ATM_GHGT_AIP,TCO2E,18730509.76
-2015,EN_ATM_GHGT_AIP,TCO2E,19384671.9
-2021,EN_ATM_GHGT_AIP,TCO2E,17631879.42
-2012,EN_ATM_GHGT_AIP,TCO2E,20427113.19
-2018,EN_ATM_GHGT_AIP,TCO2E,19040478.44
-2020,EN_ATM_GHGT_AIP,TCO2E,16478502.65
-2019,EN_ATM_GHGT_AIP,TCO2E,18574722.02
-2011,EN_ATM_GHGT_AIP,TCO2E,20209426.39
-2014,EN_ATM_GHGT_AIP,TCO2E,18756524.65
-2017,EN_ATM_GHGT_AIP,TCO2E,19695350.67
-2022,EN_ATM_GHGT_AIP,TCO2E,18461387.31
-2010,EN_ATM_GHGT_AIP,TCO2E,21706181.17
-2016,EN_ATM_GHGT_AIP,TCO2E,18688513.07
-2010,EN_ATM_GHGGDP,KG_CO2_PER_GDP_EUR,0.32
-2015,EN_ATM_GHGGDP,KG_CO2_PER_GDP_EUR,0.28
-2018,EN_ATM_GHGGDP,KG_CO2_PER_GDP_EUR,0.25
-2022,EN_ATM_GHGGDP,KG_CO2_PER_GDP_EUR,0.24
-2014,EN_ATM_GHGGDP,KG_CO2_PER_GDP_EUR,0.28
-2020,EN_ATM_GHGGDP,KG_CO2_PER_GDP_EUR,0.24
-2021,EN_ATM_GHGGDP,KG_CO2_PER_GDP_EUR,0.24
-2017,EN_ATM_GHGGDP,KG_CO2_PER_GDP_EUR,0.27
-2019,EN_ATM_GHGGDP,KG_CO2_PER_GDP_EUR,0.24
-2012,EN_ATM_GHGGDP,KG_CO2_PER_GDP_EUR,0.31
-2013,EN_ATM_GHGGDP,KG_CO2_PER_GDP_EUR,0.28
-2011,EN_ATM_GHGGDP,KG_CO2_PER_GDP_EUR,0.3
-2016,EN_ATM_GHGGDP,KG_CO2_PER_GDP_EUR,0.26
-2010,EN_ATM_GHGPC,T_CO2_PER_CAPITA,9.94
-2011,EN_ATM_GHGPC,T_CO2_PER_CAPITA,9.23
-2012,EN_ATM_GHGPC,T_CO2_PER_CAPITA,9.32
-2013,EN_ATM_GHGPC,T_CO2_PER_CAPITA,8.56
-2014,EN_ATM_GHGPC,T_CO2_PER_CAPITA,8.57
-2016,EN_ATM_GHGPC,T_CO2_PER_CAPITA,8.54
-2015,EN_ATM_GHGPC,T_CO2_PER_CAPITA,8.86
-2017,EN_ATM_GHGPC,T_CO2_PER_CAPITA,8.98
-2021,EN_ATM_GHGPC,T_CO2_PER_CAPITA,8.05
-2019,EN_ATM_GHGPC,T_CO2_PER_CAPITA,8.42
-2020,EN_ATM_GHGPC,T_CO2_PER_CAPITA,7.43
-2018,EN_ATM_GHGPC,T_CO2_PER_CAPITA,8.66
-2022,EN_ATM_GHGPC,T_CO2_PER_CAPITA,8.43
-2010,EU_GHG_TV1990,PT,4.02
-2011,EU_GHG_TV1990,PT,-3.12
-2012,EU_GHG_TV1990,PT,-2.15
-2013,EU_GHG_TV1990,PT,-10.31
-2014,EU_GHG_TV1990,PT,-10.31
-2015,EU_GHG_TV1990,PT,-7.27
-2016,EU_GHG_TV1990,PT,-10.56
-2017,EU_GHG_TV1990,PT,-5.72
-2018,EU_GHG_TV1990,PT,-8.83
-2019,EU_GHG_TV1990,PT,-10.97
-2020,EU_GHG_TV1990,PT,-21.36
-2021,EU_GHG_TV1990,PT,-14.83
-2022,EU_GHG_TV1990,PT,-10.82
-2011,EU_GHG_TV2005,PT,-20.41
-2012,EU_GHG_TV2005,PT,-19.61
-2020,EU_GHG_TV2005,PT,-35.4
-2013,EU_GHG_TV2005,PT,-26.32
-2014,EU_GHG_TV2005,PT,-26.32
-2015,EU_GHG_TV2005,PT,-23.82
-2016,EU_GHG_TV2005,PT,-26.52
-2010,EU_GHG_TV2005,PT,-14.54
-2017,EU_GHG_TV2005,PT,-22.55
-2018,EU_GHG_TV2005,PT,-25.1
-2019,EU_GHG_TV2005,PT,-26.86
-2021,EU_GHG_TV2005,PT,-30.63
-2022,EU_GHG_TV2005,PT,-27.37
+2013,Total greenhouse gas emissions per year,Tons of CO2 equivalent,18730509.76
+2015,Total greenhouse gas emissions per year,Tons of CO2 equivalent,19384671.9
+2021,Total greenhouse gas emissions per year,Tons of CO2 equivalent,17631879.42
+2012,Total greenhouse gas emissions per year,Tons of CO2 equivalent,20427113.19
+2018,Total greenhouse gas emissions per year,Tons of CO2 equivalent,19040478.44
+2020,Total greenhouse gas emissions per year,Tons of CO2 equivalent,16478502.65
+2019,Total greenhouse gas emissions per year,Tons of CO2 equivalent,18574722.02
+2011,Total greenhouse gas emissions per year,Tons of CO2 equivalent,20209426.39
+2014,Total greenhouse gas emissions per year,Tons of CO2 equivalent,18756524.65
+2017,Total greenhouse gas emissions per year,Tons of CO2 equivalent,19695350.67
+2022,Total greenhouse gas emissions per year,Tons of CO2 equivalent,18461387.31
+2010,Total greenhouse gas emissions per year,Tons of CO2 equivalent,21706181.17
+2016,Total greenhouse gas emissions per year,Tons of CO2 equivalent,18688513.07
+2010,Total greenhouse gas emissions per unit of GDP,Kg of CO2 equivalent per euro of GDP,0.32
+2015,Total greenhouse gas emissions per unit of GDP,Kg of CO2 equivalent per euro of GDP,0.28
+2018,Total greenhouse gas emissions per unit of GDP,Kg of CO2 equivalent per euro of GDP,0.25
+2022,Total greenhouse gas emissions per unit of GDP,Kg of CO2 equivalent per euro of GDP,0.24
+2014,Total greenhouse gas emissions per unit of GDP,Kg of CO2 equivalent per euro of GDP,0.28
+2020,Total greenhouse gas emissions per unit of GDP,Kg of CO2 equivalent per euro of GDP,0.24
+2021,Total greenhouse gas emissions per unit of GDP,Kg of CO2 equivalent per euro of GDP,0.24
+2017,Total greenhouse gas emissions per unit of GDP,Kg of CO2 equivalent per euro of GDP,0.27
+2019,Total greenhouse gas emissions per unit of GDP,Kg of CO2 equivalent per euro of GDP,0.24
+2012,Total greenhouse gas emissions per unit of GDP,Kg of CO2 equivalent per euro of GDP,0.31
+2013,Total greenhouse gas emissions per unit of GDP,Kg of CO2 equivalent per euro of GDP,0.28
+2011,Total greenhouse gas emissions per unit of GDP,Kg of CO2 equivalent per euro of GDP,0.3
+2016,Total greenhouse gas emissions per unit of GDP,Kg of CO2 equivalent per euro of GDP,0.26
+2010,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,9.94
+2011,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,9.23
+2012,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,9.32
+2013,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.56
+2014,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.57
+2016,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.54
+2015,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.86
+2017,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.98
+2021,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.05
+2019,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.42
+2020,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,7.43
+2018,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.66
+2022,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.43
+2010,Greenhouse gas emissions compared to 1990,%,4.02
+2011,Greenhouse gas emissions compared to 1990,%,-3.12
+2012,Greenhouse gas emissions compared to 1990,%,-2.15
+2013,Greenhouse gas emissions compared to 1990,%,-10.31
+2014,Greenhouse gas emissions compared to 1990,%,-10.31
+2015,Greenhouse gas emissions compared to 1990,%,-7.27
+2016,Greenhouse gas emissions compared to 1990,%,-10.56
+2017,Greenhouse gas emissions compared to 1990,%,-5.72
+2018,Greenhouse gas emissions compared to 1990,%,-8.83
+2019,Greenhouse gas emissions compared to 1990,%,-10.97
+2020,Greenhouse gas emissions compared to 1990,%,-21.36
+2021,Greenhouse gas emissions compared to 1990,%,-14.83
+2022,Greenhouse gas emissions compared to 1990,%,-10.82
+2011,Greenhouse gas emissions compared to 2005,%,-20.41
+2012,Greenhouse gas emissions compared to 2005,%,-19.61
+2020,Greenhouse gas emissions compared to 2005,%,-35.4
+2013,Greenhouse gas emissions compared to 2005,%,-26.32
+2014,Greenhouse gas emissions compared to 2005,%,-26.32
+2015,Greenhouse gas emissions compared to 2005,%,-23.82
+2016,Greenhouse gas emissions compared to 2005,%,-26.52
+2010,Greenhouse gas emissions compared to 2005,%,-14.54
+2017,Greenhouse gas emissions compared to 2005,%,-22.55
+2018,Greenhouse gas emissions compared to 2005,%,-25.1
+2019,Greenhouse gas emissions compared to 2005,%,-26.86
+2021,Greenhouse gas emissions compared to 2005,%,-30.63
+2022,Greenhouse gas emissions compared to 2005,%,-27.37

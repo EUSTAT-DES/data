@@ -20,23 +20,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PM25",
-                "PM10",
+                "PM 2.5",
+                "PM 10",
                 ""
               ]
             },
-            "title": "PM"
+            "title": "Suspended particles"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "G_PER_GDP_EUR",
+                "Grams per euro of GDP",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

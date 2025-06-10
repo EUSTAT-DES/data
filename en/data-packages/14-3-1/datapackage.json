@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PH",
+                "pH",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

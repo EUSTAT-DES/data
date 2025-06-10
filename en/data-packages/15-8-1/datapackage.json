@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BOOL_YES_NO",
+                "Logic (1=Yes, 0=No)",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

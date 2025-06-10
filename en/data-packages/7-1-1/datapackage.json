@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EG_ACS_ELEC",
+                "Proportion of the population with access to electricity",
                 ""
               ]
             },
@@ -31,11 +31,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NAHC",
-                "SMSD",
-                "VLWI",
+                "Risk of poverty (monetary)",
+                "Severe material and social deprivation",
+                "Low work intensity",
                 ""
               ]
             },
-            "title": "Pobreza"
+            "title": "Dimension of poverty"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

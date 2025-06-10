@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_SAN_PARTIC",
-                "EU_BATH_PARTIC",
+                "Proportion of local administrative units that have established operational policies and procedures for the participation of local communities in drinking water management",
+                "Proportion of local administrative units that have established operational policies and procedures for the participation of local communities in bathing water management",
                 ""
               ]
             },
@@ -32,11 +32,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

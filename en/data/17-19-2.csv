@@ -1,29 +1,29 @@
 Year,Series,Units,Value
-2017,SG_REG_CENSUSN,BOOL_YES_NO,1
-2018,SG_REG_CENSUSN,BOOL_YES_NO,1
-2019,SG_REG_CENSUSN,BOOL_YES_NO,1
-2012,SG_REG_CENSUSN,BOOL_YES_NO,1
-2020,SG_REG_CENSUSN,BOOL_YES_NO,1
-2014,SG_REG_CENSUSN,BOOL_YES_NO,1
-2016,SG_REG_CENSUSN,BOOL_YES_NO,1
-2022,SG_REG_CENSUSN,BOOL_YES_NO,1
-2015,SG_REG_CENSUSN,BOOL_YES_NO,1
-2021,SG_REG_CENSUSN,BOOL_YES_NO,1
-2010,SG_REG_CENSUSN,BOOL_YES_NO,1
-2013,SG_REG_CENSUSN,BOOL_YES_NO,1
-2011,SG_REG_CENSUSN,BOOL_YES_NO,1
-2023,SG_REG_CENSUSN,BOOL_YES_NO,1
-2020,SG_REG_BRTH100N,BOOL_YES_NO,1
-2017,SG_REG_BRTH100N,BOOL_YES_NO,1
-2011,SG_REG_BRTH100N,BOOL_YES_NO,1
-2010,SG_REG_BRTH100N,BOOL_YES_NO,1
-2015,SG_REG_BRTH100N,BOOL_YES_NO,1
-2022,SG_REG_BRTH100N,BOOL_YES_NO,1
-2016,SG_REG_BRTH100N,BOOL_YES_NO,1
-2018,SG_REG_BRTH100N,BOOL_YES_NO,1
-2013,SG_REG_BRTH100N,BOOL_YES_NO,1
-2012,SG_REG_BRTH100N,BOOL_YES_NO,1
-2021,SG_REG_BRTH100N,BOOL_YES_NO,1
-2019,SG_REG_BRTH100N,BOOL_YES_NO,1
-2023,SG_REG_BRTH100N,BOOL_YES_NO,1
-2014,SG_REG_BRTH100N,BOOL_YES_NO,1
+2017,At least one population and housing census has been conducted in the last ten years.,"Logic (1=Yes, 0=No)",1
+2018,At least one population and housing census has been conducted in the last ten years.,"Logic (1=Yes, 0=No)",1
+2019,At least one population and housing census has been conducted in the last ten years.,"Logic (1=Yes, 0=No)",1
+2012,At least one population and housing census has been conducted in the last ten years.,"Logic (1=Yes, 0=No)",1
+2020,At least one population and housing census has been conducted in the last ten years.,"Logic (1=Yes, 0=No)",1
+2014,At least one population and housing census has been conducted in the last ten years.,"Logic (1=Yes, 0=No)",1
+2016,At least one population and housing census has been conducted in the last ten years.,"Logic (1=Yes, 0=No)",1
+2022,At least one population and housing census has been conducted in the last ten years.,"Logic (1=Yes, 0=No)",1
+2015,At least one population and housing census has been conducted in the last ten years.,"Logic (1=Yes, 0=No)",1
+2021,At least one population and housing census has been conducted in the last ten years.,"Logic (1=Yes, 0=No)",1
+2010,At least one population and housing census has been conducted in the last ten years.,"Logic (1=Yes, 0=No)",1
+2013,At least one population and housing census has been conducted in the last ten years.,"Logic (1=Yes, 0=No)",1
+2011,At least one population and housing census has been conducted in the last ten years.,"Logic (1=Yes, 0=No)",1
+2023,At least one population and housing census has been conducted in the last ten years.,"Logic (1=Yes, 0=No)",1
+2020,100% of births and at least 80% of deaths have been registered.,"Logic (1=Yes, 0=No)",1
+2017,100% of births and at least 80% of deaths have been registered.,"Logic (1=Yes, 0=No)",1
+2011,100% of births and at least 80% of deaths have been registered.,"Logic (1=Yes, 0=No)",1
+2010,100% of births and at least 80% of deaths have been registered.,"Logic (1=Yes, 0=No)",1
+2015,100% of births and at least 80% of deaths have been registered.,"Logic (1=Yes, 0=No)",1
+2022,100% of births and at least 80% of deaths have been registered.,"Logic (1=Yes, 0=No)",1
+2016,100% of births and at least 80% of deaths have been registered.,"Logic (1=Yes, 0=No)",1
+2018,100% of births and at least 80% of deaths have been registered.,"Logic (1=Yes, 0=No)",1
+2013,100% of births and at least 80% of deaths have been registered.,"Logic (1=Yes, 0=No)",1
+2012,100% of births and at least 80% of deaths have been registered.,"Logic (1=Yes, 0=No)",1
+2021,100% of births and at least 80% of deaths have been registered.,"Logic (1=Yes, 0=No)",1
+2019,100% of births and at least 80% of deaths have been registered.,"Logic (1=Yes, 0=No)",1
+2023,100% of births and at least 80% of deaths have been registered.,"Logic (1=Yes, 0=No)",1
+2014,100% of births and at least 80% of deaths have been registered.,"Logic (1=Yes, 0=No)",1

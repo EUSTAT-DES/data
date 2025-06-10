@@ -20,10 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SG_LGL_GENEQLFP",
-                "SG_LGL_GENEQVAW",
-                "SG_LGL_GENEQEMP",
-                "SG_LGL_GENEQMAR",
+                "Area 1: Comprehensive legal framework and public life",
+                "Area 2: Violence against women",
+                "Area 3: Employment and income support",
+                "Area 4: Marriage and family",
                 ""
               ]
             },
@@ -34,11 +34,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

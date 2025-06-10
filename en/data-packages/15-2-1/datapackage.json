@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AG_LND_FRSTMGT_HA",
-                "AG_LND_FRSTMGT",
+                "Forest area with sustainable management instruments in place",
+                "Proportion of forest area with sustainable management instruments in place",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "HA",
-                "PT",
+                "Hectares",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

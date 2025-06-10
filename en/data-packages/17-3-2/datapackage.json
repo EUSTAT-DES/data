@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BX_TRF_PWKR",
-                "BX_TRF_PWKRV",
+                "Volume of remittances sent abroad as a proportion of GDP",
+                "Volume of remittances sent abroad",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
-                "EUR_1000000",
+                "%",
+                "Millions of euros",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",
