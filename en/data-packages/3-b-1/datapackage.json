@@ -34,7 +34,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "PT",
                 ""
               ]
             },

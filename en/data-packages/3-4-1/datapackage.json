@@ -47,8 +47,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -93,7 +93,7 @@
             "constraints": {
               "enum": [
                 "Per 100,000 inhabitants",
-                "%",
+                "PT",
                 ""
               ]
             },

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -45,7 +45,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Foreigner",
+                "MIGRANT",
                 ""
               ]
             },
@@ -372,7 +372,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "PT",
                 ""
               ]
             },
