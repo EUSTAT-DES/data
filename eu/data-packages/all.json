@@ -5037,7 +5037,7 @@
                 ""
               ]
             },
-            "title": "Funtsezko zerbitzuak"
+            "title": "Oinarrizko zerbitzuak"
           },
           {
             "name": "Units",
@@ -5872,8 +5872,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CO2 isurketak balio erantsiko unitate bakoitzeko",
-                "Manufaktura-sektorearen CO2 isuriak, manufaktura-sektorearen balio erantsiaren unitateko",
+                "$CO_2$ isuriak balio erantsiko unitate bakoitzeko",
+                "Manufaktura-sektorearen $CO_2$ isuriak, manufaktura-sektorearen balio erantsiaren unitateko",
                 ""
               ]
             },
@@ -7390,7 +7390,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ikasten ez duten, enplegatuta ez dauden eta gaikuntzarik jasotzen ez duten gazteen proportzioa",
+                "Ikasten ez duten, enplegurik ez duten eta gaikuntzarik jasotzen ez duten gazteen proportzioa",
                 ""
               ]
             },
@@ -7489,7 +7489,7 @@
               "enum": [
                 "CO2 tonak - baliokidea",
                 "Kg CO2 baliokide BPGd-ko",
-                "Biztanle bakoitzeko CO2 baliokidearen tonak",
+                "Biztanle bakoitzeko $CO_2$ baliokidearen tonak",
                 "%",
                 ""
               ]

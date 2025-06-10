@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ikasten ez duten, enplegatuta ez dauden eta gaikuntzarik jasotzen ez duten gazteen proportzioa",
+                "Ikasten ez duten, enplegurik ez duten eta gaikuntzarik jasotzen ez duten gazteen proportzioa",
                 ""
               ]
             },
