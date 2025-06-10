@@ -437,8 +437,8 @@ BX_TRF_PWKRV: "Atzerrira egindako diru-bidalketen bolumena"
 DP_DOD_DLD2_CR_CG_Z1: "Administrazio publiko autonomikoen zor gordina, gehiegizko defizitaren protokoloaren arabera, BPGrekiko proportzioan"
 EG_ACS_ELEC: "Elektrizitaterako sarbidea duen biztanleriaren proportzioa"
 EG_EGY_CLEAN: "Energia-iturri nagusia erregai eta teknologia garbiak dituen biztanleriaren proportzioa"
-EN_ATM_CO2GDP: $CO_2$ isuriak balio erantsiko unitate bakoitzeko
-EN_ATM_CO2MVA: Manufaktura-sektorearen $CO_2$ isuriak, manufaktura-sektorearen balio erantsiaren unitateko
+EN_ATM_CO2GDP: "CO2 isuriak balio erantsiko unitate bakoitzeko"
+EN_ATM_CO2MVA: "Manufaktura-sektorearen CO2 isuriak, manufaktura-sektorearen balio erantsiaren unitateko
 EN_ATM_GHGGDP: "Berotegi-efektuko gasen isurketak, guztira, BPGren unitateko"
 EN_ATM_GHGPC: "Berotegi-efektuko gasen isurketak, guztira, biztanleko"
 EN_ATM_GHGT_AIP: "Berotegi-efektuko gasen isurketak, guztira, urtearen arabera"
@@ -616,7 +616,7 @@ PH: "pH-a"
 PP: "Ehuneko puntuak"
 PT: "%"
 RO: "Ratioa"
-T_CO2_PER_CAPITA: Biztanle bakoitzeko $CO_2$ baliokidearen tonak
+T_CO2_PER_CAPITA: "Biztanle bakoitzeko CO2 baliokidearen tonak"
 T_PER_CAPITA: "Tonak per capita"
 TCO2E: "CO2 tonak - baliokidea"
 W_PER_CAPITA: "Watts per capita"
