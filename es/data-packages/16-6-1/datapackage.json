@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "GF_XPD_GBPC",
-                "EU_XPD_LOCALGBPC",
+                "Gasto liquidado por la administración local en relación al gasto presupuestado",
                 ""
               ]
             },
