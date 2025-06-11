@@ -28,11 +28,9 @@ formula: |
 
 
 desagregacion: |
-  Hezkuntza-maila: Bigarren Hezkuntzako lehen zikoa; Bigarren Hezkuntzako bigarren zikloa
+  Hezkuntza-maila
 
-  Adina
-
-periodicidad: FUENTE.FREQ_A
+ periodicidad: FUENTE.FREQ_A
 
 
 observaciones: |
