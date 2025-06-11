@@ -130,7 +130,6 @@ docs_translate_disaggregations: true
 # normally considered "disaggregation".
 docs_extra_disaggregations: 
   - Series
-  - Units
 
 # This controls the metadata report which is part of the automatic documentation.
 # More info can be found at https://open-sdg.readthedocs.io/en/latest/data-configuration/#docs_metadata_fields
