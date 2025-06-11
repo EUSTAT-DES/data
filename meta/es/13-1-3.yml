@@ -37,9 +37,13 @@ formula: |
   $MUN^{t} =$ número de gobiernos locales en el año $t$
 
 
-desagregacion: 
+desagregacion: |
 
-  Territorio histórico/Comarca/Municipio
+  Territorio histórico 
+  
+  Comarca 
+  
+  Municipio 
 
 
 observaciones: |
