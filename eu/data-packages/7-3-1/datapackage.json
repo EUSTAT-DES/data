@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PPAren USD konstantearen bidezko megajulioak (BPG)",
+                "Megajulioak BPGaren AEBetako dolar bakoitzeko (PPA konstantean)",
                 ""
               ]
             },
