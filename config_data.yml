@@ -142,4 +142,23 @@ docs_metadata_fields:
       label: Show map
     - key: graph_type
       label: Tipo de gráfico
-    
+# Indicator options    
+indicator_options:
+  non_disaggregation_columns:
+    - Year
+    - Units
+    - Series
+    - Value
+    - GeoCode
+    - Observation status
+    - Unit multiplier
+    - Unit measure
+    - UNIT_MEASURE
+    - SERIES
+    - COMMENT_TS
+    - DATA_LAST_UPDATE
+  series_column: Series
+  unit_column: Units
+  observation_attributes:
+    - COMMENT_OBS
+    - SOURCE_DETAIL
