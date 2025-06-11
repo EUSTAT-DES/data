@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "GF_XPD_GBPC",
-                "EU_XPD_LOCALGBPC",
+                "Administrazio autonomikoak likidatutako gastua aurrekontuko gastuarekiko proportzioan",
+                "Tokiko administrazioak likidatutako gastua aurrekontuko gastuarekiko proportzioan",
                 ""
               ]
             },
