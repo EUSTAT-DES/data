@@ -24,7 +24,7 @@ PER_1000,1.000 biztanleko,Por 1.000,"Per 1,000",6,2
 PER_10000,10.000 biztanleko,Por 10.000,"Per 10,000",550,2
 PER_100000,100.000 biztanleko,Por 100.000,"Per 100,000",33,8
 PER_1000000_POP,Milioi biztanleko,Por millón de habitantes,Per million inhabitants,4,1
-PER_100000_EMP,PER_100000_EMP,PER_100000_EMP,PER_100000_EMP,24,1
+PER_100000_EMP,100.000 langileko,"Por 100,000 empleados","Per 100,000 employees",24,1
 PER_100000_POP,100.000 biztanleko,Por 100.000 habitantes,"Per 100,000 inhabitants",2580,7
 PER_10000_POP,10.000 biztanleko,Por 10.000 habitantes,"Per 10,000 inhabitants",48,1
 PER_1000_LIVE_BIRTHS,Bizirik jaiotako 1.000 umeko,Por 1.000 nacidos vivos,"Per 1,000 live births",24,2
@@ -32,7 +32,7 @@ PER_1000_POP,1.000 biztanleko,Por 1.000 habitantes,"Per 1,000 inhabitants",2,1
 PER_100_POP,100 pertsonako,Por 100 personas,Per 100 people,20,1
 PH,pH-a,pH,pH,1,1
 PP,Ehuneko puntuak,Puntos porcentuales,Percentage points,12,1
-PT,%,%,PT,6122,97
+PT,%,%,%,6122,97
 RO,Ratioa,Ratio,Ratio,72,2
 T_CO2_PER_CAPITA,Biztanle bakoitzeko CO2 baliokidearen tonak,Toneladas de CO2 equivalente per cápita,Tons of CO2 equivalent per capita,1,1
 T_MILLON_EUR,T_MILLON_EUR,T_MILLON_EUR,T_MILLON_EUR,1,1

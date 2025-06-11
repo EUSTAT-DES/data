@@ -13334,7 +13334,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_EMP",
+                "100.000 langileko",
                 ""
               ]
             },

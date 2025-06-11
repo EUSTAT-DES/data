@@ -1,7 +1,7 @@
 Year,Series,Non-communicable disease,Sex,Province,County,Municipality,Units,GeoCode,Value
 2023,Mortality rate,Diabetes,,,,,"Per 100,000 inhabitants",,21.7
 2015,Mortality rate,Cancer,,,,,"Per 100,000 inhabitants",,284.0
-2019,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",,,,,PT,,9.6
+2019,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",,,,,%,,9.6
 2023,Mortality rate,"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",,,,,"Per 100,000 inhabitants",,612.8
 2020,Mortality rate,Cardiovascular diseases,,,,,"Per 100,000 inhabitants",,255.5
 2019,Mortality rate,Cardiovascular diseases,,,,,"Per 100,000 inhabitants",,256.3
@@ -42,9 +42,9 @@ Year,Series,Non-communicable disease,Sex,Province,County,Municipality,Units,GeoC
 2012,Mortality rate,Cardiovascular diseases,,,,,"Per 100,000 inhabitants",,263.2
 2021,Mortality rate,Cancer,,,,,"Per 100,000 inhabitants",,276.7
 2018,Mortality rate,Cardiovascular diseases,,,,,"Per 100,000 inhabitants",,265.0
-2015,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",,,,,PT,,10.3
+2015,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",,,,,%,,10.3
 2015,Mortality rate,Diabetes,,,,,"Per 100,000 inhabitants",,22.2
-2010,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",,,,,PT,,11.0
+2010,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",,,,,%,,11.0
 2018,Mortality rate,Chronic respiratory diseases,,,,,"Per 100,000 inhabitants",,81.7
 2013,Mortality rate,"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",,,,,"Per 100,000 inhabitants",,613.0
 2013,Mortality rate,Diabetes,,,,,"Per 100,000 inhabitants",,23.2
@@ -296,7 +296,7 @@ Year,Series,Non-communicable disease,Sex,Province,County,Municipality,Units,GeoC
 2022,Mortality rate,Cancer,Female,,,,"Per 100,000 inhabitants",,228.0
 2010,Mortality rate,Cardiovascular diseases,Female,,,,"Per 100,000 inhabitants",,262.6
 2011,Mortality rate,Diabetes,Female,,,,"Per 100,000 inhabitants",,24.5
-2019,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Female,,,,PT,,6.5
+2019,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Female,,,,%,,6.5
 2020,Mortality rate,"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Female,,,,"Per 100,000 inhabitants",,550.5
 2010,Mortality rate,Cancer,Female,,,,"Per 100,000 inhabitants",,195.2
 2014,Mortality rate,"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Female,,,,"Per 100,000 inhabitants",,556.0
@@ -305,7 +305,7 @@ Year,Series,Non-communicable disease,Sex,Province,County,Municipality,Units,GeoC
 2012,Mortality rate,Cardiovascular diseases,Female,,,,"Per 100,000 inhabitants",,275.6
 2013,Mortality rate,"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Female,,,,"Per 100,000 inhabitants",,538.5
 2021,Mortality rate,Diabetes,Female,,,,"Per 100,000 inhabitants",,23.1
-2015,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Female,,,,PT,,6.6
+2015,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Female,,,,%,,6.6
 2013,Mortality rate,Cardiovascular diseases,Female,,,,"Per 100,000 inhabitants",,252.4
 2014,Mortality rate,Diabetes,Female,,,,"Per 100,000 inhabitants",,22.4
 2019,Mortality rate,"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Female,,,,"Per 100,000 inhabitants",,567.0
@@ -322,7 +322,7 @@ Year,Series,Non-communicable disease,Sex,Province,County,Municipality,Units,GeoC
 2017,Mortality rate,Diabetes,Female,,,,"Per 100,000 inhabitants",,18.5
 2022,Mortality rate,"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Female,,,,"Per 100,000 inhabitants",,573.5
 2021,Mortality rate,"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Female,,,,"Per 100,000 inhabitants",,566.5
-2010,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Female,,,,PT,,6.7
+2010,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Female,,,,%,,6.7
 2012,Mortality rate,Chronic respiratory diseases,Female,,,,"Per 100,000 inhabitants",,60.5
 2016,Mortality rate,"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Female,,,,"Per 100,000 inhabitants",,572.1
 2018,Mortality rate,"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Female,,,,"Per 100,000 inhabitants",,580.4
@@ -612,12 +612,12 @@ Year,Series,Non-communicable disease,Sex,Province,County,Municipality,Units,GeoC
 2010,Mortality rate,Cancer,Male,,,,"Per 100,000 inhabitants",,343.2
 2013,Mortality rate,Cancer,Male,,,,"Per 100,000 inhabitants",,348.9
 2012,Mortality rate,Cardiovascular diseases,Male,,,,"Per 100,000 inhabitants",,249.9
-2015,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Male,,,,PT,,14.0
+2015,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Male,,,,%,,14.0
 2016,Mortality rate,"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Male,,,,"Per 100,000 inhabitants",,714.0
 2020,Mortality rate,Cardiovascular diseases,Male,,,,"Per 100,000 inhabitants",,243.3
 2014,Mortality rate,Chronic respiratory diseases,Male,,,,"Per 100,000 inhabitants",,77.9
 2021,Mortality rate,Cardiovascular diseases,Male,,,,"Per 100,000 inhabitants",,260.7
-2019,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Male,,,,PT,,12.8
+2019,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Male,,,,%,,12.8
 2015,Mortality rate,Cancer,Male,,,,"Per 100,000 inhabitants",,353.1
 2019,Mortality rate,Diabetes,Male,,,,"Per 100,000 inhabitants",,18.4
 2010,Mortality rate,Diabetes,Male,,,,"Per 100,000 inhabitants",,20.9
@@ -628,7 +628,7 @@ Year,Series,Non-communicable disease,Sex,Province,County,Municipality,Units,GeoC
 2022,Mortality rate,Chronic respiratory diseases,Male,,,,"Per 100,000 inhabitants",,67.2
 2022,Mortality rate,Cancer,Male,,,,"Per 100,000 inhabitants",,340.1
 2013,Mortality rate,"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Male,,,,"Per 100,000 inhabitants",,691.4
-2010,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Male,,,,PT,,15.4
+2010,Premature mortality rate (ages 30–70),"Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",Male,,,,%,,15.4
 2013,Mortality rate,Cardiovascular diseases,Male,,,,"Per 100,000 inhabitants",,244.5
 2013,Mortality rate,Chronic respiratory diseases,Male,,,,"Per 100,000 inhabitants",,78.8
 2019,Mortality rate,Cancer,Male,,,,"Per 100,000 inhabitants",,343.8

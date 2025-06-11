@@ -93,7 +93,7 @@
             "constraints": {
               "enum": [
                 "Per 100,000 inhabitants",
-                "PT",
+                "%",
                 ""
               ]
             },

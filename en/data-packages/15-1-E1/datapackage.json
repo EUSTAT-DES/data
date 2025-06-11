@@ -49,7 +49,7 @@
             "constraints": {
               "enum": [
                 "Square kilometers",
-                "PT",
+                "%",
                 ""
               ]
             },

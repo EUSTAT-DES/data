@@ -36,7 +36,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -94,7 +94,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -141,7 +141,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 "Millions of euros",
                 ""
               ]
@@ -677,7 +677,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -796,7 +796,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -831,7 +831,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -925,7 +925,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -973,7 +973,7 @@
             "constraints": {
               "enum": [
                 "Millions of euros",
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -1128,7 +1128,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -1175,7 +1175,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -1221,7 +1221,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -1280,7 +1280,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -1631,7 +1631,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -1671,7 +1671,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -1731,7 +1731,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -1766,7 +1766,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -1845,7 +1845,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -2232,7 +2232,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -2308,7 +2308,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -2753,7 +2753,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 "Percentage points",
                 ""
               ]
@@ -2823,7 +2823,7 @@
             "constraints": {
               "enum": [
                 "Square kilometers",
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -2898,7 +2898,7 @@
             "constraints": {
               "enum": [
                 "Kg per capita",
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -3878,7 +3878,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -3933,7 +3933,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -4028,7 +4028,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -4121,7 +4121,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -4181,7 +4181,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -4227,7 +4227,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -4262,7 +4262,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -4297,7 +4297,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -4512,7 +4512,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -4560,7 +4560,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -4595,7 +4595,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -4748,7 +4748,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -4820,7 +4820,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -4879,7 +4879,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -4926,7 +4926,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -4961,7 +4961,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -5044,7 +5044,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -5114,7 +5114,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -5162,7 +5162,7 @@
             "constraints": {
               "enum": [
                 "Hectares",
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -5221,7 +5221,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -5306,7 +5306,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -5367,7 +5367,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -5414,7 +5414,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -5500,7 +5500,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -5547,7 +5547,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -5595,7 +5595,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -5630,7 +5630,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -5678,7 +5678,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -5791,7 +5791,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -5837,7 +5837,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -6306,7 +6306,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -6341,7 +6341,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -6389,7 +6389,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -6448,7 +6448,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -6543,7 +6543,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -6607,7 +6607,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -6698,7 +6698,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -6745,7 +6745,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -6794,7 +6794,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -7146,7 +7146,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -7297,7 +7297,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -7437,7 +7437,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -7490,7 +7490,7 @@
                 "Tons of CO2 equivalent",
                 "Kg of CO2 equivalent per euro of GDP",
                 "Tons of CO2 equivalent per capita",
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -7840,7 +7840,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -8281,7 +8281,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -8368,7 +8368,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -8403,7 +8403,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -8450,7 +8450,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -8531,7 +8531,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -8591,7 +8591,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 "Euro per capita",
                 ""
               ]
@@ -8627,7 +8627,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -8966,7 +8966,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -9043,7 +9043,7 @@
             "constraints": {
               "enum": [
                 "Euros",
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -9091,7 +9091,7 @@
             "constraints": {
               "enum": [
                 "Hectares",
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -9784,7 +9784,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -10277,7 +10277,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -10312,7 +10312,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -10347,7 +10347,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -10395,7 +10395,7 @@
             "constraints": {
               "enum": [
                 "Millions of euros",
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -10443,7 +10443,7 @@
             "constraints": {
               "enum": [
                 "Millions of euros",
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -10634,7 +10634,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -10682,7 +10682,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -10875,7 +10875,7 @@
             "constraints": {
               "enum": [
                 "Kg per capita",
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -10994,7 +10994,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -11042,7 +11042,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -11149,7 +11149,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -11567,7 +11567,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -11615,7 +11615,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -11663,7 +11663,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -11710,7 +11710,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -12420,7 +12420,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -12519,7 +12519,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -12578,7 +12578,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -12638,7 +12638,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -12673,7 +12673,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -12887,7 +12887,7 @@
             "constraints": {
               "enum": [
                 "Per 100,000 inhabitants",
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -12940,7 +12940,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -12975,7 +12975,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -13022,7 +13022,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -13262,7 +13262,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -13334,7 +13334,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_EMP",
+                "Per 100,000 employees",
                 ""
               ]
             },
@@ -13382,7 +13382,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -13430,7 +13430,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -13575,7 +13575,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
