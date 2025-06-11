@@ -35,8 +35,7 @@ formula: |
   $ST_{ecosistema}^{t} =$ superficie total de un ecosistema determinado en el año $t$
 
 desagregacion: >-
-  Tipo de ecosistema: bosques, humedales, pastizales, tierras de cultivo, 
-  asentamientos, otras tierras
+  Ecosistema   
 
 periodicidad: FUENTE.FREQ_A3
 
