@@ -33,9 +33,14 @@ observaciones: |
    - A- Se les agotan los alimentos que compran y no disponen de dinero para conseguir más
    - B- No pueden conseguir una alimentación equilibrada y variada
    - C- ¿Han recortado la cantidad de comida o incluso se han saltado algunas comidas porque no disponían de dinero suficiente para alimentación?
+        - D- Si ha ocurrido, ¿con qué frecuencia ha ocurrido?
    - E- ¿Han comido menos de lo que hubiesen querido porque no disponían de suficiente dinero para comprar alimentos?
    - F- ¿Han tenido ustedes hambre pero no comieron porque no pudieron conseguir comida suficiente?
-
+   
+  Los problemas de inseguridad alimentaria se puntuan de la siguiente manera:
+   - Sin problemas: Si solo tiene un problema o ninguno
+   - Problema grave: Si tiene entre 2 y 4 problemas
+   - Problema muy grave: 5 o mas problemas
 
 periodicidad: FUENTE.FREQ_A2
 
@@ -68,9 +73,9 @@ dato_global: >-
 
 comparabilidad: >-
   El indicador disponible no cumple con los metadatos de Naciones Unidas pero aporta
-  información similar.
+  información similar. El grado de inseguridad alimentaria se puntua de forma diferente.
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
