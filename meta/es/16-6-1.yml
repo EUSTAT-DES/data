@@ -22,10 +22,8 @@ formula: |
   $GI_{CCAA}^{t} =$ gasto total en el presupuesto inicial consolidado de la administración pública (administración autonómica o administración local) en el año $t$
 
 
-desagregacion: |
-  Administración pública: administración autonómica y administración local
-
-
+desagregacion:
+ 
 observaciones: |
   Los datos consolidados se toman depurados de IFL (intermediación financiera local) y PAC (política agrícola común).
 
