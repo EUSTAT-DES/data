@@ -39,7 +39,7 @@ formula: |
 
   <b>Erretirorako legezko adinetik gora izan eta pentsioa jasotzen duten biztanleen proportzioa</b>
 
-  $$PP_{erretiroa}^{t} = \frac{P_{pentsioduna \, erretiro\, adina}^{t}}{P_{erretiro\, adina}^{t}} \cdot 100$$
+  $$PP_{erretiroa}^{t} = \frac{P_{erretiro\, adina\, pentsioduna}^{t}}{P_{erretiro\, adina}^{t}} \cdot 100$$
 
   non:
 
