@@ -330,6 +330,16 @@
             "type": "string"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "provisional",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

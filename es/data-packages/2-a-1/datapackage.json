@@ -336,6 +336,17 @@
             "title": "GeoCode"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "provisional",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Valor"
