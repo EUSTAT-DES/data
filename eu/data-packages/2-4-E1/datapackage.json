@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_SDG_02_40",
+                "Nekazaritza ekologikora bideratutako nekazaritza-azaleraren proportzioa",
                 ""
               ]
             },
