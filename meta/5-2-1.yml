@@ -23,7 +23,11 @@ formula: |
   $P_{emakumeak}^{t} =$ emakumeak $t$ urteko uztailaren 1ean
 
 desagregacion: >-
-  Lurralde historikoa/Eskualdea/Udalerria
+  Lurralde historikoa
+  
+  Eskualdea
+  
+  Udalerria
 
 periodicidad: FUENTE.FREQ_A
 
