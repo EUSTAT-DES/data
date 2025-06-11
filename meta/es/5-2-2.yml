@@ -23,7 +23,11 @@ formula: |
 
 desagregacion: |
 
-  Territorio histórico/Comarca/Municipio
+  Territorio histórico
+  
+  Comarca
+  
+  Municipio
 
 periodicidad: FUENTE.FREQ_A
 
