@@ -10,25 +10,24 @@ meta_global: meta_largo.5-1-titulo
 
 definicion: >-
   Emakumeen aurkako diskriminazio mota guztiak ezabatzeari buruzko Konbentzioan eta Beijingeko 
-  Ekintza Plataforman ezarritako lau esparruetan, genero-berdintasuna sustatzeko, indartzeko eta 
-  ikuskatzeko marko juridikorik badagoen neurtzeko ezarri ziren galderei emandako baiezko 
+  Ekintza Plataforman ezarritako lau arloetan, genero-berdintasuna sustatzeko, indartzeko eta 
+  ikuskatzeko esparru juridikorik badagoen neurtzeko ezarri ziren galderei emandako baiezko 
   erantzunen proportzioa, galdera guztiekiko
 
 formula: |
 
-  $$MJML^{t} = \frac{NSI_{esparrua}^{t}}{NSI_{esparrua}^{t} + NNO_{esparrua}^{t}} \cdot 100$$
+  $$MJML^{t} = \frac{NSI_{arloa}^{t}}{NSI_{arloa}^{t} + NNO_{arloa}^{t}} \cdot 100$$
 
   non:
 
-  $NSI_{esparrua}^{t} =$ Nazio Batuek 5.1.1 adierazlerako diseinatutako galdetegi espezifikoan 
-  esparruari dagozkion galderetako 'BAI' erantzunen kopurua, $t$ urtean
+  $NSI_{arloa}^{t} =$ Nazio Batuek 5.1.1 adierazlerako diseinatutako galdetegi espezifikoan 
+  arloari dagozkion galderetako 'BAI' erantzunen kopurua, $t$ urtean
 
-  $NNO_{Esparru}^{t} =$ Nazio Batuek 5.1.1 adierazlerako diseinatutako galdetegi espezifikoan 
-  esparruari dagozkion galderetako 'EZ' erantzunen kopurua, $t$ urtean
+  $NNO_{arloa}^{t} =$ Nazio Batuek 5.1.1 adierazlerako diseinatutako galdetegi espezifikoan 
+  arloari dagozkion galderetako 'EZ' erantzunen kopurua, $t$ urtean
 
 desagregacion: |
-  Esparruak: Lege-marko orokorra eta bizitza publikoa; emakumearen aurkako indarkeria; enplegua eta 
-  dirulaguntza ekonomikoak; ezkontza eta familia
+  Arloa
 
 observaciones: |
 
