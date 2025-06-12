@@ -2947,6 +2947,56 @@
             "title": "Unidad"
           },
           {
+            "name": "COL2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL2"
+          },
+          {
+            "name": "COL3",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL3"
+          },
+          {
+            "name": "COL4",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL4"
+          },
+          {
+            "name": "COL5",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL5"
+          },
+          {
+            "name": "COL6",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL6"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Valor"
@@ -7261,8 +7311,8 @@
               "enum": [
                 "15-24 años",
                 "15-64 años",
-                "25-64 años",
                 "18-64 años",
+                "25-64 años",
                 ""
               ]
             },
