@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "GF_XPD_GBPC",
+                "Gasto liquidado por la administración autonómica en relación al gasto presupuestado",
                 "Gasto liquidado por la administración local en relación al gasto presupuestado",
                 ""
               ]
