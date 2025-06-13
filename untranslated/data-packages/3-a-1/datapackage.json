@@ -15,16 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y_GE15",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {

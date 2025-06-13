@@ -10180,17 +10180,6 @@
             "title": "GeoCode"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "provisional",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -11239,17 +11228,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 years and over",
-                ""
-              ]
-            },
-            "title": "Age"
           },
           {
             "name": "Sexo",

@@ -10180,17 +10180,6 @@
             "title": "GeoCode"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "provisional",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Balioa"
@@ -11239,17 +11228,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Urtea"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 urte eta gehiago",
-                ""
-              ]
-            },
-            "title": "Adina"
           },
           {
             "name": "Sexo",

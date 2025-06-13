@@ -9613,16 +9613,6 @@
             "type": "string"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "provisional",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -10605,16 +10595,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y_GE15",
-                ""
-              ]
-            }
           },
           {
             "name": "Sexo",
