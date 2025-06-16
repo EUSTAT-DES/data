@@ -8622,7 +8622,7 @@
             "constraints": {
               "enum": [
                 "Gasto liquidado por la administración autonómica en relación al gasto presupuestado",
-                "Gasto liquidado por la administración local en relación al gasto presupuestado",
+                "Gasto liquidado de las administraciones locales en proporción al presupuesto aprobado originalmente",
                 ""
               ]
             },

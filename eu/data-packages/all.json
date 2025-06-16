@@ -8622,7 +8622,7 @@
             "constraints": {
               "enum": [
                 "Administrazio autonomikoak likidatutako gastua aurrekontuko gastuarekiko proportzioan",
-                "Tokiko administrazioak likidatutako gastua aurrekontuko gastuarekiko proportzioan",
+                "Toki administrazioaren gastu likidatua, hasieran onartutako aurrekontuaren proportzioan",
                 ""
               ]
             },
