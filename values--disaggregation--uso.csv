@@ -1,7 +1,7 @@
 Value,eu,es,en,Disaggregation combinations using this value,Number of indicators
-H20_AGR,H20_AGR,H20_AGR,H20_AGR,4,1
-H20_COM,H20_COM,H20_COM,H20_COM,4,1
-H20_IND,H20_IND,H20_IND,H20_IND,4,1
-H20_OTR,H20_OTR,H20_OTR,H20_OTR,4,1
-H20_PUB,H20_PUB,H20_PUB,H20_PUB,4,1
-H20_RES,H20_RES,H20_RES,H20_RES,4,1
+H20_AGR,Nekazaritza eta abeltzaintzako erabilera,Uso agropecuario,Agricultural use,4,1
+H20_COM,Merkataritza-erabilera,Uso comercial,Commercial use,4,1
+H20_IND,Industria-erabilera,Uso industrial,Industrial use,4,1
+H20_OTR,Beste erabilera batzuk,Otros usos,Other uses,4,1
+H20_PUB,Erabilera publikoa,Uso público,Public use,4,1
+H20_RES,Etxeko erabilera,Uso doméstico,Domestic use,4,1

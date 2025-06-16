@@ -8595,16 +8595,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "H20_RES",
-                "H20_IND",
-                "H20_COM",
-                "H20_PUB",
-                "H20_AGR",
-                "H20_OTR",
+                "Domestic use",
+                "Industrial use",
+                "Commercial use",
+                "Public use",
+                "Agricultural use",
+                "Other uses",
                 ""
               ]
             },
-            "title": "Uso"
+            "title": "Type of use"
           },
           {
             "name": "Value",

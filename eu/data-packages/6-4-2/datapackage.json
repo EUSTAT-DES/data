@@ -44,16 +44,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "H20_RES",
-                "H20_IND",
-                "H20_COM",
-                "H20_PUB",
-                "H20_AGR",
-                "H20_OTR",
+                "Etxeko erabilera",
+                "Industria-erabilera",
+                "Merkataritza-erabilera",
+                "Erabilera publikoa",
+                "Nekazaritza eta abeltzaintzako erabilera",
+                "Beste erabilera batzuk",
                 ""
               ]
             },
-            "title": "Uso"
+            "title": "Erabilera mota"
           },
           {
             "name": "Value",

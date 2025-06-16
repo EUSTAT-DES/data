@@ -1,4 +1,4 @@
-Year,Lurralde historikoa,Units,Uso,Value
+Year,Lurralde historikoa,Units,Erabilera mota,Value
 2018,,M3,,179965484.0
 2022,,M3,,178506380.0
 2023,,M3,,180064405.0
@@ -17,111 +17,111 @@ Year,Lurralde historikoa,Units,Uso,Value
 2023,Gipuzkoa,M3,,63510500.0
 2021,Gipuzkoa,M3,,62824287.1
 2022,Gipuzkoa,M3,,63549678.2
-2023,,M3,H20_RES,86895324.9
-2018,,M3,H20_RES,88318278.6
-2020,,M3,H20_RES,84373909.2
-2022,,M3,H20_RES,92735193.3
-2016,,M3,H20_RES,89191117.7
-2021,,M3,H20_RES,92949522.0
-2013,,M3,H20_RES,87929643.4
-2017,,M3,H20_RES,88547260.4
-2019,,M3,H20_RES,88407446.1
-2022,Araba / Álava,M3,H20_RES,14077675.9
-2023,Araba / Álava,M3,H20_RES,11989165.1
-2021,Araba / Álava,M3,H20_RES,14177085.4
-2021,Bizkaia,M3,H20_RES,45477855.0
-2022,Bizkaia,M3,H20_RES,45514402.4
-2023,Bizkaia,M3,H20_RES,43068870.3
-2021,Gipuzkoa,M3,H20_RES,33294582.0
-2023,Gipuzkoa,M3,H20_RES,31837289.5
-2022,Gipuzkoa,M3,H20_RES,33143115.0
-2017,,M3,H20_IND,66412090.1
-2018,,M3,H20_IND,66232578.1
-2021,,M3,H20_IND,60880414.0
-2019,,M3,H20_IND,64695490.7
-2023,,M3,H20_IND,61328986.0
-2020,,M3,H20_IND,58454182.7
-2016,,M3,H20_IND,65939730.6
-2013,,M3,H20_IND,65635020.7
-2022,,M3,H20_IND,60067313.1
-2022,Araba / Álava,M3,H20_IND,14823181.0
-2023,Araba / Álava,M3,H20_IND,13125427.2
-2021,Araba / Álava,M3,H20_IND,15019725.6
-2022,Bizkaia,M3,H20_IND,24288140.7
-2023,Bizkaia,M3,H20_IND,25445892.7
-2021,Bizkaia,M3,H20_IND,24292745.1
-2023,Gipuzkoa,M3,H20_IND,22757666.1
-2022,Gipuzkoa,M3,H20_IND,20955991.4
-2021,Gipuzkoa,M3,H20_IND,21567942.9
-2018,,M3,H20_COM,12219522.3
-2022,,M3,H20_COM,11060459.6
-2019,,M3,H20_COM,11666682.7
-2013,,M3,H20_COM,11740415.2
-2023,,M3,H20_COM,9772381.2
-2021,,M3,H20_COM,10471436.0
-2020,,M3,H20_COM,11253856.2
-2017,,M3,H20_COM,11970086.0
-2016,,M3,H20_COM,12429023.2
-2023,Araba / Álava,M3,H20_COM,119019.2
-2022,Araba / Álava,M3,H20_COM,315629.0
-2021,Araba / Álava,M3,H20_COM,307205.5
-2021,Bizkaia,M3,H20_COM,4743841.0
-2022,Bizkaia,M3,H20_COM,4746266.6
-2023,Bizkaia,M3,H20_COM,6283333.0
-2022,Gipuzkoa,M3,H20_COM,5998564.0
-2023,Gipuzkoa,M3,H20_COM,3370029.0
-2021,Gipuzkoa,M3,H20_COM,5420389.0
-2017,,M3,H20_PUB,10650290.2
-2019,,M3,H20_PUB,10440779.4
-2016,,M3,H20_PUB,10427598.1
-2021,,M3,H20_PUB,9263988.0
-2023,,M3,H20_PUB,18438765.3
-2020,,M3,H20_PUB,5047360.5
-2018,,M3,H20_PUB,10356549.1
-2013,,M3,H20_PUB,10687889.9
-2022,,M3,H20_PUB,11010562.7
-2022,Araba / Álava,M3,H20_PUB,4000563.8
-2023,Araba / Álava,M3,H20_PUB,3766872.3
-2021,Araba / Álava,M3,H20_PUB,3068185.1
-2023,Bizkaia,M3,H20_PUB,9791675.0
-2022,Bizkaia,M3,H20_PUB,4162631.5
-2021,Bizkaia,M3,H20_PUB,4165676.5
-2023,Gipuzkoa,M3,H20_PUB,4880218.0
-2022,Gipuzkoa,M3,H20_PUB,2847367.4
-2021,Gipuzkoa,M3,H20_PUB,2030126.5
-2023,,M3,H20_AGR,2051068.7
-2021,,M3,H20_AGR,1065919.0
-2016,,M3,H20_AGR,1127021.1
-2018,,M3,H20_AGR,1131076.3
-2017,,M3,H20_AGR,1122869.4
-2013,,M3,H20_AGR,358850.4
-2022,,M3,H20_AGR,1827137.7
-2019,,M3,H20_AGR,1262937.4
-2020,,M3,H20_AGR,2907569.7
-2021,Araba / Álava,M3,H20_AGR,256133.2
-2023,Araba / Álava,M3,H20_AGR,984376.7
-2022,Araba / Álava,M3,H20_AGR,895748.9
-2022,Bizkaia,M3,H20_AGR,704744.6
-2023,Bizkaia,M3,H20_AGR,694183.4
-2021,Bizkaia,M3,H20_AGR,660993.0
-2022,Gipuzkoa,M3,H20_AGR,226644.3
-2023,Gipuzkoa,M3,H20_AGR,372508.6
-2021,Gipuzkoa,M3,H20_AGR,148793.0
-2017,,M3,H20_OTR,1631735.3
-2022,,M3,H20_OTR,1805713.9
-2020,,M3,H20_OTR,1638772.1
-2016,,M3,H20_OTR,1522943.9
-2018,,M3,H20_OTR,1707479.9
-2013,,M3,H20_OTR,1203523.7
-2019,,M3,H20_OTR,1720927.5
-2023,,M3,H20_OTR,1577879.3
-2021,,M3,H20_OTR,1790472.0
-2023,Araba / Álava,M3,H20_OTR,196804.0
-2022,Araba / Álava,M3,H20_OTR,176484.9
-2021,Araba / Álava,M3,H20_OTR,176878.9
-2023,Bizkaia,M3,H20_OTR,1088286.9
-2022,Bizkaia,M3,H20_OTR,1251232.9
-2021,Bizkaia,M3,H20_OTR,1251139.6
-2023,Gipuzkoa,M3,H20_OTR,292788.4
-2022,Gipuzkoa,M3,H20_OTR,377996.1
-2021,Gipuzkoa,M3,H20_OTR,362453.8
+2023,,M3,Etxeko erabilera,86895324.9
+2018,,M3,Etxeko erabilera,88318278.6
+2020,,M3,Etxeko erabilera,84373909.2
+2022,,M3,Etxeko erabilera,92735193.3
+2016,,M3,Etxeko erabilera,89191117.7
+2021,,M3,Etxeko erabilera,92949522.0
+2013,,M3,Etxeko erabilera,87929643.4
+2017,,M3,Etxeko erabilera,88547260.4
+2019,,M3,Etxeko erabilera,88407446.1
+2022,Araba / Álava,M3,Etxeko erabilera,14077675.9
+2023,Araba / Álava,M3,Etxeko erabilera,11989165.1
+2021,Araba / Álava,M3,Etxeko erabilera,14177085.4
+2021,Bizkaia,M3,Etxeko erabilera,45477855.0
+2022,Bizkaia,M3,Etxeko erabilera,45514402.4
+2023,Bizkaia,M3,Etxeko erabilera,43068870.3
+2021,Gipuzkoa,M3,Etxeko erabilera,33294582.0
+2023,Gipuzkoa,M3,Etxeko erabilera,31837289.5
+2022,Gipuzkoa,M3,Etxeko erabilera,33143115.0
+2017,,M3,Industria-erabilera,66412090.1
+2018,,M3,Industria-erabilera,66232578.1
+2021,,M3,Industria-erabilera,60880414.0
+2019,,M3,Industria-erabilera,64695490.7
+2023,,M3,Industria-erabilera,61328986.0
+2020,,M3,Industria-erabilera,58454182.7
+2016,,M3,Industria-erabilera,65939730.6
+2013,,M3,Industria-erabilera,65635020.7
+2022,,M3,Industria-erabilera,60067313.1
+2022,Araba / Álava,M3,Industria-erabilera,14823181.0
+2023,Araba / Álava,M3,Industria-erabilera,13125427.2
+2021,Araba / Álava,M3,Industria-erabilera,15019725.6
+2022,Bizkaia,M3,Industria-erabilera,24288140.7
+2023,Bizkaia,M3,Industria-erabilera,25445892.7
+2021,Bizkaia,M3,Industria-erabilera,24292745.1
+2023,Gipuzkoa,M3,Industria-erabilera,22757666.1
+2022,Gipuzkoa,M3,Industria-erabilera,20955991.4
+2021,Gipuzkoa,M3,Industria-erabilera,21567942.9
+2018,,M3,Merkataritza-erabilera,12219522.3
+2022,,M3,Merkataritza-erabilera,11060459.6
+2019,,M3,Merkataritza-erabilera,11666682.7
+2013,,M3,Merkataritza-erabilera,11740415.2
+2023,,M3,Merkataritza-erabilera,9772381.2
+2021,,M3,Merkataritza-erabilera,10471436.0
+2020,,M3,Merkataritza-erabilera,11253856.2
+2017,,M3,Merkataritza-erabilera,11970086.0
+2016,,M3,Merkataritza-erabilera,12429023.2
+2023,Araba / Álava,M3,Merkataritza-erabilera,119019.2
+2022,Araba / Álava,M3,Merkataritza-erabilera,315629.0
+2021,Araba / Álava,M3,Merkataritza-erabilera,307205.5
+2021,Bizkaia,M3,Merkataritza-erabilera,4743841.0
+2022,Bizkaia,M3,Merkataritza-erabilera,4746266.6
+2023,Bizkaia,M3,Merkataritza-erabilera,6283333.0
+2022,Gipuzkoa,M3,Merkataritza-erabilera,5998564.0
+2023,Gipuzkoa,M3,Merkataritza-erabilera,3370029.0
+2021,Gipuzkoa,M3,Merkataritza-erabilera,5420389.0
+2017,,M3,Erabilera publikoa,10650290.2
+2019,,M3,Erabilera publikoa,10440779.4
+2016,,M3,Erabilera publikoa,10427598.1
+2021,,M3,Erabilera publikoa,9263988.0
+2023,,M3,Erabilera publikoa,18438765.3
+2020,,M3,Erabilera publikoa,5047360.5
+2018,,M3,Erabilera publikoa,10356549.1
+2013,,M3,Erabilera publikoa,10687889.9
+2022,,M3,Erabilera publikoa,11010562.7
+2022,Araba / Álava,M3,Erabilera publikoa,4000563.8
+2023,Araba / Álava,M3,Erabilera publikoa,3766872.3
+2021,Araba / Álava,M3,Erabilera publikoa,3068185.1
+2023,Bizkaia,M3,Erabilera publikoa,9791675.0
+2022,Bizkaia,M3,Erabilera publikoa,4162631.5
+2021,Bizkaia,M3,Erabilera publikoa,4165676.5
+2023,Gipuzkoa,M3,Erabilera publikoa,4880218.0
+2022,Gipuzkoa,M3,Erabilera publikoa,2847367.4
+2021,Gipuzkoa,M3,Erabilera publikoa,2030126.5
+2023,,M3,Nekazaritza eta abeltzaintzako erabilera,2051068.7
+2021,,M3,Nekazaritza eta abeltzaintzako erabilera,1065919.0
+2016,,M3,Nekazaritza eta abeltzaintzako erabilera,1127021.1
+2018,,M3,Nekazaritza eta abeltzaintzako erabilera,1131076.3
+2017,,M3,Nekazaritza eta abeltzaintzako erabilera,1122869.4
+2013,,M3,Nekazaritza eta abeltzaintzako erabilera,358850.4
+2022,,M3,Nekazaritza eta abeltzaintzako erabilera,1827137.7
+2019,,M3,Nekazaritza eta abeltzaintzako erabilera,1262937.4
+2020,,M3,Nekazaritza eta abeltzaintzako erabilera,2907569.7
+2021,Araba / Álava,M3,Nekazaritza eta abeltzaintzako erabilera,256133.2
+2023,Araba / Álava,M3,Nekazaritza eta abeltzaintzako erabilera,984376.7
+2022,Araba / Álava,M3,Nekazaritza eta abeltzaintzako erabilera,895748.9
+2022,Bizkaia,M3,Nekazaritza eta abeltzaintzako erabilera,704744.6
+2023,Bizkaia,M3,Nekazaritza eta abeltzaintzako erabilera,694183.4
+2021,Bizkaia,M3,Nekazaritza eta abeltzaintzako erabilera,660993.0
+2022,Gipuzkoa,M3,Nekazaritza eta abeltzaintzako erabilera,226644.3
+2023,Gipuzkoa,M3,Nekazaritza eta abeltzaintzako erabilera,372508.6
+2021,Gipuzkoa,M3,Nekazaritza eta abeltzaintzako erabilera,148793.0
+2017,,M3,Beste erabilera batzuk,1631735.3
+2022,,M3,Beste erabilera batzuk,1805713.9
+2020,,M3,Beste erabilera batzuk,1638772.1
+2016,,M3,Beste erabilera batzuk,1522943.9
+2018,,M3,Beste erabilera batzuk,1707479.9
+2013,,M3,Beste erabilera batzuk,1203523.7
+2019,,M3,Beste erabilera batzuk,1720927.5
+2023,,M3,Beste erabilera batzuk,1577879.3
+2021,,M3,Beste erabilera batzuk,1790472.0
+2023,Araba / Álava,M3,Beste erabilera batzuk,196804.0
+2022,Araba / Álava,M3,Beste erabilera batzuk,176484.9
+2021,Araba / Álava,M3,Beste erabilera batzuk,176878.9
+2023,Bizkaia,M3,Beste erabilera batzuk,1088286.9
+2022,Bizkaia,M3,Beste erabilera batzuk,1251232.9
+2021,Bizkaia,M3,Beste erabilera batzuk,1251139.6
+2023,Gipuzkoa,M3,Beste erabilera batzuk,292788.4
+2022,Gipuzkoa,M3,Beste erabilera batzuk,377996.1
+2021,Gipuzkoa,M3,Beste erabilera batzuk,362453.8
