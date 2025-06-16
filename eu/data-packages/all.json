@@ -5791,18 +5791,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Trebetasun informatikoren bat behintzat",
-                "Fitxategiak edo karpetak kopiatu edo mugitu",
-                "Testua, irudiak, taulak edo grafikoak osatzen dituzten aurkezpenak edo dokumentuak sortzea",
-                "Kalkulu-orriak erabiltzea",
-                "Programazio-lengoaia batean programatzea",
-                "Fitxategiak ordenagailuaren eta beste gailu batzuen artean transferitzea (kamera digitalak, telefono mugikorrak, mp3 edo mp4)",
                 "Softwarea edo aplikazioak instalatzea (app-ak)",
                 "Edozein softwareren konfigurazioa aldatzea, sistema eragilea eta segurtasun-programak barne",
+                "Fitxategiak edo karpetak kopiatu edo mugitu",
+                "Testua, irudiak, taulak edo grafikoak osatzen dituzten aurkezpenak edo dokumentuak sortzea",
+                "Programazio-lengoaia batean programatzea",
+                "Kalkulu-orriak erabiltzea",
+                "Fitxategiak ordenagailuaren eta beste gailu batzuen artean transferitzea (kamera digitalak, telefono mugikorrak, mp3 edo mp4)",
                 ""
               ]
             },
             "title": "Trebetasun informatikoa"
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16-24 urte",
+                "25-74 urte",
+                ""
+              ]
+            },
+            "title": "Adina"
           },
           {
             "name": "Sexo",
@@ -5815,19 +5826,6 @@
               ]
             },
             "title": "Sexua"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16-24 urte",
-                "16-74 urte",
-                "25-74 urte",
-                ""
-              ]
-            },
-            "title": "Adina"
           },
           {
             "name": "Territorio",

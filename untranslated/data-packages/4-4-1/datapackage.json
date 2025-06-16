@@ -19,14 +19,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ICT",
-                "ICTCPT",
-                "ICTPST",
-                "ICTSSHT",
-                "ICTPRGM",
-                "ICTTRFF",
                 "ICTSFWR",
                 "ICTPRVCY",
+                "ICTCPT",
+                "ICTPST",
+                "ICTPRGM",
+                "ICTSSHT",
+                "ICTTRFF",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y16T24",
+                "Y25T74",
                 ""
               ]
             }
@@ -38,18 +48,6 @@
               "enum": [
                 "F",
                 "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y16T24",
-                "Y16T74",
-                "Y25T74",
                 ""
               ]
             }

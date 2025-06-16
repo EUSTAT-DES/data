@@ -5791,18 +5791,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "at least one of the computer skills",
-                "Copying or moving files or folders",
-                "Creating presentations or documents that integrate text, images, tables, or graphs",
-                "Using spreadsheets",
-                "Programming in a programming language",
-                "Transferring files between the computer and other devices (digital cameras, mobile phones, MP3 or MP4 players)",
                 "Installing software or applications (apps)",
                 "Changing the settings of any software, including the operating system and security programs",
+                "Copying or moving files or folders",
+                "Creating presentations or documents that integrate text, images, tables, or graphs",
+                "Programming in a programming language",
+                "Using spreadsheets",
+                "Transferring files between the computer and other devices (digital cameras, mobile phones, MP3 or MP4 players)",
                 ""
               ]
             },
             "title": "Computer skills"
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16-24 years",
+                "25-74 years",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Sexo",
@@ -5815,19 +5826,6 @@
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16-24 years",
-                "16-74 years",
-                "25-74 years",
-                ""
-              ]
-            },
-            "title": "Age"
           },
           {
             "name": "Territorio",
