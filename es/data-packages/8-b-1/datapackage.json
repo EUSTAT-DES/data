@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Gasto de las administraciones públicas autonómicas en fomento del empleo",
-                "Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al PIB",
+                "Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al gasto total",
                 ""
               ]
             },

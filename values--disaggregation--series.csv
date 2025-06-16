@@ -40,7 +40,7 @@ EU_EMAS,Ingurumena kudeatzeko eta ikuskatzeko sistema komunitarioa (EMAS) duten 
 EU_EMP_LFS,Okupazio-tasa,Tasa de ocupación,Employment rate,837,1
 EU_EMP_LFS_GAP,Genero-aldea okupazioan,Brecha de género en la ocupación,Gender gap in employment,12,1
 EU_EXP_EMP,Administrazio publiko autonomikoek enplegua sustatzeko egiten duten gastua,Gasto de las administraciones públicas autonómicas en fomento del empleo,Regional public administration spending on employment promotion,1,1
-EU_EXP_EMPGDP,"Administrazio publiko autonomikoek enplegua sustatzeko egiten duten gastua, gastu guztiarekiko",Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al PIB,Regional public administration spending on employment promotion as a proportion of total spending,1,1
+EU_EXP_EMPGDP,"Administrazio publiko autonomikoek enplegua sustatzeko egiten duten gastua, gastu guztiarekiko",Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al gasto total,Regional public administration spending on employment promotion as a proportion of total spending,1,1
 EU_FPA_IPC,Elikagaien prezioaren indizea,Índice de precio de los alimentos,Food price index,2,1
 EU_FRN_FDI_EUR,Zuzeneko inbertsio garbia Garapenerako Laguntza Ofiziala jasotzen duten herrialdeetan,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo,Net direct investment in countries receiving Official Development Assistance,1,1
 EU_FRN_FDI_GDP,"Zuzeneko inbertsio garbia Garapenerako Laguntza Ofiziala jasotzen duten herrialdeetan, BPGrekiko proportzioan",Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB,Net direct investment in countries receiving Official Development Assistance as a proportion of GDP,1,1
@@ -68,12 +68,12 @@ EU_SESPI,Diru-sarreren parekotasun-indizea (goiko eta beheko kintilak),Índice d
 EU_SH_DTH_NCOM,Heriotza-tasa,Tasa de mortalidad,Mortality rate,60,1
 EU_W_GENPCAP,Biztanle bakoitzeko bildutako hiri-hondakinak,Residuos urbanos recogidos per cápita,Urban waste collected per capita,4,1
 EU_WWT_COLECT,Kolektore-sistema batera konektatutako etxeko hondakin-uren fluxuen proportzioa,Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores,Proportion of domestic wastewater streams connected to a collection system,1,1
-EU_XPD_LOCALGBPC,Tokiko administrazioak likidatutako gastua aurrekontuko gastuarekiko proportzioan,Gasto liquidado por la administración local en relación al gasto presupuestado,EU_XPD_LOCALGBPC,275,1
+EU_XPD_LOCALGBPC,Tokiko administrazioak likidatutako gastua aurrekontuko gastuarekiko proportzioan,Gasto liquidado por la administración local en relación al gasto presupuestado,Liquidated expenditure of the municipalities in proportion to the originally approved budget,275,1
 FP_CPI_TOTL_ZG,Kontsumoko prezioen indizearen urte arteko aldakuntza-tasa,Tasa de variación interanual del índice de precios de consumo,Year-on-year rate of change in the Consumer Price Index,4,1
 GB_POP_SCIERD,Ikertzaileen kopurua (lanaldi osoaren baliokidean) milioi bat biztanleko,Número de personas investigadoras (en equivalente a tiempo completo) por cada millón de habitantes,Number of researchers (full-time equivalent) per million inhabitants,4,1
 GB_XPD_RSDV,"Ikerketa eta garapeneko gastuak, BPGrekiko proportzioan",Gastos en investigación y desarrollo en proporción al PIB,Research and development expenditure as a proportion of GDP,4,1
 GC_BAL_CASH_GD_ZS,"Administrazio publiko autonomikoen zerga-saldoa, BPGrekiko proportzioan",Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB,Fiscal balance of regional public administrations as a proportion of GDP,1,1
-GF_XPD_GBPC,Administrazio autonomikoak likidatutako gastua aurrekontuko gastuarekiko proportzioan,Gasto liquidado por la administración autonómica en relación al gasto presupuestado,GF_XPD_GBPC,1,1
+GF_XPD_GBPC,Administrazio autonomikoak likidatutako gastua aurrekontuko gastuarekiko proportzioan,Gasto liquidado por la administración autonómica en relación al gasto presupuestado,Liquidated expenditure of the Basque Government in proportion to the originally approved budget,1,1
 IT_MOB_3GNTWK,"Sare mugikorrez estalitako etxeen proportzioa 3,5G","Proporción de hogares cubiertos con redes móviles 3,5G",Proportion of households covered by 3.5G mobile networks,4,1
 IT_MOB_4GNTWK,4G sare mugikorrez estalitako etxeen proportzioa,Proporción de hogares cubiertos con redes móviles 4G,Proportion of households covered by 4G mobile networks,4,1
 IT_MOB_5GNTWK,5G sare mugikorrez estalitako etxeen proportzioa,Proporción de hogares cubiertos con redes móviles 5G,Proportion of households covered by 5G mobile networks,4,1

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "GF_XPD_GBPC",
-                "EU_XPD_LOCALGBPC",
+                "Liquidated expenditure of the Basque Government in proportion to the originally approved budget",
+                "Liquidated expenditure of the municipalities in proportion to the originally approved budget",
                 ""
               ]
             },
