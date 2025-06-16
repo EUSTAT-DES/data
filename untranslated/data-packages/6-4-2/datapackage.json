@@ -37,6 +37,21 @@
             }
           },
           {
+            "name": "Uso",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "H20_RES",
+                "H20_IND",
+                "H20_COM",
+                "H20_PUB",
+                "H20_AGR",
+                "H20_OTR",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
