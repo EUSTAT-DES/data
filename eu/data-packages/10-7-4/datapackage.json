@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Urtea"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "100.000 biztanleko",
+                ""
+              ]
+            },
+            "title": "Unitatea"
           },
           {
             "name": "Value",
