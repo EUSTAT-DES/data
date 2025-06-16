@@ -72,7 +72,7 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 
 10-2-1-titulo: "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos"
 10-4-2-titulo: "Índice de Gini del ingreso disponible equivalente (postfiscal)"
-10-7-3-titulo: "Número de personas refugiadas por cada 100.000 habitantes"
+10-7-4-titulo: "Número de personas refugiadas por cada 100.000 habitantes"
 
 11-1-1-titulo: "Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda"
 11-4-1-titulo: "Gasto per cápita de las administraciones públicas autonómicas y locales en la preservación, protección y conservación del patrimonio cultural"
@@ -273,6 +273,7 @@ OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
 10-2-1-contenido: "<b>Dirección deseada:</b> Descenso"
 10-4-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 10-4-2-contenido: "<b>Dirección deseada:</b> Descenso"
+10-7-4-contenido: "<b>Dirección deseada:</b> Descenso"
 
 11-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
 11-3-2-contenido: "<b>Dirección deseada:</b> Ascenso"
