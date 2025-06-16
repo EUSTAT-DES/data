@@ -26,8 +26,7 @@ formula: |
   $DAL^{t} =$ dependencias administrativas locales (ayuntamientos) en el año $t$
 
 
-desagregacion: >- 
-   Tipo de gestión del agua: gestión y saneamiento de aguas de consumo; gestión de aguas de baño
+desagregacion:
 
  
 periodicidad: FUENTE.FREQ_A
