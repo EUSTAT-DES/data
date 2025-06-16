@@ -1,29 +1,121 @@
-Year,Series,Age,Units,Value
-2021,Adolescent fertility rate (ages 10–14 and 15–19),10-14 years,"Per 1,000 inhabitants",0.1
-2020,Adolescent fertility rate (ages 10–14 and 15–19),10-14 years,"Per 1,000 inhabitants",0.0
-2010,Adolescent fertility rate (ages 10–14 and 15–19),10-14 years,"Per 1,000 inhabitants",0.1
-2015,Adolescent fertility rate (ages 10–14 and 15–19),10-14 years,"Per 1,000 inhabitants",0.0
-2013,Adolescent fertility rate (ages 10–14 and 15–19),10-14 years,"Per 1,000 inhabitants",0.1
-2016,Adolescent fertility rate (ages 10–14 and 15–19),10-14 years,"Per 1,000 inhabitants",0.0
-2014,Adolescent fertility rate (ages 10–14 and 15–19),10-14 years,"Per 1,000 inhabitants",0.0
-2018,Adolescent fertility rate (ages 10–14 and 15–19),10-14 years,"Per 1,000 inhabitants",0.1
-2019,Adolescent fertility rate (ages 10–14 and 15–19),10-14 years,"Per 1,000 inhabitants",0.0
-2011,Adolescent fertility rate (ages 10–14 and 15–19),10-14 years,"Per 1,000 inhabitants",0.0
-2022,Adolescent fertility rate (ages 10–14 and 15–19),10-14 years,"Per 1,000 inhabitants",0.1
-2017,Adolescent fertility rate (ages 10–14 and 15–19),10-14 years,"Per 1,000 inhabitants",0.1
-2023,Adolescent fertility rate (ages 10–14 and 15–19),10-14 years,"Per 1,000 inhabitants",0.0
-2012,Adolescent fertility rate (ages 10–14 and 15–19),10-14 years,"Per 1,000 inhabitants",0.1
-2014,Adolescent fertility rate (ages 10–14 and 15–19),15-19 years,"Per 1,000 inhabitants",5.7
-2016,Adolescent fertility rate (ages 10–14 and 15–19),15-19 years,"Per 1,000 inhabitants",4.8
-2015,Adolescent fertility rate (ages 10–14 and 15–19),15-19 years,"Per 1,000 inhabitants",5.0
-2019,Adolescent fertility rate (ages 10–14 and 15–19),15-19 years,"Per 1,000 inhabitants",4.0
-2017,Adolescent fertility rate (ages 10–14 and 15–19),15-19 years,"Per 1,000 inhabitants",4.4
-2018,Adolescent fertility rate (ages 10–14 and 15–19),15-19 years,"Per 1,000 inhabitants",3.7
-2021,Adolescent fertility rate (ages 10–14 and 15–19),15-19 years,"Per 1,000 inhabitants",3.0
-2020,Adolescent fertility rate (ages 10–14 and 15–19),15-19 years,"Per 1,000 inhabitants",3.3
-2013,Adolescent fertility rate (ages 10–14 and 15–19),15-19 years,"Per 1,000 inhabitants",5.7
-2023,Adolescent fertility rate (ages 10–14 and 15–19),15-19 years,"Per 1,000 inhabitants",3.1
-2022,Adolescent fertility rate (ages 10–14 and 15–19),15-19 years,"Per 1,000 inhabitants",3.1
-2010,Adolescent fertility rate (ages 10–14 and 15–19),15-19 years,"Per 1,000 inhabitants",6.5
-2012,Adolescent fertility rate (ages 10–14 and 15–19),15-19 years,"Per 1,000 inhabitants",6.0
-2011,Adolescent fertility rate (ages 10–14 and 15–19),15-19 years,"Per 1,000 inhabitants",5.9
+Year,Age,Province,Units,Value
+2020,10-14 years,,"Per 1,000 inhabitants",0.0
+2017,10-14 years,,"Per 1,000 inhabitants",0.1
+2011,10-14 years,,"Per 1,000 inhabitants",0.0
+2013,10-14 years,,"Per 1,000 inhabitants",0.1
+2016,10-14 years,,"Per 1,000 inhabitants",0.0
+2024,10-14 years,,"Per 1,000 inhabitants",0.0
+2023,10-14 years,,"Per 1,000 inhabitants",0.0
+2022,10-14 years,,"Per 1,000 inhabitants",0.1
+2019,10-14 years,,"Per 1,000 inhabitants",0.0
+2014,10-14 years,,"Per 1,000 inhabitants",0.0
+2018,10-14 years,,"Per 1,000 inhabitants",0.1
+2012,10-14 years,,"Per 1,000 inhabitants",0.1
+2010,10-14 years,,"Per 1,000 inhabitants",0.1
+2015,10-14 years,,"Per 1,000 inhabitants",0.0
+2021,10-14 years,,"Per 1,000 inhabitants",0.1
+2021,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.1
+2017,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2013,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2011,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.2
+2016,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2024,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2019,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2023,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2010,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2020,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2012,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.1
+2018,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2014,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2022,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2015,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2023,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.0
+2018,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.1
+2022,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.1
+2014,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.1
+2024,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.0
+2013,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.1
+2010,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.0
+2012,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.2
+2017,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.0
+2011,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.0
+2016,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.0
+2019,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.1
+2020,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.1
+2015,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.1
+2021,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.2
+2024,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.1
+2019,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
+2014,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
+2021,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
+2016,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.1
+2017,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.1
+2010,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.2
+2023,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
+2012,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
+2020,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
+2022,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
+2013,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.1
+2015,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
+2018,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
+2011,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
+2024,15-19 years,,"Per 1,000 inhabitants",2.6
+2016,15-19 years,,"Per 1,000 inhabitants",4.8
+2020,15-19 years,,"Per 1,000 inhabitants",3.3
+2019,15-19 years,,"Per 1,000 inhabitants",4.0
+2021,15-19 years,,"Per 1,000 inhabitants",3.0
+2018,15-19 years,,"Per 1,000 inhabitants",3.7
+2013,15-19 years,,"Per 1,000 inhabitants",5.7
+2014,15-19 years,,"Per 1,000 inhabitants",5.7
+2012,15-19 years,,"Per 1,000 inhabitants",5.9
+2017,15-19 years,,"Per 1,000 inhabitants",4.4
+2015,15-19 years,,"Per 1,000 inhabitants",5.0
+2010,15-19 years,,"Per 1,000 inhabitants",6.4
+2011,15-19 years,,"Per 1,000 inhabitants",5.9
+2022,15-19 years,,"Per 1,000 inhabitants",3.1
+2023,15-19 years,,"Per 1,000 inhabitants",3.1
+2011,15-19 years,Araba/Álava,"Per 1,000 inhabitants",8.6
+2018,15-19 years,Araba/Álava,"Per 1,000 inhabitants",5.2
+2014,15-19 years,Araba/Álava,"Per 1,000 inhabitants",6.7
+2021,15-19 years,Araba/Álava,"Per 1,000 inhabitants",2.6
+2023,15-19 years,Araba/Álava,"Per 1,000 inhabitants",3.3
+2016,15-19 years,Araba/Álava,"Per 1,000 inhabitants",6.7
+2012,15-19 years,Araba/Álava,"Per 1,000 inhabitants",7.4
+2024,15-19 years,Araba/Álava,"Per 1,000 inhabitants",3.3
+2022,15-19 years,Araba/Álava,"Per 1,000 inhabitants",3.8
+2020,15-19 years,Araba/Álava,"Per 1,000 inhabitants",3.6
+2019,15-19 years,Araba/Álava,"Per 1,000 inhabitants",5.2
+2015,15-19 years,Araba/Álava,"Per 1,000 inhabitants",7.2
+2010,15-19 years,Araba/Álava,"Per 1,000 inhabitants",8.6
+2017,15-19 years,Araba/Álava,"Per 1,000 inhabitants",6.7
+2013,15-19 years,Araba/Álava,"Per 1,000 inhabitants",6.5
+2024,15-19 years,Bizkaia,"Per 1,000 inhabitants",2.6
+2023,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.6
+2021,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.8
+2019,15-19 years,Bizkaia,"Per 1,000 inhabitants",4.5
+2018,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.6
+2017,15-19 years,Bizkaia,"Per 1,000 inhabitants",4.6
+2016,15-19 years,Bizkaia,"Per 1,000 inhabitants",4.8
+2015,15-19 years,Bizkaia,"Per 1,000 inhabitants",5.4
+2013,15-19 years,Bizkaia,"Per 1,000 inhabitants",6.5
+2012,15-19 years,Bizkaia,"Per 1,000 inhabitants",6.9
+2011,15-19 years,Bizkaia,"Per 1,000 inhabitants",6.2
+2014,15-19 years,Bizkaia,"Per 1,000 inhabitants",6.7
+2010,15-19 years,Bizkaia,"Per 1,000 inhabitants",6.8
+2022,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.4
+2020,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.9
+2019,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.7
+2010,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",4.8
+2024,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.1
+2023,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.4
+2022,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.5
+2021,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.2
+2020,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.2
+2018,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.1
+2017,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.2
+2015,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.5
+2014,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.9
+2013,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",4.1
+2012,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.9
+2016,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.9
+2011,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",4.4

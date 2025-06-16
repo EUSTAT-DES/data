@@ -15,22 +15,24 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SP_DYN_ADKL",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
                 "Y10T14",
                 "Y15T19",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES211",
+                "ES213",
+                "ES212",
                 ""
               ]
             }

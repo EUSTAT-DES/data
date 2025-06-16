@@ -16,17 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tasa de fecundidad de las adolescentes (entre 10 y 14 años y entre 15 y 19 años)",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Edad",
             "type": "string",
             "constraints": {
@@ -37,6 +26,19 @@
               ]
             },
             "title": "Edad"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio histórico"
           },
           {
             "name": "Units",

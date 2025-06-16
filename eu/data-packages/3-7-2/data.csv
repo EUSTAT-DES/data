@@ -1,29 +1,121 @@
-Year,Series,Adina,Units,Value
-2021,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),10-14 urte,1.000 biztanleko,0.1
-2020,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),10-14 urte,1.000 biztanleko,0.0
-2010,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),10-14 urte,1.000 biztanleko,0.1
-2015,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),10-14 urte,1.000 biztanleko,0.0
-2013,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),10-14 urte,1.000 biztanleko,0.1
-2016,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),10-14 urte,1.000 biztanleko,0.0
-2014,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),10-14 urte,1.000 biztanleko,0.0
-2018,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),10-14 urte,1.000 biztanleko,0.1
-2019,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),10-14 urte,1.000 biztanleko,0.0
-2011,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),10-14 urte,1.000 biztanleko,0.0
-2022,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),10-14 urte,1.000 biztanleko,0.1
-2017,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),10-14 urte,1.000 biztanleko,0.1
-2023,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),10-14 urte,1.000 biztanleko,0.0
-2012,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),10-14 urte,1.000 biztanleko,0.1
-2014,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),15-19 urte,1.000 biztanleko,5.7
-2016,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),15-19 urte,1.000 biztanleko,4.8
-2015,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),15-19 urte,1.000 biztanleko,5.0
-2019,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),15-19 urte,1.000 biztanleko,4.0
-2017,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),15-19 urte,1.000 biztanleko,4.4
-2018,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),15-19 urte,1.000 biztanleko,3.7
-2021,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),15-19 urte,1.000 biztanleko,3.0
-2020,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),15-19 urte,1.000 biztanleko,3.3
-2013,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),15-19 urte,1.000 biztanleko,5.7
-2023,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),15-19 urte,1.000 biztanleko,3.1
-2022,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),15-19 urte,1.000 biztanleko,3.1
-2010,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),15-19 urte,1.000 biztanleko,6.5
-2012,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),15-19 urte,1.000 biztanleko,6.0
-2011,Nerabeen ugalkortasun-tasa (10-14 urte eta 15-19 urte),15-19 urte,1.000 biztanleko,5.9
+Year,Adina,Lurralde historikoa,Units,Value
+2020,10-14 urte,,1.000 biztanleko,0.0
+2017,10-14 urte,,1.000 biztanleko,0.1
+2011,10-14 urte,,1.000 biztanleko,0.0
+2013,10-14 urte,,1.000 biztanleko,0.1
+2016,10-14 urte,,1.000 biztanleko,0.0
+2024,10-14 urte,,1.000 biztanleko,0.0
+2023,10-14 urte,,1.000 biztanleko,0.0
+2022,10-14 urte,,1.000 biztanleko,0.1
+2019,10-14 urte,,1.000 biztanleko,0.0
+2014,10-14 urte,,1.000 biztanleko,0.0
+2018,10-14 urte,,1.000 biztanleko,0.1
+2012,10-14 urte,,1.000 biztanleko,0.1
+2010,10-14 urte,,1.000 biztanleko,0.1
+2015,10-14 urte,,1.000 biztanleko,0.0
+2021,10-14 urte,,1.000 biztanleko,0.1
+2021,10-14 urte,Araba / Álava,1.000 biztanleko,0.1
+2017,10-14 urte,Araba / Álava,1.000 biztanleko,0.0
+2013,10-14 urte,Araba / Álava,1.000 biztanleko,0.0
+2011,10-14 urte,Araba / Álava,1.000 biztanleko,0.2
+2016,10-14 urte,Araba / Álava,1.000 biztanleko,0.0
+2024,10-14 urte,Araba / Álava,1.000 biztanleko,0.0
+2019,10-14 urte,Araba / Álava,1.000 biztanleko,0.0
+2023,10-14 urte,Araba / Álava,1.000 biztanleko,0.0
+2010,10-14 urte,Araba / Álava,1.000 biztanleko,0.0
+2020,10-14 urte,Araba / Álava,1.000 biztanleko,0.0
+2012,10-14 urte,Araba / Álava,1.000 biztanleko,0.1
+2018,10-14 urte,Araba / Álava,1.000 biztanleko,0.0
+2014,10-14 urte,Araba / Álava,1.000 biztanleko,0.0
+2022,10-14 urte,Araba / Álava,1.000 biztanleko,0.0
+2015,10-14 urte,Araba / Álava,1.000 biztanleko,0.0
+2023,10-14 urte,Bizkaia,1.000 biztanleko,0.0
+2018,10-14 urte,Bizkaia,1.000 biztanleko,0.1
+2022,10-14 urte,Bizkaia,1.000 biztanleko,0.1
+2014,10-14 urte,Bizkaia,1.000 biztanleko,0.1
+2024,10-14 urte,Bizkaia,1.000 biztanleko,0.0
+2013,10-14 urte,Bizkaia,1.000 biztanleko,0.1
+2010,10-14 urte,Bizkaia,1.000 biztanleko,0.0
+2012,10-14 urte,Bizkaia,1.000 biztanleko,0.2
+2017,10-14 urte,Bizkaia,1.000 biztanleko,0.0
+2011,10-14 urte,Bizkaia,1.000 biztanleko,0.0
+2016,10-14 urte,Bizkaia,1.000 biztanleko,0.0
+2019,10-14 urte,Bizkaia,1.000 biztanleko,0.1
+2020,10-14 urte,Bizkaia,1.000 biztanleko,0.1
+2015,10-14 urte,Bizkaia,1.000 biztanleko,0.1
+2021,10-14 urte,Bizkaia,1.000 biztanleko,0.2
+2024,10-14 urte,Gipuzkoa,1.000 biztanleko,0.1
+2019,10-14 urte,Gipuzkoa,1.000 biztanleko,0.0
+2014,10-14 urte,Gipuzkoa,1.000 biztanleko,0.0
+2021,10-14 urte,Gipuzkoa,1.000 biztanleko,0.0
+2016,10-14 urte,Gipuzkoa,1.000 biztanleko,0.1
+2017,10-14 urte,Gipuzkoa,1.000 biztanleko,0.1
+2010,10-14 urte,Gipuzkoa,1.000 biztanleko,0.2
+2023,10-14 urte,Gipuzkoa,1.000 biztanleko,0.0
+2012,10-14 urte,Gipuzkoa,1.000 biztanleko,0.0
+2020,10-14 urte,Gipuzkoa,1.000 biztanleko,0.0
+2022,10-14 urte,Gipuzkoa,1.000 biztanleko,0.0
+2013,10-14 urte,Gipuzkoa,1.000 biztanleko,0.1
+2015,10-14 urte,Gipuzkoa,1.000 biztanleko,0.0
+2018,10-14 urte,Gipuzkoa,1.000 biztanleko,0.0
+2011,10-14 urte,Gipuzkoa,1.000 biztanleko,0.0
+2024,15-19 urte,,1.000 biztanleko,2.6
+2016,15-19 urte,,1.000 biztanleko,4.8
+2020,15-19 urte,,1.000 biztanleko,3.3
+2019,15-19 urte,,1.000 biztanleko,4.0
+2021,15-19 urte,,1.000 biztanleko,3.0
+2018,15-19 urte,,1.000 biztanleko,3.7
+2013,15-19 urte,,1.000 biztanleko,5.7
+2014,15-19 urte,,1.000 biztanleko,5.7
+2012,15-19 urte,,1.000 biztanleko,5.9
+2017,15-19 urte,,1.000 biztanleko,4.4
+2015,15-19 urte,,1.000 biztanleko,5.0
+2010,15-19 urte,,1.000 biztanleko,6.4
+2011,15-19 urte,,1.000 biztanleko,5.9
+2022,15-19 urte,,1.000 biztanleko,3.1
+2023,15-19 urte,,1.000 biztanleko,3.1
+2011,15-19 urte,Araba / Álava,1.000 biztanleko,8.6
+2018,15-19 urte,Araba / Álava,1.000 biztanleko,5.2
+2014,15-19 urte,Araba / Álava,1.000 biztanleko,6.7
+2021,15-19 urte,Araba / Álava,1.000 biztanleko,2.6
+2023,15-19 urte,Araba / Álava,1.000 biztanleko,3.3
+2016,15-19 urte,Araba / Álava,1.000 biztanleko,6.7
+2012,15-19 urte,Araba / Álava,1.000 biztanleko,7.4
+2024,15-19 urte,Araba / Álava,1.000 biztanleko,3.3
+2022,15-19 urte,Araba / Álava,1.000 biztanleko,3.8
+2020,15-19 urte,Araba / Álava,1.000 biztanleko,3.6
+2019,15-19 urte,Araba / Álava,1.000 biztanleko,5.2
+2015,15-19 urte,Araba / Álava,1.000 biztanleko,7.2
+2010,15-19 urte,Araba / Álava,1.000 biztanleko,8.6
+2017,15-19 urte,Araba / Álava,1.000 biztanleko,6.7
+2013,15-19 urte,Araba / Álava,1.000 biztanleko,6.5
+2024,15-19 urte,Bizkaia,1.000 biztanleko,2.6
+2023,15-19 urte,Bizkaia,1.000 biztanleko,3.6
+2021,15-19 urte,Bizkaia,1.000 biztanleko,3.8
+2019,15-19 urte,Bizkaia,1.000 biztanleko,4.5
+2018,15-19 urte,Bizkaia,1.000 biztanleko,3.6
+2017,15-19 urte,Bizkaia,1.000 biztanleko,4.6
+2016,15-19 urte,Bizkaia,1.000 biztanleko,4.8
+2015,15-19 urte,Bizkaia,1.000 biztanleko,5.4
+2013,15-19 urte,Bizkaia,1.000 biztanleko,6.5
+2012,15-19 urte,Bizkaia,1.000 biztanleko,6.9
+2011,15-19 urte,Bizkaia,1.000 biztanleko,6.2
+2014,15-19 urte,Bizkaia,1.000 biztanleko,6.7
+2010,15-19 urte,Bizkaia,1.000 biztanleko,6.8
+2022,15-19 urte,Bizkaia,1.000 biztanleko,3.4
+2020,15-19 urte,Bizkaia,1.000 biztanleko,3.9
+2019,15-19 urte,Gipuzkoa,1.000 biztanleko,2.7
+2010,15-19 urte,Gipuzkoa,1.000 biztanleko,4.8
+2024,15-19 urte,Gipuzkoa,1.000 biztanleko,2.1
+2023,15-19 urte,Gipuzkoa,1.000 biztanleko,2.4
+2022,15-19 urte,Gipuzkoa,1.000 biztanleko,2.5
+2021,15-19 urte,Gipuzkoa,1.000 biztanleko,2.2
+2020,15-19 urte,Gipuzkoa,1.000 biztanleko,2.2
+2018,15-19 urte,Gipuzkoa,1.000 biztanleko,3.1
+2017,15-19 urte,Gipuzkoa,1.000 biztanleko,3.2
+2015,15-19 urte,Gipuzkoa,1.000 biztanleko,3.5
+2014,15-19 urte,Gipuzkoa,1.000 biztanleko,3.9
+2013,15-19 urte,Gipuzkoa,1.000 biztanleko,4.1
+2012,15-19 urte,Gipuzkoa,1.000 biztanleko,3.9
+2016,15-19 urte,Gipuzkoa,1.000 biztanleko,3.9
+2011,15-19 urte,Gipuzkoa,1.000 biztanleko,4.4
