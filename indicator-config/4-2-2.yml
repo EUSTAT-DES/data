@@ -32,8 +32,8 @@ sort: ''
 sources:
   - organisation: FUENTE.Eustat
     periodicity: FUENTE.FREQ_A
-    url: FUENTE.Eustat_ceens_url
-    url_text: FUENTE.Eustat_ceens
+    url: FUENTE.Eustat_ceme_url
+    url_text: FUENTE.Eustat_ceme
     logo: FUENTE.Eustat_logo
 standalone: false
 tags:
