@@ -32,24 +32,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 years and over",
+                "Y25T34",
+                "Y_GE35",
+                "16-24 years",
                 "16-29 years",
-                "16-64 years",
                 ""
               ]
             },
             "title": "Age"
           },
           {
-            "name": "Residencia",
+            "name": "Nacionalidad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Foreigner",
+                "NACIO",
+                "EXTR",
                 ""
               ]
             },
-            "title": "Residence"
+            "title": "Nacionalidad"
           },
           {
             "name": "Discapacidad",

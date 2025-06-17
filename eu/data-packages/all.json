@@ -7598,24 +7598,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 urte eta gehiago",
+                "Y25T34",
+                "Y_GE35",
+                "16-24 urte",
                 "16-29 urte",
-                "16-64 urte",
                 ""
               ]
             },
             "title": "Adina"
           },
           {
-            "name": "Residencia",
+            "name": "Nacionalidad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Atzerritarra",
+                "NACIO",
+                "EXTR",
                 ""
               ]
             },
-            "title": "Egoitza"
+            "title": "Nacionalidad"
           },
           {
             "name": "Discapacidad",
