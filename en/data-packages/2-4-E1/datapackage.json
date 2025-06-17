@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of the farming area under organic farming",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {

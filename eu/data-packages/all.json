@@ -673,17 +673,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nekazaritza ekologikora bideratutako nekazaritza-azaleraren proportzioa",
-                ""
-              ]
-            },
-            "title": "Seriea"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {

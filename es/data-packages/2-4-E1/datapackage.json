@@ -16,17 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción de la superficie agrícola dedicada a la agricultura ecológica",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {

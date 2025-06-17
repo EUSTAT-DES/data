@@ -639,16 +639,6 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EU_SDG_02_40",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
