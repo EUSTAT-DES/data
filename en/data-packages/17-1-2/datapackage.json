@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of regional and local government revenue from taxes",
-                "Proportion of non-financial revenue of government Regional and local governments from taxes",
+                "Proportion of Autonomous Community and local government revenue from taxes",
+                "Proportion of non-financial revenue of Autonomous Community and local governments from taxes",
                 ""
               ]
             },

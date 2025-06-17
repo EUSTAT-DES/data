@@ -1,20 +1,20 @@
 Value,eu,es,en,Disaggregation combinations using this value,Number of indicators
-EU_DMK_DF,Foru-aldundiak,Diputaciones forales,Regional Governments,4,1
-EU_DMK_EDU_AUT,Unibertsitateaz kanpoko ikastetxe autonomikoak,Centros educativos no universitarios autonómicos,Regional Non-University Educational Institutions,4,1
+EU_DMK_DF,Foru-aldundiak,Diputaciones forales,Provincial Governments,4,1
+EU_DMK_EDU_AUT,Unibertsitateaz kanpoko ikastetxe autonomikoak,Centros educativos no universitarios autonómicos,Autonomous Non-University Educational Institutions,4,1
 EU_DMK_FA,Indar armatuak,Fuerzas armadas,Armed Forces,4,1
 EU_DMK_FCSE,Estatuko segurtasun-indar eta -kidegoak,Fuerzas y cuerpos de seguridad del Estado,State Security Forces and Corps,4,1
-EU_DMK_JUST_AUT,Justizia Administrazio autonomikoa,Administración de Justicia autonómica,Regional Justice Administration,4,1
+EU_DMK_JUST_AUT,Justizia Administrazio autonomikoa,Administración de Justicia autonómica,Autonomous Community Justice Administration,4,1
 EU_DMK_JUST_NAC,Estatuko Justizia Administrazioa,Administración de Justicia del Estado,State Justice Administration,4,1
 EU_DMK_MUN,Udalak,Ayuntamientos,City Councils,4,1
-EU_DMK_POL_AUT,Polizia autonomikoa,Policía autonómica,Regional Police,4,1
-EU_DMK_PSRVC_AUT,Sektore publiko autonomikoa,Sector público autonómico,Regional Public Sector,4,1
+EU_DMK_POL_AUT,Polizia autonomikoa,Policía autonómica,Autonomous Community Police,4,1
+EU_DMK_PSRVC_AUT,Sektore publiko autonomikoa,Sector público autonómico,Autonomous Community Public Sector,4,1
 EU_DMK_PSRVC_LOC,Tokiko sektore publikoa,Sector público local,Local Public Sector,4,1
 EU_DMK_PSRVC_NAC,Estatuko sektore publikoa,Sector público estatal,State Public Sector,4,1
-EU_DMK_SAN_AUT,Osasun erakunde autonomikoak,Instituciones sanitarias autonómicas,Regional Health Institutions,4,1
+EU_DMK_SAN_AUT,Osasun erakunde autonomikoak,Instituciones sanitarias autonómicas,Autonomous Community Health Institutions,4,1
 EU_DMK_UNI,Unibertsitateak,Universidades,Universities,4,1
-GEN_G,Sailburuak gobernu autonomikoan,Departamentos en el gobierno autonómico,Departments in the Regional Government,1,1
+GEN_G,Sailburuak gobernu autonomikoan,Departamentos en el gobierno autonómico,Departments in the Autonomous Community Government,1,1
 GEN_LOCG,Alkatetzak,Alcaldías,Mayors,1,1
 GEN_LOCP,Zinegotziak,Concejalías,Council Members,1,1
-GEN_PARL,Legebiltzar autonomikoko hautetsiak,Electas en parlamento autonómico,Elected in the Regional Parliament,1,1
-GEN_REGIOG,Foru-gobernuetako sailburuak,Departamentos en gobiernos forales,Departments in Regional Governments,4,1
-GEN_REGIOPARL,Batzar Nagusietako hautetsiak,Electas en Juntas Generales,Elected in General Assemblies,4,1
+GEN_PARL,Legebiltzar autonomikoko hautetsiak,Electas en parlamento autonómico,Elected in the Autonomous Community Parliament,1,1
+GEN_REGIOG,Foru-gobernuetako sailburuak,Departamentos en gobiernos forales,Departments in Autonomous Community Governments,4,1
+GEN_REGIOPARL,Batzar Nagusietako hautetsiak,Electas en Juntas Generales,Elected in Provincial Assemblies,4,1

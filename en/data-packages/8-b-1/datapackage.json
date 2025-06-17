@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Regional public administration spending on employment promotion",
-                "Regional public administration spending on employment promotion as a proportion of total spending",
+                "Autonomous Community public administration spending on employment promotion",
+                "Autonomous Community public administration spending on employment promotion as a proportion of total spending",
                 ""
               ]
             },

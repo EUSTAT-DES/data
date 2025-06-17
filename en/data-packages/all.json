@@ -677,7 +677,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_SDG_02_40",
+                "Proportion of the farming area under organic farming",
                 ""
               ]
             },
@@ -3182,16 +3182,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Regional Public Sector",
+                "Autonomous Community Public Sector",
                 "Local Public Sector",
                 "State Public Sector",
-                "Regional Health Institutions",
-                "Regional Non-University Educational Institutions",
-                "Regional Governments",
+                "Autonomous Community Health Institutions",
+                "Autonomous Non-University Educational Institutions",
+                "Provincial Governments",
                 "City Councils",
                 "Universities",
-                "Regional Police",
-                "Regional Justice Administration",
+                "Autonomous Community Police",
+                "Autonomous Community Justice Administration",
                 "State Justice Administration",
                 "State Security Forces and Corps",
                 "Armed Forces",
@@ -3634,7 +3634,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Forced labor, servitude, and slavery",
+                "Forced labour, servitude, and slavery",
                 "Organ procurement",
                 "Human trafficking (all purposes)",
                 "Sexual exploitation",
@@ -4258,7 +4258,7 @@
             "constraints": {
               "enum": [
                 "Proportion of municipalities with a municipal emergency plan",
-                "Proportion of municipalities covered by a territorial emergency plan",
+                "Proportion of municipalities covered by a provincial emergency plan",
                 ""
               ]
             },
@@ -6149,8 +6149,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of regional and local government revenue from taxes",
-                "Proportion of non-financial revenue of government Regional and local governments from taxes",
+                "Proportion of Autonomous Community and local government revenue from taxes",
+                "Proportion of non-financial revenue of Autonomous Community and local governments from taxes",
                 ""
               ]
             },
@@ -7622,7 +7622,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MIGRANT",
+                "Foreigner",
                 ""
               ]
             },
@@ -8659,7 +8659,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Liquidated expenditure of the Basque Government in proportion to the originally approved budget",
+                "Expenditure settled by the Autonomous Community administration in relation to the budgeted expenditure",
                 "Liquidated expenditure of the municipalities in proportion to the originally approved budget",
                 ""
               ]
@@ -9438,7 +9438,7 @@
             "constraints": {
               "enum": [
                 "Proportion of municipalities with a municipal emergency plan",
-                "Proportion of municipalities covered by a territorial emergency plan",
+                "Proportion of municipalities covered by a provincial emergency plan",
                 ""
               ]
             },
@@ -10555,8 +10555,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Net Official Development Aid from regional and local governments",
-                "Net Official Development Aid from regional and local governments as a proportion of GDP",
+                "Net Official Development Aid from Autonomous Community and local governments",
+                "Net Official Development Aid from Autonomous Community and local governments as a proportion of GDP",
                 ""
               ]
             },
@@ -11214,7 +11214,7 @@
             "constraints": {
               "enum": [
                 "Proportion of municipalities with a municipal emergency plan",
-                "Proportion of municipalities covered by a territorial emergency plan",
+                "Proportion of municipalities covered by a provincial emergency plan",
                 ""
               ]
             },
@@ -12045,10 +12045,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Elected in the Regional Parliament",
-                "Departments in the Regional Government",
-                "Departments in Regional Governments",
-                "Elected in General Assemblies",
+                "Elected in the Autonomous Community Parliament",
+                "Departments in the Autonomous Community Government",
+                "Departments in Autonomous Community Governments",
+                "Elected in Provincial Assemblies",
                 "Mayors",
                 "Council Members",
                 ""
@@ -12553,8 +12553,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Regional public administration spending on employment promotion",
-                "Regional public administration spending on employment promotion as a proportion of total spending",
+                "Autonomous Community public administration spending on employment promotion",
+                "Autonomous Community public administration spending on employment promotion as a proportion of total spending",
                 ""
               ]
             },
@@ -12744,8 +12744,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Regional and local government",
-                "Regional government",
+                "Autonomous Community and local governments",
+                "Autonomous Community government",
                 "Local government",
                 ""
               ]
