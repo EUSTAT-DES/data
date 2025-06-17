@@ -11149,17 +11149,6 @@
             "title": "Año"
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "5 años",
-                ""
-              ]
-            },
-            "title": "Edad"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {

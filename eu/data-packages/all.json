@@ -11149,17 +11149,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "5 urte",
-                ""
-              ]
-            },
-            "title": "Adina"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {

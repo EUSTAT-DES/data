@@ -10523,16 +10523,6 @@
             "type": "integer"
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y5",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {
