@@ -19,15 +19,19 @@ formula: |
   where:
  
   $AM_{5}^{t} =$ 5-year-old students enrolled in early childhood, primary and special 
-  education in the school year $t-1$
+  education in year $t$
 
-  $P_{5}^{t} =$ 5-year-old population as of January 1 of year $t$
+  $P_{5}^{t} =$ 5-year-old population in year $t$
 
 
 desagregacion: | 
   Sex
 
   Province
+
+  County
+
+  Municipality
 
 periodicidad: FUENTE.FREQ_A
 
@@ -69,5 +73,5 @@ indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Meta
 
 informacion_interes: 
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''
