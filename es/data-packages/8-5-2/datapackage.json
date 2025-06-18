@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y25T34",
-                "Y_GE35",
+                "25-34 años",
+                "35 años y más",
                 "16-24 años",
                 "16-29 años",
                 ""
@@ -46,8 +46,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NACIO",
-                "EXTR",
+                "Nacionalidad española",
+                "Nacionalidad extranjera",
                 ""
               ]
             },
@@ -63,7 +63,7 @@
                 ""
               ]
             },
-            "title": "Personas sin y con discapacidad"
+            "title": "Discapacidad"
           },
           {
             "name": "Territorio",
