@@ -15,32 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_TLF_NEET_19ICLS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
                 "F",
                 "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y15T24",
                 ""
               ]
             }

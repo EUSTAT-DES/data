@@ -16,17 +16,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Osasun-langileen dentsitatea eta banaketa",
-                ""
-              ]
-            },
-            "title": "Seriea"
-          },
-          {
             "name": "Profesion",
             "type": "string",
             "constraints": {

@@ -16,17 +16,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ikasten ez duten, enplegurik ez duten eta gaikuntzarik jasotzen ez duten gazteen proportzioa",
-                ""
-              ]
-            },
-            "title": "Seriea"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {
@@ -37,17 +26,6 @@
               ]
             },
             "title": "Sexua"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24 urte",
-                ""
-              ]
-            },
-            "title": "Adina"
           },
           {
             "name": "Territorio",

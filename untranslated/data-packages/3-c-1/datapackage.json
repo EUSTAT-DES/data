@@ -15,16 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_MED_DEN",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Profesion",
             "type": "string",
             "constraints": {

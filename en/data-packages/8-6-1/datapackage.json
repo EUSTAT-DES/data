@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of youth not in education, employment, or training",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {
@@ -37,17 +26,6 @@
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24 years",
-                ""
-              ]
-            },
-            "title": "Age"
           },
           {
             "name": "Territorio",

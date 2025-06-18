@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Density and distribution of health care workers.",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Profesion",
             "type": "string",
             "constraints": {

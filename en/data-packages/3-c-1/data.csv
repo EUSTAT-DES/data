@@ -1,673 +1,841 @@
-Year,Series,Profession,Sex,Province,Units,Value
-2023,Density and distribution of health care workers.,Physician,,,"Per 10,000 inhabitants",72.1
-2020,Density and distribution of health care workers.,Physician,,,"Per 10,000 inhabitants",66.9
-2015,Density and distribution of health care workers.,Physician,,,"Per 10,000 inhabitants",60.0
-2014,Density and distribution of health care workers.,Physician,,,"Per 10,000 inhabitants",59.3
-2012,Density and distribution of health care workers.,Physician,,,"Per 10,000 inhabitants",57.0
-2016,Density and distribution of health care workers.,Physician,,,"Per 10,000 inhabitants",61.1
-2011,Density and distribution of health care workers.,Physician,,,"Per 10,000 inhabitants",55.8
-2019,Density and distribution of health care workers.,Physician,,,"Per 10,000 inhabitants",65.4
-2013,Density and distribution of health care workers.,Physician,,,"Per 10,000 inhabitants",58.1
-2010,Density and distribution of health care workers.,Physician,,,"Per 10,000 inhabitants",54.5
-2021,Density and distribution of health care workers.,Physician,,,"Per 10,000 inhabitants",68.7
-2022,Density and distribution of health care workers.,Physician,,,"Per 10,000 inhabitants",70.6
-2018,Density and distribution of health care workers.,Physician,,,"Per 10,000 inhabitants",63.6
-2017,Density and distribution of health care workers.,Physician,,,"Per 10,000 inhabitants",62.2
-2022,Density and distribution of health care workers.,Physician,,Araba/Álava,"Per 10,000 inhabitants",63.9
-2016,Density and distribution of health care workers.,Physician,,Araba/Álava,"Per 10,000 inhabitants",58.8
-2019,Density and distribution of health care workers.,Physician,,Araba/Álava,"Per 10,000 inhabitants",60.7
-2014,Density and distribution of health care workers.,Physician,,Araba/Álava,"Per 10,000 inhabitants",57.9
-2015,Density and distribution of health care workers.,Physician,,Araba/Álava,"Per 10,000 inhabitants",58.0
-2012,Density and distribution of health care workers.,Physician,,Araba/Álava,"Per 10,000 inhabitants",55.1
-2018,Density and distribution of health care workers.,Physician,,Araba/Álava,"Per 10,000 inhabitants",59.7
-2010,Density and distribution of health care workers.,Physician,,Araba/Álava,"Per 10,000 inhabitants",51.9
-2011,Density and distribution of health care workers.,Physician,,Araba/Álava,"Per 10,000 inhabitants",54.0
-2013,Density and distribution of health care workers.,Physician,,Araba/Álava,"Per 10,000 inhabitants",56.5
-2017,Density and distribution of health care workers.,Physician,,Araba/Álava,"Per 10,000 inhabitants",59.4
-2020,Density and distribution of health care workers.,Physician,,Araba/Álava,"Per 10,000 inhabitants",61.3
-2021,Density and distribution of health care workers.,Physician,,Araba/Álava,"Per 10,000 inhabitants",62.7
-2023,Density and distribution of health care workers.,Physician,,Araba/Álava,"Per 10,000 inhabitants",65.1
-2013,Density and distribution of health care workers.,Physician,,Bizkaia,"Per 10,000 inhabitants",61.2
-2019,Density and distribution of health care workers.,Physician,,Bizkaia,"Per 10,000 inhabitants",70.4
-2016,Density and distribution of health care workers.,Physician,,Bizkaia,"Per 10,000 inhabitants",64.9
-2010,Density and distribution of health care workers.,Physician,,Bizkaia,"Per 10,000 inhabitants",57.2
-2011,Density and distribution of health care workers.,Physician,,Bizkaia,"Per 10,000 inhabitants",58.6
-2015,Density and distribution of health care workers.,Physician,,Bizkaia,"Per 10,000 inhabitants",63.4
-2018,Density and distribution of health care workers.,Physician,,Bizkaia,"Per 10,000 inhabitants",68.2
-2023,Density and distribution of health care workers.,Physician,,Bizkaia,"Per 10,000 inhabitants",78.4
-2022,Density and distribution of health care workers.,Physician,,Bizkaia,"Per 10,000 inhabitants",76.2
-2012,Density and distribution of health care workers.,Physician,,Bizkaia,"Per 10,000 inhabitants",59.9
-2017,Density and distribution of health care workers.,Physician,,Bizkaia,"Per 10,000 inhabitants",66.2
-2021,Density and distribution of health care workers.,Physician,,Bizkaia,"Per 10,000 inhabitants",74.1
-2014,Density and distribution of health care workers.,Physician,,Bizkaia,"Per 10,000 inhabitants",62.4
-2020,Density and distribution of health care workers.,Physician,,Bizkaia,"Per 10,000 inhabitants",72.2
-2010,Density and distribution of health care workers.,Physician,,Gipuzkoa,"Per 10,000 inhabitants",51.1
-2012,Density and distribution of health care workers.,Physician,,Gipuzkoa,"Per 10,000 inhabitants",53.0
-2018,Density and distribution of health care workers.,Physician,,Gipuzkoa,"Per 10,000 inhabitants",58.1
-2017,Density and distribution of health care workers.,Physician,,Gipuzkoa,"Per 10,000 inhabitants",57.0
-2016,Density and distribution of health care workers.,Physician,,Gipuzkoa,"Per 10,000 inhabitants",56.1
-2011,Density and distribution of health care workers.,Physician,,Gipuzkoa,"Per 10,000 inhabitants",52.0
-2021,Density and distribution of health care workers.,Physician,,Gipuzkoa,"Per 10,000 inhabitants",62.8
-2019,Density and distribution of health care workers.,Physician,,Gipuzkoa,"Per 10,000 inhabitants",59.6
-2015,Density and distribution of health care workers.,Physician,,Gipuzkoa,"Per 10,000 inhabitants",55.4
-2013,Density and distribution of health care workers.,Physician,,Gipuzkoa,"Per 10,000 inhabitants",53.8
-2022,Density and distribution of health care workers.,Physician,,Gipuzkoa,"Per 10,000 inhabitants",64.7
-2023,Density and distribution of health care workers.,Physician,,Gipuzkoa,"Per 10,000 inhabitants",65.5
-2020,Density and distribution of health care workers.,Physician,,Gipuzkoa,"Per 10,000 inhabitants",61.1
-2014,Density and distribution of health care workers.,Physician,,Gipuzkoa,"Per 10,000 inhabitants",54.9
-2023,Density and distribution of health care workers.,Physician,Female,,"Per 10,000 inhabitants",80.7
-2015,Density and distribution of health care workers.,Physician,Female,,"Per 10,000 inhabitants",61.6
-2019,Density and distribution of health care workers.,Physician,Female,,"Per 10,000 inhabitants",69.8
-2020,Density and distribution of health care workers.,Physician,Female,,"Per 10,000 inhabitants",72.3
-2012,Density and distribution of health care workers.,Physician,Female,,"Per 10,000 inhabitants",56.8
-2016,Density and distribution of health care workers.,Physician,Female,,"Per 10,000 inhabitants",63.3
-2011,Density and distribution of health care workers.,Physician,Female,,"Per 10,000 inhabitants",54.6
-2018,Density and distribution of health care workers.,Physician,Female,,"Per 10,000 inhabitants",67.1
-2022,Density and distribution of health care workers.,Physician,Female,,"Per 10,000 inhabitants",78.1
-2017,Density and distribution of health care workers.,Physician,Female,,"Per 10,000 inhabitants",65.1
-2013,Density and distribution of health care workers.,Physician,Female,,"Per 10,000 inhabitants",58.5
-2010,Density and distribution of health care workers.,Physician,Female,,"Per 10,000 inhabitants",52.5
-2021,Density and distribution of health care workers.,Physician,Female,,"Per 10,000 inhabitants",75.2
-2014,Density and distribution of health care workers.,Physician,Female,,"Per 10,000 inhabitants",60.1
-2019,Density and distribution of health care workers.,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",66.3
-2020,Density and distribution of health care workers.,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",67.6
-2022,Density and distribution of health care workers.,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",72.5
-2018,Density and distribution of health care workers.,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",64.5
-2011,Density and distribution of health care workers.,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",55.2
-2014,Density and distribution of health care workers.,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",61.4
-2012,Density and distribution of health care workers.,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",57.4
-2013,Density and distribution of health care workers.,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",59.6
-2015,Density and distribution of health care workers.,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",62.1
-2017,Density and distribution of health care workers.,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",63.9
-2010,Density and distribution of health care workers.,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",52.8
-2023,Density and distribution of health care workers.,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",74.7
-2021,Density and distribution of health care workers.,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",70.5
-2016,Density and distribution of health care workers.,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",63.6
-2020,Density and distribution of health care workers.,Physician,Female,Bizkaia,"Per 10,000 inhabitants",76.8
-2023,Density and distribution of health care workers.,Physician,Female,Bizkaia,"Per 10,000 inhabitants",85.7
-2015,Density and distribution of health care workers.,Physician,Female,Bizkaia,"Per 10,000 inhabitants",64.2
-2016,Density and distribution of health care workers.,Physician,Female,Bizkaia,"Per 10,000 inhabitants",66.3
-2018,Density and distribution of health care workers.,Physician,Female,Bizkaia,"Per 10,000 inhabitants",70.8
-2014,Density and distribution of health care workers.,Physician,Female,Bizkaia,"Per 10,000 inhabitants",62.3
-2021,Density and distribution of health care workers.,Physician,Female,Bizkaia,"Per 10,000 inhabitants",79.4
-2013,Density and distribution of health care workers.,Physician,Female,Bizkaia,"Per 10,000 inhabitants",60.8
-2010,Density and distribution of health care workers.,Physician,Female,Bizkaia,"Per 10,000 inhabitants",54.5
-2017,Density and distribution of health care workers.,Physician,Female,Bizkaia,"Per 10,000 inhabitants",68.4
-2011,Density and distribution of health care workers.,Physician,Female,Bizkaia,"Per 10,000 inhabitants",56.5
-2022,Density and distribution of health care workers.,Physician,Female,Bizkaia,"Per 10,000 inhabitants",82.7
-2019,Density and distribution of health care workers.,Physician,Female,Bizkaia,"Per 10,000 inhabitants",74.1
-2012,Density and distribution of health care workers.,Physician,Female,Bizkaia,"Per 10,000 inhabitants",59.1
-2016,Density and distribution of health care workers.,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",58.4
-2022,Density and distribution of health care workers.,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",73.3
-2018,Density and distribution of health care workers.,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",62.3
-2023,Density and distribution of health care workers.,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",75.3
-2019,Density and distribution of health care workers.,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",64.5
-2010,Density and distribution of health care workers.,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",49.1
-2012,Density and distribution of health care workers.,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",52.6
-2011,Density and distribution of health care workers.,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",51.0
-2014,Density and distribution of health care workers.,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",55.9
-2017,Density and distribution of health care workers.,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",60.3
-2015,Density and distribution of health care workers.,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",57.2
-2020,Density and distribution of health care workers.,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",67.3
-2013,Density and distribution of health care workers.,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",54.2
-2021,Density and distribution of health care workers.,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",70.4
-2012,Density and distribution of health care workers.,Physician,Male,,"Per 10,000 inhabitants",57.2
-2016,Density and distribution of health care workers.,Physician,Male,,"Per 10,000 inhabitants",58.8
-2022,Density and distribution of health care workers.,Physician,Male,,"Per 10,000 inhabitants",62.6
-2023,Density and distribution of health care workers.,Physician,Male,,"Per 10,000 inhabitants",63.1
-2020,Density and distribution of health care workers.,Physician,Male,,"Per 10,000 inhabitants",61.2
-2015,Density and distribution of health care workers.,Physician,Male,,"Per 10,000 inhabitants",58.3
-2010,Density and distribution of health care workers.,Physician,Male,,"Per 10,000 inhabitants",56.5
-2013,Density and distribution of health care workers.,Physician,Male,,"Per 10,000 inhabitants",57.6
-2018,Density and distribution of health care workers.,Physician,Male,,"Per 10,000 inhabitants",59.9
-2019,Density and distribution of health care workers.,Physician,Male,,"Per 10,000 inhabitants",60.7
-2021,Density and distribution of health care workers.,Physician,Male,,"Per 10,000 inhabitants",61.8
-2014,Density and distribution of health care workers.,Physician,Male,,"Per 10,000 inhabitants",58.4
-2017,Density and distribution of health care workers.,Physician,Male,,"Per 10,000 inhabitants",59.1
-2011,Density and distribution of health care workers.,Physician,Male,,"Per 10,000 inhabitants",57.1
-2021,Density and distribution of health care workers.,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",54.7
-2018,Density and distribution of health care workers.,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",54.7
-2011,Density and distribution of health care workers.,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",52.7
-2012,Density and distribution of health care workers.,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",52.7
-2013,Density and distribution of health care workers.,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",53.2
-2015,Density and distribution of health care workers.,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",53.9
-2022,Density and distribution of health care workers.,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",55.1
-2014,Density and distribution of health care workers.,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",54.3
-2019,Density and distribution of health care workers.,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",55.0
-2017,Density and distribution of health care workers.,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",54.8
-2023,Density and distribution of health care workers.,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",55.1
-2010,Density and distribution of health care workers.,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",51.1
-2016,Density and distribution of health care workers.,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",53.9
-2020,Density and distribution of health care workers.,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",54.8
-2023,Density and distribution of health care workers.,Physician,Male,Bizkaia,"Per 10,000 inhabitants",70.5
-2013,Density and distribution of health care workers.,Physician,Male,Bizkaia,"Per 10,000 inhabitants",61.5
-2010,Density and distribution of health care workers.,Physician,Male,Bizkaia,"Per 10,000 inhabitants",60.2
-2012,Density and distribution of health care workers.,Physician,Male,Bizkaia,"Per 10,000 inhabitants",60.8
-2022,Density and distribution of health care workers.,Physician,Male,Bizkaia,"Per 10,000 inhabitants",69.3
-2011,Density and distribution of health care workers.,Physician,Male,Bizkaia,"Per 10,000 inhabitants",60.7
-2020,Density and distribution of health care workers.,Physician,Male,Bizkaia,"Per 10,000 inhabitants",67.3
-2016,Density and distribution of health care workers.,Physician,Male,Bizkaia,"Per 10,000 inhabitants",63.3
-2018,Density and distribution of health care workers.,Physician,Male,Bizkaia,"Per 10,000 inhabitants",65.4
-2017,Density and distribution of health care workers.,Physician,Male,Bizkaia,"Per 10,000 inhabitants",63.9
-2015,Density and distribution of health care workers.,Physician,Male,Bizkaia,"Per 10,000 inhabitants",62.6
-2014,Density and distribution of health care workers.,Physician,Male,Bizkaia,"Per 10,000 inhabitants",62.5
-2019,Density and distribution of health care workers.,Physician,Male,Bizkaia,"Per 10,000 inhabitants",66.4
-2021,Density and distribution of health care workers.,Physician,Male,Bizkaia,"Per 10,000 inhabitants",68.3
-2019,Density and distribution of health care workers.,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",54.4
-2016,Density and distribution of health care workers.,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.7
-2018,Density and distribution of health care workers.,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.7
-2020,Density and distribution of health care workers.,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",54.6
-2011,Density and distribution of health care workers.,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.1
-2014,Density and distribution of health care workers.,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.9
-2023,Density and distribution of health care workers.,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",55.2
-2010,Density and distribution of health care workers.,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.1
-2012,Density and distribution of health care workers.,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.5
-2022,Density and distribution of health care workers.,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",55.6
-2021,Density and distribution of health care workers.,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",54.9
-2013,Density and distribution of health care workers.,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.4
-2015,Density and distribution of health care workers.,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.5
-2017,Density and distribution of health care workers.,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.6
-2013,Density and distribution of health care workers.,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",70.5
-2019,Density and distribution of health care workers.,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",76.9
-2018,Density and distribution of health care workers.,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",76.1
-2016,Density and distribution of health care workers.,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",74.7
-2015,Density and distribution of health care workers.,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",73.5
-2020,Density and distribution of health care workers.,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",78.4
-2022,Density and distribution of health care workers.,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",80.0
-2021,Density and distribution of health care workers.,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",79.1
-2010,Density and distribution of health care workers.,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",68.1
-2014,Density and distribution of health care workers.,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",72.1
-2017,Density and distribution of health care workers.,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",75.3
-2023,Density and distribution of health care workers.,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",89.6
-2012,Density and distribution of health care workers.,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",70.3
-2011,Density and distribution of health care workers.,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",70.2
-2022,Density and distribution of health care workers.,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",89.0
-2023,Density and distribution of health care workers.,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",89.5
-2016,Density and distribution of health care workers.,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",84.2
-2012,Density and distribution of health care workers.,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",77.6
-2010,Density and distribution of health care workers.,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",75.4
-2019,Density and distribution of health care workers.,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",86.4
-2018,Density and distribution of health care workers.,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",87.4
-2014,Density and distribution of health care workers.,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",81.1
-2020,Density and distribution of health care workers.,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",87.5
-2011,Density and distribution of health care workers.,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",77.2
-2021,Density and distribution of health care workers.,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",88.6
-2013,Density and distribution of health care workers.,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",78.4
-2015,Density and distribution of health care workers.,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",82.7
-2017,Density and distribution of health care workers.,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",86.0
-2017,Density and distribution of health care workers.,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",74.2
-2021,Density and distribution of health care workers.,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",78.7
-2010,Density and distribution of health care workers.,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",65.4
-2015,Density and distribution of health care workers.,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",71.9
-2022,Density and distribution of health care workers.,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",79.6
-2019,Density and distribution of health care workers.,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",76.2
-2013,Density and distribution of health care workers.,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",68.6
-2014,Density and distribution of health care workers.,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",70.1
-2020,Density and distribution of health care workers.,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",77.9
-2016,Density and distribution of health care workers.,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",73.3
-2011,Density and distribution of health care workers.,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",67.9
-2012,Density and distribution of health care workers.,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",68.4
-2018,Density and distribution of health care workers.,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",75.3
-2023,Density and distribution of health care workers.,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",81.2
-2016,Density and distribution of health care workers.,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",72.6
-2014,Density and distribution of health care workers.,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",71.3
-2010,Density and distribution of health care workers.,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",69.3
-2019,Density and distribution of health care workers.,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",73.7
-2011,Density and distribution of health care workers.,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",70.8
-2023,Density and distribution of health care workers.,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",103.2
-2018,Density and distribution of health care workers.,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",72.3
-2022,Density and distribution of health care workers.,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",76.4
-2012,Density and distribution of health care workers.,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",70.1
-2017,Density and distribution of health care workers.,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",72.3
-2013,Density and distribution of health care workers.,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",70.0
-2015,Density and distribution of health care workers.,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",72.0
-2020,Density and distribution of health care workers.,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",75.0
-2021,Density and distribution of health care workers.,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",75.4
-2015,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",129.6
-2018,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",133.1
-2016,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",131.2
-2019,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",134.0
-2017,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",132.2
-2020,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",135.8
-2013,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",124.8
-2012,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",123.5
-2023,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",154.4
-2010,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",121.2
-2014,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",127.4
-2021,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",136.9
-2022,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",138.1
-2011,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",123.3
-2016,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",151.9
-2022,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",155.9
-2023,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",156.3
-2021,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",155.3
-2013,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",143.3
-2018,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",156.3
-2020,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",154.7
-2019,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",153.5
-2011,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",141.7
-2015,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",150.0
-2010,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",138.2
-2012,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",142.4
-2017,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",154.5
-2014,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",147.2
-2021,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",132.2
-2023,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",135.6
-2020,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",130.9
-2011,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",116.6
-2022,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",133.4
-2019,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",128.9
-2013,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",117.7
-2017,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",126.4
-2012,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",117.4
-2010,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",112.5
-2016,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",125.0
-2015,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",122.9
-2018,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",128.0
-2014,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",120.1
-2022,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",137.4
-2010,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",128.2
-2015,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",131.4
-2011,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",126.1
-2013,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",128.3
-2019,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",133.4
-2023,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",183.7
-2020,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",135.2
-2016,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",132.2
-2017,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",131.4
-2012,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",125.1
-2018,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",131.0
-2021,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",136.0
-2014,Density and distribution of health care workers.,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",130.6
-2017,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",15.1
-2011,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",14.5
-2012,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",14.5
-2016,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",14.9
-2010,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",12.5
-2014,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",13.9
-2015,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",14.3
-2019,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",16.4
-2023,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",20.9
-2018,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",15.6
-2022,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",18.3
-2020,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",17.5
-2013,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",13.4
-2021,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",17.8
-2016,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",14.8
-2018,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",16.4
-2019,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",17.1
-2023,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",20.2
-2015,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",13.9
-2021,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",19.5
-2013,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",12.6
-2011,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",12.3
-2017,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",15.5
-2012,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",12.4
-2020,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",18.0
-2014,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",13.7
-2022,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",19.6
-2010,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",12.3
-2022,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",21.6
-2020,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",20.8
-2023,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",22.5
-2017,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",17.9
-2015,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",17.0
-2018,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",18.5
-2019,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",19.4
-2011,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",15.9
-2016,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",17.6
-2010,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",15.2
-2014,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",16.5
-2012,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",16.1
-2021,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",21.0
-2013,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",16.2
-2019,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",11.3
-2014,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",9.7
-2020,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",12.0
-2022,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",12.5
-2010,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",8.1
-2016,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",10.5
-2012,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",12.9
-2018,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",10.7
-2021,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",12.1
-2013,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",9.4
-2017,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",10.4
-2015,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",10.1
-2011,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",13.3
-2023,Density and distribution of health care workers.,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",18.7
-2012,Density and distribution of health care workers.,Dentist,,,"Per 10,000 inhabitants",7.6
-2022,Density and distribution of health care workers.,Dentist,,,"Per 10,000 inhabitants",9.0
-2010,Density and distribution of health care workers.,Dentist,,,"Per 10,000 inhabitants",7.3
-2017,Density and distribution of health care workers.,Dentist,,,"Per 10,000 inhabitants",8.5
-2014,Density and distribution of health care workers.,Dentist,,,"Per 10,000 inhabitants",7.9
-2016,Density and distribution of health care workers.,Dentist,,,"Per 10,000 inhabitants",8.4
-2011,Density and distribution of health care workers.,Dentist,,,"Per 10,000 inhabitants",7.4
-2020,Density and distribution of health care workers.,Dentist,,,"Per 10,000 inhabitants",8.7
-2021,Density and distribution of health care workers.,Dentist,,,"Per 10,000 inhabitants",9.0
-2015,Density and distribution of health care workers.,Dentist,,,"Per 10,000 inhabitants",8.2
-2019,Density and distribution of health care workers.,Dentist,,,"Per 10,000 inhabitants",8.7
-2013,Density and distribution of health care workers.,Dentist,,,"Per 10,000 inhabitants",7.8
-2023,Density and distribution of health care workers.,Dentist,,,"Per 10,000 inhabitants",9.1
-2018,Density and distribution of health care workers.,Dentist,,,"Per 10,000 inhabitants",8.6
-2022,Density and distribution of health care workers.,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.4
-2013,Density and distribution of health care workers.,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.0
-2023,Density and distribution of health care workers.,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.4
-2017,Density and distribution of health care workers.,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.3
-2011,Density and distribution of health care workers.,Dentist,,Araba/Álava,"Per 10,000 inhabitants",5.8
-2021,Density and distribution of health care workers.,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.6
-2015,Density and distribution of health care workers.,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.5
-2014,Density and distribution of health care workers.,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.3
-2020,Density and distribution of health care workers.,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.7
-2010,Density and distribution of health care workers.,Dentist,,Araba/Álava,"Per 10,000 inhabitants",5.6
-2016,Density and distribution of health care workers.,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.5
-2012,Density and distribution of health care workers.,Dentist,,Araba/Álava,"Per 10,000 inhabitants",5.7
-2018,Density and distribution of health care workers.,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.4
-2019,Density and distribution of health care workers.,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.7
-2023,Density and distribution of health care workers.,Dentist,,Bizkaia,"Per 10,000 inhabitants",9.3
-2010,Density and distribution of health care workers.,Dentist,,Bizkaia,"Per 10,000 inhabitants",7.7
-2016,Density and distribution of health care workers.,Dentist,,Bizkaia,"Per 10,000 inhabitants",8.7
-2017,Density and distribution of health care workers.,Dentist,,Bizkaia,"Per 10,000 inhabitants",8.9
-2022,Density and distribution of health care workers.,Dentist,,Bizkaia,"Per 10,000 inhabitants",9.3
-2014,Density and distribution of health care workers.,Dentist,,Bizkaia,"Per 10,000 inhabitants",8.3
-2020,Density and distribution of health care workers.,Dentist,,Bizkaia,"Per 10,000 inhabitants",9.1
-2018,Density and distribution of health care workers.,Dentist,,Bizkaia,"Per 10,000 inhabitants",9.1
-2012,Density and distribution of health care workers.,Dentist,,Bizkaia,"Per 10,000 inhabitants",7.9
-2013,Density and distribution of health care workers.,Dentist,,Bizkaia,"Per 10,000 inhabitants",8.1
-2019,Density and distribution of health care workers.,Dentist,,Bizkaia,"Per 10,000 inhabitants",9.1
-2011,Density and distribution of health care workers.,Dentist,,Bizkaia,"Per 10,000 inhabitants",7.9
-2015,Density and distribution of health care workers.,Dentist,,Bizkaia,"Per 10,000 inhabitants",8.5
-2021,Density and distribution of health care workers.,Dentist,,Bizkaia,"Per 10,000 inhabitants",9.2
-2020,Density and distribution of health care workers.,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",9.1
-2015,Density and distribution of health care workers.,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",8.5
-2012,Density and distribution of health care workers.,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",8.0
-2018,Density and distribution of health care workers.,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",8.8
-2014,Density and distribution of health care workers.,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",8.0
-2011,Density and distribution of health care workers.,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",7.3
-2016,Density and distribution of health care workers.,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",8.7
-2022,Density and distribution of health care workers.,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",9.8
-2019,Density and distribution of health care workers.,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",8.9
-2017,Density and distribution of health care workers.,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",8.7
-2021,Density and distribution of health care workers.,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",9.7
-2010,Density and distribution of health care workers.,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",7.3
-2013,Density and distribution of health care workers.,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",8.1
-2023,Density and distribution of health care workers.,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",10.0
-2020,Density and distribution of health care workers.,Dentist,Female,,"Per 10,000 inhabitants",11.1
-2022,Density and distribution of health care workers.,Dentist,Female,,"Per 10,000 inhabitants",11.4
-2013,Density and distribution of health care workers.,Dentist,Female,,"Per 10,000 inhabitants",9.3
-2014,Density and distribution of health care workers.,Dentist,Female,,"Per 10,000 inhabitants",9.5
-2016,Density and distribution of health care workers.,Dentist,Female,,"Per 10,000 inhabitants",10.2
-2011,Density and distribution of health care workers.,Dentist,Female,,"Per 10,000 inhabitants",6.9
-2015,Density and distribution of health care workers.,Dentist,Female,,"Per 10,000 inhabitants",9.9
-2021,Density and distribution of health care workers.,Dentist,Female,,"Per 10,000 inhabitants",11.3
-2012,Density and distribution of health care workers.,Dentist,Female,,"Per 10,000 inhabitants",9.0
-2018,Density and distribution of health care workers.,Dentist,Female,,"Per 10,000 inhabitants",10.7
-2019,Density and distribution of health care workers.,Dentist,Female,,"Per 10,000 inhabitants",10.7
-2017,Density and distribution of health care workers.,Dentist,Female,,"Per 10,000 inhabitants",10.4
-2010,Density and distribution of health care workers.,Dentist,Female,,"Per 10,000 inhabitants",6.8
-2023,Density and distribution of health care workers.,Dentist,Female,,"Per 10,000 inhabitants",11.6
-2016,Density and distribution of health care workers.,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.3
-2023,Density and distribution of health care workers.,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.2
-2011,Density and distribution of health care workers.,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",5.6
-2015,Density and distribution of health care workers.,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.2
-2019,Density and distribution of health care workers.,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.5
-2017,Density and distribution of health care workers.,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",7.9
-2010,Density and distribution of health care workers.,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",5.4
-2014,Density and distribution of health care workers.,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.0
-2012,Density and distribution of health care workers.,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",7.2
-2021,Density and distribution of health care workers.,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.2
-2013,Density and distribution of health care workers.,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",7.7
-2018,Density and distribution of health care workers.,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.0
-2022,Density and distribution of health care workers.,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.1
-2020,Density and distribution of health care workers.,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.5
-2010,Density and distribution of health care workers.,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",7.2
-2020,Density and distribution of health care workers.,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",11.4
-2023,Density and distribution of health care workers.,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",11.9
-2018,Density and distribution of health care workers.,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",11.2
-2022,Density and distribution of health care workers.,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",11.9
-2021,Density and distribution of health care workers.,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",11.7
-2013,Density and distribution of health care workers.,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",9.4
-2011,Density and distribution of health care workers.,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",7.3
-2014,Density and distribution of health care workers.,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",9.7
-2015,Density and distribution of health care workers.,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",10.1
-2016,Density and distribution of health care workers.,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",10.4
-2012,Density and distribution of health care workers.,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",9.2
-2019,Density and distribution of health care workers.,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",11.3
-2017,Density and distribution of health care workers.,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",10.8
-2023,Density and distribution of health care workers.,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",12.6
-2017,Density and distribution of health care workers.,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",10.8
-2013,Density and distribution of health care workers.,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",9.6
-2014,Density and distribution of health care workers.,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",9.8
-2010,Density and distribution of health care workers.,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",6.7
-2022,Density and distribution of health care workers.,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",12.2
-2019,Density and distribution of health care workers.,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",10.6
-2011,Density and distribution of health care workers.,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",6.7
-2015,Density and distribution of health care workers.,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",10.3
-2016,Density and distribution of health care workers.,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",10.7
-2021,Density and distribution of health care workers.,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",12.1
-2018,Density and distribution of health care workers.,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",11.1
-2020,Density and distribution of health care workers.,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",11.8
-2012,Density and distribution of health care workers.,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",9.5
-2011,Density and distribution of health care workers.,Dentist,Male,,"Per 10,000 inhabitants",7.9
-2018,Density and distribution of health care workers.,Dentist,Male,,"Per 10,000 inhabitants",6.4
-2010,Density and distribution of health care workers.,Dentist,Male,,"Per 10,000 inhabitants",7.8
-2023,Density and distribution of health care workers.,Dentist,Male,,"Per 10,000 inhabitants",6.4
-2015,Density and distribution of health care workers.,Dentist,Male,,"Per 10,000 inhabitants",6.4
-2014,Density and distribution of health care workers.,Dentist,Male,,"Per 10,000 inhabitants",6.2
-2019,Density and distribution of health care workers.,Dentist,Male,,"Per 10,000 inhabitants",6.6
-2016,Density and distribution of health care workers.,Dentist,Male,,"Per 10,000 inhabitants",6.4
-2021,Density and distribution of health care workers.,Dentist,Male,,"Per 10,000 inhabitants",6.5
-2012,Density and distribution of health care workers.,Dentist,Male,,"Per 10,000 inhabitants",6.1
-2022,Density and distribution of health care workers.,Dentist,Male,,"Per 10,000 inhabitants",6.5
-2020,Density and distribution of health care workers.,Dentist,Male,,"Per 10,000 inhabitants",6.2
-2013,Density and distribution of health care workers.,Dentist,Male,,"Per 10,000 inhabitants",6.2
-2017,Density and distribution of health care workers.,Dentist,Male,,"Per 10,000 inhabitants",6.4
-2014,Density and distribution of health care workers.,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.5
-2021,Density and distribution of health care workers.,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",5.0
-2018,Density and distribution of health care workers.,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.7
-2022,Density and distribution of health care workers.,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.7
-2016,Density and distribution of health care workers.,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.7
-2012,Density and distribution of health care workers.,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.2
-2015,Density and distribution of health care workers.,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.7
-2013,Density and distribution of health care workers.,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.3
-2017,Density and distribution of health care workers.,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.6
-2019,Density and distribution of health care workers.,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",5.0
-2011,Density and distribution of health care workers.,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",6.0
-2020,Density and distribution of health care workers.,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.9
-2010,Density and distribution of health care workers.,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",5.9
-2023,Density and distribution of health care workers.,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.6
-2011,Density and distribution of health care workers.,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",8.4
-2013,Density and distribution of health care workers.,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.6
-2021,Density and distribution of health care workers.,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.5
-2018,Density and distribution of health care workers.,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.8
-2022,Density and distribution of health care workers.,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.5
-2020,Density and distribution of health care workers.,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.5
-2015,Density and distribution of health care workers.,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.8
-2023,Density and distribution of health care workers.,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.4
-2014,Density and distribution of health care workers.,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.7
-2010,Density and distribution of health care workers.,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",8.3
-2012,Density and distribution of health care workers.,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.4
-2016,Density and distribution of health care workers.,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.8
-2019,Density and distribution of health care workers.,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.8
-2017,Density and distribution of health care workers.,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.9
-2020,Density and distribution of health care workers.,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.4
-2014,Density and distribution of health care workers.,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.1
-2021,Density and distribution of health care workers.,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",7.2
-2017,Density and distribution of health care workers.,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.5
-2019,Density and distribution of health care workers.,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",7.0
-2015,Density and distribution of health care workers.,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.6
-2013,Density and distribution of health care workers.,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.5
-2023,Density and distribution of health care workers.,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",7.3
-2011,Density and distribution of health care workers.,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",8.0
-2022,Density and distribution of health care workers.,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",7.3
-2018,Density and distribution of health care workers.,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.5
-2012,Density and distribution of health care workers.,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.5
-2016,Density and distribution of health care workers.,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.6
-2010,Density and distribution of health care workers.,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",7.9
-2019,Density and distribution of health care workers.,Pharmacist,,,"Per 10,000 inhabitants",16.0
-2022,Density and distribution of health care workers.,Pharmacist,,,"Per 10,000 inhabitants",16.8
-2015,Density and distribution of health care workers.,Pharmacist,,,"Per 10,000 inhabitants",14.9
-2020,Density and distribution of health care workers.,Pharmacist,,,"Per 10,000 inhabitants",16.2
-2021,Density and distribution of health care workers.,Pharmacist,,,"Per 10,000 inhabitants",16.4
-2017,Density and distribution of health care workers.,Pharmacist,,,"Per 10,000 inhabitants",15.6
-2013,Density and distribution of health care workers.,Pharmacist,,,"Per 10,000 inhabitants",14.4
-2010,Density and distribution of health care workers.,Pharmacist,,,"Per 10,000 inhabitants",13.6
-2014,Density and distribution of health care workers.,Pharmacist,,,"Per 10,000 inhabitants",14.7
-2018,Density and distribution of health care workers.,Pharmacist,,,"Per 10,000 inhabitants",15.9
-2011,Density and distribution of health care workers.,Pharmacist,,,"Per 10,000 inhabitants",13.8
-2023,Density and distribution of health care workers.,Pharmacist,,,"Per 10,000 inhabitants",16.7
-2012,Density and distribution of health care workers.,Pharmacist,,,"Per 10,000 inhabitants",14.1
-2016,Density and distribution of health care workers.,Pharmacist,,,"Per 10,000 inhabitants",15.4
-2012,Density and distribution of health care workers.,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",14.4
-2022,Density and distribution of health care workers.,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",17.3
-2023,Density and distribution of health care workers.,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",17.1
-2018,Density and distribution of health care workers.,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",16.0
-2016,Density and distribution of health care workers.,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",15.7
-2013,Density and distribution of health care workers.,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",14.7
-2017,Density and distribution of health care workers.,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",15.8
-2020,Density and distribution of health care workers.,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",16.5
-2021,Density and distribution of health care workers.,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",16.5
-2010,Density and distribution of health care workers.,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",13.8
-2015,Density and distribution of health care workers.,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",15.2
-2014,Density and distribution of health care workers.,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",15.0
-2011,Density and distribution of health care workers.,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",14.1
-2019,Density and distribution of health care workers.,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",16.2
-2021,Density and distribution of health care workers.,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",16.4
-2017,Density and distribution of health care workers.,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",15.8
-2013,Density and distribution of health care workers.,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",14.5
-2011,Density and distribution of health care workers.,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",14.1
-2012,Density and distribution of health care workers.,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",14.2
-2014,Density and distribution of health care workers.,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",14.8
-2020,Density and distribution of health care workers.,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",16.1
-2015,Density and distribution of health care workers.,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",15.2
-2016,Density and distribution of health care workers.,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",15.6
-2019,Density and distribution of health care workers.,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",16.0
-2010,Density and distribution of health care workers.,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",14.0
-2018,Density and distribution of health care workers.,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",16.0
-2022,Density and distribution of health care workers.,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",16.6
-2023,Density and distribution of health care workers.,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",16.5
-2019,Density and distribution of health care workers.,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",15.9
-2011,Density and distribution of health care workers.,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",13.3
-2023,Density and distribution of health care workers.,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",16.8
-2015,Density and distribution of health care workers.,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",14.5
-2014,Density and distribution of health care workers.,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",14.5
-2010,Density and distribution of health care workers.,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",12.9
-2021,Density and distribution of health care workers.,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",16.3
-2013,Density and distribution of health care workers.,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",14.0
-2018,Density and distribution of health care workers.,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",15.7
-2012,Density and distribution of health care workers.,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",13.7
-2020,Density and distribution of health care workers.,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",16.3
-2016,Density and distribution of health care workers.,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",14.9
-2017,Density and distribution of health care workers.,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",15.2
-2022,Density and distribution of health care workers.,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",16.9
-2018,Density and distribution of health care workers.,Pharmacist,Female,,"Per 10,000 inhabitants",24.7
-2016,Density and distribution of health care workers.,Pharmacist,Female,,"Per 10,000 inhabitants",23.9
-2020,Density and distribution of health care workers.,Pharmacist,Female,,"Per 10,000 inhabitants",25.3
-2013,Density and distribution of health care workers.,Pharmacist,Female,,"Per 10,000 inhabitants",22.4
-2015,Density and distribution of health care workers.,Pharmacist,Female,,"Per 10,000 inhabitants",23.3
-2012,Density and distribution of health care workers.,Pharmacist,Female,,"Per 10,000 inhabitants",21.9
-2014,Density and distribution of health care workers.,Pharmacist,Female,,"Per 10,000 inhabitants",22.9
-2010,Density and distribution of health care workers.,Pharmacist,Female,,"Per 10,000 inhabitants",21.3
-2019,Density and distribution of health care workers.,Pharmacist,Female,,"Per 10,000 inhabitants",24.9
-2017,Density and distribution of health care workers.,Pharmacist,Female,,"Per 10,000 inhabitants",24.4
-2011,Density and distribution of health care workers.,Pharmacist,Female,,"Per 10,000 inhabitants",21.7
-2021,Density and distribution of health care workers.,Pharmacist,Female,,"Per 10,000 inhabitants",25.7
-2023,Density and distribution of health care workers.,Pharmacist,Female,,"Per 10,000 inhabitants",26.1
-2022,Density and distribution of health care workers.,Pharmacist,Female,,"Per 10,000 inhabitants",26.3
-2011,Density and distribution of health care workers.,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",22.1
-2015,Density and distribution of health care workers.,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",23.2
-2021,Density and distribution of health care workers.,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",25.4
-2010,Density and distribution of health care workers.,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",21.2
-2013,Density and distribution of health care workers.,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",22.8
-2023,Density and distribution of health care workers.,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",27.0
-2020,Density and distribution of health care workers.,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",25.4
-2012,Density and distribution of health care workers.,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",22.5
-2017,Density and distribution of health care workers.,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",24.1
-2014,Density and distribution of health care workers.,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",23.4
-2016,Density and distribution of health care workers.,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",23.8
-2022,Density and distribution of health care workers.,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",27.4
-2019,Density and distribution of health care workers.,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",24.7
-2018,Density and distribution of health care workers.,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",24.3
-2013,Density and distribution of health care workers.,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",22.5
-2019,Density and distribution of health care workers.,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",24.8
-2014,Density and distribution of health care workers.,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",22.9
-2016,Density and distribution of health care workers.,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",24.2
-2023,Density and distribution of health care workers.,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",25.4
-2020,Density and distribution of health care workers.,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",24.9
-2022,Density and distribution of health care workers.,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",25.8
-2018,Density and distribution of health care workers.,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",24.8
-2015,Density and distribution of health care workers.,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",23.5
-2017,Density and distribution of health care workers.,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",24.4
-2010,Density and distribution of health care workers.,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",21.9
-2011,Density and distribution of health care workers.,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",22.1
-2012,Density and distribution of health care workers.,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",22.1
-2021,Density and distribution of health care workers.,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",25.4
-2011,Density and distribution of health care workers.,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",20.8
-2012,Density and distribution of health care workers.,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",21.4
-2020,Density and distribution of health care workers.,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",25.8
-2014,Density and distribution of health care workers.,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",22.7
-2021,Density and distribution of health care workers.,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",26.3
-2018,Density and distribution of health care workers.,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",24.9
-2022,Density and distribution of health care workers.,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",26.7
-2013,Density and distribution of health care workers.,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",21.9
-2023,Density and distribution of health care workers.,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",26.8
-2017,Density and distribution of health care workers.,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",24.5
-2010,Density and distribution of health care workers.,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",20.3
-2016,Density and distribution of health care workers.,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",23.5
-2015,Density and distribution of health care workers.,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",23.0
-2019,Density and distribution of health care workers.,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",25.2
-2018,Density and distribution of health care workers.,Pharmacist,Male,,"Per 10,000 inhabitants",6.6
-2016,Density and distribution of health care workers.,Pharmacist,Male,,"Per 10,000 inhabitants",6.3
-2013,Density and distribution of health care workers.,Pharmacist,Male,,"Per 10,000 inhabitants",6.0
-2017,Density and distribution of health care workers.,Pharmacist,Male,,"Per 10,000 inhabitants",6.3
-2022,Density and distribution of health care workers.,Pharmacist,Male,,"Per 10,000 inhabitants",6.7
-2020,Density and distribution of health care workers.,Pharmacist,Male,,"Per 10,000 inhabitants",6.7
-2021,Density and distribution of health care workers.,Pharmacist,Male,,"Per 10,000 inhabitants",6.5
-2019,Density and distribution of health care workers.,Pharmacist,Male,,"Per 10,000 inhabitants",6.5
-2015,Density and distribution of health care workers.,Pharmacist,Male,,"Per 10,000 inhabitants",6.1
-2014,Density and distribution of health care workers.,Pharmacist,Male,,"Per 10,000 inhabitants",6.1
-2010,Density and distribution of health care workers.,Pharmacist,Male,,"Per 10,000 inhabitants",5.6
-2011,Density and distribution of health care workers.,Pharmacist,Male,,"Per 10,000 inhabitants",5.6
-2012,Density and distribution of health care workers.,Pharmacist,Male,,"Per 10,000 inhabitants",5.9
-2023,Density and distribution of health care workers.,Pharmacist,Male,,"Per 10,000 inhabitants",6.7
-2022,Density and distribution of health care workers.,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",6.8
-2021,Density and distribution of health care workers.,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",7.2
-2013,Density and distribution of health care workers.,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",6.5
-2017,Density and distribution of health care workers.,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",7.2
-2019,Density and distribution of health care workers.,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",7.4
-2014,Density and distribution of health care workers.,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",6.4
-2018,Density and distribution of health care workers.,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",7.4
-2011,Density and distribution of health care workers.,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",6.0
-2010,Density and distribution of health care workers.,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",6.3
-2023,Density and distribution of health care workers.,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",6.8
-2016,Density and distribution of health care workers.,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",7.4
-2015,Density and distribution of health care workers.,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",6.9
-2020,Density and distribution of health care workers.,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",7.4
-2012,Density and distribution of health care workers.,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",6.4
-2017,Density and distribution of health care workers.,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.5
-2021,Density and distribution of health care workers.,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.7
-2013,Density and distribution of health care workers.,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.0
-2018,Density and distribution of health care workers.,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.6
-2012,Density and distribution of health care workers.,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",5.8
-2016,Density and distribution of health care workers.,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.4
-2020,Density and distribution of health care workers.,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.6
-2014,Density and distribution of health care workers.,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.1
-2010,Density and distribution of health care workers.,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",5.5
-2019,Density and distribution of health care workers.,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.5
-2023,Density and distribution of health care workers.,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",7.0
-2022,Density and distribution of health care workers.,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.7
-2011,Density and distribution of health care workers.,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",5.5
-2015,Density and distribution of health care workers.,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.3
-2017,Density and distribution of health care workers.,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.6
-2012,Density and distribution of health care workers.,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.7
-2010,Density and distribution of health care workers.,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.3
-2013,Density and distribution of health care workers.,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.7
-2019,Density and distribution of health care workers.,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.1
-2011,Density and distribution of health care workers.,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.4
-2015,Density and distribution of health care workers.,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.6
-2023,Density and distribution of health care workers.,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.3
-2014,Density and distribution of health care workers.,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.9
-2018,Density and distribution of health care workers.,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.2
-2022,Density and distribution of health care workers.,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.6
-2021,Density and distribution of health care workers.,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.8
-2020,Density and distribution of health care workers.,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.4
-2016,Density and distribution of health care workers.,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.8
+Year,Profession,Sex,Province,Units,Value
+2020,,,,"Per 10,000 inhabitants",170.3
+2014,,,,"Per 10,000 inhabitants",154.1
+2021,,,,"Per 10,000 inhabitants",173.2
+2016,,,,"Per 10,000 inhabitants",159.5
+2013,,,,"Per 10,000 inhabitants",150.8
+2017,,,,"Per 10,000 inhabitants",161.6
+2023,,,,"Per 10,000 inhabitants",187.6
+2015,,,,"Per 10,000 inhabitants",156.7
+2011,,,,"Per 10,000 inhabitants",147.2
+2018,,,,"Per 10,000 inhabitants",164.2
+2012,,,,"Per 10,000 inhabitants",149.0
+2010,,,,"Per 10,000 inhabitants",143.5
+2019,,,,"Per 10,000 inhabitants",167.0
+2022,,,,"Per 10,000 inhabitants",176.4
+2015,,,Araba/Álava,"Per 10,000 inhabitants",162.3
+2010,,,Araba/Álava,"Per 10,000 inhabitants",146.7
+2014,,,Araba/Álava,"Per 10,000 inhabitants",160.3
+2022,,,Araba/Álava,"Per 10,000 inhabitants",176.6
+2019,,,Araba/Álava,"Per 10,000 inhabitants",170.0
+2011,,,Araba/Álava,"Per 10,000 inhabitants",151.0
+2012,,,Araba/Álava,"Per 10,000 inhabitants",152.9
+2016,,,Araba/Álava,"Per 10,000 inhabitants",165.2
+2017,,,Araba/Álava,"Per 10,000 inhabitants",167.5
+2013,,,Araba/Álava,"Per 10,000 inhabitants",155.6
+2021,,,Araba/Álava,"Per 10,000 inhabitants",174.4
+2020,,,Araba/Álava,"Per 10,000 inhabitants",172.1
+2018,,,Araba/Álava,"Per 10,000 inhabitants",169.5
+2023,,,Araba/Álava,"Per 10,000 inhabitants",178.1
+2022,,,Bizkaia,"Per 10,000 inhabitants",181.8
+2023,,,Bizkaia,"Per 10,000 inhabitants",185.3
+2014,,,Bizkaia,"Per 10,000 inhabitants",155.6
+2013,,,Bizkaia,"Per 10,000 inhabitants",152.4
+2015,,,Bizkaia,"Per 10,000 inhabitants",159.0
+2011,,,Bizkaia,"Per 10,000 inhabitants",148.4
+2018,,,Bizkaia,"Per 10,000 inhabitants",168.6
+2012,,,Bizkaia,"Per 10,000 inhabitants",150.5
+2016,,,Bizkaia,"Per 10,000 inhabitants",162.4
+2017,,,Bizkaia,"Per 10,000 inhabitants",165.2
+2019,,,Bizkaia,"Per 10,000 inhabitants",171.8
+2010,,,Bizkaia,"Per 10,000 inhabitants",144.4
+2020,,,Bizkaia,"Per 10,000 inhabitants",175.3
+2021,,,Bizkaia,"Per 10,000 inhabitants",178.4
+2020,,,Gipuzkoa,"Per 10,000 inhabitants",161.6
+2015,,,Gipuzkoa,"Per 10,000 inhabitants",150.4
+2021,,,Gipuzkoa,"Per 10,000 inhabitants",164.2
+2013,,,Gipuzkoa,"Per 10,000 inhabitants",145.9
+2023,,,Gipuzkoa,"Per 10,000 inhabitants",195.5
+2018,,,Gipuzkoa,"Per 10,000 inhabitants",154.9
+2014,,,Gipuzkoa,"Per 10,000 inhabitants",148.7
+2010,,,Gipuzkoa,"Per 10,000 inhabitants",140.5
+2019,,,Gipuzkoa,"Per 10,000 inhabitants",158.0
+2016,,,Gipuzkoa,"Per 10,000 inhabitants",152.3
+2012,,,Gipuzkoa,"Per 10,000 inhabitants",144.8
+2011,,,Gipuzkoa,"Per 10,000 inhabitants",143.4
+2017,,,Gipuzkoa,"Per 10,000 inhabitants",153.3
+2022,,,Gipuzkoa,"Per 10,000 inhabitants",167.7
+2020,,Female,,"Per 10,000 inhabitants",244.5
+2023,,Female,,"Per 10,000 inhabitants",272.7
+2016,,Female,,"Per 10,000 inhabitants",228.7
+2022,,Female,,"Per 10,000 inhabitants",253.9
+2013,,Female,,"Per 10,000 inhabitants",214.9
+2011,,Female,,"Per 10,000 inhabitants",206.4
+2021,,Female,,"Per 10,000 inhabitants",249.0
+2010,,Female,,"Per 10,000 inhabitants",201.8
+2017,,Female,,"Per 10,000 inhabitants",232.0
+2012,,Female,,"Per 10,000 inhabitants",211.2
+2018,,Female,,"Per 10,000 inhabitants",235.7
+2015,,Female,,"Per 10,000 inhabitants",224.4
+2014,,Female,,"Per 10,000 inhabitants",219.9
+2019,,Female,,"Per 10,000 inhabitants",239.4
+2015,,Female,Araba/Álava,"Per 10,000 inhabitants",243.6
+2022,,Female,Araba/Álava,"Per 10,000 inhabitants",263.9
+2020,,Female,Araba/Álava,"Per 10,000 inhabitants",256.1
+2013,,Female,Araba/Álava,"Per 10,000 inhabitants",233.4
+2014,,Female,Araba/Álava,"Per 10,000 inhabitants",239.9
+2012,,Female,Araba/Álava,"Per 10,000 inhabitants",229.5
+2023,,Female,Araba/Álava,"Per 10,000 inhabitants",266.3
+2016,,Female,Araba/Álava,"Per 10,000 inhabitants",247.5
+2021,,Female,Araba/Álava,"Per 10,000 inhabitants",259.5
+2017,,Female,Araba/Álava,"Per 10,000 inhabitants",250.5
+2019,,Female,Araba/Álava,"Per 10,000 inhabitants",253.0
+2018,,Female,Araba/Álava,"Per 10,000 inhabitants",253.1
+2010,,Female,Araba/Álava,"Per 10,000 inhabitants",217.6
+2011,,Female,Araba/Álava,"Per 10,000 inhabitants",224.6
+2016,,Female,Bizkaia,"Per 10,000 inhabitants",225.9
+2010,,Female,Bizkaia,"Per 10,000 inhabitants",196.1
+2013,,Female,Bizkaia,"Per 10,000 inhabitants",210.4
+2021,,Female,Bizkaia,"Per 10,000 inhabitants",248.8
+2015,,Female,Bizkaia,"Per 10,000 inhabitants",220.7
+2023,,Female,Bizkaia,"Per 10,000 inhabitants",258.6
+2012,,Female,Bizkaia,"Per 10,000 inhabitants",207.8
+2020,,Female,Bizkaia,"Per 10,000 inhabitants",244.0
+2022,,Female,Bizkaia,"Per 10,000 inhabitants",253.7
+2018,,Female,Bizkaia,"Per 10,000 inhabitants",234.7
+2014,,Female,Bizkaia,"Per 10,000 inhabitants",215.0
+2017,,Female,Bizkaia,"Per 10,000 inhabitants",230.0
+2019,,Female,Bizkaia,"Per 10,000 inhabitants",239.2
+2011,,Female,Bizkaia,"Per 10,000 inhabitants",202.6
+2021,,Female,Gipuzkoa,"Per 10,000 inhabitants",244.7
+2016,,Female,Gipuzkoa,"Per 10,000 inhabitants",224.7
+2011,,Female,Gipuzkoa,"Per 10,000 inhabitants",204.6
+2023,,Female,Gipuzkoa,"Per 10,000 inhabitants",298.4
+2013,,Female,Gipuzkoa,"Per 10,000 inhabitants",214.0
+2012,,Female,Gipuzkoa,"Per 10,000 inhabitants",208.5
+2019,,Female,Gipuzkoa,"Per 10,000 inhabitants",233.7
+2020,,Female,Gipuzkoa,"Per 10,000 inhabitants",240.1
+2022,,Female,Gipuzkoa,"Per 10,000 inhabitants",249.6
+2014,,Female,Gipuzkoa,"Per 10,000 inhabitants",219.0
+2018,,Female,Gipuzkoa,"Per 10,000 inhabitants",229.3
+2017,,Female,Gipuzkoa,"Per 10,000 inhabitants",227.0
+2015,,Female,Gipuzkoa,"Per 10,000 inhabitants",222.0
+2010,,Female,Gipuzkoa,"Per 10,000 inhabitants",204.2
+2010,,Male,,"Per 10,000 inhabitants",82.4
+2014,,Male,,"Per 10,000 inhabitants",84.6
+2017,,Male,,"Per 10,000 inhabitants",87.0
+2015,,Male,,"Per 10,000 inhabitants",85.1
+2023,,Male,,"Per 10,000 inhabitants",97.1
+2021,,Male,,"Per 10,000 inhabitants",92.6
+2022,,Male,,"Per 10,000 inhabitants",94.1
+2016,,Male,,"Per 10,000 inhabitants",86.4
+2013,,Male,,"Per 10,000 inhabitants",83.3
+2019,,Male,,"Per 10,000 inhabitants",90.2
+2012,,Male,,"Per 10,000 inhabitants",83.7
+2020,,Male,,"Per 10,000 inhabitants",91.6
+2018,,Male,,"Per 10,000 inhabitants",88.5
+2011,,Male,,"Per 10,000 inhabitants",85.0
+2023,,Male,Araba/Álava,"Per 10,000 inhabitants",86.7
+2021,,Male,Araba/Álava,"Per 10,000 inhabitants",86.4
+2015,,Male,Araba/Álava,"Per 10,000 inhabitants",79.4
+2014,,Male,Araba/Álava,"Per 10,000 inhabitants",79.0
+2011,,Male,Araba/Álava,"Per 10,000 inhabitants",77.0
+2019,,Male,Araba/Álava,"Per 10,000 inhabitants",84.4
+2010,,Male,Araba/Álava,"Per 10,000 inhabitants",75.5
+2022,,Male,Araba/Álava,"Per 10,000 inhabitants",86.2
+2017,,Male,Araba/Álava,"Per 10,000 inhabitants",82.1
+2013,,Male,Araba/Álava,"Per 10,000 inhabitants",76.7
+2016,,Male,Araba/Álava,"Per 10,000 inhabitants",80.8
+2012,,Male,Araba/Álava,"Per 10,000 inhabitants",75.7
+2018,,Male,Araba/Álava,"Per 10,000 inhabitants",83.2
+2020,,Male,Araba/Álava,"Per 10,000 inhabitants",85.1
+2021,,Male,Bizkaia,"Per 10,000 inhabitants",102.5
+2010,,Male,Bizkaia,"Per 10,000 inhabitants",89.3
+2022,,Male,Bizkaia,"Per 10,000 inhabitants",104.2
+2019,,Male,Bizkaia,"Per 10,000 inhabitants",99.0
+2012,,Male,Bizkaia,"Per 10,000 inhabitants",89.2
+2018,,Male,Bizkaia,"Per 10,000 inhabitants",97.2
+2016,,Male,Bizkaia,"Per 10,000 inhabitants",94.1
+2015,,Male,Bizkaia,"Per 10,000 inhabitants",92.7
+2011,,Male,Bizkaia,"Per 10,000 inhabitants",90.6
+2014,,Male,Bizkaia,"Per 10,000 inhabitants",91.9
+2023,,Male,Bizkaia,"Per 10,000 inhabitants",106.4
+2013,,Male,Bizkaia,"Per 10,000 inhabitants",90.2
+2017,,Male,Bizkaia,"Per 10,000 inhabitants",95.2
+2020,,Male,Bizkaia,"Per 10,000 inhabitants",101.2
+2021,,Male,Gipuzkoa,"Per 10,000 inhabitants",80.0
+2017,,Male,Gipuzkoa,"Per 10,000 inhabitants",76.2
+2011,,Male,Gipuzkoa,"Per 10,000 inhabitants",79.7
+2018,,Male,Gipuzkoa,"Per 10,000 inhabitants",77.1
+2019,,Male,Gipuzkoa,"Per 10,000 inhabitants",78.9
+2020,,Male,Gipuzkoa,"Per 10,000 inhabitants",79.4
+2023,,Male,Gipuzkoa,"Per 10,000 inhabitants",87.5
+2014,,Male,Gipuzkoa,"Per 10,000 inhabitants",75.6
+2016,,Male,Gipuzkoa,"Per 10,000 inhabitants",76.6
+2022,,Male,Gipuzkoa,"Per 10,000 inhabitants",82.0
+2010,,Male,Gipuzkoa,"Per 10,000 inhabitants",74.4
+2015,,Male,Gipuzkoa,"Per 10,000 inhabitants",75.8
+2013,,Male,Gipuzkoa,"Per 10,000 inhabitants",75.1
+2012,,Male,Gipuzkoa,"Per 10,000 inhabitants",78.6
+2021,Physician,,,"Per 10,000 inhabitants",68.7
+2014,Physician,,,"Per 10,000 inhabitants",59.3
+2015,Physician,,,"Per 10,000 inhabitants",60.0
+2023,Physician,,,"Per 10,000 inhabitants",72.1
+2017,Physician,,,"Per 10,000 inhabitants",62.2
+2013,Physician,,,"Per 10,000 inhabitants",58.1
+2018,Physician,,,"Per 10,000 inhabitants",63.6
+2020,Physician,,,"Per 10,000 inhabitants",66.9
+2010,Physician,,,"Per 10,000 inhabitants",54.5
+2011,Physician,,,"Per 10,000 inhabitants",55.8
+2022,Physician,,,"Per 10,000 inhabitants",70.6
+2016,Physician,,,"Per 10,000 inhabitants",61.1
+2019,Physician,,,"Per 10,000 inhabitants",65.4
+2012,Physician,,,"Per 10,000 inhabitants",57.0
+2022,Physician,,Araba/Álava,"Per 10,000 inhabitants",63.9
+2016,Physician,,Araba/Álava,"Per 10,000 inhabitants",58.8
+2011,Physician,,Araba/Álava,"Per 10,000 inhabitants",54.0
+2019,Physician,,Araba/Álava,"Per 10,000 inhabitants",60.7
+2023,Physician,,Araba/Álava,"Per 10,000 inhabitants",65.1
+2014,Physician,,Araba/Álava,"Per 10,000 inhabitants",57.9
+2012,Physician,,Araba/Álava,"Per 10,000 inhabitants",55.1
+2015,Physician,,Araba/Álava,"Per 10,000 inhabitants",58.0
+2017,Physician,,Araba/Álava,"Per 10,000 inhabitants",59.4
+2020,Physician,,Araba/Álava,"Per 10,000 inhabitants",61.3
+2013,Physician,,Araba/Álava,"Per 10,000 inhabitants",56.5
+2021,Physician,,Araba/Álava,"Per 10,000 inhabitants",62.7
+2010,Physician,,Araba/Álava,"Per 10,000 inhabitants",51.9
+2018,Physician,,Araba/Álava,"Per 10,000 inhabitants",59.7
+2012,Physician,,Bizkaia,"Per 10,000 inhabitants",59.9
+2019,Physician,,Bizkaia,"Per 10,000 inhabitants",70.4
+2017,Physician,,Bizkaia,"Per 10,000 inhabitants",66.2
+2022,Physician,,Bizkaia,"Per 10,000 inhabitants",76.2
+2013,Physician,,Bizkaia,"Per 10,000 inhabitants",61.2
+2018,Physician,,Bizkaia,"Per 10,000 inhabitants",68.2
+2021,Physician,,Bizkaia,"Per 10,000 inhabitants",74.1
+2023,Physician,,Bizkaia,"Per 10,000 inhabitants",78.4
+2014,Physician,,Bizkaia,"Per 10,000 inhabitants",62.4
+2010,Physician,,Bizkaia,"Per 10,000 inhabitants",57.2
+2015,Physician,,Bizkaia,"Per 10,000 inhabitants",63.4
+2020,Physician,,Bizkaia,"Per 10,000 inhabitants",72.2
+2016,Physician,,Bizkaia,"Per 10,000 inhabitants",64.9
+2011,Physician,,Bizkaia,"Per 10,000 inhabitants",58.6
+2010,Physician,,Gipuzkoa,"Per 10,000 inhabitants",51.1
+2017,Physician,,Gipuzkoa,"Per 10,000 inhabitants",57.0
+2012,Physician,,Gipuzkoa,"Per 10,000 inhabitants",53.0
+2011,Physician,,Gipuzkoa,"Per 10,000 inhabitants",52.0
+2014,Physician,,Gipuzkoa,"Per 10,000 inhabitants",54.9
+2013,Physician,,Gipuzkoa,"Per 10,000 inhabitants",53.8
+2018,Physician,,Gipuzkoa,"Per 10,000 inhabitants",58.1
+2015,Physician,,Gipuzkoa,"Per 10,000 inhabitants",55.4
+2022,Physician,,Gipuzkoa,"Per 10,000 inhabitants",64.7
+2021,Physician,,Gipuzkoa,"Per 10,000 inhabitants",62.8
+2019,Physician,,Gipuzkoa,"Per 10,000 inhabitants",59.6
+2023,Physician,,Gipuzkoa,"Per 10,000 inhabitants",65.5
+2020,Physician,,Gipuzkoa,"Per 10,000 inhabitants",61.1
+2016,Physician,,Gipuzkoa,"Per 10,000 inhabitants",56.1
+2017,Physician,Female,,"Per 10,000 inhabitants",65.1
+2019,Physician,Female,,"Per 10,000 inhabitants",69.8
+2014,Physician,Female,,"Per 10,000 inhabitants",60.1
+2012,Physician,Female,,"Per 10,000 inhabitants",56.8
+2023,Physician,Female,,"Per 10,000 inhabitants",80.7
+2022,Physician,Female,,"Per 10,000 inhabitants",78.1
+2011,Physician,Female,,"Per 10,000 inhabitants",54.6
+2015,Physician,Female,,"Per 10,000 inhabitants",61.6
+2016,Physician,Female,,"Per 10,000 inhabitants",63.3
+2021,Physician,Female,,"Per 10,000 inhabitants",75.2
+2010,Physician,Female,,"Per 10,000 inhabitants",52.5
+2013,Physician,Female,,"Per 10,000 inhabitants",58.5
+2018,Physician,Female,,"Per 10,000 inhabitants",67.1
+2020,Physician,Female,,"Per 10,000 inhabitants",72.3
+2012,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",57.4
+2019,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",66.3
+2020,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",67.6
+2023,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",74.7
+2015,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",62.1
+2016,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",63.6
+2013,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",59.6
+2017,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",63.9
+2014,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",61.4
+2022,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",72.5
+2011,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",55.2
+2010,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",52.8
+2018,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",64.5
+2021,Physician,Female,Araba/Álava,"Per 10,000 inhabitants",70.5
+2015,Physician,Female,Bizkaia,"Per 10,000 inhabitants",64.2
+2018,Physician,Female,Bizkaia,"Per 10,000 inhabitants",70.8
+2017,Physician,Female,Bizkaia,"Per 10,000 inhabitants",68.4
+2022,Physician,Female,Bizkaia,"Per 10,000 inhabitants",82.7
+2011,Physician,Female,Bizkaia,"Per 10,000 inhabitants",56.5
+2013,Physician,Female,Bizkaia,"Per 10,000 inhabitants",60.8
+2014,Physician,Female,Bizkaia,"Per 10,000 inhabitants",62.3
+2021,Physician,Female,Bizkaia,"Per 10,000 inhabitants",79.4
+2012,Physician,Female,Bizkaia,"Per 10,000 inhabitants",59.1
+2020,Physician,Female,Bizkaia,"Per 10,000 inhabitants",76.8
+2023,Physician,Female,Bizkaia,"Per 10,000 inhabitants",85.7
+2019,Physician,Female,Bizkaia,"Per 10,000 inhabitants",74.1
+2016,Physician,Female,Bizkaia,"Per 10,000 inhabitants",66.3
+2010,Physician,Female,Bizkaia,"Per 10,000 inhabitants",54.5
+2015,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",57.2
+2011,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",51.0
+2010,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",49.1
+2013,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",54.2
+2012,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",52.6
+2017,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",60.3
+2018,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",62.3
+2016,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",58.4
+2019,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",64.5
+2020,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",67.3
+2023,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",75.3
+2014,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",55.9
+2021,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",70.4
+2022,Physician,Female,Gipuzkoa,"Per 10,000 inhabitants",73.3
+2021,Physician,Male,,"Per 10,000 inhabitants",61.8
+2020,Physician,Male,,"Per 10,000 inhabitants",61.2
+2013,Physician,Male,,"Per 10,000 inhabitants",57.6
+2011,Physician,Male,,"Per 10,000 inhabitants",57.1
+2014,Physician,Male,,"Per 10,000 inhabitants",58.4
+2018,Physician,Male,,"Per 10,000 inhabitants",59.9
+2019,Physician,Male,,"Per 10,000 inhabitants",60.7
+2023,Physician,Male,,"Per 10,000 inhabitants",63.1
+2016,Physician,Male,,"Per 10,000 inhabitants",58.8
+2010,Physician,Male,,"Per 10,000 inhabitants",56.5
+2017,Physician,Male,,"Per 10,000 inhabitants",59.1
+2015,Physician,Male,,"Per 10,000 inhabitants",58.3
+2022,Physician,Male,,"Per 10,000 inhabitants",62.6
+2012,Physician,Male,,"Per 10,000 inhabitants",57.2
+2014,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",54.3
+2010,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",51.1
+2011,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",52.7
+2016,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",53.9
+2012,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",52.7
+2023,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",55.1
+2022,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",55.1
+2015,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",53.9
+2019,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",55.0
+2021,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",54.7
+2020,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",54.8
+2018,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",54.7
+2017,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",54.8
+2013,Physician,Male,Araba/Álava,"Per 10,000 inhabitants",53.2
+2017,Physician,Male,Bizkaia,"Per 10,000 inhabitants",63.9
+2020,Physician,Male,Bizkaia,"Per 10,000 inhabitants",67.3
+2011,Physician,Male,Bizkaia,"Per 10,000 inhabitants",60.7
+2012,Physician,Male,Bizkaia,"Per 10,000 inhabitants",60.8
+2013,Physician,Male,Bizkaia,"Per 10,000 inhabitants",61.5
+2010,Physician,Male,Bizkaia,"Per 10,000 inhabitants",60.2
+2015,Physician,Male,Bizkaia,"Per 10,000 inhabitants",62.6
+2019,Physician,Male,Bizkaia,"Per 10,000 inhabitants",66.4
+2021,Physician,Male,Bizkaia,"Per 10,000 inhabitants",68.3
+2018,Physician,Male,Bizkaia,"Per 10,000 inhabitants",65.4
+2022,Physician,Male,Bizkaia,"Per 10,000 inhabitants",69.3
+2016,Physician,Male,Bizkaia,"Per 10,000 inhabitants",63.3
+2023,Physician,Male,Bizkaia,"Per 10,000 inhabitants",70.5
+2014,Physician,Male,Bizkaia,"Per 10,000 inhabitants",62.5
+2022,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",55.6
+2020,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",54.6
+2019,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",54.4
+2018,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.7
+2010,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.1
+2015,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.5
+2016,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.7
+2017,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.6
+2021,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",54.9
+2014,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.9
+2023,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",55.2
+2013,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.4
+2012,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.5
+2011,Physician,Male,Gipuzkoa,"Per 10,000 inhabitants",53.1
+2019,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",76.9
+2014,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",72.1
+2022,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",80.0
+2012,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",70.3
+2013,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",70.5
+2010,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",68.1
+2018,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",76.1
+2021,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",79.1
+2015,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",73.5
+2017,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",75.3
+2023,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",89.6
+2016,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",74.7
+2020,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",78.4
+2011,Nursing and midwifery professionals,,,"Per 10,000 inhabitants",70.2
+2011,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",77.2
+2017,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",86.0
+2020,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",87.5
+2022,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",89.0
+2016,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",84.2
+2018,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",87.4
+2021,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",88.6
+2013,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",78.4
+2012,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",77.6
+2023,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",89.5
+2014,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",81.1
+2010,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",75.4
+2019,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",86.4
+2015,Nursing and midwifery professionals,,Araba/Álava,"Per 10,000 inhabitants",82.7
+2023,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",81.2
+2013,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",68.6
+2021,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",78.7
+2015,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",71.9
+2017,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",74.2
+2022,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",79.6
+2011,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",67.9
+2010,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",65.4
+2014,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",70.1
+2020,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",77.9
+2012,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",68.4
+2016,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",73.3
+2019,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",76.2
+2018,Nursing and midwifery professionals,,Bizkaia,"Per 10,000 inhabitants",75.3
+2010,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",69.3
+2015,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",72.0
+2014,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",71.3
+2022,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",76.4
+2023,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",103.2
+2021,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",75.4
+2017,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",72.3
+2012,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",70.1
+2011,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",70.8
+2018,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",72.3
+2019,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",73.7
+2016,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",72.6
+2020,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",75.0
+2013,Nursing and midwifery professionals,,Gipuzkoa,"Per 10,000 inhabitants",70.0
+2011,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",123.3
+2015,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",129.6
+2022,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",138.1
+2017,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",132.2
+2020,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",135.8
+2018,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",133.1
+2012,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",123.5
+2010,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",121.2
+2014,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",127.4
+2021,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",136.9
+2019,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",134.0
+2023,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",154.4
+2013,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",124.8
+2016,Nursing and midwifery professionals,Female,,"Per 10,000 inhabitants",131.2
+2020,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",154.7
+2022,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",155.9
+2019,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",153.5
+2017,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",154.5
+2021,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",155.3
+2013,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",143.3
+2012,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",142.4
+2014,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",147.2
+2018,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",156.3
+2015,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",150.0
+2023,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",156.3
+2010,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",138.2
+2011,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",141.7
+2016,Nursing and midwifery professionals,Female,Araba/Álava,"Per 10,000 inhabitants",151.9
+2023,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",135.6
+2011,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",116.6
+2019,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",128.9
+2017,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",126.4
+2021,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",132.2
+2018,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",128.0
+2014,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",120.1
+2022,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",133.4
+2010,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",112.5
+2012,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",117.4
+2016,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",125.0
+2015,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",122.9
+2020,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",130.9
+2013,Nursing and midwifery professionals,Female,Bizkaia,"Per 10,000 inhabitants",117.7
+2019,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",133.4
+2021,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",136.0
+2012,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",125.1
+2013,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",128.3
+2015,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",131.4
+2017,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",131.4
+2010,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",128.2
+2014,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",130.6
+2016,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",132.2
+2011,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",126.1
+2023,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",183.7
+2022,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",137.4
+2018,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",131.0
+2020,Nursing and midwifery professionals,Female,Gipuzkoa,"Per 10,000 inhabitants",135.2
+2012,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",14.5
+2010,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",12.5
+2021,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",17.8
+2013,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",13.4
+2015,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",14.3
+2023,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",20.9
+2018,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",15.6
+2014,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",13.9
+2016,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",14.9
+2017,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",15.1
+2019,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",16.4
+2011,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",14.5
+2022,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",18.3
+2020,Nursing and midwifery professionals,Male,,"Per 10,000 inhabitants",17.5
+2022,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",19.6
+2011,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",12.3
+2016,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",14.8
+2012,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",12.4
+2018,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",16.4
+2014,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",13.7
+2019,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",17.1
+2023,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",20.2
+2017,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",15.5
+2015,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",13.9
+2021,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",19.5
+2020,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",18.0
+2010,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",12.3
+2013,Nursing and midwifery professionals,Male,Araba/Álava,"Per 10,000 inhabitants",12.6
+2016,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",17.6
+2010,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",15.2
+2013,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",16.2
+2014,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",16.5
+2011,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",15.9
+2020,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",20.8
+2021,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",21.0
+2017,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",17.9
+2023,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",22.5
+2022,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",21.6
+2012,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",16.1
+2018,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",18.5
+2019,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",19.4
+2015,Nursing and midwifery professionals,Male,Bizkaia,"Per 10,000 inhabitants",17.0
+2022,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",12.5
+2011,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",13.3
+2013,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",9.4
+2012,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",12.9
+2010,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",8.1
+2017,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",10.4
+2019,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",11.3
+2023,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",18.7
+2015,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",10.1
+2020,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",12.0
+2018,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",10.7
+2016,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",10.5
+2014,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",9.7
+2021,Nursing and midwifery professionals,Male,Gipuzkoa,"Per 10,000 inhabitants",12.1
+2012,Dentist,,,"Per 10,000 inhabitants",7.6
+2014,Dentist,,,"Per 10,000 inhabitants",7.9
+2015,Dentist,,,"Per 10,000 inhabitants",8.2
+2011,Dentist,,,"Per 10,000 inhabitants",7.4
+2021,Dentist,,,"Per 10,000 inhabitants",9.0
+2022,Dentist,,,"Per 10,000 inhabitants",9.0
+2010,Dentist,,,"Per 10,000 inhabitants",7.3
+2020,Dentist,,,"Per 10,000 inhabitants",8.7
+2013,Dentist,,,"Per 10,000 inhabitants",7.8
+2017,Dentist,,,"Per 10,000 inhabitants",8.5
+2019,Dentist,,,"Per 10,000 inhabitants",8.7
+2016,Dentist,,,"Per 10,000 inhabitants",8.4
+2018,Dentist,,,"Per 10,000 inhabitants",8.6
+2023,Dentist,,,"Per 10,000 inhabitants",9.1
+2013,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.0
+2014,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.3
+2011,Dentist,,Araba/Álava,"Per 10,000 inhabitants",5.8
+2018,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.4
+2020,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.7
+2016,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.5
+2022,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.4
+2021,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.6
+2019,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.7
+2017,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.3
+2015,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.5
+2023,Dentist,,Araba/Álava,"Per 10,000 inhabitants",6.4
+2012,Dentist,,Araba/Álava,"Per 10,000 inhabitants",5.7
+2010,Dentist,,Araba/Álava,"Per 10,000 inhabitants",5.6
+2011,Dentist,,Bizkaia,"Per 10,000 inhabitants",7.9
+2014,Dentist,,Bizkaia,"Per 10,000 inhabitants",8.3
+2010,Dentist,,Bizkaia,"Per 10,000 inhabitants",7.7
+2016,Dentist,,Bizkaia,"Per 10,000 inhabitants",8.7
+2015,Dentist,,Bizkaia,"Per 10,000 inhabitants",8.5
+2013,Dentist,,Bizkaia,"Per 10,000 inhabitants",8.1
+2020,Dentist,,Bizkaia,"Per 10,000 inhabitants",9.1
+2022,Dentist,,Bizkaia,"Per 10,000 inhabitants",9.3
+2018,Dentist,,Bizkaia,"Per 10,000 inhabitants",9.1
+2023,Dentist,,Bizkaia,"Per 10,000 inhabitants",9.3
+2021,Dentist,,Bizkaia,"Per 10,000 inhabitants",9.2
+2019,Dentist,,Bizkaia,"Per 10,000 inhabitants",9.1
+2017,Dentist,,Bizkaia,"Per 10,000 inhabitants",8.9
+2012,Dentist,,Bizkaia,"Per 10,000 inhabitants",7.9
+2010,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",7.3
+2011,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",7.3
+2013,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",8.1
+2015,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",8.5
+2014,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",8.0
+2012,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",8.0
+2021,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",9.7
+2019,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",8.9
+2017,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",8.7
+2022,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",9.8
+2020,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",9.1
+2018,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",8.8
+2016,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",8.7
+2023,Dentist,,Gipuzkoa,"Per 10,000 inhabitants",10.0
+2023,Dentist,Female,,"Per 10,000 inhabitants",11.6
+2011,Dentist,Female,,"Per 10,000 inhabitants",6.9
+2012,Dentist,Female,,"Per 10,000 inhabitants",9.0
+2020,Dentist,Female,,"Per 10,000 inhabitants",11.1
+2019,Dentist,Female,,"Per 10,000 inhabitants",10.7
+2021,Dentist,Female,,"Per 10,000 inhabitants",11.3
+2022,Dentist,Female,,"Per 10,000 inhabitants",11.4
+2015,Dentist,Female,,"Per 10,000 inhabitants",9.9
+2016,Dentist,Female,,"Per 10,000 inhabitants",10.2
+2013,Dentist,Female,,"Per 10,000 inhabitants",9.3
+2010,Dentist,Female,,"Per 10,000 inhabitants",6.8
+2017,Dentist,Female,,"Per 10,000 inhabitants",10.4
+2014,Dentist,Female,,"Per 10,000 inhabitants",9.5
+2018,Dentist,Female,,"Per 10,000 inhabitants",10.7
+2016,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.3
+2019,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.5
+2010,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",5.4
+2014,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.0
+2013,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",7.7
+2012,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",7.2
+2017,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",7.9
+2021,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.2
+2023,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.2
+2022,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.1
+2018,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.0
+2011,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",5.6
+2015,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.2
+2020,Dentist,Female,Araba/Álava,"Per 10,000 inhabitants",8.5
+2011,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",7.3
+2022,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",11.9
+2010,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",7.2
+2012,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",9.2
+2016,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",10.4
+2018,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",11.2
+2014,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",9.7
+2023,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",11.9
+2017,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",10.8
+2015,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",10.1
+2013,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",9.4
+2020,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",11.4
+2021,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",11.7
+2019,Dentist,Female,Bizkaia,"Per 10,000 inhabitants",11.3
+2011,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",6.7
+2010,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",6.7
+2015,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",10.3
+2017,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",10.8
+2021,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",12.1
+2013,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",9.6
+2018,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",11.1
+2016,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",10.7
+2014,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",9.8
+2012,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",9.5
+2019,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",10.6
+2023,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",12.6
+2020,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",11.8
+2022,Dentist,Female,Gipuzkoa,"Per 10,000 inhabitants",12.2
+2010,Dentist,Male,,"Per 10,000 inhabitants",7.8
+2019,Dentist,Male,,"Per 10,000 inhabitants",6.6
+2021,Dentist,Male,,"Per 10,000 inhabitants",6.5
+2023,Dentist,Male,,"Per 10,000 inhabitants",6.4
+2017,Dentist,Male,,"Per 10,000 inhabitants",6.4
+2022,Dentist,Male,,"Per 10,000 inhabitants",6.5
+2013,Dentist,Male,,"Per 10,000 inhabitants",6.2
+2015,Dentist,Male,,"Per 10,000 inhabitants",6.4
+2016,Dentist,Male,,"Per 10,000 inhabitants",6.4
+2012,Dentist,Male,,"Per 10,000 inhabitants",6.1
+2014,Dentist,Male,,"Per 10,000 inhabitants",6.2
+2020,Dentist,Male,,"Per 10,000 inhabitants",6.2
+2018,Dentist,Male,,"Per 10,000 inhabitants",6.4
+2011,Dentist,Male,,"Per 10,000 inhabitants",7.9
+2014,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.5
+2018,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.7
+2019,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",5.0
+2017,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.6
+2020,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.9
+2012,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.2
+2022,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.7
+2021,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",5.0
+2023,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.6
+2010,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",5.9
+2016,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.7
+2013,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.3
+2011,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",6.0
+2015,Dentist,Male,Araba/Álava,"Per 10,000 inhabitants",4.7
+2012,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.4
+2014,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.7
+2018,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.8
+2010,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",8.3
+2015,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.8
+2019,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.8
+2013,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.6
+2021,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.5
+2011,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",8.4
+2017,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.9
+2023,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.4
+2022,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.5
+2020,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.5
+2016,Dentist,Male,Bizkaia,"Per 10,000 inhabitants",6.8
+2011,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",8.0
+2014,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.1
+2018,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.5
+2012,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.5
+2020,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.4
+2010,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",7.9
+2016,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.6
+2022,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",7.3
+2021,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",7.2
+2019,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",7.0
+2015,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.6
+2023,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",7.3
+2017,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.5
+2013,Dentist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.5
+2012,Pharmacist,,,"Per 10,000 inhabitants",14.1
+2013,Pharmacist,,,"Per 10,000 inhabitants",14.4
+2011,Pharmacist,,,"Per 10,000 inhabitants",13.8
+2020,Pharmacist,,,"Per 10,000 inhabitants",16.2
+2022,Pharmacist,,,"Per 10,000 inhabitants",16.8
+2019,Pharmacist,,,"Per 10,000 inhabitants",16.0
+2016,Pharmacist,,,"Per 10,000 inhabitants",15.4
+2017,Pharmacist,,,"Per 10,000 inhabitants",15.6
+2023,Pharmacist,,,"Per 10,000 inhabitants",16.7
+2010,Pharmacist,,,"Per 10,000 inhabitants",13.6
+2021,Pharmacist,,,"Per 10,000 inhabitants",16.4
+2014,Pharmacist,,,"Per 10,000 inhabitants",14.7
+2018,Pharmacist,,,"Per 10,000 inhabitants",15.9
+2015,Pharmacist,,,"Per 10,000 inhabitants",14.9
+2010,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",13.8
+2021,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",16.5
+2018,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",16.0
+2019,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",16.2
+2020,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",16.5
+2011,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",14.1
+2022,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",17.3
+2012,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",14.4
+2013,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",14.7
+2023,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",17.1
+2015,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",15.2
+2016,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",15.7
+2017,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",15.8
+2014,Pharmacist,,Araba/Álava,"Per 10,000 inhabitants",15.0
+2011,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",14.1
+2010,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",14.0
+2015,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",15.2
+2017,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",15.8
+2021,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",16.4
+2013,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",14.5
+2018,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",16.0
+2022,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",16.6
+2016,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",15.6
+2014,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",14.8
+2020,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",16.1
+2012,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",14.2
+2023,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",16.5
+2019,Pharmacist,,Bizkaia,"Per 10,000 inhabitants",16.0
+2012,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",13.7
+2017,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",15.2
+2021,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",16.3
+2015,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",14.5
+2023,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",16.8
+2013,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",14.0
+2011,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",13.3
+2010,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",12.9
+2018,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",15.7
+2022,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",16.9
+2019,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",15.9
+2014,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",14.5
+2016,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",14.9
+2020,Pharmacist,,Gipuzkoa,"Per 10,000 inhabitants",16.3
+2023,Pharmacist,Female,,"Per 10,000 inhabitants",26.1
+2010,Pharmacist,Female,,"Per 10,000 inhabitants",21.3
+2015,Pharmacist,Female,,"Per 10,000 inhabitants",23.3
+2021,Pharmacist,Female,,"Per 10,000 inhabitants",25.7
+2012,Pharmacist,Female,,"Per 10,000 inhabitants",21.9
+2013,Pharmacist,Female,,"Per 10,000 inhabitants",22.4
+2014,Pharmacist,Female,,"Per 10,000 inhabitants",22.9
+2018,Pharmacist,Female,,"Per 10,000 inhabitants",24.7
+2020,Pharmacist,Female,,"Per 10,000 inhabitants",25.3
+2019,Pharmacist,Female,,"Per 10,000 inhabitants",24.9
+2016,Pharmacist,Female,,"Per 10,000 inhabitants",23.9
+2011,Pharmacist,Female,,"Per 10,000 inhabitants",21.7
+2017,Pharmacist,Female,,"Per 10,000 inhabitants",24.4
+2022,Pharmacist,Female,,"Per 10,000 inhabitants",26.3
+2021,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",25.4
+2014,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",23.4
+2018,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",24.3
+2010,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",21.2
+2016,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",23.8
+2011,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",22.1
+2020,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",25.4
+2017,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",24.1
+2023,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",27.0
+2022,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",27.4
+2013,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",22.8
+2019,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",24.7
+2012,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",22.5
+2015,Pharmacist,Female,Araba/Álava,"Per 10,000 inhabitants",23.2
+2023,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",25.4
+2011,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",22.1
+2013,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",22.5
+2017,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",24.4
+2018,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",24.8
+2012,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",22.1
+2020,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",24.9
+2010,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",21.9
+2016,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",24.2
+2022,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",25.8
+2021,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",25.4
+2019,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",24.8
+2015,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",23.5
+2014,Pharmacist,Female,Bizkaia,"Per 10,000 inhabitants",22.9
+2023,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",26.8
+2020,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",25.8
+2010,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",20.3
+2012,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",21.4
+2016,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",23.5
+2013,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",21.9
+2017,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",24.5
+2011,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",20.8
+2019,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",25.2
+2015,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",23.0
+2021,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",26.3
+2018,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",24.9
+2014,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",22.7
+2022,Pharmacist,Female,Gipuzkoa,"Per 10,000 inhabitants",26.7
+2019,Pharmacist,Male,,"Per 10,000 inhabitants",6.5
+2014,Pharmacist,Male,,"Per 10,000 inhabitants",6.1
+2018,Pharmacist,Male,,"Per 10,000 inhabitants",6.6
+2011,Pharmacist,Male,,"Per 10,000 inhabitants",5.6
+2023,Pharmacist,Male,,"Per 10,000 inhabitants",6.7
+2016,Pharmacist,Male,,"Per 10,000 inhabitants",6.3
+2015,Pharmacist,Male,,"Per 10,000 inhabitants",6.1
+2013,Pharmacist,Male,,"Per 10,000 inhabitants",6.0
+2017,Pharmacist,Male,,"Per 10,000 inhabitants",6.3
+2020,Pharmacist,Male,,"Per 10,000 inhabitants",6.7
+2022,Pharmacist,Male,,"Per 10,000 inhabitants",6.7
+2021,Pharmacist,Male,,"Per 10,000 inhabitants",6.5
+2010,Pharmacist,Male,,"Per 10,000 inhabitants",5.6
+2012,Pharmacist,Male,,"Per 10,000 inhabitants",5.9
+2020,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",7.4
+2022,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",6.8
+2023,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",6.8
+2021,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",7.2
+2019,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",7.4
+2017,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",7.2
+2018,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",7.4
+2014,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",6.4
+2011,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",6.0
+2013,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",6.5
+2012,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",6.4
+2010,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",6.3
+2015,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",6.9
+2016,Pharmacist,Male,Araba/Álava,"Per 10,000 inhabitants",7.4
+2013,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.0
+2010,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",5.5
+2014,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.1
+2016,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.4
+2012,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",5.8
+2018,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.6
+2017,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.5
+2015,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.3
+2011,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",5.5
+2022,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.7
+2020,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.6
+2023,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",7.0
+2021,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.7
+2019,Pharmacist,Male,Bizkaia,"Per 10,000 inhabitants",6.5
+2012,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.7
+2013,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.7
+2015,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.6
+2011,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.4
+2017,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.6
+2016,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.8
+2014,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.9
+2010,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.3
+2021,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",5.8
+2023,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.3
+2019,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.1
+2022,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.6
+2020,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.4
+2018,Pharmacist,Male,Gipuzkoa,"Per 10,000 inhabitants",6.2
