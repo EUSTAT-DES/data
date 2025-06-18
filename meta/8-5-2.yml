@@ -22,18 +22,34 @@ formula:  |
   $A^{t} =$ ekonomikoki aktiboak diren pertsonak $t$ urtean
 
 
-desagregacion:  |
+desagregacion: |
   Sexua
 
   Adina
 
-  Desgaitasunik ez duten eta desgaitasuna duten pertsonak ( % 33ko 
-  edo hortik gorako desgaitasun-maila duten pertsonak)
+  Nazionalitatea
+
+  Disgaitasuna
+
+  Lurralde historikoa
+
+  Eskualdea
+
+  Udalerria
 
 periodicidad: FUENTE.FREQ_A
 
 
-observaciones: >-
+observaciones: |
+
+  Adierazleak Biztanleria jardueraren arabera sailkatzeko inkesta (BJA) erabiltzen du Euskal AEko eta lurralde historikoetako datuetarako; 
+  udal eta eskualdeetako datuak, berriz, Biztanleriaren eta etxebizitzen zentsukoak dira. BJAren urteko datuak 4 hiruhilekoetako batez 
+  bestekoari dagozkio, eta azken urtean urtarrilaren 1ko biztanleria hartzen da. Erroldako datuen erreferentzia-data t+1 urteko urtarrilaren 
+  1a da. Bi kasuetan, erreferentziako biztanleria 16 urte edo gehiagoko pertsonak dira.
+
+  Desgaitasunaren araberako langabezia-datuak INEren "Desgaitasuna duten pertsonen enplegua" eragiketatik datoz. Azterlanaren 
+  biztanleria-eremua 16 eta 64 urte bitarteko pertsonen kolektiboa da, % 33ko edo gehiagoko desgaitasun-maila dutenak eta 
+  parekatuak (1/2013 Legegintzako Errege Dekretuaren arabera).
 
 texto_oceca: FUENTE.oceca
 

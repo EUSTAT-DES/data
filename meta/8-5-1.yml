@@ -8,10 +8,10 @@ meta_global: meta_largo.8-5-titulo
 #  indicador_onu_global: indicador_largo.8-5-1-titulo
 
 
-definicion:  | 
+definicion: | 
   Soldatapeko langileen irabazi gordina lanordu arrunt bakoitzeko
 
-formula:  |
+formula: |
   <b>Enplegatuen batez besteko diru-sarrerak, lanorduko</b>
 
   $$GH^{t} = \frac{G^{t}}{H^{t}} $$
@@ -34,15 +34,16 @@ formula:  |
 
   $GPH_{emakumea}^{t} =$ emakumeen orduko batez besteko irabazia $t$ urtean
 
-desagregacion:  |
+desagregacion: |
   Sexua 
 
-  Desgaitasunik ez dutenak / desgaitasuna dutenak (% 33 edo handiagoa) 
+  Desgaitasuna
 
 periodicidad: FUENTE.FREQ_A
 
 
 observaciones: >-
+  Desgaitasuna duten pertsonak % 33ko edo hortik gorako desgaitasun-maila duten pertsonak eta hauei parekatuak dira, 1/2013 Legegintzako Errege Dekretuaren arabera.
 
 texto_oceca: FUENTE.oceca
 
