@@ -102,3 +102,7 @@ announce_unit_switched: Grafiko eta taula eguneratuak, unitate desberdin bat era
 territorio: Lurraldeak
 comarca: Eskualdeak
 municipio: Udalerriak
+
+# Yes/No for binary-style charts and tables
+affirmative: 'Bai'
+negative: 'Ez'
