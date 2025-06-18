@@ -1,6 +1,6 @@
 exploring_data_sources: Exploring data sources
-reporting_status: Reporting status
-overall_reporting_status: Overall reporting status
+reporting_status: Progress status
+overall_reporting_status: Overall progress status
 reported_online: Reported online
 statistics_in_progress: Statistics in progress
 exploring_data_sources: Exploring data sources
@@ -18,12 +18,13 @@ disaggregation_status_notapplicable: Out of scope
 disaggregation_status_by_field: Disaggregation by %field
 not_specified: Not specified
 reported: Reported
-description: 
-  Reporting status provides an overview of progress toward achieving the Sustainable Development Goals (SDGs) in the Basque Country. 
+description: |
+  
+  The monitoring report provides an overview of progress toward achieving the Sustainable Development Goals (SDGs) in the Basque Country.
 
-  To learn more about the process for assessing progress, see <a href="https://eustat-des.github.io/site/en/metodologia">Measuring progress on the Sustainable Development Goals</a>. 
+  To learn more about the methodology used to assess progress, see <a href="/en/metodologia">Measuring Progress on the Sustainable Development Goals</a>.
 
-progress_status: Progress
+progress_status: <b>Progress</b>
 progress_not_available: Not available
 progress_challenges_remain: Challenges remain
 progress_approaching_target: Approaching target
