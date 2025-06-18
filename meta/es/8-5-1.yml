@@ -37,12 +37,13 @@ formula:  |
 desagregacion:  |
   Sexo
 
-  Personas sin discapacidad / con discapacidad (superior o igual al 33%)
+  Discapacidad
 
 periodicidad: FUENTE.FREQ_A
 
 
 observaciones: >-
+  Las personas con discapacidad son las personas con un grado de discapacidad superior o igual al 33% y asimilados según el RD Legislativo 1/2013.
 
 texto_oceca: FUENTE.oceca
 
