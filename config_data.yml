@@ -58,8 +58,9 @@ inputs:
     # need to change this setting. It is intended for sites where the data needs
     # to be "built" before being processed by sdg-build.
     git_data_dir: data
-  - class: InputSdmxMeta
-    meta_suffix: __GLOBAL
+  # Comentado para evitar la importación automática de indicadores de la ONU
+  # - class: InputSdmxMeta
+  #   meta_suffix: __GLOBAL
 
 # Translations
 # ------------
