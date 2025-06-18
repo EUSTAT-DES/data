@@ -47,7 +47,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 5-2-2-titulo: "Rate of victimization against women due to sexual violence outside the family"
 5-3-1-titulo: "Proportion of 16 and 17 year old women who have married a man"
 5-4-1-titulo: "Time devoted to home and family care on an average day"
-5-5-1-titulo: "Proportion of seats held by women in a) the autonomous parliament and b) the autonomous, provincial and local governments"
+5-5-1-titulo: "Proportion of seats held by women in a) the regional parliament and b) the regional, provincial and local governments"
 5-a-2-titulo: "Extent to which the legal framework guarantees women's equal rights to own or control land"
 5-b-1-titulo: "Proportion of people aged 16-74 who have used a mobile phone in the last three months"
 
@@ -65,7 +65,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 8-9-1-titulo: "GDP generated directly by tourism as a proportion of total GDP and growth rate"
 8-10-1-titulo: "Number of commercial bank branches per 100,000 inhabitants aged 15 and over"
 8-10-2-titulo: "Proportion of people aged 18-79 who have a checking account"
-8-b-1-titulo: "Spending by autonomous public administrations on employment promotion"
+8-b-1-titulo: "Spending by regional public administrations on employment promotion"
  
 9-4-E1-titulo: "Air emission intensity from industry (EU indicator sdg_09_70)" 
 
@@ -74,7 +74,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 10-7-4-titulo: "Number of refugees or people under international protection per 100,000 inhabitants"
 
 11-1-1-titulo: "Proportion of people living in households with certain housing deficiencies"
-11-4-1-titulo: "Per capita expenditure of autonomous and local public administrations on the preservation, protection and conservation of cultural heritage"
+11-4-1-titulo: "Per capita expenditure of regional and local public administrations on the preservation, protection and conservation of cultural heritage"
 11-5-1-titulo: "Number of deaths directly attributed to disasters per 100,000 inhabitants"
 11-5-2-titulo: "Compensation for personal injury, pecuniary loss and property damage paid and/or provisioned in proportion to GDP" 
 11-6-1-titulo: "Urban waste collected per capita and proportion of waste treated, by type of treatment"
@@ -105,14 +105,14 @@ nodisponible: The Basque Country does not produce continuous official statistics
 16-1-E1-titulo: "Population that reports the occurrence of crimes, violence or vandalism in their area (EU indicator sdg_16_20)" 
 16-2-2-titulo: "Number of detected victims of human trafficking per 100,000 inhabitants, by type of exploitation"
 
-16-6-1-titulo: "Liquidated expenditure in proportion to the initial expenditure of the budgets of autonomous and local public administrations"
+16-6-1-titulo: "Liquidated expenditure in proportion to the initial expenditure of the budgets of regional and local public administrations"
 16-6-2-titulo: "Proportion of the population that feels satisfied with the functioning of public services"
 
 16-7-1-titulo: "Ratio of the proportion of women in the public sector to the proportion of women in the population aged 16 to 64, by public institution"
 
 17-1-1-titulo: "Total revenue of regional and local public administrations as a proportion of GDP"
-17-1-2-titulo: "Proportion of autonomous and local government revenues from taxes"
-17-2-1-titulo: "Net Official Development Assistance from autonomous and local public administrations, and in proportion to GDP"
+17-1-2-titulo: "Proportion of regional and local government revenues from taxes"
+17-2-1-titulo: "Net Official Development Assistance from regional and local public administrations, and in proportion to GDP"
 17-3-1-titulo: "Net direct investment in countries receiving Official Development Assistance, and as a proportion of GDP" 
 17-3-2-titulo: "Volume of remittances sent abroad, and in proportion to GDP" 
 17-8-1-titulo: "Proportion of people aged 16-74 who have used the Internet in the last three months"
@@ -123,10 +123,10 @@ nodisponible: The Basque Country does not produce continuous official statistics
  # OCECA
 OCECA-1-2-1-1A: Proportion of people at risk of relative poverty, considering the national poverty line
 OCECA-1-2-1-2A: Proportion of people at risk of relative poverty with imputed rent, considering the national poverty line
-OCECA-1-2-1-2B: Proportion of people at risk of relative poverty with imputed rent, considering the autonomous poverty threshold
+OCECA-1-2-1-2B: Proportion of people at risk of relative poverty with imputed rent, considering the regional poverty threshold
 OCECA-1-2-2-1A: "Proportion of people at risk of poverty or social exclusion: AROPE indicator, considering the national poverty line"
-OCECA-1-a-2-1: Proportion of autonomous public administrations spending on education
-OCECA-1-a-2-2: Proportion of autonomous public administrations spending on health
+OCECA-1-a-2-1: Proportion of regional public administrations spending on education
+OCECA-1-a-2-2: Proportion of regional public administrations spending on health
 OCECA-6-1-1: Proportion of people in supply areas who report to the National Drinking Water Information System (SINAC)
 OCECA-9-4-1-5: $CO_2$ emissions compared to 1990
 OCECA-9-4-1-6: $CO_2$ emissions compared to 2005
@@ -152,7 +152,7 @@ OCECA-13-2-2-4: Greenhouse gas emissions compared to 2005
   and a more correct use of the land to avoid increasing risk.
   
   <a href="https://www.euskadi.eus/dokumentazioa/2015/2050erako-klima-aldaketaren-euskadiko-estrategia/web01-a2ingkli/eu/" target="_blank">  Climate Change Strategy of the Basque Country to 2050</a>: It includes as long-term objectives the reduction of greenhouse gas emissions by 80% by 2050, as well as increasing the resilience of the Basque territory to face the expected effects of climate change.
-1-5-4-contenido: "In the Basque Country, there is one autonomous emergency plan and three provincial emergency plans, one for each province. Therefore, 100% of municipalities are under the umbrella of a territorial emergency plan."
+1-5-4-contenido: "In the Basque Country, there is one regional emergency plan and three provincial emergency plans, one for each province. Therefore, 100% of municipalities are under the umbrella of a provincial emergency plan."
 
 
 2-1-1-contenido: "<b>Desired direction:</b> Decrease"
