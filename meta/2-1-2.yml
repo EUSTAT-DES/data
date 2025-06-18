@@ -33,7 +33,7 @@ observaciones: |
   - A- Erosten dituzten elikagaiak agortzen zaizkie eta ez dute dirurik gehiago lortzeko 
   - B- Ezin dute elikadura orekatua eta askotarikoa eskuratu 
   - C- Janari kantitatea murriztu dute edo otordu batzuk ere saltatu dituzte elikatzeko diru nahikorik ez zutelako 
-       - D- Gertatu bada, ¿zein maiztasunekin gertatu da?
+  - D- Gertatu bada, ¿zein maiztasunekin gertatu da?
   - E- Nahi baino gutxiago jan dute elikagaiak erosteko nahikoa diru ez zeukatelako 
   - F- Gose izan dira, baina ez dute jan, nahikoa janari lortu ezin izan dutelako  
 
@@ -71,8 +71,7 @@ dato_global: >-
 
 comparabilidad: >-
   EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du. Elikagaien segurtasunik eza modu desberdinean puntuatzen da.
-
-informacion_interes: 
+ 
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''
