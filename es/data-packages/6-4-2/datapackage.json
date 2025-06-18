@@ -16,6 +16,22 @@
             "title": "Año"
           },
           {
+            "name": "Uso",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Uso doméstico",
+                "Uso industrial",
+                "Uso comercial",
+                "Uso público",
+                "Uso agropecuario",
+                "Otros usos",
+                ""
+              ]
+            },
+            "title": "Tipo de uso"
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -38,22 +54,6 @@
               ]
             },
             "title": "Unidad"
-          },
-          {
-            "name": "Uso",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Uso doméstico",
-                "Uso industrial",
-                "Uso comercial",
-                "Uso público",
-                "Uso agropecuario",
-                "Otros usos",
-                ""
-              ]
-            },
-            "title": "Tipo de uso"
           },
           {
             "name": "Value",

@@ -6275,18 +6275,6 @@
             "title": "Seriea"
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16 urte eta gehiago",
-                "20-64 urte",
-                ""
-              ]
-            },
-            "title": "Adina"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {
@@ -6303,8 +6291,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Aldi baterako kontratua",
                 "Lanaldi partzialeko kontratua",
+                "Aldi baterako kontratua",
                 ""
               ]
             },
@@ -8582,6 +8570,22 @@
             "title": "Urtea"
           },
           {
+            "name": "Uso",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Etxeko erabilera",
+                "Industria-erabilera",
+                "Merkataritza-erabilera",
+                "Erabilera publikoa",
+                "Nekazaritza eta abeltzaintzako erabilera",
+                "Beste erabilera batzuk",
+                ""
+              ]
+            },
+            "title": "Erabilera mota"
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -8604,22 +8608,6 @@
               ]
             },
             "title": "Unitatea"
-          },
-          {
-            "name": "Uso",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Etxeko erabilera",
-                "Industria-erabilera",
-                "Merkataritza-erabilera",
-                "Erabilera publikoa",
-                "Nekazaritza eta abeltzaintzako erabilera",
-                "Beste erabilera batzuk",
-                ""
-              ]
-            },
-            "title": "Erabilera mota"
           },
           {
             "name": "Value",

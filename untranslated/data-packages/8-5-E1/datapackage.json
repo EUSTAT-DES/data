@@ -26,17 +26,6 @@
             }
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y_GE16",
-                "Y20T64",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {
@@ -52,8 +41,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LTD",
                 "PTE",
+                "LTD",
                 ""
               ]
             }

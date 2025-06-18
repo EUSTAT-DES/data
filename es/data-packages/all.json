@@ -6275,18 +6275,6 @@
             "title": "Serie"
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16 años y más",
-                "20-64 años",
-                ""
-              ]
-            },
-            "title": "Edad"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {
@@ -6303,8 +6291,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Contrato temporal",
                 "Contrato a tiempo parcial",
+                "Contrato temporal",
                 ""
               ]
             },
@@ -8582,6 +8570,22 @@
             "title": "Año"
           },
           {
+            "name": "Uso",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Uso doméstico",
+                "Uso industrial",
+                "Uso comercial",
+                "Uso público",
+                "Uso agropecuario",
+                "Otros usos",
+                ""
+              ]
+            },
+            "title": "Tipo de uso"
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -8604,22 +8608,6 @@
               ]
             },
             "title": "Unidad"
-          },
-          {
-            "name": "Uso",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Uso doméstico",
-                "Uso industrial",
-                "Uso comercial",
-                "Uso público",
-                "Uso agropecuario",
-                "Otros usos",
-                ""
-              ]
-            },
-            "title": "Tipo de uso"
           },
           {
             "name": "Value",

@@ -6275,18 +6275,6 @@
             "title": "Series"
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16 years and over",
-                "20-64 years",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {
@@ -6303,8 +6291,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Temporary contract",
                 "Part-time contract",
+                "Temporary contract",
                 ""
               ]
             },
@@ -8582,6 +8570,22 @@
             "title": "Year"
           },
           {
+            "name": "Uso",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic use",
+                "Industrial use",
+                "Commercial use",
+                "Public use",
+                "Agricultural use",
+                "Other uses",
+                ""
+              ]
+            },
+            "title": "Type of use"
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -8604,22 +8608,6 @@
               ]
             },
             "title": "Unit"
-          },
-          {
-            "name": "Uso",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Domestic use",
-                "Industrial use",
-                "Commercial use",
-                "Public use",
-                "Agricultural use",
-                "Other uses",
-                ""
-              ]
-            },
-            "title": "Type of use"
           },
           {
             "name": "Value",

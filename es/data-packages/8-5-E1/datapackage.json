@@ -28,18 +28,6 @@
             "title": "Serie"
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16 años y más",
-                "20-64 años",
-                ""
-              ]
-            },
-            "title": "Edad"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {
@@ -56,8 +44,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Contrato temporal",
                 "Contrato a tiempo parcial",
+                "Contrato temporal",
                 ""
               ]
             },

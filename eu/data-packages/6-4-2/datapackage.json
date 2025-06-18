@@ -16,6 +16,22 @@
             "title": "Urtea"
           },
           {
+            "name": "Uso",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Etxeko erabilera",
+                "Industria-erabilera",
+                "Merkataritza-erabilera",
+                "Erabilera publikoa",
+                "Nekazaritza eta abeltzaintzako erabilera",
+                "Beste erabilera batzuk",
+                ""
+              ]
+            },
+            "title": "Erabilera mota"
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -38,22 +54,6 @@
               ]
             },
             "title": "Unitatea"
-          },
-          {
-            "name": "Uso",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Etxeko erabilera",
-                "Industria-erabilera",
-                "Merkataritza-erabilera",
-                "Erabilera publikoa",
-                "Nekazaritza eta abeltzaintzako erabilera",
-                "Beste erabilera batzuk",
-                ""
-              ]
-            },
-            "title": "Erabilera mota"
           },
           {
             "name": "Value",
