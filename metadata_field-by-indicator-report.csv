@@ -82,7 +82,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #15-5-1,notstarted,notstarted,,line
 #15-6-1,notstarted,notstarted,,line
 #15-7-1,notstarted,notstarted,,line
-#15-8-1,complete,alcanzado,,line
+#15-8-1,complete,alcanzado,,binary
 #15-9-1,notstarted,,,line
 #15-a-1,notstarted,notstarted,,line
 #15-b-1,notstarted,notstarted,,line
@@ -123,10 +123,10 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #17-16-1,notstarted,notstarted,,line
 #17-17-1,notstarted,notstarted,,line
 #17-18-1,notstarted,notstarted,,line
-#17-18-2,complete,alcanzado,,line
-#17-18-3,complete,alcanzado,,line
+#17-18-2,complete,alcanzado,,binary
+#17-18-3,complete,alcanzado,,binary
 #17-19-1,notstarted,notstarted,,line
-#17-19-2,complete,alcanzado,,line
+#17-19-2,complete,alcanzado,,binary
 #17-2-1,complete,progreso,,line
 #17-3-1,complete,progreso,,line
 #17-3-2,complete,noevaluado,,line
