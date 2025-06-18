@@ -17,9 +17,9 @@ disaggregation_status_by_field: 'Desagregazioa %field bidez'
 not_specified: Ez da zehazten
 reported: Informatua
 description: |
-  Jarraipen-txostenak Euskal Autonomia Erkidegoan Garapen Jasangarrirako Helburuak (GJH) lortzeko egindako aurrerapenaren deskribapen orokorra ematen du.
+  Jarraipen txostenak Euskal Autonomia Erkidegoan Garapen Jasangarrirako Helburuak (GJH) lortzeko egindako aurrerapenaren deskribapen orokorra ematen du.
 
-  Aurrerapena ebaluatzeko prozedurari buruz gehiago jakiteko, ikus <a href="https://eustat-des.github.io/site/metodologia">Garapen Jasangarrirako Helburuen aurrerapenaren neurketa</a>.
+  Aurrerapena ebaluatzeko prozedurari buruz gehiago jakiteko, ikus <a href="/metodologia">Garapen Jasangarrirako Helburuen aurrerapenaren neurketa</a>.
 
 progress_status: <b>Jarraipena</b>
 progress_not_available: Ez dago daturik
