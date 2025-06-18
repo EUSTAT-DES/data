@@ -6257,7 +6257,7 @@
             "constraints": {
               "enum": [
                 "Okupazio-tasa",
-                "Genero-aldea okupazioan",
+                "Genero-arrakala okupazioan",
                 ""
               ]
             },
@@ -7575,8 +7575,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y25T34",
-                "Y_GE35",
+                "25-34 urte",
+                "35 urte eta gehiago",
                 "16-24 urte",
                 "16-29 urte",
                 ""
@@ -7594,7 +7594,7 @@
                 ""
               ]
             },
-            "title": "Nacionalidad"
+            "title": "Nazionalitatea"
           },
           {
             "name": "Discapacidad",
@@ -7606,7 +7606,7 @@
                 ""
               ]
             },
-            "title": "Desgaitasunik ez duten pertsonak"
+            "title": "Desgaitasuna"
           },
           {
             "name": "Territorio",
@@ -11028,7 +11028,7 @@
             "constraints": {
               "enum": [
                 "Orduko batez besteko diru-sarrera",
-                "Genero-aldea soldatan",
+                "Genero-arrakala soldatan",
                 ""
               ]
             },
@@ -11056,7 +11056,7 @@
                 ""
               ]
             },
-            "title": "Desgaitasunik ez duten pertsonak"
+            "title": "Desgaitasuna"
           },
           {
             "name": "Units",
@@ -12587,7 +12587,7 @@
             "constraints": {
               "enum": [
                 "Hilkortasun goiztiarraren tasa (30-70 urte)",
-                "Heriotza-tasa",
+                "Heriotza-tasa 100.000 biztanleko",
                 ""
               ]
             },
@@ -14328,7 +14328,7 @@
             "constraints": {
               "enum": [
                 "Babestutako lur-eremuen azalera (Km2)",
-                "Lurrazal babestuak lurrazalarekiko duen proportzioa",
+                "Lurreko eremu babestuen azalera lur azalera osoarekiko",
                 ""
               ]
             },

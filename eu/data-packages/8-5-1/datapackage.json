@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Orduko batez besteko diru-sarrera",
-                "Genero-aldea soldatan",
+                "Genero-arrakala soldatan",
                 ""
               ]
             },
@@ -49,7 +49,7 @@
                 ""
               ]
             },
-            "title": "Desgaitasunik ez duten pertsonak"
+            "title": "Desgaitasuna"
           },
           {
             "name": "Units",

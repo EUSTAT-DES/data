@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y25T34",
-                "Y_GE35",
+                "25-34 urte",
+                "35 urte eta gehiago",
                 "16-24 urte",
                 "16-29 urte",
                 ""
@@ -51,7 +51,7 @@
                 ""
               ]
             },
-            "title": "Nacionalidad"
+            "title": "Nazionalitatea"
           },
           {
             "name": "Discapacidad",
@@ -63,7 +63,7 @@
                 ""
               ]
             },
-            "title": "Desgaitasunik ez duten pertsonak"
+            "title": "Desgaitasuna"
           },
           {
             "name": "Territorio",
