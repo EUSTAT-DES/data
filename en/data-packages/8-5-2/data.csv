@@ -1,69 +1,69 @@
-Year,Sex,Age,Nacionalidad,People with and without disabilities,Province,County,Municipality,Units,GeoCode,Value
-2012,,Y25T34,,,,,,%,,13.0
-2016,,Y_GE35,,,,,,%,,10.6
-2020,,Y_GE35,,,,,,%,,7.6
-2017,,,NACIO,,,,,%,,9.8
-2016,,,NACIO,,,,,%,,11.8
-2017,,Y25T34,,,,,,%,,12.4
+Year,Sex,Age,Nacionalidad,Disability,Province,County,Municipality,Units,GeoCode,Value
+2012,,25-34 years,,,,,,%,,13.0
+2016,,35 years and over,,,,,,%,,10.6
+2020,,35 years and over,,,,,,%,,7.6
+2017,,,Spanish nationality,,,,,%,,9.8
+2016,,,Spanish nationality,,,,,%,,11.8
+2017,,25-34 years,,,,,,%,,12.4
 2016,,,,,,,,%,,13.8
 2023,,,,,,,,%,,7.8
 2018,,,,,,,,%,,10.5
-2021,,Y_GE35,,,,,,%,,7.6
-2021,,,NACIO,,,,,%,,8.3
-2015,,,NACIO,,,,,%,,13.2
+2021,,35 years and over,,,,,,%,,7.6
+2021,,,Spanish nationality,,,,,%,,8.3
+2015,,,Spanish nationality,,,,,%,,13.2
 2017,,,,,,,,%,,11.6
 2014,,,,,,,,%,,16.1
-2022,,Y_GE35,,,,,,%,,7.3
-2010,,Y25T34,,,,,,%,,9.5
-2013,,Y25T34,,,,,,%,,16.4
-2019,,Y_GE35,,,,,,%,,8.2
-2023,,,NACIO,,,,,%,,6.2
-2024,,,EXTR,,,,,%,,18.9
+2022,,35 years and over,,,,,,%,,7.3
+2010,,25-34 years,,,,,,%,,9.5
+2013,,25-34 years,,,,,,%,,16.4
+2019,,35 years and over,,,,,,%,,8.2
+2023,,,Spanish nationality,,,,,%,,6.2
+2024,,,Foreign nationality,,,,,%,,18.9
 2012,,,,,,,,%,,11.8
 2019,,,,,,,,%,,9.8
-2018,,,EXTR,,,,,%,,27.6
+2018,,,Foreign nationality,,,,,%,,27.6
 2022,,,,,,,,%,,8.6
-2022,,,NACIO,,,,,%,,7.2
-2011,,Y_GE35,,,,,,%,,7.5
-2024,,Y_GE35,,,,,,%,,6.3
-2011,,Y25T34,,,,,,%,,12.0
-2019,,Y25T34,,,,,,%,,10.5
-2016,,,EXTR,,,,,%,,35.9
+2022,,,Spanish nationality,,,,,%,,7.2
+2011,,35 years and over,,,,,,%,,7.5
+2024,,35 years and over,,,,,,%,,6.3
+2011,,25-34 years,,,,,,%,,12.0
+2019,,25-34 years,,,,,,%,,10.5
+2016,,,Foreign nationality,,,,,%,,35.9
 2013,,,,,,,,%,,15.1
-2015,,,EXTR,,,,,%,,42.1
-2010,,Y_GE35,,,,,,%,,6.4
-2024,,Y25T34,,,,,,%,,8.0
+2015,,,Foreign nationality,,,,,%,,42.1
+2010,,35 years and over,,,,,,%,,6.4
+2024,,25-34 years,,,,,,%,,8.0
 2024,,,,,,,,%,,7.4
-2020,,,NACIO,,,,,%,,8.5
+2020,,,Spanish nationality,,,,,%,,8.5
 2011,,,,,,,,%,,10.8
-2023,,Y25T34,,,,,,%,,8.7
+2023,,25-34 years,,,,,,%,,8.7
 2015,,,,,,,,%,,15.7
-2019,,,NACIO,,,,,%,,8.3
-2021,,,EXTR,,,,,%,,26.1
-2018,,,NACIO,,,,,%,,8.9
-2018,,Y25T34,,,,,,%,,11.0
-2016,,Y25T34,,,,,,%,,15.4
-2015,,Y_GE35,,,,,,%,,11.8
-2014,,Y_GE35,,,,,,%,,11.5
-2018,,Y_GE35,,,,,,%,,9.1
+2019,,,Spanish nationality,,,,,%,,8.3
+2021,,,Foreign nationality,,,,,%,,26.1
+2018,,,Spanish nationality,,,,,%,,8.9
+2018,,25-34 years,,,,,,%,,11.0
+2016,,25-34 years,,,,,,%,,15.4
+2015,,35 years and over,,,,,,%,,11.8
+2014,,35 years and over,,,,,,%,,11.5
+2018,,35 years and over,,,,,,%,,9.1
 2010,,,,,,,,%,,9.1
-2015,,Y25T34,,,,,,%,,17.4
-2017,,,EXTR,,,,,%,,30.9
-2024,,,NACIO,,,,,%,,6.0
-2013,,Y_GE35,,,,,,%,,11.0
-2020,,,EXTR,,,,,%,,29.2
+2015,,25-34 years,,,,,,%,,17.4
+2017,,,Foreign nationality,,,,,%,,30.9
+2024,,,Spanish nationality,,,,,%,,6.0
+2013,,35 years and over,,,,,,%,,11.0
+2020,,,Foreign nationality,,,,,%,,29.2
 2020,,,,,,,,%,,10.6
-2019,,,EXTR,,,,,%,,24.8
-2012,,Y_GE35,,,,,,%,,8.3
-2023,,Y_GE35,,,,,,%,,6.1
-2022,,Y25T34,,,,,,%,,8.6
-2020,,Y25T34,,,,,,%,,12.2
-2014,,Y25T34,,,,,,%,,17.9
-2021,,Y25T34,,,,,,%,,11.5
+2019,,,Foreign nationality,,,,,%,,24.8
+2012,,35 years and over,,,,,,%,,8.3
+2023,,35 years and over,,,,,,%,,6.1
+2022,,25-34 years,,,,,,%,,8.6
+2020,,25-34 years,,,,,,%,,12.2
+2014,,25-34 years,,,,,,%,,17.9
+2021,,25-34 years,,,,,,%,,11.5
 2021,,,,,,,,%,,10.0
-2022,,,EXTR,,,,,%,,20.8
-2023,,,EXTR,,,,,%,,20.7
-2017,,Y_GE35,,,,,,%,,10.0
+2022,,,Foreign nationality,,,,,%,,20.8
+2023,,,Foreign nationality,,,,,%,,20.7
+2017,,35 years and over,,,,,,%,,10.0
 2016,,,,,,,Abadiño,%,Abadiño,12.0
 2022,,,,,,,Abadiño,%,Abadiño,8.5
 2018,,,,,,,Abadiño,%,Abadiño,9.7
@@ -2503,201 +2503,201 @@ Year,Sex,Age,Nacionalidad,People with and without disabilities,Province,County,M
 2023,,,,,,Urola Kosta,,%,Urola Kosta,5.9
 2018,,,,,,Urola Kosta,,%,Urola Kosta,9.2
 2015,,,,,,Urola Kosta,,%,Urola Kosta,14.5
-2021,,,EXTR,,Araba/Álava,,,%,Araba/Álava,31.6
+2021,,,Foreign nationality,,Araba/Álava,,,%,Araba/Álava,31.6
 2021,,,,,Araba/Álava,,,%,Araba/Álava,10.6
-2023,,Y_GE35,,,Araba/Álava,,,%,Araba/Álava,5.6
-2022,,,NACIO,,Araba/Álava,,,%,Araba/Álava,7.4
+2023,,35 years and over,,,Araba/Álava,,,%,Araba/Álava,5.6
+2022,,,Spanish nationality,,Araba/Álava,,,%,Araba/Álava,7.4
 2017,,,,,Araba/Álava,,,%,Araba/Álava,11.9
-2013,,Y25T34,,,Araba/Álava,,,%,Araba/Álava,16.4
-2017,,,NACIO,,Araba/Álava,,,%,Araba/Álava,9.0
-2022,,,EXTR,,Araba/Álava,,,%,Araba/Álava,24.4
+2013,,25-34 years,,,Araba/Álava,,,%,Araba/Álava,16.4
+2017,,,Spanish nationality,,Araba/Álava,,,%,Araba/Álava,9.0
+2022,,,Foreign nationality,,Araba/Álava,,,%,Araba/Álava,24.4
 2023,,,,,Araba/Álava,,,%,Araba/Álava,7.7
-2016,,Y25T34,,,Araba/Álava,,,%,Araba/Álava,15.0
-2019,,,NACIO,,Araba/Álava,,,%,Araba/Álava,8.0
-2012,,Y25T34,,,Araba/Álava,,,%,Araba/Álava,10.6
-2012,,Y_GE35,,,Araba/Álava,,,%,Araba/Álava,6.2
-2017,,Y25T34,,,Araba/Álava,,,%,Araba/Álava,11.6
-2019,,,EXTR,,Araba/Álava,,,%,Araba/Álava,29.8
+2016,,25-34 years,,,Araba/Álava,,,%,Araba/Álava,15.0
+2019,,,Spanish nationality,,Araba/Álava,,,%,Araba/Álava,8.0
+2012,,25-34 years,,,Araba/Álava,,,%,Araba/Álava,10.6
+2012,,35 years and over,,,Araba/Álava,,,%,Araba/Álava,6.2
+2017,,25-34 years,,,Araba/Álava,,,%,Araba/Álava,11.6
+2019,,,Foreign nationality,,Araba/Álava,,,%,Araba/Álava,29.8
 2014,,,,,Araba/Álava,,,%,Araba/Álava,17.1
-2010,,Y25T34,,,Araba/Álava,,,%,Araba/Álava,11.0
-2011,,Y25T34,,,Araba/Álava,,,%,Araba/Álava,8.1
-2020,,,EXTR,,Araba/Álava,,,%,Araba/Álava,29.9
-2016,,Y_GE35,,,Araba/Álava,,,%,Araba/Álava,10.9
-2020,,,NACIO,,Araba/Álava,,,%,Araba/Álava,8.2
+2010,,25-34 years,,,Araba/Álava,,,%,Araba/Álava,11.0
+2011,,25-34 years,,,Araba/Álava,,,%,Araba/Álava,8.1
+2020,,,Foreign nationality,,Araba/Álava,,,%,Araba/Álava,29.9
+2016,,35 years and over,,,Araba/Álava,,,%,Araba/Álava,10.9
+2020,,,Spanish nationality,,Araba/Álava,,,%,Araba/Álava,8.2
 2020,,,,,Araba/Álava,,,%,Araba/Álava,11.0
 2022,,,,,Araba/Álava,,,%,Araba/Álava,9.5
 2019,,,,,Araba/Álava,,,%,Araba/Álava,10.8
-2019,,Y_GE35,,,Araba/Álava,,,%,Araba/Álava,8.7
-2018,,Y25T34,,,Araba/Álava,,,%,Araba/Álava,12.7
-2023,,,NACIO,,Araba/Álava,,,%,Araba/Álava,6.0
-2017,,Y_GE35,,,Araba/Álava,,,%,Araba/Álava,11.1
-2016,,,NACIO,,Araba/Álava,,,%,Araba/Álava,11.0
-2023,,Y25T34,,,Araba/Álava,,,%,Araba/Álava,9.4
-2011,,Y_GE35,,,Araba/Álava,,,%,Araba/Álava,5.3
+2019,,35 years and over,,,Araba/Álava,,,%,Araba/Álava,8.7
+2018,,25-34 years,,,Araba/Álava,,,%,Araba/Álava,12.7
+2023,,,Spanish nationality,,Araba/Álava,,,%,Araba/Álava,6.0
+2017,,35 years and over,,,Araba/Álava,,,%,Araba/Álava,11.1
+2016,,,Spanish nationality,,Araba/Álava,,,%,Araba/Álava,11.0
+2023,,25-34 years,,,Araba/Álava,,,%,Araba/Álava,9.4
+2011,,35 years and over,,,Araba/Álava,,,%,Araba/Álava,5.3
 2011,,,,,Araba/Álava,,,%,Araba/Álava,7.8
-2015,,,EXTR,,Araba/Álava,,,%,Araba/Álava,49.2
-2017,,,EXTR,,Araba/Álava,,,%,Araba/Álava,36.2
-2024,,,NACIO,,Araba/Álava,,,%,Araba/Álava,5.8
+2015,,,Foreign nationality,,Araba/Álava,,,%,Araba/Álava,49.2
+2017,,,Foreign nationality,,Araba/Álava,,,%,Araba/Álava,36.2
+2024,,,Spanish nationality,,Araba/Álava,,,%,Araba/Álava,5.8
 2013,,,,,Araba/Álava,,,%,Araba/Álava,15.1
-2022,,Y_GE35,,,Araba/Álava,,,%,Araba/Álava,9.0
-2018,,,EXTR,,Araba/Álava,,,%,Araba/Álava,32.8
-2021,,Y25T34,,,Araba/Álava,,,%,Araba/Álava,12.0
-2015,,Y25T34,,,Araba/Álava,,,%,Araba/Álava,16.0
+2022,,35 years and over,,,Araba/Álava,,,%,Araba/Álava,9.0
+2018,,,Foreign nationality,,Araba/Álava,,,%,Araba/Álava,32.8
+2021,,25-34 years,,,Araba/Álava,,,%,Araba/Álava,12.0
+2015,,25-34 years,,,Araba/Álava,,,%,Araba/Álava,16.0
 2012,,,,,Araba/Álava,,,%,Araba/Álava,9.4
-2020,,Y25T34,,,Araba/Álava,,,%,Araba/Álava,12.2
-2015,,Y_GE35,,,Araba/Álava,,,%,Araba/Álava,13.8
-2014,,Y_GE35,,,Araba/Álava,,,%,Araba/Álava,12.1
+2020,,25-34 years,,,Araba/Álava,,,%,Araba/Álava,12.2
+2015,,35 years and over,,,Araba/Álava,,,%,Araba/Álava,13.8
+2014,,35 years and over,,,Araba/Álava,,,%,Araba/Álava,12.1
 2010,,,,,Araba/Álava,,,%,Araba/Álava,10.0
-2024,,Y_GE35,,,Araba/Álava,,,%,Araba/Álava,6.1
-2010,,Y_GE35,,,Araba/Álava,,,%,Araba/Álava,5.7
-2021,,,NACIO,,Araba/Álava,,,%,Araba/Álava,7.6
-2016,,,EXTR,,Araba/Álava,,,%,Araba/Álava,46.6
-2023,,,EXTR,,Araba/Álava,,,%,Araba/Álava,20.6
-2022,,Y25T34,,,Araba/Álava,,,%,Araba/Álava,9.5
-2018,,,NACIO,,Araba/Álava,,,%,Araba/Álava,8.2
-2015,,,NACIO,,Araba/Álava,,,%,Araba/Álava,13.3
-2021,,Y_GE35,,,Araba/Álava,,,%,Araba/Álava,8.6
+2024,,35 years and over,,,Araba/Álava,,,%,Araba/Álava,6.1
+2010,,35 years and over,,,Araba/Álava,,,%,Araba/Álava,5.7
+2021,,,Spanish nationality,,Araba/Álava,,,%,Araba/Álava,7.6
+2016,,,Foreign nationality,,Araba/Álava,,,%,Araba/Álava,46.6
+2023,,,Foreign nationality,,Araba/Álava,,,%,Araba/Álava,20.6
+2022,,25-34 years,,,Araba/Álava,,,%,Araba/Álava,9.5
+2018,,,Spanish nationality,,Araba/Álava,,,%,Araba/Álava,8.2
+2015,,,Spanish nationality,,Araba/Álava,,,%,Araba/Álava,13.3
+2021,,35 years and over,,,Araba/Álava,,,%,Araba/Álava,8.6
 2015,,,,,Araba/Álava,,,%,Araba/Álava,16.3
-2018,,Y_GE35,,,Araba/Álava,,,%,Araba/Álava,9.3
-2013,,Y_GE35,,,Araba/Álava,,,%,Araba/Álava,10.0
-2019,,Y25T34,,,Araba/Álava,,,%,Araba/Álava,11.5
+2018,,35 years and over,,,Araba/Álava,,,%,Araba/Álava,9.3
+2013,,35 years and over,,,Araba/Álava,,,%,Araba/Álava,10.0
+2019,,25-34 years,,,Araba/Álava,,,%,Araba/Álava,11.5
 2024,,,,,Araba/Álava,,,%,Araba/Álava,7.5
-2014,,Y25T34,,,Araba/Álava,,,%,Araba/Álava,18.8
-2024,,,EXTR,,Araba/Álava,,,%,Araba/Álava,21.9
-2024,,Y25T34,,,Araba/Álava,,,%,Araba/Álava,8.7
+2014,,25-34 years,,,Araba/Álava,,,%,Araba/Álava,18.8
+2024,,,Foreign nationality,,Araba/Álava,,,%,Araba/Álava,21.9
+2024,,25-34 years,,,Araba/Álava,,,%,Araba/Álava,8.7
 2018,,,,,Araba/Álava,,,%,Araba/Álava,11.2
 2016,,,,,Araba/Álava,,,%,Araba/Álava,14.1
-2020,,Y_GE35,,,Araba/Álava,,,%,Araba/Álava,7.2
-2016,,,NACIO,,Bizkaia,,,%,Bizkaia,13.7
-2013,,Y25T34,,,Bizkaia,,,%,Bizkaia,18.2
-2018,,Y25T34,,,Bizkaia,,,%,Bizkaia,11.9
-2015,,,NACIO,,Bizkaia,,,%,Bizkaia,14.7
-2018,,,EXTR,,Bizkaia,,,%,Bizkaia,28.7
+2020,,35 years and over,,,Araba/Álava,,,%,Araba/Álava,7.2
+2016,,,Spanish nationality,,Bizkaia,,,%,Bizkaia,13.7
+2013,,25-34 years,,,Bizkaia,,,%,Bizkaia,18.2
+2018,,25-34 years,,,Bizkaia,,,%,Bizkaia,11.9
+2015,,,Spanish nationality,,Bizkaia,,,%,Bizkaia,14.7
+2018,,,Foreign nationality,,Bizkaia,,,%,Bizkaia,28.7
 2012,,,,,Bizkaia,,,%,Bizkaia,14.2
-2019,,,EXTR,,Bizkaia,,,%,Bizkaia,23.6
-2015,,Y_GE35,,,Bizkaia,,,%,Bizkaia,12.8
-2019,,Y_GE35,,,Bizkaia,,,%,Bizkaia,9.6
+2019,,,Foreign nationality,,Bizkaia,,,%,Bizkaia,23.6
+2015,,35 years and over,,,Bizkaia,,,%,Bizkaia,12.8
+2019,,35 years and over,,,Bizkaia,,,%,Bizkaia,9.6
 2020,,,,,Bizkaia,,,%,Bizkaia,11.9
-2014,,Y_GE35,,,Bizkaia,,,%,Bizkaia,12.6
-2023,,Y_GE35,,,Bizkaia,,,%,Bizkaia,7.5
-2012,,Y_GE35,,,Bizkaia,,,%,Bizkaia,9.8
+2014,,35 years and over,,,Bizkaia,,,%,Bizkaia,12.6
+2023,,35 years and over,,,Bizkaia,,,%,Bizkaia,7.5
+2012,,35 years and over,,,Bizkaia,,,%,Bizkaia,9.8
 2023,,,,,Bizkaia,,,%,Bizkaia,8.7
-2020,,Y25T34,,,Bizkaia,,,%,Bizkaia,14.0
+2020,,25-34 years,,,Bizkaia,,,%,Bizkaia,14.0
 2024,,,,,Bizkaia,,,%,Bizkaia,8.5
 2011,,,,,Bizkaia,,,%,Bizkaia,13.2
-2016,,Y_GE35,,,Bizkaia,,,%,Bizkaia,12.0
-2021,,,EXTR,,Bizkaia,,,%,Bizkaia,26.6
+2016,,35 years and over,,,Bizkaia,,,%,Bizkaia,12.0
+2021,,,Foreign nationality,,Bizkaia,,,%,Bizkaia,26.6
 2010,,,,,Bizkaia,,,%,Bizkaia,10.0
 2016,,,,,Bizkaia,,,%,Bizkaia,15.3
-2021,,Y25T34,,,Bizkaia,,,%,Bizkaia,13.4
+2021,,25-34 years,,,Bizkaia,,,%,Bizkaia,13.4
 2013,,,,,Bizkaia,,,%,Bizkaia,16.7
-2015,,,EXTR,,Bizkaia,,,%,Bizkaia,44.3
-2013,,Y_GE35,,,Bizkaia,,,%,Bizkaia,12.6
-2022,,,NACIO,,Bizkaia,,,%,Bizkaia,8.1
-2011,,Y_GE35,,,Bizkaia,,,%,Bizkaia,9.0
-2022,,,EXTR,,Bizkaia,,,%,Bizkaia,20.2
-2022,,Y25T34,,,Bizkaia,,,%,Bizkaia,8.9
-2017,,,EXTR,,Bizkaia,,,%,Bizkaia,27.6
-2021,,,NACIO,,Bizkaia,,,%,Bizkaia,9.6
-2018,,,NACIO,,Bizkaia,,,%,Bizkaia,10.4
+2015,,,Foreign nationality,,Bizkaia,,,%,Bizkaia,44.3
+2013,,35 years and over,,,Bizkaia,,,%,Bizkaia,12.6
+2022,,,Spanish nationality,,Bizkaia,,,%,Bizkaia,8.1
+2011,,35 years and over,,,Bizkaia,,,%,Bizkaia,9.0
+2022,,,Foreign nationality,,Bizkaia,,,%,Bizkaia,20.2
+2022,,25-34 years,,,Bizkaia,,,%,Bizkaia,8.9
+2017,,,Foreign nationality,,Bizkaia,,,%,Bizkaia,27.6
+2021,,,Spanish nationality,,Bizkaia,,,%,Bizkaia,9.6
+2018,,,Spanish nationality,,Bizkaia,,,%,Bizkaia,10.4
 2014,,,,,Bizkaia,,,%,Bizkaia,17.2
-2017,,Y_GE35,,,Bizkaia,,,%,Bizkaia,11.3
-2024,,Y_GE35,,,Bizkaia,,,%,Bizkaia,7.6
-2020,,,EXTR,,Bizkaia,,,%,Bizkaia,30.4
+2017,,35 years and over,,,Bizkaia,,,%,Bizkaia,11.3
+2024,,35 years and over,,,Bizkaia,,,%,Bizkaia,7.6
+2020,,,Foreign nationality,,Bizkaia,,,%,Bizkaia,30.4
 2022,,,,,Bizkaia,,,%,Bizkaia,9.3
-2017,,Y25T34,,,Bizkaia,,,%,Bizkaia,13.7
-2011,,Y25T34,,,Bizkaia,,,%,Bizkaia,15.1
-2024,,Y25T34,,,Bizkaia,,,%,Bizkaia,8.4
+2017,,25-34 years,,,Bizkaia,,,%,Bizkaia,13.7
+2011,,25-34 years,,,Bizkaia,,,%,Bizkaia,15.1
+2024,,25-34 years,,,Bizkaia,,,%,Bizkaia,8.4
 2019,,,,,Bizkaia,,,%,Bizkaia,11.1
-2023,,Y25T34,,,Bizkaia,,,%,Bizkaia,8.4
+2023,,25-34 years,,,Bizkaia,,,%,Bizkaia,8.4
 2018,,,,,Bizkaia,,,%,Bizkaia,11.9
 2015,,,,,Bizkaia,,,%,Bizkaia,17.0
-2015,,Y25T34,,,Bizkaia,,,%,Bizkaia,19.1
-2020,,Y_GE35,,,Bizkaia,,,%,Bizkaia,8.9
-2020,,,NACIO,,Bizkaia,,,%,Bizkaia,9.9
-2022,,Y_GE35,,,Bizkaia,,,%,Bizkaia,8.0
-2019,,,NACIO,,Bizkaia,,,%,Bizkaia,9.9
-2024,,,NACIO,,Bizkaia,,,%,Bizkaia,6.8
-2018,,Y_GE35,,,Bizkaia,,,%,Bizkaia,10.6
+2015,,25-34 years,,,Bizkaia,,,%,Bizkaia,19.1
+2020,,35 years and over,,,Bizkaia,,,%,Bizkaia,8.9
+2020,,,Spanish nationality,,Bizkaia,,,%,Bizkaia,9.9
+2022,,35 years and over,,,Bizkaia,,,%,Bizkaia,8.0
+2019,,,Spanish nationality,,Bizkaia,,,%,Bizkaia,9.9
+2024,,,Spanish nationality,,Bizkaia,,,%,Bizkaia,6.8
+2018,,35 years and over,,,Bizkaia,,,%,Bizkaia,10.6
 2017,,,,,Bizkaia,,,%,Bizkaia,12.9
-2014,,Y25T34,,,Bizkaia,,,%,Bizkaia,19.3
-2012,,Y25T34,,,Bizkaia,,,%,Bizkaia,16.2
-2023,,,EXTR,,Bizkaia,,,%,Bizkaia,21.6
-2016,,Y25T34,,,Bizkaia,,,%,Bizkaia,17.0
-2021,,Y_GE35,,,Bizkaia,,,%,Bizkaia,8.3
+2014,,25-34 years,,,Bizkaia,,,%,Bizkaia,19.3
+2012,,25-34 years,,,Bizkaia,,,%,Bizkaia,16.2
+2023,,,Foreign nationality,,Bizkaia,,,%,Bizkaia,21.6
+2016,,25-34 years,,,Bizkaia,,,%,Bizkaia,17.0
+2021,,35 years and over,,,Bizkaia,,,%,Bizkaia,8.3
 2021,,,,,Bizkaia,,,%,Bizkaia,11.2
-2019,,Y25T34,,,Bizkaia,,,%,Bizkaia,11.5
-2017,,,NACIO,,Bizkaia,,,%,Bizkaia,11.7
-2010,,Y25T34,,,Bizkaia,,,%,Bizkaia,10.2
-2024,,,EXTR,,Bizkaia,,,%,Bizkaia,22.5
-2016,,,EXTR,,Bizkaia,,,%,Bizkaia,33.2
-2010,,Y_GE35,,,Bizkaia,,,%,Bizkaia,7.2
-2023,,,NACIO,,Bizkaia,,,%,Bizkaia,7.1
-2015,,Y25T34,,,Gipuzkoa,,,%,Gipuzkoa,15.3
-2023,,Y25T34,,,Gipuzkoa,,,%,Gipuzkoa,8.9
+2019,,25-34 years,,,Bizkaia,,,%,Bizkaia,11.5
+2017,,,Spanish nationality,,Bizkaia,,,%,Bizkaia,11.7
+2010,,25-34 years,,,Bizkaia,,,%,Bizkaia,10.2
+2024,,,Foreign nationality,,Bizkaia,,,%,Bizkaia,22.5
+2016,,,Foreign nationality,,Bizkaia,,,%,Bizkaia,33.2
+2010,,35 years and over,,,Bizkaia,,,%,Bizkaia,7.2
+2023,,,Spanish nationality,,Bizkaia,,,%,Bizkaia,7.1
+2015,,25-34 years,,,Gipuzkoa,,,%,Gipuzkoa,15.3
+2023,,25-34 years,,,Gipuzkoa,,,%,Gipuzkoa,8.9
 2013,,,,,Gipuzkoa,,,%,Gipuzkoa,12.5
-2020,,,EXTR,,Gipuzkoa,,,%,Gipuzkoa,26.6
-2024,,Y_GE35,,,Gipuzkoa,,,%,Gipuzkoa,4.4
-2017,,,EXTR,,Gipuzkoa,,,%,Gipuzkoa,32.8
+2020,,,Foreign nationality,,Gipuzkoa,,,%,Gipuzkoa,26.6
+2024,,35 years and over,,,Gipuzkoa,,,%,Gipuzkoa,4.4
+2017,,,Foreign nationality,,Gipuzkoa,,,%,Gipuzkoa,32.8
 2015,,,,,Gipuzkoa,,,%,Gipuzkoa,13.3
-2020,,,NACIO,,Gipuzkoa,,,%,Gipuzkoa,6.5
-2022,,,NACIO,,Gipuzkoa,,,%,Gipuzkoa,5.6
-2023,,Y_GE35,,,Gipuzkoa,,,%,Gipuzkoa,4.2
-2022,,Y25T34,,,Gipuzkoa,,,%,Gipuzkoa,7.8
-2015,,,EXTR,,Gipuzkoa,,,%,Gipuzkoa,36.7
+2020,,,Spanish nationality,,Gipuzkoa,,,%,Gipuzkoa,6.5
+2022,,,Spanish nationality,,Gipuzkoa,,,%,Gipuzkoa,5.6
+2023,,35 years and over,,,Gipuzkoa,,,%,Gipuzkoa,4.2
+2022,,25-34 years,,,Gipuzkoa,,,%,Gipuzkoa,7.8
+2015,,,Foreign nationality,,Gipuzkoa,,,%,Gipuzkoa,36.7
 2010,,,,,Gipuzkoa,,,%,Gipuzkoa,7.4
-2022,,,EXTR,,Gipuzkoa,,,%,Gipuzkoa,19.6
-2021,,Y25T34,,,Gipuzkoa,,,%,Gipuzkoa,8.2
-2019,,Y_GE35,,,Gipuzkoa,,,%,Gipuzkoa,5.8
-2010,,Y_GE35,,,Gipuzkoa,,,%,Gipuzkoa,5.5
-2016,,,NACIO,,Gipuzkoa,,,%,Gipuzkoa,8.9
-2018,,Y_GE35,,,Gipuzkoa,,,%,Gipuzkoa,6.5
-2018,,,EXTR,,Gipuzkoa,,,%,Gipuzkoa,22.6
+2022,,,Foreign nationality,,Gipuzkoa,,,%,Gipuzkoa,19.6
+2021,,25-34 years,,,Gipuzkoa,,,%,Gipuzkoa,8.2
+2019,,35 years and over,,,Gipuzkoa,,,%,Gipuzkoa,5.8
+2010,,35 years and over,,,Gipuzkoa,,,%,Gipuzkoa,5.5
+2016,,,Spanish nationality,,Gipuzkoa,,,%,Gipuzkoa,8.9
+2018,,35 years and over,,,Gipuzkoa,,,%,Gipuzkoa,6.5
+2018,,,Foreign nationality,,Gipuzkoa,,,%,Gipuzkoa,22.6
 2021,,,,,Gipuzkoa,,,%,Gipuzkoa,7.9
-2021,,,NACIO,,Gipuzkoa,,,%,Gipuzkoa,6.5
-2019,,,EXTR,,Gipuzkoa,,,%,Gipuzkoa,23.3
-2022,,Y_GE35,,,Gipuzkoa,,,%,Gipuzkoa,5.4
-2018,,,NACIO,,Gipuzkoa,,,%,Gipuzkoa,6.7
-2016,,Y25T34,,,Gipuzkoa,,,%,Gipuzkoa,13.0
-2011,,Y_GE35,,,Gipuzkoa,,,%,Gipuzkoa,6.0
-2024,,Y25T34,,,Gipuzkoa,,,%,Gipuzkoa,7.0
+2021,,,Spanish nationality,,Gipuzkoa,,,%,Gipuzkoa,6.5
+2019,,,Foreign nationality,,Gipuzkoa,,,%,Gipuzkoa,23.3
+2022,,35 years and over,,,Gipuzkoa,,,%,Gipuzkoa,5.4
+2018,,,Spanish nationality,,Gipuzkoa,,,%,Gipuzkoa,6.7
+2016,,25-34 years,,,Gipuzkoa,,,%,Gipuzkoa,13.0
+2011,,35 years and over,,,Gipuzkoa,,,%,Gipuzkoa,6.0
+2024,,25-34 years,,,Gipuzkoa,,,%,Gipuzkoa,7.0
 2017,,,,,Gipuzkoa,,,%,Gipuzkoa,9.3
 2019,,,,,Gipuzkoa,,,%,Gipuzkoa,7.4
 2011,,,,,Gipuzkoa,,,%,Gipuzkoa,8.2
-2019,,Y25T34,,,Gipuzkoa,,,%,Gipuzkoa,8.2
+2019,,25-34 years,,,Gipuzkoa,,,%,Gipuzkoa,8.2
 2012,,,,,Gipuzkoa,,,%,Gipuzkoa,8.9
-2014,,Y_GE35,,,Gipuzkoa,,,%,Gipuzkoa,9.6
-2016,,,EXTR,,Gipuzkoa,,,%,Gipuzkoa,35.1
-2018,,Y25T34,,,Gipuzkoa,,,%,Gipuzkoa,8.9
-2017,,Y25T34,,,Gipuzkoa,,,%,Gipuzkoa,10.6
-2021,,Y_GE35,,,Gipuzkoa,,,%,Gipuzkoa,6.0
-2020,,Y25T34,,,Gipuzkoa,,,%,Gipuzkoa,9.2
-2010,,Y25T34,,,Gipuzkoa,,,%,Gipuzkoa,7.8
+2014,,35 years and over,,,Gipuzkoa,,,%,Gipuzkoa,9.6
+2016,,,Foreign nationality,,Gipuzkoa,,,%,Gipuzkoa,35.1
+2018,,25-34 years,,,Gipuzkoa,,,%,Gipuzkoa,8.9
+2017,,25-34 years,,,Gipuzkoa,,,%,Gipuzkoa,10.6
+2021,,35 years and over,,,Gipuzkoa,,,%,Gipuzkoa,6.0
+2020,,25-34 years,,,Gipuzkoa,,,%,Gipuzkoa,9.2
+2010,,25-34 years,,,Gipuzkoa,,,%,Gipuzkoa,7.8
 2024,,,,,Gipuzkoa,,,%,Gipuzkoa,5.7
-2023,,,EXTR,,Gipuzkoa,,,%,Gipuzkoa,19.4
+2023,,,Foreign nationality,,Gipuzkoa,,,%,Gipuzkoa,19.4
 2023,,,,,Gipuzkoa,,,%,Gipuzkoa,6.5
 2016,,,,,Gipuzkoa,,,%,Gipuzkoa,11.3
-2017,,Y_GE35,,,Gipuzkoa,,,%,Gipuzkoa,7.6
-2013,,Y_GE35,,,Gipuzkoa,,,%,Gipuzkoa,8.8
-2019,,,NACIO,,Gipuzkoa,,,%,Gipuzkoa,5.8
-2015,,Y_GE35,,,Gipuzkoa,,,%,Gipuzkoa,9.1
+2017,,35 years and over,,,Gipuzkoa,,,%,Gipuzkoa,7.6
+2013,,35 years and over,,,Gipuzkoa,,,%,Gipuzkoa,8.8
+2019,,,Spanish nationality,,Gipuzkoa,,,%,Gipuzkoa,5.8
+2015,,35 years and over,,,Gipuzkoa,,,%,Gipuzkoa,9.1
 2014,,,,,Gipuzkoa,,,%,Gipuzkoa,13.9
-2011,,Y25T34,,,Gipuzkoa,,,%,Gipuzkoa,8.8
-2016,,Y_GE35,,,Gipuzkoa,,,%,Gipuzkoa,8.1
-2024,,,NACIO,,Gipuzkoa,,,%,Gipuzkoa,4.7
+2011,,25-34 years,,,Gipuzkoa,,,%,Gipuzkoa,8.8
+2016,,35 years and over,,,Gipuzkoa,,,%,Gipuzkoa,8.1
+2024,,,Spanish nationality,,Gipuzkoa,,,%,Gipuzkoa,4.7
 2018,,,,,Gipuzkoa,,,%,Gipuzkoa,8.1
-2012,,Y25T34,,,Gipuzkoa,,,%,Gipuzkoa,8.6
-2014,,Y25T34,,,Gipuzkoa,,,%,Gipuzkoa,15.4
-2015,,,NACIO,,Gipuzkoa,,,%,Gipuzkoa,10.6
-2023,,,NACIO,,Gipuzkoa,,,%,Gipuzkoa,4.8
-2012,,Y_GE35,,,Gipuzkoa,,,%,Gipuzkoa,6.9
+2012,,25-34 years,,,Gipuzkoa,,,%,Gipuzkoa,8.6
+2014,,25-34 years,,,Gipuzkoa,,,%,Gipuzkoa,15.4
+2015,,,Spanish nationality,,Gipuzkoa,,,%,Gipuzkoa,10.6
+2023,,,Spanish nationality,,Gipuzkoa,,,%,Gipuzkoa,4.8
+2012,,35 years and over,,,Gipuzkoa,,,%,Gipuzkoa,6.9
 2020,,,,,Gipuzkoa,,,%,Gipuzkoa,8.2
-2013,,Y25T34,,,Gipuzkoa,,,%,Gipuzkoa,13.5
-2024,,,EXTR,,Gipuzkoa,,,%,Gipuzkoa,13.0
-2017,,,NACIO,,Gipuzkoa,,,%,Gipuzkoa,7.2
+2013,,25-34 years,,,Gipuzkoa,,,%,Gipuzkoa,13.5
+2024,,,Foreign nationality,,Gipuzkoa,,,%,Gipuzkoa,13.0
+2017,,,Spanish nationality,,Gipuzkoa,,,%,Gipuzkoa,7.2
 2022,,,,,Gipuzkoa,,,%,Gipuzkoa,7.0
-2020,,Y_GE35,,,Gipuzkoa,,,%,Gipuzkoa,5.9
-2021,,,EXTR,,Gipuzkoa,,,%,Gipuzkoa,21.8
+2020,,35 years and over,,,Gipuzkoa,,,%,Gipuzkoa,5.9
+2021,,,Foreign nationality,,Gipuzkoa,,,%,Gipuzkoa,21.8
 2017,,,,Persons without disability,,,,%,,11.2
 2016,,,,Persons without disability,,,,%,,12.4
 2014,,,,Persons without disability,,,,%,,16.2

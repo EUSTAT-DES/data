@@ -12587,7 +12587,7 @@
             "constraints": {
               "enum": [
                 "Tasa de mortalidad prematura (entre 30 y 70 años)",
-                "Tasa de mortalidad",
+                "Tasa de mortalidad por 100.000 habitantes",
                 ""
               ]
             },

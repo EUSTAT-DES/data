@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Premature mortality rate (ages 30–70)",
-                "Mortality rate",
+                "Mortality rate per 100.000 inhabitants",
                 ""
               ]
             },
