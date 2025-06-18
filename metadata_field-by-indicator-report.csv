@@ -141,7 +141,6 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #2-2-1,notstarted,notstarted,,line
 #2-2-2,complete,retroceso,,bar
 #2-2-3,notstarted,notstarted,,line
-#2-2-4,notstarted,,,line
 #2-2-E1,complete,retroceso,,bar
 #2-3-1,complete,retroceso,,line
 #2-3-2,complete,retroceso,,line
@@ -243,7 +242,6 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #8-8-1,complete,progreso,,line
 #8-8-2,notstarted,notstarted,,line
 #8-9-1,complete,noevaluado,,line
-#8-9-2,notstarted,,,line
 #8-a-1,notstarted,notstarted,,line
 #8-b-1,complete,noevaluado,,line
 #9-1-1,complete,alcanzado,,bar
