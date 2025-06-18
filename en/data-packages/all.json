@@ -2880,7 +2880,7 @@
             "constraints": {
               "enum": [
                 "Proportion of unemployed people receiving unemployment benefits",
-                "Proportion of the population above legal retirement age. receives a pension",
+                "Proportion of the population above legal retirement age receiving a pension",
                 ""
               ]
             },
@@ -3171,16 +3171,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Autonomous Community Public Sector",
+                "Regional Public Sector",
                 "Local Public Sector",
                 "State Public Sector",
-                "Autonomous Community Health Institutions",
-                "Autonomous Non-University Educational Institutions",
+                "Regional Health Institutions",
+                "Regional Non-University Educational Institutions",
                 "Provincial Governments",
                 "City Councils",
                 "Universities",
-                "Autonomous Community Police",
-                "Autonomous Community Justice Administration",
+                "Regional Police",
+                "Regional Justice Administration",
                 "State Justice Administration",
                 "State Security Forces and Corps",
                 "Armed Forces",
@@ -6138,8 +6138,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of Autonomous Community and local government revenue from taxes",
-                "Proportion of non-financial revenue of Autonomous Community and local governments from taxes",
+                "Proportion of Regional and local government revenue from taxes",
+                "Proportion of non-financial revenue of Regional and local governments from taxes",
                 ""
               ]
             },
@@ -8650,7 +8650,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Expenditure settled by the Autonomous Community administration in relation to the budgeted expenditure",
+                "Expenditure settled by the regional administration in relation to the budgeted expenditure",
                 "Liquidated expenditure of the municipalities in proportion to the originally approved budget",
                 ""
               ]
@@ -10546,8 +10546,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Net Official Development Aid from Autonomous Community and local governments",
-                "Net Official Development Aid from Autonomous Community and local governments as a proportion of GDP",
+                "Net Official Development Aid from regional and local governments",
+                "Net Official Development Aid from regional and local governments as a proportion of GDP",
                 ""
               ]
             },
@@ -12331,9 +12331,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Elected in the Autonomous Community Parliament",
-                "Departments in the Autonomous Community Government",
-                "Departments in Autonomous Community Governments",
+                "Elected in the Regional Parliament",
+                "Departments in the Regional Government",
+                "Departments in Regional Governments",
                 "Elected in Provincial Assemblies",
                 "Mayors",
                 "Council Members",
@@ -12839,8 +12839,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Autonomous Community public administration spending on employment promotion",
-                "Autonomous Community public administration spending on employment promotion as a proportion of total spending",
+                "Regional public administration spending on employment promotion",
+                "Regional public administration spending on employment promotion as a proportion of total spending",
                 ""
               ]
             },
@@ -13030,8 +13030,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Autonomous Community and local governments",
-                "Autonomous Community government",
+                "Regional and local governments",
+                "Regional government",
                 "Local government",
                 ""
               ]

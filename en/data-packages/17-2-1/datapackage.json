@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Net Official Development Aid from Autonomous Community and local governments",
-                "Net Official Development Aid from Autonomous Community and local governments as a proportion of GDP",
+                "Net Official Development Aid from regional and local governments",
+                "Net Official Development Aid from regional and local governments as a proportion of GDP",
                 ""
               ]
             },

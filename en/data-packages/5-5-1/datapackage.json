@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Elected in the Autonomous Community Parliament",
-                "Departments in the Autonomous Community Government",
-                "Departments in Autonomous Community Governments",
+                "Elected in the Regional Parliament",
+                "Departments in the Regional Government",
+                "Departments in Regional Governments",
                 "Elected in Provincial Assemblies",
                 "Mayors",
                 "Council Members",

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Expenditure settled by the Autonomous Community administration in relation to the budgeted expenditure",
+                "Expenditure settled by the regional administration in relation to the budgeted expenditure",
                 "Liquidated expenditure of the municipalities in proportion to the originally approved budget",
                 ""
               ]
