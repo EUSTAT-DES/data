@@ -22,13 +22,13 @@ formula: |
 
   <b>BPG errealaren urte arteko aldakuntza-tasa</b>
 
-  $$TVPIB^{t} = \left(\frac{PIB_{2022}^{t}}{PIB_{2022}^{t-1}} - 1 \right) \cdot 100$$
+  $$TVBPG^{t} = \left(\frac{BPG_{2022}^{t}}{BPG_{2022}^{t-1}} - 1 \right) \cdot 100$$
 
   non: 
 
-  $PIB_{2022}^{t} =$ barne-produktu gordina, kateatutako bolumenean, 2022 erreferentziarekin $t$ urtean
+  $BPG_{2022}^{t} =$ barne-produktu gordina, kateatutako bolumenean, 2022 erreferentziarekin $t$ urtean
 
-  $PIB_{2022}^{t-1} =$ barne-produktu gordina, kateatutako bolumenean, 2022 erreferentziarekin $t-1$ urtean
+  $BPG_{2022}^{t-1} =$ barne-produktu gordina, kateatutako bolumenean, 2022 erreferentziarekin $t-1$ urtean
 
   <br>
 
@@ -46,13 +46,13 @@ formula: |
 
   <b>Kontsumoko prezioen indizearen urte arteko aldakuntza-tasa</b>
 
-  $$TVIPC^{t} = \left(\frac{IPC^{t}}{IPC^{t-1}} - 1 \right) \cdot 100$$
+  $$TVKPI^{t} = \left(\frac{KPI^{t}}{KPI^{t-1}} - 1 \right) \cdot 100$$
 
   non:
 
-  $IPC^{t} =$ kontsumoko prezioen indizea $t$ urtean 
+  $KPI^{t} =$ kontsumoko prezioen indizea $t$ urtean 
 
-  $IPC^{t-1} =$ Kontsumoko prezioen indizearen $t-1$ urtean, kontuan hartuta urteko kontsumo-prezioen indizeak hileko kontsumo-prezioen indizeen batez besteko aritmetiko gisa kalkulatzen direla 
+  $KPI^{t-1} =$ Kontsumoko prezioen indizearen $t-1$ urtean, kontuan hartuta urteko kontsumo-prezioen indizeak hileko kontsumo-prezioen indizeen batez besteko aritmetiko gisa kalkulatzen direla 
 
 
   <br>
@@ -61,7 +61,7 @@ formula: |
 
   $VR^{t} =$ atzerrira bidalitako diru-igorpenen bolumena $t$ urtean<br> 
   
-  $PIB^{t} =$ producto interior bruto a precios corrientes en el año $t$
+  $BPG^{t} =$ producto interior bruto a precios corrientes en el año $t$
 
   honakoa adierazten badugu: 
 
@@ -81,19 +81,19 @@ formula: |
 
   <b>Administrazio publiko autonomikoaren zor gordina, gehiegizko defizitaren protokoloaren arabera, BPGrekiko proportzioan</b>
 
-  $$PPIBDBPDE^{t} = \frac{DBPDE^{t}}{PIB^{t}} \cdot 100$$
+  $$PBPGDBPDE^{t} = \frac{DBPDE^{t}}{BPG^{t}} \cdot 100$$
 
   non:
 
   $DBPDE^{t} =$ zor gordin publikoa, gehiegizko defizitaren protokoloaren arabera $t$ urtean
 
-  $PIB^{t} =$ barne produktu gordina uneko prezioetan $t$ urtean
+  $BPG^{t} =$ barne produktu gordina uneko prezioetan $t$ urtean
 
   <br>
 
   <b>Administrazio publiko autonomikoaren diru-sarrera fiskalak, BPGrekiko proportzioan</b>
 
-  $$PPIBIF^{t} = \frac{D.211^{t} + D.212^{t} + D.214^{t} + D.29^{t} + D.51^{t} + D.59^{t} + D.91^{t} + D.611^{t} + D.613^{t}}{PIB^{t}} \cdot 100$$
+  $$PBPGIF^{t} = \frac{D.211^{t} + D.212^{t} + D.214^{t} + D.29^{t} + D.51^{t} + D.59^{t} + D.91^{t} + D.611^{t} + D.613^{t}}{BPG^{t}} \cdot 100$$
 
   non:
 
@@ -107,19 +107,19 @@ formula: |
    - $D.611^{t} =$ enplegatzaileen konturako gizarte-kotizazio efektiboak $t$ urtean
    - $D.613^{t} =$ familien konturako gizarte-kotizazio efektiboak $t$ urtean
 
-  $PIB^{t} =$ barne produktu gordina uneko prezioetan $t$ urtean
+  $BPG^{t} =$ barne produktu gordina uneko prezioetan $t$ urtean
 
   <br>
 
   <b>Administrazio publiko autonomikoaren zerga-saldoa, BPGrekiko proportzioan</b>
 
-  $$PPIBSF^{t} = \frac{SF^{t}}{PIB^{t}} \cdot 100$$
+  $$PBPGSF^{t} = \frac{SF^{t}}{BPG^{t}} \cdot 100$$
 
   non:
 
   $SF^{t} =$ autonomia-erkidegoetako administrazioen zerga-saldoa (finantzatzeko gaitasuna edo beharra) $t$ urtean 
 
-  $PIB^{t} =$ barne produktu gordina uneko prezioetan $t$ urtean
+  $BPG^{t} =$ barne produktu gordina uneko prezioetan $t$ urtean
 
 desagregacion: |
   Lurralde historikoa
