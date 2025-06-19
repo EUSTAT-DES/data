@@ -14,13 +14,13 @@ definicion: |
 
 formula: |
 
-  $$IE^{t} = \frac{CE^{t}}{PIB_{2017PPA}^{t}}$$
+  $$IE^{t} = \frac{CE^{t}}{PIB_{2017PPP}^{t}}$$
 
   where:
 
   $CE^{t} =$ gross domestic energy consumption in the year $t$
 
-  $PIB_{2017PPA}^{t} =$ gross domestic product at purchasing power parity in constant 2017 USD prices in the year $t$ 
+  $PIB_{2017PPP}^{t} =$ gross domestic product at purchasing power parity in constant 2017 USD prices in the year $t$ 
 
 
 desagregacion: >- 
