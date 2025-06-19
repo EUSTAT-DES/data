@@ -4721,7 +4721,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Megajulioak BPGaren AEBetako dolar bakoitzeko (PPA konstantean)",
+                "Megajulioak BPGaren AEBetako dolar bakoitzeko (EAP konstantean)",
                 ""
               ]
             },
