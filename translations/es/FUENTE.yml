@@ -336,6 +336,4 @@ FREQ_P: Plurianual
 
 
 # OCECA
-oceca: >-
-  <img src="/site/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS">
-  Indicador calculado utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas
+oceca_texto: Indicador calculado utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas
