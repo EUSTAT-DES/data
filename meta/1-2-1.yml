@@ -36,8 +36,8 @@ observaciones: >-
   Helburua da tamaina eta osaera desberdina duten etxeen arteko bizi-mailak modu parekatuan alderatzea.
 
 texto_oceca: >-
-  <img src="/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS">
-  FUENTE.oceca_texto
+  <img src="{{ page.baseurl }}/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS">
+  {{ page.t.FUENTE.oceca_texto }}
 
  # Metadatos mundiales (Descripción del indicador)  
 
