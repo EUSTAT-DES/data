@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Softwarea edo aplikazioak instalatzea (app-ak)",
-                "Edozein softwareren konfigurazioa aldatzea, sistema eragilea eta segurtasun-programak barne",
+                "Softwarea edo aplikazioak instalatu (app-ak)",
+                "Edozein softwareren konfigurazioa aldatu, sistema eragilea eta segurtasun-programak barne",
                 "Fitxategiak edo karpetak kopiatu edo mugitu",
-                "Testua, irudiak, taulak edo grafikoak osatzen dituzten aurkezpenak edo dokumentuak sortzea",
-                "Programazio-lengoaia batean programatzea",
-                "Kalkulu-orriak erabiltzea",
-                "Fitxategiak ordenagailuaren eta beste gailu batzuen artean transferitzea (kamera digitalak, telefono mugikorrak, mp3 edo mp4)",
+                "Testu, irudi, taula edo grafikoz osatutako aurkezpenak edo dokumentuak sortu",
+                "Programazio-lengoaia batean programatu",
+                "Kalkulu-orriak erabili",
+                "Fitxategiak transferitu ordenagailuaren eta beste gailu batzuen artean (kamera digitalak, telefono mugikorrak, mp3 edo mp4)",
                 ""
               ]
             },

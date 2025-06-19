@@ -32,10 +32,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "25-34 urte",
-                "35 urte eta gehiago",
                 "16-24 urte",
                 "16-29 urte",
+                "25-34 urte",
+                "35 urte eta gehiago",
                 ""
               ]
             },
