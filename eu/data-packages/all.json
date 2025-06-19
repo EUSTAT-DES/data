@@ -7589,8 +7589,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NACIO",
-                "EXTR",
+                "Espainiarrak",
+                "Atzerriko nazionalitatea",
                 ""
               ]
             },
