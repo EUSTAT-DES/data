@@ -17,13 +17,13 @@ definicion: |
 
 formula: |
 
-  $$IE^{t} = \frac{CE^{t}}{PIB_{2017PPA}^{t}}$$
+  $$IE^{t} = \frac{CE^{t}}{PIB_{2017EAP}^{t}}$$
 
   non:
 
   $CE^{t} =$ energiaren barne-kontsumo gordina $t$ urtean
 
-  $PIB_{2017PPA}^{t} =$ barne-produktu gordina erosteko ahalmenaren parekotasunean, 
+  $PIB_{2017EAP}^{t} =$ barne-produktu gordina erosteko ahalmenaren parekotasunean, 
   2017ko USDren prezio konstanteetan $t$ urtean 
 
 
