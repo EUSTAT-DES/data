@@ -28,7 +28,11 @@ formula: |
 
 
 desagregacion: |
-  Province/County/Municipality
+  Province
+
+  County
+
+  Municipality
 
 observaciones: 
   The data published in the Municipal GDP are compiled using estimates based on the methodology 
@@ -77,5 +81,4 @@ comparabilidad: >-
 indicador_meta_enlace: >-
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0A-01.pdf">Metadata 2-a-1.pdf</a>
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+

@@ -36,7 +36,7 @@ formula: |
 
 
 desagregacion: |
-  Products: food (all), cereals and derivatives, bread, eggs, milk, oils and fats, fresh fruits and vegetables
+  Type of food
 
   Province
 
@@ -75,5 +75,4 @@ comparabilidad: >-
 indicador_meta_enlace: >-
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0C-01.pdf">Metadata 2-c-1.pdf</a>
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
+
