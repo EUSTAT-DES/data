@@ -35,9 +35,7 @@ observaciones: >-
   gehiagoko gainerako pertsonei, eta 0,3koa, azkenik, 14 urtetik beherakoei.
   Helburua da tamaina eta osaera desberdina duten etxeen arteko bizi-mailak modu parekatuan alderatzea.
 
-texto_oceca: >-
-  <img src="{{ page.baseurl }}/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS">
-  {{ page.t.FUENTE.oceca_texto }}
+texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 

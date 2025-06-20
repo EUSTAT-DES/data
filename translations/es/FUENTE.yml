@@ -335,5 +335,7 @@ FREQ_I: "Irregular / Aperiódica"
 FREQ_P: Plurianual
 
 
+
 # OCECA
-oceca_texto: Indicador calculado utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas
+oceca: >-
+  Indicador calculado utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas
