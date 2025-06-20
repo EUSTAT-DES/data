@@ -22,8 +22,7 @@ formula: |
   $GI_{public\, administration}^{t} =$ total expenditure in the initial consolidated budget of the public administration (autonomous administration or local administration) in year $t$
 
 
-desagregacion: |
-  Public administration: autonomous administration; local administration
+desagregacion: 
 
 
 observaciones: |
@@ -50,7 +49,5 @@ comparabilidad: >-
   The available indicator complies with United Nations metadata.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-06-01.pdf">Metadata 16-6-1.pdf</a>'
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
+

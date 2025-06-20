@@ -22,6 +22,9 @@ formula: |
 
   $P^{t} =$ total population in year $t$
 
+desagregacion: |
+  Dimensions of poverty
+
 periodicidad: FUENTE.FREQ_A2
 
 observaciones: |
@@ -68,5 +71,4 @@ observaciones: |
 
 texto_oceca: FUENTE.oceca
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+

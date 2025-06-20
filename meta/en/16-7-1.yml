@@ -31,9 +31,7 @@ formula: |
   $P_{16-64}^{t} =$ people aged 16-64 as of 1 January of year $t$ 
 
 
-desagregacion: |
-
-  Public institution: public sector (total); autonomous public sector; local public sector; state public sector; autonomous health institutions; autonomous non-university educational centers; provincial governments; town councils; universities; autonomous police; autonomous justice administration; state justice administration; armed forces; state security forces and bodies
+desagregacion: 
 
 
 observaciones: |
@@ -81,7 +79,4 @@ comparabilidad: >-
   The available indicator partially complies with the United Nations metadata. It focuses on sub-indicator b). 
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01b.pdf">Metadata 16-7-1(b).pdf</a>'
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

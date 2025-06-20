@@ -21,8 +21,7 @@ formula: |
   services, public transport, public works and assistance to dependent persons
   
 desagregacion: |
-  Public services: education; health care; pension management; administration of justice; public security; social 
-  services; public transport; public works; assistance to dependent persons 
+  Public services
 
   Sex
 
@@ -66,7 +65,4 @@ comparabilidad: >-
   The available indicator complies with United Nations metadata.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-06-02.pdf">Metadata 16-6-2.pdf</a>'
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
