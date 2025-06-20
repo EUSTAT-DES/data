@@ -21,7 +21,11 @@ formula: |
   $ST^{t} =$ total land area in year $t$
 
 desagregacion: |
-  Province/County/Municipality
+  Province
+
+  County
+
+  Municipality
 
 observaciones: >-
 
@@ -58,7 +62,5 @@ comparabilidad: >-
   The available indicator complies with United Nations metadata. 
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-01.pdf">Metadata 15-1-1.pdf</a>'
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
+

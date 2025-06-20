@@ -37,9 +37,13 @@ formula: |
 
   $MUN^{t} =$ number of local governments in year $t$
   
-desagregacion: 
+desagregacion: |
 
-  Province/County/Municipality
+  Province
+
+  County
+
+  Municipality
 
 
 observaciones: |

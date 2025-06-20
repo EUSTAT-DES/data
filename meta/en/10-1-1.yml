@@ -29,7 +29,7 @@ formula: |
   calculated in the same way using data for the total population. 
 
 desagregacion: | 
-  Income group: bottom 40%; total
+  Income group
 
   Province
 
@@ -74,5 +74,4 @@ comparabilidad: >-
 indicador_meta_enlace: >- 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-01-01.pdf">Metadata 10-1-1.pdf</a>
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
+

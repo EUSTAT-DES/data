@@ -26,7 +26,7 @@ formula: |
   $P_{m}^{t}$ = population of the municipality $m$ in year $t$
 
 desagregacion: |
-  Size of suspended particles: $PM_{10}$ y $PM_{2,5}$
+  Suspended particles
 
 
 observaciones:
@@ -55,7 +55,4 @@ dato_global: >-
 indicador_meta_enlace: 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-06-02.pdf">Metadata 11-6-2.pdf</a>
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

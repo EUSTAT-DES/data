@@ -30,7 +30,7 @@ formula: |
   $P^{t}$ = population on July 1 of year $t$ 
 
 desagregacion: >-
-  Public administration: regional administration, local administration
+  Public administration
 
 
 observaciones: >-
@@ -77,5 +77,3 @@ indicador_meta_enlace: >-
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-04-01.pdf">Metadata 11-4-1.pdf</a>
 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
