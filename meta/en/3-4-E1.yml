@@ -1,0 +1,69 @@
+ # Metadatos nacionales (ficha metodológica)
+
+indicador_disponible: >- 
+  GRAFICO.3-4-E1-titulo
+
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-4-titulo
+
+
+definicion: |
+
+  This indicator is composed of two time series: 
+
+   <b> - Percentage of participation in colorectal cancer screening programs among the target population (men and women aged 50 to 74)</b> 
+
+   <b> - Percentage of participation in breast cancer screening programs among the target population (women aged 50-69)</b> 
+
+formula: |
+  <b>Percentage of participation in colorectal cancer screening programs among the target population (men and women aged 50 to 74)</b> 
+
+  $$PP_{colorectal}^{t} = \frac{P_{colorectal}^{t}}{P_{T\, colorectal}^{t}} \cdot 100$$ 
+
+  where:
+
+  $P_{colorectal}^{t} =$ number of participants in the colorectal cancer early detection program in year $t$ 
+
+  $P_{T\, colorectal}^{t} =$ target population of the colorectal cancer early detection program in year $t$ 
+
+
+  <b>Percentage of participation in breast cancer screening programs among the target population (women aged 50-69)</b>
+
+
+  $$PP_{breast}^{t} = \frac{P_{breast}^{t}}{P_{T\, breast}^{t}} \cdot 100$$ 
+
+  where:
+
+  $P_{breast}^{t} =$ number of participants in the breast cancer early detection program in year $t$ 
+
+  $P_{T\, breast}^{t} =$ target population of the breast cancer early detection program in year $t$ 
+
+
+desagregacion: | 
+
+  Sex 
+
+  
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: |
+
+  
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  
+dato_global: >-
+  
+
+comparabilidad: >- 
+  
+
+indicador_meta_enlace:
+
+

@@ -21,8 +21,12 @@ formula: |
 
   $SA^{t} =$ agricultural area (crops, meadows and pastures) in the year $t$
 
-desagregacion: >-
-  Province/County/Municipality
+desagregacion: |
+  Province
+
+  County
+
+  Municipality
 
 observaciones: >-
 
@@ -56,5 +60,4 @@ comparabilidad: |
 indicador_meta_enlace: |
   <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_02_40_esmsip2.htm">Metadata Eurostat (sdg_02_40)</a>
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+

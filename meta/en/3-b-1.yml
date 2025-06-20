@@ -25,13 +25,8 @@ formula: |
   ${c}=$ interval of years that defines the specific cohort for each vaccine (c=1 or cohort born at t-1 for DPTa and VNC, c=5 for SRP and c=13 for VPH)
 
 desagregacion:  |
-  Vaccine type: 
-  - booster vaccination against diphtheria, tetanus, and whooping cough in children (DPTa) 
-  - booster vaccination against pneumococcus in the pediatric population (VNC)  
-  - second dose of the measles, mumps, and rubella vaccine in children (SRP) 
-  - second dose of the human papillomavirus (HPV) vaccine in adolescents 
+  Vaccine type
 
-  Sex
 
 periodicidad: FUENTE.FREQ_A
 
@@ -98,7 +93,5 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0b-01.pdf">Metadata 3-b-1.pdf</a>'
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
+

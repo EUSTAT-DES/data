@@ -26,7 +26,7 @@ formula: |
 
 
 desagregacion: >- 
-  Educational level: Preschool; primary; lower secondary; upper secondary 
+  Educational level
 
 periodicidad: FUENTE.FREQ_A
 
@@ -61,7 +61,4 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-0c-01.pdf">Metadata 4-c-1.pdf </a>'
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
