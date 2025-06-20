@@ -16,7 +16,7 @@ formula: |
   $$PEAFA^{t} = \begin{cases} 1 & \text{A fully funded statistical plan is available and is being implemented in year 𝑡} \\ 0 & \text{There is no fully funded statistical plan in place in the implementation phase in year 𝑡} \end{cases} $$
 
 
-desagregacion: >-
+desagregacion:
 
 observaciones: >-
 
@@ -45,7 +45,4 @@ comparabilidad: >-
   The available indicator complies with United Nations metadata.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-18-03.pdf">Metadata 17-18-3.pdf</a>'
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
