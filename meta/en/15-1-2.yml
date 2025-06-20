@@ -24,7 +24,9 @@ formula: |
   $KBA_{terrestrial} =$ area of ​​important sites for terrestrial and freshwater biodiversity in year $t$
 
 
-desagregacion: 
+desagregacion: |
+
+  Province
 
 periodicidad: FUENTE.FREQ_I
 
@@ -53,5 +55,4 @@ dato_global: |
 indicador_meta_enlace: >- 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-02.pdf">Metadata 15-1-2.pdf</a>
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
+

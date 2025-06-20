@@ -33,8 +33,9 @@ formula: |
 
   $PIB^{t}$ = gross domestic product at current prices in year $t$
 
-desagregacion: Province
+desagregacion: >-
 
+  Province
 
 observaciones: >-
   Compensation is assigned to the place and year of occurrence of the accident, 
@@ -65,7 +66,5 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-02.pdf">Metadata 1-5-2.pdf</a>'
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
+

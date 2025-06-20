@@ -50,7 +50,7 @@ formula: |
   $RUR^{t} =$ amount of urban waste collected and managed in controlled facilities in year $t$
 
 desagregacion: |
-  Waste treatment operations: recycling; incineration with energy recovery; landfill disposal
+  Waste treatment operation
 
   Province
 
@@ -95,7 +95,6 @@ dato_global: >-
 indicador_meta_enlace: 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-06-01.pdf">Metadata 11-6-1.pdf</a>
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
+
+

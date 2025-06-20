@@ -35,8 +35,7 @@ formula: |
   $RP^{t} =$ total amount of hazardous waste generated and treated in year $t$
 
 desagregacion: |
-  Waste treatment operations: recycling; incineration with energy recovery; 
-  incineration without energy recovery; landfill. 
+  Waste treatment operation 
 
   Province
 
@@ -84,7 +83,5 @@ dato_global:
 indicador_meta_enlace: 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-04-02.pdf">Metadata 12-4-2.pdf</a>
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
+
