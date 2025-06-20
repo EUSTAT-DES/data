@@ -31,7 +31,10 @@ formula: |
   $P_{16-64}^{t} =$ people aged 16-64 as of 1 January of year $t$ 
 
 
-desagregacion: 
+desagregacion: |
+  Institution
+
+  Province
 
 
 observaciones: |
