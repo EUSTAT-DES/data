@@ -27,8 +27,8 @@ formula: |
   $DAL^{t} =$ local administrative units (municipalities) in year $t$
 
 
-desagregacion: >- 
-   Type of water management: drinking water and sanitation management; bathing water management 
+desagregacion: 
+   
  
 periodicidad: FUENTE.FREQ_A
 
@@ -69,7 +69,4 @@ comparabilidad: >-
 indicador_meta_enlace: 
   '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-0B-01.pdf">Metadata 6-b-1.pdf</a>'
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
