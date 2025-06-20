@@ -30,8 +30,7 @@ formula: |
   in the year $t$
 
 desagregacion: |
-  Areas: Global legal framework and public life, Violence against women, Employment and 
-  economic benefits, Marriage and family 
+  Area
 
 observaciones: |
 
@@ -117,6 +116,4 @@ dato_global: |-
 indicador_meta_enlace: >-
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-01-01.pdf">Metadata 5-1-1.pdf</a>
 
-informacion_interes: 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
+

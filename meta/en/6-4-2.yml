@@ -14,7 +14,7 @@ formula: |
   $$VOL_{water}^{t}$$
 
 desagregacion: |
-  Type of use: domestic, industrial, commercial, public, agricultural, other uses
+  Type of use
     
   Province
 
@@ -58,7 +58,4 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-04-02.pdf">Metadata 6-4-2.pdf</a>'
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

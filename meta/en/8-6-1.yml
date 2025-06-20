@@ -28,7 +28,7 @@ formula:  |
 desagregacion:  |
   Sex
 
-  Territorio histórico
+  Province
 
 periodicidad: FUENTE.FREQ_A
 
@@ -63,7 +63,4 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-06-01.pdf">Metadata 8-6-1.pdf</a>'
 
-informacion_interes: >-
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

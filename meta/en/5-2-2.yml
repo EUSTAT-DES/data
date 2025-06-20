@@ -23,7 +23,11 @@ formula: |
 
 desagregacion: |
 
-  Province/County/Municipality
+  Province
+
+  County
+
+  Municipality
 
 periodicidad: FUENTE.FREQ_A
 
@@ -52,7 +56,4 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-02-02.pdf">Metadata 5-2-2.pdf</a>'
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

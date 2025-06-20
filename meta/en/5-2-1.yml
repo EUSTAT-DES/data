@@ -21,8 +21,12 @@ formula: |
 
   $P_{women}^{t} =$ women on July 1 of year $t$
 
-desagregacion: >-
-  Province/County/Municipality
+desagregacion: |
+  Province
+
+  County
+
+  Municipality
 
 periodicidad: FUENTE.FREQ_A
 
@@ -62,7 +66,4 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-02-01.pdf">Metadata 5-2-1.pdf</a>'
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
