@@ -14,13 +14,13 @@ definicion: |
 
 formula: |
 
-  $$IE^{t} = \frac{CE^{t}}{PIB_{2017PPA}^{t}}$$
+  $$IE^{t} = \frac{CE^{t}}{PIB_{2017PPP}^{t}}$$
 
   where:
 
   $CE^{t} =$ gross domestic energy consumption in the year $t$
 
-  $PIB_{2017PPA}^{t} =$ gross domestic product at purchasing power parity in constant 2017 USD prices in the year $t$ 
+  $PIB_{2017PPP}^{t} =$ gross domestic product at purchasing power parity in constant 2017 USD prices in the year $t$ 
 
 
 desagregacion: >- 
@@ -52,7 +52,4 @@ comparabilidad: >-
 indicador_meta_enlace: 
   '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-03-01.pdf">Metadata 7-3-1.pdf</a>'
 
-informacion_interes: 
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'

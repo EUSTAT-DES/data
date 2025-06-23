@@ -40,7 +40,11 @@ formula: |
 
 
 desagregacion: |
-  Province/County/Municipality
+  Province
+
+  County
+
+  Municipality
 
 observaciones: >-
   A main family dwelling is a home that is used all or most of the year 
@@ -92,7 +96,4 @@ indicador_meta_enlace: |
 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01b.pdf">Metadata 6-2-1(b).pdf</a>
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

@@ -25,7 +25,11 @@ formula: |
 
 
 desagregacion: |
-  Lurralde historikoa/Eskualdea/Udalerria
+  Lurralde historikoa
+  
+  Eskualdea
+  
+  Udalerria
 
 observaciones: 
   Udal BPGan argitaratutako datuak Kontuen Europako Sisteman (KSE-2010) ezarritako metodologian oinarrituta egindako 
@@ -70,5 +74,5 @@ comparabilidad: >-
 indicador_meta_enlace: >-
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0A-01.pdf">Metadatuak 2-a-1.pdf</a> (ingelesez bakarrik)
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

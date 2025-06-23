@@ -1,7 +1,7 @@
  # Metadatos nacionales (ficha metodológica)
  
 indicador_disponible: >- 
-  Proporción de la población con grandes gastos sanitarios por hogar como porcentaje del total de gasto del hogar
+  Etxeko osasun-gastu handiak dituen biztanleriaren proportzioa, etxeko gastu osoaren ehuneko gisa 
 
 objetivo_global: objetivo_largo.3-titulo
 meta_global: meta_largo.3-8-titulo
@@ -23,7 +23,7 @@ formula: |
   $P^{t} =$ biztanleria $t$ urtean
 
 desagregacion: >- 
-  Gastuaren atalasea: Familia-gastuaren %10; %25
+  Gastu maila
 
 periodicidad: FUENTE.FREQ_A
 
@@ -72,7 +72,5 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-08-02.pdf">Metadatuak 3-8-2.pdf</a> (ingelesez bakarrik)'
 
-informacion_interes: 
-
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

@@ -10,7 +10,7 @@ meta_global: meta_largo.1-5-titulo
 
 definicion: >-
   Percentage of local governments that adopt and implement local disaster risk 
-  reduction strategies through territorial emergency plans and municipal emergency plans
+  reduction strategies through provincial emergency plans and municipal emergency plans
   
 
 formula: |
@@ -26,19 +26,23 @@ formula: |
 
    <br>
 
-  <b>Percentage of municipalities covered by a territorial emergency plan</b>
+  <b>Percentage of municipalities covered by a provincial emergency plan</b>
 
-  $$PMUN_{DRR\, territorial}^{t} = \frac{MUN_{DRR\, territorial}^{t}}{MUN^{t}} \cdot 100$$
+  $$PMUN_{DRR\, provincial}^{t} = \frac{MUN_{DRR\, provincial}^{t}}{MUN^{t}} \cdot 100$$
 
   where:
 
-  $MUN_{DDR\, territorial}^{t} =$ number of local governments with territorial emergency plans in the year $t$
+  $MUN_{DDR\, provincial}^{t} =$ number of local governments with provincial emergency plans in the year $t$
 
   $MUN^{t} =$ number of local governments in the year $t$
   
-desagregacion: 
+desagregacion: |
 
-  Province/County/Municipality
+  Province 
+
+  County 
+
+  Municipality 
 
 
 observaciones: |
@@ -86,7 +90,4 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-04.pdf">Metadata 1-5-4.pdf</a>'
 
-informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'

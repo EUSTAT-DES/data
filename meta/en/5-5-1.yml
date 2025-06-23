@@ -24,9 +24,7 @@ formula: |
   $INST_{men}^{t} =$ positions held by men in the corresponding institution in the year $t$
 
 desagregacion: |
-  Positions in institutions: elected to the regional parliament; councilors in the departments of the regional government; 
-  elected to the provincial parliaments; deputies in the departments of the provincial governments; and mayors and 
-  councilors in local governments.
+  Positions in institutions
 
   Province
 
@@ -78,7 +76,4 @@ indicador_meta_enlace: |
 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01b.pdf">Metadata 5-5-1 (2).pdf</a>
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

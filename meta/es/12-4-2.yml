@@ -35,8 +35,7 @@ formula: |
   $RP^{t} =$ cantidad total de residuos peligrosos generados y tratados en el año $t$
 
 desagregacion: |
-  Operación de tratamiento de residuos: reciclaje, incineración con recuperación de 
-  energía, incineración sin recuperación de energía, depósito en vertedero.
+  Operación de tratamiento de residuos 
 
   Territorio histórico
 
@@ -86,7 +85,4 @@ dato_global:
 indicador_meta_enlace: 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-04-02.pdf">Metadatos 12-4-2.pdf</a> (solo en inglés)
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

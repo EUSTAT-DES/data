@@ -24,7 +24,7 @@ formula: |
 
 desagregacion: >- 
   
-  Partículas en suspensión: partículas de tamaño inferior a 10 micras (PM10); partículas de tamaño inferior a 2,5 micras (PM25)
+  Partículas en suspensión
 
 observaciones:
 
@@ -80,5 +80,3 @@ comparabilidad: >-
 indicador_meta_enlace: >- 
   <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_09_70_esmsip2.htm">Metadatos sdg_09_70.pdf</a> (solo en inglés)
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

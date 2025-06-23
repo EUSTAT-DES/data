@@ -35,9 +35,8 @@ formula: |
   $RP^{t} =$ sortutako eta tratatutako hondakin arriskutsuen guztizko kantitatea $t$ urtean 
 
 desagregacion: |
-  Hondakinak tratatzeko eragiketa: birziklatzea; erraustea energia berreskuratuta; erraustea energia 
-  berreskuratu gabe; zabortegian uztea
-
+  Hondakinen tratamendua
+  
   Lurralde historikoa
 
 
@@ -85,8 +84,7 @@ dato_global:
 
 indicador_meta_enlace: 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-04-02.pdf">Metadatuak 12-4-2.pdf</a> (ingelesez bakarrik)
-
-informacion_interes: 
+ 
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

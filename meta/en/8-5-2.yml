@@ -27,8 +27,15 @@ desagregacion:  |
 
   Age
 
-  People without disabilities, and people with disabilities (people with a disability 
-  level of 33% or greater)
+  Nationality
+
+  Disability
+
+  Province
+
+  County
+
+  Municipality
 
 periodicidad: FUENTE.FREQ_A
 
@@ -66,7 +73,4 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-02.pdf">Metadata 8-5-2.pdf</a>'
 
-informacion_interes: >-
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

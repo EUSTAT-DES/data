@@ -24,9 +24,7 @@ formula: |
   $INST_{gizonak}^{t} =$ dagokion erakundean gizonek betetako postuak $t$ urtean 
 
 desagregacion: |
-  Erakundeetako postuak: parlamentu autonomikoko hautetsiak; gobernu autonomikoko sailburuak; 
-  Batzar Nagusietako hautetsiak; foru gobernuetako sailetako diputatuak; tokiko 
-  gobernuetako alkate eta zinegotziak.
+  Erakundea
 
   Lurralde historikoa
 
@@ -80,7 +78,6 @@ indicador_meta_enlace: |
 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01b.pdf">Metadatuak 5-5-1 (2).pdf</a> (ingelesez bakarrik)
 
-informacion_interes: 
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

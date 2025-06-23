@@ -37,13 +37,13 @@ formula:  |
 desagregacion:  |
   Sexo
 
-  Personas sin discapacidad, y con discapacidad (personal asalariado con un 
-  grado de discapacidad superior o igual al 33%)
+  Discapacidad
 
 periodicidad: FUENTE.FREQ_A
 
 
 observaciones: >-
+  Las personas con discapacidad son las personas con un grado de discapacidad superior o igual al 33% y asimilados según el RD Legislativo 1/2013.
 
 texto_oceca: FUENTE.oceca
 
@@ -66,7 +66,3 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-01.pdf">Metadatos 8-5-1.pdf</a> (solo en inglés)'
 
-informacion_interes: >-
-
-national_data_updated_date: ''
-national_metadata_updated_date: ''

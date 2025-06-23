@@ -40,6 +40,14 @@ formula:  |
 desagregacion:  |
   Sexua
 
+  Kontratu mota
+
+  Lurralde historikoa
+
+  Eskualdea
+
+  Udalerria
+
 periodicidad: FUENTE.FREQ_A
 
 
@@ -79,7 +87,6 @@ comparabilidad: >-
 indicador_meta_enlace:
   <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_08_30_esmsip2.htm"> Eurostat metadatuak sdg_08_30 </a> (ingelesez bakarrik)
 
-informacion_interes: >-
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

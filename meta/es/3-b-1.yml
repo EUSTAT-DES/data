@@ -25,9 +25,7 @@ formula: |
   ${c}=$ el intervalo de años que define la cohorte específica para cada vacuna (c=1 o cohorte nacida en t-1 para DTPa y VNC, c=5 para SRP y c=13 para VPH)
 
 desagregacion:  |
-  Tipo de vacuna: vacunación de recuerdo contra difteria, tétanos y tosferina en la población infantil (DTPa); vacunación de recuerdo 
-  contra neumococo en la población infantil (VNC); segunda dosis de la vacuna frente a sarampión, rubeola y parotiditis en la población 
-  infantil (SRP); segunda dosis de la vacuna frente al virus del papiloma humano (VPH) en adolescentes.
+  Tipo de vacuna 
 
 periodicidad: FUENTE.FREQ_A
 
@@ -94,7 +92,3 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0b-01.pdf">Metadatos 3-b-1.pdf</a> (solo en inglés)'
 
-informacion_interes: 
-
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'

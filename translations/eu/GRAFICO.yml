@@ -16,12 +16,12 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 2-1-2-titulo: "Elikagaien segurtasun-gabezia larriaren edo oso larriaren prebalentzia"
 2-2-2-titulo: "Obesitatea, gehiegizko pisua edo pisu eskasa duten 2-17 urteko adingabeen proportzioa"
 2-2-E1-titulo: "Helduen obesitate-tasa, gorputz-masaren indizearen arabera (GMI) (EBren sdg_02_10 adierazlea)"
-2-3-1-titulo: "Produkzio-bolumena lan-unitate bakoitzeko"
+2-3-1-titulo: "Produkzio-bolumena lan-unitate bakoitzeko, ustiategiaren tamainaren arabera"
 2-3-2-titulo: "Elikagaien eskala txikiko ekoizleen batez besteko diru-sarrerak"
 2-4-1-titulo: "Nekazaritza produktibo iraunkorrerako erabiltzen den nekazaritza-azaleraren proportzioa"
 2-4-E1-titulo: "Nekazaritza ekologikora bideratutako azalera (EBren sdg_02_40 adierazlea)"
 2-4-E2-titulo: "Nekazaritzaren eta abeltzaintzaren amoniako emisioak (EBren sdg_02_60 adierazlea)"
-2-a-1-titulo: "Nekazaritzaren balio erantsia BPGren ahuneko gisa"
+2-a-1-titulo: "Nekazaritzaren balio erantsia BPGren ehuneko gisa"
 2-c-1-titulo: "Elikagaien prezioen indizea"
 
 3-3-1-titulo: "GIBak eragindako infekzioen kopurua 1.000 biztanleko, sexuaren arabera"
@@ -71,7 +71,7 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 
 10-2-1-titulo: "Diru-sarreren medianaren %50etik behera bizi diren pertsonen proportzioa"
 10-4-2-titulo: "Eskura dagoen diru-sarrera baliokidearen Gini indizea (postfiskala)"
-10-7-3-titulo: "Errefuxiatuen kopurua 100.000 biztanleko"
+10-7-4-titulo: "Errefuxiatu estatusa edo nazioarteko babesa duten pertsonen kopurua 100.000 biztanleko"
 
 11-1-1-titulo: "Gabezia jakin batzuk dituzten etxebizitzetan bizi diren pertsonen proportzioa"
 11-4-1-titulo: "Kultura-ondare osoa zaintzeko, babesteko eta kontserbatzeko finantzaketa publikoko iturrien per capita gastuak, gobernu-mailaren arabera (autonomikoa eta tokikoa/udalekoa)"
@@ -108,7 +108,7 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 16-1-E1-titulo: "Bizi den eremuan delituak, indarkeria edo bandalismoa gertatzen direla adierazten duen biztanleria (EBren sdg_16_20 adierazlea)" 
 16-2-2-titulo: "Pertsona-trafikoan detektatutako biktimen kopurua 100.000 biztanleko, esplotazio-motaren arabera"
 
-16-6-1-titulo: "Autonomia-erkidegoetako eta tokiko administrazio publikoen aurrekontuetako hasierako gastuaren proportzioan likidatutako gastua"
+16-6-1-titulo: "Autonomia-erkidegoetako eta tokiko administrazio publikoek likidatutako gastua, aurrekontuetako hasierako gastuarekiko proportzioan"
 16-6-2-titulo: "Zerbitzu publikoen funtzionamenduarekin gustura dauden biztanleen proportzioa"
 
 16-7-1-titulo: "Sektore publikoko emakumeen proportzioaren ratioa, 16 eta 64 urte bitarteko biztanlerian dagoen emakumeen proportzioarekiko, erakunde publikoaren arabera"
@@ -124,10 +124,10 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 17-19-2-titulo: "a) Azken hamar urteetan gutxienez biztanleriaren eta etxebizitzen zentsu bat egin da, b) jaiotzen %100 eta heriotzen %80 gutxienez erregistratu dira"
 
  # OCECA
-OCECA-1-2-1-1A: "Pobrezia erlatiboan egoteko arriskuan dauden pertsonen ehunekoa, estatu mailako pobrezia-muga kontuan hartuta" 
-OCECA-1-2-1-2A: "Pobrezia erlatiboan egoteko arriskuan dauden pertsonen ehunekoa, alokairua imputatuta, estatu mailako pobrezia-muga kontuan hartuta" 
-OCECA-1-2-1-2B: "Pobrezia erlatiboan egoteko arriskuan dauden pertsonen ehunekoa, alokairua imputatuta, erkidego mailako pobrezia-muga erabilita"
-OCECA-1-2-2-1A: "Pobreziako edo gizarte-bazterketako arriskuan dauden pertsonen proportzioa: AROPE adierazlea, estatu mailako pobrezia-muga kontuan hartuta"
+OCECA-1-2-1-1A: "Pobrezia erlatiboan egoteko arriskuan dauden pertsonen ehunekoa, estatu mailako atalasea kontuan hartuta" 
+OCECA-1-2-1-2A: "Pobrezia erlatiboan egoteko arriskuan dauden pertsonen ehunekoa, alokairua inputatuta, estatu mailako atalasea kontuan hartuta" 
+OCECA-1-2-1-2B: "Pobrezia erlatiboan egoteko arriskuan dauden pertsonen ehunekoa, alokairua inputatuta, erkidego mailako atalasea erabilita"
+OCECA-1-2-2-1A: "Pobreziako edo gizarte-bazterketako arriskuan dauden pertsonen proportzioa: AROPE adierazlea, estatu mailako atalasea kontuan hartuta"
 OCECA-1-a-2-1: "Hezkuntzara bideratzen den administrazio publiko autonomikoen gastuaren proportzioa"
 OCECA-1-a-2-2: "Osasungintzara bideratzen den administrazio publiko autonomikoen gastuaren proportzioa"
 OCECA-6-1-1: "Kontsumorako Uraren Informazio Sistema Nazionalari (SINAC) jakinarazitako hornidura-eremuetako pertsonen proportzioa"
@@ -244,15 +244,14 @@ OCECA-13-2-2-4: "Berotegi-efektuko gasen emisioak, 2005. urtearekiko"
 8-5-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 8-5-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 8-5-E1-contenido: "<b>Nahi den norabidea:</b> Okupazio-tasa seriean, Europaren helburua 2030erako % 78ra iristea da. Bestalde, Genero-arrakala seriean, urte horretan bertan aldea gehienez ehuneko 5,8 puntura murriztea da helburua."
-8-6-1-contenido: "<b>Nahi den norabidea:</b> Europa mailan ezarritako helburua da 2030. urterako 15 eta 29 urte bitarteko gazteei dagokien adierazlearen balioa ez izatea % 9 baino handiagoa."
+8-6-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 8-8-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 8-9-1-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
 8-10-1-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
 8-10-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 8-b-1-contenido: |
 
-  Euskal AEk gazteen emantzipazioa laguntzeko 2030 Euskal Estrategia eta  
-  <a href="https://www.euskadi.eus/planak-egitasmoak-gazteria/web01-a2gazter/eu/">V. Gazte Plana 2022-2026</a>, 
+  Euskal AEk gazteen emantzipazioa laguntzeko 2030 Euskal Estrategia eta <a href="https://www.euskadi.eus/planak-egitasmoak-gazteria/web01-a2gazter/eu/">V. Gazte Plana 2022-2026</a>, 
   ditu. Horien helburua da gazteei helduarorako trantsizioa erraztea, haien autonomia eta lan-eremuan sartzea sustatuz, batez ere gaur egun lan-merkatutik urrun daudenei dagokienez. 
 
   
@@ -274,6 +273,7 @@ OCECA-13-2-2-4: "Berotegi-efektuko gasen emisioak, 2005. urtearekiko"
 10-2-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 10-4-1-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
 10-4-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+10-7-4-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 
 11-1-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 11-3-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
@@ -371,16 +371,8 @@ OCECA-13-2-2-4: "Berotegi-efektuko gasen emisioak, 2005. urtearekiko"
 1-2-2-notapie: AROPE pobreziaren eta bazterketaren adierazlearen 2022tik aurrerako datuak tasaren definizio berriarekin 
   kalkulatzen dira (2021eko Eurostat metodologia); aurreko datuak, berriz, lehengo definizioarekin bat datoz. 
 1-5-4-notapie: Larrialdietarako plan bat (udalekoa edo lurraldekoa) duten udalerriek % 100eko balioa dute
+2-a-1-notapie: EAE eta lurralde historikoen azken urteko datuak behin-behinekoak dira 
 8-1-1-notapie: Azken urteko datuak behin-behinekoak dira
 8-2-1-notapie: Azken urteko datuak behin-behinekoak dira
 
 
-# PESTAÑA "INDICADORES RELACIONADOS" (EMBEDED)
-embeded-1-2-1: "/site/embeded/1-2-1"
-embeded-1-2-2: "/site/embeded/1-2-2"
-embeded-1-a-2: "/site/embeded/1-a-2"
-embeded-6-1-1: "/site/embeded/6-1-1"
-embeded-8-9-1: "/site/embeded/8-9-1"
-embeded-9-4-1: "/site/embeded/9-4-1"
-embeded-10-2-1: "/site/embeded/10-2-1"
-embeded-13-2-2: "/site/embeded/13-2-2"

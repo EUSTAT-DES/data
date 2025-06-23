@@ -26,9 +26,9 @@ formula: |
   se calcula de la misma manera utilizando datos de la población total.
 
 desagregacion: | 
-  Grupo de ingresos: 40% más pobre, total
+  Grupo de ingresos 
 
-  Territorio histórico
+  Territorio histórico 
 
 observaciones: >-
 
@@ -72,5 +72,3 @@ comparabilidad: >-
 indicador_meta_enlace: >- 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-01-01.pdf">Metadatos 10-1-1.pdf</a> (solo en inglés)
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

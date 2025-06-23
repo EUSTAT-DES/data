@@ -23,7 +23,7 @@ formula: |
   $P_{women\, age\, group}^{t} =$ women in age group as of 1 July in year $t$
 
 desagregacion: >- 
-  Age group: 10-14 years and 15-19 years
+  Age group
 
 periodicidad: FUENTE.FREQ_A
 
@@ -64,7 +64,4 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-02.pdf">Metadata 3-7-2.pdf</a>'
 
-informacion_interes: 
 
-national_data_updated_date: '2024-10-29'
-national_metadata_updated_date: '2024-10-29'

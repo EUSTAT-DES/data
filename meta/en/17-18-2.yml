@@ -18,7 +18,7 @@ formula: |
   $$LAPFEO^{t} = \begin{cases} 1 & \text{It complies with the Fundamental Principles of Official Statistics in year 𝑡} \\ 0 & \text{It does not comply with the Fundamental Principles of Official Statistics in year 𝑡} \end{cases} $$
 
 
-desagregacion: >-
+desagregacion:
 
 observaciones: >-
 
@@ -44,7 +44,3 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-18-02.pdf">Metadata 17-18-2.pdf</a>'
 
-informacion_interes: 
-
-national_data_updated_date: ''
-national_metadata_updated_date: ''

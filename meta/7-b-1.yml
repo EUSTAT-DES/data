@@ -26,7 +26,13 @@ formula: |
 
 desagregacion: |
 
-  Energia berriztagarrien iturri mota: hidraulikoa; fotovoltaikoa; eolikoa; eguzki-energia termikoa
+  Teknologia berriztagarri mota
+
+  Lurralde historikoa
+
+  Eskualdea
+
+  Udalerria
  
 periodicidad: FUENTE.FREQ_A
 
@@ -81,7 +87,6 @@ comparabilidad: >-
 indicador_meta_enlace: 
   '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-07-0b-01.pdf">Metadatuak 7-b-1.pdf</a> (ingelesez bakarrik)'
 
-informacion_interes: 
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

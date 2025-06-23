@@ -16,12 +16,12 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 2-1-2-titulo: "Prevalencia de la inseguridad alimentaria grave o muy grave"
 2-2-2-titulo: "Proporción de menores entre 2 y 17 años con obesidad, sobrepeso o peso insuficiente"
 2-2-E1-titulo: "Tasa de obesidad de la población adulta según el índice de masa corporal (IMC) (Indicador UE sdg_02_10)"
-2-3-1-titulo: Volumen de producción por unidad de trabajo desglosado por tamaño
+2-3-1-titulo: Volumen de producción por unidad de trabajo desglosado por tamaño de explotación
 2-3-2-titulo: Media de ingresos de los productores de alimentos en pequeña escala
 2-4-1-titulo: "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible"
 2-4-E1-titulo: Superficie dedicada a la agricultura ecológica (Indicador UE sdg_02_40)
 2-4-E2-titulo: Emisiones de amoníaco de la agricultura y ganadería (Indicador UE sdg_02_60)
-2-a-1-titulo: "Valor añadido de la Agricultura como porcentaje del PIB"
+2-a-1-titulo: "Valor añadido de la agricultura como porcentaje del PIB"
 2-c-1-titulo: "Índice de precios de los alimentos"
 
 3-3-1-titulo: "Número de infecciones por el VIH por cada 1.000 habitantes, desglosado por sexo"
@@ -72,7 +72,7 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 
 10-2-1-titulo: "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos"
 10-4-2-titulo: "Índice de Gini del ingreso disponible equivalente (postfiscal)"
-10-7-3-titulo: "Número de personas refugiadas por cada 100.000 habitantes"
+10-7-4-titulo: "Número de personas refugiadas o bajo protección internacional por cada 100.000 habitantes"
 
 11-1-1-titulo: "Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda"
 11-4-1-titulo: "Gasto per cápita de las administraciones públicas autonómicas y locales en la preservación, protección y conservación del patrimonio cultural"
@@ -244,7 +244,7 @@ OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
 8-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 8-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
 8-5-E1-contenido: "<b>Dirección deseada:</b> En la serie Tasa de ocupación, el objetivo europeo es alcanzar un 78% para el año 2030. Por su parte, en la serie Brecha de género, la meta es reducir la diferencia a un máximo de 5,8 puntos porcentuales en ese mismo año."
-8-6-1-contenido: "<b>Dirección deseada:</b> El objetivo establecido a nivel europeo es que, para el año 2030, el valor del indicador correspondiente a los jóvenes de entre 15 y 29 años no supere el 9%"
+8-6-1-contenido: "<b>Dirección deseada:</b> Descenso"
 8-8-1-contenido: "<b>Dirección deseada:</b> Descenso"
 8-9-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 8-10-1-contenido: "<b>Dirección deseada:</b> No evaluable"
@@ -253,7 +253,6 @@ OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
   La C.A. de Euskadi cuenta con una Estrategia Vasca 2030 de Emancipación Juvenil y un 
   <a href="https://www.euskadi.eus/planes-proyectos-juventud/web01-a2gazter/es/">V Plan Joven 2022-2026</a>, 
   cuyo objetivo es facilitar la transición de las personas jóvenes hacia la vida adulta, promoviendo su autonomía y su incorporación al ámbito laboral, especialmente de aquellas alejadas actualmente del mercado de trabajo.
-
   
   La <a href="https://www.euskadi.eus/planes-informes-planificacion-innovacion-empleo/web01-s2enple/es/">Estrategia Vasca de Empleo 2030 y los Planes Estratégicos de Empleo</a> 
   también incluyen líneas de actuación específicas para fomentar el empleo juvenil, mediante programas de formación, incentivos a la contratación y apoyo al emprendimiento joven.
@@ -273,6 +272,7 @@ OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
 10-2-1-contenido: "<b>Dirección deseada:</b> Descenso"
 10-4-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 10-4-2-contenido: "<b>Dirección deseada:</b> Descenso"
+10-7-4-contenido: "<b>Dirección deseada:</b> Descenso"
 
 11-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
 11-3-2-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -373,15 +373,7 @@ OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
   calculan con la nueva definicion de la tasa (metodología Eurostat del año 2021), 
   mientras que los datos anteriores corresponden a la definición antigua.
 1-5-4-notapie: Los municipios que disponen de un plan (municipal o territorial) de emergencias tienen un valor de 100%
+2-a-1-notapie: Los datos del último año de la CAE y territorios históricos son provisionales
 8-1-1-notapie: Los datos del último año son provisionales
 8-2-1-notapie: Los datos del último año son provisionales
 
-# PESTAÑA "INDICADORES RELACIONADOS" (EMBEDED)
-embeded-1-2-1: "/site/es/embeded/1-2-1"
-embeded-1-2-2: "/site/es/embeded/1-2-2"
-embeded-1-a-2: "/site/es/embeded/1-a-2"
-embeded-6-1-1: "/site/es/embeded/6-1-1"
-embeded-8-9-1: "/site/es/embeded/8-9-1"
-embeded-9-4-1: "/site/es/embeded/9-4-1"
-embeded-10-2-1: "/site/es/embeded/10-2-1"
-embeded-13-2-2: "/site/es/embeded/13-2-2"

@@ -26,8 +26,7 @@ formula: |
   $DAL^{t} =$ dependencias administrativas locales (ayuntamientos) en el año $t$
 
 
-desagregacion: >- 
-   Tipo de gestión del agua: gestión y saneamiento de aguas de consumo; gestión de aguas de baño
+desagregacion:
 
  
 periodicidad: FUENTE.FREQ_A
@@ -74,7 +73,3 @@ comparabilidad: >-
 indicador_meta_enlace: 
   '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-0B-01.pdf">Metadatos 6-b-1.pdf</a> (solo en inglés)'
 
-informacion_interes: 
-
-national_data_updated_date: ''
-national_metadata_updated_date: ''

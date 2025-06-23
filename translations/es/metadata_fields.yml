@@ -15,7 +15,7 @@ justificacion_global: Justificación
 indicador_meta_enlace: Metadatos del indicador de Naciones Unidas/Unión Europea 
 dato_global: Resultados internacionales
 dato_ccaa: Resultados de las Comunidades Autónomas
-comparabilidad: Comparabilidad entre el indicador disponible y el indicador de Naciones Unidas/Unión europea
+comparabilidad: Comparabilidad entre el indicador disponible en la C.A. de Euskadi y el indicador de Naciones Unidas/Unión Europea
 informacion_interes: Información adicional
 
  # A partir de aquí, metadatos open SDG
@@ -29,11 +29,11 @@ indicator_definition: Descripción del indicador global
 indicator_name: Nombre del indicador
 indicator_sort_order: Orden de visualización del indicador (dentro de la página de
   Objetivo)
-national_data_update_url: Datos actualizados por última vez
+national_data_update_url: Fecha última actualización datos
 national_geographical_coverage: Cobertura geográfica
 national_indicator_available: Indicador disponible
 national_indicator_description: Descripción del indicador
-national_metadata_update_url: Metadatos actualizados por última vez
+national_metadata_update_url: Fecha última actualización metadatos
 source_contact_1: Detalles de contacto
 source_contact_2: Detalles de contacto
 source_contact_3: Detalles de contacto

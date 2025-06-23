@@ -25,8 +25,7 @@ formula: |
 
 
 desagregacion: >- 
-  Servicios básicos: electricidad, conexión a internet, instalaciones de saneamiento básicas separadas 
-  por sexo, acceso a suministro básico de agua potable, instalaciones básicas para el lavado de manos
+  Servicios básicos
 
 periodicidad: FUENTE.FREQ_A
 
@@ -57,7 +56,3 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-0a-01.pdf">Metadatos 4-a-1.pdf </a>(solo en inglés)'
 
-informacion_interes: 
-
-national_data_updated_date: ''
-national_metadata_updated_date: ''

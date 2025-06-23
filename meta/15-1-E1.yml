@@ -33,8 +33,8 @@ formula: |
 
   $ST_{ekosistema}^{t} =$ ekosistema jakin baten guztizko azalera $t$ urtean
 
-desagregacion: >-
-  Ekosistema mota: basoak; hezeguneak; larreak; laborantza-lurrak; asentamenduak; beste lur batzuk 
+desagregacion: |
+  Ekosistema 
 
 periodicidad: FUENTE.FREQ_A3
 

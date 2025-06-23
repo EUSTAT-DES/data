@@ -7,7 +7,15 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Vacuna
+    value: SH_ACS_DTP3
+  - field: Vacuna
+    value: SH_ACS_PCV3
+  - field: Vacuna
+    value: SH_ACS_MCV2
+  - field: Vacuna
+    value: SH_ACS_HPV
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''

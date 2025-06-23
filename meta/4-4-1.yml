@@ -10,10 +10,9 @@ meta_global: meta_largo.4-4-titulo
 
 definicion: |
   Honako trebetasun informatiko hauetakoren bat erabili duten pertsonen proportzioa, adin-taldearen arabera: 
-  softwarea edo app-ak deskargatzea edo instalatzea; softwarearen, app-aren edo gailuaren konfigurazioa aldatzea; 
-  fitxategiak karpeten, gailuen edo hodeiaren artean kopiatzea edo mugitzea; testua, irudiak edo taulak 
-  integratzen dituzten aurkezpenak sortzea; programazio-lengoaia batean programatzea; eta kalkulu-orri baten 
-  oinarrizko funtzioak erabiltzea.
+  softwarea edo aplikazioak instalatu; edozein softwareren konfigurazioa aldatu, sistema eragilea eta segurtasun-programak barne; 
+  fitxategiak edo karpetak kopiatu edo mugitu; testu, irudi, taula edo grafikoz osatutako aurkezpenak edo dokumentuak sortu; 
+  programazio-lengoaia batean programatu; eta kalkulu-orriak erabili. 
 
 formula: |
 
@@ -28,16 +27,13 @@ formula: |
 
 
 desagregacion: | 
-  Trebetasun informatikoak: softwarea edo app-ak deskargatzea edo instalatzea; softwarearen, app-aren edo 
-  gailuaren konfigurazioa aldatzea; fitxategiak karpeten, gailuen edo hodeiaren artean kopiatzea edo mugitzea; 
-  testua, irudiak edo taulak integratzen dituzten aurkezpenak sortzea; programazio-lengoaia batean programatzea; 
-  kalkulu-orri baten oinarrizko funtzioak erabiltzea
+  Trebetasun informatikoa 
 
-  Adina: 16-24; 25-74
+  Adina 
 
-  Sexua
+  Sexua 
 
-  Lurralde historikoa
+  Lurralde historikoa 
 
 periodicidad: FUENTE.FREQ_A
 
@@ -71,7 +67,6 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-04-01.pdf">Metadatuak 4-4-1.pdf </a>(ingelesez bakarrik)'
 
-informacion_interes: 
-
 national_data_updated_date: ''
 national_metadata_updated_date: ''
+

@@ -16,19 +16,18 @@ definicion: >-
 
 formula: |
 
-  $$MJML^{t} = \frac{NSI_{Área}^{t}}{NSI_{Área}^{t} + NNO_{Área}^{t}} \cdot 100$$
+  $$MJML^{t} = \frac{NSI_{área}^{t}}{NSI_{área}^{t} + NNO_{área}^{t}} \cdot 100$$
 
   donde:
 
-  $NSI_{Área}^{t} =$ número de respuestas 'SÍ' a las cuestiones del área correspondiente 
+  $NSI_{área}^{t} =$ número de respuestas 'SÍ' a las cuestiones del área correspondiente 
   del cuestionario específico diseñado para el indicador 5.1.1 por Naciones Unidas en el año $t$
 
-  $NNO_{Área}^{t} =$ número de respuestas 'NO' a las cuestiones del área correspondiente 
+  $NNO_{área}^{t} =$ número de respuestas 'NO' a las cuestiones del área correspondiente 
   del cuestionario específico diseñado para el indicador 5.1.1 por Naciones Unidas en el año $t$
 
 desagregacion: |
-  Áreas: Marco legal global y vida pública, Violencia contra la mujer, Empleo y 
-  subsidios económicos, Matrimonio y familia
+  Área 
 
 observaciones: |
 
@@ -113,8 +112,4 @@ dato_global: |
 
 indicador_meta_enlace: >-
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-01-01.pdf">Metadatos 5-1-1.pdf (solo en inglés)</a>
-
-informacion_interes: 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
 

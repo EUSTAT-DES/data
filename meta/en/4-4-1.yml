@@ -9,10 +9,9 @@ meta_global: meta_largo.4-4-titulo
 
 
 definicion: |
-  Proportion of people, by age group, who have used any of the following computer skills: downloading or 
-  installing software or apps; changing software, app, or device settings; copying or moving files between 
-  folders, devices, or in the cloud; creating presentations that integrate text, images, or tables; 
-  programming in a programming language and using basic spreadsheet functions
+  Proportion of people, by age group, who have used any of the following computer skills: instal software or apps; 
+  change settings for any software, including the operating system and security programs; copy or move files or folders; 
+  create presentations that integrate text, images, or tables; programming in a programming language; use spreadsheets. 
 
 
 formula: |
@@ -27,11 +26,9 @@ formula: |
 
 
 desagregacion: | 
-  Computer skills: downloading or installing software or apps; changing software, app, or device settings; 
-  copying or moving files between folders, devices, or in the cloud; creating presentations that integrate 
-  text, images, or tables; programming in a programming language and using basic spreadsheet functions
+  Computer skills
 
-  Age: 16-24, 25-74
+  Age
 
   Sex
 
@@ -67,7 +64,4 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-04-04-01.pdf">Metadata 4-4-1.pdf </a>'
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

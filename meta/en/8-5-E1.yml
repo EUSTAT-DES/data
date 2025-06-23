@@ -40,6 +40,14 @@ formula:  |
 desagregacion:  |
   Sex
 
+  Type of contract
+
+  Province
+
+  County
+
+  Municipality
+
 periodicidad: FUENTE.FREQ_A
 
 
@@ -79,7 +87,4 @@ comparabilidad: >-
 indicador_meta_enlace:
   <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_08_30_esmsip2.htm"> Metadata Eurostat sdg_08_30 </a>
 
-informacion_interes: >-
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

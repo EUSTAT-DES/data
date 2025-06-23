@@ -22,9 +22,9 @@ formula: |
 
 
 desagregacion: |
-  Tecnología de acceso: DSL, fibra óptica (FTTH), híbrido de fibra coaxial (HFC), otra tecnología
+  Tecnología de acceso 
 
-  Territorio histórico
+  Territorio histórico 
 
 observaciones:
 
@@ -73,7 +73,4 @@ comparabilidad: >-
   El indicador disponible cumple con los metadatos de Naciones Unidas.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-06-01.pdf">Metadatos 17-6-1.pdf</a> (solo en inglés)'
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

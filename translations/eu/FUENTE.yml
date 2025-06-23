@@ -189,7 +189,7 @@ GE_Territorial_bep_url: https://digital.gob.es/eu/inicio
 GE_Sanidad_cach_url: https://www.miteco.gob.es/eu/agua/temas/estado-y-calidad-de-las-aguas/aguas-superficiales/programas-seguimiento/control-adiciona-zonas-protegidas-abastecimientos.html
 Eustat_ceme_url: https://eu.eustat.eus/estadisticas/tema_271/opt_1/tipo_15/temas.html
 Eustat_cepv_url: https://eu.eustat.eus/estadisticas/tema_25/opt_1/temas.html
-GE_Transformacion_cba_url: https://avancedigital.mineco.gob.es/banda-ancha/cobertura/consulta/Paginas/consulta-cobertura-banda-ancha.aspx
+GE_Transformacion_cba_url: https://avance.digital.gob.es/banda-ancha/Paginas/Index.aspx
 Eustat_cedu_url: https://eu.eustat.eus/estadisticas/tema_302/opt_0/temas.html 
 Eustat_ceap_url: https://eu.eustat.eus/estadisticas/tema_149/opt_1/temas.html
 Eustat_cseepros_url: https://eu.eustat.eus/estadisticas/tema_94/opt_0/temas.html
@@ -239,7 +239,7 @@ GE_Agricultura_recan_url: https://www.mapa.gob.es/eu/estadistica/temas/estadisti
 Eustat_emat_url: https://eu.eustat.eus/estadisticas/tema_50/opt_1/tipo_1/temas.html
 Eustat_cemm_url: https://eu.eustat.eus/estadisticas/tema_30/opt_0/temas.html
 Eustat_enac_url: https://eu.eustat.eus/estadisticas/tema_48/opt_1/temas.html
-GE_Interior_pint_url: https://datos.gob.es/eu/catalogo/e00003801-estadistica-de-poblacion-extranjera-solicitante-de-proteccion-internacional-refugiados-beneficiarios-de-proteccion-subsidiaria-desplazados-y-apatridas-2020-anuario-estadistico-del-ministerio-del-interior
+GE_Interior_pint_url: https://proteccion-asilo.interior.gob.es/es/datos-e-informacion-estadistica/
 Eustat_rpf_url: https://eu.eustat.eus/estadisticas/tema_395/opt_0/temas.html
 Euskadi_Industria_rp_url: https://www.euskadi.eus/informazioa/hondakin-arriskutsuen-estatistika-090209/web01-a2inghon/eu/
 Euskadi_Industria_ru_url: https://www.euskadi.eus/informazioa/hiri-hondakin-solidoen-estatistika-090218/web01-a2inghon/eu/
@@ -252,7 +252,7 @@ INE_espd_url: https://www.ine.es/dynt3/inebase/es/index.htm?padre=9494
 Eustat_ceit_url: https://eu.eustat.eus/estadisticas/tema_652/opt_1/temas.html
 GE_Interior_egpr_url: https://www.interior.gob.es/opencms/es/archivos-y-documentacion/documentacion-y-publicaciones/anuarios-y-estadisticas/estadisticas-del-ministerio-del-interior/
 GE_Interior_esap_url: https://www.interior.gob.es/opencms/es/archivos-y-documentacion/documentacion-y-publicaciones/anuarios-y-estadisticas/estadisticas-del-ministerio-del-interior/
-Eustat_cempa_url: https://en.eustat.eus/estadisticas/tema_276/opt_1/temas.html
+Eustat_cempa_url: https://eu.eustat.eus/estadisticas/tema_276/opt_1/temas.html
 Eustat_cid_url: https://eu.eustat.eus/estadisticas/tema_179/opt_0/temas.html
 GE_Transicion_egfs_url: https://www.miteco.gob.es/eu/ministerio/servicios/estadisticas/estadisticas-forestales/estadistica-sobre-gestion-forestal-sostenible.html
 GE_Transicion_tratar_url: https://www.miteco.gob.es/eu/agua/temas/saneamiento-depuracion.html
@@ -335,8 +335,6 @@ FREQ_W2: Hamabostean behin
 FREQ_I: "Irregularra/Aldizkakoa"
 FREQ_P: Urte anitzekoa
 
-
 # OCECA
 oceca: >-
-  <img src="/site/assets/img/oceca/ocecas_image.png" style="width: 200px; float: left; margin-right: 10px;" alt="Logotipo OCECAS">
   Autonomia-erkidegoetako estatistika-organo zentralen arteko metodologia harmonizatua erabiliz kalkulatutako adierazlea

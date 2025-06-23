@@ -10,7 +10,7 @@ meta_global: meta_largo.2-1-titulo
 
 
 definicion: >-
-  Azken hamabi hilabeteetan Elikagaien Segurtasuneko Eskalako (ESE) elikaduraren segurtasun-gabeziako 
+  Azken hamabi hilabeteetan Elikagaien Segurtasuneko Eskalan (ESE) neurtuta elikagai-segurtasunarekin
   arazoren bat izan duten biztanleen ehunekoa  
 
 formula: |
@@ -19,7 +19,7 @@ formula: |
 
   non:
 
-  $P_{FSS}^{t} =$ azken 12 hilabeteetan elikaduraren segurtasun-gabeziako egoera larri 
+  $P_{FSS}^{t} =$ azken 12 hilabeteetan elikagaien segurtasun-gabeziako egoera larri 
   edo oso larriren bat jasan duten biztanleak, $t$ urtean
 
   $P^{t} =$ biztanleria $t$ urtean
@@ -27,15 +27,20 @@ formula: |
 desagregacion: 
 
 observaciones: |
-  Adierazleak elikaduraren segurtasun-gabeziaren bat duten pertsonen proportzioa neurtzen du, 
+  Adierazleak elikagaien segurtasun-gabeziaren bat duten pertsonen proportzioa neurtzen du, 
   galdetegi honen arabera: 
 
   - A- Erosten dituzten elikagaiak agortzen zaizkie eta ez dute dirurik gehiago lortzeko 
   - B- Ezin dute elikadura orekatua eta askotarikoa eskuratu 
   - C- Janari kantitatea murriztu dute edo otordu batzuk ere saltatu dituzte elikatzeko diru nahikorik ez zutelako 
+  - D- Gertatu bada, ¿zein maiztasunekin gertatu da?
   - E- Nahi baino gutxiago jan dute elikagaiak erosteko nahikoa diru ez zeukatelako 
   - F- Gose izan dira, baina ez dute jan, nahikoa janari lortu ezin izan dutelako  
 
+  Elikagaien segurtasunik eza honela puntuatzen da:
+   - Arazorik gabe: Arazo bakarra badu edo bat ere ez
+   - Arazo larria: 2 eta 4 arazo artean baditu
+   - Arazo oso larria: 5 arazo edo gehiago baditu
 
 periodicidad: FUENTE.FREQ_A2
 
@@ -62,12 +67,11 @@ indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Meta
 
 dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.1.2&seriesCode=AG_PRD_FIESMS&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAGE%20%7C%20ALLAREA%20%7C%20BOTHSEX">
-  Elikagadura segurtasun-gabezia ertain edo larriaren prebalentzia biztanlerian (%) AG_PRD_FIESMS</a> UNSTATS
+  Elikagaien segurtasun-gabezia ertain edo larriaren prebalentzia biztanlerian (%) AG_PRD_FIESMS</a> UNSTATS
 
 comparabilidad: >-
-  EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du.
+  EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du. Elikagaien segurtasunik eza modu desberdinean puntuatzen da.
+ 
 
-informacion_interes: 
-
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

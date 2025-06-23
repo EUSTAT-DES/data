@@ -25,7 +25,13 @@ formula: |
 
 desagregacion: |
 
-  Type of renewable energy source: hydraulic, photovoltaic, wind, solar thermal
+  Type of renewable technology
+
+  Province
+
+  County
+
+  Municipality
  
 periodicidad: FUENTE.FREQ_A
 
@@ -85,7 +91,4 @@ comparabilidad: >-
 indicador_meta_enlace: 
   '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-0a-01.pdf">Metadata 12-a-1.pdf</a>'
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

@@ -25,7 +25,9 @@ formula: |
 
   $NLEEE_{t}$ = number of European Ecolabel licenses in year $t$
 
-desagregacion: 
+desagregacion: |
+
+  Province
 
 observaciones: 
 
@@ -78,7 +80,4 @@ dato_global: >-
 indicador_meta_enlace: >- 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-06-01.pdf">Metadata 12-6-1.pdf</a>
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

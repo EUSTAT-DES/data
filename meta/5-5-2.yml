@@ -24,9 +24,9 @@ formula: |
   $DIR_{gizonak}^{t} =$ gizonak dagokion jardueran $t$ urtean
 
 desagregacion: |
-  Jarduera: goi-zuzendaritza; zuzendaritza-kargua; enpresaburua.
+  Okupazioa
 
-  Lurralde historiakoa
+  Lurralde historikoa
 
 periodicidad: FUENTE.FREQ_A
 
@@ -81,7 +81,6 @@ comparabilidad: >-
 indicador_meta_enlace: >-
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-02.pdf">Metadatuak 5-5-2.pdf</a> (ingelesez bakarrik)
 
-informacion_interes: 
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

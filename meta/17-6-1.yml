@@ -22,7 +22,7 @@ formula: |
 
 
 desagregacion: |
-  Sarbide-teknologia: DSL; zuntz optikoa (FTTH); zuntz koaxialeko hibridoa (HFC); beste teknologia bat
+  Teknologia
 
   Lurralde historikoa
 
@@ -71,7 +71,7 @@ comparabilidad: >-
   EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-06-01.pdf">Metadatuak 17-6-1.pdf</a> (ingelesez bakarrik)'
-informacion_interes: 
+
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

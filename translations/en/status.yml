@@ -1,5 +1,6 @@
-reporting_status: Reporting status
-overall_reporting_status: Overall reporting status
+exploring_data_sources: Exploring data sources
+reporting_status: Monitoring report
+overall_reporting_status: Overall progress status
 reported_online: Reported online
 statistics_in_progress: Statistics in progress
 exploring_data_sources: Exploring data sources
@@ -17,9 +18,13 @@ disaggregation_status_notapplicable: Out of scope
 disaggregation_status_by_field: Disaggregation by %field
 not_specified: Not specified
 reported: Reported
-description: Reporting status provides an overview of how much Sustainable Development
-  Goal (SDG) data %country.name reports.
-progress_status: Progress
+description: |
+  
+  The monitoring report provides an overview of progress toward achieving the Sustainable Development Goals (SDGs) in the Basque Country.
+
+  To learn more about the methodology used to assess progress, see <a href="/site/en/metodologia">Measuring Progress on the Sustainable Development Goals</a>.
+
+progress_status: <b>Progress</b>
 progress_not_available: Not available
 progress_challenges_remain: Challenges remain
 progress_approaching_target: Approaching target
@@ -30,3 +35,7 @@ alcanzado: On track or target met
 en_progreso: Fair progress but acceleration needed
 retroceso: Stagnation or regression
 no_evaluado: No assessment
+territorio: 'Province'
+sexo: Sex
+municipio: Municipality
+europeo: European indicator

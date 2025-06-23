@@ -25,9 +25,8 @@ formula: |
   $P^{t} =$ población total en el año $t$
 
 desagregacion: |
-  Dimensiones de la pobreza: riesgo de pobreza; carencia material y social severa; 
-  baja intensidad de trabajo
-
+  Dimensiones de la pobreza
+  
   Sexo
 
 observaciones: |
@@ -124,7 +123,3 @@ dato_global: >-
 comparabilidad: >-
   El indicador disponible cumple con los metadatos de Naciones Unidas.
 
-informacion_interes: 
-
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'

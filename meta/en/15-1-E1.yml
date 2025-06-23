@@ -35,7 +35,7 @@ formula: |
   $ST_{ecosystem}^{t} =$ total surface area of ​​a given ecosystem in year $t$
 
 desagregacion: >-
-  Ecosystem type: forests; wetlands; grasslands; croplands; settlements; other lands
+  Ecosystem
 
 periodicidad: FUENTE.FREQ_A3
 
@@ -64,5 +64,4 @@ comparabilidad: |
 indicador_meta_enlace: >- 
   <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_15_20_esmsip2.htm">Metadata Eurostat (sdg_15_20)</a>
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
+

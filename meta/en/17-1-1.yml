@@ -32,7 +32,9 @@ formula: |
 
   $PIB_{TH}^{t} =$ gross domestic product of a province at current prices in year $t$
 
-desagregacion:
+desagregacion: |
+
+  Province
 
 observaciones: |
   The consolidated income of the Basque administrations is obtained by adding the income of the autonomous 
@@ -77,7 +79,3 @@ comparabilidad: >-
   The available indicator partially complies with the United Nations metadata. The indicator has been adapted to the context of the Basque Country.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-17-01-01.pdf">Metadata 17-1-1.pdf</a>'
-informacion_interes: 
-
-national_data_updated_date: ''
-national_metadata_updated_date: ''

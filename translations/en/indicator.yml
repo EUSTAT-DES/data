@@ -56,15 +56,10 @@ loading: Loading
 loading_map: Loading map
 
 # A button that displays the national metadata about a particular indicator - as provided by that country
-national_metadata_blurb: This table provides metadata for the actual indicator available
-  from %country.name statistics closest to the corresponding global SDG indicator.
-  Please note that even when the global SDG indicator is fully available from %country.adjective
-  statistics, this table should be consulted for information on national methodology
-  and other %country.adjective-specific metadata information.
+national_metadata_blurb: Methodological sheet of the indicator available for the Autonomous Community of the Basque Country. 
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
-global_metadata_blurb: This table provides information on metadata for SDG indicators
-  as defined by the UN Statistical Commission. <a href="https://unstats.un.org/sdgs/metadata/">Complete
-  global metadata</a> is provided by the UN Statistics Division.
+global_metadata_blurb: This section provides more information about the United Nations indicator or the European Union Sustainable 
+  Development Indicator, such as its rationale, international results, metadata, and other relevant statistics.
 # A button for editing some content
 edit: Edit Indicator
 # A button for editing data
@@ -161,8 +156,8 @@ note: note
 # Yes/No for binary-style charts and tables
 affirmative: 'Yes'
 negative: 'No'
-global_metadata: Description of the indicator
-
+global_metadata: International indicator
+relacionados: Related indicators
 
 # Propios EUSTAT
 national_metadata: Methodological sheet

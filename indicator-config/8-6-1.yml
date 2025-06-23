@@ -17,11 +17,6 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_target_lines:
-  - series: ''
-    unit: ''
-    label_content: GRAFICO.8-6-1-anotacion
-    value: 9
 graph_title: global_indicators.8-6-1-title
 graph_titles: []
 graph_type: line

@@ -23,8 +23,6 @@ formula: |
 
 desagregacion: |
 
-  Gravedad: mortal; no mortal
-
   Sexo
 
   Territorio histórico
@@ -67,7 +65,4 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-08-01.pdf">Metadatos 8-8-1.pdf</a> (solo en inglés)'
 
-informacion_interes: >-
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

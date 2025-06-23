@@ -15,7 +15,7 @@ formula: |
 
 desagregacion: |
 
-  Tipo de uso: doméstico, industrial, comercial, público, agropecuario, otros usos
+  Tipo de uso
 
   Territorio histórico
 
@@ -58,7 +58,3 @@ comparabilidad: >-
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-04-02.pdf">Metadatos 6-4-2.pdf</a> (solo en inglés)'
 
-informacion_interes: 
-
-national_data_updated_date: ''
-national_metadata_updated_date: ''

@@ -37,7 +37,7 @@ formula: |
   $MUN^{t} =$ udalerrien kopurua $t$ urtean
 
 
-desagregacion: 
+desagregacion: |
 
   Lurralde historikoa 
 
@@ -89,8 +89,6 @@ comparabilidad: >-
   EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-13-01-03.pdf">Metadatuak 13-1-3.pdf</a> (ingelesez bakarrik)'
-
-informacion_interes: 
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

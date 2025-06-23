@@ -26,8 +26,7 @@ formula: |
   $P^{t} =$ biztanleria osoa $t$ urtean
 
 desagregacion: |
-  Pobreziaren dimentsioak: pobrezia-arriskua; gabezia material eta sozial larria; 
-  lan-intentsitate txikia  
+  Pobreziaren dimentsioak
 
   Sexua
 
@@ -116,7 +115,6 @@ dato_global: >-
 comparabilidad: >-
   EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
-informacion_interes: 
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

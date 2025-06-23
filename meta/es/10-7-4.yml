@@ -1,10 +1,10 @@
 # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.10-7-3-titulo
+indicador_disponible: GRAFICO.10-7-4-titulo
 
 # objetivo_global: objetivo_largo.10-titulo
 # meta_global: meta_largo.10-7-titulo
-#  indicador_onu_global: indicador_largo.10-7-3-titulo
+#  indicador_onu_global: indicador_largo.10-7-4-titulo
 
 definicion: >- 
 
@@ -80,5 +80,3 @@ dato_global: >-
 indicador_meta_enlace: >- 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-07-04.pdf">Metadatos 10-7-4.pdf</a> (solo en inglés)
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

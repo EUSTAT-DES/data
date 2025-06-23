@@ -1,302 +1,366 @@
 # TITULOS
 
-1-1-1-titulo: "Proporción de la población que vive por debajo del umbral internacional de la pobreza"
-1-2-1-titulo: "Proporción de la población que vive por debajo del umbral de la pobreza"
-1-2-2-titulo: "Tasa AROPE. Proporción de personas en riesgo de pobreza o exclusión social"
-1-3-1-titulo: "Proporción de la población cubierta por sistemas o niveles mínimos de protección social, desglosada por sexo, distinguiendo entre los desempleados y la población que ha superado la edad legal de jubilación"
-1-4-1-titulo: "Proporción de viviendas principales con acceso a servicios básicos (abastecimiento de agua corriente y baño)"
-1-5-1-titulo: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
-1-5-2-titulo: "Indemnizaciones por daños personales, pérdidas pecuniarias y daños de bienes pagadas y/o provisionadas en proporción al PIB"
-1-a-2-titulo: "Proporción del gasto público total que se dedica a servicios esenciales (educación, salud y protección social)"
-1-b-1-titulo: "Gasto en prestaciones de garantía de ingresos (RGI) y ayudas de emergencia social (AES)"
+nodisponible: The Basque Country does not produce continuous official statistics using the indicator methodology. 
 
-2-2-2-titulo: "Prevalencia de la malnutrición por grupos de edad"
-2-3-1-titulo: Volumen de producción por unidad de trabajo
-2-3-2-titulo: Media de ingresos de los productores de alimentos en pequeña escala
-2-4-1-titulo: "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible"
-2-4-E1-titulo: Superficie dedicada a la agricultura ecológica (<b>Indicador UE sdg_02_40</b>)
-2-4-E2-titulo: Emisiones de amoníaco de la agricultura y ganadería (<b>Indicador UE sdg_02_60</b>)
-2-a-1-titulo: "Valor añadido de la Agricultura como porcentaje del PIB"
-2-c-1-titulo: "Índice de precios de los alimentos"
+1-1-1-titulo: "Proportion of the population living below the international poverty line"
+1-2-1-titulo: "Proportion of the population living below the poverty line, by sex"
+1-2-2-titulo: "AROPE rate. Proportion of people at risk of poverty or social exclusion"
+1-3-1-titulo: "Proportion of the population covered by minimum social protection systems o levels, by sex, distinguishing between unemployed persons and the population above the legal retirement age"
+1-4-1-titulo: "Proportion of main dwellings with access to basic services (running water supply and toilet)"
+1-5-1-titulo: "Number of deaths directly attributed to disasters per 100,000 inhabitants"
+1-5-2-titulo: "Compensation for personal injury, pecuniary loss and property damage paid and/or provisioned in proportion to GDP"
+1-5-4-titulo: "Proportion of local governments that adopt and implement local disaster risk reduction strategies"
+1-a-2-titulo: "Proportion of total public spending on essential services (education, health and social protection)"
+1-b-1-titulo: "Spending on income guarantee benefits (RGI) and emergency social aid (AES)"
 
-3-3-1-titulo: "Número de infecciones por el VIH por cada 1.000 habitantes, desglosado por sexo"
-3-4-E1-titulo: Tasa de participación en los programas de cribado poblacional de cáncer (<b>Indicador Gobierno Vasco</b>)
-3-4-E2-titulo: Esperanza de vida al nacer (<b>Indicador Gobierno Vasco</b>)
-3-5-1-titulo: "Número de admisiones a tratamiento por abuso o dependencia de alcohol y drogas ilegales por cada 100.000 habitantes"
-3-5-2-titulo: "Consumo anual de alcohol en litros de alcohol puro por persona de 15 y más años"
-3-7-1-titulo: "Proporción de mujeres en edad de procrear (entre 18 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos"
-3-8-1-titulo: "Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica"
-3-8-2-titulo: "Proporción de la población con grandes gastos sanitarios por hogar como porcentaje del total de gasto del hogar"
-3-a-1-titulo: "Proporción de personas de 15 y más años que fuman a diario"
+2-1-2-titulo: "Prevalence of severe or very severe food insecurity"
+2-2-2-titulo: "Proportion of children aged 2 to 17 who are obese, overweight, or underweight"
+2-2-E1-titulo: "Obesity rate of the adult population according to body mass index (BMI) (EU indicator sdg_02_10)"
+2-3-1-titulo: Volume of production per labour unit by enterprise size
+2-3-2-titulo: Average income of small-scale food producers
+2-4-1-titulo: "Proportion of agricultural land under productive and sustainable agriculture"
+2-4-E1-titulo: Area under organic farming (EU indicator sdg_02_40)
+2-4-E2-titulo: Ammonia emissions from agriculture and livestock (EU indicator sdg_02_60)
+2-a-1-titulo: "Agricultural value added as a percentage of GDP"
+2-c-1-titulo: "Food Price Index"
 
-4-1-1-titulo: "Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura y matemáticas"
-4-1-E1-titulo: "Tasa de abandono escolar prematuro de la población de 18-24 años"
-4-1-2-titulo: "Tasa de finalización (educación secundaria inferior y educación secundaria superior)"
-4-2-2-titulo: "Tasa neta de escolarización a los 5 años"
-4-3-1-titulo: "Tasa de participación de jóvenes y adultos en la educación y formación académica y no académica, desglosada por sexo"
-4-5-1-titulo: "Índices de paridad (entre mujeres y hombres, quintiles de riqueza superior e inferior, municipios de más y menos de 10.000 habitantes y personas con y sin limitaciones por problemas de salud) en la realización de actividades educativas (formales o no formales) en los últimos 12 o 4 semanas"
-4-6-1-titulo: "Proporción de personas entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de comprensión lectora y en matemáticas"
+3-3-1-titulo: "Number of HIV infections per 1,000 population, by sex"
+3-4-E1-titulo: Participation rate in population-based cancer screening programs (Basque Government Indicator)
+3-4-E2-titulo: Life expectancy at birth (Basque Government Indicator)
+3-5-1-titulo: "Number of admissions to treatment for alcohol and illegal drug abuse or dependence per 100,000 inhabitants"
+3-5-2-titulo: "Annual alcohol consumption in liters of pure alcohol per person aged 15 and over"
+3-7-1-titulo: "Proportion of women of reproductive age (18-49 years) who have their family planning needs met with modern methods"
+3-8-1-titulo: "Proportion of people aged 16 and over with unmet need for health care"
+3-8-2-titulo: "Proportion of the population with high health expenditures per household as a percentage of total household expenditure"
+3-a-1-titulo: "Proportion of people aged 15 and over who smoke daily"
 
-5-1-1-titulo: "Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género"
-5-2-1-titulo: "Tasa de victimizaciones contra las mujeres a manos de su actual o anterior pareja "
-5-2-2-titulo: "Tasa de victimizaciones contra las mujeres por violencia sexual fuera del ámbito familiar"
-5-3-1-titulo: "Proporción de mujeres de 16 y 17 años que han contraído matrimonio con un hombre"
-5-4-1-titulo: "Tiempo dedicado al hogar y familia en un día promedio"
-5-5-1-titulo: "Proporción de escaños ocupados por mujeres en a) el parlamento autonómico y b) los gobiernos autonómicos, forales y locales"
-5-a-2-titulo: "Grado en que el marco jurídico garantiza la igualdad de derechos de la mujer a la propiedad o el control de tierras"
-5-b-1-titulo: "Proporción de personas entre 16 y 74 años que han usado el móvil en los últimos tres meses"
+4-1-1-titulo: "Proportion of 15-year-olds who have achieved at least level 2 proficiency in reading and mathematics"
+4-1-E1-titulo: "Early school leaving rate of the 18-24 age group"
+4-1-2-titulo: "Completion rate (lower secondary education and upper secondary education)"
+4-2-2-titulo: "Net school enrollment rate at age 5"
+4-3-1-titulo: "Participation rate of young people and adults in formal and non-formal education and training, by sex"
+4-5-1-titulo: "Parity indices (between women and men, upper and lower wealth quintiles, municipalities with more and less than 10,000 inhabitants, and people with and without limitations due to health problems) in the performance of educational activities (formal or non-formal) in the last 12 months or 4 weeks"
+4-6-1-titulo: "Proportion of people aged 16–65 who have achieved at least level 2 proficiency in reading comprehension and mathematics"
 
-6-2-1-titulo: "Proporción de viviendas principales con acceso a servicios básicos (abastecimiento de agua corriente y baño)"
-6-4-2-titulo: Extracción de agua (consumo de agua)
+5-1-1-titulo: "Existence of legal frameworks to promote, strengthen and monitor gender equality"
+5-2-1-titulo: "Rate of victimization against women at the hands of their current or former partner"
+5-2-2-titulo: "Rate of victimization against women due to sexual violence outside the family"
+5-3-1-titulo: "Proportion of 16 and 17 year old women who have married a man"
+5-4-1-titulo: "Time devoted to home and family care on an average day"
+5-5-1-titulo: "Proportion of seats held by women in a) the regional parliament and b) the regional, provincial and local governments"
+5-a-2-titulo: "Extent to which the legal framework guarantees women's equal rights to own or control land"
+5-b-1-titulo: "Proportion of people aged 16-74 who have used a mobile phone in the last three months"
 
-7-3-E1-titulo: Consumo de energía eléctrica (<b>Indicador Gobierno Vasco</b>)
+6-2-1-titulo: "Proportion of main dwellings with access to basic services (running water supply and toilet)"
+6-3-1-titulo: "Proportion of wastewater flows connected to a collection system and adequately treated" 
+6-3-2-titulo: "Proportion of good quality water bodies"
+6-4-2-titulo: "Water consumption (volume of water extracted)"
+6-5-2-titulo: "Proportion of the area of ​​transboundary basins subject to operational arrangements for water cooperation"
 
-8-5-1-titulo: Ingreso medio por hora de personas empleadas, desglosado por sexo y personas con
-  o sin discapacidad
-8-5-E1-titulo: Tasa de ocupación de la población (<b>Indicador UE sdg_08_30</b>) 
-8-10-1-titulo: "Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años"
-8-10-2-titulo: "Proporción de personas entre 18 y 79 años que tienen una cuenta corriente"
-8-b-1-titulo: Gasto de las administraciones públicas autonómicas en fomento del empleo
+7-3-E1-titulo: "Electricity consumption (Basque Government Indicator)"
 
-9-4-E1-titulo: Intensidad de las emisiones atmosféricas de la industria (<b>Indicador UE sdg_09_70</b>) 
+8-5-1-titulo: "Average hourly income of employed persons, by sex and by persons with or without disabilities" 
+8-5-E1-titulo: "Population occupancy rate (EU indicator sdg_08_30)" 
+8-8-1-titulo: "Rate of incidence of accidents with sick leave during the working day/in transit, according to severity" 
+8-9-1-titulo: "GDP generated directly by tourism as a proportion of total GDP and growth rate"
+8-10-1-titulo: "Number of commercial bank branches per 100,000 inhabitants aged 15 and over"
+8-10-2-titulo: "Proportion of people aged 18-79 who have a checking account"
+8-b-1-titulo: "Spending by regional public administrations on employment promotion"
+ 
+9-4-E1-titulo: "Air emission intensity from industry (EU indicator sdg_09_70)" 
 
-10-2-1-titulo: "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos"
-10-4-2-titulo: "Índice de Gini del ingreso disponible equivalente (postfiscal)"
+10-2-1-titulo: "Proportion of people living below 50% of the median income"
+10-4-2-titulo: "Gini index of equivalent disposable income (post-fiscal)"
+10-7-4-titulo: "Number of refugees or people under international protection per 100,000 inhabitants"
 
-11-1-1-titulo: "Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda"
-11-4-1-titulo: "Total de gastos per cápita de fuente de financiación pública destinados a la preservación, protección y conservación de todo el patrimonio cultural, desglosado por nivel de gobierno (autonómico y local/municipal)"
-11-5-1-titulo: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
-11-5-2-titulo: "Indemnizaciones por daños personales, pérdidas pecuniarias y daños de bienes pagadas y/o provisionadas en proporción al PIB" 
-11-6-1-titulo: "Residuos urbanos recogidos per cápita y proporción de residuos tratados, desglosados por tipo de tratamiento"
-11-6-2-titulo: "Niveles medios anuales de partículas finas en suspensión (PM2.5 y PM10) en las ciudades (ponderados según la población)"
-11-7-2-titulo: "Número de personas que han sido víctimas de acoso no sexual o sexual en los últimos 12 meses por cada 100.000 habitantes"
-11-a-1-titulo: "Proporción de la población residente en municipios que disponen de Plan General o Normas Subsidiarias o figuras equivalentes"
+11-1-1-titulo: "Proportion of people living in households with certain housing deficiencies"
+11-4-1-titulo: "Per capita expenditure of regional and local public administrations on the preservation, protection and conservation of cultural heritage"
+11-5-1-titulo: "Number of deaths directly attributed to disasters per 100,000 inhabitants"
+11-5-2-titulo: "Compensation for personal injury, pecuniary loss and property damage paid and/or provisioned in proportion to GDP" 
+11-6-1-titulo: "Urban waste collected per capita and proportion of waste treated, by type of treatment"
+11-6-2-titulo: "Average annual levels of fine suspended particles ($PM_{2.5}$ and $PM_{10}$) in cities (weighted by population)"
+11-7-1-titulo: "Average proportion of the built-up area of ​​cities that is dedicated to open spaces for public use by all"
+11-7-2-titulo: "Number of people who have been victims of non-sexual or sexual harassment in the last 12 months per 100,000 inhabitants"
+11-a-1-titulo: "Proportion of the population residing in municipalities that have a territorial planning plan, or that have a General Plan, Subsidiary Regulations or equivalent figures"
 
+12-1-1-titulo: "Policy instruments are developed, adopted or implemented to support the transition to sustainable consumption and production patterns"
+12-5-1-titulo: "Proportion of municipal waste recycled in relation to total municipal waste generated and treated"
+12-6-1-titulo: "Number of organizations with EMAS or Ecolabel"
 
-12-1-1-titulo: "Se elaboran, adoptan o aplican instrumentos de política destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles"
-12-5-1-titulo: "Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados"
-12-6-1-titulo: "Número de organizaciones con EMAS o Ecolabel"
+13-1-1-titulo: "Number of deaths directly attributed to disasters per 100,000 inhabitants"
+13-2-2-titulo: "Total greenhouse gas (GHG) emissions, per unit of real GDP, per capita, and rates of change compared to 1990 and 2005"
 
-13-1-1-titulo: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
-13-2-2-titulo: Emisiones totales de gases de efecto invernadero (GEI) por unidad de PIB real, 
-  per cápita, y tasas de variación respecto a 1990 y 2005
+14-3-1-titulo: "Average sea acidity (pH) measured at an agreed set of representative sampling stations"
+14-5-1-titulo: "Coverage of protected areas in relation to marine areas"
 
-15-3-1-titulo: "Superficie de suelos potencialmente contaminados y recuperados para nuevos usos"
-15-8-1-titulo: "Se dispone de legislación nacional pertinente y se destinan recursos para la prevención o el control de las especies exóticas invasoras"
+15-1-2-titulo: "Proportion of terrestrial key biodiversity areas covered by protected areas"
+15-1-E1-titulo: "Surface of the terrestrial protected areas (km2 and percentage) (EU indicator sdg_15_20)"
+15-3-1-titulo: "Area of ​​potentially contaminated soils recovered for new uses"
+15-4-1-titulo: "Mountain key biodiversity areas covered by protected areas"
+15-4-2-titulo: "Mountain Green Cover Index"
+15-8-1-titulo: "Relevant national legislation is in place and resources are allocated for the prevention or control of invasive alien species"
 
-16-2-2-titulo: "Número de víctimas detectadas de tráfico de personas por cada 100.000 habitantes, desglosado por tipo de explotación"
+16-1-1-titulo: "Number of victims of intentional homicides per 100,000 inhabitants"
+16-1-4-titulo: "Proportion of the population that feels safe walking alone in their residential area after darke"
+16-1-E1-titulo: "Population that reports the occurrence of crimes, violence or vandalism in their area (EU indicator sdg_16_20)" 
+16-2-2-titulo: "Number of detected victims of human trafficking per 100,000 inhabitants, by type of exploitation"
 
-16-6-1-titulo: "Gasto liquidado en proporción al gasto inicial de los presupuestos de 
-  las administraciones públicas autonómicas y locales"
-16-6-2-titulo: "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos"
+16-6-1-titulo: "Liquidated expenditure in proportion to the initial expenditure of the budgets of regional and local public administrations"
+16-6-2-titulo: "Proportion of the population that feels satisfied with the functioning of public services"
 
-16-7-1-titulo: "Ratio de la proporción de mujeres en el sector público respecto a la proporción de mujeres en la población entre 16 y 64 años, por institución pública"
+16-7-1-titulo: "Ratio of the proportion of women in the public sector to the proportion of women in the population aged 16 to 64, by public institution"
 
-17-1-1-titulo: "Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB "
-17-1-2-titulo: "Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos"
-17-2-1-titulo: "Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales, y en proporción al PIB"
-17-3-1-titulo: "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo, y en proporción al PIB" 
-17-3-2-titulo: "Volumen de remesas enviadas al extranjero, y en proporción al PIB" 
-17-8-1-titulo: "Proporción de personas entre 16 y 74 años que han utilizado Internet en los últimos tres meses"
-17-18-2-titulo: "La legislación sobre estadísticas cumple los Principios Fundamentales de las Estadísticas Oficiales"
-17-18-3-titulo: "Se dispone de un plan estadístico autonómico plenamente financiado y en fase de aplicación"
-17-19-2-titulo: "a) Se ha realizado al menos un censo de población y vivienda en los últimos diez años, b) Se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones"
+17-1-1-titulo: "Total revenue of regional and local public administrations as a proportion of GDP"
+17-1-2-titulo: "Proportion of regional and local government revenues from taxes"
+17-2-1-titulo: "Net Official Development Assistance from regional and local public administrations, and in proportion to GDP"
+17-3-1-titulo: "Net direct investment in countries receiving Official Development Assistance, and as a proportion of GDP" 
+17-3-2-titulo: "Volume of remittances sent abroad, and in proportion to GDP" 
+17-8-1-titulo: "Proportion of people aged 16-74 who have used the Internet in the last three months"
+17-18-2-titulo: "The legislation on statistics complies with the Fundamental Principles of Official Statistics"
+17-18-3-titulo: "A fully funded regional statistical plan is available and is in the implementation phase"
+17-19-2-titulo: "a) At least one population and housing census has been carried out in the last ten years, b) 100% of births and at least 80% of deaths have been registered"
 
  # OCECA
-OCECA-1-2-1-1A: Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza
-OCECA-1-2-1-2A: Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza
-OCECA-1-2-1-2B: Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza
-OCECA-1-2-2-1A: "Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza"
-OCECA-1-a-2-1: Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación
-OCECA-1-a-2-2: Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud
-OCECA-6-1-1: Proporción de personas en zonas de abastecimiento que notifican al Sistema de Información Nacional de Agua de Consumo (SINAC)
-OCECA-9-4-1-5: Emisiones de CO2 respecto al año 1990
-OCECA-9-4-1-6: Emisiones de CO2 respecto al año 2005
-OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional
-
+OCECA-1-2-1-1A: Proportion of people at risk of relative poverty, considering the national poverty line
+OCECA-1-2-1-2A: Proportion of people at risk of relative poverty with imputed rent, considering the national poverty line
+OCECA-1-2-1-2B: Proportion of people at risk of relative poverty with imputed rent, considering the regional poverty threshold
+OCECA-1-2-2-1A: "Proportion of people at risk of poverty or social exclusion: AROPE indicator, considering the national poverty line"
+OCECA-1-a-2-1: Proportion of regional public administrations spending on education
+OCECA-1-a-2-2: Proportion of regional public administrations spending on health
+OCECA-6-1-1: Proportion of people in supply areas who report to the National Drinking Water Information System (SINAC)
+OCECA-9-4-1-5: $CO_2$ emissions compared to 1990
+OCECA-9-4-1-6: $CO_2$ emissions compared to 2005
+OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, considering the national median
+OCECA-13-2-2-3: Greenhouse gas emissions compared to 1990
+OCECA-13-2-2-4: Greenhouse gas emissions compared to 2005
 
 # CONTENIDO
 
-1-1-1-contenido: "<b>Meta:</b> Erradicar la pobreza extrema"
-1-2-1-contenido: "<b>Meta:</b> Reducir a la mitad la población que vive en la pobreza en todas sus dimensiones"
-1-2-2-contenido: "<b>Meta:</b> Reducir a la mitad la población que vive en la pobreza en todas sus dimensiones"
-1-3-1-contenido: "<b>Dirección deseada:</b> Aumento"
-1-4-1-contenido: "<b>Dirección deseada:</b> Aumento"
-1-5-1-contenido: "<b>Dirección deseada:</b> Descenso"
-1-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
-1-a-2-contenido: "<b>Meta:</b> Se considera como meta la media de la UE para el indicador"
-1-b-1-contenido: "<b>Meta:</b> No evaluable"
-
-2-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
-2-2-2-contenido: "<b>Dirección deseada:</b> Descenso"
-2-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-2-3-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-2-4-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-2-4-E1-contenido: "<b>Dirección deseada:</b> Ascenso"
-2-4-E2-contenido: "<b>Dirección deseada:</b> Descenso"
-2-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-2-c-1-contenido: "<b>Meta:</b> Limitar la extrema volatilidad de los precios de los alimentos"
+1-1-1-contenido: "<b>Target:</b> Eradicate extreme poverty"
+1-2-1-contenido: "<b>Target:</b> Reduce by half the population living in poverty in all its dimensions"
+1-2-2-contenido: "<b>Target:</b> Reduce by half the population living in poverty in all its dimensions"
+1-3-1-contenido: "<b>Desired direction:</b> Increase"
+1-4-1-contenido: "<b>Desired direction:</b> Increase"
+1-5-1-contenido: "<b>Desired direction:</b> Decrease"
+1-5-2-contenido: "<b>Desired direction:</b> Decrease"
+1-5-3-contenido: |
+  The Basque Country has laws, strategies and plans aimed at disaster prevention and response, which involve several Departments of the Basque Government and Local Administrations:
+  
+  <a href="https://www.euskadi.eus/larrialdiei-aurre-egiteko-bidea/web01-a2blarri/eu/" target="_blank"> Civil Protection Plan of Euskadi-LABI</a>: the framework for civil protection in the Basque Country 
+  
+  <a href="https://www.euskadi.eus/lurralde-antolamenduaren-gidalerroak-lag/web01-a3lurral/eu/" target="_blank"> Land Use Plans</a>: t includes the objective of limiting land uses based on existing vulnerabilities  
+  and a more correct use of the land to avoid increasing risk.
+  
+  <a href="https://www.euskadi.eus/dokumentazioa/2015/2050erako-klima-aldaketaren-euskadiko-estrategia/web01-a2ingkli/eu/" target="_blank">  Climate Change Strategy of the Basque Country to 2050</a>: It includes as long-term objectives the reduction of greenhouse gas emissions by 80% by 2050, as well as increasing the resilience of the Basque territory to face the expected effects of climate change.
+1-5-4-contenido: "In the Basque Country, there is one regional emergency plan and three provincial emergency plans, one for each province. Therefore, 100% of municipalities are under the umbrella of a provincial emergency plan."
 
 
-3-1-1-contenido: "<b>Meta:</b> Reducir a menos de 70 por cada 100.000 nacidos vivos"
-3-1-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-3-2-1-contenido: "<b>Meta:</b> Reducir al menos a 25 por cada 1.000 nacidos vivos"
-3-2-2-contenido: "<b>Meta:</b> Reducir al menos a 12 por cada 1.000 nacidos vivos"
-3-3-1-contenido: "<b>Dirección deseada:</b> Descenso"
-3-3-2-contenido: "<b>Dirección deseada:</b> Descenso"
-3-3-3-contenido: "<b>No aplicable:</b> La Comunidad Autónoma de Euskadi no es actualmente zona de transmisión de la malaria"
-3-3-4-contenido: "<b>Dirección deseada:</b> Descenso"
-3-4-1-contenido: "<b>Meta:</b> Reducir en un tercio la mortalidad prematura por enfermedades no transmisibles"
-3-4-2-contenido: "<b>Dirección deseada:</b> Descenso"
-3-4-E1-contenido: "<b>Dirección deseada:</b> Ascenso"
-3-4-E2-contenido: "<b>Dirección deseada:</b> Ascenso"
-3-5-1-contenido: "<b>Dirección deseada:</b> No evaluable"
-3-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
-3-6-1-contenido: "<b>Meta:</b> Reducir a la mitad el número de muertes"
-3-7-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-3-7-2-contenido: "<b>Dirección deseada:</b> Descenso"
-3-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-3-8-2-contenido: "<b>Dirección deseada:</b> Descenso"
-3-9-3-contenido: "<b>Dirección deseada:</b> Descenso"
-3-a-1-contenido: "<b>Dirección deseada:</b> Descenso"
-3-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-3-c-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-
-4-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-4-1-E1-contenido: "<b>Meta:</b> Menos de 9% en el año 2030"
-4-1-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-4-2-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-4-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-4-4-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-
-4-5-1-contenido: "Se mide el indicador educativo: realización de actividades educativas (formales o no formales). <b>Dirección deseada:</b> Índice=1"
-4-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-4-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-4-c-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-
-5-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-5-2-1-contenido: "<b>Dirección deseada:</b> Descenso"
-5-2-2-contenido: "<b>Dirección deseada:</b> Descenso"
-5-3-1-contenido: "<b>Dirección deseada:</b> Descenso"
-5-4-1-contenido: "<b>Dirección deseada:</b> Para poder calcular el progreso hacia el objetivo de reparto equitativo de las funciones parentales y las responsabilidades familiares, se valora la relación entre la proporción de tiempo de las mujeres y el de los hombres, con un objetivo deseado de 1"
-5-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-5-5-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-5-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-5-a-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-5-a-E1-contenido: "<b>Dirección deseada:</b> Descenso en la brecha de género"
-5-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-
-6-1-1-contenido: "La calidad del agua distribuida, los niveles máximos de contaminantes y la frecuencia mínima de análisis han sido establecidas en el ámbito de la Unión Europea (Directiva UE 2020/2184), y han sido transpuestas a la legislación española (Real Decreto 3/2023). Los sistemas de abastecimiento como la calidad del agua están estrechamente vigilados por los titulares de los abastecimientos a través de las unidades de control y vigilancia (UCV), y por el Departamento de Salud."
-6-2-1-contenido: "<b>Dirección deseada:</b> Aumento"
-6-3-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-6-4-2-contenido: "<b>Dirección deseada:</b> No evaluable"
-6-5-2-contenido: "La gestión integrada de ríos y lagos se organiza en comisiones internacionales para cuencas hidrográficas enteras en el caso de aguas transfronterizas. 
-  Las actividades de las comisiones se basan en acuerdos internacionales. Parte de la C.A. de Euskadi se ubica en la cuenca hidrográfica internacional de Garonne – Cantabrico -Ebro.
-  En febrero del año 2006 se firmó en Toulouse el acuerdo de cooperación para coordinar de la mejor manera posible las medidas tomadas en las cuencas hidrográficas situadas a ambos lados de la frontera, en aplicación de la Directiva Marco del Agua (DMA), 
-  así como establecer una cooperación administrativa regular"
-6-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+2-1-1-contenido: "<b>Desired direction:</b> Decrease"
+2-2-2-contenido: "<b>Desired direction:</b> Decrease"
+2-2-E1-contenido: "<b>Desired direction:</b> Decrease"
+2-3-1-contenido: "<b>Target:</b> Double agricultural productivity and the income of small food producers"
+2-3-2-contenido: "<b>Target:</b> Double agricultural productivity and the income of small food producers"
+2-4-1-contenido: "<b>Desired direction:</b> Increase"
+2-4-E1-contenido: "<b>Desired direction:</b> Increase"
+2-4-E2-contenido: "<b>Desired direction:</b> Decrease"
+2-a-1-contenido: "<b>Desired direction:</b> Increase"
+2-c-1-contenido: "<b>Target:</b> Limit extreme volatility in food prices"
 
 
-7-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-7-1-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-7-2-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-7-3-1-contenido: "<b>Dirección deseada:</b> Descenso"
-7-3-E1-contenido: "<b>Dirección deseada:</b> No evaluable"
-7-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+3-1-1-contenido: "<b>Target:</b> Reduce to less than 70 per 100,000 live births"
+3-1-2-contenido: "<b>Desired direction:</b> Increase"
+3-2-1-contenido: "<b>Target:</b> Reduce to at least to 25 per 1,000 live births"
+3-2-2-contenido: "<b>Target:</b> Reduce to at least to 12 per 1,000 live births"
+3-3-1-contenido: "<b>Desired direction:</b> Decrease"
+3-3-2-contenido: "<b>Desired direction:</b> Decrease"
+3-3-3-contenido: "<b>Not applicable:</b> The Autonomous Community of the Basque Country is not currently a malaria transmission area."
+3-3-4-contenido: "<b>Desired direction:</b> Decrease"
+3-4-1-contenido: "<b>Target:</b> Reduce by one third premature mortality from non-communicable diseases"
+3-4-2-contenido: "<b>Desired direction:</b> Decrease"
+3-4-E1-contenido: "<b>Desired direction:</b> Increase"
+3-4-E2-contenido: "<b>Desired direction:</b> Increase"
+3-5-1-contenido: "<b>Desired direction:</b> No assessment"
+3-5-2-contenido: "<b>Dirección deseada:</b> Decrease"
+3-6-1-contenido: "<b>Target:</b> Halve the number of deaths"
+3-7-1-contenido: "<b>Desired direction:</b> Increase"
+3-7-2-contenido: "<b>Desired direction:</b> Decrease"
+3-8-1-contenido: "<b>Desired direction:</b> Increase"
+3-8-2-contenido: "<b>Desired direction:</b> Decrease"
+3-9-3-contenido: "<b>Desired direction:</b> Decrease"
+3-a-1-contenido: "<b>Desired direction:</b> Decrease"
+3-b-1-contenido: "<b>Desired direction:</b> Increase"
+3-c-1-contenido: "<b>Desired direction:</b> Increase"
+
+4-1-1-contenido: "<b>Desired direction:</b> Increase"
+4-1-E1-contenido: "<b>Target:</b> Les than 9% by 2030"
+4-1-2-contenido: "<b>Desired direction:</b> Increase"
+4-2-2-contenido: "<b>Desired direction:</b> Increase"
+4-3-1-contenido: "<b>Desired direction:</b> Increase"
+4-4-1-contenido: "<b>Desired direction:</b> Increase"
+
+4-5-1-contenido: "The following education indicator is measured: completion of educational activities (formal or non-formal). <b>Desired direction:</b> Index=1"
+4-6-1-contenido: "<b>Desired direction:</b> Increase"
+4-a-1-contenido: "<b>Desired direction:</b> Increase"
+4-c-1-contenido: "<b>Desired direction:</b> Increase"
+
+5-1-1-contenido: "<b>Desired direction:</b> Increase"
+5-2-1-contenido: "<b>Desired direction:</b> Decrease"
+5-2-2-contenido: "<b>Desired direction:</b> Decrease"
+5-3-1-contenido: "<b>Desired direction:</b> Decrease"
+5-4-1-contenido: "<b>Desired direction:</b> In order to calculate progress towards the goal of equitable sharing of parental roles and family responsibilities, the ratio of women's time to men's time is assessed, with a desired target of 1"
+5-5-1-contenido: "<b>Desired direction:</b> Increase"
+5-5-2-contenido: "<b>Desired direction:</b> Increase"
+5-a-1-contenido: "<b>Desired direction:</b> Increase"
+5-a-2-contenido: "<b>Desired direction:</b> Increase"
+5-a-E1-contenido: "<b>Desired direction:</b> Decrease gender gap"
+5-b-1-contenido: "<b>Desired direction:</b> Increase"
+
+6-1-1-contenido: "The quality of distributed water, maximum contaminant levels, and minimum analysis frequencies have been established within the European Union (Directive EU 2020/2184) and have been transposed into Spanish legislation (Royal Decree 3/2023). Supply systems, like water quality, are closely monitored by supply owners through control and surveillance units (CSUs) and by the Health Department."
+6-2-1-contenido: "<b>Desired direction:</b> Increase"
+6-3-1-contenido: "<b>Desired direction:</b> Increase"
+6-3-2-contenido: "<b>Desired direction:</b> Increase"
+6-4-2-contenido: "<b>Desired direction:</b> No assessment"
+6-5-2-contenido: "Integrated river and lake management is organized into international commissions for entire river basins in the case of transboundary waters. The commissions' activities are based on international agreements. Part of the Basque Country is located in the Garonne-Cantabrian-Ebro international river basin. In February 2006, a cooperation agreement was signed in Toulouse to coordinate, as effectively as possible, the measures taken in the river basins located on both sides of the border, in implementation of the Water Framework Directive (WFD), as well as to establish regular administrative cooperation."
+6-b-1-contenido: "<b>Desired direction:</b> Increase"
 
 
-8-1-1-contenido: "<b>Dirección deseada:</b> Cambio porcentual positivo en la tasa de crecimiento del PIB real anual per cápita"
-8-2-1-contenido: "<b>Dirección deseada:</b> Cambio porcentual positivo en la tasa de crecimiento del PIB real por persona empleada"
-8-4-2-contenido: "<b>Dirección deseada:</b> Descenso en la serie Consumo doméstico de materiales por PIB"
-8-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-8-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
-8-5-E1-contenido: "<b>Dirección deseada:</b> En la serie Tasa de ocupación, el objetivo europeo es alcanzar un 78% para el año 2030. Por su parte, en la serie Brecha de género, la meta es reducir la diferencia a un máximo de 5,8 puntos porcentuales en ese mismo año."
-8-6-1-contenido: "<b>Dirección deseada:</b> El objetivo establecido a nivel europeo es que, para el año 2030, el valor del indicador correspondiente a los jóvenes de entre 15 y 29 años no supere el 9%"
-8-9-1-contenido: "<b>Dirección deseada:</b> No evaluable"
-8-10-1-contenido: "<b>Dirección deseada:</b> No evaluable"
-8-10-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-8-b-1-contenido: "<b>Dirección deseada:</b> No evaluable"
+7-1-1-contenido: "<b>Desired direction:</b> Increase"
+7-1-2-contenido: "<b>Desired direction:</b> Increase"
+7-2-1-contenido: "<b>Desired direction:</b> Increase"
+7-3-1-contenido: "<b>Desired direction:</b> Decrease"
+7-3-E1-contenido: "<b>Desired direction:</b> No assessment"
+7-b-1-contenido: "<b>Desired direction:</b> Increase"
 
-9-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-9-2-1-contenido: "<b>Dirección deseada:</b> Mantenimiento o ascenso"
-9-2-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-9-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-9-4-1-contenido: "<b>Dirección deseada:</b> Descenso"
-9-4-E1-contenido: "<b>Dirección deseada:</b> Descenso"
-9-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-9-5-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-9-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-9-c-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
-10-1-1-contenido: "<b>Dirección deseada:</b> Mantener el crecimiento de los ingresos del 40% más pobre de la población a una tasa superior a la media"
-10-2-1-contenido: "<b>Dirección deseada:</b> Descenso"
-10-4-1-contenido: "<b>Dirección deseada:</b> No evaluable"
-10-4-2-contenido: "<b>Dirección deseada:</b> Descenso"
+8-1-1-contenido: "<b>Desired direction:</b> Positive percentage change in the annual real GDP per capita growth rate"
+8-2-1-contenido: "<b>Desired direction:</b> Positive percentage change in the growth rate of real GDP per person employed"
+8-4-2-contenido: "<b>Desired direction:</b> Decrease in the series Domestic consumption of materials per GDP"
+8-5-1-contenido: "<b>Desired direction:</b> Increase"
+8-5-2-contenido: "<b>Desired direction:</b> Decrease"
+8-5-E1-contenido: "<b>Desired direction:</b> In the Employment Rate series, the European target is to reach 78% by 2030. In the Gender Gap series, the goal is to reduce the difference to a maximum of 5.8 percentage points in the same year."
+8-6-1-contenido: "<b>Desired direction:</b> The objective set at European level is that, by 2030, the value of the indicator corresponding to young people aged between 15 and 29 years does not exceed 9%."
+8-8-1-contenido: "<b>Desired direction:</b> Decrease"
+8-9-1-contenido: "<b>Desired direction:</b> No assessment"
+8-10-1-contenido: "<b>Desired direction:</b> No assessment"
+8-10-2-contenido: "<b>Desired direction:</b> Increase"
+8-b-1-contenido: |
+  The Basque Country has a Basque Youth Emancipation Strategy 2030 and a <a href="https://www.euskadi.eus/planes-proyectos-juventud/web01-a2gazter/es/">Youth Plan 2022-2026</a>, the objective of which is to facilitate the transition of young people to adulthood, promoting their autonomy and their incorporation into the workforce, especially for those currently far from the labour market.
 
-11-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
-11-3-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-11-4-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-11-5-1-contenido: "<b>Dirección deseada:</b> Descenso"
-11-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
-11-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-11-6-2-contenido: "<b>Dirección deseada:</b> Descenso"
-11-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+  The <a href="https://www.euskadi.eus/planes-informes-planificacion-innovacion-empleo/web01-s2enple/es/">Basque Employment Strategy 2030 and the Strategic Employment Plans</a> also include specific lines of action to promote youth employment through training programs, hiring incentives, and support for youth entrepreneurship.
+  
+9-1-1-contenido: "<b>Desired direction:</b> Increase"
+9-2-1-contenido: "<b>Desired direction:</b> Sustainment o increase"
+9-2-2-contenido: "<b>Desired direction:</b> Increase"
+9-3-1-contenido: "<b>Desired direction:</b> Increase"
+9-4-1-contenido: "<b>Desired direction:</b> Decrease"
+9-4-E1-contenido: "<b>Desired direction:</b> Decrease"
+9-5-1-contenido: "<b>Desired direction:</b> Increase"
+9-5-2-contenido: "<b>Desired direction:</b> Increase"
+9-b-1-contenido: "<b>Desired direction:</b> Increase"
+9-c-1-contenido: "<b>Desired direction:</b> Increase"
 
-12-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-12-2-2-contenido: "<b>Dirección deseada:</b> Descenso en la serie Consumo material interno por PIB"
-12-4-2-contenido: "<b>Dirección deseada:</b> Ascenso en la proporción de residuos peligrosos reciclados"
-12-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-12-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+10-1-1-contenido: "<b>Desired direction:</b> Sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average"
+10-2-1-contenido: "<b>Desired direction:</b> Decrease"
+10-4-1-contenido: "<b>Desired direction:</b> No assessment"
+10-4-2-contenido: "<b>Desired direction:</b> Decrease"
+10-7-4-contenido: "<b>Desired direction:</b> Decrease"
 
-13-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
-13-2-2-contenido: "<b>Dirección deseada:</b> Descenso en la serie Emisiones totales de gases de efecto invernadero per cápita"
+11-1-1-contenido: "<b>Desired direction:</b> Decrease"
+11-3-2-contenido: "<b>Desired direction:</b> Increase"
+11-4-1-contenido: "<b>Desired direction:</b> Increase"
+11-5-1-contenido: "<b>Desired direction:</b> Decrease"
+11-5-2-contenido: "<b>Desired direction:</b> Decrease"
+11-6-1-contenido: "<b>Desired direction:</b> Increase"
+11-6-2-contenido: "<b>Desired direction:</b> Decrease"
+11-a-1-contenido:  |
+  The <a href="https://www.euskadi.eus/directrices-de-ordenacion-territorial-dot/web01-a3lurral/es/">Territorial Planning Guidelines</a> provide criteria for the quantification of residential planning in Basque municipalities, taking into account the changes in the resident population, the average family size, and the housing demand. 
+  
+  The <a href="https://www.euskadi.eus/informacion/planes-territoriales-parciales-ptp/web01-a3lurral/es/">Partial Territorial Plans</a> develop the Territorial Planning Guidelines in the fifteen geographical areas, known as Functional Areas, and define planning objectives based on an analysis of the state of the territory, its socioeconomic situation, and its potential for development. 
 
-15-1-1-contenido: "<b>Dirección deseada:</b> Mantenimiento o ascenso"
-15-2-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-15-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-15-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+12-1-1-contenido: "<b>Desired direction:</b> Increase"
+12-2-2-contenido: "<b>Desired direction:</b> Decrease in the series Domestic material consumption per GDP"
+12-4-1-contenido:  |
+  The indicator refers to the number of States (Parties) that have ratified, accepted, approved, or acceded to the following five Multilateral Environmental Agreements (MEAs). These agreements are regulated within the European Union, although the information required by the Secretariats of the respective Conventions is managed at the state level. The five agreements and their European legal bases are:
 
-16-1-4-contenido: "<b>Dirección deseada:</b> Ascenso"
-16-2-2-contenido: "<b>Dirección deseada:</b> Descenso"
-16-3-2-contenido: "<b>Dirección deseada:</b> Descenso"
-16-6-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-16-7-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-16-9-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+   1. <a href="http://www.basel.int/">on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal:
+    <a href="https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex%3A32006R1013">
+  Regulation (EC) No 1013/2006 of the European Parliament and of the Council</a> of 14 June 2006 on shipments of waste  
 
-17-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-1-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-2-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-3-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-13-1-contenido: "<b>Dirección deseada:</b> En indicadores basados cuyos valores son tasas de crecimiento, se utiliza el criterio experto para la evaluación"
-17-18-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-18-3-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-19-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+   2. <a href="http://www.pic.int/">Rotterdam Convention</a> on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade: 
+    <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1616424284711&uri=CELEX%3A32012R0649">
+  Regulation (EU) No 649/2012 of the European Parliament and of the Council</a> of 4 July 2012, concerning the export and import of hazardous chemicals
+
+   3. <a href="http://www.pops.int/">Stockholm Convention</a> on Persistent Organic Pollutants: 
+    <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1616424312742&uri=CELEX%3A32019R1021">
+  Regulation (EU) 2019/1021 of the European Parliament and of the Council</a> of 20 June 2019, on persistent organic pollutants
+
+   4. <a href="https://ozone.unep.org/treaties/montreal-protocol">Montreal Protocol</a> on Substances that Deplete the Ozone Layer: 
+    <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1616423953157&uri=CELEX%3A32009R1005">
+  Regulation (EC) No 1005/2009 of the European Parliament and of the Council</a> of 16 September 2009, on substances that deplete the ozone layer
+
+   5. <a href="http://www.mercuryconvention.org/">Minamata Convention</a> on Mercury: 
+    <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1616424340862&uri=CELEX%3A32017R0852">
+  Regulation (EU) 2017/852 of the European Parliament and of the Council</a> of 17 May 2017, on mercury
+
+
+12-4-2-contenido: "<b>Desired direction:</b> Increase in the proportion of hazardous waste recycled"
+12-5-1-contenido: "<b>Desired direction:</b> Increase"
+12-6-1-contenido: "<b>Desired direction:</b> Increase"
+
+13-1-1-contenido: "<b>Desired direction:</b> Decrease"
+13-2-1-contenido: |
+  The European Union and its Member States submitted their Nationally Determined Contributions (NDCs) in October 2016, with a target of reducing economy-wide greenhouse gas emissions by at least 40% by 2030, compared to 1990 levels. 
+  The <a href="https://unfccc.int/sites/default/files/NDC/2023-10/ES-2023-10-17%20EU%20submission%20NDC%20update.pdf" target="_blank">latest update of the Nationally Determined Contributions of the European Union and its Member States</a> was submitted in October 2023.
+
+  In October 2021, the Basque Government adopted the 2021-2024 Energy Transition and Climate Change Plan, which sets the climate objectives for 2024: reducing greenhouse gas emissions by 30%; achieving a 20% share of renewable energy consumption; and ensuring the Basque Country's resilience to climate change.
+
+13-2-2-contenido: "<b>Desired direction:</b> Decrease in the series total greenhouse gas emissions"
+
+14-3-1-contenido: "<b>Desired direction:</b> Sustainment"
+
+15-1-1-contenido: "<b>Desired direction:</b> Sustainment o increase"
+15-1-E1-contenido: "<b>Desired direction:</b> Sustainment o increase"
+15-2-1-contenido: "<b>Desired direction:</b> Increase"
+15-3-1-contenido: "<b>Desired direction:</b> Increase"
+15-4-2-contenido: "<b>Desired direction:</b> Sustainment o increase"
+15-8-1-contenido: "<b>Desired direction:</b> Increase"
+
+16-1-1-contenido: "<b>Desired direction:</b> Decrease"
+16-1-2-contenido: "The Basque Country is not on the list of armed conflict situations considered for this indicator by the Office of the United Nations High Commissioner for Human Rights (OHCHR)."
+16-1-4-contenido: "<b>Desired direction:</b> Increase"
+16-1-E1-contenido:  "<b>Desired direction:</b> Decrease"
+16-2-2-contenido: "<b>Desired direction:</b> Decrease"
+16-3-2-contenido: "<b>Desired direction:</b> Decrease"
+16-6-2-contenido: "<b>Desired direction:</b> Increase"
+16-7-1-contenido: "<b>Desired direction:</b> Increase"
+16-9-1-contenido: "<b>Desired direction:</b> Increase"
+
+17-1-1-contenido: "<b>Desired direction:</b> Increase"
+17-1-2-contenido: "<b>Desired direction:</b> Increase"
+17-2-1-contenido: "<b>Desired direction:</b> Increase"
+17-3-1-contenido: "<b>Desired direction:</b> Increase"
+17-3-2-contenido: "<b>Desired direction:</b> Increase"
+17-6-1-contenido: "<b>Desired direction:</b> Increase"
+17-8-1-contenido: "<b>Desired direction:</b> Increase"
+17-13-1-contenido: "<b>Desired direction:</b> In indicators based on growth rates, expert judgment is used for evaluation"
+17-18-2-contenido: "<b>Desired direction:</b> Increase"
+17-18-3-contenido: "<b>Desired direction:</b> Increase"
+17-19-2-contenido: "<b>Desired direction:</b> Increase"
 
 
 # NOTAS
 
-1-3-1-nota: "Indicador en revisión"
+1-3-1-nota: "Indicator under review"
 
 # ANOTACIONES
 
-3-4-E1-anotacion: "Recomendación Guía Europea"
-8-5-E1-anotacion: "Objetivo UE"
-8-6-1-anotacion: "Objetivo UE"
+3-4-E1-anotacion: "European Guide Recommendation"
+8-5-E1-anotacion: "EU target"
+8-6-1-anotacion: "EU target"
 
 # NOTAS AL PIE (FOOTNOTE)
-1-2-2-notapie: Los datos a partir del 2022 del Indicador de pobreza y exclusion AROPE se 
-  calculan con la nueva definicion de la tasa (metodología Eurostat del año 2021), 
-  mientras que los datos anteriores corresponden a la definición antigua.
-8-1-1-notapie: Los datos del último año son provisionales
-8-2-1-notapie: Los datos del último año son provisionales
+1-2-2-notapie: Data from 2022 onwards for the AROPE Poverty and Exclusion Indicator are calculated using the new definition of the rate (Eurostat methodology from 2021), while previous data correspond to the old definition.
+1-5-4-notapie: Municipalities that have an emergency plan (municipal or provincial) have a value of 100%
+8-1-1-notapie: The data for the last year are provisional
+8-2-1-notapie: The data for the last year are provisional
 
-# PESTAÑA "INDICADORES RELACIONADOS" (EMBEDED)
-embeded-1-2-1: "/site/en/embeded/1-2-1" 
-embeded-1-2-2: "/site/en/embeded/1-2-2"
-embeded-1-a-2: "/site/en/embeded/1-a-2"
-embeded-6-1-1: "/site/en/embeded/6-1-1"
-embeded-8-9-1: "/site/en/embeded/8-9-1"
-embeded-9-4-1: "/site/en/embeded/9-4-1"

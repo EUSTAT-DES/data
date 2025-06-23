@@ -24,11 +24,9 @@ formula: |
   $INST_{hombres}^{t} =$ puestos ocupados por hombres en la institución correspondiente en el año $t$
 
 desagregacion: |
-  Puestos en instituciones: electas en el parlamento autonómico; consejeras en los departamentos 
-  del gobierno autonómico; electas en Juntas Generales; diputadas en los departamentos de los 
-  gobiernos forales; alcaldías y concejalías en gobiernos locales.
+  Institución 
 
-  Territorio histórico
+  Territorio histórico 
 
 periodicidad: FUENTE.FREQ_A
 
@@ -85,7 +83,3 @@ indicador_meta_enlace: |
 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01b.pdf">Metadatos 5-5-1 (2).pdf</a> (solo en inglés)
 
-informacion_interes: 
-
-national_data_updated_date: ''
-national_metadata_updated_date: ''

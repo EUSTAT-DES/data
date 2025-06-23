@@ -58,8 +58,9 @@ inputs:
     # need to change this setting. It is intended for sites where the data needs
     # to be "built" before being processed by sdg-build.
     git_data_dir: data
-  - class: InputSdmxMeta
-    meta_suffix: __GLOBAL
+  # Comentado para evitar la importación automática de indicadores de la ONU
+  # - class: InputSdmxMeta
+  #   meta_suffix: __GLOBAL
 
 # Translations
 # ------------
@@ -130,7 +131,6 @@ docs_translate_disaggregations: true
 # normally considered "disaggregation".
 docs_extra_disaggregations: 
   - Series
-  - Units
 
 # This controls the metadata report which is part of the automatic documentation.
 # More info can be found at https://open-sdg.readthedocs.io/en/latest/data-configuration/#docs_metadata_fields
@@ -143,4 +143,23 @@ docs_metadata_fields:
       label: Show map
     - key: graph_type
       label: Tipo de gráfico
-    
+# Indicator options    
+indicator_options:
+  non_disaggregation_columns:
+    - Year
+    - Units
+    - Series
+    - Value
+    - GeoCode
+    - Observation status
+    - Unit multiplier
+    - Unit measure
+    - UNIT_MEASURE
+    - SERIES
+    - COMMENT_TS
+    - DATA_LAST_UPDATE
+  series_column: Series
+  unit_column: Units
+  observation_attributes:
+    - COMMENT_OBS
+    - SOURCE_DETAIL

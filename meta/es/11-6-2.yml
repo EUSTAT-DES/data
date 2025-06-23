@@ -23,7 +23,7 @@ formula: |
   $P_{m}^{t}$ población del municipio $m$ en el año $t$
 
 desagregacion: |
-  Tamaño de las partículas en suspensión: $PM_{10}$ y $PM_{2,5}$
+  Partículas en suspensión 
 
 
 observaciones:
@@ -53,7 +53,4 @@ dato_global: >-
 indicador_meta_enlace: 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-06-02.pdf">Metadatos 11-6-2.pdf</a> (solo en inglés)
 
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''

@@ -39,8 +39,7 @@ formula: |
 
 
 desagregacion: |
-  Productos: alimentos (todos), cereales y derivados, pan, huevos, leche
-  aceites y grasas, frutas frescas y legumbres y hortalizas frescas
+  Tipo de alimento 
 
   Territorio histórico
 
@@ -84,5 +83,3 @@ comparabilidad: >-
 indicador_meta_enlace: >-
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0C-01.pdf">MetadatOS 2-c-1.pdf</a> (solo en inglés)
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'

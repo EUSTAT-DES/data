@@ -26,7 +26,11 @@ formula: |
 
 
 desagregacion: |
-  Territorio histórico/Comarca/Municipio
+  Territorio histórico 
+  
+  Comarca 
+  
+  Municipio 
 
 observaciones: 
   Los datos difundidos en el PIB Municipal se elaboran mediante estimaciones realizadas en base a la 
@@ -71,5 +75,3 @@ comparabilidad: >-
 indicador_meta_enlace: >-
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-0A-01.pdf">Metadatos 2-a-1.pdf</a> (solo en inglés)
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'

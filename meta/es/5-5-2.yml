@@ -22,7 +22,7 @@ formula: |
   $DIR_{hombres}^{t} =$ hombres en la ocupación correspondiente en en el año $t$
 
 desagregacion: |
-  Ocupación: Alta dirección; cargo directivo; empresaria.
+  Ocupación
 
   Territorio histórico
 
@@ -79,7 +79,3 @@ comparabilidad: >-
 indicador_meta_enlace: >-
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-02.pdf">Metadatos 5-5-2.pdf</a> (solo en inglés)
 
-informacion_interes: 
-
-national_data_updated_date: ''
-national_metadata_updated_date: ''

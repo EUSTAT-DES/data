@@ -23,13 +23,11 @@ formula: |
   
 desagregacion: |
 
-  Servicios públicos: enseñanza, asistencia sanitaria, gestión de pensiones, 
-  administración de justicia, seguridad ciudadana, servicios sociales, transporte 
-  público, obras públicas y ayuda a personas dependientes
+  Servicios públicos 
 
-  Sexo
+  Sexo 
 
-  Territorio histórico
+  Territorio histórico 
 
 
 observaciones:
@@ -76,7 +74,4 @@ comparabilidad: >-
   El indicador disponible cumple con los metadatos de Naciones Unidas.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-06-02.pdf">Metadatos 16-6-2.pdf</a> (solo en inglés)'
-informacion_interes: 
 
-national_data_updated_date: ''
-national_metadata_updated_date: ''
