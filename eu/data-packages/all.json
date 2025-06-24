@@ -70,7 +70,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Aurkibidea",
+                "Indizea",
                 ""
               ]
             },
@@ -1780,7 +1780,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Aurkibidea",
+                "Indizea",
                 ""
               ]
             },
@@ -3588,7 +3588,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Aurkibidea",
+                "Indizea",
                 ""
               ]
             },
@@ -6077,8 +6077,8 @@
                 "Berotegi-efektuko gasen isurketak, guztira, urtearen arabera",
                 "Berotegi-efektuko gasen isurketak, guztira, BPGren unitateko",
                 "Berotegi-efektuko gasen isurketak, guztira, biztanleko",
-                "Berotegi-efektuko gasen emisioak, 1990. urtearekiko",
-                "Berotegi-efektuko gasen isurketak, 2005. urtearekiko",
+                "Berotegi-efektuko gasen isuriak, 1990. urtearekiko",
+                "Berotegi-efektuko gasen isuriak, 2005. urtearekiko",
                 ""
               ]
             },
@@ -6787,7 +6787,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Aurkibidea",
+                "Indizea",
                 ""
               ]
             },
@@ -7589,7 +7589,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Espainiarrak",
+                "Espainiako nazionalitatea",
                 "Atzerriko nazionalitatea",
                 ""
               ]
@@ -10119,8 +10119,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nekazaritza eta abeltzaintzako amoniakoaren isuriak hektareako",
-                "Nekazaritzaren eta abeltzaintzaren amoniakoaren emisioak",
+                "Nekazaritza eta abeltzaintzako amoniako-isuriak hektareako",
+                "Nekazaritzaren eta abeltzaintzaren amoniako-isuriak",
                 ""
               ]
             },

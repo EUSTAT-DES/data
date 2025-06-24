@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nekazaritza eta abeltzaintzako amoniakoaren isuriak hektareako",
-                "Nekazaritzaren eta abeltzaintzaren amoniakoaren emisioak",
+                "Nekazaritza eta abeltzaintzako amoniako-isuriak hektareako",
+                "Nekazaritzaren eta abeltzaintzaren amoniako-isuriak",
                 ""
               ]
             },

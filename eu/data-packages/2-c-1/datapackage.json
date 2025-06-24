@@ -63,7 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Aurkibidea",
+                "Indizea",
                 ""
               ]
             },
