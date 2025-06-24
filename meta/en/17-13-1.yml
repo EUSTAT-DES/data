@@ -13,9 +13,9 @@ definicion: |
    - Unemployment rate 
    - Year-on-year rate of change in the consumer price index 
    - Volume of remittances sent abroad as a proportion of GDP 
-   - Gross debt of autonomous public administrations according to the excessive deficit protocol as a proportion of GDP 
-   - Tax revenues of autonomous public administrations as a proportion of GDP 
-   - Fiscal balance of autonomous public administrations as a proportion of GDP 
+   - Gross debt of regional public administrations according to the excessive deficit protocol as a proportion of GDP 
+   - Tax revenues of regional public administrations as a proportion of GDP 
+   - Fiscal balance of regional public administrations as a proportion of GDP 
 
 formula: |
 
@@ -77,7 +77,7 @@ formula: |
 
   <br>
 
-  <b>Gross debt of autonomous public administrations according to the excessive deficit protocol as a proportion of GDP</b>
+  <b>Gross debt of regional public administrations according to the excessive deficit protocol as a proportion of GDP</b>
 
   $$PPIBDBPDE^{t} = \frac{DBPDE^{t}}{PIB^{t}} \cdot 100$$ 
 
@@ -89,7 +89,7 @@ formula: |
 
   <br>
 
-  <b>Tax revenues of autonomous public administrations as a proportion of GDP</b>
+  <b>Tax revenues of regional public administrations as a proportion of GDP</b>
 
   $$PPIBIF^{t} = \frac{D.211^{t} + D.212^{t} + D.214^{t} + D.29^{t} + D.51^{t} + D.59^{t} + D.91^{t} + D.611^{t} + D.613^{t}}{PIB^{t}} \cdot 100$$ 
 
@@ -109,13 +109,13 @@ formula: |
 
   <br>
 
-  <b>Fiscal balance of autonomous public administrations as a proportion of GDP</b>
+  <b>Fiscal balance of regional public administrations as a proportion of GDP</b>
 
   $$PPIBSF^{t} = \frac{SF^{t}}{PIB^{t}} \cdot 100$$ 
 
   where:
 
-  $SF^{t} =$ fiscal balance (capacity or need for financing) of autonomous public administrations as a proportion of GDP in year $t$ 
+  $SF^{t} =$ fiscal balance (capacity or need for financing) of regional public administrations as a proportion of GDP in year $t$ 
 
   $PIB^{t} =$ gross domestic product at current prices in year $t$ 
 
