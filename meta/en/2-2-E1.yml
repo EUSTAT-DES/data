@@ -26,10 +26,12 @@ formula: |
   $P_{>18}^{t} =$ adult population in the year $t$
 
 
-desagregacion: >-
+desagregacion: |
   Sex
 
-observaciones: >-
+observaciones: |
+  The data for 2013, 2018, and 2023 come from the Basque Government's Department of Health's Health Survey; the data for 2011 and 2017 come from the National Health Survey of INE (National Institute of Statistics); and the data for 2014 and 2019 come from INE's European Health Survey. 
+
 
 periodicidad: FUENTE.FREQ_I
 
