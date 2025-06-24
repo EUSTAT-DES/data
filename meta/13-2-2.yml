@@ -8,39 +8,39 @@ meta_global: meta_largo.13-2-titulo
 #  indicador_onu_global: indicador_largo.13-2-2-titulo
 
 definicion: >-
-  Berotegi-efektuko gasen (BEG) emisioak guztira, BEGen emisioak guztira benetako BPGren unitateko, 
-  pertsonako, eta aldakuntza-tasak 1990eko eta 2005eko emisioen aldean 
+  Berotegi-efektuko gasen (BEG) isuriak guztira, BEGen isuriak guztira benetako BPGren unitateko, 
+  pertsonako, eta aldakuntza-tasak 1990eko eta 2005eko isurien aldean 
 
 formula:  |
 
-  <b>Berotegi-efektua eragiten duten gasen guztizko isurketak, BPG-unitateko</b>
+  <b>Berotegi-efektua eragiten duten gasen guztizko isuriak, BPG-unitateko</b>
 
   $$PPIBGEI^{t} = \frac{GEI^{t}}{PIB_{2022}^{t}} $$
 
-  <b>Berotegi-efektua eragiten duten gasen guztizko isurketak per capita</b>
+  <b>Berotegi-efektua eragiten duten gasen guztizko isuriak per capita</b>
 
   $$GEIPC^{t} = \frac{GEI^{t}}{P^{t}} $$
 
-  <b>Berotegi-efektua eragiten duten gasen isurketak, 1990. urtearekiko</b>
+  <b>Berotegi-efektua eragiten duten gasen isuriak, 1990. urtearekiko</b>
 
   $$TVGEI_{1990}^{t} = \frac{GEI^{t}-GEI^{1990}}{GEI^{1990}} \cdot 100$$ 
 
-  <b>Berotegi-efektua eragiten duten gasen isurketak, 2005. urtearekiko</b>
+  <b>Berotegi-efektua eragiten duten gasen isuriak, 2005. urtearekiko</b>
 
   $$TVGEI_{2005}^{t} = \frac{GEI^{t}-GEI^{2005}}{GEI^{2005}} \cdot 100$$ 
 
 
   non:
 
-  $GEI^{t} =$ berotegi-efektua eragiten duten gasen isurketak $t$ urtean
+  $GEI^{t} =$ berotegi-efektua eragiten duten gasen isuriak $t$ urtean
 
   $PIB_{2022}^{t} =$ barne-produktu gordina, kateatutako bolumenean, 2022 erreferentziarekin $t$ urtean
 
   $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean
 
-  $GEI^{1990} =$ berotegi-efektua eragiten duten gasen isurketak 1990ean
+  $GEI^{1990} =$ berotegi-efektua eragiten duten gasen isuriak 1990ean
 
-  $GEI^{2005} =$ berotegi-efektua eragiten duten gasen isurketak 2005ean
+  $GEI^{2005} =$ berotegi-efektua eragiten duten gasen isuriak 2005ean
 
 desagregacion:
 
