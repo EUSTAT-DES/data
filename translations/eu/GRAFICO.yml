@@ -20,7 +20,7 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 2-3-2-titulo: "Elikagaien eskala txikiko ekoizleen batez besteko diru-sarrerak"
 2-4-1-titulo: "Nekazaritza produktibo iraunkorrerako erabiltzen den nekazaritza-azaleraren proportzioa"
 2-4-E1-titulo: "Nekazaritza ekologikora bideratutako azalera (EBren sdg_02_40 adierazlea)"
-2-4-E2-titulo: "Nekazaritzaren eta abeltzaintzaren amoniako emisioak (EBren sdg_02_60 adierazlea)"
+2-4-E2-titulo: "Nekazaritzaren eta abeltzaintzaren amoniako isuriak (EBren sdg_02_60 adierazlea)"
 2-a-1-titulo: "Nekazaritzaren balio erantsia BPGren ehuneko gisa"
 2-c-1-titulo: "Elikagaien prezioen indizea"
 
@@ -131,11 +131,11 @@ OCECA-1-2-2-1A: "Pobreziako edo gizarte-bazterketako arriskuan dauden pertsonen 
 OCECA-1-a-2-1: "Hezkuntzara bideratzen den administrazio publiko autonomikoen gastuaren proportzioa"
 OCECA-1-a-2-2: "Osasungintzara bideratzen den administrazio publiko autonomikoen gastuaren proportzioa"
 OCECA-6-1-1: "Kontsumorako Uraren Informazio Sistema Nazionalari (SINAC) jakinarazitako hornidura-eremuetako pertsonen proportzioa"
-OCECA-9-4-1-5: "$CO_2$ isurketak 1990. urtearekiko"
-OCECA-9-4-1-6: "$CO_2$ isurketak 2005. urtearekiko"
+OCECA-9-4-1-5: "$CO_2$ isuriak 1990. urtearekiko"
+OCECA-9-4-1-6: "$CO_2$ isuriak 2005. urtearekiko"
 OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen proportzioa, estatuko mediana kontuan hartuta"
-OCECA-13-2-2-3: "Berotegi-efektuko gasen emisioak, 1990. urtearekiko"
-OCECA-13-2-2-4: "Berotegi-efektuko gasen emisioak, 2005. urtearekiko"
+OCECA-13-2-2-3: "Berotegi-efektuko gasen isuriak, 1990. urtearekiko"
+OCECA-13-2-2-4: "Berotegi-efektuko gasen isuriak, 2005. urtearekiko"
 
 # CONTENIDO
 
@@ -324,7 +324,7 @@ OCECA-13-2-2-4: "Berotegi-efektuko gasen emisioak, 2005. urtearekiko"
   berotegi-efektuko gasen emisioa % 30 murriztea; energia berriztagarrien kuota energiaren azken kontsumoaren % 20 izatea lortzea; eta euskal lurraldeak klima-aldaketarekiko duen erresilientzia bermatzea. 
 
 
-13-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera Per capita berotegi-efektuko gasen guztizko emisioak seriean"
+13-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera Per capita berotegi-efektuko gasen guztizko isuriak seriean"
 
 14-3-1-contenido: "<b>Nahi den norabidea:</b> Mantentzea"
 
