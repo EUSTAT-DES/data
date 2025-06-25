@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Logic (1=Yes, 0=No)",
+                "Logic (1=Yes, -1=No)",
                 ""
               ]
             },
