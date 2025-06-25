@@ -29,7 +29,8 @@ formula: |
 desagregacion: >-
   Sexo
 
-observaciones: >-
+observaciones: |
+  Los datos de 2013, 2018 y 2023 proceden de la Encuesta de Salud del Depto. de Salud del Gobierno Vasco; los de 2011 y 2017 de la Encuesta Nacional de Salud del INE; y los de 2014 y 2019 de la Encuesta Europea de Salud del INE. 
 
 periodicidad: FUENTE.FREQ_I
 

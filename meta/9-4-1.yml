@@ -12,7 +12,7 @@ definicion: >-
   Isuritako karbono dioxidoa ($CO_2$), barne-produktu gordin errealeko unitate bakoitzeko
 
 formula:  |
-  <b>$CO_2$ isurketak balio erantsiaren unitateko</b>
+  <b>$CO_2$ isuriak balio erantsiaren unitateko</b>
 
   $$PPIBECO2^{t} = \frac{ECO2^{t}}{PIB_{2022}^{t}} $$
 
@@ -24,7 +24,7 @@ formula:  |
 
    <br>
    
-   <b>$CO_2$ isurketak manufaktura-sektoreko balio erantsiaren unitateko</b>
+   <b>$CO_2$ isuriak manufaktura-sektoreko balio erantsiaren unitateko</b>
 
   $$PVABECO2_{manufaktura}^{t} = \frac{ECO2_{manufaktura}^{t}}{VAB_{manufaktura\, 2022}^{t}} $$
 
@@ -49,7 +49,7 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: | 
 
-  Balio erantsiko unitateen araberako $CO_2$ emisioen adierazleak adierazten du jarduera ekonomiko batek 
+  Balio erantsiko unitateen araberako $CO_2$ isurien adierazleak adierazten du jarduera ekonomiko batek 
   sortutako erregaien errekuntzatik sortutako emisioen kopurua, ekoizpen ekonomikoko unitateko. 
 
   Ekonomia osorako kalkulatzen denean, honako hauen efektuak uztartzen ditu: konbinazio energetikoko 

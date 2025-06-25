@@ -39,7 +39,11 @@ formula: |
   $a$ = Favored group (men, wealthier people, people living in large municipalities,
   people without health limitations)
 
-desagregacion: >- 
+desagregacion: | 
+  Age
+  
+  Sex
+  
   Province
 
 periodicidad: FUENTE.FREQ_A
