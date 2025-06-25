@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Logika (1 = Bai, 0 = Ez)",
+                "Logika (1 = Bai, -1 = Ez)",
                 ""
               ]
             },
