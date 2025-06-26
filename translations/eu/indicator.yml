@@ -105,5 +105,5 @@ comarca: Eskualdeak
 municipio: Udalerriak
 
 # Yes/No for binary-style charts and tables
-yes: Bai
-no: Ez
+affirmative: Bai
+negative: Ez
