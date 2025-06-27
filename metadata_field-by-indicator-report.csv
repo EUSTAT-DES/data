@@ -149,7 +149,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #2-4-E2,complete,progreso,,line
 #2-5-1,notstarted,notstarted,,line
 #2-5-2,notstarted,notstarted,,line
-#2-a-1,complete,noevaluado,True,line
+#2-a-1,complete,alcanzado,True,line
 #2-a-2,notstarted,notstarted,,line
 #2-b-1,notstarted,notstarted,,line
 #2-c-1,complete,progreso,,bar
