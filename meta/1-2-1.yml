@@ -60,17 +60,15 @@ justificacion_global: |
 
   Iturria: Eurostat
 
-dato_global: >-
-  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_01_20/default/table?lang=en&category=sdg.sdg_01">Gizarte-transferentzien ondoren diru-pobreziaren arriskuan dauden pertsonak - EU-SILC eta ECHP inkestak(sdg_01_20)</a> Eurostat
 
-comparabilidad: >-
-  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu. EAEko pobrezia-tasa 
-  eta sexua kalkulatzeko, autonomia-erkidegoko pobrezia-atalasea aplikatzen da. 
+dato_global: >-
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_01_20/default/table?lang=en&category=sdg.sdg_01" target="_blank" rel="noopener">Gizarte-transferentzien ondoren diru-pobreziaren arriskuan dauden pertsonak - EU-SILC eta ECHP inkestak(sdg_01_20)</a> Eurostat
 
 indicador_meta_enlace: |
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadatuak 1-2-1.pdf</a> (ingelesez bakarrik)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf" target="_blank" rel="noopener">Metadatuak 1-2-1.pdf</a> (ingelesez bakarrik)
 
-  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_20_esmsip2.htm">Metadatuak Eurostat (sdg_01_20)</a> (ingelesez bakarrik)
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_20_esmsip2.htm" target="_blank" rel="noopener">Metadatuak Eurostat (sdg_01_20)</a> (ingelesez bakarrik)
+
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''
