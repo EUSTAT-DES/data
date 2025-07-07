@@ -52,6 +52,26 @@
             "title": "Unidad"
           },
           {
+            "name": "COL2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL2"
+          },
+          {
+            "name": "COL3",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL3"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Valor"

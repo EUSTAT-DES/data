@@ -1,85 +1,97 @@
-Year,Sexua,Lurralde historikoa,Units,Value
-2023,,,%,69.7
-2017,,,%,76.0
-2020,,,%,71.8
-2019,,,%,69.5
-2014,,,%,76.4
-2018,,,%,64.0
-2022,,,%,69.2
-2020,,Araba / Álava,%,73.7
-2018,,Araba / Álava,%,64.3
-2019,,Araba / Álava,%,69.6
-2017,,Araba / Álava,%,75.2
-2023,,Araba / Álava,%,72.5
-2014,,Araba / Álava,%,76.3
-2022,,Araba / Álava,%,68.1
-2023,,Bizkaia,%,68.0
-2017,,Bizkaia,%,73.9
-2020,,Bizkaia,%,69.8
-2019,,Bizkaia,%,67.9
-2014,,Bizkaia,%,75.3
-2022,,Bizkaia,%,66.5
-2018,,Bizkaia,%,61.8
-2019,,Gipuzkoa,%,72.0
-2022,,Gipuzkoa,%,74.0
-2023,,Gipuzkoa,%,71.2
-2018,,Gipuzkoa,%,67.4
-2020,,Gipuzkoa,%,74.3
-2017,,Gipuzkoa,%,79.8
-2014,,Gipuzkoa,%,78.3
-2023,Emakumea,,%,57.0
-2019,Emakumea,,%,55.4
-2014,Emakumea,,%,65.6
-2018,Emakumea,,%,50.6
-2022,Emakumea,,%,55.4
-2017,Emakumea,,%,63.8
-2020,Emakumea,,%,60.2
-2020,Emakumea,Araba / Álava,%,62.0
-2014,Emakumea,Araba / Álava,%,66.1
-2022,Emakumea,Araba / Álava,%,54.6
-2019,Emakumea,Araba / Álava,%,56.8
-2017,Emakumea,Araba / Álava,%,62.5
-2018,Emakumea,Araba / Álava,%,53.7
-2023,Emakumea,Araba / Álava,%,58.6
-2019,Emakumea,Bizkaia,%,53.6
-2023,Emakumea,Bizkaia,%,56.1
-2022,Emakumea,Bizkaia,%,53.0
-2017,Emakumea,Bizkaia,%,60.6
-2018,Emakumea,Bizkaia,%,48.4
-2020,Emakumea,Bizkaia,%,58.0
-2014,Emakumea,Bizkaia,%,65.1
-2023,Emakumea,Gipuzkoa,%,57.7
-2022,Emakumea,Gipuzkoa,%,59.9
-2020,Emakumea,Gipuzkoa,%,62.9
-2019,Emakumea,Gipuzkoa,%,57.6
-2018,Emakumea,Gipuzkoa,%,52.7
-2017,Emakumea,Gipuzkoa,%,69.5
-2014,Emakumea,Gipuzkoa,%,66.3
-2023,Gizona,,%,83.6
-2014,Gizona,,%,87.9
-2022,Gizona,,%,84.1
-2019,Gizona,,%,84.7
-2018,Gizona,,%,78.5
-2020,Gizona,,%,84.5
-2017,Gizona,,%,89.2
-2023,Gizona,Araba / Álava,%,87.2
-2018,Gizona,Araba / Álava,%,75.5
-2017,Gizona,Araba / Álava,%,88.5
-2022,Gizona,Araba / Álava,%,82.2
-2020,Gizona,Araba / Álava,%,86.0
-2019,Gizona,Araba / Álava,%,83.2
-2014,Gizona,Araba / Álava,%,86.8
-2023,Gizona,Bizkaia,%,81.2
-2022,Gizona,Bizkaia,%,81.6
-2020,Gizona,Bizkaia,%,82.7
-2019,Gizona,Bizkaia,%,83.5
-2018,Gizona,Bizkaia,%,76.5
-2017,Gizona,Bizkaia,%,88.6
-2014,Gizona,Bizkaia,%,86.4
-2020,Gizona,Gipuzkoa,%,86.5
-2019,Gizona,Gipuzkoa,%,87.3
-2018,Gizona,Gipuzkoa,%,83.0
-2017,Gizona,Gipuzkoa,%,90.7
-2014,Gizona,Gipuzkoa,%,90.9
-2023,Gizona,Gipuzkoa,%,85.6
-2022,Gizona,Gipuzkoa,%,88.7
+Year,Sexua,Lurralde historikoa,Units,COL2,COL3,Value
+2024,,,%,,,69.1
+2017,,,%,,,76.0
+2022,,,%,,,69.2
+2014,,,%,,,76.4
+2018,,,%,,,64.0
+2020,,,%,,,71.8
+2019,,,%,,,69.5
+2023,,,%,,,69.7
+2019,,Araba / Álava,%,,,69.6
+2018,,Araba / Álava,%,,,64.3
+2022,,Araba / Álava,%,,,67.9
+2023,,Araba / Álava,%,,,72.5
+2020,,Araba / Álava,%,,,73.7
+2024,,Araba / Álava,%,,,68.6
+2014,,Araba / Álava,%,,,76.3
+2017,,Araba / Álava,%,,,75.2
+2024,,Bizkaia,%,,,68.0
+2022,,Bizkaia,%,,,66.6
+2014,,Bizkaia,%,,,75.3
+2020,,Bizkaia,%,,,69.8
+2018,,Bizkaia,%,,,61.8
+2017,,Bizkaia,%,,,73.9
+2019,,Bizkaia,%,,,67.8
+2023,,Bizkaia,%,,,68.0
+2017,,Gipuzkoa,%,,,79.8
+2019,,Gipuzkoa,%,,,72.0
+2018,,Gipuzkoa,%,,,67.4
+2023,,Gipuzkoa,%,,,71.2
+2024,,Gipuzkoa,%,,,71.0
+2020,,Gipuzkoa,%,,,74.3
+2014,,Gipuzkoa,%,,,78.3
+2022,,Gipuzkoa,%,,,73.9
+2024,Emakumea,,%,,,57.5
+2017,Emakumea,,%,,,63.8
+2018,Emakumea,,%,,,50.6
+2022,Emakumea,,%,,,55.4
+2019,Emakumea,,%,,,55.4
+2023,Emakumea,,%,,,57.0
+2020,Emakumea,,%,,,60.1
+2014,Emakumea,,%,,,65.6
+2024,Emakumea,Araba / Álava,%,,,52.9
+2023,Emakumea,Araba / Álava,%,,,58.6
+2022,Emakumea,Araba / Álava,%,,,54.2
+2020,Emakumea,Araba / Álava,%,,,62.0
+2017,Emakumea,Araba / Álava,%,,,62.5
+2019,Emakumea,Araba / Álava,%,,,56.8
+2018,Emakumea,Araba / Álava,%,,,53.7
+2014,Emakumea,Araba / Álava,%,,,66.1
+2024,Emakumea,Bizkaia,%,,,57.4
+2022,Emakumea,Bizkaia,%,,,53.0
+2019,Emakumea,Bizkaia,%,,,53.6
+2018,Emakumea,Bizkaia,%,,,48.4
+2020,Emakumea,Bizkaia,%,,,58.0
+2017,Emakumea,Bizkaia,%,,,60.6
+2014,Emakumea,Bizkaia,%,,,65.1
+2023,Emakumea,Bizkaia,%,,,56.1
+2024,Emakumea,Gipuzkoa,%,,,59.7
+2023,Emakumea,Gipuzkoa,%,,,57.7
+2020,Emakumea,Gipuzkoa,%,,,62.9
+2019,Emakumea,Gipuzkoa,%,,,57.6
+2018,Emakumea,Gipuzkoa,%,,,52.7
+2017,Emakumea,Gipuzkoa,%,,,69.5
+2014,Emakumea,Gipuzkoa,%,,,66.3
+2022,Emakumea,Gipuzkoa,%,,,59.9
+2018,Gizona,,%,,,78.5
+2022,Gizona,,%,,,84.1
+2020,Gizona,,%,,,84.5
+2014,Gizona,,%,,,87.9
+2019,Gizona,,%,,,84.7
+2024,Gizona,,%,,,81.7
+2023,Gizona,,%,,,83.6
+2017,Gizona,,%,,,89.2
+2024,Gizona,Araba / Álava,%,,,85.3
+2023,Gizona,Araba / Álava,%,,,87.2
+2019,Gizona,Araba / Álava,%,,,83.2
+2018,Gizona,Araba / Álava,%,,,75.5
+2020,Gizona,Araba / Álava,%,,,86.0
+2014,Gizona,Araba / Álava,%,,,86.8
+2017,Gizona,Araba / Álava,%,,,88.5
+2022,Gizona,Araba / Álava,%,,,82.4
+2024,Gizona,Bizkaia,%,,,79.7
+2023,Gizona,Bizkaia,%,,,81.2
+2022,Gizona,Bizkaia,%,,,81.5
+2020,Gizona,Bizkaia,%,,,82.7
+2019,Gizona,Bizkaia,%,,,83.5
+2018,Gizona,Bizkaia,%,,,76.5
+2017,Gizona,Bizkaia,%,,,88.5
+2014,Gizona,Bizkaia,%,,,86.4
+2018,Gizona,Gipuzkoa,%,,,83.0
+2017,Gizona,Gipuzkoa,%,,,90.7
+2014,Gizona,Gipuzkoa,%,,,90.9
+2024,Gizona,Gipuzkoa,%,,,83.1
+2023,Gizona,Gipuzkoa,%,,,85.6
+2022,Gizona,Gipuzkoa,%,,,88.9
+2020,Gizona,Gipuzkoa,%,,,86.5
+2019,Gizona,Gipuzkoa,%,,,87.3
