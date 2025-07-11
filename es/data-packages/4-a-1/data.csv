@@ -1,64 +1,67 @@
-Year,Servicios básicos,Units,Value
-2011,Electricidad,%,100.0
-2016,Electricidad,%,100.0
-2021,Electricidad,%,100.0
-2022,Electricidad,%,100.0
-2017,Electricidad,%,100.0
-2010,Electricidad,%,100.0
-2014,Electricidad,%,100.0
-2013,Electricidad,%,100.0
-2015,Electricidad,%,100.0
-2012,Electricidad,%,100.0
-2023,Electricidad,%,100.0
-2018,Electricidad,%,100.0
-2020,Electricidad,%,100.0
-2019,Electricidad,%,100.0
-2021,Conexión a internet,%,98.1
-2015,Conexión a internet,%,100.0
-2013,Conexión a internet,%,92.2
-2019,Conexión a internet,%,96.8
-2014,Conexión a internet,%,93.1
-2011,Conexión a internet,%,83.5
-2012,Conexión a internet,%,89.7
-2017,Agua potable,%,100.0
-2014,Agua potable,%,100.0
-2018,Agua potable,%,100.0
-2015,Agua potable,%,100.0
-2016,Agua potable,%,100.0
-2012,Agua potable,%,100.0
-2019,Agua potable,%,100.0
-2013,Agua potable,%,100.0
-2010,Agua potable,%,100.0
-2011,Agua potable,%,100.0
-2020,Agua potable,%,100.0
-2021,Agua potable,%,100.0
-2022,Agua potable,%,100.0
-2023,Agua potable,%,100.0
-2011,Baños separados por sexo,%,100.0
-2012,Baños separados por sexo,%,100.0
-2013,Baños separados por sexo,%,100.0
-2015,Baños separados por sexo,%,100.0
-2023,Baños separados por sexo,%,100.0
-2019,Baños separados por sexo,%,100.0
-2017,Baños separados por sexo,%,100.0
-2018,Baños separados por sexo,%,100.0
-2020,Baños separados por sexo,%,100.0
-2021,Baños separados por sexo,%,100.0
-2022,Baños separados por sexo,%,100.0
-2016,Baños separados por sexo,%,100.0
-2014,Baños separados por sexo,%,100.0
-2010,Baños separados por sexo,%,100.0
-2010,Lavado de manos,%,100.0
-2011,Lavado de manos,%,100.0
-2012,Lavado de manos,%,100.0
-2013,Lavado de manos,%,100.0
-2014,Lavado de manos,%,100.0
-2015,Lavado de manos,%,100.0
-2016,Lavado de manos,%,100.0
-2017,Lavado de manos,%,100.0
-2021,Lavado de manos,%,100.0
-2018,Lavado de manos,%,100.0
-2019,Lavado de manos,%,100.0
-2020,Lavado de manos,%,100.0
-2022,Lavado de manos,%,100.0
-2023,Lavado de manos,%,100.0
+Year,Servicios básicos,Units,_NAME_,Value
+2010,Electricidad,%,2010,100.0
+2022,Electricidad,%,2022,100.0
+2017,Electricidad,%,2017,100.0
+2014,Electricidad,%,2014,100.0
+2015,Electricidad,%,2015,100.0
+2023,Electricidad,%,2023,100.0
+2018,Electricidad,%,2018,100.0
+2013,Electricidad,%,2013,100.0
+2016,Electricidad,%,2016,100.0
+2019,Electricidad,%,2019,100.0
+2020,Electricidad,%,2020,100.0
+2011,Electricidad,%,2011,100.0
+2021,Electricidad,%,2021,100.0
+2012,Electricidad,%,2012,100.0
+2011,Conexión a internet,%,2011,99.8
+2015,Conexión a internet,%,2015,99.8
+2021,Conexión a internet,%,2021,100.0
+2012,Conexión a internet,%,2012,99.8
+2017,Conexión a internet,%,2017,100.0
+2019,Conexión a internet,%,2019,99.9
+2023,Conexión a internet,%,2023,99.9
+2013,Conexión a internet,%,2013,99.5
+2016,Conexión a internet,%,2016,99.9
+2014,Conexión a internet,%,2014,99.8
+2020,Baños separados por sexo,%,2020,100.0
+2014,Baños separados por sexo,%,2014,100.0
+2016,Baños separados por sexo,%,2016,100.0
+2018,Baños separados por sexo,%,2018,100.0
+2019,Baños separados por sexo,%,2019,100.0
+2017,Baños separados por sexo,%,2017,100.0
+2015,Baños separados por sexo,%,2015,100.0
+2012,Baños separados por sexo,%,2012,100.0
+2011,Baños separados por sexo,%,2011,100.0
+2010,Baños separados por sexo,%,2010,100.0
+2013,Baños separados por sexo,%,2013,100.0
+2021,Baños separados por sexo,%,2021,100.0
+2022,Baños separados por sexo,%,2022,100.0
+2023,Baños separados por sexo,%,2023,100.0
+2010,Agua potable,%,2010,100.0
+2016,Agua potable,%,2016,100.0
+2011,Agua potable,%,2011,100.0
+2012,Agua potable,%,2012,100.0
+2013,Agua potable,%,2013,100.0
+2014,Agua potable,%,2014,100.0
+2015,Agua potable,%,2015,100.0
+2017,Agua potable,%,2017,100.0
+2018,Agua potable,%,2018,100.0
+2019,Agua potable,%,2019,100.0
+2020,Agua potable,%,2020,100.0
+2021,Agua potable,%,2021,100.0
+2022,Agua potable,%,2022,100.0
+2023,Agua potable,%,2023,100.0
+2010,Lavado de manos,%,2010,100.0
+2011,Lavado de manos,%,2011,100.0
+2012,Lavado de manos,%,2012,100.0
+2013,Lavado de manos,%,2013,100.0
+2014,Lavado de manos,%,2014,100.0
+2015,Lavado de manos,%,2015,100.0
+2016,Lavado de manos,%,2016,100.0
+2017,Lavado de manos,%,2017,100.0
+2018,Lavado de manos,%,2018,100.0
+2019,Lavado de manos,%,2019,100.0
+2020,Lavado de manos,%,2020,100.0
+2021,Lavado de manos,%,2021,100.0
+2022,Lavado de manos,%,2022,100.0
+2023,Lavado de manos,%,2023,100.0

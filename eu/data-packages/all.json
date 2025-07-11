@@ -10868,8 +10868,8 @@
               "enum": [
                 "Elektrizitatea",
                 "Interneterako konexioa",
-                "Edateko ura",
                 "Bainuak sexuaren arabera bereizita",
+                "Edateko ura",
                 "Eskuak garbitzeko lekua",
                 ""
               ]
@@ -10886,6 +10886,30 @@
               ]
             },
             "title": "Unitatea"
+          },
+          {
+            "name": "_NAME_",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2010",
+                "2022",
+                "2017",
+                "2014",
+                "2015",
+                "2023",
+                "2018",
+                "2013",
+                "2016",
+                "2019",
+                "2020",
+                "2011",
+                "2021",
+                "2012",
+                ""
+              ]
+            },
+            "title": "_NAME_"
           },
           {
             "name": "Value",

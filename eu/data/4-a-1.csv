@@ -1,64 +1,67 @@
-Year,Oinarrizko zerbitzuak,Units,Value
-2011,Elektrizitatea,%,100.0
-2016,Elektrizitatea,%,100.0
-2021,Elektrizitatea,%,100.0
-2022,Elektrizitatea,%,100.0
-2017,Elektrizitatea,%,100.0
-2010,Elektrizitatea,%,100.0
-2014,Elektrizitatea,%,100.0
-2013,Elektrizitatea,%,100.0
-2015,Elektrizitatea,%,100.0
-2012,Elektrizitatea,%,100.0
-2023,Elektrizitatea,%,100.0
-2018,Elektrizitatea,%,100.0
-2020,Elektrizitatea,%,100.0
-2019,Elektrizitatea,%,100.0
-2021,Interneterako konexioa,%,98.1
-2015,Interneterako konexioa,%,100.0
-2013,Interneterako konexioa,%,92.2
-2019,Interneterako konexioa,%,96.8
-2014,Interneterako konexioa,%,93.1
-2011,Interneterako konexioa,%,83.5
-2012,Interneterako konexioa,%,89.7
-2017,Edateko ura,%,100.0
-2014,Edateko ura,%,100.0
-2018,Edateko ura,%,100.0
-2015,Edateko ura,%,100.0
-2016,Edateko ura,%,100.0
-2012,Edateko ura,%,100.0
-2019,Edateko ura,%,100.0
-2013,Edateko ura,%,100.0
-2010,Edateko ura,%,100.0
-2011,Edateko ura,%,100.0
-2020,Edateko ura,%,100.0
-2021,Edateko ura,%,100.0
-2022,Edateko ura,%,100.0
-2023,Edateko ura,%,100.0
-2011,Bainuak sexuaren arabera bereizita,%,100.0
-2012,Bainuak sexuaren arabera bereizita,%,100.0
-2013,Bainuak sexuaren arabera bereizita,%,100.0
-2015,Bainuak sexuaren arabera bereizita,%,100.0
-2023,Bainuak sexuaren arabera bereizita,%,100.0
-2019,Bainuak sexuaren arabera bereizita,%,100.0
-2017,Bainuak sexuaren arabera bereizita,%,100.0
-2018,Bainuak sexuaren arabera bereizita,%,100.0
-2020,Bainuak sexuaren arabera bereizita,%,100.0
-2021,Bainuak sexuaren arabera bereizita,%,100.0
-2022,Bainuak sexuaren arabera bereizita,%,100.0
-2016,Bainuak sexuaren arabera bereizita,%,100.0
-2014,Bainuak sexuaren arabera bereizita,%,100.0
-2010,Bainuak sexuaren arabera bereizita,%,100.0
-2010,Eskuak garbitzeko lekua,%,100.0
-2011,Eskuak garbitzeko lekua,%,100.0
-2012,Eskuak garbitzeko lekua,%,100.0
-2013,Eskuak garbitzeko lekua,%,100.0
-2014,Eskuak garbitzeko lekua,%,100.0
-2015,Eskuak garbitzeko lekua,%,100.0
-2016,Eskuak garbitzeko lekua,%,100.0
-2017,Eskuak garbitzeko lekua,%,100.0
-2021,Eskuak garbitzeko lekua,%,100.0
-2018,Eskuak garbitzeko lekua,%,100.0
-2019,Eskuak garbitzeko lekua,%,100.0
-2020,Eskuak garbitzeko lekua,%,100.0
-2022,Eskuak garbitzeko lekua,%,100.0
-2023,Eskuak garbitzeko lekua,%,100.0
+Year,Oinarrizko zerbitzuak,Units,_NAME_,Value
+2010,Elektrizitatea,%,2010,100.0
+2022,Elektrizitatea,%,2022,100.0
+2017,Elektrizitatea,%,2017,100.0
+2014,Elektrizitatea,%,2014,100.0
+2015,Elektrizitatea,%,2015,100.0
+2023,Elektrizitatea,%,2023,100.0
+2018,Elektrizitatea,%,2018,100.0
+2013,Elektrizitatea,%,2013,100.0
+2016,Elektrizitatea,%,2016,100.0
+2019,Elektrizitatea,%,2019,100.0
+2020,Elektrizitatea,%,2020,100.0
+2011,Elektrizitatea,%,2011,100.0
+2021,Elektrizitatea,%,2021,100.0
+2012,Elektrizitatea,%,2012,100.0
+2011,Interneterako konexioa,%,2011,99.8
+2015,Interneterako konexioa,%,2015,99.8
+2021,Interneterako konexioa,%,2021,100.0
+2012,Interneterako konexioa,%,2012,99.8
+2017,Interneterako konexioa,%,2017,100.0
+2019,Interneterako konexioa,%,2019,99.9
+2023,Interneterako konexioa,%,2023,99.9
+2013,Interneterako konexioa,%,2013,99.5
+2016,Interneterako konexioa,%,2016,99.9
+2014,Interneterako konexioa,%,2014,99.8
+2020,Bainuak sexuaren arabera bereizita,%,2020,100.0
+2014,Bainuak sexuaren arabera bereizita,%,2014,100.0
+2016,Bainuak sexuaren arabera bereizita,%,2016,100.0
+2018,Bainuak sexuaren arabera bereizita,%,2018,100.0
+2019,Bainuak sexuaren arabera bereizita,%,2019,100.0
+2017,Bainuak sexuaren arabera bereizita,%,2017,100.0
+2015,Bainuak sexuaren arabera bereizita,%,2015,100.0
+2012,Bainuak sexuaren arabera bereizita,%,2012,100.0
+2011,Bainuak sexuaren arabera bereizita,%,2011,100.0
+2010,Bainuak sexuaren arabera bereizita,%,2010,100.0
+2013,Bainuak sexuaren arabera bereizita,%,2013,100.0
+2021,Bainuak sexuaren arabera bereizita,%,2021,100.0
+2022,Bainuak sexuaren arabera bereizita,%,2022,100.0
+2023,Bainuak sexuaren arabera bereizita,%,2023,100.0
+2010,Edateko ura,%,2010,100.0
+2016,Edateko ura,%,2016,100.0
+2011,Edateko ura,%,2011,100.0
+2012,Edateko ura,%,2012,100.0
+2013,Edateko ura,%,2013,100.0
+2014,Edateko ura,%,2014,100.0
+2015,Edateko ura,%,2015,100.0
+2017,Edateko ura,%,2017,100.0
+2018,Edateko ura,%,2018,100.0
+2019,Edateko ura,%,2019,100.0
+2020,Edateko ura,%,2020,100.0
+2021,Edateko ura,%,2021,100.0
+2022,Edateko ura,%,2022,100.0
+2023,Edateko ura,%,2023,100.0
+2010,Eskuak garbitzeko lekua,%,2010,100.0
+2011,Eskuak garbitzeko lekua,%,2011,100.0
+2012,Eskuak garbitzeko lekua,%,2012,100.0
+2013,Eskuak garbitzeko lekua,%,2013,100.0
+2014,Eskuak garbitzeko lekua,%,2014,100.0
+2015,Eskuak garbitzeko lekua,%,2015,100.0
+2016,Eskuak garbitzeko lekua,%,2016,100.0
+2017,Eskuak garbitzeko lekua,%,2017,100.0
+2018,Eskuak garbitzeko lekua,%,2018,100.0
+2019,Eskuak garbitzeko lekua,%,2019,100.0
+2020,Eskuak garbitzeko lekua,%,2020,100.0
+2021,Eskuak garbitzeko lekua,%,2021,100.0
+2022,Eskuak garbitzeko lekua,%,2022,100.0
+2023,Eskuak garbitzeko lekua,%,2023,100.0
