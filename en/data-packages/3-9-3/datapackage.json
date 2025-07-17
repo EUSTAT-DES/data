@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Death rate attributed to unintentional poisoning.",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {

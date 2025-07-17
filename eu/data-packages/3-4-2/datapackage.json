@@ -16,17 +16,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bere buruaz beste egiteagatiko heriotza-tasa",
-                ""
-              ]
-            },
-            "title": "Seriea"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {

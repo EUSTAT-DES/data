@@ -16,17 +16,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Zirkulazio-istripuek eragindako lesioen ondoriozko heriotza-tasa",
-                ""
-              ]
-            },
-            "title": "Seriea"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {

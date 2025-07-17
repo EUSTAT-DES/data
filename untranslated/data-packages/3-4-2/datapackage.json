@@ -15,16 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_STA_SCIDE",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {

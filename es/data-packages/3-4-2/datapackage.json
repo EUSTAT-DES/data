@@ -16,17 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tasa de mortalidad por suicidio",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {

@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Injury mortality rate due to traffic accidents.",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {

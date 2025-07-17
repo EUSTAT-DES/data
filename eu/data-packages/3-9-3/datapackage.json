@@ -16,17 +16,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nahi gabeko intoxikazioei egotzitako heriotza-tasa",
-                ""
-              ]
-            },
-            "title": "Seriea"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {

@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Suicide mortality rate.",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {
