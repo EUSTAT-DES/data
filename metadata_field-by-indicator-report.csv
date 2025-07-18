@@ -168,14 +168,14 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #3-4-E2,complete,noevaluado,,line
 #3-5-1,complete,noevaluado,,line
 #3-5-2,complete,retroceso,,line
-#3-6-1,complete,retroceso,,line
+#3-6-1,complete,progreso,,line
 #3-7-1,complete,noevaluado,,bar
 #3-7-2,complete,alcanzado,,line
 #3-8-1,complete,alcanzado,,line
 #3-8-2,complete,retroceso,,line
 #3-9-1,notstarted,notstarted,,line
 #3-9-2,notstarted,notstarted,,line
-#3-9-3,complete,retroceso,,line
+#3-9-3,complete,alcanzado,,line
 #3-a-1,complete,alcanzado,,bar
 #3-b-1,complete,retroceso,,line
 #3-b-2,notstarted,notstarted,,line
