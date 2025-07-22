@@ -9,7 +9,7 @@ meta_global: meta_largo.4-1-titulo
 
 
 definicion: >-
-  Porcentaje de población que ha completado como máximo la primera etapa de la educación 
+  Porcentaje de la población que ha completado como máximo la primera etapa de la educación 
   secundaria y no sigue ningún estudio o formación
 
 formula: |
@@ -36,11 +36,44 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global:
+justificacion_global: |
 
-dato_global:
+  El indicador se utiliza para supervisar el progreso hacia el ODS 4 sobre educación de calidad y el ODS 5 
+  sobre igualdad de género, que están integrados en las Prioridades de la Comisión Europea bajo el título 
+  "Apoyar a las personas, fortalecer nuestras sociedades y nuestro modelo social" y "Un nuevo plan para la 
+  prosperidad y la competitividad sostenibles de Europa". 
 
-comparabilidad: 
+  El 26 de febrero de 2021, el Consejo de la Unión Europea adoptó la Resolución sobre un marco estratégico 
+  para la cooperación europea en materia de educación y formación con miras al Espacio Europeo de Educación 
+  y más allá (2021-2030). Este marco aborda cinco prioridades estratégicas: (1) Mejorar la calidad, la equidad, 
+  la inclusión y el éxito de todos en la educación y la formación; (2) Hacer realidad el aprendizaje permanente 
+  y la movilidad para todos; (3) Mejorar las competencias y la motivación en la profesión educativa; (4) Reforzar 
+  la educación superior europea; y (5) Apoyar las transiciones ecológica y digital en y a través de la educación 
+  y la formación. 
 
-indicador_meta_enlace:
+  La Resolución del Consejo establece el objetivo a nivel de la UE de que la proporción de personas que abandonan 
+  prematuramente la educación y la formación, medida según este indicador de los ODS, sea inferior al 9 % para 
+  2030. Además, el indicador se incluye como indicador principal en el Cuadro de Indicadores Sociales del Pilar 
+  Europeo de Derechos Sociales. 
+
+  La educación y la formación son motores clave del crecimiento y el empleo, ya que contribuyen a mejorar la 
+  empleabilidad, la productividad, la innovación y la competitividad. Continuar la educación después del nivel 
+  básico es importante porque las personas con mayor cualificación tienen más probabilidades de encontrar empleo 
+  y menos probabilidades de enfrentarse a la pobreza en una economía basada en el conocimiento. Las personas con 
+  un bajo nivel educativo no solo pueden enfrentar mayores dificultades en el mercado laboral, sino también un 
+  mayor riesgo de pobreza y exclusión social. 
+
+  
+  Fuente: Eurostat 
+
+
+dato_global: >-
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_04_10/default/table?lang=en&category=sdg.sdg_04">Abandono escolar prematuro por sexo (%) (sdg_04_10)</a> Eurostat
+
+comparabilidad: |
+  El indicador disponible es comparable con el indicador europeo.
+
+indicador_meta_enlace: |
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_04_10_esmsip2.htm">Metadatos Eurostat (sdg_04_10)</a> (solo en inglés) 
+
 
