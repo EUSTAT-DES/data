@@ -128,7 +128,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #17-19-1,notstarted,notstarted,,line
 #17-19-2,complete,alcanzado,,binary
 #17-2-1,complete,progreso,,line
-#17-3-1,complete,progreso,,line
+#17-3-1,complete,retroceso,,line
 #17-3-2,complete,noevaluado,,line
 #17-4-1,notstarted,notstarted,,line
 #17-5-1,notstarted,notstarted,,line
