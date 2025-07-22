@@ -2965,10 +2965,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Genero-parekotasunaren indizea",
-                "Diru-sarreren parekotasun-indizea (goiko eta beheko kintilak)",
-                "Paritate-indizea kokapenean (10.000 biztanletik gorako eta beherako udalerriak)",
-                "Parekotasun-indizea osasunean",
+                "Genero-parekotasunaren indizea hezkuntza-jarduerak egitean",
+                "Diru-sarrera parekotasunaren indizea hezkuntza-jarduerak egitean (goiko eta beheko kintilak)",
+                "Bizileku-parekotasunaren indizea hezkuntza-jarduerak egitean (10.000 biztanletik gorako eta beherako udalerriak)",
+                "Osasun-parekotasunaren indizea hezkuntza-jarduerak egitean",
                 ""
               ]
             },
