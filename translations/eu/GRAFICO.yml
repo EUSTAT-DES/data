@@ -35,7 +35,7 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 3-a-1-titulo: "Egunero erretzen duten 15 urte eta gehiagoko pertsonen proportzioa"
 
 4-1-1-titulo: "Irakurtzeko eta matematikarako gutxienez 2. gaitasun-maila lortu duten 15 urteko pertsonen proportzioa"
-4-1-E1-titulo: "18-24 urteko biztanleen eskola-uzte goiztiarraren tasa"
+4-1-E1-titulo: "18-24 urteko biztanleen eskola-uzte goiztiarraren tasa (EBren sdg_04_10 adierazlea)"
 4-1-2-titulo: "Amaiera-tasa (beheko bigarren hezkuntza eta goi-mailako bigarren hezkuntza)"
 4-2-2-titulo: "5 urtekoen eskolatze-tasa garbia"
 4-3-1-titulo: "Gazteek eta helduek hezkuntza eta prestakuntza akademikoan eta ez-akademikoan duten parte-hartzearen tasa, sexuaren arabera banatuta"
@@ -80,7 +80,7 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 11-6-1-titulo: "Bildutako hiri-hondakinak, per capita, eta tratatutako hondakinen proportzioa, tratamendu-motaren arabera"
 11-6-2-titulo: "Hirietako partikula fin esekien (PM2.5 eta PM10) urteko batez besteko mailak (populazioaren arabera haztatuak)"
 11-7-1-titulo: "Erabilera publikoko espazio irekietarako erabiltzen den hirien azalera eraikiaren batez besteko proportzioa"
-11-7-2-titulo: "Azken 12 hilabeteetan sexuala edo ez sexuala den jazarpenaren biktima izan diren pertsonen kopurua 100.000 biztanleko"
+11-7-2-titulo: "Azken 12 hilabeteetan jazarpen sexual edo ez sexualaren biktima izan diren pertsonen kopurua 100.000 biztanleko"
 11-a-1-titulo: "Plan Orokorra edo Arau Subsidiarioak edo antzeko figurak dituzten usalerrietako biztanleriaren proportzioa"
 
 
@@ -161,6 +161,7 @@ OCECA-13-2-2-4: "Berotegi-efektuko gasen isuriak, 2005. urtearekiko"
 1-a-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
 2-1-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+2-1-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 2-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 2-2-E1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 2-3-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
@@ -203,7 +204,7 @@ OCECA-13-2-2-4: "Berotegi-efektuko gasen isuriak, 2005. urtearekiko"
 4-3-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 4-4-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
-4-5-1-contenido: "Hezkuntza-adierazlea neurtzen da: hezkuntza-jarduerak egitea (formalak edo ez-formalak). <b>Nahi den norabidea:</b> Adierazlearen balioa=1"
+4-5-1-contenido: "Ondoko adierazlea neurtzen da: hezkuntza-jarduerak egitea (formalak edo ez-formalak). <b>Nahi den norabidea:</b> Adierazlearen balioa=1"
 4-6-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 4-a-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 4-c-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
@@ -222,6 +223,7 @@ OCECA-13-2-2-4: "Berotegi-efektuko gasen isuriak, 2005. urtearekiko"
 
 6-1-1-contenido: "Banatutako uraren kalitatea, kutsatzaileen gehieneko mailak eta analisien gutxieneko maiztasuna Europar Batasunaren esparruan ezarri dira (EB 2020/2184 Zuzentaraua), eta Espainiako legeriara ekarri dira (3/2023 Errege Dekretua). Hornidura-sistemak, hala nola uraren kalitatea, estu zaintzen dituzte hornikuntzen titularrek, kontrol- eta zaintza-unitateen (KZU) eta Osasun Sailaren bitartez"
 6-2-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+6-3-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 6-3-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 6-4-2-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
 6-5-2-contenido: "Ibaien eta lakuen kudeaketa integratua arro hidrografiko osoetarako nazioarteko batzordeetan antolatzen da, mugaz gaindiko uren kasuan.
@@ -282,6 +284,8 @@ OCECA-13-2-2-4: "Berotegi-efektuko gasen isuriak, 2005. urtearekiko"
 11-5-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 11-6-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 11-6-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+11-7-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+11-7-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 11-a-1-contenido:  |
   <a href="https://www.euskadi.eus/lurralde-antolamenduaren-gidalerroak-lag/web01-a3lurral/eu/">
   Lurralde Antolamenduaren Gidalerroek</a> EAEko udalerrietako plangintzaren bizitegi-kuantifikazioari buruzko irizpideak ematen dituzte, biztanleria egoiliarraren aldakuntza, familiaren batez besteko tamainaren aldaketa edo etxebizitza-eskaera kontuan hartuta. 
@@ -327,8 +331,10 @@ OCECA-13-2-2-4: "Berotegi-efektuko gasen isuriak, 2005. urtearekiko"
 13-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera Per capita berotegi-efektuko gasen guztizko isuriak seriean"
 
 14-3-1-contenido: "<b>Nahi den norabidea:</b> Mantentzea"
+14-5-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
 15-1-1-contenido: "<b>Nahi den norabidea:</b> Mantentzea edo igoera"
+15-1-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 15-1-E1-contenido: "<b>Nahi den norabidea:</b> Mantentzea edo igoera"
 15-2-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 15-3-1-contenido: "<b>Nahi den norabidea:</b> Igoera"

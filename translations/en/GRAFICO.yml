@@ -35,7 +35,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 3-a-1-titulo: "Proportion of people aged 15 and over who smoke daily"
 
 4-1-1-titulo: "Proportion of 15-year-olds who have achieved at least level 2 proficiency in reading and mathematics"
-4-1-E1-titulo: "Early school leaving rate of the 18-24 age group"
+4-1-E1-titulo: "Early school leaving rate of the 18-24 age group (EU indicator sdg_04_10)"
 4-1-2-titulo: "Completion rate (lower secondary education and upper secondary education)"
 4-2-2-titulo: "Net school enrollment rate at age 5"
 4-3-1-titulo: "Participation rate of young people and adults in formal and non-formal education and training, by sex"
@@ -153,9 +153,10 @@ OCECA-13-2-2-4: Greenhouse gas emissions compared to 2005
   
   <a href="https://www.euskadi.eus/dokumentazioa/2015/2050erako-klima-aldaketaren-euskadiko-estrategia/web01-a2ingkli/eu/" target="_blank">  Climate Change Strategy of the Basque Country to 2050</a>: It includes as long-term objectives the reduction of greenhouse gas emissions by 80% by 2050, as well as increasing the resilience of the Basque territory to face the expected effects of climate change.
 1-5-4-contenido: "In the Basque Country, there is one regional emergency plan and three provincial emergency plans, one for each province. Therefore, 100% of municipalities are under the umbrella of a provincial emergency plan."
-
+1-a-2-contenido: "<b>Desired direction:</b> Increase"
 
 2-1-1-contenido: "<b>Desired direction:</b> Decrease"
+2-1-2-contenido: "<b>Desired direction:</b> Decrease"
 2-2-2-contenido: "<b>Desired direction:</b> Decrease"
 2-2-E1-contenido: "<b>Desired direction:</b> Decrease"
 2-3-1-contenido: "<b>Target:</b> Double agricultural productivity and the income of small food producers"
@@ -272,6 +273,8 @@ OCECA-13-2-2-4: Greenhouse gas emissions compared to 2005
 11-5-2-contenido: "<b>Desired direction:</b> Decrease"
 11-6-1-contenido: "<b>Desired direction:</b> Increase"
 11-6-2-contenido: "<b>Desired direction:</b> Decrease"
+11-7-1-contenido: "<b>Desired direction:</b> Increase"
+11-7-2-contenido: "<b>Desired direction:</b> Decrease"
 11-a-1-contenido:  |
   The <a href="https://www.euskadi.eus/directrices-de-ordenacion-territorial-dot/web01-a3lurral/es/">Territorial Planning Guidelines</a> provide criteria for the quantification of residential planning in Basque municipalities, taking into account the changes in the resident population, the average family size, and the housing demand. 
   
@@ -317,8 +320,10 @@ OCECA-13-2-2-4: Greenhouse gas emissions compared to 2005
 13-2-2-contenido: "<b>Desired direction:</b> Decrease in the series total greenhouse gas emissions"
 
 14-3-1-contenido: "<b>Desired direction:</b> Sustainment"
+14-5-1-contenido: "<b>Desired direction:</b> Increase"
 
 15-1-1-contenido: "<b>Desired direction:</b> Sustainment o increase"
+15-1-2-contenido: "<b>Desired direction:</b> Increase"
 15-1-E1-contenido: "<b>Desired direction:</b> Sustainment o increase"
 15-2-1-contenido: "<b>Desired direction:</b> Increase"
 15-3-1-contenido: "<b>Desired direction:</b> Increase"

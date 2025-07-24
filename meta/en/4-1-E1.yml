@@ -36,12 +36,40 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global:
+justificacion_global: |
 
-dato_global:
+  The indicator is used to monitor progress towards SDG 4 on quality education and SDG 5 on gender equality, 
+  which are embedded in the European Commission’s Priorities under "Supporting people, strengthening our 
+  societies and our social model" and "A new plan for Europe's sustainable prosperity and competitiveness". 
 
-comparabilidad: 
+  The Council of the European Union on 26 February 2021 adopted the Resolution on a strategic framework for 
+  European cooperation in education and training towards the European Education Area and beyond (2021–2030), 
+  a framework that addresses five strategic priorities: (1) Improving quality, equity, inclusion and success 
+  for all in education and training; (2) Making lifelong learning and mobility a reality for all; (3) Enhancing 
+  competences and motivation in the education profession; (4) Reinforcing European higher education; and 
+  (5) Supporting green and digital transitions in and through education and training. 
 
-indicador_meta_enlace:
+  The Council Resolution sets the EU-level target for the share of early leavers from education and training 
+  as measured by this SDG indicator to be less than 9% by 2030. Furthermore, the indicator is included as 
+  main indicator in the Social Scoreboard for the European Pillar of Social Rights. 
+
+  Education and training are key drivers for growth and jobs as they help to improve employability, productivity, 
+  innovation and competitiveness. Continuing education after the basic level is important because people with 
+  higher qualifications are more likely to be employed and less likely to face poverty in a knowledge-based 
+  economy. People with a low level of education may not only face greater difficulties in the labour market but 
+  also have a higher risk of poverty and social exclusion. 
+
+
+  Source: Eurostat 
+
+dato_global: >-
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_04_10/default/table?lang=en&category=sdg.sdg_04">Early leavers from education and training by sex (%) (sdg_04_10)</a> Eurostat
+
+comparabilidad: |
+
+  The available indicator is comparable with the European indicator.
+
+indicador_meta_enlace: |
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_04_10_esmsip2.htm">Metadata Eurostat (sdg_04_10)</a> 
 
 

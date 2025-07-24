@@ -10,7 +10,7 @@ meta_global: meta_largo.4-1-titulo
 
 definicion: >-
   Gehienez bigarren hezkuntzako lehen zikloa amaitu eta ikasketarik edo prestakuntzarik 
-  egiten ari ez den biztanleen ehunekoa
+  egiten ari ez den biztanleriaren ehunekoa
 
 formula: |
 
@@ -25,7 +25,7 @@ formula: |
 
 desagregacion: >-
 
-  Sexua
+  Sexua 
 
 periodicidad: FUENTE.FREQ_A
 
@@ -36,13 +36,40 @@ observaciones:
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global:
+justificacion_global: |
 
-dato_global:
+  Adierazlea kalitateko hezkuntzari buruzko 4. GJHrako eta genero-berdintasunari buruzko 5. GJHrako aurrerabidea gainbegiratzeko erabiltzen da. 
+  Horiek Europako Batzordearen lehentasunetan sartuta daude, "Pertsonei laguntzea, gure gizarteak eta gure gizarte-eredua indartzea" eta "Europako 
+  oparotasun eta lehiakortasun iraunkorrerako plan berri bat" izenburupean. 
 
-comparabilidad: 
+  2021eko otsailaren 26an, Europar Batasuneko Kontseiluak hezkuntzaren eta prestakuntzaren arloko Europako lankidetzarako esparru estrategiko 
+  bati buruzko Ebazpena onartu zuen, Hezkuntzaren Europako Esparruari begira eta haratago (2021-2030). Esparru honek bost lehentasun estrategiko 
+  jorratzen ditu: (1) Hezkuntzan eta prestakuntzan kalitatea, ekitatea, inklusioa eta arrakasta hobetzea; (2) Etengabeko ikaskuntza eta 
+  mugikortasuna errealitate bihurtzea guztiontzat; (3) Hezkuntza-lanbidean gaitasunak eta motibazioa hobetzea; (4) Europako goi-mailako hezkuntza 
+  indartzea; eta (5) Trantsizio ekologiko eta digitala babestea hezkuntzaren eta prestakuntzaren bidez. 
 
-indicador_meta_enlace:
+  Kontseiluaren Ebazpenak ezartzen duenez, EB mailan, GJHen adierazle horren arabera neurtutako hezkuntza eta prestakuntza behar baino lehenago 
+  uzten duten pertsonen proportzioa % 9 baino txikiagoa izango da 2030erako. Gainera, adierazlea adierazle nagusi gisa sartzen da Gizarte Eskubideen 
+  Europako Zutabeko Gizarte Adierazleen Koadroan. 
+
+  Hezkuntza eta prestakuntza hazkundearen eta enpleguaren funtsezko motorrak dira, enplegagarritasuna, produktibitatea, berrikuntza eta 
+  lehiakortasuna hobetzen laguntzen baitute. Oinarrizko mailaren ondoren hezkuntzarekin jarraitzea garrantzitsua da, kualifikazio handieneko 
+  pertsonek aukera gehiago dituztelako enplegua aurkitzeko eta jakintzan oinarritutako ekonomian pobreziari aurre egiteko aukera gutxiago 
+  dituztelako. Hezkuntza-maila baxua duten pertsonek, lan-merkatuan zailtasun handiagoak izateaz gain, pobreziarako eta gizarte-bazterketarako 
+  arrisku handiagoa ere izan dezakete. 
+
+
+  Iturria: Eurostat 
+
+dato_global: >-
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_04_10/default/table?lang=en&category=sdg.sdg_04">Eskola-uzte goiztiarra sexuaren arabera (%) (sdg_04_10)</a> Eurostat
+
+
+comparabilidad: |
+  EAEn eskuragarri dagoen adierazlea Europako adierazlearekin aldera daiteke.
+
+indicador_meta_enlace: |
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_04_10_esmsip2.htm">Metadatuak Eurostat (sdg_04_10)</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''
