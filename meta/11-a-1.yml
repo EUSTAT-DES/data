@@ -8,10 +8,11 @@ meta_global: meta_largo.11-a-titulo
 #  indicador_onu_global: indicador_largo.11-a-1-titulo
 
 definicion: |
-  Adierazle honek bi denbora-serie ditu: 
+  Adierazle honek bi serie ditu: 
 
-  - Lurralde-antolamenduko plan bat duten udalerrietan bizi diren biztanleen proportzioa
-  - Hiri-plangintzako arau subsidiarioak edo plan orokorrak dituzten udalerrietan bizi diren biztanleen proportzioa
+   <b>- Lurralde-antolamenduko plan bat duten udalerrietan bizi diren biztanleen proportzioa</b>
+
+   <b>- Hiri-plangintzako arau subsidiarioak edo plan orokorrak dituzten udalerrietan bizi diren biztanleen proportzioa</b>
 
 
 formula: |

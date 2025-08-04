@@ -8,11 +8,11 @@ meta_global: meta_largo.17-1-titulo
 #  indicador_onu_global: indicador_largo.17-1-2-titulo
 
 definicion: >-
-  Serie erabilgarriak:
+    Adierazle honek bi serie ditu:
 
-    - EAEko administrazio publikoen diru-sarrera ez-finantzarioen artean zergetatik datozenen proportzioa 
+    <b>- EAEko administrazio publikoen diru-sarrera ez-finantzarioen artean zergetatik datozenen proportzioa</b>
 
-    - EAEko administrazio publikoen diru-sarrera guztien artean zergetatik datozenen proportzioa
+    <b>- EAEko administrazio publikoen diru-sarrera guztien artean zergetatik datozenen proportzioa</b>
 
  
 formula: |

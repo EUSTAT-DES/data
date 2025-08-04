@@ -9,14 +9,15 @@ meta_global: meta_largo.12-2-titulo
 
 
 definicion:  | 
-  Materialaren bertako kontsumoa (MBK), material-fluxuaren kontabilitate-adierazle estandarra 
+  Materialen bertako kontsumoa (MBK), material-fluxuaren kontabilitate-adierazle estandarra 
   da, eta Euskal AEko ekonomian materialen itxurazko kontsumoaren berri ematen du.
 
   MBKak ekonomia batean zuzenean erabilitako eta material-fluxu zuzenen kontuetan oinarritutako 
   material kantitate osoa neurtzen du (biomasa, erregai fosilak, mineral metalikoak eta mineral 
   ez-metalikoak), hau da, erauzitako materiala, inportazioak eta esportazio fisikoak.
 
-  Datuak balio absolututan aurkezten dira, biztanleko eta BPGren unitateko.
+  Datuak balio absolututan aurkezten dira, biztanleko eta BPGren unitateko.  
+
 
 formula:  |
   <b>Materialen bertako kontsumoa</b>
@@ -33,7 +34,7 @@ formula:  |
 
   <br>
 
-  <b>Materialen bertako kontsumoa per capita</b>
+  <b>Materialen bertako kontsumoa per capita </b>
 
   $$CMDPC^{t} = \frac{{CMD^{t}}}{P^{t}}$$
 
@@ -45,7 +46,7 @@ formula:  |
 
   <br>
 
-  <b>Materialen bertako kontsumoa per capita BPG unitateko</b>
+  <b>Materialen bertako kontsumoa BPG unitateko</b>
 
   $$CMDPIB^{t} = \frac{{CMD^{t}}}{PIB_{2022}^{t}}$$
 
@@ -66,7 +67,7 @@ observaciones:
 
 justificacion_global: | 
 
-  Materialen etxeko kontsumoak (MEK) ekonomia batean erabiltzen den material-kopuruari buruzko 
+  Materialen bertako kontsumoak (MBK) ekonomia batean erabiltzen den material-kopuruari buruzko 
   informazioa ematen du. Lurralde-adierazle bat da (ekoizpenaren aldetik). 
 
   Ekonomia baten barruan manipulatu behar diren, eraikinen material-izakinei eta garraio azpiegiturari 
@@ -79,6 +80,7 @@ justificacion_global: |
 
 
   Iturria: Nazio Batuen Estatistika Sekzioa 
+
 
 dato_global:
 

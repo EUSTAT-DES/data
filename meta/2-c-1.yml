@@ -10,8 +10,13 @@ meta_global: meta_largo.2-c-titulo
 definicion: |
   Adierazle honek bi serie ditu:
 
-   <b> - Elikagaien prezioen anomalien adierazlea</b> 
-   <b> - Elikagaien kontsumo-prezioen indizea</b> 
+   <b>- Elikagaien prezioen anomalien adierazlea</b> Elikagaien prezioen anomaliak esan nahi du merkatuko prezioak anormalki 
+        altuak direla aldi jakin batean. Elikagaien prezioen anomalien indizearen balioa 1etik gorakoa bada, elikagaien prezioen ezohiko 
+        igoera adierazten du. Nabarmentzekoa da -1etik beherako balioak prezioen ezohiko beherakada adierazten duela, baina hori ez da adierazle honen helburua.
+
+   <b>- Elikagaien kontsumo-prezioen indizea</b> Kontsumitzailearentzako Prezioen Indizea (KPI) kontsumitzailearentzako 
+        inflazio-indizea edo prezioen indize hutsa da. Euskal Autonomia Erkidegoko etxeetako kontsumorako erositako ondasun 
+        eta zerbitzuen prezioen aldaketaren batez besteko neurria ematen du.
 
 formula: |
 
