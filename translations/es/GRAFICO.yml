@@ -130,11 +130,12 @@ OCECA-1-2-2-1A: "Proporción de personas en riesgo de pobreza o exclusión socia
 OCECA-1-a-2-1: Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación
 OCECA-1-a-2-2: Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud
 OCECA-6-1-1: Proporción de personas en zonas de abastecimiento que notifican al Sistema de Información Nacional de Agua de Consumo (SINAC)
+OCECA-8-9-1-3AB4AB: Pernoctaciones de turistas y proporción de pernoctaciones en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas
+OCECA-8-9-1-3CD: Proporción del gasto en viajes culturales sobre el gasto en viajes
 OCECA-9-4-1-5: Emisiones de $CO_2$ respecto al año 1990
 OCECA-9-4-1-6: Emisiones de $CO_2$ respecto al año 2005
 OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional
-OCECA-13-2-2-3: Emisiones de gases de efecto invernadero respecto al año 1990
-OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
+
 
 # CONTENIDO
 
@@ -247,7 +248,7 @@ OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
 8-5-E1-contenido: "<b>Dirección deseada:</b> En la serie Tasa de ocupación, el objetivo europeo es alcanzar un 78% para el año 2030. Por su parte, en la serie Brecha de género, la meta es reducir la diferencia a un máximo de 5,8 puntos porcentuales en ese mismo año."
 8-6-1-contenido: "<b>Dirección deseada:</b> Descenso"
 8-8-1-contenido: "<b>Dirección deseada:</b> Descenso"
-8-9-1-contenido: "<b>Dirección deseada:</b> No evaluable"
+8-9-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 8-10-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 8-10-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 8-b-1-contenido: |
@@ -271,7 +272,7 @@ OCECA-13-2-2-4: Emisiones de gases de efecto invernadero respecto al año 2005
 
 10-1-1-contenido: "<b>Dirección deseada:</b> Mantener el crecimiento de los ingresos del 40% más pobre de la población a una tasa superior a la media"
 10-2-1-contenido: "<b>Dirección deseada:</b> Descenso"
-10-4-1-contenido: "<b>Dirección deseada:</b> No evaluable"
+10-4-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 10-4-2-contenido: "<b>Dirección deseada:</b> Descenso"
 10-7-4-contenido: "<b>Dirección deseada:</b> Descenso"
 

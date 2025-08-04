@@ -13,7 +13,6 @@ definicion: >-
 
    - Moisture problems (leaking roof; damp walls, floors, ceilings, or foundations; or rot in window frames, doors, or floors)
    - housing without a toilet or bathtub/shower
-   - surface area less than the number of members by 20 square meters
    - problems of exposure to noise and pollution 
    - dark home, without enough light, or lack of natural light
 
@@ -35,7 +34,10 @@ observaciones: >-
 
 periodicidad: FUENTE.FREQ_A2
 
-texto_oceca: FUENTE.oceca
+texto_oceca: >- 
+
+  The series ‘Proportion of people living in a home with humidity problems’ has been compiled 
+  using a methodology harmonised among the central statistical bodies of the autonomous communities
 
 
  # Metadatos mundiales (Descripción del indicador)  

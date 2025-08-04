@@ -131,11 +131,12 @@ OCECA-1-2-2-1A: "Pobreziako edo gizarte-bazterketako arriskuan dauden pertsonen 
 OCECA-1-a-2-1: "Hezkuntzara bideratzen den administrazio publiko autonomikoen gastuaren proportzioa"
 OCECA-1-a-2-2: "Osasungintzara bideratzen den administrazio publiko autonomikoen gastuaren proportzioa"
 OCECA-6-1-1: "Kontsumorako Uraren Informazio Sistema Nazionalari (SINAC) jakinarazitako hornidura-eremuetako pertsonen proportzioa"
+OCECA-8-9-1-3AB4AB: Turisten gaualdiak eta okupazio goreneko bi hilabeteetako gaualdien proportzioa turisten gaualdi guztiekiko
+OCECA-8-9-1-3CD: Kultura-bidaietako gastuaren proportzioa bidaietako gastuaren gainean
 OCECA-9-4-1-5: "$CO_2$ isuriak 1990. urtearekiko"
 OCECA-9-4-1-6: "$CO_2$ isuriak 2005. urtearekiko"
 OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen proportzioa, estatuko mediana kontuan hartuta"
-OCECA-13-2-2-3: "Berotegi-efektuko gasen isuriak, 1990. urtearekiko"
-OCECA-13-2-2-4: "Berotegi-efektuko gasen isuriak, 2005. urtearekiko"
+
 
 # CONTENIDO
 
@@ -164,14 +165,13 @@ OCECA-13-2-2-4: "Berotegi-efektuko gasen isuriak, 2005. urtearekiko"
 2-1-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 2-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 2-2-E1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
-2-3-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
-2-3-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
+2-3-1-contenido: "<b>Xedea:</b> Nekazaritzako produktibitatea eta elikagai-ekoizle txikien diru-sarrerak bikoiztea"
+2-3-2-contenido: "<b>Xedea:</b> Nekazaritzako produktibitatea eta elikagai-ekoizle txikien diru-sarrerak bikoiztea"
 2-4-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 2-4-E1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 2-4-E2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 2-a-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 2-c-1-contenido: "<b>Xedea:</b> Elikagaien prezioen muturreko hegakortasuna mugatzea"
-
 
 3-1-1-contenido: "<b>Xedea:</b> Bizirik jaiotako 100.000 haurreko 70 baino gutxiagora murriztea"
 3-1-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
@@ -248,7 +248,7 @@ OCECA-13-2-2-4: "Berotegi-efektuko gasen isuriak, 2005. urtearekiko"
 8-5-E1-contenido: "<b>Nahi den norabidea:</b> Okupazio-tasa seriean, Europaren helburua 2030erako % 78ra iristea da. Bestalde, Genero-arrakala seriean, urte horretan bertan aldea gehienez ehuneko 5,8 puntura murriztea da helburua."
 8-6-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 8-8-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
-8-9-1-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
+8-9-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 8-10-1-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
 8-10-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 8-b-1-contenido: |
@@ -273,7 +273,7 @@ OCECA-13-2-2-4: "Berotegi-efektuko gasen isuriak, 2005. urtearekiko"
 
 10-1-1-contenido: "<b>Nahi den norabidea:</b> Biztanleriaren % 40 pobreenaren diru-sarreren hazkundeari batez bestekoa baino tasa handiagoan eustea"
 10-2-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
-10-4-1-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
+10-4-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 10-4-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 10-7-4-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 

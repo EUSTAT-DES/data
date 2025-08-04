@@ -9,11 +9,11 @@ meta_global: meta_largo.17-1-titulo
 
 definicion: >-
 
-  Available series: 
+   This indicator is composed of two series: 
 
-   - Proportion of non-financial income of the Basque public administrations that comes from taxes
+   <b>- Proportion of non-financial income of the Basque public administrations that comes from taxes</b>
 
-   - Proportion of total income of the Basque public administrations that comes from taxes
+   <b>- Proportion of total income of the Basque public administrations that comes from taxes</b>
   
 formula: |
 
