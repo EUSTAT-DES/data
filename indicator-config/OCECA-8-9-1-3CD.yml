@@ -6,39 +6,53 @@ data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
-data_show_map: true
-data_start_values: []
+data_show_map: false
+data_start_values: ''
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
+footer_fields: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: GRAFICO.1-4-1-titulo
+graph_target_lines: []
+graph_title: ''
+graph_titles: []
 graph_type: line
-indicator_name: global_indicators.1-4-1-title
-indicator_number: '1.4.1'
+indicator_available: ''
+indicator_name: GRAFICO.OCECA-8-9-1-3CD
+indicator_number: 'OCECA-8-9-1-3CD'
+indicator_tabs:
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
 national_geographical_coverage: ''
-page_content: GRAFICO.1-4-1-contenido
-permalink: ''
+page_content: ''
+permalink: OCECA-8-9-1-3CD
 placeholder: ''
 precision: []
 proxy: ''
 proxy_series: []
 publications: []
 related_indicators: []
-progress_status: alcanzado
 reporting_status: complete
 sort: ''
 sources:
-  - organisation: FUENTE.Eustat
+  - organisation: FUENTE.INE
     periodicity: FUENTE.FREQ_A
-    url: FUENTE.Eustat_cemv_url
-    url_text: FUENTE.Eustat_cemv
-    logo: FUENTE.Eustat_logo
-standalone: false
-tags: ''
+    url: FUENTE.INE_etr_url
+    url_text: FUENTE.INE_etr
+    logo: FUENTE.INE_logo
+  - organisation: FUENTE.INE
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.INE_egatur_url
+    url_text: FUENTE.INE_egatur
+    logo: FUENTE.INE_logo
+standalone: true
+tags: []
 x_axis_label: ''
