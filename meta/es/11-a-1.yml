@@ -8,10 +8,11 @@ meta_global: meta_largo.11-a-titulo
 #  indicador_onu_global: indicador_largo.11-a-1-titulo
 
 definicion: |
-  Este indicador se compone de dos series temporales:
+  Este indicador se compone de dos series:
 
-  - Proporción de la población residente en municipios que cuentan con un plan de ordenación territorial
-  - Proporción de la población residente en municipios que disponen de plan general o normas subsidiarias de planeamiento urbanístico
+   <b>- Proporción de la población residente en municipios que cuentan con un plan de ordenación territorial</b>
+
+   <b>- Proporción de la población residente en municipios que disponen de plan general o normas subsidiarias de planeamiento urbanístico</b>
 
 formula: |
 
