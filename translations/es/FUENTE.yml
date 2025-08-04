@@ -67,6 +67,7 @@ BE_bp: Balanza de pagos
 GE_Territorial_bep: Boletín estadístico del personal al servicio de las administraciones públicas
 GE_Sanidad_cach: Calidad de las Aguas de Consumo Humano
 Eustat_ceme: Censo de población y viviendas. Educación
+Eustat_cemv: Censo de población y viviendas. Viviendas
 Eustat_cepv: Censos de población y viviendas
 GE_Transformacion_cba: Cobertura de banda ancha en España
 Eustat_cedu: Cuenta de la Educación 
@@ -187,7 +188,8 @@ Euskadi_Alimentacion_ricav_url: https://www.euskadi.eus/ricav-agroganaderia/web0
 BE_bp_url: https://www.bde.es/webbe/es/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/capitulo-17.html
 GE_Territorial_bep_url: https://digital.gob.es
 GE_Sanidad_cach_url: https://www.miteco.gob.es/es/agua/temas/estado-y-calidad-de-las-aguas/aguas-superficiales/programas-seguimiento/control-adiciona-zonas-protegidas-abastecimientos.html
-Eustat_ceme_url: https://www.eustat.eus/estadisticas/tema_271/opt_1/tipo_15/temas.html
+Eustat_ceme_url: https://es.eustat.eus/estadisticas/tema_271/opt_1/temas.html
+Eustat_cemv_url: https://es.eustat.eus/estadisticas/tema_274/opt_1/temas.html
 Eustat_cepv_url: https://es.eustat.eus/estadisticas/tema_25/opt_1/temas.html
 GE_Transformacion_cba_url: https://avance.digital.gob.es/banda-ancha/Paginas/Index.aspx
 Eustat_cedu_url: https://www.eustat.eus/estadisticas/tema_302/opt_0/ti_cuenta-de-la-educacion/temas.html
