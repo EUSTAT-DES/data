@@ -128,11 +128,12 @@ OCECA-1-2-2-1A: "Proportion of people at risk of poverty or social exclusion: AR
 OCECA-1-a-2-1: Proportion of regional public administrations spending on education
 OCECA-1-a-2-2: Proportion of regional public administrations spending on health
 OCECA-6-1-1: Proportion of people in supply areas who report to the National Drinking Water Information System (SINAC)
+OCECA-8-9-1-3AB4AB: Tourist overnight stays and proportion of overnight stays in the two months of peak occupancy as a percentage of total tourist overnight stays
+OCECA-8-9-1-3CD: Proportion of cultural travel expenditure as a percentage of travel expenditure
 OCECA-9-4-1-5: $CO_2$ emissions compared to 1990
 OCECA-9-4-1-6: $CO_2$ emissions compared to 2005
 OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, considering the national median
-OCECA-13-2-2-3: Greenhouse gas emissions compared to 1990
-OCECA-13-2-2-4: Greenhouse gas emissions compared to 2005
+
 
 # CONTENIDO
 
@@ -165,7 +166,7 @@ OCECA-13-2-2-4: Greenhouse gas emissions compared to 2005
 2-4-E1-contenido: "<b>Desired direction:</b> Increase"
 2-4-E2-contenido: "<b>Desired direction:</b> Decrease"
 2-a-1-contenido: "<b>Desired direction:</b> Increase"
-2-c-1-contenido: "<b>Target:</b> Limit extreme volatility in food prices"
+2-c-1-contenido: "<b>Target:</b> Limit extreme volatility in food prices. See chapter 2.3.4 No assessment of the<a href="/en/metodologia">methodology for measuring progress</a>"
 
 
 3-1-1-contenido: "<b>Target:</b> Reduce to less than 70 per 100,000 live births"
@@ -241,7 +242,7 @@ OCECA-13-2-2-4: Greenhouse gas emissions compared to 2005
 8-5-E1-contenido: "<b>Desired direction:</b> In the Employment Rate series, the European target is to reach 78% by 2030. In the Gender Gap series, the goal is to reduce the difference to a maximum of 5.8 percentage points in the same year."
 8-6-1-contenido: "<b>Desired direction:</b> The objective set at European level is that, by 2030, the value of the indicator corresponding to young people aged between 15 and 29 years does not exceed 9%."
 8-8-1-contenido: "<b>Desired direction:</b> Decrease"
-8-9-1-contenido: "<b>Desired direction:</b> No assessment"
+8-9-1-contenido: "<b>Desired direction:</b> Increase"
 8-10-1-contenido: "<b>Desired direction:</b> No assessment"
 8-10-2-contenido: "<b>Desired direction:</b> Increase"
 8-b-1-contenido: |
@@ -262,7 +263,7 @@ OCECA-13-2-2-4: Greenhouse gas emissions compared to 2005
 
 10-1-1-contenido: "<b>Desired direction:</b> Sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average"
 10-2-1-contenido: "<b>Desired direction:</b> Decrease"
-10-4-1-contenido: "<b>Desired direction:</b> No assessment"
+10-4-1-contenido: "<b>Desired direction:</b> Increase"
 10-4-2-contenido: "<b>Desired direction:</b> Decrease"
 10-7-4-contenido: "<b>Desired direction:</b> Decrease"
 
