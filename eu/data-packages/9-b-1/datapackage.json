@@ -16,6 +16,28 @@
             "title": "Urtea"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Balio erantsiaren proportzioa teknologia-industria ertain eta altuak guztizko balio erantsian",
+                ""
+              ]
+            },
+            "title": "Seriea"
+          },
+          {
+            "name": "Actividad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufaktura",
+                ""
+              ]
+            },
+            "title": "Jarduera ekonomikoa"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

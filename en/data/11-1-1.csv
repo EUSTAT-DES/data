@@ -1,7 +1,29 @@
-Year,Units,Value
-2008,%,7.7
-2012,%,8.8
-2014,%,11.8
-2016,%,12.3
-2018,%,14.2
-2020,%,10.5
+Year,Series,Units,Orden_Series,Value
+2014,Proportion of people living in a home with humidity problems,%,2000,11.8
+2022,Proportion of people living in a home with humidity problems,%,2000,12.4
+2012,Proportion of people living in a home with humidity problems,%,2000,8.8
+2018,Proportion of people living in a home with humidity problems,%,2000,14.2
+2008,Proportion of people living in a home with humidity problems,%,2000,7.7
+2020,Proportion of people living in a home with humidity problems,%,2000,10.5
+2016,Proportion of people living in a home with humidity problems,%,2000,12.3
+2008,Proportion of people living in a home without a toilet or bathtub/shower,%,2010,0.4
+2016,Proportion of people living in a home without a toilet or bathtub/shower,%,2010,0.0
+2018,Proportion of people living in a home without a toilet or bathtub/shower,%,2010,0.0
+2014,Proportion of people living in a home without a toilet or bathtub/shower,%,2010,0.0
+2020,Proportion of people living in a home without a toilet or bathtub/shower,%,2010,0.0
+2022,Proportion of people living in a home without a toilet or bathtub/shower,%,2010,0.0
+2012,Proportion of people living in a home without a toilet or bathtub/shower,%,2010,0.0
+2008,Proportion of people living in a home with noise and pollution exposure problems,%,2030,11.0
+2012,Proportion of people living in a home with noise and pollution exposure problems,%,2030,13.9
+2014,Proportion of people living in a home with noise and pollution exposure problems,%,2030,8.5
+2016,Proportion of people living in a home with noise and pollution exposure problems,%,2030,9.2
+2018,Proportion of people living in a home with noise and pollution exposure problems,%,2030,9.2
+2020,Proportion of people living in a home with noise and pollution exposure problems,%,2030,8.9
+2022,Proportion of people living in a home with noise and pollution exposure problems,%,2030,8.0
+2008,"Proportion of people living in a dark home, without sufficient light, or with little natural light",%,2040,5.7
+2014,"Proportion of people living in a dark home, without sufficient light, or with little natural light",%,2040,3.3
+2012,"Proportion of people living in a dark home, without sufficient light, or with little natural light",%,2040,12.2
+2016,"Proportion of people living in a dark home, without sufficient light, or with little natural light",%,2040,5.4
+2018,"Proportion of people living in a dark home, without sufficient light, or with little natural light",%,2040,4.0
+2020,"Proportion of people living in a dark home, without sufficient light, or with little natural light",%,2040,3.3
+2022,"Proportion of people living in a dark home, without sufficient light, or with little natural light",%,2040,3.1

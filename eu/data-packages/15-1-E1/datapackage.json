@@ -48,7 +48,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilometro koadroak",
+                "Kilometro karratu",
                 "%",
                 ""
               ]

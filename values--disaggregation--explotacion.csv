@@ -1,6 +1,5 @@
 Value,eu,es,en,Disaggregation combinations using this value,Number of indicators
-EU_HTF_DETVFL,"Lan behartua, morrontza eta esklabotza","Trabajo forzado, servidumbre y esclavitud","Forced labour, servitude, and slavery",1,1
-EU_HTF_DETVR,Pertsonen salerosketa (helburu guztiak),Trata de personas (todos los fines),Human trafficking (all purposes),1,1
-EU_HTF_DETVSXR,Sexu-esplotazioa,Explotación sexual,Sexual exploitation,1,1
+VC_HTF_DETVFLR,"Lan behartua, morrontza eta esklabotza","Trabajo forzado, servidumbre y esclavitud","Forced labour, servitude, and slavery",1,1
 VC_HTF_DETVOGR,Organoak lortzea,Obtención de órganos,Organ procurement,1,1
-VC_HTF_DETVOP,Beste helburu batzuk,Otros fines,Other purposes,1,1
+VC_HTF_DETVOPR,Beste helburu batzuk,Otros fines,Other purposes,1,1
+VC_HTF_DETVSXR,Sexu-esplotazioa,Explotación sexual,Sexual exploitation,1,1

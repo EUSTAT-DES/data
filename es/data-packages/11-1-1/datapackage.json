@@ -16,6 +16,20 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas que vive en una vivienda con problemas de humedad",
+                "Proporción de personas que vive en una vivienda sin retrete o bañera/ducha",
+                "Proporción de personas que vive en una vivienda con problemas de exposición a ruidos y contaminación",
+                "Proporción de personas que vive en una vivienda oscura, sin luz suficiente, o escasez de luz natural",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -25,6 +39,20 @@
               ]
             },
             "title": "Unidad"
+          },
+          {
+            "name": "Orden_Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2000",
+                "2010",
+                "2030",
+                "2040",
+                ""
+              ]
+            },
+            "title": "Orden_Series"
           },
           {
             "name": "Value",

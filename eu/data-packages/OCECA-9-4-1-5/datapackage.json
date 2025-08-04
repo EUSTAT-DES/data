@@ -16,17 +16,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_ES_090401_05",
-                ""
-              ]
-            },
-            "title": "Seriea"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

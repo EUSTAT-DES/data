@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Materialen etxeko kontsumoa termino absolutuetan",
-                "Materialen etxeko kontsumoa per capita",
-                "Materialen etxeko kontsumoa, BPGaren arabera",
+                "Materialen bertako kontsumoa termino absolutuetan",
+                "Materialen bertako kontsumoa per capita",
+                "Materialen bertako kontsumoa BPGarekiko",
                 ""
               ]
             },
@@ -52,5 +52,5 @@
   ],
   "profile": "data-package",
   "name": "8-4-2",
-  "title": "Barne-materialaren kontsumoa termino absolutuetan, barne-materialaren kontsumoa per capita eta barne-materialaren kontsumoa BPGaren arabera"
+  "title": "Materialen bertako kontsumoa termino absolutuetan, materialen bertako kontsumoa per capita eta materialen bertako kontsumoa BPGrekiko"
 }

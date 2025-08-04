@@ -15,11 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Series",
+            "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "GB_POP_SCIERD",
+                "F",
+                "M",
                 ""
               ]
             }

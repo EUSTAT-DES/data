@@ -16,6 +16,20 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of people living in a home with humidity problems",
+                "Proportion of people living in a home without a toilet or bathtub/shower",
+                "Proportion of people living in a home with noise and pollution exposure problems",
+                "Proportion of people living in a dark home, without sufficient light, or with little natural light",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -25,6 +39,20 @@
               ]
             },
             "title": "Unit"
+          },
+          {
+            "name": "Orden_Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2000",
+                "2010",
+                "2030",
+                "2040",
+                ""
+              ]
+            },
+            "title": "Orden_Series"
           },
           {
             "name": "Value",

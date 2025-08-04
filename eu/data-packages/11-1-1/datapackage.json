@@ -16,6 +16,20 @@
             "title": "Urtea"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hezetasun-arazoak dituen etxebizitza batean bizi direnen proportzioa",
+                "Komunik edo bainuontzirik/dutxarik gabeko etxebizitza batean bizi direnen proportzioa",
+                "Etxebizitza batean zarataren eta kutsaduraren eraginpean bizi diren pertsonen proportzioa",
+                "Etxebizitza ilun batean, argi nahikorik gabe edo argi naturalaren eskasiarekin bizi diren pertsonen proportzioa",
+                ""
+              ]
+            },
+            "title": "Seriea"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -25,6 +39,20 @@
               ]
             },
             "title": "Unitatea"
+          },
+          {
+            "name": "Orden_Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2000",
+                "2010",
+                "2030",
+                "2040",
+                ""
+              ]
+            },
+            "title": "Orden_Series"
           },
           {
             "name": "Value",

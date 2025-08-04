@@ -16,17 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción de residuos urbanos reciclados",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {

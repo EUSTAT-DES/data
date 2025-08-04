@@ -23,10 +23,9 @@ EN_H2O_OPAMBQ,Kalitate oneko azaleko ur-masen proportzioa,Proporción de masas d
 EN_H2O_RVAMBQ,Kalitate oneko ibaiko ur-masen proportzioa,Proporción de masas de agua de río de buena calidad,Proportion of good-quality river water bodies,1,1
 EN_HAZ_PCAP,Hondakin arriskutsuak biztanleko,Residuos peligrosos generados per cápita,Hazardous waste generated per capita,4,1
 EN_HAZ_TREAT,"Tratatutako hondakin arriskutsuen proportzioa, tratamendu motaren arabera banakatuta","Proporción de residuos peligrosos tratados, desglosados por tipo de tratamiento","Proportion of hazardous waste treated, broken down by treatment type",16,1
-EN_MAT_DOMCMPC,Materialen etxeko kontsumoa per capita,Consumo doméstico de materiales per cápita,Domestic material consumption per capita,2,2
-EN_MAT_DOMCMPG,"Materialen etxeko kontsumoa, BPGaren arabera",Consumo doméstico de materiales por PIB,Domestic material consumption per GDP,2,2
-EN_MAT_DOMCMPT,Materialen etxeko kontsumoa termino absolutuetan,Consumo doméstico de materiales en términos absolutos,Domestic material consumption in absolute terms,2,2
-EN_MWT_RCYR,Birziklatutako hiri-hondakinen proportzioa,Proporción de residuos urbanos reciclados,Proportion of municipal waste recycled,4,1
+EN_MAT_DOMCMPC,Materialen bertako kontsumoa per capita,Consumo doméstico de materiales per cápita,Domestic material consumption per capita,2,2
+EN_MAT_DOMCMPG,Materialen bertako kontsumoa BPGarekiko,Consumo doméstico de materiales por PIB,Domestic material consumption per GDP,2,2
+EN_MAT_DOMCMPT,Materialen bertako kontsumoa termino absolutuetan,Consumo doméstico de materiales en términos absolutos,Domestic material consumption in absolute terms,2,2
 EN_MWT_TREATV,"Tratatutako hiri-hondakinen proportzioa, tratamendu-motaren arabera banakatuta","Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento","Proportion of municipal waste treated, broken down by treatment type",12,1
 EN_REF_WASCOL,Instalazio kontrolatuetan bildu eta administratutako hiri-hondakinen proportzioa,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,Proportion of municipal waste collected and managed in controlled facilities,4,1
 EN_WWT_WWDS,Modu egokian tratatutako etxeko hondakin-uren fluxuen proportzioa,Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada,Proportion of domestic wastewater streams treated in a controlled manner Adequate,1,1
@@ -50,6 +49,10 @@ EU_GHG_TV2005,"Berotegi-efektuko gasen isuriak, 2005. urtearekiko",Emisiones de 
 EU_GOB_TAX,Zergetatik datozen administrazio publiko autonomikoen eta tokikoen diru-sarreren proportzioa,Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos ,Proportion of Regional and local government revenue from taxes,1,1
 EU_GOB_TAX_NOFIN,"Administrazio publiko autonomikoen eta tokiko administrazioen sarrera ez-finantzarioen proportzioa, zergetatik datozenak",Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuesto,Proportion of non-financial revenue of Regional and local governments from taxes,1,1
 EU_GPI_TRN,Genero-parekotasunaren indizea hezkuntza-jarduerak egitean,Índice de paridad de género en la realización de actividades educativas,Gender parity index in completion of educational activities ,4,1
+EU_INDQTHSNG_HUMID,Hezetasun-arazoak dituen etxebizitza batean bizi direnen proportzioa,Proporción de personas que vive en una vivienda con problemas de humedad,Proportion of people living in a home with humidity problems,1,1
+EU_INDQTHSNG_LIGHT,"Etxebizitza ilun batean, argi nahikorik gabe edo argi naturalaren eskasiarekin bizi diren pertsonen proportzioa","Proporción de personas que vive en una vivienda oscura, sin luz suficiente, o escasez de luz natural","Proportion of people living in a dark home, without sufficient light, or with little natural light",1,1
+EU_INDQTHSNG_NOISE,Etxebizitza batean zarataren eta kutsaduraren eraginpean bizi diren pertsonen proportzioa,Proporción de personas que vive en una vivienda con problemas de exposición a ruidos y contaminación,Proportion of people living in a home with noise and pollution exposure problems,1,1
+EU_INDQTHSNG_TOILET,Komunik edo bainuontzirik/dutxarik gabeko etxebizitza batean bizi direnen proportzioa,Proporción de personas que vive en una vivienda sin retrete o bañera/ducha,Proportion of people living in a home without a toilet or bathtub/shower,1,1
 EU_LE_Y0,Bizi-itxaropena jaiotzean,Esperanza de vida al nacer,Life expectancy at birth,12,1
 EU_LND_REM,Erabilera berrietarako berreskuratutako lurzoruaren azalera (metatua),Superficie de suelo recuperado para nuevos usos (acumulado),Area of land recovered for new uses (cumulative),1,1
 EU_LND_REM_PT,Erabilera berrietarako berreskuratutako lurzoruaren ehunekoa (metatua),Porcentaje de suelo recuperado para nuevos usos (acumulado),Percentage of land recovered for new uses (cumulative),1,1
@@ -68,7 +71,6 @@ EU_W_GENPCAP,Biztanle bakoitzeko bildutako hiri-hondakinak,Residuos urbanos reco
 EU_WWT_COLECT,Kolektore-sistema batera konektatutako etxeko hondakin-uren fluxuen proportzioa,Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores,Proportion of domestic wastewater streams connected to a collection system,1,1
 EU_XPD_LOCALGBPC,"Toki administrazioaren gastu likidatua, hasieran onartutako aurrekontuaren proportzioan",Gasto liquidado de las administraciones locales en proporción al presupuesto aprobado originalmente,Liquidated expenditure of the municipalities in proportion to the originally approved budget,275,1
 FP_CPI_TOTL_ZG,Kontsumoko prezioen indizearen urte arteko aldakuntza-tasa,Tasa de variación interanual del índice de precios de consumo,Year-on-year rate of change in the Consumer Price Index,4,1
-GB_POP_SCIERD,Ikertzaileen kopurua (lanaldi osoaren baliokidean) milioi bat biztanleko,Número de personas investigadoras (en equivalente a tiempo completo) por cada millón de habitantes,Number of researchers (full-time equivalent) per million inhabitants,4,1
 GB_XPD_RSDV,"Ikerketa eta garapeneko gastuak, BPGrekiko proportzioan",Gastos en investigación y desarrollo en proporción al PIB,Research and development expenditure as a proportion of GDP,4,1
 GC_BAL_CASH_GD_ZS,"Administrazio publiko autonomikoen zerga-saldoa, BPGrekiko proportzioan",Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB,Fiscal balance of regional public administrations as a proportion of GDP,1,1
 GF_XPD_GBPC,Administrazio autonomikoak likidatutako gastua aurrekontuko gastuarekiko proportzioan,Gasto liquidado por la administración autonómica en relación al gasto presupuestado,Expenditure settled by the regional administration in relation to the budgeted expenditure,1,1
@@ -77,6 +79,7 @@ IT_MOB_4GNTWK,4G sare mugikorrez estalitako etxeen proportzioa,Proporción de ho
 IT_MOB_5GNTWK,5G sare mugikorrez estalitako etxeen proportzioa,Proporción de hogares cubiertos con redes móviles 5G,Proportion of households covered by 5G mobile networks,4,1
 NV_IND_MANF,"Manufaktura-sektorearen balio erantsia, BPGrekiko proportzioan",Valor añadido del sector manufacturo en proporción al PIB,Value added by the manufacturing sector as a proportion of GDP,4,1
 NV_IND_MANFPC,Manufaktura-sektorearen balio erantsia per capita,Valor añadido del sector manufacturo per cápita,Value added by the manufacturing sector per capita,4,1
+NV_IND_TECH,Balio erantsiaren proportzioa teknologia-industria ertain eta altuak guztizko balio erantsian,Proporción del valor añadido por la industria de tecnología mediana y alta en el valor añadido total,Proportion of value added by medium- and high-tech industries in total value added,1,1
 NY_GDP_MKTP_KD_ZG,BPGren urte arteko aldakuntza-tasa,Tasa de variación interanual del PIB,Year-on-year rate of change in GDP,4,1
 PD_AGR_LSFP,Elikagaien ekoizle handien produktibitatea,Productividad de los grandes productores de alimentos,Productivity of large food producers,4,1
 PD_AGR_SSFP,Elikagaien ekoizle txikien produktibitatea,Productividad de los pequeños productores de alimentos,Productivity of small food producers,4,1
@@ -95,10 +98,9 @@ SG_LGL_GENEQVAW,2. arloa: emakumearen aurkako indarkeria,Area 2: violencia contr
 SG_REG_BRTH100N,"Jaiotzen % 100 erregistratu dira, eta gutxienez heriotzen % 80",Se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones,100% of births and at least 80% of deaths have been registered.,1,1
 SG_REG_CENSUSN,Gutxienez biztanleriaren eta etxebizitzen errolda bat egin da azken hamar urteetan,Se ha realizado al menos un censo de población y vivienda en los últimos diez años,At least one population and housing census has been conducted in the last ten years.,1,1
 SH_ALC_CONSPT,Alkohol-kontsumoa per capita (15 urtetik aurrera) urte zibil batean,Consumo de alcohol per cápita (a partir de los 15 años de edad) durante un año civil ,Alcohol consumption per capita (age 15 and older) during a calendar year.,1,1
-SH_DTH_NCOM,Hilkortasun goiztiarraren tasa (30-70 urte),Tasa de mortalidad prematura (entre 30 y 70 años),Premature mortality rate (ages 30–70),1,1
+SH_DTH_NCOM,Hilkortasun goiztiarraren tasa (30-70 urte artekoa),Tasa de mortalidad prematura (entre 30 y 70 años),Premature mortality rate (ages 30–70),1,1
 SH_H2O_SAFE,Arriskurik gabe kudeatutako edateko uraren hornidura-zerbitzuak erabiltzen dituzten biztanleak,Población que utiliza servicios de suministro de agua potable gestionados sin riesgos,Population using safely managed drinking water services.,1,1
 SH_HIV_INCD,GIBak eragindako infekzio berrien kopurua 1.000 biztanleko,Número de nuevas infecciones por el VIH por cada 1.000 habitantes ,"Number of new HIV infections per 1,000 population.",3,1
-SH_STA_MALR,Malariaren intzidentzia 1.000 biztanleko,Incidencia de la malaria por cada 1.000 habitantes,"Malaria incidence per 1,000 population.",3,1
 SH_TBS_INCD,Tuberkulosiaren intzidentzia 100.000 biztanleko,Incidencia de la tuberculosis por cada 100.000 habitantes,"Tuberculosis incidence per 100,000 population.",3,1
 SI_AGR_LSFP,Elikagaien ekoizle handien batez besteko diru-sarrerak,Ingresos medios de los grandes productores de alimentos,Average income of large food producers,4,1
 SI_AGR_SSFP,Elikagaien ekoizle txikien batez besteko diru-sarrerak,Ingresos medios de los pequeños productores de alimentos,Average income of small food producers,4,1
@@ -106,7 +108,6 @@ SI_COV_PENSN,Erretirorako legezko adina gainditu eta pentsioa jasotzen duten biz
 SI_COV_UEMP,Langabezia-prestazioak jasotzen dituzten langabeen proportzioa,Proporción de personas desempleadas que reciben prestaciones por desempleo,Proportion of unemployed people receiving unemployment benefits,12,1
 SL_EMP_EARN,Orduko batez besteko diru-sarrera,Ingreso medio por hora,Average hourly earnings,5,1
 SL_EMP_FTLINJUR,Lesio okupazional hilgarriak, Lesiones ocupacionales mortales ,Fatal occupational injuries,12,1
-SL_EMP_GTOTL,Lanak sortutako BPGren proportzioa,Proporción del PIB generada por el trabajo,Proportion of GDP generated by labor,4,1
 SL_EMP_INJUR,Lesio okupazional ez-hilgarriak, Lesiones ocupacionales no mortales ,Non-fatal occupational injuries,12,1
 SL_TLF_UEM,Langabezia-tasa,Tasa de desempleo,Unemployment rate,4,1
 SP_ACS_BSRVH2O,Edateko ura duten etxebizitzen proportzioa,Proporción de viviendas con agua corriente,Proportion of households with running water,550,2

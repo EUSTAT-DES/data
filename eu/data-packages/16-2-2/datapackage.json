@@ -20,10 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Sexu-esplotazioa",
                 "Lan behartua, morrontza eta esklabotza",
                 "Organoak lortzea",
-                "Pertsonen salerosketa (helburu guztiak)",
-                "Sexu-esplotazioa",
                 "Beste helburu batzuk",
                 ""
               ]

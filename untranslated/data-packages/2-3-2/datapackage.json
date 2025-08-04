@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CON_EUR",
+                "EUR",
                 ""
               ]
             }

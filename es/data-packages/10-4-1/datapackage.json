@@ -16,17 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción del PIB generada por el trabajo",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {

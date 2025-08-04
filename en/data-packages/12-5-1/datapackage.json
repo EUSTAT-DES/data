@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of municipal waste recycled",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {

@@ -20,10 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Sexual exploitation",
                 "Forced labour, servitude, and slavery",
                 "Organ procurement",
-                "Human trafficking (all purposes)",
-                "Sexual exploitation",
                 "Other purposes",
                 ""
               ]

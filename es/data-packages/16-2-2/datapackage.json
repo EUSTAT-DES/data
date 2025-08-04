@@ -20,10 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Explotación sexual",
                 "Trabajo forzado, servidumbre y esclavitud",
                 "Obtención de órganos",
-                "Trata de personas (todos los fines)",
-                "Explotación sexual",
                 "Otros fines",
                 ""
               ]

@@ -2246,16 +2246,6 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EN_MWT_RCYR",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -3206,16 +3196,6 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_ES_090401_05",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -3399,6 +3379,50 @@
         ]
       },
       "title": "global_indicators.8-10-1-title"
+    },
+    {
+      "path": "15-4-1/data.csv",
+      "name": "15-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES211",
+                "ES213",
+                "ES212",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.15-4-1-title"
     },
     {
       "path": "2-a-1/data.csv",
@@ -3936,16 +3960,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_EMP_GTOTL",
-                ""
-              ]
-            }
           },
           {
             "name": "Territorio",
@@ -4668,8 +4682,8 @@
             "constraints": {
               "enum": [
                 "ES211",
-                "ES212",
                 "ES213",
+                "ES212",
                 ""
               ]
             }
@@ -4735,6 +4749,49 @@
         ]
       },
       "title": "global_indicators.17-3-2-title"
+    },
+    {
+      "path": "OCECA-8-9-1-3CD/data.csv",
+      "name": "OCECA-8-9-1-3CD",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_ES_080901_3C",
+                "_L_ES_080901_3D",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "GRAFICO.OCECA-8-9-1-3CD"
     },
     {
       "path": "9-2-1/data.csv",
@@ -5401,7 +5458,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CON_EUR",
+                "EUR",
                 ""
               ]
             }
@@ -5793,51 +5850,6 @@
               "enum": [
                 "EUR_1000000",
                 "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COL2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COL3",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COL4",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COL5",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COL6",
-            "type": "number",
-            "constraints": {
-              "enum": [
                 ""
               ]
             }
@@ -6543,11 +6555,12 @@
             "type": "integer"
           },
           {
-            "name": "Series",
+            "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "GB_POP_SCIERD",
+                "F",
+                "M",
                 ""
               ]
             }
@@ -7328,6 +7341,26 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NV_IND_TECH",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Actividad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISIC4_C",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -7573,11 +7606,37 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU_INDQTHSNG_HUMID",
+                "EU_INDQTHSNG_TOILET",
+                "EU_INDQTHSNG_NOISE",
+                "EU_INDQTHSNG_LIGHT",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Orden_Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2000",
+                "2010",
+                "2030",
+                "2040",
                 ""
               ]
             }
@@ -10351,6 +10410,105 @@
             }
           },
           {
+            "name": "COL2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL3",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL4",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL5",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL6",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL7",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL8",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL9",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL10",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL11",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL12",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -10802,11 +10960,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_HTF_DETVFL",
+                "VC_HTF_DETVSXR",
+                "VC_HTF_DETVFLR",
                 "VC_HTF_DETVOGR",
-                "EU_HTF_DETVR",
-                "EU_HTF_DETVSXR",
-                "VC_HTF_DETVOP",
+                "VC_HTF_DETVOPR",
                 ""
               ]
             }
@@ -12730,6 +12887,52 @@
       "title": "global_indicators.11-7-2-title"
     },
     {
+      "path": "OCECA-8-9-1-3AB4AB/data.csv",
+      "name": "OCECA-8-9-1-3AB4AB",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_ES_080901_3A",
+                "_L_ES_080901_3B",
+                "_L_ES_080901_4A",
+                "_L_ES_080901_4B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "OVERNIGHT_STAY",
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "GRAFICO.OCECA-8-9-1-3AB4AB"
+    },
+    {
       "path": "6-4-2/data.csv",
       "name": "6-4-2",
       "profile": "tabular-data-resource",
@@ -12873,7 +13076,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CON_EUR",
+                "EUR",
                 ""
               ]
             }
@@ -13071,16 +13274,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_ES_090401_06",
-                ""
-              ]
-            }
           },
           {
             "name": "Units",
@@ -14003,28 +14196,6 @@
         ]
       },
       "title": "global_indicators.16-b-1-title"
-    },
-    {
-      "path": "15-4-1/data.csv",
-      "name": "15-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.15-4-1-title"
     },
     {
       "path": "14-a-1/data.csv",

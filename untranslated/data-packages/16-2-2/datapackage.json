@@ -19,11 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_HTF_DETVFL",
+                "VC_HTF_DETVSXR",
+                "VC_HTF_DETVFLR",
                 "VC_HTF_DETVOGR",
-                "EU_HTF_DETVR",
-                "EU_HTF_DETVSXR",
-                "VC_HTF_DETVOP",
+                "VC_HTF_DETVOPR",
                 ""
               ]
             }

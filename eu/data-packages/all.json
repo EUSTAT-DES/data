@@ -22,9 +22,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Materialen etxeko kontsumoa termino absolutuetan",
-                "Materialen etxeko kontsumoa per capita",
-                "Materialen etxeko kontsumoa, BPGaren arabera",
+                "Materialen bertako kontsumoa termino absolutuetan",
+                "Materialen bertako kontsumoa per capita",
+                "Materialen bertako kontsumoa BPGarekiko",
                 ""
               ]
             },
@@ -50,7 +50,7 @@
           }
         ]
       },
-      "title": "Barne-materialaren kontsumoa termino absolutuetan, barne-materialaren kontsumoa per capita eta barne-materialaren kontsumoa BPGaren arabera"
+      "title": "Materialen bertako kontsumoa termino absolutuetan, materialen bertako kontsumoa per capita eta materialen bertako kontsumoa BPGrekiko"
     },
     {
       "path": "16-1-4/data.csv",
@@ -1242,7 +1242,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Watts per capita",
+                "Watt biztanleko",
                 ""
               ]
             },
@@ -2331,17 +2331,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Birziklatutako hiri-hondakinen proportzioa",
-                ""
-              ]
-            },
-            "title": "Seriea"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -2633,7 +2622,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Logika (1 = Bai, -1 = Ez)",
+                "Logikoa (1 = Bai, -1 = Ez)",
                 ""
               ]
             },
@@ -3378,17 +3367,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_ES_090401_05",
-                ""
-              ]
-            },
-            "title": "Seriea"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -3589,6 +3567,54 @@
         ]
       },
       "title": "a) Banku komertzialen sukurtsalen kopurua 100.000 heldu bakoitzeko, eta b) kutxazain automatikoen kopurua 100.000 heldu bakoitzeko"
+    },
+    {
+      "path": "15-4-1/data.csv",
+      "name": "15-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "mac-roman",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Urtea"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Lurralde historikoa"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Unitatea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Balioa"
+          }
+        ]
+      },
+      "title": "Gune babestuetan dauden mendietako biodibertsitaterako leku garrantzitsuak"
     },
     {
       "path": "2-a-1/data.csv",
@@ -3954,7 +3980,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Logika (1 = Bai, -1 = Ez)",
+                "Logikoa (1 = Bai, -1 = Ez)",
                 ""
               ]
             },
@@ -4151,17 +4177,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Urtea"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lanak sortutako BPGren proportzioa",
-                ""
-              ]
-            },
-            "title": "Seriea"
           },
           {
             "name": "Territorio",
@@ -4925,8 +4940,8 @@
             "constraints": {
               "enum": [
                 "Araba / Álava",
-                "Gipuzkoa",
                 "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
@@ -4999,6 +5014,53 @@
         ]
       },
       "title": "Diru-bidalketen bolumena (Estatu Batuetako dolarretan) BPG osoaren proportzioan"
+    },
+    {
+      "path": "OCECA-8-9-1-3CD/data.csv",
+      "name": "OCECA-8-9-1-3CD",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Urtea"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kultura-bidaietako gastuaren proportzioa, aisia, jolas eta oporretako bidaietako gastuaren aldean",
+                "Kultura-bidaietako gastuaren proportzioa bidaietako gastuarekiko",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Unitatea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Balioa"
+          }
+        ]
+      },
+      "title": "Kultura-bidaietako gastuaren proportzioa bidaietako gastuaren gainean"
     },
     {
       "path": "9-2-1/data.csv",
@@ -5626,9 +5688,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Materialen etxeko kontsumoa termino absolutuetan",
-                "Materialen etxeko kontsumoa per capita",
-                "Materialen etxeko kontsumoa, BPGaren arabera",
+                "Materialen bertako kontsumoa termino absolutuetan",
+                "Materialen bertako kontsumoa per capita",
+                "Materialen bertako kontsumoa BPGarekiko",
                 ""
               ]
             },
@@ -5654,7 +5716,7 @@
           }
         ]
       },
-      "title": "Barne-materialaren kontsumoa termino absolutuetan, barne-materialaren kontsumoa per capita eta barne-materialaren kontsumoa BPGaren arabera"
+      "title": "Materialen bertako kontsumoa termino absolutuetan, materialen bertako kontsumoa per capita eta materialen bertako kontsumoa BPGrekiko"
     },
     {
       "path": "2-3-2/data.csv",
@@ -5701,7 +5763,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Euro konstanteak",
+                "Eurotan",
                 ""
               ]
             },
@@ -6109,56 +6171,6 @@
               ]
             },
             "title": "Unitatea"
-          },
-          {
-            "name": "COL2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL2"
-          },
-          {
-            "name": "COL3",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL3"
-          },
-          {
-            "name": "COL4",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL4"
-          },
-          {
-            "name": "COL5",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL5"
-          },
-          {
-            "name": "COL6",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL6"
           },
           {
             "name": "Value",
@@ -6900,15 +6912,16 @@
             "title": "Urtea"
           },
           {
-            "name": "Series",
+            "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ikertzaileen kopurua (lanaldi osoaren baliokidean) milioi bat biztanleko",
+                "Emakumea",
+                "Gizona",
                 ""
               ]
             },
-            "title": "Seriea"
+            "title": "Sexua"
           },
           {
             "name": "Territorio",
@@ -7709,6 +7722,28 @@
             "title": "Urtea"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Balio erantsiaren proportzioa teknologia-industria ertain eta altuak guztizko balio erantsian",
+                ""
+              ]
+            },
+            "title": "Seriea"
+          },
+          {
+            "name": "Actividad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufaktura",
+                ""
+              ]
+            },
+            "title": "Jarduera ekonomikoa"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -7944,7 +7979,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilometro koadroak",
+                "Kilometro karratu",
                 "%",
                 ""
               ]
@@ -7976,6 +8011,20 @@
             "title": "Urtea"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hezetasun-arazoak dituen etxebizitza batean bizi direnen proportzioa",
+                "Komunik edo bainuontzirik/dutxarik gabeko etxebizitza batean bizi direnen proportzioa",
+                "Etxebizitza batean zarataren eta kutsaduraren eraginpean bizi diren pertsonen proportzioa",
+                "Etxebizitza ilun batean, argi nahikorik gabe edo argi naturalaren eskasiarekin bizi diren pertsonen proportzioa",
+                ""
+              ]
+            },
+            "title": "Seriea"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -7985,6 +8034,20 @@
               ]
             },
             "title": "Unitatea"
+          },
+          {
+            "name": "Orden_Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2000",
+                "2010",
+                "2030",
+                "2040",
+                ""
+              ]
+            },
+            "title": "Orden_Series"
           },
           {
             "name": "Value",
@@ -8601,7 +8664,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Hilkortasun goiztiarraren tasa (30-70 urte)",
+                "Hilkortasun goiztiarraren tasa (30-70 urte artekoa)",
                 "Heriotza-tasa 100.000 biztanleko",
                 ""
               ]
@@ -9746,7 +9809,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Logika (1 = Bai, -1 = Ez)",
+                "Logikoa (1 = Bai, -1 = Ez)",
                 ""
               ]
             },
@@ -10912,6 +10975,116 @@
             "title": "Unitatea"
           },
           {
+            "name": "COL2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL2"
+          },
+          {
+            "name": "COL3",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL3"
+          },
+          {
+            "name": "COL4",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL4"
+          },
+          {
+            "name": "COL5",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL5"
+          },
+          {
+            "name": "COL6",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL6"
+          },
+          {
+            "name": "COL7",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL7"
+          },
+          {
+            "name": "COL8",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL8"
+          },
+          {
+            "name": "COL9",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL9"
+          },
+          {
+            "name": "COL10",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL10"
+          },
+          {
+            "name": "COL11",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL11"
+          },
+          {
+            "name": "COL12",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL12"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Balioa"
@@ -11380,10 +11553,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Sexu-esplotazioa",
                 "Lan behartua, morrontza eta esklabotza",
                 "Organoak lortzea",
-                "Pertsonen salerosketa (helburu guztiak)",
-                "Sexu-esplotazioa",
                 "Beste helburu batzuk",
                 ""
               ]
@@ -11748,7 +11920,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Watts per capita",
+                "Watt biztanleko",
                 ""
               ]
             },
@@ -12745,7 +12917,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Logika (1 = Bai, -1 = Ez)",
+                "Logikoa (1 = Bai, -1 = Ez)",
                 ""
               ]
             },
@@ -13386,7 +13558,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Logika (1 = Bai, -1 = Ez)",
+                "Logikoa (1 = Bai, -1 = Ez)",
                 ""
               ]
             },
@@ -13435,6 +13607,56 @@
         ]
       },
       "title": "Azken 12 hilabeteetan jazarpen sexual edo ez sexualaren biktima izan diren pertsonen proportzioa, sexuaren, adinaren, desgaitasun-mailaren eta gertaeraren lekuaren arabera banakatuta"
+    },
+    {
+      "path": "OCECA-8-9-1-3AB4AB/data.csv",
+      "name": "OCECA-8-9-1-3AB4AB",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Urtea"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Turisten ostatu-gauak biztanleko",
+                "Egoiliarrak ez diren turisten ostatu-gauak biztanleko",
+                "Gehieneko okupazioko bi hilabeteetan turistek igarotako gauen proportzioa, turisten ostatu-gau guztien aldean",
+                "Gehieneko okupazioko bi hilabeteetan egoiliarrak ez diren turisten ostatu-gauen proportzioa, egoiliarrak ez diren turisten ostatu-gauen guztizkoen artean",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "OVERNIGHT_STAY",
+                "%",
+                ""
+              ]
+            },
+            "title": "Unitatea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Balioa"
+          }
+        ]
+      },
+      "title": "Turisten gaualdiak eta okupazio goreneko bi hilabeteetako gaualdien proportzioa turisten gaualdi guztiekiko"
     },
     {
       "path": "6-4-2/data.csv",
@@ -13592,7 +13814,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Euro konstanteak",
+                "Eurotan",
                 ""
               ]
             },
@@ -13809,17 +14031,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Urtea"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_ES_090401_06",
-                ""
-              ]
-            },
-            "title": "Seriea"
           },
           {
             "name": "Units",
@@ -14805,30 +15016,6 @@
       "title": "Giza eskubideen nazioarteko zuzenbideak debekatutako diskriminazio-arrazoiengatik azken 12 hilabeteetan pertsonalki diskriminatua edo jazarria sentitu dela adierazten duen biztanleriaren proportzioa"
     },
     {
-      "path": "15-4-1/data.csv",
-      "name": "15-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Urtea"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Balioa"
-          }
-        ]
-      },
-      "title": "Gune babestuetan dauden mendietako biodibertsitaterako leku garrantzitsuak"
-    },
-    {
       "path": "14-a-1/data.csv",
       "name": "14-a-1",
       "profile": "tabular-data-resource",
@@ -15114,7 +15301,7 @@
           }
         ]
       },
-      "title": "Aztarna materiala termino absolutuetan, aztarna materiala per capita eta aztarna materiala BPGaren arabera"
+      "title": "Aztarna materiala termino absolutuetan, aztarna materiala per capita eta aztarna materiala BPGrekiko"
     },
     {
       "path": "17-4-1/data.csv",

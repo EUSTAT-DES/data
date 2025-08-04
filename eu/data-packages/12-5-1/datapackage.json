@@ -16,17 +16,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Birziklatutako hiri-hondakinen proportzioa",
-                ""
-              ]
-            },
-            "title": "Seriea"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {

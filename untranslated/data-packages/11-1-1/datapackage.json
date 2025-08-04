@@ -15,11 +15,37 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU_INDQTHSNG_HUMID",
+                "EU_INDQTHSNG_TOILET",
+                "EU_INDQTHSNG_NOISE",
+                "EU_INDQTHSNG_LIGHT",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Orden_Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2000",
+                "2010",
+                "2030",
+                "2040",
                 ""
               ]
             }

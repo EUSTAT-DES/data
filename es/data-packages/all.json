@@ -2331,17 +2331,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción de residuos urbanos reciclados",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -3378,17 +3367,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_ES_090401_05",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -3589,6 +3567,54 @@
         ]
       },
       "title": "a) Número de sucursales de bancos comerciales por cada 100.000 personas adultas y b) número de cajeros automáticos por cada 100.000 adultos"
+    },
+    {
+      "path": "15-4-1/data.csv",
+      "name": "15-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio histórico"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Lugares importantes para la biodiversidad de las montañas incluidos en zonas protegidas"
     },
     {
       "path": "2-a-1/data.csv",
@@ -4151,17 +4177,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Año"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción del PIB generada por el trabajo",
-                ""
-              ]
-            },
-            "title": "Serie"
           },
           {
             "name": "Territorio",
@@ -4925,8 +4940,8 @@
             "constraints": {
               "enum": [
                 "Araba/Álava",
-                "Gipuzkoa",
                 "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
@@ -4999,6 +5014,53 @@
         ]
       },
       "title": "Volumen de remesas (en dólares de los Estados Unidos) en proporción al PIB total"
+    },
+    {
+      "path": "OCECA-8-9-1-3CD/data.csv",
+      "name": "OCECA-8-9-1-3CD",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",
+                "Proporción del gasto en viajes culturales sobre el gasto en viajes",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Proporción del gasto en viajes culturales sobre el gasto en viajes"
     },
     {
       "path": "9-2-1/data.csv",
@@ -5701,7 +5763,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Euros constantes",
+                "Euros",
                 ""
               ]
             },
@@ -6109,56 +6171,6 @@
               ]
             },
             "title": "Unidad"
-          },
-          {
-            "name": "COL2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL2"
-          },
-          {
-            "name": "COL3",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL3"
-          },
-          {
-            "name": "COL4",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL4"
-          },
-          {
-            "name": "COL5",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL5"
-          },
-          {
-            "name": "COL6",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL6"
           },
           {
             "name": "Value",
@@ -6900,15 +6912,16 @@
             "title": "Año"
           },
           {
-            "name": "Series",
+            "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Número de personas investigadoras (en equivalente a tiempo completo) por cada millón de habitantes",
+                "Mujer",
+                "Hombre",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Sexo"
           },
           {
             "name": "Territorio",
@@ -7709,6 +7722,28 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción del valor añadido por la industria de tecnología mediana y alta en el valor añadido total",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Actividad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufactura",
+                ""
+              ]
+            },
+            "title": "Actividad económica"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -7976,6 +8011,20 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas que vive en una vivienda con problemas de humedad",
+                "Proporción de personas que vive en una vivienda sin retrete o bañera/ducha",
+                "Proporción de personas que vive en una vivienda con problemas de exposición a ruidos y contaminación",
+                "Proporción de personas que vive en una vivienda oscura, sin luz suficiente, o escasez de luz natural",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -7985,6 +8034,20 @@
               ]
             },
             "title": "Unidad"
+          },
+          {
+            "name": "Orden_Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2000",
+                "2010",
+                "2030",
+                "2040",
+                ""
+              ]
+            },
+            "title": "Orden_Series"
           },
           {
             "name": "Value",
@@ -10912,6 +10975,116 @@
             "title": "Unidad"
           },
           {
+            "name": "COL2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL2"
+          },
+          {
+            "name": "COL3",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL3"
+          },
+          {
+            "name": "COL4",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL4"
+          },
+          {
+            "name": "COL5",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL5"
+          },
+          {
+            "name": "COL6",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL6"
+          },
+          {
+            "name": "COL7",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL7"
+          },
+          {
+            "name": "COL8",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL8"
+          },
+          {
+            "name": "COL9",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL9"
+          },
+          {
+            "name": "COL10",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL10"
+          },
+          {
+            "name": "COL11",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL11"
+          },
+          {
+            "name": "COL12",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL12"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Valor"
@@ -11380,10 +11553,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Explotación sexual",
                 "Trabajo forzado, servidumbre y esclavitud",
                 "Obtención de órganos",
-                "Trata de personas (todos los fines)",
-                "Explotación sexual",
                 "Otros fines",
                 ""
               ]
@@ -13437,6 +13609,56 @@
       "title": "Proporción de personas que han sido víctimas de acoso no sexual o sexual en los últimos 12 meses, desglosada por sexo, edad, grado de discapacidad y lugar del hecho"
     },
     {
+      "path": "OCECA-8-9-1-3AB4AB/data.csv",
+      "name": "OCECA-8-9-1-3AB4AB",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pernoctaciones de turistas por habitante",
+                "Pernoctaciones de turistas no residentes por habitante",
+                "Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas",
+                "Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "OVERNIGHT_STAY",
+                "%",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Pernoctaciones de turistas y proporción de pernoctaciones en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas"
+    },
+    {
       "path": "6-4-2/data.csv",
       "name": "6-4-2",
       "profile": "tabular-data-resource",
@@ -13592,7 +13814,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Euros constantes",
+                "Euros",
                 ""
               ]
             },
@@ -13809,17 +14031,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Año"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_ES_090401_06",
-                ""
-              ]
-            },
-            "title": "Serie"
           },
           {
             "name": "Units",
@@ -14803,30 +15014,6 @@
         ]
       },
       "title": "Proporción de la población que declara haberse sentido personalmente discriminada o acosada en los últimos 12 meses por motivos de discriminación prohibidos por el derecho internacional de los derechos humanos"
-    },
-    {
-      "path": "15-4-1/data.csv",
-      "name": "15-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "Lugares importantes para la biodiversidad de las montañas incluidos en zonas protegidas"
     },
     {
       "path": "14-a-1/data.csv",

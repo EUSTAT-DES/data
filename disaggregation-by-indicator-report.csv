@@ -8,8 +8,9 @@ Indicator,Disaggregations,Number of disaggregations
 #1-5-4,"Series, Territorio, Comarca, Municipio",4
 #1-a-2,ServEsencial,1
 #10-1-1,"Series, Territorio, Ingreso_cuantil",3
-#10-4-1,"Series, Territorio",2
+#10-4-1,Territorio,1
 #10-4-2,Series,1
+#11-1-1,"Series, Orden_Series",2
 #11-4-1,Administracion,1
 #11-5-1,"Sexo, Territorio, Comarca, Municipio",4
 #11-5-2,Territorio,1
@@ -18,7 +19,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-b-2,"Series, Territorio, Comarca, Municipio",4
 #12-2-2,Series,1
 #12-4-2,"Series, Territorio, Tratamiento",3
-#12-5-1,"Series, Territorio",2
+#12-5-1,Territorio,1
 #12-6-1,"Series, Territorio",2
 #12-a-1,"Territorio, Comarca, Municipio, Energia",4
 #13-1-1,"Sexo, Territorio, Comarca, Municipio",4
@@ -29,6 +30,7 @@ Indicator,Disaggregations,Number of disaggregations
 #15-1-E1,"Series, Ecosistema",2
 #15-2-1,Series,1
 #15-3-1,Series,1
+#15-4-1,Territorio,1
 #16-1-1,Territorio,1
 #16-1-4,"Sexo, Territorio",2
 #16-1-E1,Territorio,1
@@ -62,7 +64,6 @@ Indicator,Disaggregations,Number of disaggregations
 #3-2-2,"Sexo, Territorio",2
 #3-3-1,"Series, Sexo",2
 #3-3-2,"Series, Sexo",2
-#3-3-3,"Series, Sexo",2
 #3-3-4,Sexo,1
 #3-4-1,"Series, Sexo, Territorio, Comarca, Municipio, NCD",6
 #3-4-2,"Sexo, Territorio",2
@@ -124,5 +125,6 @@ Indicator,Disaggregations,Number of disaggregations
 #9-4-1,Series,1
 #9-4-E1,PM,1
 #9-5-1,"Series, Territorio",2
-#9-5-2,"Series, Territorio",2
+#9-5-2,"Sexo, Territorio",2
+#9-b-1,"Series, Actividad",2
 #9-c-1,"Series, Territorio",2
