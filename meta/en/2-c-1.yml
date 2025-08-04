@@ -8,11 +8,15 @@ meta_global: meta_largo.2-c-titulo
 #  indicador_onu_global: global_indicators.2-c-1-title
 
 definicion: |
-   This indicator is composed of two time series:
+   This indicator is composed of two series:
 
-   <b>- Indicator of Food Price Anomalies (IFPA)</b> 
-   <b>- Consumer Food Price Index</b> 
-
+    <b>- Indicator of Food Price Anomalies (IFPA)</b> Food price anomaly means than market prices are abnormally high for any particular period. 
+         A food price index value greater than 1 indicates an unusual rise in food prices. Note that a value lower than -1 indicates an unusual fall in price, 
+         but this is not the focus of this indicator
+ 
+    <b>- Consumer Food Price Index</b> The Consumer Price Index (CPI) is a consumer inflation or pure price index. 
+         It provides an average measure of change in the prices of goods and services bought for the purpose of 
+         consumption by households in the Basque Country
 
 formula: |
 
@@ -44,7 +48,9 @@ observaciones: >-
 
 
 periodicidad: FUENTE.FREQ_A
-texto_oceca: FUENTE.oceca
+texto_oceca: >- 
+
+  The series ‘Consumer Food Price Index’ has been compiled using a methodology harmonised among the central statistical bodies of the autonomous communities
 
  # Metadatos mundiales (Descripción del indicador)  
 

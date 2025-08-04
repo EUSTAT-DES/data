@@ -8,11 +8,12 @@ meta_global: meta_largo.11-a-titulo
 #  indicador_onu_global: indicador_largo.11-a-1-titulo
 
 definicion: |
-  This indicator is composed of two time series:
+  This indicator is composed of two series:
 
-  - Proportion of the population residing in municipalities that have a land use plan
-  - Proportion of the population residing in municipalities that have a general plan 
-    or subsidiary urban planning regulations
+   <b>- Proportion of the population residing in municipalities that have a land use plan</b>
+
+   <b>- Proportion of the population residing in municipalities that have a general plan 
+    or subsidiary urban planning regulations</b>
 
 formula: |
 
