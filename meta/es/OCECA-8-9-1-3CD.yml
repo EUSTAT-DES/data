@@ -1,0 +1,63 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-9-titulo
+#  indicador_onu_global: indicador_largo.8-9-1-titulo
+
+
+definicion:  | 
+  El indicador se compone de varias series:
+
+   - <b>Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones:</b> Proporción que 
+     representa el gasto en viajes realizados por motivos culturales con destino principal la comunidad autónoma respecto 
+     al gasto en viajes por ocio, recreo y vacaciones
+
+   - <b>Proporción del gasto en viajes culturales sobre el gasto en viajes:</b> Proporción que representa el gasto 
+     en viajes realizados por motivos culturales con destino principal la comunidad autónoma respecto al gasto en viajes
+
+
+formula:  |
+
+  <b>Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones</b>
+
+  $$PGVCORV^{t} = \frac{GVC_{nacional}^{t}+GVC_{extranjero}^{t}}{GVORV_{nacional}^{t} + GVORV_{extranjero}^{t}} \cdot 100 $$ 
+
+  donde: 
+
+  $GVC_{nacional}^{t} =$ gasto en viajes realizados por motivos culturales de turistas de origen nacional en el año $t$ 
+
+  $GVC_{extranjero}^{t} =$ gasto en viajes realizados por motivos culturales de turistas de origen extranjero en el año $t$
+
+  $GVORV_{nacional}^{t} =$ gasto en viajes por ocio, recreo y vacaciones de turistas de origen nacional en el año $t$
+
+  $GVORV_{extranjero}^{t} =$ gasto en viajes por ocio, recreo y vacaciones de turistas de origen extranjero en el año $t$
+
+
+  <br>
+
+  <b>Proporción del gasto en viajes culturales sobre el gasto en viajes</b>
+
+  $$PGVC^{t} = \frac{GVC_{nacional}^{t}+GVC_{extranjero}^{t}}{GV_{nacional}^{t} + GV_{extranjero}^{t}} \cdot 100 $$
+
+  donde: 
+
+  $GVC_{nacional}^{t}$ gasto en viajes realizados por motivos culturales de turistas de origen nacional en el año $t$ 
+
+  $GVC_{extranjero}^{t}$ gasto en viajes realizados por motivos culturales de turistas de origen extranjero en el año $t$
+
+  $GV_{nacional}^{t}$ gasto en viajes de turistas de origen nacional en el año $t$
+  
+  $GV_{extranjero}^{t}$ gasto en viajes de turistas de origen extranjero en el año $t$
+
+
+desagregacion:
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones:
+
+texto_oceca: FUENTE.oceca
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

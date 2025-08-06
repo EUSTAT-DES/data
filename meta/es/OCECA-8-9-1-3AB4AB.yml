@@ -1,0 +1,90 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-9-titulo
+#  indicador_onu_global: indicador_largo.8-9-1-titulo
+
+
+definicion:  | 
+  El indicador se compone de varias series:
+
+   - <b>Pernoctaciones de turistas por habitante:</b> Pernoctaciones de turistas residentes y no residentes 
+      en la comunidad autónoma, incluyendo residentes en el extranjero, sobre la población
+
+   - <b>Pernoctaciones de turistas no residentes por habitante:</b> Pernoctaciones de turistas no residentes 
+      en la comunidad autónoma, incluyendo residentes en el extranjero, sobre la población
+
+   - <b>Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total 
+     de pernoctaciones de turistas:</b> Proporción de las pernoctaciones de turistas residentes y no residentes en la 
+     comunidad autónoma, inlcuyendo residentes en el extranjero, en los dos meses de máxima ocupación sobre su total anual
+
+   - <b>Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones 
+     de turistas no residentes:</b> Proporción de las pernoctaciones de turistas no residentes en la comunidad autónoma, incluyendo 
+     residentes en el extranjero, en los dos meses de máxima ocupación sobre su total anual
+
+
+formula:  |
+
+  <b>Pernoctaciones de turistas por habitante </b>
+
+  $$PERNP^{t} = \frac{{PERN^{t}}}{P^{t}}$$
+
+  donde:
+
+  $PERN^{t} =$ pernoctaciones de turistas residentes y no residentes en el año $t$
+
+  $P^{t} =$ población a 1 de julio del año $t$
+
+  <br>
+
+  <b>Pernoctaciones de turistas no residentes por habitante</b>
+
+  $$PERNP_{no\, residentes}^{t} = \frac{{PERN_{no\, residentes}^{t}}}{P^{t}}$$
+
+  donde:
+
+  $PERN_{no\, residentes}^{t} =$ pernoctaciones de turistas no residentes en el año $t$
+
+  $P^{t} =$ población a 1 de julio del año $t$
+
+  <br>
+
+  <b>Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total 
+     de pernoctaciones de turistas</b>
+
+
+  $$PERNP_{2\, meses\, max}^{t} = \frac{{PERN_{2\, meses\, max}^{t}}}{PERN^{t}}$$
+
+  donde:
+
+  $PERN_{2\, meses\, max}^{t} =$ pernoctaciones de turistas residentes y no residentes en los dos meses de máxima ocupación del año $t$
+
+  $PERN^{t} =$ pernoctaciones de turistas residentes y no residentes en el año $t$
+
+
+
+  <b>Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones 
+     de turistas no residentes</b>
+
+
+  $$PERNP_{no\, residentes\, 2\, meses\, max}^{t} = \frac{{PERN_{no\, residentes\, 2\, meses\, max}^{t}}}{PERN_{no\, residentes}^{t}}$$
+
+  donde:
+
+
+  $PERN_{no\, residentes\, 2\, meses\, max}^{t} =$ pernoctaciones de turistas no residentes en los dos meses de máxima ocupación del año $t$
+
+  $PERN_{no\, residentes}^{t} =$ pernoctaciones de turistas no residentes en el año $t$
+
+
+desagregacion:
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones:
+
+texto_oceca: FUENTE.oceca
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
