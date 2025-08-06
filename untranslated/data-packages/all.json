@@ -4765,7 +4765,7 @@
             "type": "integer"
           },
           {
-            "name": "Serie",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -12901,7 +12901,7 @@
             "type": "integer"
           },
           {
-            "name": "Serie",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [

@@ -5031,7 +5031,7 @@
             "title": "Año"
           },
           {
-            "name": "Serie",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -13624,7 +13624,7 @@
             "title": "Año"
           },
           {
-            "name": "Serie",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -13642,7 +13642,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "OVERNIGHT_STAY",
+                "Pernoctaciones",
                 "%",
                 ""
               ]

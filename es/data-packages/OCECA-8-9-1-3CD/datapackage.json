@@ -16,7 +16,7 @@
             "title": "Año"
           },
           {
-            "name": "Serie",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [

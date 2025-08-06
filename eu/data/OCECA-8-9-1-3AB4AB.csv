@@ -1,22 +1,22 @@
-Year,Serie,Units,Value
-2016,Turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,12.2
-2017,Turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,10.8
-2018,Turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,10.4
-2019,Turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,10.0
-2020,Turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,6.0
-2021,Turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,7.3
-2022,Turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,9.3
-2023,Turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,10.5
-2024,Turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,11.0
-2016,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,9.3
-2017,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,8.5
-2018,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,8.0
-2019,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,7.4
-2020,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,3.6
-2021,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,4.7
-2022,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,7.6
-2023,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,8.7
-2024,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,OVERNIGHT_STAY,8.9
+Year,Series,Units,Value
+2016,Turisten ostatu-gauak biztanleko,Gaualdiak,12.2
+2017,Turisten ostatu-gauak biztanleko,Gaualdiak,10.8
+2018,Turisten ostatu-gauak biztanleko,Gaualdiak,10.4
+2019,Turisten ostatu-gauak biztanleko,Gaualdiak,10.0
+2020,Turisten ostatu-gauak biztanleko,Gaualdiak,6.0
+2021,Turisten ostatu-gauak biztanleko,Gaualdiak,7.3
+2022,Turisten ostatu-gauak biztanleko,Gaualdiak,9.3
+2023,Turisten ostatu-gauak biztanleko,Gaualdiak,10.5
+2024,Turisten ostatu-gauak biztanleko,Gaualdiak,11.0
+2016,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,Gaualdiak,9.3
+2017,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,Gaualdiak,8.5
+2018,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,Gaualdiak,8.0
+2019,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,Gaualdiak,7.4
+2020,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,Gaualdiak,3.6
+2021,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,Gaualdiak,4.7
+2022,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,Gaualdiak,7.6
+2023,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,Gaualdiak,8.7
+2024,Egoiliarrak ez diren turisten ostatu-gauak biztanleko,Gaualdiak,8.9
 2016,"Gehieneko okupazioko bi hilabeteetan turistek igarotako gauen proportzioa, turisten ostatu-gau guztien aldean",%,33.7
 2017,"Gehieneko okupazioko bi hilabeteetan turistek igarotako gauen proportzioa, turisten ostatu-gau guztien aldean",%,30.7
 2018,"Gehieneko okupazioko bi hilabeteetan turistek igarotako gauen proportzioa, turisten ostatu-gau guztien aldean",%,31.2

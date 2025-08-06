@@ -77,7 +77,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #15-1-E1,complete,progreso,,line
 #15-2-1,complete,alcanzado,,line
 #15-3-1,complete,progreso,,line
-#15-4-1,complete,noevaluado,,line
+#15-4-1,complete,noevaluado,,bar
 #15-4-2,complete,alcanzado,,line
 #15-5-1,notstarted,notstarted,,line
 #15-6-1,notstarted,notstarted,,line

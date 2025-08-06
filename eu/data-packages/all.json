@@ -5031,7 +5031,7 @@
             "title": "Urtea"
           },
           {
-            "name": "Serie",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5040,7 +5040,7 @@
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Units",
@@ -13624,7 +13624,7 @@
             "title": "Urtea"
           },
           {
-            "name": "Serie",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -13635,14 +13635,14 @@
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Seriea"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "OVERNIGHT_STAY",
+                "Gaualdiak",
                 "%",
                 ""
               ]
