@@ -43,11 +43,6 @@ related_indicators: []
 reporting_status: complete
 sort: ''
 sources:
-  - organisation: FUENTE.Euskadi_Bienestar
-    periodicity: FUENTE.FREQ_A2
-    url: FUENTE.Euskadi_Bienestar_epds_url
-    url_text: FUENTE.Euskadi_Bienestar_epds
-    logo: FUENTE.Euskadi_logo
   - organisation: FUENTE.INE
     periodicity: FUENTE.FREQ_A
     url: FUENTE.INE_ecv_url

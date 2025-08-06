@@ -1,0 +1,32 @@
+ # Metadatos nacionales (ficha metodológica)
+
+objetivo_global: objetivo_largo.9-titulo
+meta_global: meta_largo.9-4-titulo
+#  indicador_onu_global: indicador_largo.9-4-1-titulo
+
+
+definicion: >- 
+  Carbon dioxide (CO2) emissions compared to 2005
+
+formula:  |
+
+  $$TVECO2_{2005}^{t} = \frac{ECO2^{t}-ECO2^{2005}}{ECO2^{2005}} $$
+
+  where:
+
+  $ECO2^{t} =$ CO2 emissions in year $t$
+
+  $ECO2^{2005} =$ CO2 emissions in year 2005
+
+desagregacion:
+
+observaciones:
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+
+
+

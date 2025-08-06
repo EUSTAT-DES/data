@@ -1,0 +1,85 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-9-titulo
+#  indicador_onu_global: indicador_largo.8-9-1-titulo
+
+
+definicion:  | 
+  The indicator is composed of several series:
+
+   - <b>Tourist overnight stays per inhabitant:</b> Resident and non-resident tourist 
+      overnight stays in the Autonomous Community, including residents abroad, as a percentage of the population
+
+   - <b>Overnight stays of non-resident tourists per inhabitant:</b> Non-resident tourist overnight stays in 
+     the Autonomous Community, including residents abroad, as a percentage of the population
+
+   - <b>Proportion of overnight stays by tourists in the two months of maximum occupancy over the total overnight stays by tourists:</b> Proportion of resident and non-resident tourist overnight 
+      stays in the Autonomous Community, including residents abroad, in the two months of peak occupancy as a percentage of the annual total
+
+   - <b>Proportion of overnight stays by non-resident tourists in the two months of maximum occupancy over the total overnight stays by non-resident tourists:</b> Proportion 
+      of non-resident tourist overnight stays in the Autonomous Community, including residents abroad, in the two months maximum occupancy over its annual total
+
+formula:  |
+
+  <b>Tourist overnight stays per inhabitant</b>
+
+  $$PERNP^{t} = \frac{{PERN^{t}}}{P^{t}}$$
+
+  where:
+
+  $PERN^{t} =$ overnight stays of resident and non-resident tourists in year $t$
+
+  $P^{t} =$ population as of July 1, year $t$
+
+  <br>
+
+  <b>Overnight stays of non-resident tourists per inhabitant</b>
+
+  $$PERNP_{non\, residents}^{t} = \frac{{PERN_{non\, residents}^{t}}}{P^{t}}$$
+
+  where:
+
+  $PERN_{non\, residents}^{t} =$ overnight stays of non-resident tourists in year $t$
+
+  $P^{t} =$ population as of July 1, year $t$
+
+  <br>
+
+  <b>Proportion of overnight stays by tourists in the two months of maximum occupancy over the total overnight stays by tourists</b>
+
+
+  $$PERNP_{2\, months\, max}^{t} = \frac{{PERN_{2\, months\, max}^{t}}}{PERN^{t}}$$
+
+  where:
+
+  $PERN_{2\, months\, max}^{t} =$ overnight stays by resident and non-resident tourists in the two months of peak occupancy of the year $t$
+
+  $PERN^{t} =$ overnight stays by resident and non-resident tourists in year $t$
+
+  <br>
+
+  <b>Proportion of overnight stays by non-resident tourists in the two months of maximum occupancy over the total overnight 
+    stays by non-resident tourists</b>
+
+
+  $$PERNP_{non\, residents\, 2\, months\, max}^{t} = \frac{{PERN_{non\, residents\, 2\, meses\, months}^{t}}}{PERN_{non\, residents}^{t}}$$
+
+  where:
+
+  $PERN_{non\, residents\, 2\, meses\, months}^{t} =$ overnight stays by non-resident tourists in the two months of peak occupancy of the year $t$
+
+  $PERN_{non\, residents}^{t} =$ overnight stays by non-resident tourists in year $t$
+
+
+desagregacion:
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones:
+
+texto_oceca: FUENTE.oceca
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

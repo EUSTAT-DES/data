@@ -1,0 +1,61 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-9-titulo
+#  indicador_onu_global: indicador_largo.8-9-1-titulo
+
+
+definicion:  | 
+  The indicator is composed of several series:
+
+   - <b>Proportion of spending on cultural trips over spending on trips for leisure, recreation and vacations:</b> Proportion that
+      represents spending on trips made for cultural reasons with the main destination being the autonomous community compared to 
+      spending on trips for leisure, recreation, and vacations.
+
+   - </b>Proportion of spending on cultural trips over travel spending:</b> Proportion of spending on cultural trips over 
+      spending on trips made for cultural reasons with the main destination being the autonomous community.
+
+formula:  |
+
+  <b>Proportion of spending on cultural trips over spending on trips for leisure, recreation and vacations</b>
+
+  $$PGVCORV^{t} = \frac{GVC_{national}^{t}+GVC_{foreign}^{t}}{GVORV_{national}^{t} + GVORV_{foreign}^{t}} \cdot 100 $$ 
+
+  where: 
+
+  $GVC_{national}^{t} =$ expenditure on cultural trips by national tourists in year $t$ 
+
+  $GVC_{foreign}^{t} =$ expenditure on cultural trips by foreign tourists in year $t$
+
+  $GVORV_{national}^{t} =$ expenditure on leisure, recreation, and vacation trips by national tourists in year $t$
+
+  $GVORV_{foreign}^{t} =$ expenditure on leisure, recreation, and vacation trips by foreign tourists in year $t$
+
+  <br>
+
+  <b>Proportion of spending on cultural trips over travel spending</b>
+
+  $$PGVC^{t} = \frac{GVC_{national}^{t}+GVC_{foreign}^{t}}{GV_{national}^{t} + GV_{foreign}^{t}} \cdot 100 $$
+
+  where: 
+
+  $GVC_{national}^{t}$ expenditure on cultural trips by national tourists in year $t$ 
+
+  $GVC_{foreign}^{t}$ expenditure on cultural trips by foreign tourists in year $t$
+
+  $GV_{national}^{t}$ expenditure on trips by national tourists in year $t$
+  
+  $GV_{foreign}^{t}$ expenditure on trips by foreign tourists in year $t$
+
+
+desagregacion:
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones:
+
+texto_oceca: FUENTE.oceca
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
