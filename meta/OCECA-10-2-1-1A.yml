@@ -1,0 +1,34 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+objetivo_global: objetivo_largo.10-titulo
+meta_global: meta_largo.10-2-titulo
+#  indicador_onu_global: indicador_largo.10-2-1-titulo
+
+
+definicion: >-
+  Estatuko medianaren % 50tik beherako diru-sarrerak dituzten pertsonen proportzioa (kontsumo-unitate bakoitzeko, ELGA eskala aldatuan)
+
+formula: |
+  $$PP50ME_{NAC}^{t} = \frac{P50ME_{NAC}^{t}}{P^{t}} \cdot 100$$
+
+  non:
+
+  $P50ME_{NAC}^{t} =$ diru-sarreren estatuko medianaren % 50 baino diru-sarrera baxuagoak dituzten pertsonak $t$ urtean
+
+  $P^{t} =$ guztizko biztanleria $t$ urtean
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones: |
+
+  Adierazle hau kalkulatzeko erabiltzen diren diru-sarrerak inkestaren aurreko urtekoak dira.
+
+  Etxeko kontsumo-unitateen kopurua kalkulatzeko, ELGA eskala aldatua erabiltzen da. 
+  Eskala horrek 1 pisua esleitzen dio 14 urte edo gehiagoko lehen pertsonari, 0,5 pisua 14 urte edo 
+  gehiagoko gainerako pertsonei eta 0,3 pisua 14 urtetik beherako pertsonei.
+
+texto_oceca: FUENTE.oceca
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

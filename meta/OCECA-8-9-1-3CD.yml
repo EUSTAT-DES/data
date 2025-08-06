@@ -1,0 +1,62 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-9-titulo
+#  indicador_onu_global: indicador_largo.8-9-1-titulo
+
+
+definicion:  | 
+  Adierazleak hainbat serie ditu:
+
+   - <b>Kultura-bidaietako gastuaren proportzioa, aisia, jolas eta oporretako bidaietako gastuaren aldean:</b> Arrazoi kulturalengatik Euskal Autonomia Erkidegora 
+     egindako bidaietako gastuaren proportzioa, aisia, jolas eta oporretako bidaietako gastuarekiko
+
+   - <b>Kultura-bidaietako gastuaren proportzioa bidaietako gastuarekiko:</b> Arrazoi kulturalengatik Euskal Autonomia Erkidegora egindako bidaietako 
+      gastuaren proportzioa, bidaietako gastuarekiko
+
+
+formula:  |
+
+  <b>Kultura-bidaietako gastuaren proportzioa, aisia, jolas eta oporretako bidaietako gastuaren aldean</b>
+
+  $$PGVCORV^{t} = \frac{GVC_{nazionala}^{t}+GVC_{atzerritarra}^{t}}{GVORV_{nazionala}^{t} + GVORV_{atzerritarra}^{t}} \cdot 100 $$ 
+
+  non: 
+
+  $GVC_{nazionala}^{t} =$ jatorri nazionaleko turistek kultura-arrazoiengatik egindako bidaietako gastua $t$ urtean
+
+  $GVC_{atzerritarra}^{t} =$ atzerriko turistek kultura-arrazoiengatik egindako bidaietako gastua $t$ urtean
+
+  $GVORV_{nazionala}^{t} =$ jatorri nazionaleko turistek aisialdiko, jolasaldiko eta oporretako bidaietan egindako gastua $t$ urtean
+
+  $GVORV_{atzerritarra}^{t} =$ atzerritar jatorriko turistek aisialdiko, jolasaldiko eta oporretako bidaietan egindako gastua $t$ urtean
+
+
+  <br>
+
+  <b>Kultura-bidaietako gastuaren proportzioa bidaietako gastuarekiko</b>
+
+  $$PGVC^{t} = \frac{GVC_{nazionala}^{t}+GVC_{atzerritarra}^{t}}{GV_{nazionala}^{t} + GV_{atzerritarra}^{t}} \cdot 100 $$
+
+  non: 
+
+  $GVC_{nazionala}^{t}$ jatorri nazionaleko turistek kultura-arrazoiengatik egindako bidaietako gastua $t$ urtean
+
+  $GVC_{atzerritarra}^{t}$ atzerriko turistek kultura-arrazoiengatik egindako bidaietako gastua $t$ urtean
+
+  $GV_{nazionala}^{t}$ jatorri nazionaleko turistek egindako bidaietako gastua $t$ urtean
+  
+  $GV_{atzerritarra}^{t}$ atzerriko turistek egindako bidaietako gastua $t$ urtean
+
+
+desagregacion:
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones:
+
+texto_oceca: FUENTE.oceca
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
