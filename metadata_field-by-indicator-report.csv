@@ -38,7 +38,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #11-6-2,complete,progreso,,line
 #11-7-1,complete,alcanzado,,line
 #11-7-2,complete,retroceso,,line
-#11-a-1,complete,alcanzado,,line
+#11-a-1,complete,alcanzado,True,line
 #11-b-1,complete,alcanzado,,line
 #11-b-2,complete,alcanzado,True,line
 #12-1-1,complete,alcanzado,,bar
