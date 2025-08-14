@@ -82,7 +82,7 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 11-6-2-titulo: "Niveles medios anuales de partículas finas en suspensión ($PM_{2,5}$ y $PM_{10}$) en las ciudades (ponderados según la población)"
 11-7-1-titulo: "Proporción media de la superficie edificada de las ciudades que se dedica a espacios abiertos para uso público de todos"
 11-7-2-titulo: "Número de personas que han sido víctimas de acoso no sexual o sexual en los últimos 12 meses por cada 100.000 habitantes"
-11-a-1-titulo: "Proporción de la población residente en municipios que cuentan con un plan de ordenación territorial, o que dispone de Plan General, Normas Subsidiarias o figuras equivalentes"
+11-a-1-titulo: "Proporción de municipios que cuentan con un plan de ordenación territorial, o que disponen de un plan urbanístico municipal"
 
 
 12-1-1-titulo: "Se elaboran, adoptan o aplican instrumentos de política destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles"
@@ -215,7 +215,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 5-4-1-contenido: "<b>Dirección deseada:</b> Para poder calcular el progreso hacia el objetivo de reparto equitativo de las funciones parentales y las responsabilidades familiares, se valora la relación entre la proporción de tiempo de las mujeres y el de los hombres, con un objetivo deseado de 1"
 5-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 5-5-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-5-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+5-a-1-contenido: "<b>Dirección deseada:</b> Ascenso en la serie b) Proporción de mujeres entre los propietarios o los titulares de derechos sobre tierras agrícolas, desglosada por tipo de tenencia"
 5-a-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 5-a-E1-contenido: "<b>Dirección deseada:</b> Descenso en la brecha de género"
 5-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -248,7 +248,9 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 8-5-E1-contenido: "<b>Dirección deseada:</b> En la serie Tasa de ocupación, el objetivo europeo es alcanzar un 78% para el año 2030. Por su parte, en la serie Brecha de género, la meta es reducir la diferencia a un máximo de 5,8 puntos porcentuales en ese mismo año."
 8-6-1-contenido: "<b>Dirección deseada:</b> Descenso"
 8-8-1-contenido: "<b>Dirección deseada:</b> Descenso"
-8-9-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+8-9-1-contenido: "No evaluable. Para evaluar el progreso, el indicador se debería complementar con indicadores 
+  adicionales sobre los aspectos sociales (por ejemplo, empleo, etc.) y ambientales 
+  (uso de energía, emisiones de GEI, etc.) del turismo"
 8-10-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 8-10-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 8-b-1-contenido: |
@@ -366,7 +368,6 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 
 # NOTAS
 
-1-3-1-nota: "Indicador en revisión"
 
 # ANOTACIONES
 
@@ -378,9 +379,21 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 1-2-2-notapie: Los datos a partir del 2022 del Indicador de pobreza y exclusion AROPE se 
   calculan con la nueva definicion de la tasa (metodología Eurostat del año 2021), 
   mientras que los datos anteriores corresponden a la definición antigua.
+1-3-1-notapie: Los datos del último año son provisionales
+1-5-2-notapie: Los datos del último año son provisionales
 1-5-4-notapie: Los municipios que disponen de un plan (municipal o territorial) de emergencias tienen un valor de 100%
 2-a-1-notapie: Los datos del último año de la CAE y territorios históricos son provisionales
+4-3-1-notapie: Los datos del último año son provisionales
+5-5-2-notapie: Los datos del último año son provisionales
 8-1-1-notapie: Los datos del último año son provisionales
 8-2-1-notapie: Los datos del último año son provisionales
 8-5-2-notapie: Los datos del último años no están disponibles por municipio
-
+8-5-E1-notapie: Los datos del último año de la CAE y territorios históricos son provisionales. Los datos del último años no están disponibles por municipio
+8-6-1-notapie: Los datos del último año son provisionales
+9-2-1-notapie: Los datos del último año son provisionales
+9-2-2-notapie: Los datos del último año son provisionales
+10-4-1-notapie: Los datos del último año son provisionales
+11-a-1-notapie: Los municipios que disponen de un plan de ordenación municipal o territorial tienen un valor de 100%
+17-2-1-notapie: Los datos del último año son provisionales
+17-3-1-notapie: Los datos del último año son provisionales
+17-13-1-notapie: Los datos del último año son provisionales
