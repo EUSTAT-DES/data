@@ -15,7 +15,7 @@ definicion: >-
 
 formula: |
 
-  $$LAPFEO^{t} = \begin{cases} 1 & \text{Estatistika Ofizialen Oinarrizko Printzipioak betetzen ditu 𝑡 urtean} \\ 0 & \text{Ez ditu betetzen Estatistika Ofizialen Oinarrizko Printzipioak 𝑡 urtean} \end{cases} $$
+  $$LAPFEO^{t} = \begin{cases} 1 & \text{Estatistika Ofizialen Oinarrizko Printzipioak betetzen ditu 𝑡 urtean} \\ -1 & \text{Ez ditu betetzen Estatistika Ofizialen Oinarrizko Printzipioak 𝑡 urtean} \end{cases} $$
 
 
 desagregacion: >-

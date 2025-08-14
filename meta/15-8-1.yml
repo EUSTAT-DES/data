@@ -13,7 +13,7 @@ definicion: >-
 
 formula: |
 
-  $$LCEEI^{t} = \begin{cases} 1 & \text{Legeria egokia dago eta baliabideak bideratzen dira 𝑡 urtean} \\ 0 & \text{Ez dago legeria egokirik edo ez da baliabiderik bideratzen 𝑡 urtean} \end{cases} $$
+  $$LCEEI^{t} = \begin{cases} 1 & \text{Legeria egokia dago eta baliabideak bideratzen dira 𝑡 urtean} \\ -1 & \text{Ez dago legeria egokirik edo ez da baliabiderik bideratzen 𝑡 urtean} \end{cases} $$
 
 desagregacion:
 

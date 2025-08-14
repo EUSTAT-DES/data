@@ -16,7 +16,7 @@ formula: |
 
   $$PCPS^{t} =\begin{cases}
   1 & \text{kontsumo eta ekoizpen jasangarrirako politikak egin, hartu edo aplikatzen badira $t$ urtean } \\
-  0 & \text{ez bada kontsumo eta ekoizpen jasangarrirako politikarik egin, ez hartu eta ez aplikatzen $t$ urtean } 
+  -1 & \text{ez bada kontsumo eta ekoizpen jasangarrirako politikarik egin, ez hartu eta ez aplikatzen $t$ urtean } 
   \end{cases}$$
 
 desagregacion: 

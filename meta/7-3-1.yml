@@ -11,20 +11,20 @@ meta_global: meta_largo.7-3-titulo
 definicion: |
 
   Energia primarioaren intentsitate energetikoaren maila 
-  (BPGaren araberako megajulioak 2017ko erosteko ahalmen konstantearen 
+  (BPGaren araberako megajulioak 2021eko erosteko ahalmen konstantearen 
   parekotasunean)
  
 
 formula: |
 
-  $$IE^{t} = \frac{CE^{t}}{PIB_{2017EAP}^{t}}$$
+  $$IE^{t} = \frac{CE^{t}}{PIB_{2021EAP}^{t}}$$
 
   non:
 
   $CE^{t} =$ energiaren barne-kontsumo gordina $t$ urtean
 
-  $PIB_{2017EAP}^{t} =$ barne-produktu gordina erosteko ahalmenaren parekotasunean, 
-  2017ko USDren prezio konstanteetan $t$ urtean 
+  $PIB_{2021EAP}^{t} =$ barne-produktu gordina erosteko ahalmenaren parekotasunean, 
+  2021eko USDren prezio konstanteetan $t$ urtean 
 
 
 desagregacion: >- 
