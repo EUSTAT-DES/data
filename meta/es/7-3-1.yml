@@ -10,17 +10,17 @@ meta_global: meta_largo.7-3-titulo
 
 definicion: |
 
-  Nivel de intensidad energética de la energía primaria (megajulios por PIB en paridad de poder adquisitivo constante de 2017) 
+  Nivel de intensidad energética de la energía primaria (megajulios por PIB en paridad de poder adquisitivo constante de 2021) 
 
 formula: |
 
-  $$IE^{t} = \frac{CE^{t}}{PIB_{2017PPA}^{t}}$$
+  $$IE^{t} = \frac{CE^{t}}{PIB_{2021PPA}^{t}}$$
 
   donde:
 
   $CE^{t} =$ consumo interior bruto de energía en el año $t$
 
-  $PIB_{2017PPA}^{t} =$ producto interior bruto en paridad de poder adquisitivo en precios constantes de USD de 2017 en el año $t$ 
+  $PIB_{2021PPA}^{t} =$ producto interior bruto en paridad de poder adquisitivo en precios constantes de USD de 2021 en el año $t$ 
 
 
 desagregacion: >- 

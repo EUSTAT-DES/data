@@ -10,43 +10,48 @@ meta_global: meta_largo.11-a-titulo
 definicion: |
   Este indicador se compone de dos series:
 
-   <b>- Proporción de la población residente en municipios que cuentan con un plan de ordenación territorial</b>
+   <b>- Proporción de municipios cubiertos por un plan de ordenación territorial (PTP)</b>
 
-   <b>- Proporción de la población residente en municipios que disponen de plan general o normas subsidiarias de planeamiento urbanístico</b>
+   <b>- Proporción de municipios que disponen de un planeamiento urbanístico municipal (PGOU o NNSS)</b>
+
 
 formula: |
 
-  <b>Proporción de la población residente en municipios que cuentan con un plan de ordenación territorial</b>
+  <b>Proporción de municipios cubiertos por un plan de ordenación territorial (PTP)</b>
   
-  $$PPTP^{t} = \frac{PTP^{t}}{P^{t}} \cdot 100$$
+  $$PMUN_{PTP}^{t} = \frac{MUN_{PTP}^{t}}{MUN^{t}} \cdot 100$$
 
   donde:
 
-  $PTP^{t} =$ población residente en municipios que cuentan con Plan Territorial Parcial el 1 de enero del año $t$
+  $MUN_{PTP}^{t} =$ número de municipios cubiertos por un plan de ordenación territorial (PTP) en el año $t$
 
-  $P^{t} =$ población a 1 de enero del año $t$
+  $MUN^{t} =$ número de municipios en el año $t$
 
 
   <br>
 
-  <b>Proporción de la población residente en municipios que disponen de plan general o normas subsidiarias de planeamiento urbanístico</b>
+  <b>Proporción de municipios que disponen de un planeamiento urbanístico municipal (PGOU o NNSS)</b>
 
-  $$PPPGNS^{t} = \frac{PPG^{t}+PNS^{t}}{P^{t}} \cdot 100$$
+  $$PMUN_{PGOU}^{t} = \frac{MUN_{PGOU}^{t}}{MUN^{t}} \cdot 100$$
 
   donde:
 
-  $PPG^{t} =$ población residente en municipios que disponen de plan general el 1 de enero del año $t$
+  $MUN_{PGOU}^{t} =$ número de municipios con planeamiento urbanístico municipal (PGOU o NNSS) en el año $t$
 
-  $PNS^{t} =$ población residente en municipios que disponen de normas subsidiarias el 1 de enero del año $t$
+  $MUN^{t} =$ número de municipios en el año $t$
 
-  $P^{t} =$ población a 1 de enero del año $t$
+desagregacion: |
 
-desagregacion:
+  Territorio histórico
+
+  Comarca
+
+  Municipio
 
 observaciones: >-
 
 periodicidad: FUENTE.FREQ_A
-texto_oceca: FUENTE.oceca
+
 
  # Metadatos mundiales (Descripción del indicador)  
 

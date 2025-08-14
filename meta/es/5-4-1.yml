@@ -9,7 +9,8 @@ meta_global: meta_largo.5-4-titulo
 
 
 definicion: >-
-  Promedio diario de minutos dedicados a actividades destinadas al hogar y la familia por habitante
+  Promedio diario de minutos dedicados a actividades destinadas al hogar y la familia (trabajos domésticos o 
+  cuidar las personas del hogar) por habitante
 
 formula: |
 
@@ -17,9 +18,9 @@ formula: |
 
   donde:
 
-  $THF^{t} =$ minutos dedicados por la población al hogar y la familia en un día promedio en el año $t$
+  $THF^{t} =$ minutos dedicados por la población a los trabajos domésticos o a cuidar las personas del hogar en un día promedio en el año $t$
 
-  $PHF^{t} =$ población que destina tiempo al hogar y la familia en un día promedio en el año $t$
+  $PHF^{t} =$ población en el año $t$
 
 desagregacion: |
   Sexo
@@ -59,8 +60,7 @@ dato_global: >-
 
 
 comparabilidad: >-
-  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas, pero aporta
-  información similar.
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-04-01.pdf">Metadatos 5-4-1.pdf</a> (solo en inglés)'
 
