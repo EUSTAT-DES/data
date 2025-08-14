@@ -31,7 +31,7 @@ reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.BE
-    periodicity: FUENTE.FREQ_A
+    periodicity: FUENTE.FREQ_I
     url: FUENTE.BE_ecf_url
     url_text: FUENTE.BE_ecf
     logo: FUENTE.BE_logo
