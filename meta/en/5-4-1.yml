@@ -10,6 +10,7 @@ meta_global: meta_largo.5-4-titulo
 
 definicion: >-
   Average number of minutes dedicated each day to activities related to home and family per inhabitant
+  (domestic chores and care of people in the household)
 
 formula: |
 
@@ -17,9 +18,9 @@ formula: |
 
   where:
 
-  $THF^{t} =$ minutes dedicated by the population to home and family on an average day in year $t$
+  $THF^{t} =$ minutes dedicated by the population to home and family (domestic chores orcare of people in the household) on an average day in year $t$
 
-  $PHF^{t} =$  population that dedicates time to home and family on an average day in year $t$
+  $PHF^{t} =$  population in year $t$
 
 desagregacion: |
   Sex
@@ -55,7 +56,7 @@ dato_global: >-
 
 
 comparabilidad: >-
-  The available indicator does not comply with United Nations metadata but provides similar information.
+  The available indicator complies with United Nations metadata.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-04-01.pdf">Metadata 5-4-1.pdf</a>'
 

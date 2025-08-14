@@ -8,19 +8,18 @@ meta_global: meta_largo.12-5-titulo
 #  indicador_onu_global: indicador_largo.12-5-1-titulo
 
 definicion: >-
-  Proportion of urban waste recycled compared to the total amount of urban waste generated 
-  by households and the services sector (businesses, offices and public or private institutions), 
-  which is treated and managed by the Local Entities
+  Proportion of urban waste recycled compared to the total amount of urban waste generated.
 
 formula: |
 
-  $$PRU_{recycled}^{t} = \frac{\frac{RU_{recycled}^{t}}{P^{t}}}{365} $$
+  $$PRU_{recycled}^{t} = \frac{RU_{recycled}^{t}}{RU^{t}}$$
+
 
   where: 
 
   $RU_{recycled}^{t} =$ amount of urban  waste recycled in year $t$
 
-  $RU^{t} =$ total amount of urban waste generated and treated in yea $t$
+  $RU^{t} =$ total amount of urban waste generated and treated in year $t$
 
 
 desagregacion: |

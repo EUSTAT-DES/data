@@ -16,7 +16,7 @@ formula: |
 
   $$PCPS^{t} =\begin{cases}
   1 & \text{If policies for sustainable consumption and production are developed, adopted or applied in year } t \\
-  0 & \text{If policies for sustainable consumption and production are not developed, adopted or applied in year } t
+  -1 & \text{If policies for sustainable consumption and production are not developed, adopted or applied in year } t
   \end{cases}$$
 
 desagregacion: 
