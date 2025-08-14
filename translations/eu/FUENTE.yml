@@ -53,7 +53,7 @@ Ihobe: IHOBE
 TIE: "Nazioarteko Gardentasuna - Espainia"
 OCDE: Ekonomia Lankidetza eta Garapenerako Erakundea (OECD)
 ONU: Nazio Batuen Erakundea (NBE)
-
+IGN: Geografiako Institutu Nazionala
 
 
 # ERAGIKETA
@@ -173,6 +173,7 @@ GE_Vivienda_siu: Hiri-informazioko sistema
 CNMC_tsa: Telekomunikazioak eta ikus-entzunezkoen sektorea
 GE_Interior_tesh: Gizakien salerosketa eta esplotazioa Espainian. Balantze estatistikoa
 Euskadi_Vivienda_udalplan: EAEko hirigintza-plangintzaren geografia-informazioko sistema (UDALPLAN)
+Euskadi_Vivienda_inbentarioa: Plangintzaren Inbentarioa
 CGPD_ejud: Estatistika Judiziala
 
 
@@ -228,7 +229,7 @@ BE_efc_url: https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservi
 GE_Exteriores_aod_url: https://www.aecid.es/la-aecid/en-cifras#:~:text=La%20Ayuda%20Oficial%20al%20Desarrollo,gestion%C3%B3%20307%20millones%20de%20euros
 Euskadi_Industria_ecair_url: https://www.euskadi.eus/informazioa/atmosfera-kutsaduraren-estatistika-090203/web01-s2ekono/eu/
 Euskadi_Industria_ecagua_url: https://www.euskadi.eus/informazioa/ur-kontsumoaren-estatistika-090215/web01-s2ing/eu/
-Eustat_edef_url: https://eu.eustat.eus/estadisticas/tema_28/opt_0/tipo_1/temas.html
+Eustat_edef_url: https://eu.eustat.eus/estadisticas/tema_28/opt_0/temas.html
 GE_Sanidad_edo_url: https://cne.isciii.es/en/services/department-of-communicable-diseases/diseases-a-z
 GE_Cultura_efgpc_url: https://www.cultura.gob.es/servicios-al-ciudadano/estadisticas/cultura/mc/culturabase/gasto-publico/resultados-gasto-publico.html
 Euskadi_Industria_fm_url: https://www.euskadi.eus/informazioa/materialen-fluxuaren-estatistika-090217/web01-s2ing/eu/
@@ -238,7 +239,7 @@ Euskadi_Industria_cma_url: https://www.euskadi.eus/informazioa/ur-masen-kalitate
 Ekolurra_epe_url: https://www.euskadi.eus/ekoizpen-ekologikoa/web01-a2estadi/eu/
 GE_Agricultura_esyrce_url: https://www.mapa.gob.es/eu/estadistica/temas/estadisticas-agrarias/agricultura/esyrce/
 GE_Agricultura_recan_url: https://www.mapa.gob.es/eu/estadistica/temas/estadisticas-agrarias/economia/red-contable-recan/
-Eustat_emat_url: https://eu.eustat.eus/estadisticas/tema_50/opt_1/tipo_1/temas.html
+Eustat_emat_url: https://eu.eustat.eus/estadisticas/tema_50/opt_1/temas.html
 Eustat_cemm_url: https://eu.eustat.eus/estadisticas/tema_30/opt_0/temas.html
 Eustat_enac_url: https://eu.eustat.eus/estadisticas/tema_48/opt_1/temas.html
 GE_Interior_pint_url: https://proteccion-asilo.interior.gob.es/es/datos-e-informacion-estadistica/
@@ -294,6 +295,7 @@ GE_Vivienda_siu_url: https://www.mivau.gob.es/urbanismo-y-suelo/sistema-de-infor
 CNMC_tsa_url: https://data.cnmc.es/telecomunicaciones-y-sector-audiovisual
 GE_Interior_tesh_url: https://www.interior.gob.es/opencms/eu/servicios-al-ciudadano/trata/situacion-en-espana/
 Euskadi_Vivienda_udalplan_url: https://www.euskadi.eus/udalplan_eu/web01-a2lurral/eu/
+Euskadi_Vivienda_inbentarioa_url: https://www.euskadi.eus/web01-s2ing/eu/contenidos/informacion/200208_inbentarioa_tablas_esta/eu_def/index.shtml
 CGPD_ejud_url: https://www.poderjudicial.es/portal/site/cgpj/menuitem.5eba20fd90ee79c47405fa65655a4ea0/?vgnextoid=9dccd1a4dc1c3510VgnVCM1000006f48ac0aRCRD&vgnextfmt=default&vgnextlocale=eu&lang_choosen=eu
 
 
