@@ -81,7 +81,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 11-6-2-titulo: "Average annual levels of fine suspended particles ($PM_{2.5}$ and $PM_{10}$) in cities (weighted by population)"
 11-7-1-titulo: "Average proportion of the built-up area of ​​cities that is dedicated to open spaces for public use by all"
 11-7-2-titulo: "Number of people who have been victims of non-sexual or sexual harassment in the last 12 months per 100,000 inhabitants"
-11-a-1-titulo: "Proportion of the population residing in municipalities that have a territorial planning plan, or that have a General Plan, Subsidiary Regulations or equivalent figures"
+11-a-1-titulo: "Proportion of municipalities covered by a territorial land use plan or a municipal urban plan"
 
 12-1-1-titulo: "Policy instruments are developed, adopted or implemented to support the transition to sustainable consumption and production patterns"
 12-5-1-titulo: "Proportion of municipal waste recycled in relation to total municipal waste generated and treated"
@@ -213,7 +213,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 5-5-1-contenido: "<b>Desired direction:</b> Increase"
 5-5-2-contenido: "<b>Desired direction:</b> Increase"
 5-a-1-contenido: "<b>Desired direction:</b> Increase"
-5-a-2-contenido: "<b>Desired direction:</b> Increase"
+5-a-2-contenido: "<b>Desired direction:</b> Increase in Serie b) Proportion of women among owners or holders of rights to agricultural land, by tenure type"
 5-a-E1-contenido: "<b>Desired direction:</b> Decrease gender gap"
 5-b-1-contenido: "<b>Desired direction:</b> Increase"
 
@@ -242,7 +242,9 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 8-5-E1-contenido: "<b>Desired direction:</b> In the Employment Rate series, the European target is to reach 78% by 2030. In the Gender Gap series, the goal is to reduce the difference to a maximum of 5.8 percentage points in the same year."
 8-6-1-contenido: "<b>Desired direction:</b> The objective set at European level is that, by 2030, the value of the indicator corresponding to young people aged between 15 and 29 years does not exceed 9%."
 8-8-1-contenido: "<b>Desired direction:</b> Decrease"
-8-9-1-contenido: "<b>Desired direction:</b> Increase"
+8-9-1-contenido: "Not evaluable. To assess progress, the indicator should be complemented with additional 
+  indicators on the social (e.g., employment, etc) and environmental (energy use, GHG emissions, etc) 
+  aspects of tourism"
 8-10-1-contenido: "<b>Desired direction:</b> No assessment"
 8-10-2-contenido: "<b>Desired direction:</b> Increase"
 8-b-1-contenido: |
@@ -366,8 +368,21 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 
 # NOTAS AL PIE (FOOTNOTE)
 1-2-2-notapie: Data from 2022 onwards for the AROPE Poverty and Exclusion Indicator are calculated using the new definition of the rate (Eurostat methodology from 2021), while previous data correspond to the old definition.
+1-3-1-notapie: The data for the last year are provisional
+1-5-2-notapie: The data for the last year are provisional
 1-5-4-notapie: Municipalities that have an emergency plan (municipal or provincial) have a value of 100%
+2-a-1-notapie: The data for the Basque Country and the provinces for the last year are provisional
+4-3-1-notapie: The data for the last year are provisional
+5-5-2-notapie: The data for the last year are provisional
 8-1-1-notapie: The data for the last year are provisional
 8-2-1-notapie: The data for the last year are provisional
 8-5-2-notapie: The data for the last year are not available by municipality
-
+8-5-E1-notapie:  The data for the Basque Country and the provinces for the last year are provisional. The data for the last year are not available by municipality
+8-6-1-notapie: The data for the last year are provisional
+9-2-1-notapie: The data for the last year are provisional
+9-2-2-notapie: The data for the last year are provisional
+10-4-1-notapie: The data for the last year are provisional
+11-a-1-notapie: Municipalities that have an urban or territorial plan have a value of 100%
+17-2-1-notapie: The data for the last year are provisional
+17-3-1-notapie: The data for the last year are provisional
+17-13-1-notapie: The data for the last year are provisional

@@ -15,7 +15,7 @@ definicion: >-
 
 formula: |
 
-  $$LAPFEO^{t} = \begin{cases} 1 & \text{Sí cumple los Principios Fundamentales de las Estadísticas Oficiales en el año 𝑡} \\ 0 & \text{No cumple los Principios Fundamentales de las Estadísticas Oficiales en el año 𝑡} \end{cases} $$
+  $$LAPFEO^{t} = \begin{cases} 1 & \text{Sí cumple los Principios Fundamentales de las Estadísticas Oficiales en el año 𝑡} \\ -1 & \text{No cumple los Principios Fundamentales de las Estadísticas Oficiales en el año 𝑡} \end{cases} $$
 
 
 desagregacion: >-

@@ -15,7 +15,7 @@ formula: |
 
   $$CPV^{t} = \begin{cases} YES & \text{At least one population and housing census has been conducted In [t, t − 9]} \\ NO & \text{no population and housing census has been carried out in [t, t − 9]} \end{cases} $$
 
-  $$RND^{t} = \begin{cases} 1 & \text{Yes, 100% of births and at least 80% of deaths have been registered in year 𝑡} \\ 0 & \text{No, 100% of births and at least 80% of deaths have not been registered in year 𝑡} \end{cases} $$
+  $$RND^{t} = \begin{cases} 1 & \text{Yes, 100% of births and at least 80% of deaths have been registered in year 𝑡} \\ -1 & \text{No, 100% of births and at least 80% of deaths have not been registered in year 𝑡} \end{cases} $$
 
 
 desagregacion: 

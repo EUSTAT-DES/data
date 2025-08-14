@@ -12,7 +12,7 @@ definicion: >-
 
 formula: |
 
-  $$LCEEI^{t} = \begin{cases} 1 & \text{Sí se dispone de legislación pertinente y se destinan recursos en el año 𝑡} \\ 0 & \text{No se dispone de legislación pertinente o no se destinan recursos en el año 𝑡} \end{cases} $$
+  $$LCEEI^{t} = \begin{cases} 1 & \text{Sí se dispone de legislación pertinente y se destinan recursos en el año 𝑡} \\ -1 & \text{No se dispone de legislación pertinente o no se destinan recursos en el año 𝑡} \end{cases} $$
 
 desagregacion:
 

@@ -57,7 +57,10 @@ dato_global: >-
 
 
 comparabilidad: >-
-  The available indicator complies with United Nations metadata.
+  The available indicator does not comply with the metadata of the United Nations indicator but provides similar information.
+  According to the official definition, the indicator considers as the reference population women aged 20 to 24 at the 
+  time of measurement. However, in the Basque Autonomous Community it is calculated using as the denominator the 
+  population of women aged 16 and 17 in the reference year.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-03-01.pdf">Metadata 5-3-1.pdf</a>'
 

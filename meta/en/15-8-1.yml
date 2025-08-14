@@ -13,7 +13,7 @@ definicion: >-
 
 formula: |
 
-  $$LCEEI^{t} = \begin{cases} 1 & \text{Relevant legislation is available and resources are allocated in year 𝑡} \\ 0 & \text{There is no relevant legislation or no resources are allocated in year 𝑡} \end{cases} $$
+  $$LCEEI^{t} = \begin{cases} 1 & \text{Relevant legislation is available and resources are allocated in year 𝑡} \\ -8 & \text{There is no relevant legislation or no resources are allocated in year 𝑡} \end{cases} $$
 
 desagregacion:
 

@@ -9,12 +9,11 @@ meta_global: meta_largo.12-5-titulo
 
 definicion: >-
   Proporción de residuos urbanos reciclados respecto del total de residuos urbanos 
-  generados y tratados procedentes de los hogares y del sector servicios (comercios, 
-  oficinas e instituciones públicas o privadas), cuya gestión es asumida por las entidades locales
+  generados y tratados.
 
 formula: |
 
-  $$PRU_{reciclados}^{t} = \frac{\frac{RU_{reciclados}^{t}}{P^{t}}}{365}$$
+  $$PRU_{reciclados}^{t} = \frac{RU_{reciclados}^{t}}{RU^{t}}$$
 
   donde: 
 

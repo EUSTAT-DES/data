@@ -10,44 +10,47 @@ meta_global: meta_largo.11-a-titulo
 definicion: |
   Adierazle honek bi serie ditu: 
 
-   <b>- Lurralde-antolamenduko plan bat duten udalerrietan bizi diren biztanleen proportzioa</b>
+   <b>- Lurralde-antolamenduko plan batek (LPP) estalitako udalerrien proportzioa</b>
 
-   <b>- Hiri-plangintzako arau subsidiarioak edo plan orokorrak dituzten udalerrietan bizi diren biztanleen proportzioa</b>
+   <b>- Hirigintzako udal-plan bat duten udalerrien proportzioa (HAPO edo Arau Subsidiarioak)</b>
 
 
 formula: |
 
-  <b>Lurralde-antolamenduko plana duten udalerrietako biztanleen proportzioa</b>
-  
-  $$PPTP^{t} = \frac{PTP^{t}}{P^{t}} \cdot 100$$
+  $$PMUN_{PPL}^{t} = \frac{MUN_{PPL}^{t}}{MUN^{t}} \cdot 100$$
 
   non:
 
-  $PTP^{t} =$ Lurralde Plan Partziala duten udalerrietako biztanleak $t$ urteko urtarrilaren 1ean 
+  $MUN_{PPL}^{t} =$ lurralde plan partziala dituzten udalerrien kopurua $t$ urtean
 
-  $P^{t} =$ guztizko biztanleria $t$ urteko urtarrilaren 1ean
+  $MUN^{t} =$ udalerrien kopurua $t$ urtean
+
 
 
   <br>
 
-  <b>Hirigintza-plangintzako plan orokorra edo arau subsidiarioak dituzten udalerrietako biztanleen proportzioa</b>
+  <b>Hirigintzako udal-plan bat duten udalerrien proportzioa (HAPO edo Arau Subsidiarioak)</b>
 
-  $$PPPGNS^{t} = \frac{PPG^{t}+PNS^{t}}{P^{t}} \cdot 100$$
+  $$PMUN_{HAPO}^{t} = \frac{MUN_{HAPO}^{t}}{MUN^{t}} \cdot 100$$
 
   non:
 
-  $PPG^{t} =$ plan orokorra duten udalerrietako biztanleak $t$ urteko urtarrilaren 1ean 
+  $MUN_{HAPO}^{t} =$ hirigintzako udal-plana (HAPO edo Arau Subsidiarioak) duten udalerrien kopurua, $t$ urtean
 
-  $PNS^{t} =$ arau subsidiarioak dituzten udalerrietan bizi diren biztanleak $t$ urteko urtarrilaren 1ean
+  $MUN^{t} =$ udalerrien kopurua $t$ urtean
 
-  $P^{t} =$ guztizko biztanleria $t$ urteko urtarrilaren 1ean
+desagregacion: |
 
-desagregacion:
+  Lurralde historikoa 
+
+  Eskualdea 
+  
+  Udalerria 
 
 observaciones: >-
 
 periodicidad: FUENTE.FREQ_A
-texto_oceca: FUENTE.oceca
+
 
  # Metadatos mundiales (Descripción del indicador)  
 

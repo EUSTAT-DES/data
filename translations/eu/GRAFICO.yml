@@ -81,7 +81,7 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 11-6-2-titulo: "Hirietako partikula fin esekien (PM2.5 eta PM10) urteko batez besteko mailak (populazioaren arabera haztatuak)"
 11-7-1-titulo: "Erabilera publikoko espazio irekietarako erabiltzen den hirien azalera eraikiaren batez besteko proportzioa"
 11-7-2-titulo: "Azken 12 hilabeteetan jazarpen sexual edo ez sexualaren biktima izan diren pertsonen kopurua 100.000 biztanleko"
-11-a-1-titulo: "Plan Orokorra edo Arau Subsidiarioak edo antzeko figurak dituzten usalerrietako biztanleriaren proportzioa"
+11-a-1-titulo: "Lurralde-antolamenduko plan bat duten edo hirigintzako udal-plan bat duten udalerrien proportzioa"
 
 
 12-1-1-titulo: "Kontsumo- eta ekoizpen-modalitate jasangarrietarako trantsizioa bultzatzeko politika-tresnak egiten, hartzen edo aplikatzen dira"
@@ -131,8 +131,8 @@ OCECA-1-2-2-1A: "Pobreziako edo gizarte-bazterketako arriskuan dauden pertsonen 
 OCECA-1-a-2-1: "Hezkuntzara bideratzen den administrazio publiko autonomikoen gastuaren proportzioa"
 OCECA-1-a-2-2: "Osasungintzara bideratzen den administrazio publiko autonomikoen gastuaren proportzioa"
 OCECA-6-1-1: "Kontsumorako Uraren Informazio Sistema Nazionalari (SINAC) jakinarazitako hornidura-eremuetako pertsonen proportzioa"
-OCECA-8-9-1-3AB4AB: Turisten gaualdiak eta okupazio goreneko bi hilabeteetako gaualdien proportzioa turisten gaualdi guztiekiko
-OCECA-8-9-1-3CD: Kultura-bidaietako gastuaren proportzioa bidaietako gastuaren gainean
+OCECA-8-9-1-3AB4AB: "Turisten ostatu-gauak biztanleko, eta okupazio goreneko bi hilabeteetako turisten ostatu-gauen proportzioa turisten ostatu-gau guztiekiko"
+OCECA-8-9-1-3CD: "Kultura-bidaietako gastuaren proportzioa bidaietako gastuarekiko"
 OCECA-9-4-1-5: "$CO_2$ isuriak 1990. urtearekiko"
 OCECA-9-4-1-6: "$CO_2$ isuriak 2005. urtearekiko"
 OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen proportzioa, estatuko mediana kontuan hartuta"
@@ -216,7 +216,7 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 5-4-1-contenido: "<b>Nahi den norabidea:</b> Guraso-funtzioak eta familia-ardurak berdintasunez banatzeko helbururantz egindako aurrerapena kalkulatu ahal izateko, emakumeen eta gizonen denbora-proportzioaren arteko erlazioa baloratzen da, lortu nahi den helburua 1 izanik"
 5-5-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 5-5-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
-5-a-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+5-a-1-contenido: "<b>Nahi den norabidea:</b> Igoera b) Seriean: Emakumeen proportzioa nekazaritza-lurren jabeen edo eskubideen titularren artean"
 5-a-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 5-a-E1-contenido: "<b>Nahi den norabidea:</b> Genero arrakala murriztea"
 5-b-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
@@ -248,7 +248,9 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 8-5-E1-contenido: "<b>Nahi den norabidea:</b> Okupazio-tasa seriean, Europaren helburua 2030erako % 78ra iristea da. Bestalde, Genero-arrakala seriean, urte horretan bertan aldea gehienez ehuneko 5,8 puntura murriztea da helburua."
 8-6-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 8-8-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
-8-9-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+8-9-1-contenido: "Ezin da ebaluatu. Aurrerapena ebaluatzeko, adierazlea turismoaren 
+  alderdi sozialei (adibidez, enplegua, etab) eta ingurumenekoei (energiaren erabilera, 
+  berotegi-efektuko gasen emisioak, etab) buruzko adierazle gehigarriekin osatu beharko litzateke"
 8-10-1-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
 8-10-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 8-b-1-contenido: |
@@ -366,7 +368,7 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 
 # NOTAS
 
-1-3-1-nota: "Adierazlea berrikusten"
+
 
 # ANOTACIONES
 
@@ -377,10 +379,22 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 # NOTAS AL PIE (FOOTNOTE)
 1-2-2-notapie: AROPE pobreziaren eta bazterketaren adierazlearen 2022tik aurrerako datuak tasaren definizio berriarekin 
   kalkulatzen dira (2021eko Eurostat metodologia); aurreko datuak, berriz, lehengo definizioarekin. 
+1-3-1-notapie: Azken urteko datuak behin-behinekoak dira
+1-5-2-notapie: Azken urteko datuak behin-behinekoak dira
 1-5-4-notapie: Larrialdietarako plan bat (udalekoa edo lurraldekoa) duten udalerriek % 100eko balioa dute
 2-a-1-notapie: EAE eta lurralde historikoen azken urteko datuak behin-behinekoak dira 
+4-3-1-notapie: Azken urteko datuak behin-behinekoak dira
+5-5-2-notapie: Azken urteko datuak behin-behinekoak dira
 8-1-1-notapie: Azken urteko datuak behin-behinekoak dira
 8-2-1-notapie: Azken urteko datuak behin-behinekoak dira
 8-5-2-notapie: Azken urteko datuak ez daude eskuragarri udalerrika
-
+8-5-E1-notapie: EAE eta lurralde historikoen azken urteko datuak behin-behinekoak dira. Azken urteko datuak ez daude eskuragarri udalerrika
+8-6-1-notapie: Azken urteko datuak behin-behinekoak dira
+9-2-1-notapie: Azken urteko datuak behin-behinekoak dira
+9-2-2-notapie: Azken urteko datuak behin-behinekoak dira
+10-4-1-notapie: Azken urteko datuak behin-behinekoak dira
+11-a-1-notapie: Hiringintzako edo lurralde antolamenduko plan bat duten udalerriek % 100eko balioa dute
+17-2-1-notapie: Azken urteko datuak behin-behinekoak dira
+17-3-1-notapie: Azken urteko datuak behin-behinekoak dira
+17-13-1-notapie: Azken urteko datuak behin-behinekoak dira
 

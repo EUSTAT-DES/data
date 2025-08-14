@@ -53,7 +53,7 @@ Ihobe: IHOBE
 TIE: Transparency International Spain
 OCDE: Organisation for Economic Co-operation and Development (OECD)
 ONU: United Nations Organization (UN)
-
+IGN: National Geographic Institute
 
 
 # OPERATION
@@ -173,6 +173,7 @@ GE_Vivienda_siu: Urban Information System
 CNMC_tsa: Telecommunications and Audiovisual Sector
 GE_Interior_tesh: Human Trafficking and Exploitation in Spain. Statistical Report
 Euskadi_Vivienda_udalplan: Geographic Information System of Urban Planning of the Basque Autonomous Community (UDALPLAN)
+Euskadi_Vivienda_inbentarioa: Inbentarioa. Planning Inventory
 CGPD_ejud: Judicial Statistics
 
 
@@ -238,7 +239,7 @@ Euskadi_Industria_cma_url: https://www.euskadi.eus/informazioa/ur-masen-kalitate
 Ekolurra_epe_url: https://www.euskadi.eus/ekoizpen-ekologikoa/web01-a2estadi/eu/
 GE_Agricultura_esyrce_url: https://www.mapa.gob.es/en/estadistica/temas/estadisticas-agrarias/agricultura/esyrce/
 GE_Agricultura_recan_url: https://www.mapa.gob.es/en/estadistica/temas/estadisticas-agrarias/economia/red-contable-recan/
-Eustat_emat_url: https://en.eustat.eus/estadisticas/tema_50/opt_1/tipo_1/temas.html
+Eustat_emat_url: https://en.eustat.eus/estadisticas/tema_50/opt_1/temas.html
 Eustat_cemm_url: https://en.eustat.eus/estadisticas/tema_30/opt_0/temas.html
 Eustat_enac_url: https://en.eustat.eus/estadisticas/tema_48/opt_1/temas.html
 GE_Interior_pint_url: https://datos.gob.es/en/catalogo/e00003801-estadistica-de-poblacion-extranjera-solicitante-de-proteccion-internacional-refugiados-beneficiarios-de-proteccion-subsidiaria-desplazados-y-apatridas-2020-anuario-estadistico-del-ministerio-del-interior
@@ -294,6 +295,7 @@ GE_Vivienda_siu_url: https://www.mivau.gob.es/urbanismo-y-suelo/sistema-de-infor
 CNMC_tsa_url: https://data.cnmc.es/telecomunicaciones-y-sector-audiovisual
 GE_Interior_tesh_url: https://www.interior.gob.es/opencms/en/servicios-al-ciudadano/trata/situacion-en-espana/
 Euskadi_Vivienda_udalplan_url: https://www.euskadi.eus/udalplan_eu/web01-a2lurral/eu/
+Euskadi_Vivienda_inbentarioa_url: https://www.euskadi.eus/web01-s2ing/es/contenidos/informacion/200208_inbentarioa_tablas_esta/es_def/index.shtml
 CGPD_ejud_url: https://www.poderjudicial.es/portal/site/cgpj/menuitem.5eba20fd90ee79c47405fa65655a4ea0/?vgnextoid=9dccd1a4dc1c3510VgnVCM1000006f48ac0aRCRD&vgnextfmt=default&vgnextlocale=en&lang_choosen=en
 
 
