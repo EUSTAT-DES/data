@@ -34,7 +34,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gaualdiak",
+                "Ostatu-gauak biztanleko",
                 "%",
                 ""
               ]
@@ -52,5 +52,5 @@
   ],
   "profile": "data-package",
   "name": "OCECA-8-9-1-3AB4AB",
-  "title": "Turisten gaualdiak eta okupazio goreneko bi hilabeteetako gaualdien proportzioa turisten gaualdi guztiekiko"
+  "title": "Turisten ostatu-gauak biztanleko, eta okupazio goreneko bi hilabeteetako turisten ostatu-gauen proportzioa turisten ostatu-gau guztiekiko"
 }

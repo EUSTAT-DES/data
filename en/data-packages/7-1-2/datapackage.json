@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of the population whose primary source of energy is clean fuels and technologies",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

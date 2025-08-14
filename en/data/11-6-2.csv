@@ -1,27 +1,29 @@
-Year,Series,Suspended particles,Units,Value
-2014,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 2.5,Micrograms per cubic meter,9.2
-2021,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 2.5,Micrograms per cubic meter,10.0
-2013,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 2.5,Micrograms per cubic meter,10.5
-2018,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 2.5,Micrograms per cubic meter,9.9
-2011,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 2.5,Micrograms per cubic meter,11.1
-2020,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 2.5,Micrograms per cubic meter,8.8
-2019,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 2.5,Micrograms per cubic meter,9.0
-2015,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 2.5,Micrograms per cubic meter,10.1
-2010,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 2.5,Micrograms per cubic meter,11.3
-2022,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 2.5,Micrograms per cubic meter,10.4
-2016,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 2.5,Micrograms per cubic meter,8.6
-2017,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 2.5,Micrograms per cubic meter,9.8
-2012,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 2.5,Micrograms per cubic meter,10.1
-2022,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 10,Micrograms per cubic meter,17.7
-2015,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 10,Micrograms per cubic meter,17.9
-2019,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 10,Micrograms per cubic meter,16.3
-2010,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 10,Micrograms per cubic meter,24.2
-2021,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 10,Micrograms per cubic meter,16.1
-2011,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 10,Micrograms per cubic meter,27.0
-2017,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 10,Micrograms per cubic meter,17.9
-2012,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 10,Micrograms per cubic meter,26.7
-2018,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 10,Micrograms per cubic meter,16.7
-2013,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 10,Micrograms per cubic meter,15.9
-2016,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 10,Micrograms per cubic meter,15.3
-2020,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 10,Micrograms per cubic meter,15.6
-2014,Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population),PM 10,Micrograms per cubic meter,17.4
+Year,Suspended particles,Units,Value
+2017,PM 2.5,Micrograms per cubic meter,9.8
+2018,PM 2.5,Micrograms per cubic meter,9.9
+2019,PM 2.5,Micrograms per cubic meter,9.0
+2012,PM 2.5,Micrograms per cubic meter,10.1
+2020,PM 2.5,Micrograms per cubic meter,8.8
+2014,PM 2.5,Micrograms per cubic meter,9.2
+2016,PM 2.5,Micrograms per cubic meter,8.6
+2022,PM 2.5,Micrograms per cubic meter,10.4
+2015,PM 2.5,Micrograms per cubic meter,10.1
+2021,PM 2.5,Micrograms per cubic meter,10.0
+2010,PM 2.5,Micrograms per cubic meter,11.3
+2013,PM 2.5,Micrograms per cubic meter,10.5
+2011,PM 2.5,Micrograms per cubic meter,11.1
+2023,PM 2.5,Micrograms per cubic meter,9.5
+2020,PM 10,Micrograms per cubic meter,15.6
+2017,PM 10,Micrograms per cubic meter,17.9
+2011,PM 10,Micrograms per cubic meter,27.0
+2010,PM 10,Micrograms per cubic meter,24.2
+2015,PM 10,Micrograms per cubic meter,17.9
+2022,PM 10,Micrograms per cubic meter,17.7
+2016,PM 10,Micrograms per cubic meter,15.3
+2018,PM 10,Micrograms per cubic meter,16.7
+2013,PM 10,Micrograms per cubic meter,15.9
+2012,PM 10,Micrograms per cubic meter,26.7
+2021,PM 10,Micrograms per cubic meter,16.1
+2019,PM 10,Micrograms per cubic meter,16.3
+2023,PM 10,Micrograms per cubic meter,16.4
+2014,PM 10,Micrograms per cubic meter,17.4

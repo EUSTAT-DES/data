@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Irakaskuntzan eta prestakuntza akademikoan eta ez-akademikoan izandako parte-hartze tasa azken 4 asteetan",
                 "Azken 12 hilabeteetan hezkuntza-jardueretan izandako parte-hartze tasa",
+                "Irakaskuntzan eta prestakuntza akademikoan eta ez-akademikoan izandako parte-hartze tasa azken 4 asteetan",
                 ""
               ]
             },
@@ -44,9 +44,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "18-64 urte",
                 "15-24 urte",
                 "15-64 urte",
-                "18-64 urte",
                 "25-64 urte",
                 ""
               ]

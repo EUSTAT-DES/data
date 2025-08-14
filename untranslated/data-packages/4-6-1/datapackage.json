@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SKILL_LTRCY",
                 "SKILL_NMRCY",
+                "SKILL_LTRCY",
                 ""
               ]
             }

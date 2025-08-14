@@ -1,234 +1,521 @@
 Year,Series,Operación de tratamiento de residuos,Territorio histórico,Units,Value
-2011,Residuos urbanos recogidos per cápita,,,Kg per cápita,434.5
-2012,Residuos urbanos recogidos per cápita,,,Kg per cápita,457.8
-2014,Residuos urbanos recogidos per cápita,,,Kg per cápita,469.5
-2015,Residuos urbanos recogidos per cápita,,,Kg per cápita,462.3
-2022,Residuos urbanos recogidos per cápita,,,Kg per cápita,446.2
-2013,Residuos urbanos recogidos per cápita,,,Kg per cápita,463.0
-2020,Residuos urbanos recogidos per cápita,,,Kg per cápita,449.7
-2017,Residuos urbanos recogidos per cápita,,,Kg per cápita,472.3
-2019,Residuos urbanos recogidos per cápita,,,Kg per cápita,469.8
-2021,Residuos urbanos recogidos per cápita,,,Kg per cápita,458.4
-2016,Residuos urbanos recogidos per cápita,,,Kg per cápita,474.7
-2018,Residuos urbanos recogidos per cápita,,,Kg per cápita,485.3
-2010,Residuos urbanos recogidos per cápita,,,Kg per cápita,445.9
-2016,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,405.5
-2010,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,444.9
-2018,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,436.3
-2021,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,403.8
-2013,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,387.0
-2012,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,405.3
-2011,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,421.7
-2020,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,411.1
-2019,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,425.4
-2017,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,422.3
-2015,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,408.7
-2014,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,392.3
-2022,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,390.6
-2022,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,470.8
-2020,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,475.2
-2013,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,467.6
-2011,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,428.2
-2018,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,485.1
-2017,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,476.6
-2015,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,447.2
-2014,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,457.8
-2019,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,492.7
-2021,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,480.3
-2010,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,437.1
-2016,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,462.7
-2012,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,466.3
-2015,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,510.7
-2010,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,460.2
-2018,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,508.0
-2011,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,449.9
-2022,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,432.9
-2017,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,488.1
-2013,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,490.0
-2012,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,460.5
-2019,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,453.7
-2020,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,426.7
-2014,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,523.3
-2021,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,448.6
-2016,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,525.3
-2017,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
-2021,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
-2010,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
-2012,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
+2017,Residuos urbanos recogidos per cápita,,,Kg per cápita,520.5
+2012,Residuos urbanos recogidos per cápita,,,Kg per cápita,501.2
+2015,Residuos urbanos recogidos per cápita,,,Kg per cápita,501.5
+2014,Residuos urbanos recogidos per cápita,,,Kg per cápita,510.8
+2020,Residuos urbanos recogidos per cápita,,,Kg per cápita,492.5
+2018,Residuos urbanos recogidos per cápita,,,Kg per cápita,535.5
+2016,Residuos urbanos recogidos per cápita,,,Kg per cápita,514.3
+2013,Residuos urbanos recogidos per cápita,,,Kg per cápita,498.0
+2019,Residuos urbanos recogidos per cápita,,,Kg per cápita,513.4
+2011,Residuos urbanos recogidos per cápita,,,Kg per cápita,463.2
+2021,Residuos urbanos recogidos per cápita,,,Kg per cápita,515.6
+2022,Residuos urbanos recogidos per cápita,,,Kg per cápita,503.5
+2010,Residuos urbanos recogidos per cápita,,,Kg per cápita,491.5
+2017,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,433.4
+2018,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,469.2
+2011,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,441.5
+2016,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,419.3
+2013,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,399.0
+2021,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,420.5
+2015,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,422.5
+2020,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,424.7
+2019,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,428.5
+2022,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,412.5
+2010,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,463.9
+2014,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,408.8
+2012,Residuos urbanos recogidos per cápita,,Araba/Álava,Kg per cápita,423.5
+2021,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,566.1
+2012,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,535.2
+2017,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,558.2
+2018,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,562.7
+2019,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,566.5
+2010,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,504.0
+2014,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,521.5
+2020,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,544.0
+2022,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,560.6
+2013,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,524.0
+2011,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,470.9
+2015,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,504.4
+2016,Residuos urbanos recogidos per cápita,,Bizkaia,Kg per cápita,527.7
+2022,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,454.8
+2017,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,500.5
+2015,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,532.7
+2016,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,535.5
+2019,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,468.7
+2013,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,499.0
+2012,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,481.0
+2018,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,522.7
+2011,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,460.4
+2014,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,539.1
+2020,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,443.2
+2010,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,483.5
+2021,Residuos urbanos recogidos per cápita,,Gipuzkoa,Kg per cápita,479.3
 2015,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
-2011,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
-2022,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
+2018,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
+2014,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
 2019,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
-2013,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
+2017,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
+2011,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
 2016,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
 2020,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
-2014,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
-2018,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
-2015,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
-2019,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
-2013,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
+2012,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
+2010,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
+2021,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
+2022,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
+2013,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,,%,100.0
 2021,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
-2016,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
-2014,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
-2020,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
-2018,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
-2010,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
-2012,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
-2011,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
-2022,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
 2017,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
-2013,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
-2016,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
+2013,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
+2020,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
+2012,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
+2016,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
+2019,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
+2014,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
+2010,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
+2022,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
+2018,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
+2011,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
+2015,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Araba/Álava,%,100.0
 2015,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
-2018,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
-2010,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
+2016,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
+2012,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
 2019,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
-2020,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
+2013,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
+2022,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
+2010,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
 2017,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
 2014,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
-2022,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
+2020,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
+2018,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
 2011,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
 2021,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
-2012,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Bizkaia,%,100.0
-2016,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
-2011,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
-2021,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
-2018,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
-2010,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
-2015,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
-2019,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
-2014,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
 2012,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
-2017,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
-2013,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
 2020,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
 2022,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
-2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,33.3
-2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,24.7
-2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,47.2
-2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,28.2
-2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,38.0
-2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,36.4
-2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,47.4
-2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,41.5
-2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,28.5
-2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,44.7
-2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,45.4
-2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,25.6
-2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,39.3
-2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,24.2
-2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,38.4
-2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,31.5
-2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,38.9
-2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,39.2
-2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,30.6
-2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,27.0
-2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,33.7
-2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,31.3
-2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,44.9
-2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,26.6
-2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,37.9
-2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,37.1
-2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,28.7
-2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,31.2
-2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,39.2
-2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,38.1
-2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,34.8
-2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,35.8
-2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,28.2
-2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,69.3
-2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,52.9
-2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,48.3
-2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,48.7
-2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,59.3
-2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,63.4
-2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,63.5
-2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,31.9
-2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,41.9
-2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,48.4
-2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,,%,32.5
-2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,,%,20.9
-2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,,%,23.3
-2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,,%,33.9
-2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,,%,26.6
-2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,,%,24.3
-2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,,%,25.6
-2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,,%,22.8
-2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,,%,27.9
-2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,,%,30.8
-2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,,%,23.5
-2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,,%,21.4
-2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,,%,24.7
-2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Araba/Álava,%,3.7
-2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Araba/Álava,%,2.9
-2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Araba/Álava,%,4.3
-2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Araba/Álava,%,4.4
-2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Araba/Álava,%,4.2
-2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Araba/Álava,%,1.6
-2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Araba/Álava,%,3.5
-2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Araba/Álava,%,1.3
-2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Araba/Álava,%,4.4
-2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Araba/Álava,%,2.1
-2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Bizkaia,%,42.2
-2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Bizkaia,%,49.4
-2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Bizkaia,%,44.2
-2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Bizkaia,%,43.0
-2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Bizkaia,%,43.8
-2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Bizkaia,%,39.6
-2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Bizkaia,%,41.2
-2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Bizkaia,%,42.5
-2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Bizkaia,%,41.9
-2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Bizkaia,%,41.2
-2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Gipuzkoa,%,21.9
-2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Gipuzkoa,%,6.9
-2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Gipuzkoa,%,7.4
-2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Gipuzkoa,%,6.9
-2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Gipuzkoa,%,9.3
-2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Gipuzkoa,%,29.8
-2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Gipuzkoa,%,30.1
-2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Gipuzkoa,%,5.6
-2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Gipuzkoa,%,5.4
-2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Incineración con recuperación de energía,Gipuzkoa,%,1.1
-2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,53.9
-2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,37.3
-2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,21.9
-2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,51.1
-2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,36.4
-2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,41.2
-2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,45.2
-2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,18.6
-2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,31.7
-2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,22.1
-2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,35.7
-2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,50.7
-2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,35.6
-2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,58.7
-2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,61.8
-2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,58.8
-2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,72.1
-2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,64.0
-2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,65.1
-2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,59.5
-2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,53.8
-2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,69.5
-2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,64.5
-2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,24.5
-2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,21.0
-2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,26.4
-2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,27.6
-2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,21.9
-2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,23.3
-2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,21.7
-2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,17.0
-2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,19.7
-2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,30.4
-2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,6.6
-2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,8.8
-2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,6.6
-2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,41.4
-2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,44.7
-2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,39.6
-2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,50.7
-2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,45.9
-2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,58.8
-2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,44.8
+2013,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
+2019,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
+2014,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
+2015,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
+2011,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
+2010,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
+2017,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
+2016,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
+2021,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
+2018,Proporción de residuos urbanos recogidos y administrados en instalaciones controladas,,Gipuzkoa,%,100.0
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,Kg per cápita,173.7
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,29.5
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,33.8
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,29.7
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,37.9
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,38.3
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,32.0
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,31.6
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,Kg per cápita,158.6
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,Kg per cápita,179.3
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,Kg per cápita,145.0
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,36.9
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,Kg per cápita,190.0
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,Kg per cápita,163.0
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,32.5
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,Kg per cápita,137.4
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,Kg per cápita,191.0
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,38.2
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,34.5
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,Kg per cápita,195.9
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,Kg per cápita,188.6
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,Kg per cápita,190.7
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,35.9
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,%,38.4
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,Kg per cápita,192.0
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,,Kg per cápita,163.4
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,Kg per cápita,130.4
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,20.4
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,Kg per cápita,100.9
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,20.8
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,20.8
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,Kg per cápita,96.0
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,31.4
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,Kg per cápita,127.2
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,30.0
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,25.1
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,27.8
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,31.2
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,Kg per cápita,108.8
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,Kg per cápita,117.0
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,Kg per cápita,110.5
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,Kg per cápita,131.1
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,Kg per cápita,115.9
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,Kg per cápita,96.7
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,Kg per cápita,86.4
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,27.0
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,29.3
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,Kg per cápita,129.5
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,26.3
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,23.9
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,%,23.5
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Araba/Álava,Kg per cápita,92.0
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,38.4
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,40.4
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,Kg per cápita,211.4
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,39.0
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,33.1
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,30.1
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,Kg per cápita,151.8
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,37.3
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,Kg per cápita,228.9
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,38.3
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,38.6
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,Kg per cápita,218.7
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,34.5
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,Kg per cápita,216.5
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,Kg per cápita,217.0
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,30.1
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,39.8
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,Kg per cápita,203.0
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,Kg per cápita,141.9
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,Kg per cápita,214.0
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,Kg per cápita,167.2
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,37.9
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,Kg per cápita,180.1
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,Kg per cápita,187.3
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,Kg per cápita,201.0
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Bizkaia,%,35.5
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,Kg per cápita,158.8
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,38.4
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,38.5
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,Kg per cápita,154.6
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,34.6
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,33.7
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,38.2
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,Kg per cápita,183.3
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,24.8
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,32.6
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,39.0
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,32.0
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,31.7
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,34.6
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,41.9
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,Kg per cápita,174.6
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,Kg per cápita,172.7
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,Kg per cápita,180.6
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,Kg per cápita,180.3
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,Kg per cápita,166.3
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,Kg per cápita,119.4
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,%,30.8
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,Kg per cápita,209.0
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,Kg per cápita,180.3
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,Kg per cápita,149.9
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Reciclaje,Gipuzkoa,Kg per cápita,184.4
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,Kg per cápita,122.9
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,Kg per cápita,107.8
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,Kg per cápita,120.5
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,Kg per cápita,135.9
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,Kg per cápita,94.8
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,Kg per cápita,98.7
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,%,19.5
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,%,22.2
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,Kg per cápita,104.7
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,Kg per cápita,110.3
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,Kg per cápita,93.0
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,%,18.7
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,%,25.0
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,%,26.4
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,%,19.3
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,%,24.0
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,%,18.6
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,Kg per cápita,136.8
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,%,20.7
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,Kg per cápita,113.2
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,%,19.9
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,%,27.2
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,Kg per cápita,93.5
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,Kg per cápita,102.0
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,%,21.3
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,,%,21.4
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,Kg per cápita,23.4
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,Kg per cápita,9.7
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,Kg per cápita,17.1
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,%,3.0
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,%,0.0
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,%,1.4
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,Kg per cápita,14.5
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,Kg per cápita,12.4
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,Kg per cápita,15.2
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,Kg per cápita,4.6
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,Kg per cápita,0.0
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,%,2.7
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,%,5.0
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,%,1.1
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,%,2.3
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,%,0.0
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,%,0.0
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,%,3.4
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,%,0.0
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,%,3.6
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,Kg per cápita,0.0
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,Kg per cápita,0.0
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,%,4.0
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,Kg per cápita,5.7
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,Kg per cápita,11.4
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Araba/Álava,Kg per cápita,0.0
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,%,31.5
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,%,35.8
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,Kg per cápita,189.9
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,Kg per cápita,186.9
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,Kg per cápita,177.3
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,%,33.0
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,Kg per cápita,186.9
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,Kg per cápita,176.8
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,Kg per cápita,203.8
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,Kg per cápita,187.5
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,Kg per cápita,184.0
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,%,35.1
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,Kg per cápita,184.5
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,Kg per cápita,179.4
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,%,39.1
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,%,76.8
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,Kg per cápita,185.2
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,Kg per cápita,178.0
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,Kg per cápita,435.2
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,%,34.4
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,%,34.0
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,%,40.4
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,%,35.6
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,%,32.6
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,%,33.9
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Bizkaia,%,33.6
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,Kg per cápita,32.0
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,%,0.0
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,%,7.1
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,%,0.9
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,%,5.1
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,%,9.1
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,%,6.6
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,%,7.0
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,%,6.6
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,%,0.0
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,%,0.0
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,Kg per cápita,40.4
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,Kg per cápita,27.7
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,%,7.1
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,Kg per cápita,34.1
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,Kg per cápita,35.3
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,Kg per cápita,25.5
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,%,5.3
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,Kg per cápita,0.0
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,Kg per cápita,38.3
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,Kg per cápita,0.0
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,Kg per cápita,4.4
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,Kg per cápita,0.0
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,Kg per cápita,0.0
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,Kg per cápita,34.9
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Valorización energética e incineración,Gipuzkoa,%,0.0
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,Kg per cápita,36.8
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,%,4.3
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,%,2.2
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,%,2.0
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,%,5.1
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,%,7.2
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,Kg per cápita,21.3
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,Kg per cápita,9.2
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,Kg per cápita,31.3
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,%,1.8
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,%,4.7
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,Kg per cápita,18.2
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,Kg per cápita,35.4
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,Kg per cápita,8.4
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,Kg per cápita,9.0
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,Kg per cápita,11.0
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,%,5.8
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,%,1.7
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,Kg per cápita,26.4
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,Kg per cápita,34.4
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,Kg per cápita,38.1
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,Kg per cápita,24.3
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,%,7.6
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,%,6.7
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,%,3.6
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,,%,7.1
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,%,2.9
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,%,8.0
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,Kg per cápita,32.8
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,%,2.9
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,Kg per cápita,16.7
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,%,5.3
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,%,3.6
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,%,2.9
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,%,2.3
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,%,2.2
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,Kg per cápita,25.4
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,Kg per cápita,22.6
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,Kg per cápita,8.0
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,Kg per cápita,19.9
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,Kg per cápita,10.1
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,%,5.9
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,%,3.0
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,Kg per cápita,14.0
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,Kg per cápita,9.5
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,%,4.7
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,%,2.0
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,Kg per cápita,12.0
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,Kg per cápita,13.0
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,Kg per cápita,0.0
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,Kg per cápita,12.1
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Araba/Álava,%,0.0
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,%,0.9
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,Kg per cápita,4.0
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,Kg per cápita,6.7
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,%,2.6
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,Kg per cápita,4.3
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,%,3.0
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,%,0.8
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,%,1.9
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,%,1.2
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,Kg per cápita,2.3
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,Kg per cápita,1.9
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,%,1.6
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,%,2.1
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,Kg per cápita,16.7
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,%,0.9
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,Kg per cápita,4.6
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,%,0.9
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,Kg per cápita,11.7
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,Kg per cápita,14.9
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,%,0.5
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,Kg per cápita,10.9
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,Kg per cápita,5.6
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,Kg per cápita,9.0
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,%,1.1
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,%,0.4
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Bizkaia,Kg per cápita,4.8
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,%,17.4
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,%,16.0
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,%,12.9
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,%,11.0
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,%,5.6
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,Kg per cápita,72.4
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,%,8.3
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,%,4.0
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,%,16.4
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,%,3.3
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,%,10.0
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,Kg per cápita,16.2
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,%,13.8
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,Kg per cápita,79.3
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,Kg per cápita,77.3
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,Kg per cápita,74.5
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,%,16.6
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,%,3.4
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,Kg per cápita,53.5
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,Kg per cápita,19.0
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,Kg per cápita,75.0
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,Kg per cápita,44.6
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,Kg per cápita,64.4
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,Kg per cápita,59.0
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,Kg per cápita,28.0
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Compostaje,Gipuzkoa,Kg per cápita,15.4
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,Kg per cápita,202.0
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,49.5
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,40.6
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,Kg per cápita,170.5
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,47.9
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,Kg per cápita,93.2
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,Kg per cápita,240.1
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,Kg per cápita,188.9
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,18.9
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,Kg per cápita,168.1
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,Kg per cápita,142.2
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,20.3
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,Kg per cápita,160.7
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,17.7
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,Kg per cápita,89.3
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,31.7
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,37.0
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,32.0
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,48.9
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,Kg per cápita,243.3
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,Kg per cápita,226.4
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,31.4
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,33.2
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,Kg per cápita,165.2
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,%,27.7
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,,Kg per cápita,104.8
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,Kg per cápita,187.2
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,Kg per cápita,353.2
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,Kg per cápita,337.8
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,Kg per cápita,325.1
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,Kg per cápita,217.4
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,76.1
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,43.2
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,51.2
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,76.5
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,Kg per cápita,212.7
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,70.9
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,48.1
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,45.3
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,52.9
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,52.7
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,43.9
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,Kg per cápita,185.6
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,Kg per cápita,198.6
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,Kg per cápita,217.4
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,Kg per cápita,283.0
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,Kg per cápita,161.4
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,38.5
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,Kg per cápita,216.1
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,Kg per cápita,221.6
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,50.7
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Araba/Álava,%,76.8
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,Kg per cápita,100.6
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,Kg per cápita,153.4
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,Kg per cápita,170.5
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,Kg per cápita,96.0
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,28.7
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,Kg per cápita,147.9
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,Kg per cápita,109.2
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,22.7
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,Kg per cápita,141.0
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,Kg per cápita,115.4
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,20.4
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,17.8
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,19.6
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,16.7
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,19.0
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,26.9
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,20.1
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,31.4
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,Kg per cápita,93.6
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,23.7
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,Kg per cápita,91.8
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,Kg per cápita,113.2
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,33.8
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,Kg per cápita,119.7
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,%,16.9
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Bizkaia,Kg per cápita,123.7
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,7.1
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,37.0
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,47.4
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,9.1
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,47.5
+2020,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,Kg per cápita,40.4
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,66.1
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,Kg per cápita,233.9
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,7.0
+2021,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,Kg per cápita,34.1
+2016,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,Kg per cápita,254.0
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,Kg per cápita,283.1
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,Kg per cápita,342.6
+2014,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,52.5
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,Kg per cápita,244.5
+2017,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,48.8
+2022,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,Kg per cápita,32.0
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,Kg per cápita,312.7
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,Kg per cápita,263.0
+2019,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,Kg per cápita,173.4
+2012,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,71.2
+2011,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,Kg per cápita,304.5
+2010,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,64.7
+2018,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,44.8
+2013,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,%,52.7
+2015,"Proporción de residuos urbanos tratados, desglosados por tipo de tratamiento",Depósito en vertedero,Gipuzkoa,Kg per cápita,253.2

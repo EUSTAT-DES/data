@@ -34,7 +34,8 @@
             "constraints": {
               "enum": [
                 "Recycling",
-                "Incineration with energy recovery",
+                "Energy recovery and incineration",
+                "Composting",
                 "Landfill",
                 ""
               ]

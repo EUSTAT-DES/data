@@ -16,6 +16,18 @@
             "title": "Urtea"
           },
           {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Emakumea",
+                "Gizona",
+                ""
+              ]
+            },
+            "title": "Sexua"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

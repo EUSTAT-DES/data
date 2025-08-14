@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Comprensión lectora",
                 "Matemáticas",
+                "Comprensión lectora",
                 ""
               ]
             },

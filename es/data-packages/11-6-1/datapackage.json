@@ -34,7 +34,8 @@
             "constraints": {
               "enum": [
                 "Reciclaje",
-                "Incineración con recuperación de energía",
+                "Valorización energética e incineración",
+                "Compostaje",
                 "Depósito en vertedero",
                 ""
               ]

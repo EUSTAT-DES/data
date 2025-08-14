@@ -30,30 +30,6 @@
             "title": "Series"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-64 years",
-                "18-64 years",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {

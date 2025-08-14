@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SE_ADT_EDUCTRN",
                 "AES_EDUCTRN",
+                "SE_ADT_EDUCTRN",
                 ""
               ]
             }
@@ -41,9 +41,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Y18T64",
                 "Y15T24",
                 "Y15T64",
-                "Y18T64",
                 "Y25T64",
                 ""
               ]

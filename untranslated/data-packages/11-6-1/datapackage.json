@@ -32,7 +32,8 @@
             "constraints": {
               "enum": [
                 "WT_RECYC",
-                "WT_INCINRT_EGY",
+                "WT_INCINRT_AND_EGY",
+                "WT_COMPOST",
                 "WT_LANDFIL",
                 ""
               ]

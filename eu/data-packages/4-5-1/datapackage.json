@@ -30,30 +30,6 @@
             "title": "Seriea"
           },
           {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Emakumea",
-                "Gizona",
-                ""
-              ]
-            },
-            "title": "Sexua"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-64 urte",
-                "18-64 urte",
-                ""
-              ]
-            },
-            "title": "Adina"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {

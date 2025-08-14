@@ -16,17 +16,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Partikula fin esekien urteko batez besteko mailak (PM2.5 eta PM10) hirietan (biztanleriaren arabera haztatuta)",
-                ""
-              ]
-            },
-            "title": "Seriea"
-          },
-          {
             "name": "PM",
             "type": "string",
             "constraints": {

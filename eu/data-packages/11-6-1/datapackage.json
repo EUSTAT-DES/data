@@ -34,7 +34,8 @@
             "constraints": {
               "enum": [
                 "Birziklatzea",
-                "Errausketa, energia berreskurapenarekin",
+                "Energia berreskurapena eta errausketa",
+                "Konpostajea",
                 "Zabortegia",
                 ""
               ]

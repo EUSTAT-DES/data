@@ -16,17 +16,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Energia-iturri nagusia erregai eta teknologia garbiak dituen biztanleriaren proportzioa",
-                ""
-              ]
-            },
-            "title": "Seriea"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

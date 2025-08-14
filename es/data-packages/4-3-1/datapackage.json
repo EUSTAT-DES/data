@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tasa de participación en la enseñanza y formación académica y no académica en las últimas 4 semanas",
                 "Tasa de participación en actividades educativas en los últimos 12 meses",
+                "Tasa de participación en la enseñanza y formación académica y no académica en las últimas 4 semanas",
                 ""
               ]
             },
@@ -44,9 +44,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "18-64 años",
                 "15-24 años",
                 "15-64 años",
-                "18-64 años",
                 "25-64 años",
                 ""
               ]

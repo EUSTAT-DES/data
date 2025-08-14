@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual average levels of fine particulate matter (PM2.5 and PM10) in cities (weighted by population)",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "PM",
             "type": "string",
             "constraints": {

@@ -34,7 +34,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Overnight stays",
+                "Overnight stays per inhabitant",
                 "%",
                 ""
               ]

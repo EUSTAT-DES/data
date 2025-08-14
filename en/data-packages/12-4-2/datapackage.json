@@ -34,8 +34,8 @@
               "enum": [
                 "Recycling",
                 "Incineration with energy recovery",
-                "Landfill",
                 "Incineration without energy recovery",
+                "Landfill",
                 ""
               ]
             },

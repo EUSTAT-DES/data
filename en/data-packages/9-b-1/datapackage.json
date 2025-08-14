@@ -16,28 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of value added by medium- and high-tech industries in total value added",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Actividad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Manufacturing",
-                ""
-              ]
-            },
-            "title": "Economic activity"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

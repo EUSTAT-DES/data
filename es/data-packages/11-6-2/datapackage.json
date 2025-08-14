@@ -16,17 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Niveles medios anuales de partículas finas en suspensión (PM2.5 y PM10) en las ciudades (ponderados según la población)",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "PM",
             "type": "string",
             "constraints": {
