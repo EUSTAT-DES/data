@@ -1,44 +1,67 @@
- # Metadatos nacionales (ficha metodológica)
- 
-indicador_disponible: GRAFICO.nodisponible
+
+# Metadatos nacionales (ficha metodológica)
+
+indicador_disponible: GRAFICO.10-3-1-titulo
 
 # objetivo_global: objetivo_largo.16-titulo
 # meta_global: meta_largo.16-b-titulo
-# indicador_onu_global: indicador_largo.16-b-1-titulo
+#  indicador_onu_global: indicador_largo.16-b-1-titulo
 
+definicion: |
 
-definicion:
-formula:
-desagregacion:
-periodicidad:
+  Diskriminatuta sentitzen diren pertsonen prebalentzia ( %) (adinagatik, sexuagatik, jaioterriagatik...), sexuaren arabera
+
+formula: |
+
+  $$PP_{diskriminatua}^{t} = \frac{P_{diskriminatua}^{t}}{P^{t}} \cdot 100$$
+
+  non:
+
+  $P_{diskriminatua}^{t} =$ diskriminatuta sentitu den biztanleria (adinagatik, sexuagatik, jaioterriagatik...) $t$ urtean
+
+  $P^{t} =$ biztanleria $t$ urtean
+
+desagregacion: |
+  Sexua
+
+  Lurralde historikoa
+
+periodicidad: FUENTE.FREQ_A5
 
 observaciones:
- 
+
+
  # Metadatos mundiales (Descripción del indicador)  
 
 
 justificacion_global: |
-  Inor atzean ez uzteko eta diskriminazioa ezabatzeko konpromisoa Garapen Jasangarrirako 
-  2030eko Agendaren elementu nagusia da. 
-
-  Diskriminazioa ezabatu beharra jasotzen dute, era berean, Giza Eskubideen Adierazpen 
+  
+  Inor atzean ez uzteko eta diskriminazioa ezabatzeko konpromisoa Garapen Jasangarrirako 2030eko Agendaren 
+  elementu nagusia da. Diskriminazioa ezabatu beharra jasotzen dute, era berean, Giza Eskubideen Adierazpen 
   Unibertsalak eta giza eskubideen nazioarteko itun nagusiek. 
 
-  Adierazle honen asmoa da diskriminazioaren nagusitasuna neurtzea, pertsonek kontatutako 
-  esperientzia pertsonalean oinarrituta. Era berean, ukitutako biztanleria-taldeentzat 
-  diskriminatzaileak ez diren lege, politika eta praktiken eraginkortasuna neurtzen laguntzen 
-  duen emaitza-adierazlea da. 
+  Adierazle honen asmoa da diskriminazioaren nagusitasuna neurtzea, pertsonek kontatutako esperientzia 
+  pertsonalean oinarrituta. Era berean, ukitutako biztanleria-taldeentzat diskriminatzaileak ez diren lege, 
+  politika eta praktiken eraginkortasuna neurtzen laguntzen duen emaitza-adierazlea da. 
+
+  Giza eskubideen nazioarteko arau-esparruak arrazoien zerrenda bat jasotzen du, honako hauek biltzen dituen: 
+  arraza, kolorea, sexua, hizkuntza, erlijioa, iritzi politikoa edo beste mota batekoa, jatorri nazionala, 
+  jatorri soziala, ondarea, jaiotza-egoera, desgaitasuna, adina, nazionalitatea, egoera zibila eta 
+  familia-egoera, sexu-orientazioa, genero-identitatea, osasun-egoera, bizilekua, ekonomia- eta 
+  gizarte-egoera, haurdunaldia, indigenen egoera, afroondorengoa eta beste batzuk.
+
+  Praktikan, zaila da familien inkestetako galderetan garrantzitsuak izan daitezkeen diskriminazio-arrazoi 
+  guztiak sartzea. Horregatik, komeni da datu-biltzaileek testuinguruaren aldetik garrantzitsuak eta 
+  bideragarriak diren arrazoien zerrendak identifikatzea.
 
 
   Iturria: Nazio Batuen Estatistika Sekzioa 
 
 
-dato_global:
+dato_global: 
 
-comparabilidad:
-
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-0b-01.pdf">Metadatuak 16-b-1.pdf</a> (ingelesez bakarrik)'
-
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-0B-01.pdf">Metadatuak 16-b-1.pdf</a> (ingelesez bakarrik)
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''
