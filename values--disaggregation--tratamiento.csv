@@ -1,7 +1,7 @@
 Value,eu,es,en,Disaggregation combinations using this value,Number of indicators
-WT_COMPOST,Konpostajea,Compostaje,Composting,8,1
-WT_INCINRT,"Errausketa, energia berreskurapenik gabe",Incineración sin recuperación de energía,Incineration without energy recovery,2,1
-WT_INCINRT_AND_EGY,Energia berreskurapena eta errausketa,Valorización energética e incineración,Energy recovery and incineration,8,1
-WT_INCINRT_EGY,"Errausketa, energia berreskurapenarekin",Incineración con recuperación de energía,Incineration with energy recovery,2,1
-WT_LANDFIL,Zabortegia,Depósito en vertedero,Landfill,10,2
-WT_RECYC,Birziklatzea,Reciclaje,Recycling,10,2
+WT_COMPOST,Konpostajea,Compostaje,Composting,4,1
+WT_INCINRT,"Errausketa, energia berreskurapenik gabe",Incineración sin recuperación de energía,Incineration without energy recovery,1,1
+WT_INCINRT_AND_EGY,Energia berreskurapena eta errausketa,Valorización energética e incineración,Energy recovery and incineration,4,1
+WT_INCINRT_EGY,"Errausketa, energia berreskurapenarekin",Incineración con recuperación de energía,Incineration with energy recovery,1,1
+WT_LANDFIL,Zabortegia,Depósito en vertedero,Landfill,5,2
+WT_RECYC,Birziklatzea,Reciclaje,Recycling,5,2
