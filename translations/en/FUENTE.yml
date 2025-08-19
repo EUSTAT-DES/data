@@ -174,6 +174,7 @@ CNMC_tsa: Telecommunications and Audiovisual Sector
 GE_Interior_tesh: Human Trafficking and Exploitation in Spain. Statistical Report
 Euskadi_Vivienda_udalplan: Geographic Information System of Urban Planning of the Basque Autonomous Community (UDALPLAN)
 Euskadi_Vivienda_inbentarioa: Inbentarioa. Planning Inventory
+Euskadi_Hacienda_presup: Budget Execution statistics
 CGPD_ejud: Judicial Statistics
 
 
@@ -296,6 +297,7 @@ CNMC_tsa_url: https://data.cnmc.es/telecomunicaciones-y-sector-audiovisual
 GE_Interior_tesh_url: https://www.interior.gob.es/opencms/en/servicios-al-ciudadano/trata/situacion-en-espana/
 Euskadi_Vivienda_udalplan_url: https://www.euskadi.eus/udalplan_eu/web01-a2lurral/eu/
 Euskadi_Vivienda_inbentarioa_url: https://www.euskadi.eus/web01-s2ing/es/contenidos/informacion/200208_inbentarioa_tablas_esta/es_def/index.shtml
+Euskadi_Hacienda_presup_url: https://eu.eustat.eus/estadisticas/tema_916/opt_0/temas.html
 CGPD_ejud_url: https://www.poderjudicial.es/portal/site/cgpj/menuitem.5eba20fd90ee79c47405fa65655a4ea0/?vgnextoid=9dccd1a4dc1c3510VgnVCM1000006f48ac0aRCRD&vgnextfmt=default&vgnextlocale=en&lang_choosen=en
 
 
