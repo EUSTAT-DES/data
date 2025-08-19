@@ -35,5 +35,10 @@ sources:
     url: FUENTE.Eustat_cepsp_url
     url_text: FUENTE.Eustat_cepsp
     logo: FUENTE.Eustat_logo
+  - organisation: FUENTE.Euskadi_Hacienda
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Euskadi_Hacienda_presup_url
+    url_text: Euskadi_Hacienda_presup
+    logo: FUENTE.Euskadi_logo
 standalone: false
 tags: []

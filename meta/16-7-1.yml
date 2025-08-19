@@ -7,8 +7,18 @@ objetivo_global: objetivo_largo.16-titulo
 meta_global: meta_largo.16-7-titulo
 #  indicador_onu_global: indicador_largo.16-7-1-titulo
 
-definicion: >-
-  Sektore publikoko emakumeen proportzioaren ratioa 16 eta 64 urte bitarteko emakumeen proportzioarekiko, erakunde publikoaren arabera 
+definicion: |
+
+  Adierazleak hainbat serie ditu:: 
+
+  <b> - Legebiltzarreko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez:</b>
+    Autonomia Erkidegoko Legebiltzarreko emakumeen proportzioaren ratioa 16 eta 64 urte bitarteko emakumeen proportzioarekiko
+  
+  <b> - Administrazio publikoko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez:</b>
+    Sektore publikoko emakumeen proportzioaren ratioa 16 eta 64 urte bitarteko emakumeen proportzioarekiko, erakunde publikoaren arabera
+
+  <b> - Botere judizialeko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez:</b>
+    Jardunean dauden epaile eta magistratuen artean emakumeek duten proportzioaren ratioa, 16 eta 64 urte bitarteko emakumeen proportzioari dagokionez
 
 
 formula: |
@@ -23,9 +33,9 @@ formula: |
 
   non: 
 
-  $P_{SP\, emakumeak}^{t} =$ sektore publikoan zerbitzua ematen duten emakumeak $t$ urteko urtarrilaren 1ean
+  $P_{SP\, emakumeak}^{t} =$ erakundean zerbitzua ematen duten emakumeak $t$ urteko urtarrilaren 1ean
 
-  $P_{SP}^{t} =$ sektore publikoan zerbitzua ematen duten pertsonak $t$ urteko urtarrilaren 1ean
+  $P_{SP}^{t} =$ erakundean zerbitzua ematen duten pertsonak $t$ urteko urtarrilaren 1ean
 
   $P_{16-64\, emakumeak}^{t} =$ 16 eta 64 urte bitarteko emakumeak $t$ urteko urtarrilaren 1ean
 
@@ -40,7 +50,7 @@ desagregacion: |
 
 
 observaciones: |
-  Adierazle horren erreferentzia-balioa 1 da, aztertutako administrazio publikoan emakumeak duen 
+  Adierazle horren erreferentzia-balioa 1 da, aztertutako instituzioan emakumeak duen 
   ordezkaritza 16 eta 64 urte bitarteko biztanlerian duen presentziarekiko guztiz proportzionala 
   denean. 
 
@@ -49,7 +59,11 @@ observaciones: |
 
 
 periodicidad: FUENTE.FREQ_A
-texto_oceca: FUENTE.oceca
+
+texto_oceca: >- 
+
+  "Administrazio publikoko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez" seriea 
+  autonomia-erkidegoetako estatistika-organo nagusien arteko metodologia harmonizatua erabiliz kalkulatu da
 
  # Metadatos mundiales (Descripción del indicador)  
 
@@ -83,7 +97,7 @@ dato_global:
   Parlamentuetako emakume kideen ratioa (Parlamentuko emakumeen proportzioaren eta estatuko biztanleriako emakumeen proportzioaren arteko erlazioa, hautagarritasun-adina beheko muga gisa hartuta), Behe Ganbera edo Ganbera Bakarra SG_DMK_PARLMP_LC</a> UNSTATS
 
 comparabilidad: >-
-  EAEn erabilgarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak. b) azpiadierazlean zentratzen da.
+  EAEn erabilgarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak. Sexuaren araberako ezberdintasunetan zentratzen da
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01b.pdf">Metadatuak 16-7-1(b).pdf</a> (ingelesez bakarrik)'
 

@@ -12,7 +12,7 @@ definicion: >-
 
 formula: |
 
-  $$TM_{hondamendiak}^{t} = \frac{D_{hondamendiak}^{t}}{P^{t}} \cdot 100$$
+  $$TM_{hondamendiak}^{t} = \frac{D_{hondamendiak}^{t}}{P^{t}} \cdot 100.000$$
 
   donde:
 

@@ -70,6 +70,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 9-4-E1-titulo: "Air emission intensity from industry (EU indicator sdg_09_70)" 
 
 10-2-1-titulo: "Proportion of people living below 50% of the median income"
+10-3-1-titulo: "Prevalence (%) of people who feel discriminated against (due to their age, sex, place of birth, etc.) by sex"
 10-4-2-titulo: "Gini index of equivalent disposable income (post-fiscal)"
 10-7-4-titulo: "Number of refugees or people under international protection per 100,000 inhabitants"
 
@@ -108,7 +109,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 16-6-1-titulo: "Liquidated expenditure in proportion to the initial expenditure of the budgets of regional and local public administrations"
 16-6-2-titulo: "Proportion of the population that feels satisfied with the functioning of public services"
 
-16-7-1-titulo: "Ratio of the proportion of women in the public sector to the proportion of women in the population aged 16 to 64, by public institution"
+16-7-1-titulo: "Proportions of women in a) the regional parliament, b) the public administration and c) the judiciary, compared to the distribution of women in the population"
 
 17-1-1-titulo: "Total revenue of regional and local public administrations as a proportion of GDP"
 17-1-2-titulo: "Proportion of regional and local government revenues from taxes"
@@ -210,7 +211,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 5-2-2-contenido: "<b>Desired direction:</b> Decrease"
 5-3-1-contenido: "<b>Desired direction:</b> Decrease"
 5-4-1-contenido: "<b>Desired direction:</b> In order to calculate progress towards the goal of equitable sharing of parental roles and family responsibilities, the ratio of women's time to men's time is assessed, with a desired target of 1"
-5-5-1-contenido: "<b>Desired direction:</b> Increase"
+5-5-1-contenido: "<b>Desired direction:</b> The target is 50%, although it is considered adequate if the value is between 40-60%"
 5-5-2-contenido: "<b>Desired direction:</b> Increase"
 5-a-1-contenido: "<b>Desired direction:</b> Increase"
 5-a-2-contenido: "<b>Desired direction:</b> Increase in Serie b) Proportion of women among owners or holders of rights to agricultural land, by tenure type"
@@ -265,6 +266,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 
 10-1-1-contenido: "<b>Desired direction:</b> Sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average"
 10-2-1-contenido: "<b>Desired direction:</b> Decrease"
+10-3-1-contenido: "<b>Desired direction:</b> Decrease"
 10-4-1-contenido: "<b>Desired direction:</b> Increase"
 10-4-2-contenido: "<b>Desired direction:</b> Decrease"
 10-7-4-contenido: "<b>Desired direction:</b> Decrease"
@@ -336,11 +338,11 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 16-1-1-contenido: "<b>Desired direction:</b> Decrease"
 16-1-2-contenido: "The Basque Country is not on the list of armed conflict situations considered for this indicator by the Office of the United Nations High Commissioner for Human Rights (OHCHR)."
 16-1-4-contenido: "<b>Desired direction:</b> Increase"
-16-1-E1-contenido:  "<b>Desired direction:</b> Decrease"
+16-1-E1-contenido: "<b>Desired direction:</b> Decrease"
 16-2-2-contenido: "<b>Desired direction:</b> Decrease"
 16-3-2-contenido: "<b>Desired direction:</b> Decrease"
 16-6-2-contenido: "<b>Desired direction:</b> Increase"
-16-7-1-contenido: "<b>Desired direction:</b> Increase"
+16-7-1-contenido: "<b>Desired direction:</b> The target is 1, although it is considered adequate if the value is between 0,8-1,2"
 16-9-1-contenido: "<b>Desired direction:</b> Increase"
 
 17-1-1-contenido: "<b>Desired direction:</b> Increase"
@@ -350,7 +352,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 17-3-2-contenido: "<b>Desired direction:</b> Increase"
 17-6-1-contenido: "<b>Desired direction:</b> Increase"
 17-8-1-contenido: "<b>Desired direction:</b> Increase"
-17-13-1-contenido: "<b>Desired direction:</b> In indicators based on growth rates, expert judgment is used for evaluation"
+17-13-1-contenido: "<b>Desired direction:</b> No assessment"
 17-18-2-contenido: "<b>Desired direction:</b> Increase"
 17-18-3-contenido: "<b>Desired direction:</b> Increase"
 17-19-2-contenido: "<b>Desired direction:</b> Increase"

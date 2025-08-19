@@ -70,6 +70,7 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 9-4-E1-titulo: "Industriaren emisio atmosferikoen intentsitatea (EBren sdg_09_70 adierazlea)" 
 
 10-2-1-titulo: "Diru-sarreren medianaren %50etik behera bizi diren pertsonen proportzioa"
+10-3-1-titulo: "Diskriminatuta sentitzen diren pertsonen prebalentzia ( %) (adinagatik, sexuagatik, jaioterriagatik...), sexuaren arabera"
 10-4-2-titulo: "Eskura dagoen diru-sarrera baliokidearen Gini indizea (postfiskala)"
 10-7-4-titulo: "Errefuxiatu estatusa edo nazioarteko babesa duten pertsonen kopurua 100.000 biztanleko"
 
@@ -111,7 +112,7 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 16-6-1-titulo: "Autonomia-erkidegoetako eta tokiko administrazio publikoek likidatutako gastua, aurrekontuetako hasierako gastuarekiko proportzioan"
 16-6-2-titulo: "Zerbitzu publikoen funtzionamenduarekin gustura dauden biztanleen proportzioa"
 
-16-7-1-titulo: "Sektore publikoko emakumeen proportzioaren ratioa, 16 eta 64 urte bitarteko biztanlerian dagoen emakumeen proportzioarekiko, erakunde publikoaren arabera"
+16-7-1-titulo: "Emakumeen proportzioak a) parlamentu autonomikoan, b) administrazio publikoan eta c) botere judizialean, emakumeek biztanlerian duten banaketarekin alderatuta"
 
 17-1-1-titulo: "Autonomia-erkidegoetako eta tokiko administrazio publikoen diru-sarrerak, guztira, BPGarekiko proportzioan"
 17-1-2-titulo: "Autonomia-erkidegoetako eta tokiko administrazio publikoen zergetatik datozen diru-sarreren proportzioa"
@@ -214,7 +215,7 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 5-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 5-3-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 5-4-1-contenido: "<b>Nahi den norabidea:</b> Guraso-funtzioak eta familia-ardurak berdintasunez banatzeko helbururantz egindako aurrerapena kalkulatu ahal izateko, emakumeen eta gizonen denbora-proportzioaren arteko erlazioa baloratzen da, lortu nahi den helburua 1 izanik"
-5-5-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+5-5-1-contenido: "<b>Nahi den norabidea:</b> Helburua % 50 da, baina egokitzat jotzen da balioa % 40-60 bitartekoa bada"
 5-5-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 5-a-1-contenido: "<b>Nahi den norabidea:</b> Igoera b) Seriean: Emakumeen proportzioa nekazaritza-lurren jabeen edo eskubideen titularren artean"
 5-a-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
@@ -275,6 +276,7 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 
 10-1-1-contenido: "<b>Nahi den norabidea:</b> Biztanleriaren % 40 pobreenaren diru-sarreren hazkundeari batez bestekoa baino tasa handiagoan eustea"
 10-2-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+10-3-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 10-4-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 10-4-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 10-7-4-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
@@ -350,7 +352,7 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 16-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 16-3-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 16-6-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
-16-7-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+16-7-1-contenido: "<b>Nahi den norabidea:</b> Helburua 1 da, baina egokitzat jotzen da balioa  0,8-1,2 bitartekoa bada"
 16-9-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
 17-1-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
@@ -360,7 +362,7 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 17-3-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 17-6-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 17-8-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
-17-13-1-contenido: "<b>Nahi den norabidea:</b> Hazkunde-tasetan oinarritutako adierazleetan, ebaluaziorako irizpide aditua erabiltzen da"
+17-13-1-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
 17-18-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 17-18-3-contenido: "<b>Nahi den norabidea:</b> Igoera"
 17-19-2-contenido: "<b>Nahi den norabidea:</b> Igoera"

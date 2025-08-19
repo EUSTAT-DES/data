@@ -1,42 +1,73 @@
- # Metadatos nacionales (ficha metodológica)
- 
-indicador_disponible: GRAFICO.nodisponible
+
+ # Metadatos nacionales (Ficha metodológica)  
+
+indicador_disponible: GRAFICO.10-3-1-titulo
 
 # objetivo_global: objetivo_largo.16-titulo
 # meta_global: meta_largo.16-b-titulo
-# indicador_onu_global: indicador_largo.16-b-1-titulo
+#  indicador_onu_global: indicador_largo.16-b-1-titulo
 
+definicion: |
 
-definicion:
-formula:
-desagregacion:
-periodicidad:
+  Prevalencia (%) de personas que se sienten discriminadas (por su edad, sexo, lugar de nacimiento, ...) por sexo
+
+formula: |
+
+  $$PP_{discriminada}^{t} = \frac{P_{discriminada}^{t}}{P^{t}} \cdot 100$$
+
+  donde:
+
+  $P_{discriminada}^{t} =$ población que se ha sentido discriminada (por su edad, sexo, lugar de nacimiento, ...), en el año $t$
+
+  $P^{t} =$ población en el año $t$
+
+desagregacion: |
+  Sexo
+
+  Territorio histórico
+
+periodicidad: FUENTE.FREQ_A5
 
 observaciones:
- 
+
+
  # Metadatos mundiales (Descripción del indicador)  
 
 
 justificacion_global: |
-  El compromiso de no dejar a nadie atrás y eliminar la discriminación 
-  es un elemento central de la Agenda 2030 para el Desarrollo Sostenible. 
+  
+  El compromiso de no dejar a nadie atrás y eliminar la discriminación es un 
+  elemento central de la Agenda 2030 para el Desarrollo Sostenible. La 
+  eliminación de la discriminación también está consagrada en la 
+  Declaración Universal de Derechos Humanos y en los principales tratados 
+  internacionales de derechos humanos. 
 
-  La eliminación de la discriminación también está consagrada en la Declaración 
-  Universal de Derechos Humanos y en los principales tratados internacionales 
-  de derechos humanos. 
+  El propósito de este indicador es medir la prevalencia de la discriminación 
+  a partir de la experiencia personal relatada por las personas. Se 
+  considera un indicador de resultados que ayuda a medir la eficacia 
+  de las leyes, políticas y prácticas no discriminatorias para los grupos 
+  de población afectados.
 
-  El propósito de este indicador es medir la prevalencia de la 
-  discriminación a partir de la experiencia personal relatada por las personas. 
-  Se considera un indicador de resultados que ayuda a 
-  medir la eficacia de las leyes, políticas y prácticas no discriminatorias 
-  para los grupos de población afectados.
+  El marco normativo internacional de derechos humanos recoge una lista de motivos 
+  que incluye raza, color, sexo, idioma, religión, opinión política o de otra índole, 
+  origen nacional, origen social, patrimonio, estado de nacimiento, discapacidad, edad, 
+  nacionalidad, estado civil y familiar, orientación sexual, identidad de género, estado 
+  de salud, lugar de residencia, situación económica y social, embarazo, condición indígena, 
+  afrodescendiente y otras.
+
+  En la práctica, será difícil incluir todos los motivos de discriminación potencialmente 
+  relevantes en las preguntas de las encuestas de hogares. Por esta razón, se recomienda 
+  que los recopiladores de datos identifiquen listas de motivos contextualmente relevantes y viables.
 
   Fuente: División de Estadísticas de las Naciones Unidas
 
-dato_global:
+comparabilidad: >-
+  El indicador disponible cumple con los metadatos de Naciones Unidas
 
-comparabilidad:
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-0b-01.pdf">Metadatos 16-b-1.pdf</a> (solo en inglés)'
+dato_global: 
 
+
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-0B-01.pdf">Metadatos 16-b-1.pdf</a> (solo en inglés)
 

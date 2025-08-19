@@ -13,7 +13,7 @@ definicion: >-
 
 formula: |
 
-  $$TVACOSO^{t} = \frac{VACOSO^{t}}{P^{t}} \cdot 100$$
+  $$TVACOSO^{t} = \frac{VACOSO^{t}}{P^{t}} \cdot 100.000$$
 
   where:
 
@@ -29,6 +29,10 @@ observaciones: >-
   Non-sexual harassment includes harassment against the freedom of persons (Article 172 ter of the 
   Criminal Code), real estate harassment (Article 172.1.3 of the Criminal Code), and workplace or 
   public servant harassment (Article 173.1 of the Criminal Code). 
+
+
+  The data comes from police action statistics, which cover known crimes, victims, and suspects.
+  Since the data summarizes only cases reported to the police, the figures may underestimate the reality.
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
@@ -51,7 +55,9 @@ justificacion_global: |
 
 comparabilidad: >-
   The available indicator does not comply with the metadata of the United Nations indicator, 
-  but provides complementary information. 
+  but provides complementary information. The United Nations indicator measures the prevalence of 
+  harassment in the population based on a population survey, while the indicator available in the Basque 
+  Country is based on administrative records that may underestimate reality.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-07-02.pdf">Metadata 11-7-2.pdf</a>'
 

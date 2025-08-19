@@ -8,7 +8,18 @@ meta_global: meta_largo.16-7-titulo
 #  indicador_onu_global: indicador_largo.16-7-1-titulo
 
 definicion: >-
-  Ratio of the proportion of women in the public sector to the proportion of women in the population aged 16 to 64, by public institution
+  
+  The indicator is composed of several series:
+
+  <b> - Proportion of women in parliament relative to the proportion of women in the population:</b>
+    Ratio of the proportion of women in the regional parliament relative to the proportion of women in the population aged 16 to 64
+  
+  <b> - Proportion of women in public administration relative to the proportion of women in the population:</b>
+    Ratio of the proportion of women in the public sector to the proportion of women in the population aged 16 to 64, by public institution
+
+  <b> - Proportion of women in the judiciary relative to the proportion of women in the population:</b>
+    Ratio of the proportion of women among active judges and magistrates relative to the proportion of women in the population aged 16 to 64
+
 
 formula: |
 
@@ -22,9 +33,9 @@ formula: |
 
   where: 
 
-  $P_{SP\, women}^{t} =$ women in public service as of January 1 of year $t$ 
+  $P_{SP\, women}^{t} =$ women in service of the institution corresponding as of January 1 of year $t$ 
 
-  $P_{SP}^{t} =$ people in public service as of January 1 of year $t$ 
+  $P_{SP}^{t} =$ people in service of the institution corresponding as of January 1 of year $t$ 
 
   $P_{16-64\, women}^{t} =$ women aged 16-64 as of 1 January of year $t$ 
 
@@ -38,8 +49,8 @@ desagregacion: |
 
 
 observaciones: |
-  The reference value of this indicator is 1, which means the representation of women in the public 
-  administration analyzed is perfectly proportional to their presence in the population between 16 
+  The reference value of this indicator is 1, which means the representation of women in the institution 
+  analyzed is perfectly proportional to their presence in the population between 16 
   and 64 years old. 
 
   If the indicator takes a value less than 1 it means that women are underrepresented, while if it 
@@ -47,7 +58,13 @@ observaciones: |
 
 
 periodicidad: FUENTE.FREQ_A
-texto_oceca: FUENTE.oceca
+
+
+texto_oceca: >- 
+
+  The series ‘Proportion of women in public administration relative to the proportion of women in the population’ has 
+  been compiled using a methodology harmonised among the central statistical bodies of the autonomous communities
+
 
  # Metadatos mundiales (Descripción del indicador)  
 
@@ -79,7 +96,7 @@ dato_global:
   Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral SG_DMK_PARLMP_LC</a> UNSTATS
 
 comparabilidad: >-
-  The available indicator partially complies with the United Nations metadata. It focuses on sub-indicator b). 
+  The available indicator partially complies with the United Nations metadata.  It focuses on gender differences
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01b.pdf">Metadata 16-7-1(b).pdf</a>'
 
