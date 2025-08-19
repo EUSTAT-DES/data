@@ -25,8 +25,8 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 2-c-1-titulo: "Índice de precios de los alimentos"
 
 3-3-1-titulo: "Número de infecciones por el VIH por cada 1.000 habitantes, desglosado por sexo"
-3-4-E1-titulo: Tasa de participación en los programas de cribado poblacional de cáncer (Indicador Gobierno Vasco)
-3-4-E2-titulo: Esperanza de vida al nacer (Indicador Gobierno Vasco)
+3-4-E1-titulo: "Tasa de participación en los programas de cribado poblacional de cáncer (Indicador Gobierno Vasco)"
+3-4-E2-titulo: "Esperanza de vida al nacer (Indicador Gobierno Vasco)"
 3-5-1-titulo: "Número de admisiones a tratamiento por abuso o dependencia de alcohol y drogas ilegales por cada 100.000 habitantes"
 3-5-2-titulo: "Consumo anual de alcohol en litros de alcohol puro por persona de 15 y más años"
 3-7-1-titulo: "Proporción de mujeres en edad de procrear (entre 18 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos"
@@ -71,6 +71,7 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 9-4-E1-titulo: "Intensidad de las emisiones atmosféricas de la industria (Indicador UE sdg_09_70)" 
 
 10-2-1-titulo: "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos"
+10-3-1-titulo: "Prevalencia (%) de personas que se sienten discriminadas (por su edad, sexo, lugar de nacimiento, ...) por sexo"
 10-4-2-titulo: "Índice de Gini del ingreso disponible equivalente (postfiscal)"
 10-7-4-titulo: "Número de personas refugiadas o bajo protección internacional por cada 100.000 habitantes"
 
@@ -110,7 +111,7 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 16-6-1-titulo: "Gasto liquidado en proporción al gasto inicial de los presupuestos de las administraciones públicas autonómicas y locales"
 16-6-2-titulo: "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos"
 
-16-7-1-titulo: "Ratio de la proporción de mujeres en el sector público respecto a la proporción de mujeres en la población entre 16 y 64 años, por institución pública"
+16-7-1-titulo: "Proporciones de mujeres en a) el parlamento autonómico, b) la administración pública y c) el poder judicial, en comparación con la distribución de las mujeres en la población"
 
 17-1-1-titulo: "Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB "
 17-1-2-titulo: "Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos"
@@ -213,7 +214,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 5-2-2-contenido: "<b>Dirección deseada:</b> Descenso"
 5-3-1-contenido: "<b>Dirección deseada:</b> Descenso"
 5-4-1-contenido: "<b>Dirección deseada:</b> Para poder calcular el progreso hacia el objetivo de reparto equitativo de las funciones parentales y las responsabilidades familiares, se valora la relación entre la proporción de tiempo de las mujeres y el de los hombres, con un objetivo deseado de 1"
-5-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+5-5-1-contenido: "<b>Dirección deseada:</b> El objetivo es 50%, aunque se considera adecuado si el valor está entre 40-60 %"
 5-5-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 5-a-1-contenido: "<b>Dirección deseada:</b> Ascenso en la serie b) Proporción de mujeres entre los propietarios o los titulares de derechos sobre tierras agrícolas, desglosada por tipo de tenencia"
 5-a-2-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -274,6 +275,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 
 10-1-1-contenido: "<b>Dirección deseada:</b> Mantener el crecimiento de los ingresos del 40% más pobre de la población a una tasa superior a la media"
 10-2-1-contenido: "<b>Dirección deseada:</b> Descenso"
+10-3-1-contenido: "<b>Dirección deseada:</b> Descenso"
 10-4-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 10-4-2-contenido: "<b>Dirección deseada:</b> Descenso"
 10-7-4-contenido: "<b>Dirección deseada:</b> Descenso"
@@ -350,7 +352,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 16-2-2-contenido: "<b>Dirección deseada:</b> Descenso"
 16-3-2-contenido: "<b>Dirección deseada:</b> Descenso"
 16-6-2-contenido: "<b>Dirección deseada:</b> Ascenso"
-16-7-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+16-7-1-contenido: "<b>Dirección deseada:</b> El objetivo es 1, aunque se considera adecuado si el valor está entre 0,8 y 1,2"
 16-9-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
 17-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -360,7 +362,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 17-3-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 17-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 17-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-17-13-1-contenido: "<b>Dirección deseada:</b> En indicadores basados cuyos valores son tasas de crecimiento, se utiliza el criterio experto para la evaluación"
+17-13-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 17-18-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 17-18-3-contenido: "<b>Dirección deseada:</b> Ascenso"
 17-19-2-contenido: "<b>Dirección deseada:</b> Ascenso"
