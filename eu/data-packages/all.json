@@ -153,7 +153,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_CPA_UPRDP",
                 "Lurralde-antolamenduko plan batek (LPP) estalitako udalerrien proportzioa",
                 "Hirigintzako udal-plan bat duten udalerrien proportzioa (HAPO edo Arau Subsidiarioak)",
                 ""
@@ -209,7 +208,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Usansolo",
                 "Abadiño",
                 "Abaltzisketa",
                 "Abanto y Ciérvana-Abanto Zierbena",
@@ -434,6 +432,7 @@
                 "Urkabustaiz",
                 "Urnieta",
                 "Urretxu",
+                "Usansolo",
                 "Usurbil",
                 "Valdegovía / Gaubea",
                 "Valle de Trápaga-Trapagaran",
@@ -4943,6 +4942,66 @@
       "title": "Emakumeen lurren jabetzarako edo kontrolerako eskubide-berdintasuna bermatzen duen ordenamendu juridikoa (ohiturazko zuzenbidea barne) duten herrialdeen proportzioa"
     },
     {
+      "path": "10-3-1/data.csv",
+      "name": "10-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Urtea"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Emakumea",
+                "Gizona",
+                ""
+              ]
+            },
+            "title": "Sexua"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Lurralde historikoa"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Unitatea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Balioa"
+          }
+        ]
+      },
+      "title": "Diskriminatuta sentitzen diren pertsonen prebalentzia ( %) (adinagatik, sexuagatik, jaioterriagatik...), sexuaren arabera"
+    },
+    {
       "path": "1-4-1/data.csv",
       "name": "1-4-1",
       "profile": "tabular-data-resource",
@@ -6259,26 +6318,6 @@
               ]
             },
             "title": "Unitatea"
-          },
-          {
-            "name": "COL2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL2"
-          },
-          {
-            "name": "COL3",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL3"
           },
           {
             "name": "Value",
@@ -8255,7 +8294,7 @@
             "constraints": {
               "enum": [
                 "Legebiltzarreko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez",
-                "Administrazio publikoko emakumeen proportzioa, biztanlerian dauden emakumeen proportzioari dagokionez",
+                "Administrazio publikoko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez",
                 "Botere judizialeko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez",
                 ""
               ]
@@ -12396,7 +12435,7 @@
           }
         ]
       },
-      "title": "Manufaktura-sektorearen balio erantsia, BPGaren eta per capita kopuruaren proportzioan"
+      "title": "Manufaktura-sektorearen balio erantsia, BPGarekiko proportzioan eta per capita"
     },
     {
       "path": "2-1-2/data.csv",
@@ -13638,6 +13677,66 @@
         ]
       },
       "title": "Industria txikiei dagokien industri sektorearen balio erantsi osoaren proportzioa"
+    },
+    {
+      "path": "16-b-1/data.csv",
+      "name": "16-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Urtea"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Emakumea",
+                "Gizona",
+                ""
+              ]
+            },
+            "title": "Sexua"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Lurralde historikoa"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Unitatea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Balioa"
+          }
+        ]
+      },
+      "title": "Diskriminatuta sentitzen diren pertsonen prebalentzia ( %) (adinagatik, sexuagatik, jaioterriagatik...), sexuaren arabera"
     },
     {
       "path": "17-8-1/data.csv",
@@ -15212,30 +15311,6 @@
       "title": "Garraio publikora iristeko erraztasuna duen biztanleriaren proportzioa, sexuaren, adinaren eta desgaitasuna duten pertsonen arabera banakatuta"
     },
     {
-      "path": "10-3-1/data.csv",
-      "name": "10-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Urtea"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Balioa"
-          }
-        ]
-      },
-      "title": "Azken 12 hilabeteetan giza eskubideen nazioarteko zuzenbideak debekatutako diskriminazio-arrazoiengatik pertsonalki diskriminatua edo jazarria sentitu dela adierazi duen biztanleriaren proportzioa"
-    },
-    {
       "path": "17-14-1/data.csv",
       "name": "17-14-1",
       "profile": "tabular-data-resource",
@@ -16122,30 +16197,6 @@
         ]
       },
       "title": "Migrazioa eta mugikortasuna errazten duten migrazio-politika ondo kudeatuak, ordenatuak, seguruak, erregularrak eta pertsonen arduradunak aplikatu dituzten herrialdeen proportzioa"
-    },
-    {
-      "path": "16-b-1/data.csv",
-      "name": "16-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Urtea"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Balioa"
-          }
-        ]
-      },
-      "title": "Giza eskubideen nazioarteko zuzenbideak debekatutako diskriminazio-arrazoiengatik azken 12 hilabeteetan pertsonalki diskriminatua edo jazarria sentitu dela adierazten duen biztanleriaren proportzioa"
     },
     {
       "path": "3-d-2/data.csv",

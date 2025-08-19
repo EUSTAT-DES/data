@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_CPA_UPRDP",
                 "Proportion of municipalities covered by a territorial land use plan (PTP)",
                 "Proportion of municipalities with a municipal urban plan (PGOU or NNSS)",
                 ""
@@ -76,7 +75,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Usansolo",
                 "Abadiño",
                 "Abaltzisketa",
                 "Abanto y Ciérvana-Abanto Zierbena",
@@ -301,6 +299,7 @@
                 "Urkabustaiz",
                 "Urnieta",
                 "Urretxu",
+                "Usansolo",
                 "Usurbil",
                 "Valdegovía/Gaubea",
                 "Valle de Trápaga-Trapagaran",

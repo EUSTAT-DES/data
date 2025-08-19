@@ -19,7 +19,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_CPA_UPRDP",
                 "EU_CPA_PTP",
                 "EU_CPA_PGOU",
                 ""
@@ -72,7 +71,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES48916",
                 "ES48001",
                 "ES20001",
                 "ES48002",
@@ -297,6 +295,7 @@
                 "ES01054",
                 "ES20072",
                 "ES20077",
+                "ES48916",
                 "ES20073",
                 "ES01055",
                 "ES48080",
