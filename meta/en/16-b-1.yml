@@ -1,37 +1,66 @@
- # Metadatos nacionales (ficha metodológica)
- 
-indicador_disponible: GRAFICO.nodisponible
+
+
+indicador_disponible: GRAFICO.10-3-1-titulo
 
 # objetivo_global: objetivo_largo.16-titulo
 # meta_global: meta_largo.16-b-titulo
-# indicador_onu_global: indicador_largo.16-b-1-titulo
+#  indicador_onu_global: indicador_largo.16-b-1-titulo
 
+definicion: |
 
-definicion:
-formula:
-desagregacion:
-periodicidad:
+  Prevalence (%) of people who feel discriminated against (due to their age, sex, place of birth, etc.) by sex
+
+formula: |
+
+  $$PP_{discriminated}^{t} = \frac{P_{discriminated}^{t}}{P^{t}} \cdot 100$$
+
+  where:
+
+  $P_{discriminated}^{t} =$ population that has felt discriminated against (due to their age, sex, place of birth, etc.), in year  $t$
+
+  $P^{t} =$ population in year $t$
+
+desagregacion: |
+  Sex
+
+  Province
+
+periodicidad: FUENTE.FREQ_A5
 
 observaciones:
- 
+
+
  # Metadatos mundiales (Descripción del indicador)  
 
 
 justificacion_global: |
-  The pledge to leave no-one behind and eliminate discrimination is at the centre of the 2030 Agenda for 
-  Sustainable Development. 
+  
+  The pledge to leave no-one behind and eliminate discrimination is at the 
+  centre of the 2030 Agenda for Sustainable Development. The elimination of 
+  discrimination is also enshrined in the Universal Declaration of Human Rights 
+  and the core international human rights treaties. 
 
-  The elimination of discrimination is also enshrined in the Universal Declaration 
-  of Human Rights and the core international human rights treaties. 
+  The purpose of this indicator is to measure a prevalence of discrimination 
+  based on the personal experience reported by individuals. It is considered 
+  an outcome indicator helping to measure the effectiveness of non-discriminatory 
+  laws, policy and practices for the concerned population groups. 
 
-  The purpose of this indicator is to measure a prevalence of discrimination based on the personal 
-  experience reported by individuals. It is considered an outcome indicator helping to measure the 
-  effectiveness of non-discriminatory laws, policy and practices for the concerned population groups. 
+  The international human rights normative framework identifies a list of grounds 
+  that includes race, colour, sex, language, religion, political or other opinion, 
+  national origin, social origin, property, birth status, disability, age, nationality, 
+  marital and family status, sexual orientation, gender identity, health status, 
+  place of residence, economic and social situation, pregnancy, indigenous status, 
+  afro-descent and other status.
+
+  In practice, it will be difficult to include all potentially relevant grounds of 
+  discrimination in household survey questions. For this reason, it is recommended 
+  that data collectors identify contextually relevant and feasible lists of grounds.
 
   Source: United Nations Statistics Division
 
-dato_global:
+dato_global: 
 
-comparabilidad:
+indicador_meta_enlace: >- 
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-0B-01.pdf">Metadata 16-b-1.pdf</a>
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-0b-01.pdf">Metadata 16-b-1.pdf</a>'
+

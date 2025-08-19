@@ -67,7 +67,11 @@ observaciones: |
   - diabetes (ICD-10 codes E10-E14)
   - chronic respiratory disease (ICD-10 codes J30-J98) 
 
-texto_oceca: FUENTE.oceca
+texto_oceca: >- 
+
+  The series ‘Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory 
+  disease per 100,000 inhabitants’ has been compiled using a methodology harmonised among the central statistical bodies of the autonomous communities
+
 
  # Metadatos mundiales (Descripción del indicador)  
 
