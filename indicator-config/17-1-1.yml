@@ -35,5 +35,10 @@ sources:
     url: FUENTE.Eustat_ceav_url
     url_text: FUENTE.Eustat_ceav
     logo: FUENTE.Eustat_logo
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_cpib_url
+    url_text: FUENTE.Eustat_cpib
+    logo: FUENTE.Eustat_logo
 standalone: false
 tags: ''
