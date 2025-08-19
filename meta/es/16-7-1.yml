@@ -7,8 +7,20 @@ objetivo_global: objetivo_largo.16-titulo
 meta_global: meta_largo.16-7-titulo
 #  indicador_onu_global: indicador_largo.16-7-1-titulo
 
-definicion: >-
-  Ratio de la proporción de mujeres en el sector público respecto a la proporción de mujeres en la población entre 16 y 64 años, por institución pública
+definicion: |
+
+  El indicador se compone de varias series: 
+
+  <b> - Proporción de mujeres en el parlamento en relación con la proporción de mujeres en la población:</b>
+    Ratio de la proporción de mujeres en el parlamento autonómico respecto a la proporción de mujeres en la población entre 16 y 64 años
+  
+  <b> - Proporción de mujeres en la administración pública en relación con la proporción de mujeres en la población:</b>
+    Ratio de la proporción de mujeres en la administración pública respecto a la proporción de mujeres en la población entre 16 y 64 años
+    desglosada por institución.
+
+  <b> - Proporción de mujeres en el poder judicial en relación con la proporción de mujeres en la población:</b>
+    Ratio de la proporción de mujeres entre los jueces y magistrados en activo respecto a la proporción de mujeres en la población entre 16 y 64 años
+
 
 formula: |
 
@@ -22,9 +34,9 @@ formula: |
 
   donde: 
 
-  $P_{SP\, mujeres}^{t} =$ mujeres al servicio del sector público a 1 de enero del año $t$ 
+  $P_{SP\, mujeres}^{t} =$ mujeres al servicio de la institución correspondiente a 1 de enero del año $t$ 
 
-  $P_{SP}^{t} =$ personas al servicio del sector público a 1 de enero del año $t$ 
+  $P_{SP}^{t} =$ personas al servicio de la institución correspondiente a 1 de enero del año $t$ 
 
   $P_{16-64\, mujeres}^{t} =$ mujeres entre 16 y 64 años a 1 de enero del año $t$ 
 
@@ -39,7 +51,7 @@ desagregacion: |
 
 observaciones: |
   El valor de referencia de este indicador es 1, que se tiene cuando la representación de la 
-  mujer en la administración pública analizada es perfectamente proporcional a su presencia 
+  mujer en la institución analizada es perfectamente proporcional a su presencia 
   en la población entre 16 y 64 años. 
 
   Si el indicador toma un valor menor que 1 significa que la mujer está 
@@ -48,7 +60,15 @@ observaciones: |
 
 
 periodicidad: FUENTE.FREQ_A
-texto_oceca: FUENTE.oceca
+
+texto_oceca: |
+
+  La serie "Proporción de mujeres en la administración pública en relación con la proporción de mujeres en la población" 
+  está calculada utilizando una 
+  metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas.
+
+
+
 
  # Metadatos mundiales (Descripción del indicador)  
 
@@ -84,7 +104,7 @@ dato_global:
   Ratio de mujeres miembros de los parlamentos (Relación de la proporción de mujeres en el parlamento con la proporción de mujeres en la población nacional, con la edad de elegibilidad como límite inferior), Cámara Baja o Unicameral SG_DMK_PARLMP_LC</a> UNSTATS
 
 comparabilidad: >-
-  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas. Se centra en el subindicador b).
+  El indicador disponible cumple parcialmente con los metadatos de Naciones Unidas. Se centra en las diferencias por sexo.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01b.pdf">Metadatos 16-7-1(b).pdf</a> (solo en inglés)'
 

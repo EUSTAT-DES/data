@@ -66,7 +66,11 @@ observaciones: |
   - diabetes (códigos E10-E14 de la CIE-10)
   - enfermedades respiratorias crónicas (códigos J30-J98 de la CIE-10) 
 
-texto_oceca: FUENTE.oceca
+texto_oceca: |
+
+  La serie "Tasa de mortalidad atribuida a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias 
+  crónicas por cada 100.000 habitantes" está calculada utilizando una 
+  metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas.
 
  # Metadatos mundiales (Descripción del indicador)  
 
