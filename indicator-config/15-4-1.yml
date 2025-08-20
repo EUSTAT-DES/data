@@ -37,6 +37,10 @@ reporting_status: complete
 sort: ''
 standalone: false
 sources:
+  - organisation: FUENTE.KBA
+    url: FUENTE.KBA_kba_url
+    url_text: FUENTE.KBA_kba
+    logo: FUENTE.KBA_logo
   - organisation: FUENTE.Geoeuskadi
     url: FUENTE.Geoeuskadi_url
     url_text: FUENTE.Geoeuskadi

@@ -38,7 +38,7 @@ sources:
   - organisation: FUENTE.Euskadi_Hacienda
     periodicity: FUENTE.FREQ_A
     url: FUENTE.Euskadi_Hacienda_presup_url
-    url_text: Euskadi_Hacienda_presup
+    url_text: FUENTE.Euskadi_Hacienda_presup
     logo: FUENTE.Euskadi_logo
 standalone: false
 tags: []
