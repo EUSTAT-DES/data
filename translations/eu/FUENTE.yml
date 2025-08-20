@@ -54,7 +54,7 @@ TIE: "Nazioarteko Gardentasuna - Espainia"
 OCDE: Ekonomia Lankidetza eta Garapenerako Erakundea (OECD)
 ONU: Nazio Batuen Erakundea (NBE)
 IGN: Geografiako Institutu Nazionala
-
+KBA: Key Biodiversity Areas idazkaritza
 
 # ERAGIKETA
 
@@ -176,7 +176,7 @@ Euskadi_Vivienda_udalplan: EAEko hirigintza-plangintzaren geografia-informazioko
 Euskadi_Vivienda_inbentarioa: Plangintzaren Inbentarioa
 Euskadi_Hacienda_presup: Aurrekontu egikaritzaren estatistika
 CGPD_ejud: Estatistika Judiziala
-
+KBA_kba: Key Biodiversity Areas
 
 # URL
 
@@ -188,7 +188,7 @@ Euskadi_Bienestar_esses_url: https://www.euskadi.eus/web01-a2inghon/eu/contenido
 Euskadi_Alimentacion_edgt_url: https://www.euskadi.eus/eusko-jaurlaritza/estatistikak-nekazaritza-arrantza-elikagai-industria/hasiera/
 Euskadi_Alimentacion_ricav_url: https://www.euskadi.eus/nekazaritza-abeltzaintza-enkas/web01-a2estadi/eu/
 BE_bp_url: https://www.bde.es/webbe/es/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/capitulo-17.html
-GE_Territorial_bep_url: https://digital.gob.es/eu/inicio
+GE_Territorial_bep_url: https://digital.gob.es/eu/funcion-publica/dgfp/registro-central-personal/boletin
 GE_Sanidad_cach_url: https://www.miteco.gob.es/eu/agua/temas/estado-y-calidad-de-las-aguas/aguas-superficiales/programas-seguimiento/control-adiciona-zonas-protegidas-abastecimientos.html
 Eustat_ceme_url: https://eu.eustat.eus/estadisticas/tema_271/opt_1/temas.html
 Eustat_cemv_url: https://eu.eustat.eus/estadisticas/tema_274/opt_1/temas.html
@@ -202,7 +202,7 @@ Eustat_ccst_url: https://eu.eustat.eus/estadisticas/tema_221/opt_0/temas.html
 Eustat_cpib_url: https://eu.eustat.eus/estadisticas/tema_10/opt_1/temas.html
 Eustat_ceav_url: https://eu.eustat.eus/estadisticas/tema_190/opt_1/temas.html
 Eustat_cpibmun_url: https://eu.eustat.eus/estadisticas/tema_489/opt_0/temas.html
-Euskadi_Industria_dener_url: https://eve.eus/Conoce-la-Energia/La-energia-en-Euskadi/Publicaciones?lang=eu-es
+Euskadi_Industria_dener_url: https://www.eve.eus/eu/argitalpenak/
 Euskadi_Bienestar_essas_url: https://eu.eustat.eus/estadisticas/tema_87/opt_1/temas.html
 Eustat_epb_url: https://eu.eustat.eus/estadisticas/tema_632/opt_1/temas.html
 BE_ecf_url: https://www.bde.es/wbe/es/publicaciones/analisis-economico-investigacion/encuesta-de-competencias-financieras/
@@ -226,7 +226,7 @@ Eustat_ceea_url: https://eu.eustat.eus/estadisticas/tema_92/opt_1/temas.html
 Eustat_cca_url: https://eu.eustat.eus/estadisticas/tema_260/opt_1/temas.html
 INE_eada_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176759&menu=ultiDatos&idp=1254735573113
 Eustat_cesif_url: https://eu.eustat.eus/estadisticas/tema_15/opt_1/temas.html
-BE_efc_url: https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/relacionados/entidades/guia-textual/tiposentidadesso/Establecimiento_00f96c8a0a53d51.html
+BE_efc_url: https://www.bde.es/webbe/es/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/capitulo-4.html
 GE_Exteriores_aod_url: https://www.aecid.es/la-aecid/en-cifras#:~:text=La%20Ayuda%20Oficial%20al%20Desarrollo,gestion%C3%B3%20307%20millones%20de%20euros
 Euskadi_Industria_ecair_url: https://www.euskadi.eus/informazioa/atmosfera-kutsaduraren-estatistika-090203/web01-s2ekono/eu/
 Euskadi_Industria_ecagua_url: https://www.euskadi.eus/informazioa/ur-kontsumoaren-estatistika-090215/web01-s2ing/eu/
@@ -299,8 +299,7 @@ Euskadi_Vivienda_udalplan_url: https://www.euskadi.eus/udalplan_eu/web01-a2lurra
 Euskadi_Vivienda_inbentarioa_url: https://www.euskadi.eus/web01-s2ing/eu/contenidos/informacion/200208_inbentarioa_tablas_esta/eu_def/index.shtml
 Euskadi_Hacienda_presup_url: https://eu.eustat.eus/estadisticas/tema_916/opt_0/temas.html
 CGPD_ejud_url: https://www.poderjudicial.es/portal/site/cgpj/menuitem.5eba20fd90ee79c47405fa65655a4ea0/?vgnextoid=9dccd1a4dc1c3510VgnVCM1000006f48ac0aRCRD&vgnextfmt=default&vgnextlocale=eu&lang_choosen=eu
-
-
+KBA_kba_url: https://www.keybiodiversityareas.org/sites/search
 
 
 # LOGOS
