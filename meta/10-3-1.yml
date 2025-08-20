@@ -3,13 +3,14 @@
 
 indicador_disponible: GRAFICO.10-3-1-titulo
 
-# objetivo_global: objetivo_largo.10-titulo
-# meta_global: meta_largo.10-3-titulo
+objetivo_global: objetivo_largo.10-titulo
+meta_global: meta_largo.10-3-titulo
 #  indicador_onu_global: indicador_largo.10-3-1-titulo
 
 definicion: |
 
-  Diskriminatuta sentitzen diren pertsonen prebalentzia ( %) (adinagatik, sexuagatik, jaioterriagatik...), sexuaren arabera
+  Adinagatik, sexuagatik, jaioterriagatik edo bestelako arrazoiengatik diskriminazioa pairatzen 
+  dutela adierazten duten pertsonen proportzioa, ehuneko gisa adierazita
 
 formula: |
 
@@ -57,8 +58,10 @@ justificacion_global: |
 
   Iturria: Nazio Batuen Estatistika Sekzioa 
 
-
 dato_global: 
+
+comparabilidad: >- 
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: >- 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-03-01.pdf">Metadatuak 10-3-1.pdf</a> (ingelesez bakarrik)
