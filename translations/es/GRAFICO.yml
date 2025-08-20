@@ -389,8 +389,16 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 5-5-2-notapie: Los datos del último año son provisionales
 8-1-1-notapie: Los datos del último año son provisionales
 8-2-1-notapie: Los datos del último año son provisionales
-8-5-2-notapie: Los datos del último años no están disponibles por municipio
-8-5-E1-notapie: Los datos del último año de la CAE y territorios históricos son provisionales. Los datos del último años no están disponibles por municipio
+8-5-2-notapie: |
+  Los datos del último año de la CAE y territorios históricos son provisionales
+
+  Los datos del último años no están disponibles por municipio
+
+8-5-E1-notapie: |
+  Los datos del último año de la CAE y territorios históricos son provisionales
+
+  Los datos del último años no están disponibles por municipio
+
 8-6-1-notapie: Los datos del último año son provisionales
 9-2-1-notapie: Los datos del último año son provisionales
 9-2-2-notapie: Los datos del último año son provisionales
