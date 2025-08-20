@@ -23,11 +23,11 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: ''
+graph_title: GRAFICO.10-3-1-titulo
 graph_titles: []
 graph_type: bar
 indicator_available: ''
-indicator_name: GRAFICO.10-3-1-titulo
+indicator_name: global_indicators.10-3-1-title
 indicator_number: 10.3.1
 indicator_tabs:
   override: false

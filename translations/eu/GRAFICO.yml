@@ -6,7 +6,7 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 1-2-1-titulo: "Pobrezia atalasearen azpitik bizi den biztanleriaren ehunekoa, sexuaren arabera banakatuta"
 1-2-2-titulo: "AROPE tasa. Pobreziako edo gizarte-bazterketako arriskuan dauden pertsonen proportzioa"
 1-3-1-titulo: "Gizarte-babeseko gutxieneko sistemen edo mailen arabera estalitako biztanleriaren proportzioa, sexuaren arabera banakatuta, langabeak eta erretirorako legezko adina gainditu duten biztanleak bereizita"
-1-4-1-titulo: "Oinarrizko zerbitzuak (txorrotako uraren hornidura eta bainua) eskura dituzten etxebizitza nagusien proportzioa"
+1-4-1-titulo: "Oinarrizko zerbitzuak (edateko uraren hornidura eta bainua) eskura dituzten etxebizitza nagusien proportzioa"
 1-5-1-titulo: "Hondamendiei zuzenean egotzitako hildakoen kopurua 100.000 biztanleko"
 1-5-2-titulo: "Kalte pertsonalengatik, diruzko galerengatik eta ondasunen gaineko kalteengatik ordaindutako edo/eta hornitutako kalte-ordainak, BPGarekiko proportzioan"
 1-5-4-titulo: "Hondamendi-arriskua murrizteko tokiko estrategiak hartzen eta ezartzen dituzten tokiko gobernuen proportzioa"
@@ -51,7 +51,7 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 5-a-2-titulo: "Lege-esparruak zenbateraino bermatzen duen emakumeek lurren jabetza edo kontrolerako duten eskubide-berdintasuna"
 5-b-1-titulo: "Azken hiru hilabeteetan mugikorra erabili duten 16 eta 74 urte bitarteko pertsonen proportzioa"
 
-6-2-1-titulo: "Oinarrizko zerbitzuetarako sarbidea duten etxebizitza nagusien proportzioa (txorroteko uraren hornidura eta bainugela)"
+6-2-1-titulo: "Oinarrizko zerbitzuetarako sarbidea duten etxebizitza nagusien proportzioa (edateko uraren hornidura eta bainugela)"
 6-3-1-titulo: "Kolektore-sistema bati konektatutako eta modu egokian tratatutako hondakin-uren fluxuen proportzioa" 
 6-3-2-titulo: "Kalitate oneko ur-masen proportzioa"
 6-4-2-titulo: "Ur-kontsumoa (ur-erauzketa)"
@@ -389,8 +389,16 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 5-5-2-notapie: Azken urteko datuak behin-behinekoak dira
 8-1-1-notapie: Azken urteko datuak behin-behinekoak dira
 8-2-1-notapie: Azken urteko datuak behin-behinekoak dira
-8-5-2-notapie: Azken urteko datuak ez daude eskuragarri udalerrika
-8-5-E1-notapie: EAE eta lurralde historikoen azken urteko datuak behin-behinekoak dira. Azken urteko datuak ez daude eskuragarri udalerrika
+8-5-2-notapie: |
+  EAE eta lurralde historikoen azken urteko datuak behin-behinekoak dira
+
+  Azken urteko datuak ez daude eskuragarri udalerrika
+
+8-5-E1-notapie: |
+  EAE eta lurralde historikoen azken urteko datuak behin-behinekoak dira
+
+  Azken urteko datuak ez daude eskuragarri udalerrika 
+
 8-6-1-notapie: Azken urteko datuak behin-behinekoak dira
 9-2-1-notapie: Azken urteko datuak behin-behinekoak dira
 9-2-2-notapie: Azken urteko datuak behin-behinekoak dira

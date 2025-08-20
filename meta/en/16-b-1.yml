@@ -2,13 +2,13 @@
 
 indicador_disponible: GRAFICO.10-3-1-titulo
 
-# objetivo_global: objetivo_largo.16-titulo
-# meta_global: meta_largo.16-b-titulo
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-b-titulo
 #  indicador_onu_global: indicador_largo.16-b-1-titulo
 
 definicion: |
 
-  Prevalence (%) of people who feel discriminated against (due to their age, sex, place of birth, etc.) by sex
+  Percentage of people who report feeling discriminated against due to age, sex, place of birth, or other reasons
 
 formula: |
 
@@ -59,6 +59,9 @@ justificacion_global: |
   Source: United Nations Statistics Division
 
 dato_global: 
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata
 
 indicador_meta_enlace: >- 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-0B-01.pdf">Metadata 16-b-1.pdf</a>

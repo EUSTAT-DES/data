@@ -10,7 +10,7 @@ meta_global: meta_largo.6-2-titulo
 definicion: >-
   Eskuragarri dauden serieak: 
 
-   <b> - Txorrotako ura duten etxebizitzen proportzioa</b>: Txorrotako uraren hornidura duten duten etxebizitza 
+   <b> - Edateko ura duten etxebizitzen proportzioa</b>: Edateko uraren hornidura duten duten etxebizitza 
   nagusien proportzioa 
   
    <b> - Bainugela duten etxebizitzen proportzioa</b>: Bainugela duten etxebizitza nagusien proportzioa  
@@ -18,11 +18,11 @@ definicion: >-
 formula: |
   <b>Txorrotako ura duten etxebizitzen proportzioa</b>
 
-  $$PVP_{txorrotako\, ura}^{t} = \frac{VP_{txorrotako\, ura}^{t}}{VP^{t}} \cdot 100$$
+  $$PVP_{edateko\, ura}^{t} = \frac{VP_{edateko\, ura}^{t}}{VP^{t}} \cdot 100$$
 
   non:
 
-  $VP_{txorrotako\, ura}^{t} =$ txorrotako uraren hornidura duten etxebizitza nagusiak $t$ urtean
+  $VP_{edateko\, ura}^{t} =$ edateko uraren hornidura duten etxebizitza nagusiak $t$ urtean
 
   $VP^{t} =$ etxebizitza nagusiak $t$ urtean
 
