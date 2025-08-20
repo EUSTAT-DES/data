@@ -2,8 +2,8 @@
  
 indicador_disponible: GRAFICO.14-3-1-titulo
 
-# objetivo_global: objetivo_largo.14-titulo
-# meta_global: meta_largo.14-3-titulo
+objetivo_global: objetivo_largo.14-titulo
+meta_global: meta_largo.14-3-titulo
 #  indicador_onu_global: indicador_largo.14-3-1-titulo
 
 
@@ -49,6 +49,9 @@ justificacion_global: |
 
 
 dato_global:
+
+comparabilidad: >-
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu
 
 indicador_meta_enlace: >- 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-14-03-01.pdf">Metadatuak 14-3-1.pdf</a> (ingelesez bakarrik)
