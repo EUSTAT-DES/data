@@ -378,8 +378,16 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 5-5-2-notapie: The data for the last year are provisional
 8-1-1-notapie: The data for the last year are provisional
 8-2-1-notapie: The data for the last year are provisional
-8-5-2-notapie: The data for the last year are not available by municipality
-8-5-E1-notapie:  The data for the Basque Country and the provinces for the last year are provisional. The data for the last year are not available by municipality
+8-5-2-notapie: |
+  The data for the Basque Country and the provinces for the last year are provisional
+
+  The data for the last year are not available by municipality
+ 
+8-5-E1-notapie: |
+  The data for the Basque Country and the provinces for the last year are provisional
+
+  The data for the last year are not available by municipality
+
 8-6-1-notapie: The data for the last year are provisional
 9-2-1-notapie: The data for the last year are provisional
 9-2-2-notapie: The data for the last year are provisional
