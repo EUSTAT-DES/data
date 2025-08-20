@@ -2,8 +2,8 @@
  
 indicador_disponible: GRAFICO.14-3-1-titulo
 
-# objetivo_global: objetivo_largo.14-titulo
-# meta_global: meta_largo.14-3-titulo
+objetivo_global: objetivo_largo.14-titulo
+meta_global: meta_largo.14-3-titulo
 #  indicador_onu_global: indicador_largo.14-3-1-titulo
 
 
@@ -50,6 +50,9 @@ justificacion_global: |
   Fuente: División de Estadísticas de las Naciones Unidas
 
 dato_global:
+
+comparabilidad: >-
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas
 
 indicador_meta_enlace: >- 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-14-03-01.pdf">Metadatos 14-3-1.pdf</a> (solo en inglés)
