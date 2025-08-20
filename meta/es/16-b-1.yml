@@ -3,13 +3,14 @@
 
 indicador_disponible: GRAFICO.10-3-1-titulo
 
-# objetivo_global: objetivo_largo.16-titulo
-# meta_global: meta_largo.16-b-titulo
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-b-titulo
 #  indicador_onu_global: indicador_largo.16-b-1-titulo
 
 definicion: |
 
-  Prevalencia (%) de personas que se sienten discriminadas (por su edad, sexo, lugar de nacimiento, ...) por sexo
+  Proporción de personas que declaran haberse sentido discriminadas por motivos de edad, 
+  sexo, lugar de nacimiento u otras razones, expresada en porcentaje
 
 formula: |
 
@@ -67,6 +68,8 @@ comparabilidad: >-
 
 dato_global: 
 
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
 
 indicador_meta_enlace: >- 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-0B-01.pdf">Metadatos 16-b-1.pdf</a> (solo en inglés)
