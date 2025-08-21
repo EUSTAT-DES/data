@@ -31,12 +31,7 @@ formula: |
 
   $a$ = talde mesedetua (gizonak, pertsona aberatsagoak, udalerri handietan bizi diren pertsonak, osasun-arazoengatik mugarik ez duten pertsonak)
 
-desagregacion: | 
-  Adina
-
-  Sexua
-  
-  Lurralde historikoa
+desagregacion:
 
 periodicidad: FUENTE.FREQ_A
 

@@ -37,13 +37,7 @@ formula: |
   $a$ = el grupo favorecido (hombres, personas más ricas, personas que viven en municipios grandes, 
   personas sin limitaciones por problemas de salud)
 
-desagregacion: |
-  
-  Edad 
-
-  Sexo 
-  
-  Territorio histórico 
+desagregacion:
 
 periodicidad: FUENTE.FREQ_A
 
