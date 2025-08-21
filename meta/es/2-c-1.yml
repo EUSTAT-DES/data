@@ -9,10 +9,16 @@ meta_global: meta_largo.2-c-titulo
 
 definicion: |
 
-  Este indicador se compone de dos series temporales:
+  Este indicador se compone de dos series:
 
-  <b> - Indicador de anomalías en los precios de los alimentos</b>
-  <b> - Índice de precios de consumo de los alimentos</b>
+   <b>- Indicador de anomalías en los precios de los alimentos</b> Una anomalía en los precios de los alimentos 
+       significa que los precios de mercado son anormalmente altos durante un período determinado. Un valor del índice de precios 
+       de los alimentos superior a 1 indica un aumento inusual en los precios de los alimentos. Cabe destacar que un valor 
+       inferior a -1 indica una caída inusual de los precios, pero este no es el objetivo de este indicador.
+
+   <b>- Índice de precios de consumo de los alimentos</b> El Índice de Precios al Consumidor (IPC) es un índice de 
+        inflación al consumidor o un índice de precios puro. Proporciona una medida promedio de la variación en los precios de 
+        los bienes y servicios adquiridos para el consumo de los hogares en la C.A. de Euskadi.
 
 
 formula: |

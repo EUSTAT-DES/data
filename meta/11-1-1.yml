@@ -13,9 +13,8 @@ definicion: >-
 
     - hezetasun-arazoak (itoginak sabaian; hezetasuna horma, zoru, sabai edo zimenduetan; edo leiho-marko, ate edo zoru ustelak)
     - komunik edo bainuontzirik/dutxarik gabeko etxebizitza
-    - kide-kopurua baino azalera txikiagoa 20 metro karratuko
     - zaraten eta kutsaduraren eraginaren ziozko arazoak
-    - etxebizitza iluna, argi nahikorik gabea,  edo argi natural urrikoa
+    - etxebizitza iluna, argi nahikorik gabea, edo argi natural urrikoa
 
 
 formula: |
@@ -36,7 +35,10 @@ observaciones: >-
 
 periodicidad: FUENTE.FREQ_A2
 
-texto_oceca: FUENTE.oceca
+texto_oceca:  >-
+
+  "Hezetasun-arazoak dituen etxebizitza batean bizi direnen proportzioa" seriea autonomia-erkidegoetako estatistika-organo nagusien 
+  arteko metodologia harmonizatua erabiliz kalkulatu da. 
 
 
  # Metadatos mundiales (Descripción del indicador)  

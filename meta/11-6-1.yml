@@ -8,10 +8,21 @@ meta_global: meta_largo.11-6-titulo
 #  indicador_onu_global: indicador_largo.11-6-1-titulo
 
 definicion: >-
-  Pertsonako jasotako hiri-hondakinak eta tratatutako (erre, isuri eta birziklatutakoak) hiri-hondakinen 
-  proportzioa, sortutako hiri-hondakin guztien aldean. Etxeetan eta zerbitzuen sektorean (dendak, 
-  bulegoak eta erakunde publiko edo pribatuak) sortutakoak jotzen dira hiri-hondakintzat, betiere haien 
-  kudeaketa toki-erakundeen ardura bada 
+  Pertsonako jasotako hiri-hondakinak eta tratatutako hiri-hondakinen 
+  proportzioa, sortutako hiri-hondakin guztien aldean, tratamenduaren arabera, eta
+  instalazio kontrolatuetan bildu eta kudeatutako hiri-hondakinen proportzioa.
+
+  Hiri-hondakinak edo udalerrikoak etxebizitza partikularretan, dendetan, bulegoetan eta
+  zerbitzuetan sortutakoak dira; baita beren jatorria edo konposizioagatik aurreko 
+  lekuetan edo jardueretan sortutakoen antzekoak direnak ere.
+
+  Honako hauek ere hiri-hondakin kontsideratzen dira:
+
+   - Bide publiko, gune berde, jolasgune eta hondartzak garbitzetik eratorritako hondakinak
+
+   - Etxe-abere hilak, baita altzari, tresneria eta abandonatutako ibilgailua
+
+   - Eraikuntzako obra txiki edo etxe konponketek sortzen dituzten hondakin eta obra-hondakinak
 
 formula: |
 
@@ -51,26 +62,27 @@ formula: |
   $RUR^{t} =$ instalazio kontrolatuetan bildu eta kudeatutako hiri-hondakinen kantitatea $t$ urtean
 
 desagregacion: |
-  Hondakinak tratamendua
+
+  Hondakinen tratamendua
 
   Lurralde historikoa
 
 
-observaciones: >-
-
-  Hiri-hondakintzat jotzen dira, era berean, etxeko eta merkataritzako hondakinak, etxeetatik eta 
-  zerbitzuen sektoretik eratorriak (dendak, bulegoak eta erakundeak), baina ez dira sartzen udalaz 
-  aparteko bide pribatuetatik kudeatutako merkataritza-hondakinak ez industriatik eratorritako 
-  hondakinak. 
+observaciones:
 
 periodicidad: FUENTE.FREQ_A
-texto_oceca: FUENTE.oceca
+
+texto_oceca: >- 
+
+  "Biztanle bakoitzeko bildutako hiri-hondakinak" eta "Tratatutako hiri-hondakinen proportzioa, tratamendu-eragiketaren arabera"
+  serieak autonomia-erkidegoetako estatistika-organo nagusien 
+  arteko metodologia harmonizatua erabiliz kalkulatu dira. 
 
  # Metadatos mundiales (Descripción del indicador)  
 
 
 justificacion_global: |
-  Hiri-enpresek eta etxeek hondakin ugari sortzen dute, sarri-sarri jaso, birziklatu edo tratatu eta 
+  Etxeek eta hirietako enpresek hondakin ugari sortzen dute, sarri-sarri jaso, birziklatu edo tratatu eta 
   ezabatu behar direnak, bizi-baldintzak osasuntsu eta higieniko mantentzekotan. 
 
   Hiri askok geroz eta erronka gehiago gainditu behar dituzte hondakinen kudeaketan, urbanizazio 
@@ -86,7 +98,8 @@ justificacion_global: |
 
 
 comparabilidad: >-
-  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu
+  "Instalazio kontrolatuetan bildu eta kudeatutako hiri-hondakinen proportzioa" serieak
+   Nazio Batuen adierazlearen metadatuak betetzen ditu
 
 dato_global: >-
 

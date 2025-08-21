@@ -1,0 +1,29 @@
+ # Metadatos nacionales (ficha metodológica)
+
+
+objetivo_global: objetivo_largo.9-titulo
+meta_global: meta_largo.9-4-titulo
+#  indicador_onu_global: indicador_largo.9-4-1-titulo
+
+
+definicion: >- 
+  Tasa de variación de las emisiones de CO2 respecto a las emitidas en el año 1990
+
+formula:  |
+
+  $$TVECO2_{1990}^{t} = \frac{ECO2^{t}-ECO2^{1990}}{ECO2^{1990}} $$
+
+  donde:
+
+  $ECO2^{t} =$ emisiones de $CO_2$ en el año $t$
+
+  $ECO2^{1990} =$ emisiones de $CO_2$ en el año 1990
+
+desagregacion:
+
+observaciones:
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+

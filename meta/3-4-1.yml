@@ -54,6 +54,10 @@ desagregacion: |
   Sexua
 
   Lurralde historikoa
+  
+  Eskualdea
+  
+  Udalerria
 
 periodicidad: FUENTE.FREQ_A
 
@@ -66,7 +70,12 @@ observaciones: |
   - diabetesa (GNS-10eko E10-E14 kodeak)
   - arnas gaixotasun kronikoak (GNS-10eko J30-J98 kodeak)  
 
-texto_oceca: FUENTE.oceca
+texto_oceca: >- 
+
+  "Gaixotasun kardiobaskularrei, minbiziari, diabetesari edo arnas gaixotasun kronikoei egotzitako heriotza-tasa 
+  100.000 biztanleko" seriea autonomia-erkidegoetako estatistika-organo nagusien 
+  arteko metodologia harmonizatua erabiliz kalkulatu da. 
+
 
  # Metadatos mundiales (Descripción del indicador)  
 

@@ -13,7 +13,6 @@ definicion: >-
 
    - problemas de humedad (techo con goteras; paredes, suelos, techos o cimientos con humedad, o podredumbre en marcos de ventanas, puertas o suelo)
    - vivienda sin retrete o bañera/ducha
-   - superficie inferior al número de miembros por 20 metros cuadrados
    - problemas de exposición a ruidos y contaminación 
    - vivienda oscura, sin luz suficiente, o escasez de luz natural
 
@@ -35,7 +34,10 @@ observaciones: >-
 
 periodicidad: FUENTE.FREQ_A2
 
-texto_oceca: FUENTE.oceca
+texto_oceca: >- 
+
+  La serie "Proporción de personas que vive en una vivienda con problemas de humedad" está calculada utilizando una 
+  metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas.
 
 
  # Metadatos mundiales (Descripción del indicador)  

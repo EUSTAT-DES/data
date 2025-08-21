@@ -53,8 +53,9 @@ Ihobe: IHOBE
 TIE: Transparency International Spain
 OCDE: Organisation for Economic Co-operation and Development (OECD)
 ONU: United Nations Organization (UN)
-
-
+IGN: National Geographic Institute
+KBA: Key Biodiversity Areas Secretariat
+CSIC: Consejo Superior de Investigaciones Científicas (CSIC)
 
 # OPERATION
 
@@ -67,6 +68,7 @@ BE_bp: Balance of Payments
 GE_Territorial_bep: Statistical Bulletin of the staff at the service of the Public Administrations
 GE_Sanidad_cach: Quality of Drinking Water
 Eustat_ceme: Population and Housing Census. Education
+Eustat_cemv: Population and Housing Census. Dwellings
 Eustat_cepv: Population and Housing Census
 GE_Transformacion_cba: Broadband Coverage in Spain
 Eustat_cedu: Education Account
@@ -172,7 +174,10 @@ GE_Vivienda_siu: Urban Information System
 CNMC_tsa: Telecommunications and Audiovisual Sector
 GE_Interior_tesh: Human Trafficking and Exploitation in Spain. Statistical Report
 Euskadi_Vivienda_udalplan: Geographic Information System of Urban Planning of the Basque Autonomous Community (UDALPLAN)
+Euskadi_Vivienda_inbentarioa: Inbentarioa. Planning Inventory
+Euskadi_Hacienda_presup: Budget Execution statistics
 CGPD_ejud: Judicial Statistics
+KBA_kba: Key Biodiversity Areas
 
 
 # URL
@@ -185,9 +190,10 @@ Euskadi_Bienestar_esses_url: https://www.euskadi.eus/web01-a2inghon/es/contenido
 Euskadi_Alimentacion_edgt_url: https://www.euskadi.eus/web01-a1estadi/es/
 Euskadi_Alimentacion_ricav_url: https://www.euskadi.eus/ricav-agroganaderia/web01-a2estadi/es/
 BE_bp_url: https://www.bde.es/webbe/en/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/capitulo-17.html
-GE_Territorial_bep_url: https://digital.gob.es/en/inicio
+GE_Territorial_bep_url: https://digital.gob.es/en/funcion-publica/dgfp/registro-central-personal/boletin
 GE_Sanidad_cach_url: https://www.miteco.gob.es/en/agua/temas/estado-y-calidad-de-las-aguas/aguas-superficiales/programas-seguimiento/control-adiciona-zonas-protegidas-abastecimientos.html
-Eustat_ceme_url: https://en.eustat.eus/estadisticas/tema_271/opt_1/tipo_15/temas.html
+Eustat_ceme_url: https://en.eustat.eus/estadisticas/tema_271/opt_1/temas.html
+Eustat_cemv_url: https://en.eustat.eus/estadisticas/tema_274/opt_1/temas.html
 Eustat_cepv_url: https://en.eustat.eus/estadisticas/tema_25/opt_1/temas.html
 GE_Transformacion_cba_url: https://avance.digital.gob.es/banda-ancha/Paginas/Index.aspx
 Eustat_cedu_url: https://en.eustat.eus/estadisticas/tema_302/opt_0/temas.html 
@@ -222,7 +228,7 @@ Eustat_ceea_url: https://en.eustat.eus/estadisticas/tema_92/opt_1/temas.html
 Eustat_cca_url: https://en.eustat.eus/estadisticas/tema_260/opt_1/temas.html
 INE_eada_url: https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736176759&menu=ultiDatos&idp=1254735573113
 Eustat_cesif_url: https://en.eustat.eus/estadisticas/tema_15/opt_1/temas.html
-BE_efc_url: https://clientebancario.bde.es/pcb/en/menu-horizontal/productosservici/relacionados/entidades/guia-textual/tiposentidadesso/Establecimiento_00f96c8a0a53d51.html
+BE_efc_url: https://www.bde.es/webbe/en/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/capitulo-4.html
 GE_Exteriores_aod_url: https://www.aecid.es/la-aecid/en-cifras#:~:text=La%20Ayuda%20Oficial%20al%20Desarrollo,gestion%C3%B3%20307%20millones%20de%20euros
 Euskadi_Industria_ecair_url: https://www.euskadi.eus/informazioa/atmosfera-kutsaduraren-estatistika-090203/web01-s2ekono/eu/
 Euskadi_Industria_ecagua_url: https://www.euskadi.eus/informazioa/ur-kontsumoaren-estatistika-090215/web01-s2ing/eu/
@@ -236,7 +242,7 @@ Euskadi_Industria_cma_url: https://www.euskadi.eus/informazioa/ur-masen-kalitate
 Ekolurra_epe_url: https://www.euskadi.eus/ekoizpen-ekologikoa/web01-a2estadi/eu/
 GE_Agricultura_esyrce_url: https://www.mapa.gob.es/en/estadistica/temas/estadisticas-agrarias/agricultura/esyrce/
 GE_Agricultura_recan_url: https://www.mapa.gob.es/en/estadistica/temas/estadisticas-agrarias/economia/red-contable-recan/
-Eustat_emat_url: https://en.eustat.eus/estadisticas/tema_50/opt_1/tipo_1/temas.html
+Eustat_emat_url: https://en.eustat.eus/estadisticas/tema_50/opt_1/temas.html
 Eustat_cemm_url: https://en.eustat.eus/estadisticas/tema_30/opt_0/temas.html
 Eustat_enac_url: https://en.eustat.eus/estadisticas/tema_48/opt_1/temas.html
 GE_Interior_pint_url: https://datos.gob.es/en/catalogo/e00003801-estadistica-de-poblacion-extranjera-solicitante-de-proteccion-internacional-refugiados-beneficiarios-de-proteccion-subsidiaria-desplazados-y-apatridas-2020-anuario-estadistico-del-ministerio-del-interior
@@ -286,14 +292,16 @@ Euskadi_Salud_pcszb_url: https://www.euskadi.eus/bainu-urak/hasiera/
 Euskadi_Salud_ritox_url: https://www.euskadi.eus/informazioa/toxikomaniei-buruzko-informazio-sistema/web01-a3regepi/eu/
 Euskadi_Salud_ekuis_url: https://beta.euskadi.eus/informazioa/ehaeko-ur-horniketa/web01-a3aguas/eu/
 Eustat_ida_url: https://en.eustat.eus/estadisticas/tema_169/opt_0/temas.html
-Euskadi_Ekonomia_atep_url: https://www.euskadi.eus/informazioa/lan-istripu-eta-lan-gaixotasunen-estadistika/web01-s2lanju/eu/
+Euskadi_Economia_atep_url: https://www.euskadi.eus/informazioa/lan-istripu-eta-lan-gaixotasunen-estadistika/web01-s2lanju/eu/
 GE_Economia_rie_url: https://comercio.gob.es/en-us/inversiones_exteriores/paginas/default.aspx
 GE_Vivienda_siu_url: https://www.mivau.gob.es/urbanismo-y-suelo/sistema-de-informacion-urbana
 CNMC_tsa_url: https://data.cnmc.es/telecomunicaciones-y-sector-audiovisual
 GE_Interior_tesh_url: https://www.interior.gob.es/opencms/en/servicios-al-ciudadano/trata/situacion-en-espana/
 Euskadi_Vivienda_udalplan_url: https://www.euskadi.eus/udalplan_eu/web01-a2lurral/eu/
-CGPD_ejud_url: https://www.poderjudicial.es/portal/site/cgpj/menuitem.5eba20fd90ee79c47405fa65655a4ea0/?vgnextoid=9dccd1a4dc1c3510VgnVCM1000006f48ac0aRCRD&vgnextfmt=default&vgnextlocale=en&lang_choosen=en
-
+Euskadi_Vivienda_inbentarioa_url: https://www.euskadi.eus/web01-s2ing/es/contenidos/informacion/200208_inbentarioa_tablas_esta/es_def/index.shtml
+Euskadi_Hacienda_presup_url: https://eu.eustat.eus/estadisticas/tema_916/opt_0/temas.html
+CGPD_ejud_url: https://www.poderjudicial.es/cgpj/en/Subjects/Judicial-Statistics/
+KBA_kba_url: https://www.keybiodiversityareas.org/sites/search
 
 
 # LOGOS
@@ -312,6 +320,7 @@ OCDE_logo: '/assets/img/fuentes/OCDE.png'
 ONU_logo: '/assets/img/fuentes/ONU.png'
 BM_logo: '/assets/img/fuentes/BM.png'
 OMS_logo: '/assets/img/fuentes/OMS.png'  
+KBA_logo: '/assets/img/fuentes/KBA.png' 
   
 # FRECUENCY
 

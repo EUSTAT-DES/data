@@ -12,7 +12,7 @@ definicion: >-
 
 formula: |
 
-  $$TM_{desastres}^{t} = \frac{D_{desastres}^{t}}{P^{t}} \cdot 100$$
+  $$TM_{desastres}^{t} = \frac{D_{desastres}^{t}}{P^{t}} \cdot 100.000$$
 
   donde:
 

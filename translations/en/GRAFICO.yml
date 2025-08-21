@@ -70,6 +70,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 9-4-E1-titulo: "Air emission intensity from industry (EU indicator sdg_09_70)" 
 
 10-2-1-titulo: "Proportion of people living below 50% of the median income"
+10-3-1-titulo: "Prevalence (%) of people who feel discriminated against (due to their age, sex, place of birth, etc.) by sex"
 10-4-2-titulo: "Gini index of equivalent disposable income (post-fiscal)"
 10-7-4-titulo: "Number of refugees or people under international protection per 100,000 inhabitants"
 
@@ -81,7 +82,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 11-6-2-titulo: "Average annual levels of fine suspended particles ($PM_{2.5}$ and $PM_{10}$) in cities (weighted by population)"
 11-7-1-titulo: "Average proportion of the built-up area of ​​cities that is dedicated to open spaces for public use by all"
 11-7-2-titulo: "Number of people who have been victims of non-sexual or sexual harassment in the last 12 months per 100,000 inhabitants"
-11-a-1-titulo: "Proportion of the population residing in municipalities that have a territorial planning plan, or that have a General Plan, Subsidiary Regulations or equivalent figures"
+11-a-1-titulo: "Proportion of municipalities covered by a territorial land use plan or a municipal urban plan"
 
 12-1-1-titulo: "Policy instruments are developed, adopted or implemented to support the transition to sustainable consumption and production patterns"
 12-5-1-titulo: "Proportion of municipal waste recycled in relation to total municipal waste generated and treated"
@@ -108,7 +109,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 16-6-1-titulo: "Liquidated expenditure in proportion to the initial expenditure of the budgets of regional and local public administrations"
 16-6-2-titulo: "Proportion of the population that feels satisfied with the functioning of public services"
 
-16-7-1-titulo: "Ratio of the proportion of women in the public sector to the proportion of women in the population aged 16 to 64, by public institution"
+16-7-1-titulo: "Proportions of women in a) the regional parliament, b) the public administration and c) the judiciary, compared to the distribution of women in the population"
 
 17-1-1-titulo: "Total revenue of regional and local public administrations as a proportion of GDP"
 17-1-2-titulo: "Proportion of regional and local government revenues from taxes"
@@ -128,11 +129,12 @@ OCECA-1-2-2-1A: "Proportion of people at risk of poverty or social exclusion: AR
 OCECA-1-a-2-1: Proportion of regional public administrations spending on education
 OCECA-1-a-2-2: Proportion of regional public administrations spending on health
 OCECA-6-1-1: Proportion of people in supply areas who report to the National Drinking Water Information System (SINAC)
+OCECA-8-9-1-3AB4AB: Tourist overnight stays and proportion of overnight stays in the two months of peak occupancy as a percentage of total tourist overnight stays
+OCECA-8-9-1-3CD: Proportion of cultural travel expenditure as a percentage of travel expenditure
 OCECA-9-4-1-5: $CO_2$ emissions compared to 1990
 OCECA-9-4-1-6: $CO_2$ emissions compared to 2005
 OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, considering the national median
-OCECA-13-2-2-3: Greenhouse gas emissions compared to 1990
-OCECA-13-2-2-4: Greenhouse gas emissions compared to 2005
+
 
 # CONTENIDO
 
@@ -209,10 +211,10 @@ OCECA-13-2-2-4: Greenhouse gas emissions compared to 2005
 5-2-2-contenido: "<b>Desired direction:</b> Decrease"
 5-3-1-contenido: "<b>Desired direction:</b> Decrease"
 5-4-1-contenido: "<b>Desired direction:</b> In order to calculate progress towards the goal of equitable sharing of parental roles and family responsibilities, the ratio of women's time to men's time is assessed, with a desired target of 1"
-5-5-1-contenido: "<b>Desired direction:</b> Increase"
+5-5-1-contenido: "<b>Desired direction:</b> The target is 50%, although it is considered adequate if the value is between 40-60%"
 5-5-2-contenido: "<b>Desired direction:</b> Increase"
 5-a-1-contenido: "<b>Desired direction:</b> Increase"
-5-a-2-contenido: "<b>Desired direction:</b> Increase"
+5-a-2-contenido: "<b>Desired direction:</b> Increase in Serie b) Proportion of women among owners or holders of rights to agricultural land, by tenure type"
 5-a-E1-contenido: "<b>Desired direction:</b> Decrease gender gap"
 5-b-1-contenido: "<b>Desired direction:</b> Increase"
 
@@ -241,7 +243,9 @@ OCECA-13-2-2-4: Greenhouse gas emissions compared to 2005
 8-5-E1-contenido: "<b>Desired direction:</b> In the Employment Rate series, the European target is to reach 78% by 2030. In the Gender Gap series, the goal is to reduce the difference to a maximum of 5.8 percentage points in the same year."
 8-6-1-contenido: "<b>Desired direction:</b> The objective set at European level is that, by 2030, the value of the indicator corresponding to young people aged between 15 and 29 years does not exceed 9%."
 8-8-1-contenido: "<b>Desired direction:</b> Decrease"
-8-9-1-contenido: "<b>Desired direction:</b> No assessment"
+8-9-1-contenido: "Not evaluable. To assess progress, the indicator should be complemented with additional 
+  indicators on the social (e.g., employment, etc) and environmental (energy use, GHG emissions, etc) 
+  aspects of tourism"
 8-10-1-contenido: "<b>Desired direction:</b> No assessment"
 8-10-2-contenido: "<b>Desired direction:</b> Increase"
 8-b-1-contenido: |
@@ -262,7 +266,8 @@ OCECA-13-2-2-4: Greenhouse gas emissions compared to 2005
 
 10-1-1-contenido: "<b>Desired direction:</b> Sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average"
 10-2-1-contenido: "<b>Desired direction:</b> Decrease"
-10-4-1-contenido: "<b>Desired direction:</b> No assessment"
+10-3-1-contenido: "<b>Desired direction:</b> Decrease"
+10-4-1-contenido: "<b>Desired direction:</b> Increase"
 10-4-2-contenido: "<b>Desired direction:</b> Decrease"
 10-7-4-contenido: "<b>Desired direction:</b> Decrease"
 
@@ -333,11 +338,11 @@ OCECA-13-2-2-4: Greenhouse gas emissions compared to 2005
 16-1-1-contenido: "<b>Desired direction:</b> Decrease"
 16-1-2-contenido: "The Basque Country is not on the list of armed conflict situations considered for this indicator by the Office of the United Nations High Commissioner for Human Rights (OHCHR)."
 16-1-4-contenido: "<b>Desired direction:</b> Increase"
-16-1-E1-contenido:  "<b>Desired direction:</b> Decrease"
+16-1-E1-contenido: "<b>Desired direction:</b> Decrease"
 16-2-2-contenido: "<b>Desired direction:</b> Decrease"
 16-3-2-contenido: "<b>Desired direction:</b> Decrease"
 16-6-2-contenido: "<b>Desired direction:</b> Increase"
-16-7-1-contenido: "<b>Desired direction:</b> Increase"
+16-7-1-contenido: "<b>Desired direction:</b> The target is 1, although it is considered adequate if the value is between 0,8-1,2"
 16-9-1-contenido: "<b>Desired direction:</b> Increase"
 
 17-1-1-contenido: "<b>Desired direction:</b> Increase"
@@ -347,7 +352,7 @@ OCECA-13-2-2-4: Greenhouse gas emissions compared to 2005
 17-3-2-contenido: "<b>Desired direction:</b> Increase"
 17-6-1-contenido: "<b>Desired direction:</b> Increase"
 17-8-1-contenido: "<b>Desired direction:</b> Increase"
-17-13-1-contenido: "<b>Desired direction:</b> In indicators based on growth rates, expert judgment is used for evaluation"
+17-13-1-contenido: "<b>Desired direction:</b> No assessment"
 17-18-2-contenido: "<b>Desired direction:</b> Increase"
 17-18-3-contenido: "<b>Desired direction:</b> Increase"
 17-19-2-contenido: "<b>Desired direction:</b> Increase"
@@ -365,8 +370,29 @@ OCECA-13-2-2-4: Greenhouse gas emissions compared to 2005
 
 # NOTAS AL PIE (FOOTNOTE)
 1-2-2-notapie: Data from 2022 onwards for the AROPE Poverty and Exclusion Indicator are calculated using the new definition of the rate (Eurostat methodology from 2021), while previous data correspond to the old definition.
+1-3-1-notapie: The data for the last year are provisional
+1-5-2-notapie: The data for the last year are provisional
 1-5-4-notapie: Municipalities that have an emergency plan (municipal or provincial) have a value of 100%
+2-a-1-notapie: The data for the Basque Country and the provinces for the last year are provisional
+4-3-1-notapie: The data for the last year are provisional
+5-5-2-notapie: The data for the last year are provisional
 8-1-1-notapie: The data for the last year are provisional
 8-2-1-notapie: The data for the last year are provisional
-8-5-2-notapie: The data for the last year are not available by municipality
+8-5-2-notapie: |
+  The data for the Basque Country and the provinces for the last year are provisional
 
+  The data for the last year are not available by municipality
+ 
+8-5-E1-notapie: |
+  The data for the Basque Country and the provinces for the last year are provisional
+
+  The data for the last year are not available by municipality
+
+8-6-1-notapie: The data for the last year are provisional
+9-2-1-notapie: The data for the last year are provisional
+9-2-2-notapie: The data for the last year are provisional
+10-4-1-notapie: The data for the last year are provisional
+11-a-1-notapie: Municipalities that have an urban or territorial plan have a value of 100%
+17-2-1-notapie: The data for the last year are provisional
+17-3-1-notapie: The data for the last year are provisional
+17-13-1-notapie: The data for the last year are provisional

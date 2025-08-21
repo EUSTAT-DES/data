@@ -1,0 +1,35 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+objetivo_global: objetivo_largo.9-titulo
+meta_global: meta_largo.9-4-titulo
+#  indicador_onu_global: indicador_largo.9-4-1-titulo
+
+
+definicion: >- 
+  Isuritako karbono dioxidoaren ($CO_2$) aldakuntza-tasa, 2005ean isuritakoen aldean
+
+formula:  |
+
+  $$TVECO2_{2005}^{t} = \frac{ECO2^{t}-ECO2^{2005}}{ECO2^{2005}} $$
+
+  non:
+
+  $ECO2^{t} =$ isuritako karbono dioxidoa ($CO_2$) $t$ urtean
+
+  $ECO2^{2005} =$ isuritako karbono dioxidoa ($CO_2$) 2005 urtean
+
+
+
+desagregacion:
+
+observaciones:
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

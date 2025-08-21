@@ -7,12 +7,7 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: true
-data_show_series: false
-data_start_values:
-  - field: ServBasico
-    value: BSRVH2O
-  - field: ServBasico
-    value: BSRVSAN
+data_start_values: []
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
@@ -41,8 +36,8 @@ sort: ''
 sources:
   - organisation: FUENTE.Eustat
     periodicity: FUENTE.FREQ_A
-    url: FUENTE.Eustat_cepv_url
-    url_text: FUENTE.Eustat_cepv
+    url: FUENTE.Eustat_cemv_url
+    url_text: FUENTE.Eustat_cemv
     logo: FUENTE.Eustat_logo
 standalone: false
 tags: ''

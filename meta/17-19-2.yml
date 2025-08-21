@@ -16,7 +16,7 @@ formula: |
 
   $$CPV^{t} = \begin{cases} BAI & \text{Biztanleriaren eta etxebizitzaren errolda bat egin da, gutxienez [t, t − 9]an} \\ EZ & \text{Ez da egin biztanleriaren eta etxebizitzaren errolda bat, gutxienez [t, t − 9]an} \end{cases} $$
 
-  $$RND^{t} = \begin{cases} 1 & \text{Jaiotzen % 100 eta gutxienez heriotzen % 80 erregistratu dira 𝑡 urtean} \\ 0 & \text{Ez dira erregistratu jaiotzen % 100 eta gutxienez heriotzen % 80 𝑡 urtean} \end{cases} $$
+  $$RND^{t} = \begin{cases} 1 & \text{Jaiotzen % 100 eta gutxienez heriotzen % 80 erregistratu dira 𝑡 urtean} \\ -1 & \text{Ez dira erregistratu jaiotzen % 100 eta gutxienez heriotzen % 80 𝑡 urtean} \end{cases} $$
 
 
 desagregacion: 

@@ -12,7 +12,7 @@ definicion: |
 
   Eskuragarri dauden serieak: 
 
-  <b> - Txorrotako ura duten etxebizitzen proportzioa:</b> 
+  <b> - Edateko ura duten etxebizitzen proportzioa:</b> 
   Ur-hornidura duten etxebizitza nagusien proportzioa
   
   <b> - Bainugela duten etxebizitzen proportzioa:</b> 
@@ -23,11 +23,11 @@ formula: |
 
   <b>Txorrotako ura duten etxebizitzen proportzioa</b>
 
-  $$PVP_{txorrotako\, ura}^{t} = \frac{VP_{txorrotako\, ura}^{t}}{VP^{t}} \cdot 100$$
+  $$PVP_{edateko\, ura}^{t} = \frac{VP_{edateko\, ura}^{t}}{VP^{t}} \cdot 100$$
 
   non:
 
-  $VP_{txorrotako\, ura}^{t} =$ ur-hornidura duten etxebizitza nagusiak $t$ urtean
+  $VP_{edateko\, ura}^{t} =$ ur-hornidura duten etxebizitza nagusiak $t$ urtean
 
   $VP^{t} =$ etxebizitza nagusiak $t$ urtean
 

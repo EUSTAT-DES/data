@@ -1,0 +1,36 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+
+objetivo_global: objetivo_largo.9-titulo
+meta_global: meta_largo.9-4-titulo
+#  indicador_onu_global: indicador_largo.9-4-1-titulo
+
+
+definicion: >- 
+  Isuritako karbono dioxidoaren ($CO_2$) aldakuntza-tasa, 1990ean isuritakoen aldean
+
+formula:  |
+
+  $$TVECO2_{1990}^{t} = \frac{ECO2^{t}-ECO2^{1990}}{ECO2^{1990}} $$
+
+  non:
+
+  $ECO2^{t} =$ isuritako karbono dioxidoa ($CO_2$) $t$ urtean
+
+  $ECO2^{1990} =$ isuritako karbono dioxidoa ($CO_2$) 1990 urtean
+
+
+
+desagregacion:
+
+observaciones:
+
+periodicidad: FUENTE.FREQ_A
+
+texto_oceca: FUENTE.oceca
+
+
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

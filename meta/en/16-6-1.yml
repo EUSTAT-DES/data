@@ -22,11 +22,15 @@ formula: |
   $GI_{public\, administration}^{t} =$ total expenditure in the initial consolidated budget of the public administration (autonomous administration or local administration) in year $t$
 
 
-desagregacion: 
+desagregacion: |
 
+  Province
 
-observaciones: |
-  The consolidated data are taken after being cleaned from IFL (local financial intermediation) and CAP (common agricultural policy).
+  County
+
+  Municipality
+
+observaciones:
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca

@@ -8,45 +8,50 @@ meta_global: meta_largo.11-a-titulo
 #  indicador_onu_global: indicador_largo.11-a-1-titulo
 
 definicion: |
-  This indicator is composed of two time series:
+  This indicator is composed of two series:
 
-  - Proportion of the population residing in municipalities that have a land use plan
-  - Proportion of the population residing in municipalities that have a general plan 
-    or subsidiary urban planning regulations
+   <b>- Proportion of municipalities covered by a territorial land use plan (PTP)</b>
+
+   <b>- Proportion of municipalities with a municipal urban plan (PGOU or NNSS)</b>
+
 
 formula: |
 
-  <b>Proportion of the population residing in municipalities that have a land use plan</b>
+  <b>Proportion of municipalities covered by a territorial land use plan (PTP)</b>
   
-  $$PPTP^{t} = \frac{PTP^{t}}{P^{t}} \cdot 100$$
+  $$PMUN_{PTP}^{t} = \frac{MUN_{PTP}^{t}}{MUN^{t}} \cdot 100$$
 
   where:
 
-  $PTP^{t} =$ population residing in municipalities that have a Partial Territorial Plan on January 1 of year $t$
+  $MUN_{PTP}^{t} =$ number of municipalities with A territorial land use plan in the year $t$
 
-  $P^{t} =$ population as of January 1 of year $t$
+  $MUN^{t} =$ number of municipalities in the year $t$
 
 
   <br>
 
-  <b>Proportion of the population residing in municipalities that have a general plan or subsidiary urban planning regulations</b>
+  <b>Proportion of municipalities with a municipal urban plan (PGOU or NNSS)</b>
 
-  $$PPPGNS^{t} = \frac{PPG^{t}+PNS^{t}}{P^{t}} \cdot 100$$
+  $$PMUN_{PGOU}^{t} = \frac{MUN_{PGOU}^{t}}{MUN^{t}} \cdot 100$$
 
   where:
 
-  $PPG^{t} =$ population residing in municipalities that have a general plan on January 1 of year $t$
+  $MUN_{PGOU}^{t} =$ number of municipalities with municipal urban plan in the year $t$
 
-  $PNS^{t} =$ population residing in municipalities that have subsidiary regulations on January 1 of year $t$
+  $MUN^{t} =$ number of municipalities in the year $t$
 
-  $P^{t} =$ population as of January 1 of year $t$
+desagregacion: |
 
-desagregacion:
+  Province 
+
+  County 
+
+  Municipality 
+
 
 observaciones: >-
 
 periodicidad: FUENTE.FREQ_A
-texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 

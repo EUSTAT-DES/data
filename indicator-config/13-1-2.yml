@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -21,13 +21,13 @@ graph_title: global_indicators.13-1-2-title
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.13-1-2-title
-indicator_number: '13.1.2'
+indicator_number: '13-1-2'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.1-5-3-contenido
 permalink: ''
 precision: []
-progress_status: notstarted
-reporting_status: notstarted
+progress_status: alcanzado
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []

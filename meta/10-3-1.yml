@@ -1,18 +1,33 @@
-# Metadatos nacionales (ficha metodológica)
- 
-indicador_disponible: GRAFICO.nodisponible
 
-# objetivo_global: objetivo_largo.10-titulo
-# meta_global: meta_largo.10-3-titulo
+# Metadatos nacionales (ficha metodológica)
+
+indicador_disponible: GRAFICO.10-3-1-titulo
+
+objetivo_global: objetivo_largo.10-titulo
+meta_global: meta_largo.10-3-titulo
 #  indicador_onu_global: indicador_largo.10-3-1-titulo
 
-definicion:
+definicion: |
 
-formula:
+  Adinagatik, sexuagatik, jaioterriagatik edo bestelako arrazoiengatik diskriminazioa pairatzen 
+  dutela adierazten duten pertsonen proportzioa, ehuneko gisa adierazita
 
-desagregacion: 
+formula: |
 
-periodicidad:  
+  $$PP_{diskriminatua}^{t} = \frac{P_{diskriminatua}^{t}}{P^{t}} \cdot 100$$
+
+  non:
+
+  $P_{diskriminatua}^{t} =$ diskriminatuta sentitu den biztanleria (adinagatik, sexuagatik, jaioterriagatik...) $t$ urtean
+
+  $P^{t} =$ biztanleria $t$ urtean
+
+desagregacion: |
+  Sexua
+
+  Lurralde historikoa
+
+periodicidad: FUENTE.FREQ_A5
 
 observaciones:
 
@@ -30,11 +45,23 @@ justificacion_global: |
   pertsonalean oinarrituta. Era berean, ukitutako biztanleria-taldeentzat diskriminatzaileak ez diren lege, 
   politika eta praktiken eraginkortasuna neurtzen laguntzen duen emaitza-adierazlea da. 
 
+  Giza eskubideen nazioarteko arau-esparruak arrazoien zerrenda bat jasotzen du, honako hauek biltzen dituen: 
+  arraza, kolorea, sexua, hizkuntza, erlijioa, iritzi politikoa edo beste mota batekoa, jatorri nazionala, 
+  jatorri soziala, ondarea, jaiotza-egoera, desgaitasuna, adina, nazionalitatea, egoera zibila eta 
+  familia-egoera, sexu-orientazioa, genero-identitatea, osasun-egoera, bizilekua, ekonomia- eta 
+  gizarte-egoera, haurdunaldia, indigenen egoera, afroondorengoa eta beste batzuk.
+
+  Praktikan, zaila da familien inkestetako galderetan garrantzitsuak izan daitezkeen diskriminazio-arrazoi 
+  guztiak sartzea. Horregatik, komeni da datu-biltzaileek testuinguruaren aldetik garrantzitsuak eta 
+  bideragarriak diren arrazoien zerrendak identifikatzea.
+
 
   Iturria: Nazio Batuen Estatistika Sekzioa 
 
-
 dato_global: 
+
+comparabilidad: >- 
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: >- 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-10-03-01.pdf">Metadatuak 10-3-1.pdf</a> (ingelesez bakarrik)

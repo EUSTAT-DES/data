@@ -56,7 +56,10 @@ dato_global: >-
 
 
 comparabilidad: >-
-  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa ematen du.
+  Definizio ofizialaren arabera, adierazleak erreferentziako biztanleria gisa 20 eta 24 urte bitarteko emakumeak 
+  hartzen ditu neurketa unean. Hala ere, Euskadiko AEan kalkulatzeko, urte erreferenteko 16 eta 17 urteko emakumeen 
+  biztanleria hartzen da izendatzaile gisa.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-03-01.pdf">Metadatuak 5-3-1.pdf</a> (ingelesez bakarrik)'
 

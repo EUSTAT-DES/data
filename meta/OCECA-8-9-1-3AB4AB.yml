@@ -1,0 +1,85 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-9-titulo
+#  indicador_onu_global: indicador_largo.8-9-1-titulo
+
+
+definicion:  | 
+  
+  Adierazleak hainbat serie ditu:
+
+   - <b>Turisten ostatu-gauak biztanleko:</b> Turista guztiek (Euskal Autonomia Erkidegoko egoilarrek eta kanpokoek) igarotako ostatu-gauak
+     Euskal Autonomia Erkidegoko biztanle bakoitzeko
+
+   - <b>Egoiliarrak ez diren turisten ostatu-gauak biztanleko:</b> Euskal Autonomia Erkidegoko egoilarrak ez diren turisten gaualdiak Euskal Autonomia Erkidegoko biztanle bakoitzeko
+
+   - <b>Gehieneko okupazioko bi hilabeteetan turistek igarotako gauen proportzioa, turisten ostatu-gau guztien aldean:</b> Turista guztien (Euskal AEn bizi direnen eta ez direnen) gaualdien proportzioa okupazio handieneko bi hilabeteetan, urteko guztizkoaren aldean
+
+   - <b>Gehieneko okupazioko bi hilabeteetan egoiliarrak ez diren turisten ostatu-gauen proportzioa, egoiliarrak ez diren turisten ostatu-gauen guztizkoen artean:</b> Egoiliarrak
+     ez diren (Euskal AEn bizi ez diren) turisten gaualdien proportzioa okupazio handieneko bi hilabeteetan, urteko guztizkoaren aldean
+
+
+formula:  |
+
+  <b>Turisten ostatu-gauak biztanleko</b>
+
+  $$PERNP^{t} = \frac{{PERN^{t}}}{P^{t}}$$
+
+  non:
+
+  $PERN^{t} =$ turista egoiliarren eta ez-egoiliarren ostatu-gauak $t$ urtean
+
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean 
+
+
+  <br>
+
+  <b>Egoiliarrak ez diren turisten ostatu-gauak biztanleko</b>
+
+  $$PERNP_{ez\, egoiliarrak}^{t} = \frac{{PERN_{ez\, egoiliarrak}^{t}}}{P^{t}}$$
+
+  non:
+
+  $PERN_{ez\, egoiliarrak}^{t} =$ turista ez-egoiliarren ostatu-gauak $t$ urtean
+
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean 
+
+  <br>
+
+  <b>Gehieneko okupazioko bi hilabeteetan turistek igarotako gauen proportzioa, turisten ostatu-gau guztien aldean</b>
+
+
+  $$PERNP_{2\, hilabete\, max}^{t} = \frac{{PERN_{2\, hilabete\, max}^{t}}}{PERN^{t}}$$
+
+  non:
+
+  $PERN_{2\, hilabete\, max}^{t} =$ turisten ostatu-gauak (egoiliarrak eta ez-egoiliarrak) okupazio goreneko bi hilabeteetan $t$ urtean
+
+  $PERN^{t} =$ turisten ostatu-gauak (egoiliarrak eta ez-egoiliarrak) $t$ urtean
+
+
+  <b>Gehieneko okupazioko bi hilabeteetan egoiliarrak ez diren turisten ostatu-gauen proportzioa, egoiliarrak ez diren turisten ostatu-gauen guztizkoen artean</b>
+
+
+  $$PERNP_{ez\, egoiliarrak\, 2\, hilabete\, max}^{t} = \frac{{PERN_{ez\, egoiliarrak\, 2\, hilabete\, max}^{t}}}{PERN_{ez\, egoiliarrak}^{t}}$$
+
+  non:
+
+
+  $PERN_{ez\, egoiliarrak\, 2\, hilabete\, max}^{t} =$ turista ez-egoiliarren ostatu-gauak okupazio goreneko bi hilabeteetan $t$ urtean
+
+  $PERN_{ez\, egoiliarrak}^{t} =$ turista ez-egoiliarren ostatu-gauak $t$ urtean
+
+
+desagregacion:
+
+periodicidad: FUENTE.FREQ_A
+
+observaciones:
+
+texto_oceca: FUENTE.oceca
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''

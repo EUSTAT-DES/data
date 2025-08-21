@@ -8,11 +8,21 @@ meta_global: meta_largo.11-6-titulo
 #  indicador_onu_global: indicador_largo.11-6-1-titulo
 
 definicion: >-
-  Residuos urbanos recogidos per cápita y proporción de residuos urbanos tratados (incinerados, 
-  vertidos y reciclados) en relación al total de residuos urbanos generados. Se 
-  consideran residuos urbanos los procedentes de los hogares y del sector servicios 
-  (comercios, oficinas e instituciones públicas o privadas), cuya gestión es asumida por 
-  las entidades locales
+  Residuos urbanos recogidos per cápita y proporción de residuos urbanos tratados en relación 
+   al total de residuos urbanos generados, y la proporción de residuos urbanos gestionados 
+   en instalaciones controladas.
+
+  Los residuos urbanos o municipales son los residuos generados en los domicilios particulares,
+  comercios, oficinas y servicios, así como todos aquellos que que por su naturaleza o 
+  composición puedan asimilarse a los producidos en los anteriores lugares o actividades.
+
+  Tienen también la consideración de residuos urbanos los siguientes:
+
+   - Residuos procedentes de la limpieza de vías públicas, zonas verdes, áreas recreativas y playas
+
+   - Animales domésticos muertos, así como muebles, enseres y vehículos abandonados
+
+   - Residuos y escombros procedentes de obras menores de construcción y reparación domiciliaria
 
 formula: |
 
@@ -57,15 +67,15 @@ desagregacion: |
   Territorio histórico 
 
 
-observaciones: >-
+observaciones:  >-
 
-  Se entiende por residuos urbanos los residuos domésticos y comerciales, procedentes 
-  de hogares y del sector servicios (comercio, oficinas e instituciones) gestionados por 
-  las entidades locales, no incluyéndose los residuos comerciales gestionados por canales 
-  privados distintos al municipal, ni residuos procedentes de la industria.
 
 periodicidad: FUENTE.FREQ_A
-texto_oceca: FUENTE.oceca
+texto_oceca: 
+
+  Las series "Residuos urbanos recogidos per cápita" y "Proporción de residuos urbanos tratados, por operación de tratamiento"
+  se han calculado utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas
+
 
  # Metadatos mundiales (Descripción del indicador)  
 
@@ -86,7 +96,8 @@ justificacion_global: |
   Fuente: División de Estadísticas de las Naciones Unidas
 
 comparabilidad: >-
-  El indicador disponible cumple con los metadatos de Naciones Unidas
+  La serie "Proporción de residuos urbanos recogidos y gestionados en instalaciones controladas"
+  cumple con los metadatos de Naciones Unidas
 
 dato_global: >-
 

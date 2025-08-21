@@ -9,10 +9,20 @@ meta_global: meta_largo.11-6-titulo
 
 definicion: >-
   Urban waste collected per capita and proportion of urban waste treated 
-  (incinerated, landfilled, and recycled) in relation to total urban waste 
-  generated. Urban waste is considered to be waste from households and the 
-  service sector (businesses, offices, and public or private institutions), 
-  the management of which is assumed by local authorities.
+  in relation to total urban waste generated, and 
+  the proportion of urban waste collected and managed in controlled facilities.
+
+  Urban or municipal waste is waste generated in private homes, businesses, offices, 
+  and services, as well as any waste that, due 
+  to its nature or composition, can be assimilated to that produced in the aforementioned places or activities.
+
+  The following are also considered urban waste:
+
+   - Waste from cleaning public streets, green areas, recreational areas, and beaches
+
+   - Dead domestic animals, as well as abandoned furniture, fixtures, and vehicles
+
+   - Waste and debris from minor construction and home repairs
 
 formula: |
 
@@ -54,16 +64,16 @@ desagregacion: |
 
   Province
 
-
 observaciones: >-
 
-  Urban waste is understood to mean domestic and commercial waste from homes and 
-  the service sector (commerce, offices, and institutions) managed by local authorities. 
-  It does not include commercial waste managed by private channels other than municipal 
-  waste or waste from industry. 
+
 
 periodicidad: FUENTE.FREQ_A
-texto_oceca: FUENTE.oceca
+texto_oceca: >-
+
+  The series ‘Urban waste collected per capita’ and ‘Proportion of urban waste treated, per treatment operation’ 
+  have been compiled using a methodology harmonised among the central statistical bodies of the autonomous communities
+
 
  # Metadatos mundiales (Descripción del indicador)  
 

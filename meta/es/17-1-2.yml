@@ -7,13 +7,13 @@ objetivo_global: objetivo_largo.17-titulo
 meta_global: meta_largo.17-1-titulo
 #  indicador_onu_global: indicador_largo.17-1-2-titulo
 
-definicion: >-
+definicion: |
 
-  Series disponibles: 
+  Este indicador se compone de dos series: 
 
-   - Proporción de los ingresos no financieros  de las administraciones públicas vascas que provienen de impuestos
+   <b>- Proporción de los ingresos no financieros  de las administraciones públicas vascas que provienen de impuestos</b>
 
-   - Proporción de los ingresos totales de las administraciones públicas vascas que provienen de impuestos
+   <b>- Proporción de los ingresos totales de las administraciones públicas vascas que provienen de impuestos</b>
   
 formula: |
 

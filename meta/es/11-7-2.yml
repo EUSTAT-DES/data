@@ -8,11 +8,12 @@ meta_global: meta_largo.11-7-titulo
 #  indicador_onu_global: indicador_largo.11-7-2-titulo
 
 definicion: >-
-  Número de personas que han sido víctimas de acoso contra la libertad de las personas, acoso inmobiliario, acoso laboral o funcionarial, o acoso sexual en los últimos 12 meses por cada 100.000 habitantes
+  Número de personas que han sido víctimas de acoso contra la libertad de las personas, acoso inmobiliario, 
+  acoso laboral o funcionarial, o acoso sexual en los últimos 12 meses por cada 100.000 habitantes
 
 formula: |
 
-  $$TVACOSO^{t} = \frac{VACOSO^{t}}{P^{t}} \cdot 100$$
+  $$TVACOSO^{t} = \frac{VACOSO^{t}}{P^{t}} \cdot 100.000$$
 
   donde:
 
@@ -21,11 +22,15 @@ formula: |
   $P^{t} =$ población a 1 de julio del año $t$
 
 desagregacion:
+  Sexo
 
 observaciones: >-
 
   Se contabiliza como acoso no sexual el acoso contra la libertad de las personas (art. 172 ter del código penal), 
   el acoso inmobiliario (art. 172,1.3 del código penal) y el acoso laboral o funcionarial (art. 173.1 del código penal).
+
+  Los datos proceden de las estadísticas de actuaciones policiales, que abarcan delitos conocidos, víctimas y sospechosos. 
+  Dado que los datos resumen únicamente los casos puestos en conocimiento de la policía, las cifras pueden subestimar la realidad. 
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
@@ -46,7 +51,9 @@ justificacion_global: |
   Fuente: División de Estadísticas de las Naciones Unidas
 
 comparabilidad: >-
-  El indicador disponible no cumple con los metadatos de Naciones Unidas, pero aporta información complementaria.
+  El indicador disponible no cumple con los metadatos de Naciones Unidas, pero aporta información complementaria. El indicador
+  de Naciones Unidas mide la prevalencia del acoso en la población medida a partir de una encuesta a la población, mientras
+  que el indicador disponible en la CAE se basa en registros administrativos que pueden subestimar la realidad.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-07-02.pdf">Metadatos 11-7-2.pdf</a> (solo en inglés)'
 

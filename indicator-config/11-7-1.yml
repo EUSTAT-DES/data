@@ -29,5 +29,8 @@ precision: []
 progress_status: alcanzado
 reporting_status: complete
 sort: ''
+sources:
+  - organisation: FUENTE.IGN
+    logo: FUENTE.GE_logo
 standalone: false
 tags: []
