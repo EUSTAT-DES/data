@@ -21,10 +21,16 @@ formula: |
   $GI_{administrazio\, publikoa}^{t} =$ administrazio publikoaren (autonomia-administrazioa edo toki-administrazioa) hasierako aurrekontu bateratuko guztizko gastua $t$ urtean
 
 
-desagregacion:
+desagregacion: | 
+
+  Lurralde historikoa
   
-observaciones: |
-  Finkatutako datuak tokiko finantza-bitartekaritzatik eta nekazaritza-politika erkidetik hartzen dira, araztuta.
+  Eskualdea
+  
+  Udalerria
+
+  
+observaciones:
 
 periodicidad: FUENTE.FREQ_A
 texto_oceca: FUENTE.oceca
