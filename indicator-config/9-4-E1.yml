@@ -36,8 +36,13 @@ sort: ''
 sources:
   - organisation: FUENTE.Euskadi_Industria
     periodicity: FUENTE.FREQ_A
-    url: FUENTE.Euskadi_Industria_gei_url
-    url_text: FUENTE.Euskadi_Industria_gei
+    url: FUENTE.Euskadi_Industria_ecair_url
+    url_text: FUENTE.Euskadi_Industria_ecair
     logo: FUENTE.Euskadi_logo
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_cpib_url
+    url_text: FUENTE.Eustat_cpib
+    logo: FUENTE.Eustat_logo
 standalone: false
 tags: []
