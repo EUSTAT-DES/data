@@ -29,6 +29,8 @@ precision: []
 progress_status: alcanzado
 reporting_status: complete
 sort: ''
-sources: ''
+sources:
+  - organisation: FUENTE.CSIC
+    logo: FUENTE.GE_logo
 standalone: false
 tags: []
