@@ -16,7 +16,7 @@ definicion: >-
    <b> - Bainugela duten etxebizitzen proportzioa</b>: Bainugela duten etxebizitza nagusien proportzioa  
 
 formula: |
-  <b>Txorrotako ura duten etxebizitzen proportzioa</b>
+  <b>Edateko ura duten etxebizitzen proportzioa</b>
 
   $$PVP_{edateko\, ura}^{t} = \frac{VP_{edateko\, ura}^{t}}{VP^{t}} \cdot 100$$
 
