@@ -8,7 +8,7 @@ meta_global: meta_largo.11-6-titulo
 #  indicador_onu_global: indicador_largo.11-6-2-titulo
 
 definicion: >-
-  Average concentration of suspended particles smaller than 10 microns ($PM_{10}$) or 
+  Average concentration of particulate matter smaller than 10 microns ($PM_{10}$) or 
   2.5 microns ($PM_{2,5}$) in municipalities with more than 50,000 inhabitants weighted 
   according to population 
 
@@ -21,12 +21,12 @@ formula: |
 
   $M^{t} $ = set of municipalities with more than 50,000 inhabitants where there are monitoring stations that participate in the evaluation of air quality in year $t$
 
-  $CMPM_{m}^{t} $ = average concentration of suspended particles in the municipality $m$ in year $t$
+  $CMPM_{m}^{t} $ = average concentration of particulate matter in the municipality $m$ in year $t$
 
   $P_{m}^{t}$ = population of the municipality $m$ in year $t$
 
 desagregacion: |
-  Suspended particles
+  Particulate matter
 
 
 observaciones:
