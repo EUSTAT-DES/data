@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrazio autonomikoak likidatutako gastua aurrekontuko gastuarekiko proportzioan",
+                "Administrazio autonomikoaren gastu likidatua, hasieran onartutako aurrekontuaren proportzioan",
                 "Toki administrazioaren gastu likidatua, hasieran onartutako aurrekontuaren proportzioan",
                 ""
               ]
