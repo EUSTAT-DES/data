@@ -12629,8 +12629,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores",
                 "Proporción de flujos de aguas residuales domésticas tratadas de manera adecuada",
+                "Proporción de flujos de aguas residuales domésticas conectadas a un sistema de colectores",
                 ""
               ]
             },

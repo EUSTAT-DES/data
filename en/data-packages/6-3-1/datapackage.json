@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of domestic wastewater streams connected to a collection system",
                 "Proportion of domestic wastewater streams treated in a controlled manner Adequate",
+                "Proportion of domestic wastewater streams connected to a collection system",
                 ""
               ]
             },

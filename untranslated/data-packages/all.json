@@ -11924,8 +11924,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_WWT_COLECT",
                 "EN_WWT_WWDS",
+                "EU_WWT_COLECT",
                 ""
               ]
             }

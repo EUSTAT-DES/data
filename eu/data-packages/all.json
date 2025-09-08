@@ -12629,8 +12629,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kolektore-sistema batera konektatutako etxeko hondakin-uren fluxuen proportzioa",
                 "Modu egokian tratatutako etxeko hondakin-uren fluxuen proportzioa",
+                "Kolektore-sistema batera konektatutako etxeko hondakin-uren fluxuen proportzioa",
                 ""
               ]
             },
