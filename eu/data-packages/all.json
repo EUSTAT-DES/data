@@ -148,8 +148,8 @@
               "enum": [
                 "Genero-parekotasunaren indizea hezkuntza-jarduerak egitean",
                 "Diru-sarrera parekotasunaren indizea hezkuntza-jarduerak egitean (goiko eta beheko kintilak)",
-                "Bizileku-parekotasunaren indizea hezkuntza-jarduerak egitean (10.000 biztanletik gorako eta beherako udalerriak)",
                 "Osasun-parekotasunaren indizea hezkuntza-jarduerak egitean",
+                "Bizileku-parekotasunaren indizea hezkuntza-jarduerak egitean (10.000 biztanletik gorako eta beherako udalerriak)",
                 ""
               ]
             },
@@ -161,8 +161,8 @@
             "constraints": {
               "enum": [
                 "Araba / Álava",
-                "Bizkaia",
                 "Gipuzkoa",
+                "Bizkaia",
                 ""
               ]
             },

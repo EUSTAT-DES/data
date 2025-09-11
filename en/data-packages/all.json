@@ -148,8 +148,8 @@
               "enum": [
                 "Gender parity index in completion of educational activities ",
                 "Income parity index in completion of educational activities (top and bottom quintiles)",
-                "Location parity index in completion of educational activities (municipalities over and under 10,000 inhabitants)",
                 "Health parity index in completion of educational activities",
+                "Location parity index in completion of educational activities (municipalities over and under 10,000 inhabitants)",
                 ""
               ]
             },
@@ -161,8 +161,8 @@
             "constraints": {
               "enum": [
                 "Araba/Álava",
-                "Bizkaia",
                 "Gipuzkoa",
+                "Bizkaia",
                 ""
               ]
             },

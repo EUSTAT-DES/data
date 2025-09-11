@@ -137,8 +137,8 @@
               "enum": [
                 "EU_GPI_TRN",
                 "EU_SESPI",
-                "EU_RUPI_TRN",
                 "EU_PI_HEALTH",
+                "EU_RUPI_TRN",
                 ""
               ]
             }
@@ -149,8 +149,8 @@
             "constraints": {
               "enum": [
                 "ES211",
-                "ES213",
                 "ES212",
+                "ES213",
                 ""
               ]
             }

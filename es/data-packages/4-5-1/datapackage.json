@@ -22,8 +22,8 @@
               "enum": [
                 "Índice de paridad de género en la realización de actividades educativas",
                 "Índice de paridad en ingresos en la realización de actividades educativas (quintiles superior e inferior)",
-                "Índice de paridad residencial en la realización de actividades educativas (municipios de más y menos de 10.000 habitantes)",
                 "Índice de paridad en salud en la realización de actividades educativas",
+                "Índice de paridad residencial en la realización de actividades educativas (municipios de más y menos de 10.000 habitantes)",
                 ""
               ]
             },
@@ -35,8 +35,8 @@
             "constraints": {
               "enum": [
                 "Araba/Álava",
-                "Bizkaia",
                 "Gipuzkoa",
+                "Bizkaia",
                 ""
               ]
             },
