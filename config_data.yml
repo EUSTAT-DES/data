@@ -143,6 +143,8 @@ docs_metadata_fields:
       label: Show map
     - key: graph_type
       label: Tipo de gráfico
+    - key: texto_oceca
+      label: OCECA
 # Indicator options    
 indicator_options:
   non_disaggregation_columns:
