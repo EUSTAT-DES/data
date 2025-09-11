@@ -1770,20 +1770,6 @@
             "title": "Unit"
           },
           {
-            "name": "Orden_Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2000",
-                "2010",
-                "2030",
-                "2040",
-                ""
-              ]
-            },
-            "title": "Orden_Series"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
