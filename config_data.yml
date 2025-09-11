@@ -145,6 +145,10 @@ docs_metadata_fields:
       label: Tipo de gráfico
     - key: texto_oceca
       label: OCECA
+    - key: national_data_updated_date
+      label: Fecha última actualización datos
+    - key: organisation
+      label: Fuente
 # Indicator options    
 indicator_options:
   non_disaggregation_columns:
