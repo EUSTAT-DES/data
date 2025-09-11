@@ -147,7 +147,7 @@ docs_metadata_fields:
       label: OCECA
     - key: national_data_updated_date
       label: Fecha última actualización datos
-    - key: organisation
+    - key: source/organisation
       label: Fuente
 # Indicator options    
 indicator_options:
