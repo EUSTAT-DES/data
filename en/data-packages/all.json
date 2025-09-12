@@ -22,12 +22,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Elected in the Regional Parliament",
-                "Departments in the Regional Government",
-                "Departments in Regional Governments",
-                "Elected in Provincial Assemblies",
-                "Mayors",
-                "Council Members",
+                "Proportion of seats held by women in Basque Parliament",
+                "Proportion of women among heads of departments in Basque Government",
+                "Proportion of women among Provincial Deputies",
+                "Proportion of seats held by women in Provincial Assemblies",
+                "Proportion of women among mayors",
+                "Proportion of women among local councilors",
                 ""
               ]
             },
