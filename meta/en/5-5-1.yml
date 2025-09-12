@@ -9,9 +9,14 @@ meta_global: meta_largo.5-5-titulo
 
 
 definicion: >-
-  Proportion of seats held by women in the regional parliament, councilors in regional government 
-  departments, elected to provincial parliaments, deputies in provincial government departments, and mayoral 
-  and councilor positions in local governments.
+  Six series are presented: 
+   - Proportion of seats held by women in the Basque Parliament 
+   - Proportion of women among the heads of departments in the Basque Government 
+   - Proportion of seats held by women in the provincial parliaments 
+   - Proportion of women among Provincial Deputies 
+   - Proportion of women among mayors 
+   - Proportion of women among local councilors 
+
 
 formula: |
 
