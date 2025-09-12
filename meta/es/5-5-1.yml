@@ -9,9 +9,14 @@ meta_global: meta_largo.5-5-titulo
 
 
 definicion: >-
-  Proporción de escaños ocupados por mujeres en el parlamento autonómico, consejeras en los departamentos 
-  del gobierno autonómico, electas en Juntas Generales, diputadas en los departamentos de los 
-  gobiernos forales, y alcaldías y concejalías en gobiernos locales.
+  Se presentan seis series: 
+    - Proporción de escaños ocupados por mujeres en el Parlamento Vasco 
+    - Proporción de mujeres entre las personas titulares de las consejerías del Gobierno Vasco 
+    - Proporción de escaños ocupados por mujeres en las Juntas Generales 
+    - Proporción de mujeres entre las personas Diputadas Forales 
+    - Proporción de mujeres entre las personas titulares de las alcaldías 
+    - Proporción de mujeres entre las personas concejalas 
+
 
 formula: |
 
