@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Electas en parlamento autonómico",
-                "Departamentos en el gobierno autonómico",
-                "Departamentos en gobiernos forales",
-                "Electas en Juntas Generales",
-                "Alcaldías",
-                "Concejalías",
+                "Proporción de escaños ocupados por mujeres en el Parlamento Vasco",
+                "Proporción de mujeres entre las personas titulares de las consejerías del Gobierno Vasco",
+                "Proporción de mujeres entre las personas Diputadas Forales",
+                "Proporción de escaños ocupados por mujeres en las Juntas Generales",
+                "Proporción de mujeres entre las personas titulares de alcaldías",
+                "Proporción de mujeres entre las personas concejalas",
                 ""
               ]
             },
