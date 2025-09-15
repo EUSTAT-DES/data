@@ -29,8 +29,6 @@ formula: |
   $INST_{hombres}^{t} =$ puestos ocupados por hombres en la institución correspondiente en el año $t$
 
 desagregacion: |
-  Institución 
-
   Territorio histórico 
 
 periodicidad: FUENTE.FREQ_A
