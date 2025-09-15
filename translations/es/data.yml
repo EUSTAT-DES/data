@@ -39,6 +39,8 @@ Units: "Unidad"
 Uso: "Tipo de uso"
 Vacuna: "Tipo de vacuna"
 Velocidad: "Tecnología de acceso"
+Categoría: "Categoría"
+
 
 
 # VALORES
@@ -654,4 +656,10 @@ NET_DSL: "DSL"
 NET_FTTH: "Fibra óptica (FTTH)"
 NET_HFC: "Híbrido de Fibra Coaxial (HFC)"
 NET_OTHER: "Otra tecnología"
+EN_H2O_RVAMBQ: "Ríos"
+ITSASERTZ: "Aguas costeras"
+TRANTSIZIO: "Aguas de transición"
+URTEGI: "Embalses"
+AINTZIRA: "Lagos y humedales"
+
 
