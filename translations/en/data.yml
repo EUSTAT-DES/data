@@ -39,6 +39,8 @@ Units: "Unit"
 Uso: "Type of use"
 Vacuna: "Type of vaccine"
 Velocidad: "Access technology"
+Categoría: "Category"
+
 
 
 
@@ -657,4 +659,10 @@ NET_DSL: "DSL"
 NET_FTTH: "Fiber optic cable (FTTH)"
 NET_HFC: "Hybrid fiber-coaxial cable (HFC)"
 NET_OTHER: "Other technology"
+EN_H2O_RVAMBQ: "Rivers"
+ITSASERTZ: "Coastal waters"
+TRANTSIZIO: "Transition waters"
+URTEGI: "Reservoir"
+AINTZIRA: "Lakes and wetlands"
+
 
