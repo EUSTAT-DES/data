@@ -10,16 +10,16 @@ meta_global: meta_largo.6-3-titulo
 
 definicion: |
 
-  Adierazlea honela definitzen da: uraren ingurumen-kalitate ona duen lurralde bateko ur-gorputzen 
+  Adierazlea honela definitzen da: uraren ingurumen-kalitate ona duen lurralde bateko ur-masen 
   proportzioa. Uraren ingurumen-kalitatea ibaietan, aintziretan eta lurpeko uretan tratatu gabeko ur 
   naturalari dagokio, eta eragin naturalen eta jarduera antropogeniko guztien inpaktuen arteko 
   konbinazioa adierazten du.
 
   Ondoko ur-masetarako 3 serie desberdin aurkezten dira: 
 
-    - ibaiak
-    - lurpeko urak
-    - azaleko urak (kostaldeko urak, trantsizioko urak, urtegiak, lakuak eta hezeguneak eta ibaiak barne)
+    - Ur-masak (azalekoak eta lurpekoak)
+    - Azaleko ur-masak (ibaiak, itsasertzeko urak, trantsizio urak, urtegiak eta aintzira eta hezeguneak barne)
+    - Lurpeko ur-masak
 
 
 formula: |
@@ -32,7 +32,8 @@ formula: |
 
   $M_{ura}^{t} =$ ebaluatutako ur-masak $t$ urtean
 
-desagregacion:
+desagregacion: |
+  Ur-masen kategoria
 
 observaciones: |
   
