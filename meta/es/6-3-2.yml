@@ -18,9 +18,9 @@ definicion: |
 
   Se presentan 3 series diferentes para distintas masas de agua: 
 
-    - ríos
-    - aguas subterráneas
-    - aguas superficiales (incluye aguas costeras, aguas de transición, embalses, lagos y humedales y ríos)
+    - Masas de agua (superficiales y subterráneas)
+    - Masas de agua superficiales (incluye rios, aguas costeras, aguas de transición, embalses y lagos y humedales)
+    - Masas de agua subterráneas
 
 
 formula: |
@@ -33,7 +33,8 @@ formula: |
 
   $M_{agua}^{t} =$ masas de agua evaluadas en el año $t$
 
-desagregacion:
+desagregacion: |
+  Categoría de masas de agua
 
 observaciones: |
   
