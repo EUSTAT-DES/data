@@ -16,20 +16,20 @@
             "title": "Año"
           },
           {
-            "name": "Institucion",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de escaños ocupados por mujeres en el Parlamento Vasco",
-                "Proporción de mujeres entre las personas titulares de las consejerías del Gobierno Vasco",
                 "Proporción de mujeres entre las personas Diputadas Forales",
-                "Proporción de escaños ocupados por mujeres en las Juntas Generales",
-                "Proporción de mujeres entre las personas titulares de alcaldías",
                 "Proporción de mujeres entre las personas concejalas",
+                "Proporción de mujeres entre las personas titulares de alcaldías",
+                "Proporción de mujeres entre las personas titulares de las consejerías del Gobierno Vasco",
+                "Proporción de escaños ocupados por mujeres en el Parlamento Vasco",
+                "Proporción de escaños ocupados por mujeres en las Juntas Generales",
                 ""
               ]
             },
-            "title": "Institución"
+            "title": "Serie"
           },
           {
             "name": "Territorio",

@@ -18,20 +18,20 @@
             "title": "Year"
           },
           {
-            "name": "Institucion",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of seats held by women in Basque Parliament",
-                "Proportion of women among heads of departments in Basque Government",
                 "Proportion of women among Provincial Deputies",
-                "Proportion of seats held by women in Provincial Assemblies",
-                "Proportion of women among mayors",
                 "Proportion of women among local councilors",
+                "Proportion of women among mayors",
+                "Proportion of women among heads of departments in Basque Government",
+                "Proportion of seats held by women in Basque Parliament",
+                "Proportion of seats held by women in Provincial Assemblies",
                 ""
               ]
             },
-            "title": "Institution"
+            "title": "Series"
           },
           {
             "name": "Territorio",

@@ -15,7 +15,7 @@ Explotacion,Esplotazio mota,Tipo de explotación,Type of operation,1,4
 Gasto,Gastua,Nivel de gasto,Expenditure,1,2
 Habilidad_IT,Trebetasun informatikoa,Habilidad informática,Computer skills,1,7
 Ingreso_cuantil,Diru-sarreren taldea,Grupo de ingresos,Income group,1,1
-Institucion,Erakundea,Institución,Institution,2,19
+Institucion,Erakundea,Institución,Institution,1,13
 Municipio,Udalerria,Municipio,Municipality,21,252
 Nacionalidad,Nazionalitatea,Nacionalidad,Nationality,1,2
 NCD,Gaixotasun ez-transmitigarria,Enfermedad no transmisible,Non-communicable disease,1,4
@@ -23,7 +23,7 @@ Ocupacion,Okupazioa,Ocupacion,Occupation,1,3
 PM,Partikula esekiak,Partículas en suspensión,Particulate matter,2,2
 Pobreza,Pobreziaren dimentsioa,Dimensión de la pobreza,Dimension of poverty,1,3
 Profesion,Lanbidea,Profesión,Profession,1,4
-Series,Seriea,Serie,Series,60,118
+Series,Seriea,Serie,Series,61,124
 ServBasico,Oinarrizko zerbitzuak,Servicios básicos,Basic services,1,5
 ServEsencial,Oinarrizko zerbitzuak,Servicios esenciales,Essential services,1,3
 ServPub,Zerbitzu publikoak,Servicios públicos,Public services,1,9

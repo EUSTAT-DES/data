@@ -18,20 +18,20 @@
             "title": "Urtea"
           },
           {
-            "name": "Institucion",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Emakumezkoen proportzioa Eusko Legebiltzarreko legebiltzarkideen artean",
-                "Emakumezkoen proportzioa Eusko Jaurlaritzako sailburuen artean",
                 "Emakumezkoen proportzioa Foru Diputatuen artean",
-                "Emakumezkoen proportzioa Batzar Nagusietako batzarkideen artean",
-                "Emakumezkoen proportzioa alkateen artean",
                 "Emakumezkoen proportzioa zinegotzien artean",
+                "Emakumezkoen proportzioa alkateen artean",
+                "Emakumezkoen proportzioa Eusko Jaurlaritzako sailburuen artean",
+                "Emakumezkoen proportzioa Eusko Legebiltzarreko legebiltzarkideen artean",
+                "Emakumezkoen proportzioa Batzar Nagusietako batzarkideen artean",
                 ""
               ]
             },
-            "title": "Erakundea"
+            "title": "Seriea"
           },
           {
             "name": "Territorio",

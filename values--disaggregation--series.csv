@@ -73,6 +73,12 @@ EU_XPD_LOCALGBPC,"Toki administrazioaren gastu likidatua, hasieran onartutako au
 FP_CPI_TOTL_ZG,Kontsumoko prezioen indizearen urte arteko aldakuntza-tasa,Tasa de variación interanual del índice de precios de consumo,Year-on-year rate of change in the Consumer Price Index,4,1
 GB_XPD_RSDV,"Ikerketa eta garapeneko gastuak, BPGrekiko proportzioan",Gastos en investigación y desarrollo en proporción al PIB,Research and development expenditure as a proportion of GDP,4,1
 GC_BAL_CASH_GD_ZS,"Administrazio publiko autonomikoen zerga-saldoa, BPGrekiko proportzioan",Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB,Fiscal balance of regional public administrations as a proportion of GDP,1,1
+GEN_G,Emakumezkoen proportzioa Eusko Jaurlaritzako sailburuen artean,Proporción de mujeres entre las personas titulares de las consejerías del Gobierno Vasco,Proportion of women among heads of departments in Basque Government,1,1
+GEN_LOCG,Emakumezkoen proportzioa alkateen artean,Proporción de mujeres entre las personas titulares de alcaldías,Proportion of women among mayors,1,1
+GEN_LOCP,Emakumezkoen proportzioa zinegotzien artean,Proporción de mujeres entre las personas concejalas,Proportion of women among local councilors,1,1
+GEN_PARL,Emakumezkoen proportzioa Eusko Legebiltzarreko legebiltzarkideen artean,Proporción de escaños ocupados por mujeres en el Parlamento Vasco,Proportion of seats held by women in Basque Parliament,1,1
+GEN_REGIOG,Emakumezkoen proportzioa Foru Diputatuen artean,Proporción de mujeres entre las personas Diputadas Forales,Proportion of women among Provincial Deputies,4,1
+GEN_REGIOPARL,Emakumezkoen proportzioa Batzar Nagusietako batzarkideen artean,Proporción de escaños ocupados por mujeres en las Juntas Generales,Proportion of seats held by women in Provincial Assemblies,4,1
 GF_XPD_GBPC,"Administrazio autonomikoaren gastu likidatua, hasieran onartutako aurrekontuaren proportzioan",Gasto liquidado por la administración autonómica en relación al gasto presupuestado,Expenditure settled by the regional administration in relation to the budgeted expenditure,1,1
 IT_MOB_3GNTWK,"3,5G sare mugikorrez estalitako etxeen proportzioa","Proporción de hogares cubiertos con redes móviles 3,5G",Proportion of households covered by 3.5G mobile networks,4,1
 IT_MOB_4GNTWK,4G sare mugikorrez estalitako etxeen proportzioa,Proporción de hogares cubiertos con redes móviles 4G,Proportion of households covered by 4G mobile networks,4,1
