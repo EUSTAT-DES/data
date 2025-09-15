@@ -17,9 +17,9 @@ definicion: |
 
   3 series are presented for different water bodies: 
 
-    - rivers
-    - groundwater
-    - surface waters (includes coastal waters, transitional waters, reservoirs, lakes and wetlands, and rivers)
+    - Water bodies (surface and groundwater)
+    - Surface water bodies (includes rivers, coastal waters, transition waters, reservoirs and lakes and wetlands)
+    - Groundwater bodies
 
 
 formula: |
@@ -32,7 +32,8 @@ formula: |
 
   $M_{water}^{t} =$ total number of water bodies evaluated in year $t$
 
-desagregacion:
+desagregacion: |
+  Water bodies category
 
 observaciones: |
   
