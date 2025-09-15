@@ -29,8 +29,6 @@ formula: |
   $INST_{men}^{t} =$ positions held by men in the corresponding institution in the year $t$
 
 desagregacion: |
-  Positions in institutions
-
   Province
 
 periodicidad: FUENTE.FREQ_A
