@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_H2O_WBAMBQ",
+                "Proportion of good-quality water bodies",
                 "Proportion of good-quality groundwater bodies",
                 "Proportion of good-quality surface water bodies",
                 ""
