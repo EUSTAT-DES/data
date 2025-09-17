@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_H2O_WBAMBQ",
+                "Kalitate oneko ur-masen proportzioa",
                 "Kalitate oneko lurpeko ur-masen proportzioa",
                 "Kalitate oneko azaleko ur-masen proportzioa",
                 ""
@@ -41,7 +41,7 @@
                 ""
               ]
             },
-            "title": "Categoria"
+            "title": "Kategoria"
           },
           {
             "name": "Units",
