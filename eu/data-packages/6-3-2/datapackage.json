@@ -21,8 +21,8 @@
             "constraints": {
               "enum": [
                 "Kalitate oneko ur-masen proportzioa",
-                "Kalitate oneko lurpeko ur-masen proportzioa",
                 "Kalitate oneko azaleko ur-masen proportzioa",
+                "Kalitate oneko lurpeko ur-masen proportzioa",
                 ""
               ]
             },
@@ -33,10 +33,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Aintzira eta hezeguneak",
+                "Ibaiak",
                 "Itsasertzeko urak",
                 "Trantsizio urak",
-                "Ibaiak",
-                "Aintzira eta hezeguneak",
                 "Urtegiak",
                 ""
               ]
