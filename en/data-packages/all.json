@@ -12877,8 +12877,8 @@
             "constraints": {
               "enum": [
                 "Proportion of good-quality water bodies",
-                "Proportion of good-quality surface water bodies",
                 "Proportion of good-quality groundwater bodies",
+                "Proportion of good-quality surface water bodies",
                 ""
               ]
             },
@@ -12889,10 +12889,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lakes and wetlands",
-                "Rivers",
                 "Coastal waters",
                 "Transition waters",
+                "Rivers",
+                "Lakes and wetlands",
                 "Reservoirs",
                 ""
               ]

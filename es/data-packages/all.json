@@ -12877,8 +12877,8 @@
             "constraints": {
               "enum": [
                 "Proporción de masas de agua de buena calidad",
-                "Proporción de masas de agua superficiales de buena calidad",
                 "Proporción de masas de agua subterráneas de buena calidad",
+                "Proporción de masas de agua superficiales de buena calidad",
                 ""
               ]
             },
@@ -12889,10 +12889,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lagos y humedales",
-                "Ríos",
                 "Aguas costeras",
                 "Aguas de transición",
+                "Ríos",
+                "Lagos y humedales",
                 "Embalses",
                 ""
               ]

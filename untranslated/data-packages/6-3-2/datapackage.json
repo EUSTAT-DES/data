@@ -20,8 +20,8 @@
             "constraints": {
               "enum": [
                 "EN_H2O_WBAMBQ",
-                "EN_H2O_OPAMBQ",
                 "EN_H2O_GRAMBQ",
+                "EN_H2O_OPAMBQ",
                 ""
               ]
             }
@@ -31,10 +31,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AINTZIRA",
-                "EN_H2O_RVAMBQ",
                 "ITSASERTZ",
                 "TRANTSIZIO",
+                "EN_H2O_RVAMBQ",
+                "AINTZIRA",
                 "URTEGI",
                 ""
               ]
