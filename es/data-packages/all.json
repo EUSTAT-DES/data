@@ -12876,7 +12876,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_H2O_WBAMBQ",
+                "Proporción de masas de agua de buena calidad",
                 "Proporción de masas de agua subterráneas de buena calidad",
                 "Proporción de masas de agua superficiales de buena calidad",
                 ""
