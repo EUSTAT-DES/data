@@ -19,9 +19,23 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EN_H2O_WBAMBQ",
                 "EN_H2O_GRAMBQ",
                 "EN_H2O_OPAMBQ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Categoria",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ITSASERTZ",
+                "TRANTSIZIO",
                 "EN_H2O_RVAMBQ",
+                "AINTZIRA",
+                "URTEGI",
                 ""
               ]
             }

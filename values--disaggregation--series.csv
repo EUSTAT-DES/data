@@ -17,8 +17,8 @@ EN_ATM_GHGGDP,"Berotegi-efektuko gasen isurketak, guztira, BPGren unitateko",Emi
 EN_ATM_GHGPC,"Berotegi-efektuko gasen isurketak, guztira, biztanleko",Emisiones totales de gases de efecto invernadero per cápita,Total greenhouse gas emissions per capita,1,1
 EN_ATM_GHGT_AIP,"Berotegi-efektuko gasen isurketak, guztira, urtearen arabera",Emisiones totales de gases de efecto invernadero por año,Total greenhouse gas emissions per year,1,1
 EN_H2O_GRAMBQ,Kalitate oneko lurpeko ur-masen proportzioa,Proporción de masas de agua subterráneas de buena calidad,Proportion of good-quality groundwater bodies,1,1
-EN_H2O_OPAMBQ,Kalitate oneko azaleko ur-masen proportzioa,Proporción de masas de agua superficiales de buena calidad,Proportion of good-quality surface water bodies,1,1
-EN_H2O_RVAMBQ,Ibaiak,Ríos,Rivers,1,1
+EN_H2O_OPAMBQ,Kalitate oneko azaleko ur-masen proportzioa,Proporción de masas de agua superficiales de buena calidad,Proportion of good-quality surface water bodies,6,1
+EN_H2O_WBAMBQ,EN_H2O_WBAMBQ,EN_H2O_WBAMBQ,EN_H2O_WBAMBQ,1,1
 EN_HAZ_PCAP,Hondakin arriskutsuak biztanleko,Residuos peligrosos generados per cápita,Hazardous waste generated per capita,4,1
 EN_HAZ_TREAT,"Tratatutako hondakin arriskutsuen proportzioa, tratamendu motaren arabera banakatuta","Proporción de residuos peligrosos tratados, desglosados por tipo de tratamiento","Proportion of hazardous waste treated, broken down by treatment type",4,1
 EN_MAT_DOMCMPC,Materialen bertako kontsumoa per capita,Consumo doméstico de materiales per cápita,Domestic material consumption per capita,2,2

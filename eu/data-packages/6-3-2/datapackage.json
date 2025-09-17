@@ -20,13 +20,28 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EN_H2O_WBAMBQ",
                 "Kalitate oneko lurpeko ur-masen proportzioa",
                 "Kalitate oneko azaleko ur-masen proportzioa",
-                "Ibaiak",
                 ""
               ]
             },
             "title": "Seriea"
+          },
+          {
+            "name": "Categoria",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Itsasertzeko urak",
+                "Trantsizio urak",
+                "Ibaiak",
+                "Aintzira eta hezeguneak",
+                "Urtegiak",
+                ""
+              ]
+            },
+            "title": "Categoria"
           },
           {
             "name": "Units",

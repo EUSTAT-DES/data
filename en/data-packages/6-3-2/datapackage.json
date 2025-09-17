@@ -20,13 +20,28 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EN_H2O_WBAMBQ",
                 "Proportion of good-quality groundwater bodies",
                 "Proportion of good-quality surface water bodies",
-                "Rivers",
                 ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Categoria",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Coastal waters",
+                "Transition waters",
+                "Rivers",
+                "Lakes and wetlands",
+                "Reservoirs",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Units",

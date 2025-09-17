@@ -21,12 +21,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "GEN_PARL",
+                "GEN_G",
+                "GEN_REGIOPARL",
                 "GEN_REGIOG",
                 "GEN_LOCP",
                 "GEN_LOCG",
-                "GEN_G",
-                "GEN_PARL",
-                "GEN_REGIOPARL",
                 ""
               ]
             }
@@ -37,8 +37,8 @@
             "constraints": {
               "enum": [
                 "ES211",
-                "ES213",
                 "ES212",
+                "ES213",
                 ""
               ]
             }
@@ -12151,9 +12151,23 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EN_H2O_WBAMBQ",
                 "EN_H2O_GRAMBQ",
                 "EN_H2O_OPAMBQ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Categoria",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ITSASERTZ",
+                "TRANTSIZIO",
                 "EN_H2O_RVAMBQ",
+                "AINTZIRA",
+                "URTEGI",
                 ""
               ]
             }

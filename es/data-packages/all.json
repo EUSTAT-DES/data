@@ -22,12 +22,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proporción de escaños ocupados por mujeres en el Parlamento Vasco",
+                "Proporción de mujeres entre las personas titulares de las consejerías del Gobierno Vasco",
+                "Proporción de escaños ocupados por mujeres en las Juntas Generales",
                 "Proporción de mujeres entre las personas Diputadas Forales",
                 "Proporción de mujeres entre las personas concejalas",
                 "Proporción de mujeres entre las personas titulares de alcaldías",
-                "Proporción de mujeres entre las personas titulares de las consejerías del Gobierno Vasco",
-                "Proporción de escaños ocupados por mujeres en el Parlamento Vasco",
-                "Proporción de escaños ocupados por mujeres en las Juntas Generales",
                 ""
               ]
             },
@@ -39,8 +39,8 @@
             "constraints": {
               "enum": [
                 "Araba/Álava",
-                "Bizkaia",
                 "Gipuzkoa",
+                "Bizkaia",
                 ""
               ]
             },
@@ -12876,13 +12876,28 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EN_H2O_WBAMBQ",
                 "Proporción de masas de agua subterráneas de buena calidad",
                 "Proporción de masas de agua superficiales de buena calidad",
-                "Ríos",
                 ""
               ]
             },
             "title": "Serie"
+          },
+          {
+            "name": "Categoria",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aguas costeras",
+                "Aguas de transición",
+                "Ríos",
+                "Lagos y humedales",
+                "Embalses",
+                ""
+              ]
+            },
+            "title": "Categoría"
           },
           {
             "name": "Units",

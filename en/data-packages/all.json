@@ -22,12 +22,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of seats held by women in Basque Parliament",
+                "Proportion of women among heads of departments in Basque Government",
+                "Proportion of seats held by women in Provincial Assemblies",
                 "Proportion of women among Provincial Deputies",
                 "Proportion of women among local councilors",
                 "Proportion of women among mayors",
-                "Proportion of women among heads of departments in Basque Government",
-                "Proportion of seats held by women in Basque Parliament",
-                "Proportion of seats held by women in Provincial Assemblies",
                 ""
               ]
             },
@@ -39,8 +39,8 @@
             "constraints": {
               "enum": [
                 "Araba/Álava",
-                "Bizkaia",
                 "Gipuzkoa",
+                "Bizkaia",
                 ""
               ]
             },
@@ -12876,13 +12876,28 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EN_H2O_WBAMBQ",
                 "Proportion of good-quality groundwater bodies",
                 "Proportion of good-quality surface water bodies",
-                "Rivers",
                 ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Categoria",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Coastal waters",
+                "Transition waters",
+                "Rivers",
+                "Lakes and wetlands",
+                "Reservoirs",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Units",
