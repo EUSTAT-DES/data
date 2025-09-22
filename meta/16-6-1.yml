@@ -8,7 +8,7 @@ meta_global: meta_largo.16-6-titulo
 #  indicador_onu_global: indicador_largo.16-6-1-titulo
 
 definicion: >-
-  Gastu likidatua, administrazio publiko autonomikoen eta tokikoen aurrekontuen hasierako gastuaren proportzioan 
+  Administrazio autonomikoaren eta tokiko administrazioen gastu likidatua, hasieran onartutako aurrekontuaren proportzioan 
 
 formula: |
 
@@ -16,9 +16,9 @@ formula: |
 
   non:
 
-  $GL_{administrazio\, publikoa}^{t} =$ administrazio publikoaren (administrazio autonomikoa edo toki-administrazioa) aurrekontu bateratuen likidazioko guztizko gastua $t$ urtean
+  $GL_{administrazio\, publikoa}^{t} =$ administrazio publikoaren (administrazio autonomikoa edo toki-administrazioa) guztizko gastu likidatu bateratua $t$ urtean
 
-  $GI_{administrazio\, publikoa}^{t} =$ administrazio publikoaren (autonomia-administrazioa edo toki-administrazioa) hasierako aurrekontu bateratuko guztizko gastua $t$ urtean
+  $GI_{administrazio\, publikoa}^{t} =$ administrazio publikoaren (autonomia-administrazioa edo toki-administrazioa) gastuen hasierako aurrekontu bateratua $t$ urtean
 
 
 desagregacion: | 
