@@ -8,29 +8,47 @@ meta_global: meta_largo.9-4-titulo
 #  indicador_onu_global: indicador_largo.9-4-1-titulo
 
 
-definicion: >- 
-  Carbon dioxide (CO2) emissions per unit of real GDP
+definicion: |
+  Carbon dioxide ($CO_2$) emissions
 
-formula:  |
-  <b>CO2 emissions per unit of value added</b>
+  Available series: 
+
+  <b> - Carbon dioxide ($CO_2$) emissions:</b>
+  Carbon dioxide emissions from fuel combustion 
+
+  <b> - Carbon dioxide ($CO_2$) emissions per unit of value added:</b>
+  Ratio between carbon dioxide emissions from fuel combustion and the added value of the whole economy
+
+  <b> - Carbon dioxide ($CO_2$) emissions per unit of added value in the manufacturing sector:</b>
+  Ratio between carbon dioxide emissions from fuel combustion and the added value of the manufacturing sector
+
+formula: |
+
+  <b>$CO_2$ emissions</b>
+
+  $ECO2^{t} =$ $CO_2$ emissions in year $t$
+
+   <br>   
+  
+  <b>$CO_2$ emissions per unit of value added</b>
 
   $$PPIBECO2^{t} = \frac{ECO2^{t}}{PIB_{2022}^{t}} $$
 
   where:
 
-  $ECO2^{t} =$ CO2 emissions in year $t$
+  $ECO2^{t} =$ $CO_2$ emissions in year $t$
 
   $PIB_{2022}^{t} =$ gross domestic product in chain volumes with reference to 2022 in year $t$
 
    <br>
    
-   <b>CO2 emissions per unit of added value in the manufacturing sector</b>
+   <b>$CO_2$ emissions per unit of added value in the manufacturing sector</b>
 
   $$PVABECO2_{manufacturing}^{t} = \frac{ECO2_{manufacturing}^{t}}{VAB_{manufacturing\, 2022}^{t}} $$
 
   where:
 
-  $ECO2_{manufacturing}^{t} =$ CO2 emissions from the manufacturing sector in year $t$
+  $ECO2_{manufacturing}^{t} =$ $CO_2$ emissions from the manufacturing sector in year $t$
 
   $VAB_{manufacturing\, 2022}^{t} =$ Gross added value of the manufacturing sector in chained volume with reference to 2022 in year $t$
 
@@ -70,7 +88,9 @@ justificacion_global: |
 
   Source: United Nations Statistics Division
 
-dato_global: | 
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.4.1&seriesCode=EN_ATM_CO2&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=TOTAL"> Carbon dioxide emissions from fuel combustion (millions of tonnes) EN_ATM_CO2</a> UNSTATS
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.4.1&seriesCode=EN_ATM_CO2GDP&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2021 United States dollars) EN_ATM_CO2GDP</a> UNSTATS
 
