@@ -33,9 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilotona",
+                "Kilotonak",
                 "Tonak per capita",
-                "Kg BPGaren euro bakoitzeko",
+                "Kg BPGd-ko euro bakoitzeko",
                 ""
               ]
             },

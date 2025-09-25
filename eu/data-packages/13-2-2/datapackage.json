@@ -35,8 +35,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tona CO2 baliokide",
-                "Kg CO2 baliokide BPGaren euro bakoitzeko",
+                "$CO_2$ tona  baliokideak",
+                "$CO_2$ kg euroko",
                 "Tona CO2 baliokide biztanle bakoitzeko ",
                 "%",
                 ""

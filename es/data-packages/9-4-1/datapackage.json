@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kg de CO2 equivalente por euro de PIB",
+                "Kg de $CO_2$ por euro",
                 ""
               ]
             },

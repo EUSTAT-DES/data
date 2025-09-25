@@ -33,7 +33,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilotona",
+                "Kilotonak",
                 "Tonak per capita",
                 "T_MILLON_EUR",
                 ""

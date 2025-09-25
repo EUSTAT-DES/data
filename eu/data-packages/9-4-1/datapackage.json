@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kg CO2 baliokide BPGaren euro bakoitzeko",
+                "$CO_2$ kg euroko",
                 ""
               ]
             },

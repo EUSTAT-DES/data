@@ -1033,7 +1033,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kg CO2 baliokide BPGaren euro bakoitzeko",
+                "$CO_2$ kg euroko",
                 ""
               ]
             },
@@ -4773,9 +4773,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilotona",
+                "Kilotonak",
                 "Tonak per capita",
-                "Kg BPGaren euro bakoitzeko",
+                "Kg BPGd-ko euro bakoitzeko",
                 ""
               ]
             },
@@ -7428,7 +7428,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilometro karratu",
+                "Kilometro koadroak",
                 "%",
                 ""
               ]
@@ -9515,7 +9515,7 @@
             "constraints": {
               "enum": [
                 "Kg hektareako",
-                "Kilotona",
+                "Kilotonak",
                 ""
               ]
             },
@@ -11447,8 +11447,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tona CO2 baliokide",
-                "Kg CO2 baliokide BPGaren euro bakoitzeko",
+                "$CO_2$ tona  baliokideak",
+                "$CO_2$ kg euroko",
                 "Tona CO2 baliokide biztanle bakoitzeko ",
                 "%",
                 ""
@@ -14250,7 +14250,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilotona",
+                "Kilotonak",
                 "Tonak per capita",
                 "T_MILLON_EUR",
                 ""
