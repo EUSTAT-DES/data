@@ -40,6 +40,8 @@ Uso: "Type of use"
 Vacuna: "Type of vaccine"
 Velocidad: "Access technology"
 Categoria: "Category"
+SectorEmisor: "Emissions sector"
+
 
 
 
@@ -667,5 +669,13 @@ ITSASERTZ: "Coastal waters"
 TRANTSIZIO: "Transition waters"
 URTEGI: "Reservoirs"
 AINTZIRA: "Lakes and wetlands"
+ENERGETIKO: "Energy sector"
+INDUSTRIA: "Industry"
+GARRAIO: "Transport"
+EGOITZA: "Residential "
+ZERBITZU: "Services"
+NEKAZARI: "Agriculture"
+HONDAKIN: "Waste"
+
 
 
