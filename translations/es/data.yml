@@ -40,6 +40,8 @@ Uso: "Tipo de uso"
 Vacuna: "Tipo de vacuna"
 Velocidad: "Tecnología de acceso"
 Categoria: "Categoría"
+SectorEmisor: "Sector emisor"
+
 
 
 
@@ -664,5 +666,13 @@ ITSASERTZ: "Aguas costeras"
 TRANTSIZIO: "Aguas de transición"
 URTEGI: "Embalses"
 AINTZIRA: "Lagos y humedales"
+ENERGETIKO: "Sector energético"
+INDUSTRIA: "Industria"
+GARRAIO: "Transporte"
+EGOITZA: "Residencial"
+ZERBITZU: "Servicios"
+NEKAZARI: "Agricultura"
+HONDAKIN: "Residuos"
+
 
 
