@@ -980,6 +980,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EN_ATM_CO2",
                 "EN_ATM_CO2GDP",
                 "EN_ATM_CO2MVA",
                 ""
@@ -991,6 +992,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "T",
                 "KG_CO2_PER_GDP_EUR",
                 ""
               ]

@@ -1021,6 +1021,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "$CO_2$ emissions",
                 "CO2 emissions per unit of value added",
                 "CO2 emissions from the manufacturing sector per unit of manufacturing value added",
                 ""
@@ -1033,6 +1034,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Tons",
                 "Kg of $CO_2$ per euro",
                 ""
               ]
