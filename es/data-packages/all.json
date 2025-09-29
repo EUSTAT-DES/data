@@ -11445,12 +11445,29 @@
             "title": "Serie"
           },
           {
+            "name": "SectorEmisor",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sector energético",
+                "Servicios",
+                "Transporte",
+                "Agricultura",
+                "Residencial",
+                "Residuos",
+                "Industria",
+                ""
+              ]
+            },
+            "title": "Sector emisor"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "Toneladas de $CO_2$ equivalente",
-                "Kg de $CO_2$ por euro",
+                "Kg de $CO_2$ equivalente por euro",
                 "Toneladas de CO2 equivalente per cápita",
                 "%",
                 ""

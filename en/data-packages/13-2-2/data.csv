@@ -1,66 +1,169 @@
-Year,Series,Units,Value
-2013,Total greenhouse gas emissions per year,Tons of $CO_2$ equivalent,18730509.76
-2015,Total greenhouse gas emissions per year,Tons of $CO_2$ equivalent,19384671.9
-2021,Total greenhouse gas emissions per year,Tons of $CO_2$ equivalent,17631879.42
-2012,Total greenhouse gas emissions per year,Tons of $CO_2$ equivalent,20427113.19
-2018,Total greenhouse gas emissions per year,Tons of $CO_2$ equivalent,19040478.44
-2020,Total greenhouse gas emissions per year,Tons of $CO_2$ equivalent,16478502.65
-2019,Total greenhouse gas emissions per year,Tons of $CO_2$ equivalent,18574722.02
-2011,Total greenhouse gas emissions per year,Tons of $CO_2$ equivalent,20209426.39
-2014,Total greenhouse gas emissions per year,Tons of $CO_2$ equivalent,18756524.65
-2017,Total greenhouse gas emissions per year,Tons of $CO_2$ equivalent,19695350.67
-2022,Total greenhouse gas emissions per year,Tons of $CO_2$ equivalent,18461387.31
-2010,Total greenhouse gas emissions per year,Tons of $CO_2$ equivalent,21706181.17
-2016,Total greenhouse gas emissions per year,Tons of $CO_2$ equivalent,18688513.07
-2010,Total greenhouse gas emissions per unit of GDP,Kg of $CO_2$ per euro,0.29
-2015,Total greenhouse gas emissions per unit of GDP,Kg of $CO_2$ per euro,0.25
-2018,Total greenhouse gas emissions per unit of GDP,Kg of $CO_2$ per euro,0.23
-2022,Total greenhouse gas emissions per unit of GDP,Kg of $CO_2$ per euro,0.21
-2014,Total greenhouse gas emissions per unit of GDP,Kg of $CO_2$ per euro,0.25
-2020,Total greenhouse gas emissions per unit of GDP,Kg of $CO_2$ per euro,0.21
-2021,Total greenhouse gas emissions per unit of GDP,Kg of $CO_2$ per euro,0.21
-2017,Total greenhouse gas emissions per unit of GDP,Kg of $CO_2$ per euro,0.24
-2019,Total greenhouse gas emissions per unit of GDP,Kg of $CO_2$ per euro,0.22
-2012,Total greenhouse gas emissions per unit of GDP,Kg of $CO_2$ per euro,0.27
-2013,Total greenhouse gas emissions per unit of GDP,Kg of $CO_2$ per euro,0.26
-2011,Total greenhouse gas emissions per unit of GDP,Kg of $CO_2$ per euro,0.27
-2016,Total greenhouse gas emissions per unit of GDP,Kg of $CO_2$ per euro,0.24
-2010,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,10.0
-2011,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,9.28
-2012,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,9.37
-2013,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.61
-2014,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.63
-2016,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.6
-2015,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.92
-2017,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,9.04
-2021,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.05
-2019,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.47
-2020,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,7.5
-2018,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.72
-2022,Total greenhouse gas emissions per capita,Tons of CO2 equivalent per capita,8.43
-2010,Greenhouse gas emissions compared to 1990,%,4.85
-2011,Greenhouse gas emissions compared to 1990,%,-2.38
-2012,Greenhouse gas emissions compared to 1990,%,-1.33
-2013,Greenhouse gas emissions compared to 1990,%,-9.52
-2014,Greenhouse gas emissions compared to 1990,%,-9.4
-2015,Greenhouse gas emissions compared to 1990,%,-6.36
-2016,Greenhouse gas emissions compared to 1990,%,-9.73
-2017,Greenhouse gas emissions compared to 1990,%,-4.86
-2018,Greenhouse gas emissions compared to 1990,%,-8.02
-2019,Greenhouse gas emissions compared to 1990,%,-10.27
-2020,Greenhouse gas emissions compared to 1990,%,-20.4
-2021,Greenhouse gas emissions compared to 1990,%,-14.83
-2022,Greenhouse gas emissions compared to 1990,%,-10.82
-2011,Greenhouse gas emissions compared to 2005,%,-20.49
-2012,Greenhouse gas emissions compared to 2005,%,-19.63
-2020,Greenhouse gas emissions compared to 2005,%,-35.17
-2013,Greenhouse gas emissions compared to 2005,%,-26.31
-2014,Greenhouse gas emissions compared to 2005,%,-26.21
-2015,Greenhouse gas emissions compared to 2005,%,-23.73
-2016,Greenhouse gas emissions compared to 2005,%,-26.47
-2010,Greenhouse gas emissions compared to 2005,%,-14.6
-2017,Greenhouse gas emissions compared to 2005,%,-22.51
-2018,Greenhouse gas emissions compared to 2005,%,-25.09
-2019,Greenhouse gas emissions compared to 2005,%,-26.92
-2021,Greenhouse gas emissions compared to 2005,%,-30.63
-2022,Greenhouse gas emissions compared to 2005,%,-27.37
+Year,Series,Emissions sector,Units,Value
+2010,Total greenhouse gas emissions per year,Energy sector,Tons of $CO_2$ equivalent,7710563.12
+2018,Total greenhouse gas emissions per year,Services,Tons of $CO_2$ equivalent,441397.99
+2022,Total greenhouse gas emissions per year,,Tons of $CO_2$ equivalent,18257908.89
+2022,Total greenhouse gas emissions per year,Transport,Tons of $CO_2$ equivalent,6352811.46
+2018,Total greenhouse gas emissions per year,Agriculture,Tons of $CO_2$ equivalent,705609.85
+2018,Total greenhouse gas emissions per year,Residential ,Tons of $CO_2$ equivalent,912744.58
+2021,Total greenhouse gas emissions per year,Energy sector,Tons of $CO_2$ equivalent,5375563.35
+2014,Total greenhouse gas emissions per year,Services,Tons of $CO_2$ equivalent,447981.35
+2015,Total greenhouse gas emissions per year,Transport,Tons of $CO_2$ equivalent,5839117.52
+2010,Total greenhouse gas emissions per year,Residential ,Tons of $CO_2$ equivalent,890544.04
+2017,Total greenhouse gas emissions per year,Waste,Tons of $CO_2$ equivalent,881603.52
+2023,Total greenhouse gas emissions per year,Industry,Tons of $CO_2$ equivalent,3017839.88
+2012,Total greenhouse gas emissions per year,Residential ,Tons of $CO_2$ equivalent,814790.05
+2015,Total greenhouse gas emissions per year,Agriculture,Tons of $CO_2$ equivalent,836730.99
+2019,Total greenhouse gas emissions per year,Residential ,Tons of $CO_2$ equivalent,841921.51
+2013,Total greenhouse gas emissions per year,Services,Tons of $CO_2$ equivalent,465257.0
+2020,Total greenhouse gas emissions per year,Residential ,Tons of $CO_2$ equivalent,772217.44
+2014,Total greenhouse gas emissions per year,Energy sector,Tons of $CO_2$ equivalent,6491899.67
+2022,Total greenhouse gas emissions per year,Agriculture,Tons of $CO_2$ equivalent,587652.02
+2019,Total greenhouse gas emissions per year,Transport,Tons of $CO_2$ equivalent,6354869.76
+2021,Total greenhouse gas emissions per year,,Tons of $CO_2$ equivalent,17607243.41
+2011,Total greenhouse gas emissions per year,Transport,Tons of $CO_2$ equivalent,5112741.02
+2021,Total greenhouse gas emissions per year,Agriculture,Tons of $CO_2$ equivalent,713636.88
+2013,Total greenhouse gas emissions per year,Waste,Tons of $CO_2$ equivalent,1022212.49
+2016,Total greenhouse gas emissions per year,,Tons of $CO_2$ equivalent,18745087.37
+2021,Total greenhouse gas emissions per year,Waste,Tons of $CO_2$ equivalent,746430.27
+2018,Total greenhouse gas emissions per year,Industry,Tons of $CO_2$ equivalent,3476428.15
+2021,Total greenhouse gas emissions per year,Industry,Tons of $CO_2$ equivalent,3464322.87
+2013,Total greenhouse gas emissions per year,Industry,Tons of $CO_2$ equivalent,3604364.38
+2020,Total greenhouse gas emissions per year,Industry,Tons of $CO_2$ equivalent,2878943.22
+2012,Total greenhouse gas emissions per year,Agriculture,Tons of $CO_2$ equivalent,802660.0
+2016,Total greenhouse gas emissions per year,Residential ,Tons of $CO_2$ equivalent,659969.21
+2022,Total greenhouse gas emissions per year,Services,Tons of $CO_2$ equivalent,358609.96
+2018,Total greenhouse gas emissions per year,Waste,Tons of $CO_2$ equivalent,835547.82
+2012,Total greenhouse gas emissions per year,Services,Tons of $CO_2$ equivalent,488692.35
+2022,Total greenhouse gas emissions per year,Residential ,Tons of $CO_2$ equivalent,803982.93
+2013,Total greenhouse gas emissions per year,Energy sector,Tons of $CO_2$ equivalent,6623455.82
+2012,Total greenhouse gas emissions per year,Industry,Tons of $CO_2$ equivalent,4024916.89
+2018,Total greenhouse gas emissions per year,Energy sector,Tons of $CO_2$ equivalent,6295263.29
+2019,Total greenhouse gas emissions per year,,Tons of $CO_2$ equivalent,18599385.12
+2015,Total greenhouse gas emissions per year,Energy sector,Tons of $CO_2$ equivalent,6950651.82
+2014,Total greenhouse gas emissions per year,Waste,Tons of $CO_2$ equivalent,1023914.38
+2023,Total greenhouse gas emissions per year,Energy sector,Tons of $CO_2$ equivalent,4932524.68
+2011,Total greenhouse gas emissions per year,,Tons of $CO_2$ equivalent,20245191.39
+2016,Total greenhouse gas emissions per year,Transport,Tons of $CO_2$ equivalent,6113744.75
+2014,Total greenhouse gas emissions per year,Residential ,Tons of $CO_2$ equivalent,716637.45
+2010,Total greenhouse gas emissions per year,Transport,Tons of $CO_2$ equivalent,5194492.31
+2015,Total greenhouse gas emissions per year,,Tons of $CO_2$ equivalent,19467497.86
+2018,Total greenhouse gas emissions per year,Transport,Tons of $CO_2$ equivalent,6414405.77
+2017,Total greenhouse gas emissions per year,Industry,Tons of $CO_2$ equivalent,3720919.41
+2011,Total greenhouse gas emissions per year,Waste,Tons of $CO_2$ equivalent,1049247.43
+2018,Total greenhouse gas emissions per year,,Tons of $CO_2$ equivalent,19081397.43
+2015,Total greenhouse gas emissions per year,Waste,Tons of $CO_2$ equivalent,972405.99
+2017,Total greenhouse gas emissions per year,Residential ,Tons of $CO_2$ equivalent,779933.68
+2019,Total greenhouse gas emissions per year,Waste,Tons of $CO_2$ equivalent,816233.61
+2023,Total greenhouse gas emissions per year,Services,Tons of $CO_2$ equivalent,275062.34
+2023,Total greenhouse gas emissions per year,Waste,Tons of $CO_2$ equivalent,658884.77
+2019,Total greenhouse gas emissions per year,Industry,Tons of $CO_2$ equivalent,3368056.2
+2010,Total greenhouse gas emissions per year,Services,Tons of $CO_2$ equivalent,496838.12
+2016,Total greenhouse gas emissions per year,Industry,Tons of $CO_2$ equivalent,3578212.72
+2017,Total greenhouse gas emissions per year,Agriculture,Tons of $CO_2$ equivalent,811932.88
+2010,Total greenhouse gas emissions per year,Industry,Tons of $CO_2$ equivalent,5532918.18
+2014,Total greenhouse gas emissions per year,Industry,Tons of $CO_2$ equivalent,3665899.58
+2020,Total greenhouse gas emissions per year,Agriculture,Tons of $CO_2$ equivalent,703898.51
+2020,Total greenhouse gas emissions per year,Waste,Tons of $CO_2$ equivalent,789534.5
+2014,Total greenhouse gas emissions per year,Agriculture,Tons of $CO_2$ equivalent,848247.83
+2011,Total greenhouse gas emissions per year,Industry,Tons of $CO_2$ equivalent,4405219.42
+2010,Total greenhouse gas emissions per year,Agriculture,Tons of $CO_2$ equivalent,835271.5
+2014,Total greenhouse gas emissions per year,,Tons of $CO_2$ equivalent,18844234.63
+2023,Total greenhouse gas emissions per year,Agriculture,Tons of $CO_2$ equivalent,614685.59
+2013,Total greenhouse gas emissions per year,Residential ,Tons of $CO_2$ equivalent,789279.23
+2020,Total greenhouse gas emissions per year,Services,Tons of $CO_2$ equivalent,379772.44
+2022,Total greenhouse gas emissions per year,Waste,Tons of $CO_2$ equivalent,698180.57
+2019,Total greenhouse gas emissions per year,Services,Tons of $CO_2$ equivalent,427599.54
+2011,Total greenhouse gas emissions per year,Agriculture,Tons of $CO_2$ equivalent,810768.78
+2011,Total greenhouse gas emissions per year,Services,Tons of $CO_2$ equivalent,475709.37
+2017,Total greenhouse gas emissions per year,Services,Tons of $CO_2$ equivalent,433450.18
+2011,Total greenhouse gas emissions per year,Energy sector,Tons of $CO_2$ equivalent,7614356.03
+2023,Total greenhouse gas emissions per year,,Tons of $CO_2$ equivalent,16193878.49
+2022,Total greenhouse gas emissions per year,Energy sector,Tons of $CO_2$ equivalent,6229281.3
+2015,Total greenhouse gas emissions per year,Services,Tons of $CO_2$ equivalent,477362.54
+2020,Total greenhouse gas emissions per year,Energy sector,Tons of $CO_2$ equivalent,5234732.8
+2015,Total greenhouse gas emissions per year,Residential ,Tons of $CO_2$ equivalent,766105.23
+2017,Total greenhouse gas emissions per year,Energy sector,Tons of $CO_2$ equivalent,6610659.02
+2022,Total greenhouse gas emissions per year,Industry,Tons of $CO_2$ equivalent,3227390.65
+2016,Total greenhouse gas emissions per year,Energy sector,Tons of $CO_2$ equivalent,6244747.83
+2010,Total greenhouse gas emissions per year,,Tons of $CO_2$ equivalent,21745903.02
+2012,Total greenhouse gas emissions per year,Energy sector,Tons of $CO_2$ equivalent,7865261.61
+2021,Total greenhouse gas emissions per year,Services,Tons of $CO_2$ equivalent,387872.45
+2019,Total greenhouse gas emissions per year,Energy sector,Tons of $CO_2$ equivalent,6091976.38
+2012,Total greenhouse gas emissions per year,,Tons of $CO_2$ equivalent,20446954.85
+2020,Total greenhouse gas emissions per year,Transport,Tons of $CO_2$ equivalent,5699307.41
+2011,Total greenhouse gas emissions per year,Residential ,Tons of $CO_2$ equivalent,777149.33
+2013,Total greenhouse gas emissions per year,Transport,Tons of $CO_2$ equivalent,5462200.41
+2021,Total greenhouse gas emissions per year,Residential ,Tons of $CO_2$ equivalent,881426.86
+2014,Total greenhouse gas emissions per year,Transport,Tons of $CO_2$ equivalent,5649654.36
+2013,Total greenhouse gas emissions per year,Agriculture,Tons of $CO_2$ equivalent,846985.75
+2012,Total greenhouse gas emissions per year,Transport,Tons of $CO_2$ equivalent,5394772.62
+2016,Total greenhouse gas emissions per year,Services,Tons of $CO_2$ equivalent,408565.73
+2021,Total greenhouse gas emissions per year,Transport,Tons of $CO_2$ equivalent,6037990.74
+2016,Total greenhouse gas emissions per year,Agriculture,Tons of $CO_2$ equivalent,805621.19
+2017,Total greenhouse gas emissions per year,Transport,Tons of $CO_2$ equivalent,6499841.73
+2017,Total greenhouse gas emissions per year,,Tons of $CO_2$ equivalent,19738340.42
+2023,Total greenhouse gas emissions per year,Transport,Tons of $CO_2$ equivalent,6091518.96
+2012,Total greenhouse gas emissions per year,Waste,Tons of $CO_2$ equivalent,1055861.33
+2010,Total greenhouse gas emissions per year,Waste,Tons of $CO_2$ equivalent,1085275.74
+2020,Total greenhouse gas emissions per year,,Tons of $CO_2$ equivalent,16458399.66
+2023,Total greenhouse gas emissions per year,Residential ,Tons of $CO_2$ equivalent,603362.27
+2016,Total greenhouse gas emissions per year,Waste,Tons of $CO_2$ equivalent,934225.94
+2019,Total greenhouse gas emissions per year,Agriculture,Tons of $CO_2$ equivalent,698728.13
+2013,Total greenhouse gas emissions per year,,Tons of $CO_2$ equivalent,18813755.08
+2015,Total greenhouse gas emissions per year,Industry,Tons of $CO_2$ equivalent,3625123.77
+2017,Total greenhouse gas emissions per unit of GDP,,Kg of $CO_2$ equivalent per euro,0.24
+2010,Total greenhouse gas emissions per unit of GDP,,Kg of $CO_2$ equivalent per euro,0.29
+2019,Total greenhouse gas emissions per unit of GDP,,Kg of $CO_2$ equivalent per euro,0.22
+2020,Total greenhouse gas emissions per unit of GDP,,Kg of $CO_2$ equivalent per euro,0.21
+2012,Total greenhouse gas emissions per unit of GDP,,Kg of $CO_2$ equivalent per euro,0.28
+2011,Total greenhouse gas emissions per unit of GDP,,Kg of $CO_2$ equivalent per euro,0.27
+2023,Total greenhouse gas emissions per unit of GDP,,Kg of $CO_2$ equivalent per euro,0.18
+2015,Total greenhouse gas emissions per unit of GDP,,Kg of $CO_2$ equivalent per euro,0.26
+2014,Total greenhouse gas emissions per unit of GDP,,Kg of $CO_2$ equivalent per euro,0.25
+2013,Total greenhouse gas emissions per unit of GDP,,Kg of $CO_2$ equivalent per euro,0.26
+2021,Total greenhouse gas emissions per unit of GDP,,Kg of $CO_2$ equivalent per euro,0.21
+2022,Total greenhouse gas emissions per unit of GDP,,Kg of $CO_2$ equivalent per euro,0.21
+2016,Total greenhouse gas emissions per unit of GDP,,Kg of $CO_2$ equivalent per euro,0.24
+2018,Total greenhouse gas emissions per unit of GDP,,Kg of $CO_2$ equivalent per euro,0.23
+2021,Total greenhouse gas emissions per capita,,Tons of CO2 equivalent per capita,8.04
+2019,Total greenhouse gas emissions per capita,,Tons of CO2 equivalent per capita,8.48
+2016,Total greenhouse gas emissions per capita,,Tons of CO2 equivalent per capita,8.62
+2017,Total greenhouse gas emissions per capita,,Tons of CO2 equivalent per capita,9.06
+2023,Total greenhouse gas emissions per capita,,Tons of CO2 equivalent per capita,7.36
+2018,Total greenhouse gas emissions per capita,,Tons of CO2 equivalent per capita,8.74
+2010,Total greenhouse gas emissions per capita,,Tons of CO2 equivalent per capita,10.01
+2012,Total greenhouse gas emissions per capita,,Tons of CO2 equivalent per capita,9.38
+2014,Total greenhouse gas emissions per capita,,Tons of CO2 equivalent per capita,8.67
+2015,Total greenhouse gas emissions per capita,,Tons of CO2 equivalent per capita,8.96
+2013,Total greenhouse gas emissions per capita,,Tons of CO2 equivalent per capita,8.65
+2020,Total greenhouse gas emissions per capita,,Tons of CO2 equivalent per capita,7.49
+2011,Total greenhouse gas emissions per capita,,Tons of CO2 equivalent per capita,9.3
+2022,Total greenhouse gas emissions per capita,,Tons of CO2 equivalent per capita,8.34
+2011,Greenhouse gas emissions compared to 1990,,%,-2.46
+2019,Greenhouse gas emissions compared to 1990,,%,-10.39
+2012,Greenhouse gas emissions compared to 1990,,%,-1.49
+2017,Greenhouse gas emissions compared to 1990,,%,-4.9
+2018,Greenhouse gas emissions compared to 1990,,%,-8.07
+2016,Greenhouse gas emissions compared to 1990,,%,-9.69
+2010,Greenhouse gas emissions compared to 1990,,%,4.77
+2021,Greenhouse gas emissions compared to 1990,,%,-15.17
+2020,Greenhouse gas emissions compared to 1990,,%,-20.71
+2013,Greenhouse gas emissions compared to 1990,,%,-9.36
+2023,Greenhouse gas emissions compared to 1990,,%,-21.98
+2014,Greenhouse gas emissions compared to 1990,,%,-9.21
+2015,Greenhouse gas emissions compared to 1990,,%,-6.21
+2022,Greenhouse gas emissions compared to 1990,,%,-12.04
+2020,Greenhouse gas emissions compared to 2005,,%,-35.52
+2014,Greenhouse gas emissions compared to 2005,,%,-26.17
+2022,Greenhouse gas emissions compared to 2005,,%,-28.47
+2019,Greenhouse gas emissions compared to 2005,,%,-27.13
+2012,Greenhouse gas emissions compared to 2005,,%,-19.89
+2013,Greenhouse gas emissions compared to 2005,,%,-26.29
+2016,Greenhouse gas emissions compared to 2005,,%,-26.56
+2018,Greenhouse gas emissions compared to 2005,,%,-25.24
+2015,Greenhouse gas emissions compared to 2005,,%,-23.73
+2023,Greenhouse gas emissions compared to 2005,,%,-36.55
+2017,Greenhouse gas emissions compared to 2005,,%,-22.67
+2021,Greenhouse gas emissions compared to 2005,,%,-31.02
+2010,Greenhouse gas emissions compared to 2005,,%,-14.8
+2011,Greenhouse gas emissions compared to 2005,,%,-20.68

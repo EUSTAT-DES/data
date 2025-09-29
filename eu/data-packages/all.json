@@ -11445,12 +11445,29 @@
             "title": "Seriea"
           },
           {
+            "name": "SectorEmisor",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sektore energetikoa",
+                "Zerbitzuak",
+                "Garraioa",
+                "Nekazaritza",
+                "Egoitza",
+                "Hondakinak",
+                "Industria",
+                ""
+              ]
+            },
+            "title": "Isurketa sektorea"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "$CO_2$ tona  baliokideak",
-                "$CO_2$ kg euroko",
+                "$CO_2$ kg baliokideak euroko",
                 "Tona CO2 baliokide biztanle bakoitzeko ",
                 "%",
                 ""

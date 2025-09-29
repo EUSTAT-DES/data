@@ -29,12 +29,28 @@
             }
           },
           {
+            "name": "SectorEmisor",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ENERGETIKO",
+                "ZERBITZU",
+                "GARRAIO",
+                "NEKAZARI",
+                "EGOITZA",
+                "HONDAKIN",
+                "INDUSTRIA",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "TCO2E",
-                "KG_CO2_PER_GDP_EUR",
+                "KG_CO2_EQ_PER_GDP_EUR",
                 "T_CO2_PER_CAPITA",
                 "PT",
                 ""
