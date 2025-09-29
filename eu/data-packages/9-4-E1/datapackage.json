@@ -39,6 +39,16 @@
             "title": "Unitatea"
           },
           {
+            "name": "COL2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COL2"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Balioa"
