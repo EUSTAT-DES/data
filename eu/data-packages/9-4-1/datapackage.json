@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "$CO_2$ isurketak",
+                "CO2 isurketak",
                 "CO2 isurketak balio erantsiko unitate bakoitzeko",
                 "Manufaktura-sektorearen CO2 isurketak, manufaktura-sektorearen balio erantsiaren unitateko",
                 ""
@@ -34,7 +34,7 @@
             "constraints": {
               "enum": [
                 "Tonak",
-                "$CO_2$ kg euroko",
+                "CO2 kg euroko",
                 ""
               ]
             },

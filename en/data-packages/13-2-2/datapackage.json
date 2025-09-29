@@ -52,8 +52,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tons of $CO_2$ equivalent",
-                "Kg of $CO_2$ equivalent per euro",
+                "Tons of CO2 equivalent",
+                "Kg of CO2 equivalent per euro",
                 "Tons of CO2 equivalent per capita",
                 "%",
                 ""
