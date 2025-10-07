@@ -342,7 +342,10 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 15-8-1-contenido: "<b>Desired direction:</b> Increase"
 
 16-1-1-contenido: "<b>Desired direction:</b> Decrease"
-16-1-2-contenido: "The Basque Country is not on the list of armed conflict situations considered for this indicator by the Office of the United Nations High Commissioner for Human Rights (OHCHR)."
+16-1-2-contenido: |
+  The Basque Country is not on the list of armed conflict situations considered for this indicator by the Office of the United Nations High Commissioner for Human Rights (OHCHR). 
+  Therefore, although continuous official statistics are not produced using the indicator's methodology, the figure can be stated as 0.
+
 16-1-4-contenido: "<b>Desired direction:</b> Increase"
 16-1-E1-contenido: "<b>Desired direction:</b> Decrease"
 16-2-2-contenido: "<b>Desired direction:</b> Decrease"
