@@ -1,4 +1,4 @@
-Indicator,Reporting status,Progress status,Show map,Tipo de gráfico,OCECA,Fecha última actualización datos,Fuente
+Indicator,Reporting status,Progress status,Show map,Tipo de gráfico,OCECA,Fecha última actualización datos,Indicador no estadístico
 #1-1-1,complete,alcanzado,,line,,2025-05-08,
 #1-2-1,complete,progreso,,line,FUENTE.oceca,2025-04-22,
 #1-2-2,complete,progreso,,line,FUENTE.oceca,2025-05-08,
@@ -7,7 +7,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico,OCECA,Fecha
 #1-4-2,notstarted,notstarted,,line,,,
 #1-5-1,complete,alcanzado,True,line,FUENTE.oceca,2025-08-04,
 #1-5-2,complete,noevaluado,,line,FUENTE.oceca,2025-05-08,
-#1-5-3,complete,alcanzado,,line,,,
+#1-5-3,complete,alcanzado,,line,,,True
 #1-5-4,complete,alcanzado,True,line,,2025-08-14,
 #1-a-1,notapplicable,notapplicable,,line,,,
 #1-a-2,complete,alcanzado,,line,,2025-07-11,
@@ -41,7 +41,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico,OCECA,Fecha
 #11-7-1,complete,alcanzado,,line,FUENTE.oceca,2025-05-08,
 #11-7-2,complete,retroceso,,line,FUENTE.oceca,2025-08-14,
 #11-a-1,complete,alcanzado,True,line,,2025-08-14,
-#11-b-1,complete,alcanzado,,line,,,
+#11-b-1,complete,alcanzado,,line,,,True
 #11-b-2,complete,alcanzado,True,line,,2025-08-14,
 #12-1-1,complete,alcanzado,,bar,FUENTE.oceca,2025-05-08,
 #12-2-1,notstarted,notstarted,,line,,,
@@ -57,9 +57,9 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico,OCECA,Fecha
 #12-b-1,notstarted,notstarted,,line,,,
 #12-c-1,notstarted,notstarted,,line,,,
 #13-1-1,complete,alcanzado,True,line,FUENTE.oceca,2025-08-04,
-#13-1-2,complete,alcanzado,,line,,,
+#13-1-2,complete,alcanzado,,line,,,True
 #13-1-3,complete,alcanzado,True,line,,2025-08-14,
-#13-2-1,complete,alcanzado,,line,,,
+#13-2-1,complete,alcanzado,,line,,,True
 #13-2-2,complete,alcanzado,,line,FUENTE.oceca,2025-09-26,
 #13-3-1,notstarted,notstarted,,line,,,
 #13-a-1,notapplicable,notapplicable,,line,,,
@@ -90,11 +90,11 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico,OCECA,Fecha
 #15-b-1,notstarted,notstarted,,line,,,
 #15-c-1,notstarted,notstarted,,line,,,
 #16-1-1,complete,alcanzado,,line,,2025-08-04,
-#16-1-2,complete,alcanzado,,line,,,
+#16-1-2,complete,alcanzado,,line,,,True
 #16-1-3,notstarted,notstarted,,line,,,
 #16-1-4,complete,progreso,,bar,FUENTE.oceca,2025-08-19,
 #16-1-E1,complete,retroceso,,bar,FUENTE.oceca,2025-05-08,
-#16-10-1,complete,alcanzado,,line,,,
+#16-10-1,complete,alcanzado,,line,,,True
 #16-10-2,notstarted,notstarted,,line,,,
 #16-2-1,notstarted,notstarted,,line,,,
 #16-2-2,complete,retroceso,,line,FUENTE.oceca,2025-08-04,
@@ -139,9 +139,9 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico,OCECA,Fecha
 #17-7-1,notstarted,notstarted,,line,,,
 #17-8-1,complete,alcanzado,,line,FUENTE.oceca,2025-08-04,
 #17-9-1,notstarted,notstarted,,line,,,
-#2-1-1,complete,alcanzado,,line,,,
+#2-1-1,complete,alcanzado,,line,,,True
 #2-1-2,complete,alcanzado,,line,,2025-06-11,
-#2-2-1,complete,alcanzado,,line,,,
+#2-2-1,complete,alcanzado,,line,,,True
 #2-2-2,complete,retroceso,,bar,FUENTE.oceca,2025-05-08,
 #2-2-3,notstarted,notstarted,,line,,,
 #2-2-E1,complete,retroceso,,bar,,2025-05-08,
@@ -179,7 +179,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico,OCECA,Fecha
 #3-8-1,complete,retroceso,,line,FUENTE.oceca,2025-05-08,
 #3-8-2,complete,retroceso,,line,FUENTE.oceca,2025-05-08,
 #3-9-1,notstarted,notstarted,,line,,,
-#3-9-2,complete,alcanzado,,line,,,
+#3-9-2,complete,alcanzado,,line,,,True
 #3-9-3,complete,alcanzado,,line,FUENTE.oceca,2025-07-17,
 #3-a-1,complete,alcanzado,,bar,FUENTE.oceca,2025-08-14,
 #3-b-1,complete,retroceso,,line,FUENTE.oceca,2025-08-04,
@@ -243,7 +243,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico,OCECA,Fecha
 #8-5-2,complete,alcanzado,True,line,FUENTE.oceca,2025-06-19,
 #8-5-E1,complete,progreso,True,line,,2025-08-14,
 #8-6-1,complete,alcanzado,,line,FUENTE.oceca,2025-06-18,
-#8-7-1,complete,alcanzado,,line,,,
+#8-7-1,complete,alcanzado,,line,,,True
 #8-8-1,complete,progreso,,line,FUENTE.oceca,2025-07-22,
 #8-8-2,notstarted,notstarted,,line,,,
 #8-9-1,complete,noevaluado,,line,,2025-08-04,
