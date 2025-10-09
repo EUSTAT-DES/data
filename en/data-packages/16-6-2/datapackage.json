@@ -36,11 +36,9 @@
           },
           {
             "name": "Sexo",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
                 ""
               ]
             },
@@ -48,12 +46,9 @@
           },
           {
             "name": "Territorio",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Araba/Álava",
-                "Bizkaia",
-                "Gipuzkoa",
                 ""
               ]
             },

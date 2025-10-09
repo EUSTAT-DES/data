@@ -1,1010 +1,131 @@
 Year,Servicios públicos,Sexo,Territorio histórico,Units,Value
 2018,,,,%,57.4
 2017,,,,%,57.4
-2019,,,,%,57.3
-2013,,,,%,40.2
 2020,,,,%,54.1
-2023,,,,%,56.8
-2022,,,,%,51.0
-2015,,,,%,46.3
-2014,,,,%,41.2
 2016,,,,%,50.4
-2011,,,,%,47.7
+2014,,,,%,41.2
 2012,,,,%,50.3
+2013,,,,%,40.2
+2011,,,,%,47.7
+2015,,,,%,46.3
+2022,,,,%,51.0
+2023,,,,%,56.8
 2021,,,,%,55.1
-2022,,,Araba/Álava,%,42.7
-2017,,,Araba/Álava,%,60.5
-2019,,,Araba/Álava,%,54.8
-2016,,,Araba/Álava,%,49.6
-2021,,,Araba/Álava,%,48.2
-2023,,,Araba/Álava,%,55.7
-2020,,,Araba/Álava,%,47.3
-2018,,,Araba/Álava,%,56.0
-2022,,,Bizkaia,%,54.9
-2018,,,Bizkaia,%,55.7
-2017,,,Bizkaia,%,50.4
-2020,,,Bizkaia,%,56.9
-2016,,,Bizkaia,%,45.0
-2021,,,Bizkaia,%,57.9
-2019,,,Bizkaia,%,51.2
-2023,,,Bizkaia,%,53.1
-2017,,,Gipuzkoa,%,62.1
-2019,,,Gipuzkoa,%,61.6
-2022,,,Gipuzkoa,%,51.0
-2018,,,Gipuzkoa,%,59.8
-2023,,,Gipuzkoa,%,59.4
-2021,,,Gipuzkoa,%,54.8
-2016,,,Gipuzkoa,%,55.9
-2020,,,Gipuzkoa,%,54.9
-2022,,Mujer,,%,49.1
-2017,,Mujer,,%,57.0
-2016,,Mujer,,%,46.6
-2021,,Mujer,,%,53.1
-2023,,Mujer,,%,54.8
-2019,,Mujer,,%,54.6
-2018,,Mujer,,%,54.5
-2020,,Mujer,,%,50.2
-2017,,Mujer,Araba/Álava,%,56.2
-2020,,Mujer,Araba/Álava,%,44.6
-2021,,Mujer,Araba/Álava,%,32.2
-2018,,Mujer,Araba/Álava,%,58.0
-2023,,Mujer,Araba/Álava,%,56.8
-2022,,Mujer,Araba/Álava,%,41.2
-2019,,Mujer,Araba/Álava,%,52.2
-2016,,Mujer,Araba/Álava,%,48.0
-2022,,Mujer,Bizkaia,%,54.7
-2019,,Mujer,Bizkaia,%,45.0
-2017,,Mujer,Bizkaia,%,47.6
-2021,,Mujer,Bizkaia,%,55.5
-2018,,Mujer,Bizkaia,%,49.1
-2016,,Mujer,Bizkaia,%,36.8
-2023,,Mujer,Bizkaia,%,48.4
-2020,,Mujer,Bizkaia,%,52.2
-2020,,Mujer,Gipuzkoa,%,51.6
-2023,,Mujer,Gipuzkoa,%,58.6
-2017,,Mujer,Gipuzkoa,%,67.3
-2022,,Mujer,Gipuzkoa,%,47.6
-2018,,Mujer,Gipuzkoa,%,58.5
-2021,,Mujer,Gipuzkoa,%,54.0
-2019,,Mujer,Gipuzkoa,%,61.4
-2016,,Mujer,Gipuzkoa,%,55.2
-2022,,Hombre,,%,52.8
-2017,,Hombre,,%,57.8
-2023,,Hombre,,%,59.0
-2021,,Hombre,,%,57.5
-2016,,Hombre,,%,54.6
-2018,,Hombre,,%,59.9
-2020,,Hombre,,%,58.3
-2019,,Hombre,,%,60.3
-2021,,Hombre,Araba/Álava,%,57.9
-2016,,Hombre,Araba/Álava,%,51.1
-2023,,Hombre,Araba/Álava,%,55.0
-2022,,Hombre,Araba/Álava,%,44.4
-2019,,Hombre,Araba/Álava,%,56.8
-2017,,Hombre,Araba/Álava,%,63.9
-2018,,Hombre,Araba/Álava,%,53.8
-2020,,Hombre,Araba/Álava,%,51.1
-2016,,Hombre,Bizkaia,%,53.7
-2022,,Hombre,Bizkaia,%,55.8
-2017,,Hombre,Bizkaia,%,54.0
-2020,,Hombre,Bizkaia,%,61.0
-2018,,Hombre,Bizkaia,%,60.8
-2023,,Hombre,Bizkaia,%,60.0
-2019,,Hombre,Bizkaia,%,59.0
-2021,,Hombre,Bizkaia,%,61.3
-2020,,Hombre,Gipuzkoa,%,58.6
-2021,,Hombre,Gipuzkoa,%,55.6
-2017,,Hombre,Gipuzkoa,%,57.4
-2022,,Hombre,Gipuzkoa,%,53.7
-2018,,Hombre,Gipuzkoa,%,61.1
-2023,,Hombre,Gipuzkoa,%,60.5
-2019,,Hombre,Gipuzkoa,%,62.0
-2016,,Hombre,Gipuzkoa,%,56.9
-2018,Enseñanza,,,%,70.9
-2013,Enseñanza,,,%,45.5
+2019,,,,%,57.3
 2016,Enseñanza,,,%,60.0
-2023,Enseñanza,,,%,65.3
-2022,Enseñanza,,,%,60.9
-2020,Enseñanza,,,%,56.5
-2015,Enseñanza,,,%,59.4
-2014,Enseñanza,,,%,54.0
+2021,Enseñanza,,,%,54.4
 2012,Enseñanza,,,%,66.0
 2019,Enseñanza,,,%,72.2
-2011,Enseñanza,,,%,66.7
-2021,Enseñanza,,,%,54.4
+2018,Enseñanza,,,%,70.9
+2014,Enseñanza,,,%,54.0
 2017,Enseñanza,,,%,69.5
-2020,Enseñanza,,Araba/Álava,%,33.3
-2017,Enseñanza,,Araba/Álava,%,60.0
-2018,Enseñanza,,Araba/Álava,%,76.5
-2021,Enseñanza,,Araba/Álava,%,61.2
-2016,Enseñanza,,Araba/Álava,%,77.8
-2023,Enseñanza,,Araba/Álava,%,57.0
-2019,Enseñanza,,Araba/Álava,%,41.7
-2022,Enseñanza,,Araba/Álava,%,42.0
-2019,Enseñanza,,Bizkaia,%,69.0
-2023,Enseñanza,,Bizkaia,%,66.2
-2017,Enseñanza,,Bizkaia,%,72.2
-2021,Enseñanza,,Bizkaia,%,53.2
-2018,Enseñanza,,Bizkaia,%,58.3
-2016,Enseñanza,,Bizkaia,%,48.8
-2022,Enseñanza,,Bizkaia,%,63.9
-2020,Enseñanza,,Bizkaia,%,58.8
-2017,Enseñanza,,Gipuzkoa,%,72.7
-2018,Enseñanza,,Gipuzkoa,%,82.2
-2016,Enseñanza,,Gipuzkoa,%,63.6
-2022,Enseñanza,,Gipuzkoa,%,64.4
-2019,Enseñanza,,Gipuzkoa,%,80.3
-2023,Enseñanza,,Gipuzkoa,%,67.7
-2020,Enseñanza,,Gipuzkoa,%,66.0
-2021,Enseñanza,,Gipuzkoa,%,53.9
-2022,Enseñanza,Mujer,,%,63.0
-2019,Enseñanza,Mujer,,%,68.9
-2021,Enseñanza,Mujer,,%,59.6
-2023,Enseñanza,Mujer,,%,67.2
-2018,Enseñanza,Mujer,,%,70.4
-2017,Enseñanza,Mujer,,%,70.6
-2016,Enseñanza,Mujer,,%,51.9
-2020,Enseñanza,Mujer,,%,50.7
-2021,Enseñanza,Mujer,Araba/Álava,%,52.7
-2023,Enseñanza,Mujer,Araba/Álava,%,53.7
-2018,Enseñanza,Mujer,Araba/Álava,%,80.0
-2017,Enseñanza,Mujer,Araba/Álava,%,63.6
-2019,Enseñanza,Mujer,Araba/Álava,%,20.0
-2016,Enseñanza,Mujer,Araba/Álava,%,77.8
-2020,Enseñanza,Mujer,Araba/Álava,%,20.0
-2022,Enseñanza,Mujer,Araba/Álava,%,38.6
-2016,Enseñanza,Mujer,Bizkaia,%,42.9
-2021,Enseñanza,Mujer,Bizkaia,%,55.1
-2019,Enseñanza,Mujer,Bizkaia,%,60.9
-2022,Enseñanza,Mujer,Bizkaia,%,74.0
-2023,Enseñanza,Mujer,Bizkaia,%,70.0
-2018,Enseñanza,Mujer,Bizkaia,%,57.1
-2017,Enseñanza,Mujer,Bizkaia,%,72.2
-2020,Enseñanza,Mujer,Bizkaia,%,50.0
-2018,Enseñanza,Mujer,Gipuzkoa,%,78.3
-2023,Enseñanza,Mujer,Gipuzkoa,%,69.1
-2016,Enseñanza,Mujer,Gipuzkoa,%,50.0
-2021,Enseñanza,Mujer,Gipuzkoa,%,63.0
-2019,Enseñanza,Mujer,Gipuzkoa,%,81.8
-2020,Enseñanza,Mujer,Gipuzkoa,%,66.7
-2017,Enseñanza,Mujer,Gipuzkoa,%,72.7
-2022,Enseñanza,Mujer,Gipuzkoa,%,62.9
-2023,Enseñanza,Hombre,,%,63.0
-2019,Enseñanza,Hombre,,%,75.9
-2016,Enseñanza,Hombre,,%,68.6
-2017,Enseñanza,Hombre,,%,68.5
-2022,Enseñanza,Hombre,,%,58.9
-2020,Enseñanza,Hombre,,%,62.9
-2021,Enseñanza,Hombre,,%,47.9
-2018,Enseñanza,Hombre,,%,71.4
-2017,Enseñanza,Hombre,Araba/Álava,%,57.1
-2019,Enseñanza,Hombre,Araba/Álava,%,57.1
-2020,Enseñanza,Hombre,Araba/Álava,%,50.0
-2016,Enseñanza,Hombre,Araba/Álava,%,77.8
-2021,Enseñanza,Hombre,Araba/Álava,%,66.9
-2018,Enseñanza,Hombre,Araba/Álava,%,71.4
-2023,Enseñanza,Hombre,Araba/Álava,%,59.1
-2022,Enseñanza,Hombre,Araba/Álava,%,45.6
-2020,Enseñanza,Hombre,Bizkaia,%,66.7
-2021,Enseñanza,Hombre,Bizkaia,%,50.6
-2019,Enseñanza,Hombre,Bizkaia,%,78.9
-2022,Enseñanza,Hombre,Bizkaia,%,51.2
-2023,Enseñanza,Hombre,Bizkaia,%,60.8
-2016,Enseñanza,Hombre,Bizkaia,%,54.5
-2018,Enseñanza,Hombre,Bizkaia,%,59.3
-2017,Enseñanza,Hombre,Bizkaia,%,72.2
-2021,Enseñanza,Hombre,Gipuzkoa,%,42.1
-2017,Enseñanza,Hombre,Gipuzkoa,%,72.7
-2020,Enseñanza,Hombre,Gipuzkoa,%,65.2
-2022,Enseñanza,Hombre,Gipuzkoa,%,65.7
-2019,Enseñanza,Hombre,Gipuzkoa,%,78.6
-2023,Enseñanza,Hombre,Gipuzkoa,%,66.1
-2018,Enseñanza,Hombre,Gipuzkoa,%,86.4
-2016,Enseñanza,Hombre,Gipuzkoa,%,80.0
-2017,Asistencia sanitaria,,,%,79.0
-2013,Asistencia sanitaria,,,%,50.9
-2018,Asistencia sanitaria,,,%,84.3
-2011,Asistencia sanitaria,,,%,73.1
-2014,Asistencia sanitaria,,,%,69.5
-2019,Asistencia sanitaria,,,%,81.5
-2022,Asistencia sanitaria,,,%,59.5
-2021,Asistencia sanitaria,,,%,75.0
-2023,Asistencia sanitaria,,,%,62.7
-2020,Asistencia sanitaria,,,%,77.2
-2012,Asistencia sanitaria,,,%,70.1
-2016,Asistencia sanitaria,,,%,67.2
+2022,Enseñanza,,,%,60.9
+2023,Enseñanza,,,%,65.3
+2015,Enseñanza,,,%,59.4
+2013,Enseñanza,,,%,45.5
+2011,Enseñanza,,,%,66.7
+2020,Enseñanza,,,%,56.5
 2015,Asistencia sanitaria,,,%,67.5
-2017,Asistencia sanitaria,,Araba/Álava,%,73.1
-2023,Asistencia sanitaria,,Araba/Álava,%,63.2
-2019,Asistencia sanitaria,,Araba/Álava,%,71.4
-2021,Asistencia sanitaria,,Araba/Álava,%,79.5
-2016,Asistencia sanitaria,,Araba/Álava,%,84.2
-2020,Asistencia sanitaria,,Araba/Álava,%,63.0
-2018,Asistencia sanitaria,,Araba/Álava,%,95.0
-2022,Asistencia sanitaria,,Araba/Álava,%,61.6
-2021,Asistencia sanitaria,,Bizkaia,%,74.7
-2019,Asistencia sanitaria,,Bizkaia,%,73.9
-2022,Asistencia sanitaria,,Bizkaia,%,58.8
-2017,Asistencia sanitaria,,Bizkaia,%,66.7
-2016,Asistencia sanitaria,,Bizkaia,%,54.7
-2023,Asistencia sanitaria,,Bizkaia,%,49.7
-2020,Asistencia sanitaria,,Bizkaia,%,80.8
-2018,Asistencia sanitaria,,Bizkaia,%,76.4
-2018,Asistencia sanitaria,,Gipuzkoa,%,89.1
-2016,Asistencia sanitaria,,Gipuzkoa,%,74.5
-2020,Asistencia sanitaria,,Gipuzkoa,%,80.7
-2019,Asistencia sanitaria,,Gipuzkoa,%,89.1
-2021,Asistencia sanitaria,,Gipuzkoa,%,74.5
-2022,Asistencia sanitaria,,Gipuzkoa,%,59.4
-2023,Asistencia sanitaria,,Gipuzkoa,%,70.6
-2017,Asistencia sanitaria,,Gipuzkoa,%,93.8
-2016,Asistencia sanitaria,Mujer,,%,61.3
-2017,Asistencia sanitaria,Mujer,,%,76.7
-2021,Asistencia sanitaria,Mujer,,%,66.3
-2019,Asistencia sanitaria,Mujer,,%,80.0
-2023,Asistencia sanitaria,Mujer,,%,55.3
-2020,Asistencia sanitaria,Mujer,,%,74.6
-2022,Asistencia sanitaria,Mujer,,%,63.5
-2018,Asistencia sanitaria,Mujer,,%,84.7
-2022,Asistencia sanitaria,Mujer,Araba/Álava,%,77.3
-2021,Asistencia sanitaria,Mujer,Araba/Álava,%,44.3
-2020,Asistencia sanitaria,Mujer,Araba/Álava,%,62.5
-2023,Asistencia sanitaria,Mujer,Araba/Álava,%,46.7
-2017,Asistencia sanitaria,Mujer,Araba/Álava,%,75.0
-2018,Asistencia sanitaria,Mujer,Araba/Álava,%,100.0
-2016,Asistencia sanitaria,Mujer,Araba/Álava,%,77.8
-2019,Asistencia sanitaria,Mujer,Araba/Álava,%,66.7
-2020,Asistencia sanitaria,Mujer,Bizkaia,%,80.0
-2023,Asistencia sanitaria,Mujer,Bizkaia,%,39.9
-2017,Asistencia sanitaria,Mujer,Bizkaia,%,60.0
-2021,Asistencia sanitaria,Mujer,Bizkaia,%,63.4
-2018,Asistencia sanitaria,Mujer,Bizkaia,%,68.0
-2022,Asistencia sanitaria,Mujer,Bizkaia,%,70.2
-2019,Asistencia sanitaria,Mujer,Bizkaia,%,72.0
-2016,Asistencia sanitaria,Mujer,Bizkaia,%,48.1
-2016,Asistencia sanitaria,Mujer,Gipuzkoa,%,69.2
-2017,Asistencia sanitaria,Mujer,Gipuzkoa,%,95.7
-2018,Asistencia sanitaria,Mujer,Gipuzkoa,%,95.8
-2022,Asistencia sanitaria,Mujer,Gipuzkoa,%,54.7
-2020,Asistencia sanitaria,Mujer,Gipuzkoa,%,76.7
-2023,Asistencia sanitaria,Mujer,Gipuzkoa,%,67.8
-2021,Asistencia sanitaria,Mujer,Gipuzkoa,%,70.3
-2019,Asistencia sanitaria,Mujer,Gipuzkoa,%,88.2
-2018,Asistencia sanitaria,Hombre,,%,83.9
-2023,Asistencia sanitaria,Hombre,,%,70.8
-2019,Asistencia sanitaria,Hombre,,%,83.1
-2017,Asistencia sanitaria,Hombre,,%,81.4
-2021,Asistencia sanitaria,Hombre,,%,85.3
-2020,Asistencia sanitaria,Hombre,,%,80.0
-2016,Asistencia sanitaria,Hombre,,%,73.7
-2022,Asistencia sanitaria,Hombre,,%,55.6
-2017,Asistencia sanitaria,Hombre,Araba/Álava,%,71.4
-2022,Asistencia sanitaria,Hombre,Araba/Álava,%,44.8
-2021,Asistencia sanitaria,Hombre,Araba/Álava,%,100.0
-2016,Asistencia sanitaria,Hombre,Araba/Álava,%,90.0
-2023,Asistencia sanitaria,Hombre,Araba/Álava,%,73.3
-2019,Asistencia sanitaria,Hombre,Araba/Álava,%,75.0
-2020,Asistencia sanitaria,Hombre,Araba/Álava,%,63.6
-2018,Asistencia sanitaria,Hombre,Araba/Álava,%,90.0
-2023,Asistencia sanitaria,Hombre,Bizkaia,%,63.1
-2018,Asistencia sanitaria,Hombre,Bizkaia,%,83.3
-2016,Asistencia sanitaria,Hombre,Bizkaia,%,61.5
-2017,Asistencia sanitaria,Hombre,Bizkaia,%,75.0
-2019,Asistencia sanitaria,Hombre,Bizkaia,%,76.2
-2020,Asistencia sanitaria,Hombre,Bizkaia,%,81.5
-2021,Asistencia sanitaria,Hombre,Bizkaia,%,89.8
-2022,Asistencia sanitaria,Hombre,Bizkaia,%,44.3
-2021,Asistencia sanitaria,Hombre,Gipuzkoa,%,79.6
-2023,Asistencia sanitaria,Hombre,Gipuzkoa,%,74.0
-2019,Asistencia sanitaria,Hombre,Gipuzkoa,%,90.0
-2016,Asistencia sanitaria,Hombre,Gipuzkoa,%,81.0
-2017,Asistencia sanitaria,Hombre,Gipuzkoa,%,92.0
-2022,Asistencia sanitaria,Hombre,Gipuzkoa,%,63.4
-2020,Asistencia sanitaria,Hombre,Gipuzkoa,%,85.2
-2018,Asistencia sanitaria,Hombre,Gipuzkoa,%,81.8
-2016,Gestión de pensiones,,,%,23.5
+2011,Asistencia sanitaria,,,%,73.1
+2019,Asistencia sanitaria,,,%,81.5
+2018,Asistencia sanitaria,,,%,84.3
+2013,Asistencia sanitaria,,,%,50.9
+2017,Asistencia sanitaria,,,%,79.0
+2021,Asistencia sanitaria,,,%,75.0
+2016,Asistencia sanitaria,,,%,67.2
+2014,Asistencia sanitaria,,,%,69.5
+2023,Asistencia sanitaria,,,%,62.7
+2012,Asistencia sanitaria,,,%,70.1
+2022,Asistencia sanitaria,,,%,59.5
+2020,Asistencia sanitaria,,,%,77.2
+2013,Gestión de pensiones,,,%,21.2
+2018,Gestión de pensiones,,,%,19.1
+2014,Gestión de pensiones,,,%,21.3
+2020,Gestión de pensiones,,,%,42.2
+2011,Gestión de pensiones,,,%,32.0
+2012,Gestión de pensiones,,,%,36.0
+2023,Gestión de pensiones,,,%,52.4
+2022,Gestión de pensiones,,,%,37.0
+2021,Gestión de pensiones,,,%,39.2
 2017,Gestión de pensiones,,,%,40.2
 2019,Gestión de pensiones,,,%,30.9
-2012,Gestión de pensiones,,,%,36.0
 2015,Gestión de pensiones,,,%,21.5
-2021,Gestión de pensiones,,,%,39.2
-2011,Gestión de pensiones,,,%,32.0
-2013,Gestión de pensiones,,,%,21.2
-2023,Gestión de pensiones,,,%,52.4
-2020,Gestión de pensiones,,,%,42.2
-2018,Gestión de pensiones,,,%,19.1
-2022,Gestión de pensiones,,,%,37.0
-2014,Gestión de pensiones,,,%,21.3
-2017,Gestión de pensiones,,Araba/Álava,%,65.2
-2016,Gestión de pensiones,,Araba/Álava,%,21.4
-2020,Gestión de pensiones,,Araba/Álava,%,37.0
-2022,Gestión de pensiones,,Araba/Álava,%,28.9
-2018,Gestión de pensiones,,Araba/Álava,%,11.1
-2021,Gestión de pensiones,,Araba/Álava,%,27.6
-2023,Gestión de pensiones,,Araba/Álava,%,58.7
-2019,Gestión de pensiones,,Araba/Álava,%,0.0
-2016,Gestión de pensiones,,Bizkaia,%,20.5
-2018,Gestión de pensiones,,Bizkaia,%,25.0
-2022,Gestión de pensiones,,Bizkaia,%,42.4
-2021,Gestión de pensiones,,Bizkaia,%,56.1
-2017,Gestión de pensiones,,Bizkaia,%,22.2
-2023,Gestión de pensiones,,Bizkaia,%,42.7
-2019,Gestión de pensiones,,Bizkaia,%,25.6
-2020,Gestión de pensiones,,Bizkaia,%,43.5
-2022,Gestión de pensiones,,Gipuzkoa,%,36.3
-2019,Gestión de pensiones,,Gipuzkoa,%,39.3
-2018,Gestión de pensiones,,Gipuzkoa,%,15.6
-2016,Gestión de pensiones,,Gipuzkoa,%,27.3
-2020,Gestión de pensiones,,Gipuzkoa,%,43.6
-2021,Gestión de pensiones,,Gipuzkoa,%,32.3
-2017,Gestión de pensiones,,Gipuzkoa,%,41.9
-2023,Gestión de pensiones,,Gipuzkoa,%,56.0
-2020,Gestión de pensiones,Mujer,,%,36.4
-2023,Gestión de pensiones,Mujer,,%,48.5
-2022,Gestión de pensiones,Mujer,,%,34.3
-2018,Gestión de pensiones,Mujer,,%,19.3
-2021,Gestión de pensiones,Mujer,,%,34.1
-2017,Gestión de pensiones,Mujer,,%,45.1
-2019,Gestión de pensiones,Mujer,,%,24.2
-2016,Gestión de pensiones,Mujer,,%,20.0
-2017,Gestión de pensiones,Mujer,Araba/Álava,%,63.6
-2020,Gestión de pensiones,Mujer,Araba/Álava,%,33.3
-2018,Gestión de pensiones,Mujer,Araba/Álava,%,20.0
-2019,Gestión de pensiones,Mujer,Araba/Álava,%,0.0
-2022,Gestión de pensiones,Mujer,Araba/Álava,%,38.6
-2023,Gestión de pensiones,Mujer,Araba/Álava,%,70.7
-2021,Gestión de pensiones,Mujer,Araba/Álava,%,0.0
-2016,Gestión de pensiones,Mujer,Araba/Álava,%,28.6
-2018,Gestión de pensiones,Mujer,Bizkaia,%,30.4
-2019,Gestión de pensiones,Mujer,Bizkaia,%,20.8
-2020,Gestión de pensiones,Mujer,Bizkaia,%,31.8
-2021,Gestión de pensiones,Mujer,Bizkaia,%,44.5
-2022,Gestión de pensiones,Mujer,Bizkaia,%,33.4
-2023,Gestión de pensiones,Mujer,Bizkaia,%,34.0
-2017,Gestión de pensiones,Mujer,Bizkaia,%,20.0
-2016,Gestión de pensiones,Mujer,Bizkaia,%,16.7
-2018,Gestión de pensiones,Mujer,Gipuzkoa,%,8.3
-2019,Gestión de pensiones,Mujer,Gipuzkoa,%,29.4
-2023,Gestión de pensiones,Mujer,Gipuzkoa,%,52.2
-2022,Gestión de pensiones,Mujer,Gipuzkoa,%,33.2
-2017,Gestión de pensiones,Mujer,Gipuzkoa,%,60.0
-2020,Gestión de pensiones,Mujer,Gipuzkoa,%,41.4
-2021,Gestión de pensiones,Mujer,Gipuzkoa,%,31.8
-2016,Gestión de pensiones,Mujer,Gipuzkoa,%,20.8
-2023,Gestión de pensiones,Hombre,,%,57.1
-2019,Gestión de pensiones,Hombre,,%,39.6
-2016,Gestión de pensiones,Hombre,,%,27.7
-2021,Gestión de pensiones,Hombre,,%,45.7
-2022,Gestión de pensiones,Hombre,,%,39.5
-2020,Gestión de pensiones,Hombre,,%,48.4
-2018,Gestión de pensiones,Hombre,,%,19.0
-2017,Gestión de pensiones,Hombre,,%,35.3
-2016,Gestión de pensiones,Hombre,Araba/Álava,%,14.3
-2020,Gestión de pensiones,Hombre,Araba/Álava,%,41.7
-2019,Gestión de pensiones,Hombre,Araba/Álava,%,0.0
-2022,Gestión de pensiones,Hombre,Araba/Álava,%,18.5
-2018,Gestión de pensiones,Hombre,Araba/Álava,%,0.0
-2023,Gestión de pensiones,Hombre,Araba/Álava,%,51.0
-2017,Gestión de pensiones,Hombre,Araba/Álava,%,66.7
-2021,Gestión de pensiones,Hombre,Araba/Álava,%,43.2
-2021,Gestión de pensiones,Hombre,Bizkaia,%,74.0
-2023,Gestión de pensiones,Hombre,Bizkaia,%,56.4
-2018,Gestión de pensiones,Hombre,Bizkaia,%,20.7
-2016,Gestión de pensiones,Hombre,Bizkaia,%,25.0
-2017,Gestión de pensiones,Hombre,Bizkaia,%,25.0
-2020,Gestión de pensiones,Hombre,Bizkaia,%,54.2
-2022,Gestión de pensiones,Hombre,Bizkaia,%,55.2
-2019,Gestión de pensiones,Hombre,Bizkaia,%,33.3
-2019,Gestión de pensiones,Hombre,Gipuzkoa,%,51.9
-2020,Gestión de pensiones,Hombre,Gipuzkoa,%,46.2
-2023,Gestión de pensiones,Hombre,Gipuzkoa,%,60.9
-2022,Gestión de pensiones,Hombre,Gipuzkoa,%,38.1
-2016,Gestión de pensiones,Hombre,Gipuzkoa,%,35.0
-2017,Gestión de pensiones,Hombre,Gipuzkoa,%,26.1
-2018,Gestión de pensiones,Hombre,Gipuzkoa,%,23.8
-2021,Gestión de pensiones,Hombre,Gipuzkoa,%,32.9
-2021,Administración de justicia,,,%,16.9
-2016,Administración de justicia,,,%,11.4
-2015,Administración de justicia,,,%,11.2
-2019,Administración de justicia,,,%,19.4
+2016,Gestión de pensiones,,,%,23.5
+2011,Administración de justicia,,,%,15.0
 2022,Administración de justicia,,,%,20.6
 2013,Administración de justicia,,,%,13.5
-2012,Administración de justicia,,,%,9.5
-2017,Administración de justicia,,,%,19.4
-2018,Administración de justicia,,,%,19.4
-2011,Administración de justicia,,,%,15.0
-2014,Administración de justicia,,,%,12.0
 2020,Administración de justicia,,,%,17.5
+2017,Administración de justicia,,,%,19.4
+2015,Administración de justicia,,,%,11.2
+2019,Administración de justicia,,,%,19.4
+2021,Administración de justicia,,,%,16.9
+2016,Administración de justicia,,,%,11.4
 2023,Administración de justicia,,,%,22.4
-2019,Administración de justicia,,Araba/Álava,%,0.0
-2020,Administración de justicia,,Araba/Álava,%,22.2
-2016,Administración de justicia,,Araba/Álava,%,10.5
-2021,Administración de justicia,,Araba/Álava,%,8.9
-2023,Administración de justicia,,Araba/Álava,%,14.5
-2022,Administración de justicia,,Araba/Álava,%,15.0
-2018,Administración de justicia,,Araba/Álava,%,12.5
-2017,Administración de justicia,,Araba/Álava,%,23.1
-2022,Administración de justicia,,Bizkaia,%,30.0
-2017,Administración de justicia,,Bizkaia,%,18.9
-2023,Administración de justicia,,Bizkaia,%,33.1
-2020,Administración de justicia,,Bizkaia,%,16.3
-2016,Administración de justicia,,Bizkaia,%,10.4
-2018,Administración de justicia,,Bizkaia,%,26.5
-2019,Administración de justicia,,Bizkaia,%,12.5
-2021,Administración de justicia,,Bizkaia,%,21.2
-2017,Administración de justicia,,Gipuzkoa,%,17.8
-2021,Administración de justicia,,Gipuzkoa,%,16.0
-2019,Administración de justicia,,Gipuzkoa,%,27.1
-2023,Administración de justicia,,Gipuzkoa,%,18.6
-2018,Administración de justicia,,Gipuzkoa,%,14.0
-2022,Administración de justicia,,Gipuzkoa,%,16.7
-2020,Administración de justicia,,Gipuzkoa,%,16.0
-2016,Administración de justicia,,Gipuzkoa,%,13.2
-2016,Administración de justicia,Mujer,,%,13.5
-2023,Administración de justicia,Mujer,,%,27.0
-2019,Administración de justicia,Mujer,,%,17.9
-2018,Administración de justicia,Mujer,,%,16.7
-2022,Administración de justicia,Mujer,,%,17.5
-2020,Administración de justicia,Mujer,,%,17.7
-2017,Administración de justicia,Mujer,,%,25.5
-2021,Administración de justicia,Mujer,,%,10.6
-2018,Administración de justicia,Mujer,Araba/Álava,%,14.3
-2020,Administración de justicia,Mujer,Araba/Álava,%,26.7
-2017,Administración de justicia,Mujer,Araba/Álava,%,16.7
-2016,Administración de justicia,Mujer,Araba/Álava,%,11.1
-2019,Administración de justicia,Mujer,Araba/Álava,%,0.0
-2023,Administración de justicia,Mujer,Araba/Álava,%,29.1
-2022,Administración de justicia,Mujer,Araba/Álava,%,11.0
-2021,Administración de justicia,Mujer,Araba/Álava,%,0.0
-2017,Administración de justicia,Mujer,Bizkaia,%,27.8
-2019,Administración de justicia,Mujer,Bizkaia,%,9.1
-2021,Administración de justicia,Mujer,Bizkaia,%,22.8
-2022,Administración de justicia,Mujer,Bizkaia,%,28.4
-2018,Administración de justicia,Mujer,Bizkaia,%,20.0
-2016,Administración de justicia,Mujer,Bizkaia,%,8.3
-2020,Administración de justicia,Mujer,Bizkaia,%,18.2
-2023,Administración de justicia,Mujer,Bizkaia,%,35.9
-2018,Administración de justicia,Mujer,Gipuzkoa,%,14.3
-2016,Administración de justicia,Mujer,Gipuzkoa,%,21.1
-2017,Administración de justicia,Mujer,Gipuzkoa,%,28.6
-2019,Administración de justicia,Mujer,Gipuzkoa,%,25.8
-2020,Administración de justicia,Mujer,Gipuzkoa,%,12.0
-2021,Administración de justicia,Mujer,Gipuzkoa,%,5.0
-2022,Administración de justicia,Mujer,Gipuzkoa,%,11.9
-2023,Administración de justicia,Mujer,Gipuzkoa,%,20.3
-2016,Administración de justicia,Hombre,,%,9.4
-2018,Administración de justicia,Hombre,,%,21.7
-2023,Administración de justicia,Hombre,,%,17.1
-2022,Administración de justicia,Hombre,,%,23.6
-2019,Administración de justicia,Hombre,,%,21.2
-2021,Administración de justicia,Hombre,,%,24.3
-2017,Administración de justicia,Hombre,,%,14.0
-2020,Administración de justicia,Hombre,,%,17.2
-2020,Administración de justicia,Hombre,Araba/Álava,%,16.7
-2023,Administración de justicia,Hombre,Araba/Álava,%,5.2
-2016,Administración de justicia,Hombre,Araba/Álava,%,10.0
-2017,Administración de justicia,Hombre,Araba/Álava,%,28.6
-2019,Administración de justicia,Hombre,Araba/Álava,%,0.0
-2022,Administración de justicia,Hombre,Araba/Álava,%,19.7
-2021,Administración de justicia,Hombre,Araba/Álava,%,14.5
-2018,Administración de justicia,Hombre,Araba/Álava,%,11.1
-2020,Administración de justicia,Hombre,Bizkaia,%,14.8
-2017,Administración de justicia,Hombre,Bizkaia,%,10.5
-2018,Administración de justicia,Hombre,Bizkaia,%,31.0
-2021,Administración de justicia,Hombre,Bizkaia,%,18.8
-2022,Administración de justicia,Hombre,Bizkaia,%,32.0
-2023,Administración de justicia,Hombre,Bizkaia,%,28.9
-2016,Administración de justicia,Hombre,Bizkaia,%,12.5
-2019,Administración de justicia,Hombre,Bizkaia,%,16.7
-2016,Administración de justicia,Hombre,Gipuzkoa,%,5.3
-2018,Administración de justicia,Hombre,Gipuzkoa,%,13.6
-2019,Administración de justicia,Hombre,Gipuzkoa,%,28.6
-2020,Administración de justicia,Hombre,Gipuzkoa,%,20.0
-2021,Administración de justicia,Hombre,Gipuzkoa,%,28.9
-2022,Administración de justicia,Hombre,Gipuzkoa,%,20.7
-2023,Administración de justicia,Hombre,Gipuzkoa,%,16.6
-2017,Administración de justicia,Hombre,Gipuzkoa,%,8.3
-2012,Seguridad ciudadana,,,%,59.3
-2015,Seguridad ciudadana,,,%,60.2
-2011,Seguridad ciudadana,,,%,32.2
-2023,Seguridad ciudadana,,,%,59.5
-2013,Seguridad ciudadana,,,%,53.6
-2021,Seguridad ciudadana,,,%,61.5
-2014,Seguridad ciudadana,,,%,46.1
-2017,Seguridad ciudadana,,,%,66.9
-2018,Seguridad ciudadana,,,%,72.6
-2020,Seguridad ciudadana,,,%,55.3
-2022,Seguridad ciudadana,,,%,56.2
-2016,Seguridad ciudadana,,,%,61.7
+2012,Administración de justicia,,,%,9.5
+2018,Administración de justicia,,,%,19.4
+2014,Administración de justicia,,,%,12.0
 2019,Seguridad ciudadana,,,%,60.2
-2016,Seguridad ciudadana,,Araba/Álava,%,57.9
-2018,Seguridad ciudadana,,Araba/Álava,%,73.7
-2019,Seguridad ciudadana,,Araba/Álava,%,92.3
-2017,Seguridad ciudadana,,Araba/Álava,%,80.8
-2021,Seguridad ciudadana,,Araba/Álava,%,53.1
-2023,Seguridad ciudadana,,Araba/Álava,%,65.7
-2020,Seguridad ciudadana,,Araba/Álava,%,56.0
-2022,Seguridad ciudadana,,Araba/Álava,%,37.0
-2019,Seguridad ciudadana,,Bizkaia,%,50.0
-2022,Seguridad ciudadana,,Bizkaia,%,69.7
-2016,Seguridad ciudadana,,Bizkaia,%,60.0
-2017,Seguridad ciudadana,,Bizkaia,%,51.1
-2020,Seguridad ciudadana,,Bizkaia,%,56.9
-2021,Seguridad ciudadana,,Bizkaia,%,72.2
-2023,Seguridad ciudadana,,Bizkaia,%,61.4
-2018,Seguridad ciudadana,,Bizkaia,%,67.9
-2016,Seguridad ciudadana,,Gipuzkoa,%,65.2
-2017,Seguridad ciudadana,,Gipuzkoa,%,74.5
-2022,Seguridad ciudadana,,Gipuzkoa,%,53.8
-2023,Seguridad ciudadana,,Gipuzkoa,%,56.0
-2019,Seguridad ciudadana,,Gipuzkoa,%,60.7
-2021,Seguridad ciudadana,,Gipuzkoa,%,57.2
-2018,Seguridad ciudadana,,Gipuzkoa,%,77.8
-2020,Seguridad ciudadana,,Gipuzkoa,%,53.6
-2021,Seguridad ciudadana,Mujer,,%,58.0
-2022,Seguridad ciudadana,Mujer,,%,51.7
-2017,Seguridad ciudadana,Mujer,,%,62.7
-2018,Seguridad ciudadana,Mujer,,%,62.5
-2019,Seguridad ciudadana,Mujer,,%,58.3
-2020,Seguridad ciudadana,Mujer,,%,50.0
-2016,Seguridad ciudadana,Mujer,,%,56.9
-2023,Seguridad ciudadana,Mujer,,%,56.4
-2018,Seguridad ciudadana,Mujer,Araba/Álava,%,70.0
-2016,Seguridad ciudadana,Mujer,Araba/Álava,%,44.4
-2017,Seguridad ciudadana,Mujer,Araba/Álava,%,75.0
-2019,Seguridad ciudadana,Mujer,Araba/Álava,%,83.3
-2020,Seguridad ciudadana,Mujer,Araba/Álava,%,57.1
-2021,Seguridad ciudadana,Mujer,Araba/Álava,%,33.4
-2022,Seguridad ciudadana,Mujer,Araba/Álava,%,25.8
-2023,Seguridad ciudadana,Mujer,Araba/Álava,%,70.7
-2016,Seguridad ciudadana,Mujer,Bizkaia,%,50.0
-2017,Seguridad ciudadana,Mujer,Bizkaia,%,44.0
-2020,Seguridad ciudadana,Mujer,Bizkaia,%,50.0
-2021,Seguridad ciudadana,Mujer,Bizkaia,%,66.4
-2023,Seguridad ciudadana,Mujer,Bizkaia,%,51.2
-2022,Seguridad ciudadana,Mujer,Bizkaia,%,62.8
-2018,Seguridad ciudadana,Mujer,Bizkaia,%,47.8
-2019,Seguridad ciudadana,Mujer,Bizkaia,%,43.5
-2016,Seguridad ciudadana,Mujer,Gipuzkoa,%,68.0
-2017,Seguridad ciudadana,Mujer,Gipuzkoa,%,77.3
-2019,Seguridad ciudadana,Mujer,Gipuzkoa,%,64.5
-2021,Seguridad ciudadana,Mujer,Gipuzkoa,%,56.2
-2023,Seguridad ciudadana,Mujer,Gipuzkoa,%,56.1
-2022,Seguridad ciudadana,Mujer,Gipuzkoa,%,52.0
-2020,Seguridad ciudadana,Mujer,Gipuzkoa,%,46.7
-2018,Seguridad ciudadana,Mujer,Gipuzkoa,%,73.9
-2020,Seguridad ciudadana,Hombre,,%,60.9
-2019,Seguridad ciudadana,Hombre,,%,62.1
-2017,Seguridad ciudadana,Hombre,,%,71.2
-2022,Seguridad ciudadana,Hombre,,%,60.6
-2023,Seguridad ciudadana,Hombre,,%,62.9
-2018,Seguridad ciudadana,Hombre,,%,82.0
-2021,Seguridad ciudadana,Hombre,,%,65.6
-2016,Seguridad ciudadana,Hombre,,%,66.7
-2019,Seguridad ciudadana,Hombre,Araba/Álava,%,100.0
-2016,Seguridad ciudadana,Hombre,Araba/Álava,%,70.0
-2018,Seguridad ciudadana,Hombre,Araba/Álava,%,77.8
-2021,Seguridad ciudadana,Hombre,Araba/Álava,%,65.6
-2023,Seguridad ciudadana,Hombre,Araba/Álava,%,62.6
-2017,Seguridad ciudadana,Hombre,Araba/Álava,%,85.7
-2020,Seguridad ciudadana,Hombre,Araba/Álava,%,54.5
-2022,Seguridad ciudadana,Hombre,Araba/Álava,%,49.0
-2020,Seguridad ciudadana,Hombre,Bizkaia,%,63.0
-2022,Seguridad ciudadana,Hombre,Bizkaia,%,78.5
-2017,Seguridad ciudadana,Hombre,Bizkaia,%,60.0
-2018,Seguridad ciudadana,Hombre,Bizkaia,%,83.3
-2019,Seguridad ciudadana,Hombre,Bizkaia,%,57.1
-2021,Seguridad ciudadana,Hombre,Bizkaia,%,80.0
-2016,Seguridad ciudadana,Hombre,Bizkaia,%,69.2
-2023,Seguridad ciudadana,Hombre,Bizkaia,%,76.3
-2016,Seguridad ciudadana,Hombre,Gipuzkoa,%,61.9
-2017,Seguridad ciudadana,Hombre,Gipuzkoa,%,72.0
-2018,Seguridad ciudadana,Hombre,Gipuzkoa,%,81.8
-2019,Seguridad ciudadana,Hombre,Gipuzkoa,%,56.7
-2020,Seguridad ciudadana,Hombre,Gipuzkoa,%,61.5
-2021,Seguridad ciudadana,Hombre,Gipuzkoa,%,58.4
-2022,Seguridad ciudadana,Hombre,Gipuzkoa,%,55.2
-2023,Seguridad ciudadana,Hombre,Gipuzkoa,%,55.8
-2016,Servicios sociales,,,%,60.2
-2013,Servicios sociales,,,%,32.7
-2023,Servicios sociales,,,%,62.2
+2022,Seguridad ciudadana,,,%,56.2
+2014,Seguridad ciudadana,,,%,46.1
+2021,Seguridad ciudadana,,,%,61.5
+2018,Seguridad ciudadana,,,%,72.6
+2023,Seguridad ciudadana,,,%,59.5
+2015,Seguridad ciudadana,,,%,60.2
+2012,Seguridad ciudadana,,,%,59.3
+2013,Seguridad ciudadana,,,%,53.6
+2017,Seguridad ciudadana,,,%,66.9
+2016,Seguridad ciudadana,,,%,61.7
+2020,Seguridad ciudadana,,,%,55.3
+2011,Seguridad ciudadana,,,%,32.2
 2019,Servicios sociales,,,%,57.5
-2014,Servicios sociales,,,%,30.3
-2022,Servicios sociales,,,%,51.6
-2017,Servicios sociales,,,%,57.1
-2011,Servicios sociales,,,%,35.2
-2020,Servicios sociales,,,%,58.3
 2015,Servicios sociales,,,%,36.4
+2023,Servicios sociales,,,%,62.2
+2020,Servicios sociales,,,%,58.3
+2014,Servicios sociales,,,%,30.3
+2013,Servicios sociales,,,%,32.7
+2017,Servicios sociales,,,%,57.1
 2018,Servicios sociales,,,%,60.5
 2012,Servicios sociales,,,%,47.6
+2016,Servicios sociales,,,%,60.2
+2022,Servicios sociales,,,%,51.6
 2021,Servicios sociales,,,%,59.6
-2023,Servicios sociales,,Araba/Álava,%,62.9
-2022,Servicios sociales,,Araba/Álava,%,53.5
-2019,Servicios sociales,,Araba/Álava,%,78.6
-2020,Servicios sociales,,Araba/Álava,%,44.0
-2018,Servicios sociales,,Araba/Álava,%,73.7
-2021,Servicios sociales,,Araba/Álava,%,50.4
-2017,Servicios sociales,,Araba/Álava,%,69.2
-2016,Servicios sociales,,Araba/Álava,%,66.7
-2023,Servicios sociales,,Bizkaia,%,53.9
-2022,Servicios sociales,,Bizkaia,%,60.1
-2021,Servicios sociales,,Bizkaia,%,57.2
-2017,Servicios sociales,,Bizkaia,%,34.1
-2019,Servicios sociales,,Bizkaia,%,48.7
-2018,Servicios sociales,,Bizkaia,%,48.1
-2020,Servicios sociales,,Bizkaia,%,65.3
-2016,Servicios sociales,,Bizkaia,%,42.9
-2022,Servicios sociales,,Gipuzkoa,%,46.0
-2023,Servicios sociales,,Gipuzkoa,%,67.1
-2019,Servicios sociales,,Gipuzkoa,%,58.3
-2021,Servicios sociales,,Gipuzkoa,%,62.5
-2017,Servicios sociales,,Gipuzkoa,%,71.1
-2016,Servicios sociales,,Gipuzkoa,%,74.4
-2020,Servicios sociales,,Gipuzkoa,%,58.5
-2018,Servicios sociales,,Gipuzkoa,%,69.8
-2019,Servicios sociales,Mujer,,%,54.2
-2017,Servicios sociales,Mujer,,%,52.6
-2022,Servicios sociales,Mujer,,%,48.1
-2020,Servicios sociales,Mujer,,%,54.7
-2016,Servicios sociales,Mujer,,%,50.0
-2018,Servicios sociales,Mujer,,%,51.9
-2023,Servicios sociales,Mujer,,%,54.9
-2021,Servicios sociales,Mujer,,%,58.5
-2016,Servicios sociales,Mujer,Araba/Álava,%,55.6
-2023,Servicios sociales,Mujer,Araba/Álava,%,73.0
-2022,Servicios sociales,Mujer,Araba/Álava,%,38.6
-2017,Servicios sociales,Mujer,Araba/Álava,%,75.0
-2018,Servicios sociales,Mujer,Araba/Álava,%,66.7
-2019,Servicios sociales,Mujer,Araba/Álava,%,100.0
-2020,Servicios sociales,Mujer,Araba/Álava,%,40.0
-2021,Servicios sociales,Mujer,Araba/Álava,%,28.9
-2021,Servicios sociales,Mujer,Bizkaia,%,50.4
-2019,Servicios sociales,Mujer,Bizkaia,%,36.4
-2016,Servicios sociales,Mujer,Bizkaia,%,22.7
-2017,Servicios sociales,Mujer,Bizkaia,%,29.2
-2018,Servicios sociales,Mujer,Bizkaia,%,36.4
-2020,Servicios sociales,Mujer,Bizkaia,%,63.6
-2022,Servicios sociales,Mujer,Bizkaia,%,59.8
-2023,Servicios sociales,Mujer,Bizkaia,%,39.4
-2023,Servicios sociales,Mujer,Gipuzkoa,%,60.3
-2016,Servicios sociales,Mujer,Gipuzkoa,%,72.0
-2020,Servicios sociales,Mujer,Gipuzkoa,%,55.6
-2017,Servicios sociales,Mujer,Gipuzkoa,%,66.7
-2018,Servicios sociales,Mujer,Gipuzkoa,%,61.9
-2019,Servicios sociales,Mujer,Gipuzkoa,%,58.1
-2021,Servicios sociales,Mujer,Gipuzkoa,%,66.5
-2022,Servicios sociales,Mujer,Gipuzkoa,%,42.4
-2019,Servicios sociales,Hombre,,%,61.1
-2018,Servicios sociales,Hombre,,%,67.7
-2022,Servicios sociales,Hombre,,%,54.8
-2017,Servicios sociales,Hombre,,%,61.8
-2020,Servicios sociales,Hombre,,%,61.9
-2023,Servicios sociales,Hombre,,%,70.6
-2021,Servicios sociales,Hombre,,%,60.9
-2016,Servicios sociales,Hombre,,%,72.3
-2022,Servicios sociales,Hombre,Araba/Álava,%,69.4
-2016,Servicios sociales,Hombre,Araba/Álava,%,77.8
-2018,Servicios sociales,Hombre,Araba/Álava,%,80.0
-2019,Servicios sociales,Hombre,Araba/Álava,%,62.5
-2020,Servicios sociales,Hombre,Araba/Álava,%,50.0
-2023,Servicios sociales,Hombre,Araba/Álava,%,56.8
-2021,Servicios sociales,Hombre,Araba/Álava,%,62.9
-2017,Servicios sociales,Hombre,Araba/Álava,%,64.3
-2019,Servicios sociales,Hombre,Bizkaia,%,64.7
-2017,Servicios sociales,Hombre,Bizkaia,%,41.2
-2018,Servicios sociales,Hombre,Bizkaia,%,56.7
-2020,Servicios sociales,Hombre,Bizkaia,%,66.7
-2021,Servicios sociales,Hombre,Bizkaia,%,67.0
-2023,Servicios sociales,Hombre,Bizkaia,%,75.9
-2016,Servicios sociales,Hombre,Bizkaia,%,65.0
-2022,Servicios sociales,Hombre,Bizkaia,%,60.4
-2016,Servicios sociales,Hombre,Gipuzkoa,%,77.8
-2017,Servicios sociales,Hombre,Gipuzkoa,%,75.0
-2018,Servicios sociales,Hombre,Gipuzkoa,%,77.3
-2019,Servicios sociales,Hombre,Gipuzkoa,%,58.6
-2021,Servicios sociales,Hombre,Gipuzkoa,%,57.1
-2022,Servicios sociales,Hombre,Gipuzkoa,%,48.5
-2023,Servicios sociales,Hombre,Gipuzkoa,%,75.2
-2020,Servicios sociales,Hombre,Gipuzkoa,%,61.5
+2011,Servicios sociales,,,%,35.2
+2016,Transporte público,,,%,83.9
+2011,Transporte público,,,%,78.1
+2015,Transporte público,,,%,83.2
 2014,Transporte público,,,%,72.6
 2019,Transporte público,,,%,86.3
-2016,Transporte público,,,%,83.9
-2022,Transporte público,,,%,81.0
-2017,Transporte público,,,%,87.9
-2012,Transporte público,,,%,78.0
 2018,Transporte público,,,%,83.1
-2015,Transporte público,,,%,83.2
-2021,Transporte público,,,%,85.2
 2013,Transporte público,,,%,70.2
-2011,Transporte público,,,%,78.1
-2020,Transporte público,,,%,82.9
+2022,Transporte público,,,%,81.0
 2023,Transporte público,,,%,81.2
-2022,Transporte público,,Araba/Álava,%,63.6
-2017,Transporte público,,Araba/Álava,%,88.0
-2016,Transporte público,,Araba/Álava,%,68.4
-2021,Transporte público,,Araba/Álava,%,83.4
-2019,Transporte público,,Araba/Álava,%,78.6
-2023,Transporte público,,Araba/Álava,%,82.9
-2020,Transporte público,,Araba/Álava,%,72.0
-2018,Transporte público,,Araba/Álava,%,76.5
-2017,Transporte público,,Bizkaia,%,86.0
-2021,Transporte público,,Bizkaia,%,72.7
-2020,Transporte público,,Bizkaia,%,88.0
-2019,Transporte público,,Bizkaia,%,86.0
-2016,Transporte público,,Bizkaia,%,90.0
-2023,Transporte público,,Bizkaia,%,74.2
-2018,Transporte público,,Bizkaia,%,80.0
-2022,Transporte público,,Bizkaia,%,77.5
-2023,Transporte público,,Gipuzkoa,%,84.6
-2020,Transporte público,,Gipuzkoa,%,83.3
-2017,Transporte público,,Gipuzkoa,%,89.6
-2018,Transporte público,,Gipuzkoa,%,89.1
-2021,Transporte público,,Gipuzkoa,%,91.8
-2016,Transporte público,,Gipuzkoa,%,83.7
-2019,Transporte público,,Gipuzkoa,%,88.3
-2022,Transporte público,,Gipuzkoa,%,87.9
-2019,Transporte público,Mujer,,%,87.1
-2023,Transporte público,Mujer,,%,80.8
-2021,Transporte público,Mujer,,%,83.7
-2022,Transporte público,Mujer,,%,78.0
-2020,Transporte público,Mujer,,%,83.3
-2016,Transporte público,Mujer,,%,86.9
-2018,Transporte público,Mujer,,%,86.0
-2017,Transporte público,Mujer,,%,86.2
-2020,Transporte público,Mujer,Araba/Álava,%,76.9
-2022,Transporte público,Mujer,Araba/Álava,%,58.8
-2023,Transporte público,Mujer,Araba/Álava,%,72.3
-2018,Transporte público,Mujer,Araba/Álava,%,87.5
-2019,Transporte público,Mujer,Araba/Álava,%,66.7
-2021,Transporte público,Mujer,Araba/Álava,%,70.9
-2016,Transporte público,Mujer,Araba/Álava,%,66.7
-2017,Transporte público,Mujer,Araba/Álava,%,81.8
-2017,Transporte público,Mujer,Bizkaia,%,78.3
-2016,Transporte público,Mujer,Bizkaia,%,91.7
-2019,Transporte público,Mujer,Bizkaia,%,82.6
-2020,Transporte público,Mujer,Bizkaia,%,87.5
-2022,Transporte público,Mujer,Bizkaia,%,74.6
-2018,Transporte público,Mujer,Bizkaia,%,76.0
-2023,Transporte público,Mujer,Bizkaia,%,73.9
-2021,Transporte público,Mujer,Bizkaia,%,68.4
-2023,Transporte público,Mujer,Gipuzkoa,%,87.4
-2017,Transporte público,Mujer,Gipuzkoa,%,95.8
-2021,Transporte público,Mujer,Gipuzkoa,%,92.6
-2016,Transporte público,Mujer,Gipuzkoa,%,89.3
-2018,Transporte público,Mujer,Gipuzkoa,%,95.8
-2019,Transporte público,Mujer,Gipuzkoa,%,93.9
-2020,Transporte público,Mujer,Gipuzkoa,%,82.8
-2022,Transporte público,Mujer,Gipuzkoa,%,86.0
-2022,Transporte público,Hombre,,%,84.2
-2020,Transporte público,Hombre,,%,82.5
-2018,Transporte público,Hombre,,%,80.3
-2016,Transporte público,Hombre,,%,80.7
-2019,Transporte público,Hombre,,%,85.5
-2021,Transporte público,Hombre,,%,86.9
-2017,Transporte público,Hombre,,%,89.7
-2023,Transporte público,Hombre,,%,81.8
-2019,Transporte público,Hombre,Araba/Álava,%,87.5
-2021,Transporte público,Hombre,Araba/Álava,%,91.4
-2018,Transporte público,Hombre,Araba/Álava,%,66.7
-2022,Transporte público,Hombre,Araba/Álava,%,68.6
-2016,Transporte público,Hombre,Araba/Álava,%,70.0
-2020,Transporte público,Hombre,Araba/Álava,%,66.7
-2023,Transporte público,Hombre,Araba/Álava,%,89.8
-2017,Transporte público,Hombre,Araba/Álava,%,92.9
-2016,Transporte público,Hombre,Bizkaia,%,88.5
-2018,Transporte público,Hombre,Bizkaia,%,83.3
-2019,Transporte público,Hombre,Bizkaia,%,90.0
-2020,Transporte público,Hombre,Bizkaia,%,88.5
-2022,Transporte público,Hombre,Bizkaia,%,81.1
-2023,Transporte público,Hombre,Bizkaia,%,74.8
-2021,Transporte público,Hombre,Bizkaia,%,77.6
-2017,Transporte público,Hombre,Bizkaia,%,95.0
-2019,Transporte público,Hombre,Gipuzkoa,%,81.5
-2016,Transporte público,Hombre,Gipuzkoa,%,76.2
-2017,Transporte público,Hombre,Gipuzkoa,%,83.3
-2018,Transporte público,Hombre,Gipuzkoa,%,81.8
-2020,Transporte público,Hombre,Gipuzkoa,%,84.0
-2022,Transporte público,Hombre,Gipuzkoa,%,89.6
-2023,Transporte público,Hombre,Gipuzkoa,%,81.4
-2021,Transporte público,Hombre,Gipuzkoa,%,90.8
-2019,Obras públicas,,,%,65.2
-2022,Obras públicas,,,%,51.2
-2013,Obras públicas,,,%,50.0
+2021,Transporte público,,,%,85.2
+2017,Transporte público,,,%,87.9
+2020,Transporte público,,,%,82.9
+2012,Transporte público,,,%,78.0
 2012,Obras públicas,,,%,57.3
-2017,Obras públicas,,,%,66.4
-2014,Obras públicas,,,%,52.3
-2018,Obras públicas,,,%,62.8
-2016,Obras públicas,,,%,58.2
+2013,Obras públicas,,,%,50.0
 2011,Obras públicas,,,%,59.8
-2023,Obras públicas,,,%,66.5
-2020,Obras públicas,,,%,56.9
-2021,Obras públicas,,,%,63.4
 2015,Obras públicas,,,%,55.0
-2021,Obras públicas,,Araba/Álava,%,29.2
-2020,Obras públicas,,Araba/Álava,%,51.9
-2018,Obras públicas,,Araba/Álava,%,47.4
-2019,Obras públicas,,Araba/Álava,%,64.3
-2022,Obras públicas,,Araba/Álava,%,33.5
-2016,Obras públicas,,Araba/Álava,%,52.6
-2023,Obras públicas,,Araba/Álava,%,59.5
-2017,Obras públicas,,Araba/Álava,%,72.0
-2017,Obras públicas,,Bizkaia,%,76.2
-2019,Obras públicas,,Bizkaia,%,64.3
-2023,Obras públicas,,Bizkaia,%,52.7
-2021,Obras públicas,,Bizkaia,%,65.8
-2018,Obras públicas,,Bizkaia,%,72.5
-2022,Obras públicas,,Bizkaia,%,51.0
-2016,Obras públicas,,Bizkaia,%,54.3
-2020,Obras públicas,,Bizkaia,%,68.1
-2021,Obras públicas,,Gipuzkoa,%,68.3
-2017,Obras públicas,,Gipuzkoa,%,54.3
-2018,Obras públicas,,Gipuzkoa,%,58.1
-2019,Obras públicas,,Gipuzkoa,%,66.1
-2022,Obras públicas,,Gipuzkoa,%,56.4
-2016,Obras públicas,,Gipuzkoa,%,64.4
-2023,Obras públicas,,Gipuzkoa,%,77.7
-2020,Obras públicas,,Gipuzkoa,%,50.0
-2020,Obras públicas,Mujer,,%,52.3
-2019,Obras públicas,Mujer,,%,62.5
-2022,Obras públicas,Mujer,,%,51.1
-2023,Obras públicas,Mujer,,%,64.1
-2017,Obras públicas,Mujer,,%,66.1
-2021,Obras públicas,Mujer,,%,64.0
-2018,Obras públicas,Mujer,,%,56.6
-2016,Obras públicas,Mujer,,%,56.4
-2017,Obras públicas,Mujer,Araba/Álava,%,45.5
-2016,Obras públicas,Mujer,Araba/Álava,%,55.6
-2018,Obras públicas,Mujer,Araba/Álava,%,50.0
-2019,Obras públicas,Mujer,Araba/Álava,%,66.7
-2020,Obras públicas,Mujer,Araba/Álava,%,53.3
-2022,Obras públicas,Mujer,Araba/Álava,%,30.4
-2023,Obras públicas,Mujer,Araba/Álava,%,61.4
-2021,Obras públicas,Mujer,Araba/Álava,%,15.4
-2022,Obras públicas,Mujer,Bizkaia,%,52.5
-2019,Obras públicas,Mujer,Bizkaia,%,52.2
-2021,Obras públicas,Mujer,Bizkaia,%,72.9
-2020,Obras públicas,Mujer,Bizkaia,%,60.0
-2016,Obras públicas,Mujer,Bizkaia,%,38.1
-2018,Obras públicas,Mujer,Bizkaia,%,63.6
-2023,Obras públicas,Mujer,Bizkaia,%,46.1
-2017,Obras públicas,Mujer,Bizkaia,%,78.3
-2017,Obras públicas,Mujer,Gipuzkoa,%,63.6
-2016,Obras públicas,Mujer,Gipuzkoa,%,72.0
-2018,Obras públicas,Mujer,Gipuzkoa,%,52.4
-2019,Obras públicas,Mujer,Gipuzkoa,%,70.4
-2020,Obras públicas,Mujer,Gipuzkoa,%,46.7
-2022,Obras públicas,Mujer,Gipuzkoa,%,56.9
-2023,Obras públicas,Mujer,Gipuzkoa,%,77.3
-2021,Obras públicas,Mujer,Gipuzkoa,%,65.0
-2019,Obras públicas,Hombre,,%,67.9
-2021,Obras públicas,Hombre,,%,62.8
-2016,Obras públicas,Hombre,,%,60.0
-2022,Obras públicas,Hombre,,%,51.3
-2020,Obras públicas,Hombre,,%,61.5
-2017,Obras públicas,Hombre,,%,66.7
-2023,Obras públicas,Hombre,,%,69.1
-2018,Obras públicas,Hombre,,%,68.3
-2019,Obras públicas,Hombre,Araba/Álava,%,62.5
-2021,Obras públicas,Hombre,Araba/Álava,%,37.3
-2023,Obras públicas,Hombre,Araba/Álava,%,58.4
-2020,Obras públicas,Hombre,Araba/Álava,%,50.0
-2016,Obras públicas,Hombre,Araba/Álava,%,50.0
-2018,Obras públicas,Hombre,Araba/Álava,%,44.4
-2022,Obras públicas,Hombre,Araba/Álava,%,36.6
-2017,Obras públicas,Hombre,Araba/Álava,%,92.9
-2016,Obras públicas,Hombre,Bizkaia,%,68.0
-2017,Obras públicas,Hombre,Bizkaia,%,73.7
-2018,Obras públicas,Hombre,Bizkaia,%,79.3
-2019,Obras públicas,Hombre,Bizkaia,%,78.9
-2020,Obras públicas,Hombre,Bizkaia,%,74.1
-2021,Obras públicas,Hombre,Bizkaia,%,56.9
-2022,Obras públicas,Hombre,Bizkaia,%,49.1
-2023,Obras públicas,Hombre,Bizkaia,%,62.8
-2017,Obras públicas,Hombre,Gipuzkoa,%,45.8
-2016,Obras públicas,Hombre,Gipuzkoa,%,55.0
-2018,Obras públicas,Hombre,Gipuzkoa,%,63.6
-2020,Obras públicas,Hombre,Gipuzkoa,%,53.8
-2022,Obras públicas,Hombre,Gipuzkoa,%,56.0
-2023,Obras públicas,Hombre,Gipuzkoa,%,78.1
-2021,Obras públicas,Hombre,Gipuzkoa,%,72.2
-2019,Obras públicas,Hombre,Gipuzkoa,%,62.1
+2022,Obras públicas,,,%,51.2
+2017,Obras públicas,,,%,66.4
+2019,Obras públicas,,,%,65.2
+2021,Obras públicas,,,%,63.4
+2016,Obras públicas,,,%,58.2
+2023,Obras públicas,,,%,66.5
+2018,Obras públicas,,,%,62.8
+2014,Obras públicas,,,%,52.3
+2020,Obras públicas,,,%,56.9
+2021,Ayuda a personas dependientes,,,%,40.5
+2017,Ayuda a personas dependientes,,,%,29.8
+2016,Ayuda a personas dependientes,,,%,27.0
+2012,Ayuda a personas dependientes,,,%,28.7
+2011,Ayuda a personas dependientes,,,%,37.3
+2013,Ayuda a personas dependientes,,,%,24.8
+2015,Ayuda a personas dependientes,,,%,22.3
+2014,Ayuda a personas dependientes,,,%,12.6
+2018,Ayuda a personas dependientes,,,%,43.6
+2022,Ayuda a personas dependientes,,,%,40.8
 2023,Ayuda a personas dependientes,,,%,38.7
 2020,Ayuda a personas dependientes,,,%,40.5
 2019,Ayuda a personas dependientes,,,%,42.2
-2021,Ayuda a personas dependientes,,,%,40.5
-2011,Ayuda a personas dependientes,,,%,37.3
-2014,Ayuda a personas dependientes,,,%,12.6
-2016,Ayuda a personas dependientes,,,%,27.0
-2013,Ayuda a personas dependientes,,,%,24.8
-2022,Ayuda a personas dependientes,,,%,40.8
-2018,Ayuda a personas dependientes,,,%,43.6
-2012,Ayuda a personas dependientes,,,%,28.7
-2015,Ayuda a personas dependientes,,,%,22.3
-2017,Ayuda a personas dependientes,,,%,29.8
-2023,Ayuda a personas dependientes,,Araba/Álava,%,36.6
-2021,Ayuda a personas dependientes,,Araba/Álava,%,41.0
-2019,Ayuda a personas dependientes,,Araba/Álava,%,66.7
-2022,Ayuda a personas dependientes,,Araba/Álava,%,49.4
-2016,Ayuda a personas dependientes,,Araba/Álava,%,6.7
-2018,Ayuda a personas dependientes,,Araba/Álava,%,37.5
-2020,Ayuda a personas dependientes,,Araba/Álava,%,46.4
-2017,Ayuda a personas dependientes,,Araba/Álava,%,13.0
-2020,Ayuda a personas dependientes,,Bizkaia,%,34.8
-2016,Ayuda a personas dependientes,,Bizkaia,%,23.8
-2019,Ayuda a personas dependientes,,Bizkaia,%,30.8
-2022,Ayuda a personas dependientes,,Bizkaia,%,41.1
-2018,Ayuda a personas dependientes,,Bizkaia,%,46.5
-2021,Ayuda a personas dependientes,,Bizkaia,%,47.9
-2017,Ayuda a personas dependientes,,Bizkaia,%,25.6
-2023,Ayuda a personas dependientes,,Bizkaia,%,43.5
-2022,Ayuda a personas dependientes,,Gipuzkoa,%,38.0
-2017,Ayuda a personas dependientes,,Gipuzkoa,%,42.9
-2019,Ayuda a personas dependientes,,Gipuzkoa,%,44.8
-2018,Ayuda a personas dependientes,,Gipuzkoa,%,42.9
-2016,Ayuda a personas dependientes,,Gipuzkoa,%,37.2
-2021,Ayuda a personas dependientes,,Gipuzkoa,%,36.8
-2023,Ayuda a personas dependientes,,Gipuzkoa,%,36.7
-2020,Ayuda a personas dependientes,,Gipuzkoa,%,42.3
-2017,Ayuda a personas dependientes,Mujer,,%,27.5
-2022,Ayuda a personas dependientes,Mujer,,%,35.0
-2018,Ayuda a personas dependientes,Mujer,,%,42.0
-2016,Ayuda a personas dependientes,Mujer,,%,22.2
-2021,Ayuda a personas dependientes,Mujer,,%,42.8
-2023,Ayuda a personas dependientes,Mujer,,%,39.3
-2019,Ayuda a personas dependientes,Mujer,,%,38.3
-2020,Ayuda a personas dependientes,Mujer,,%,32.3
-2016,Ayuda a personas dependientes,Mujer,Araba/Álava,%,14.3
-2018,Ayuda a personas dependientes,Mujer,Araba/Álava,%,33.3
-2017,Ayuda a personas dependientes,Mujer,Araba/Álava,%,10.0
-2019,Ayuda a personas dependientes,Mujer,Araba/Álava,%,66.7
-2020,Ayuda a personas dependientes,Mujer,Araba/Álava,%,31.3
-2022,Ayuda a personas dependientes,Mujer,Araba/Álava,%,51.5
-2023,Ayuda a personas dependientes,Mujer,Araba/Álava,%,33.7
-2021,Ayuda a personas dependientes,Mujer,Araba/Álava,%,44.3
-2016,Ayuda a personas dependientes,Mujer,Bizkaia,%,12.5
-2023,Ayuda a personas dependientes,Mujer,Bizkaia,%,45.1
-2018,Ayuda a personas dependientes,Mujer,Bizkaia,%,42.1
-2019,Ayuda a personas dependientes,Mujer,Bizkaia,%,27.3
-2017,Ayuda a personas dependientes,Mujer,Bizkaia,%,19.0
-2021,Ayuda a personas dependientes,Mujer,Bizkaia,%,55.6
-2022,Ayuda a personas dependientes,Mujer,Bizkaia,%,36.2
-2020,Ayuda a personas dependientes,Mujer,Bizkaia,%,28.6
-2022,Ayuda a personas dependientes,Mujer,Gipuzkoa,%,28.7
-2023,Ayuda a personas dependientes,Mujer,Gipuzkoa,%,37.0
-2020,Ayuda a personas dependientes,Mujer,Gipuzkoa,%,35.7
-2019,Ayuda a personas dependientes,Mujer,Gipuzkoa,%,40.6
-2018,Ayuda a personas dependientes,Mujer,Gipuzkoa,%,45.5
-2021,Ayuda a personas dependientes,Mujer,Gipuzkoa,%,35.8
-2016,Ayuda a personas dependientes,Mujer,Gipuzkoa,%,34.8
-2017,Ayuda a personas dependientes,Mujer,Gipuzkoa,%,45.0
-2016,Ayuda a personas dependientes,Hombre,,%,32.6
-2021,Ayuda a personas dependientes,Hombre,,%,37.9
-2023,Ayuda a personas dependientes,Hombre,,%,38.1
-2022,Ayuda a personas dependientes,Hombre,,%,47.2
-2018,Ayuda a personas dependientes,Hombre,,%,45.1
-2019,Ayuda a personas dependientes,Hombre,,%,46.9
-2017,Ayuda a personas dependientes,Hombre,,%,32.1
-2020,Ayuda a personas dependientes,Hombre,,%,49.2
-2023,Ayuda a personas dependientes,Hombre,Araba/Álava,%,38.6
-2020,Ayuda a personas dependientes,Hombre,Araba/Álava,%,66.7
-2022,Ayuda a personas dependientes,Hombre,Araba/Álava,%,47.2
-2021,Ayuda a personas dependientes,Hombre,Araba/Álava,%,39.0
-2019,Ayuda a personas dependientes,Hombre,Araba/Álava,%,66.7
-2017,Ayuda a personas dependientes,Hombre,Araba/Álava,%,15.4
-2018,Ayuda a personas dependientes,Hombre,Araba/Álava,%,42.9
-2018,Ayuda a personas dependientes,Hombre,Bizkaia,%,50.0
-2020,Ayuda a personas dependientes,Hombre,Bizkaia,%,40.0
-2016,Ayuda a personas dependientes,Hombre,Bizkaia,%,38.9
-2022,Ayuda a personas dependientes,Hombre,Bizkaia,%,50.0
-2017,Ayuda a personas dependientes,Hombre,Bizkaia,%,33.3
-2019,Ayuda a personas dependientes,Hombre,Bizkaia,%,35.3
-2021,Ayuda a personas dependientes,Hombre,Bizkaia,%,36.8
-2023,Ayuda a personas dependientes,Hombre,Bizkaia,%,41.1
-2020,Ayuda a personas dependientes,Hombre,Gipuzkoa,%,50.0
-2017,Ayuda a personas dependientes,Hombre,Gipuzkoa,%,40.9
-2023,Ayuda a personas dependientes,Hombre,Gipuzkoa,%,36.2
-2022,Ayuda a personas dependientes,Hombre,Gipuzkoa,%,46.2
-2021,Ayuda a personas dependientes,Hombre,Gipuzkoa,%,38.1
-2018,Ayuda a personas dependientes,Hombre,Gipuzkoa,%,40.0
-2016,Ayuda a personas dependientes,Hombre,Gipuzkoa,%,40.0
-2019,Ayuda a personas dependientes,Hombre,Gipuzkoa,%,50.0
