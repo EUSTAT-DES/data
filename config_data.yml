@@ -147,7 +147,7 @@ docs_metadata_fields:
       label: OCECA
     - key: national_data_updated_date
       label: Fecha última actualización datos
-    - key: data_non_statistical 
+    - key: data_non_statistical
       label: Indicador no estadístico
 # Indicator options    
 indicator_options:
