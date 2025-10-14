@@ -8,10 +8,29 @@ meta_global: meta_largo.9-4-titulo
 #  indicador_onu_global: indicador_largo.9-4-1-titulo
 
 
-definicion: >- 
-  Isuritako karbono dioxidoa ($CO_2$), barne-produktu gordin errealeko unitate bakoitzeko
+definicion: | 
+  Isuritako karbono dioxidoa ($CO_2$)
+
+  Eskuragarri dauden serieak:
+
+  <b> - Isuritako karbono dioxidoa ($CO_2$):</b> 
+  Erregaiak erretzean isuritako karbono dioxidoa
+  
+  <b> - Karbono dioxido isuriak balio erantsiaren unitateko:</b> 
+  Erregaiak erretzean isuritako karbono dioxidoa eta ekonomia osoaren balio erantsiaren arteko erlazioa
+  
+  <b> - Karbono dioxido isuriak manufaktura-sektoreko balio erantsiaren unitateko:</b> 
+  Erregaiak erretzean isuritako karbono dioxidoa eta manufaktura-sektorearen balio erantsiaren arteko erlazioa
+
 
 formula:  |
+
+  <b>Isuritako $CO_2$a</b>
+
+  $ECO2^{t} =$ isuritako $CO_2$a $t$ urtean
+
+   <br>
+
   <b>$CO_2$ isuriak balio erantsiaren unitateko</b>
 
   $$PPIBECO2^{t} = \frac{ECO2^{t}}{PIB_{2022}^{t}} $$
@@ -75,7 +94,9 @@ justificacion_global: |
   Iturria: Nazio Batuen Estatistika Sekzioa 
 
 
-dato_global: | 
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.4.1&seriesCode=EN_ATM_CO2&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=TOTAL"> Erregaiak erretzean isuritako karbono dioxidoa (milioi tonatan) EN_ATM_CO2</a> UNSTATS 
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.4.1&seriesCode=EN_ATM_CO2GDP&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total"> Karbono dioxidoaren isuriak, Eros Ahalmenaren Parekotasunean, BPGaren unitateko (CO2 kilogramoak 2021eko AEBetako dolar konstante bakoitzeko) EN_ATM_CO2GDP</a> UNSTATS
 

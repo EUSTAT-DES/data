@@ -67,7 +67,7 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 8-10-2-titulo: "Kontu korrontea duten 18 eta 79 urte bitarteko pertsonen proportzioa"
 8-b-1-titulo: "Administrazio publiko autonomikoek enplegua sustatzeko egindako gastua"
 
-9-4-E1-titulo: "Industriaren emisio atmosferikoen intentsitatea (EBren sdg_09_70 adierazlea)" 
+9-4-E1-titulo: "Manufaktura-industriaren emisio atmosferikoen intentsitatea (EBren sdg_09_70 adierazlea)" 
 
 10-2-1-titulo: "Diru-sarreren medianaren %50etik behera bizi diren pertsonen proportzioa"
 10-3-1-titulo: "Diskriminatuta sentitzen diren pertsonen prebalentzia ( %) (adinagatik, sexuagatik, jaioterriagatik...), sexuaren arabera"
@@ -162,8 +162,12 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 1-5-4-contenido: "Euskal Autonomia Erkidegoan larrialdi-plan bat eta hiru lurralde-plan daude, bat lurralde historiko bakoitzeko. Beraz, udalerrien % 100 lurraldeko larrialdi-plan baten babespean daude."
 1-a-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
-2-1-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+2-1-1-contenido: |
+  Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adierazlearen metodologiarekin, baina hainbat zantzuk adierazten dutenaren arabera, benetako datua 0tik oso hurbil dago
+
 2-1-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+2-2-1-contenido: |
+  Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adierazlearen metodologiarekin, baina hainbat zantzuk adierazten dutenaren arabera, benetako datua 0tik oso hurbil dago
 2-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 2-2-E1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 2-3-1-contenido: "<b>Xedea:</b> Nekazaritzako produktibitatea eta elikagai-ekoizle txikien diru-sarrerak bikoiztea"
@@ -180,7 +184,7 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 3-2-2-contenido: "<b>Xedea:</b> Bizirik jaiotako 1.000 haurreko 12ra murriztea, gutxienez"
 3-3-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 3-3-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
-3-3-3-contenido: "<b>Ez aplikagarria:</b> Euskal Autonomia Erkidegoa ez da gaur egun malariaren transmisio-gunea"
+3-3-3-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 3-3-4-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 3-4-1-contenido: "<b>Xedea:</b> Gaixotasun ez-kutsakorren ondoriozko hilkortasun goiztiarra heren bat murriztea" 
 3-4-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
@@ -193,6 +197,8 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 3-7-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 3-8-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 3-8-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+3-9-2-contenido: |
+  Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adierazlearen metodologiarekin, baina hainbat zantzuk adierazten dutenaren arabera, benetako datua 0tik oso hurbil dago
 3-9-3-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 3-a-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 3-b-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
@@ -232,7 +238,6 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
   2006ko otsailean, lankidetza-akordioa sinatu zen Toulousen, mugaren bi aldeetako arro hidrografikoetan hartutako neurriak ahalik eta ondoen koordinatzeko, Uraren Esparru Zuzentaraua (UEZ) aplikatuz, eta administrazio-lankidetza erregularra ezartzeko"
 6-b-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
-
 7-1-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 7-1-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 7-2-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
@@ -248,6 +253,8 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 8-5-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 8-5-E1-contenido: "<b>Nahi den norabidea:</b> Okupazio-tasa seriean, Europaren helburua 2030erako % 78ra iristea da. Bestalde, Genero-arrakala seriean, urte horretan bertan aldea gehienez ehuneko 5,8 puntura murriztea da helburua."
 8-6-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+8-7-1-contenido: |
+  Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adierazlearen metodologiarekin, baina hainbat zantzuk adierazten dutenaren arabera, benetako datua 0tik oso hurbil dago
 8-8-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 8-9-1-contenido: "Ezin da ebaluatu. Aurrerapena ebaluatzeko, adierazlea turismoaren 
   alderdi sozialei (adibidez, enplegua, etab) eta ingurumenekoei (energiaren erabilera, 
@@ -346,7 +353,10 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 15-8-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
 16-1-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
-16-1-2-contenido: "Euskal Autonomia Erkidegoa ez dago Giza Eskubideen aldeko Nazio Batuen Goi Komisarioaren Bulegoak (GENBGK) adierazle horretarako aintzat hartutako gatazka armatuen egoeren zerrendan"
+16-1-2-contenido: |
+  Euskal Autonomia Erkidegoa ez dago Giza Eskubideen aldeko Nazio Batuen Goi Komisarioaren Bulegoak (GENBGK) adierazle horretarako aintzat hartutako gatazka armatuen egoeren zerrendan. 
+  Beraz, adierazlearen metodologiarekin estatistika jarraitu eta ofizialik ez dagoen arren, datua 0 dela baieztatu daiteke. 
+  
 16-1-4-contenido: "<b>Nahi den norabidea:</b> Igoera"
 16-1-E1-contenido:  "<b>Nahi den norabidea:</b> Jaitsiera"
 16-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
@@ -354,6 +364,8 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 16-6-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 16-7-1-contenido: "<b>Nahi den norabidea:</b> Helburua 1 da, baina egokitzat jotzen da balioa  0,8-1,2 bitartekoa bada"
 16-9-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+16-10-1-contenido: |
+  Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adierazlearen metodologiarekin, baina hainbat zantzuk adierazten dutenaren arabera, benetako datua 0tik oso hurbil dago
 
 17-1-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 17-1-2-contenido: "<b>Nahi den norabidea:</b> Igoera"

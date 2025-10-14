@@ -42,7 +42,8 @@ formula:  |
 
   $GEI^{2005} =$ emisiones de gases de efecto invernadero en el año 2005
 
-desagregacion:
+desagregacion: |
+  Sector de actividad emisor
 
 observaciones: >-
 
@@ -91,5 +92,4 @@ comparabilidad: >-
   Naciones Unidas. Se presentan, además, otras series relacionadas con los objetivos europeos.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-13-02-02.pdf">Metadatos 13-2-2.pdf</a> (solo en inglés)'
-
 

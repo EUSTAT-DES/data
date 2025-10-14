@@ -67,7 +67,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 8-10-2-titulo: "Proportion of people aged 18-79 who have a checking account"
 8-b-1-titulo: "Spending by regional public administrations on employment promotion"
  
-9-4-E1-titulo: "Air emission intensity from industry (EU indicator sdg_09_70)" 
+9-4-E1-titulo: "Air emission intensity from the manufacturing industry (EU indicator sdg_09_70)" 
 
 10-2-1-titulo: "Proportion of people living below 50% of the median income"
 10-3-1-titulo: "Prevalence (%) of people who feel discriminated against (due to their age, sex, place of birth, etc.) by sex"
@@ -157,8 +157,11 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 1-5-4-contenido: "In the Basque Country, there is one regional emergency plan and three provincial emergency plans, one for each province. Therefore, 100% of municipalities are under the umbrella of a provincial emergency plan."
 1-a-2-contenido: "<b>Desired direction:</b> Increase"
 
-2-1-1-contenido: "<b>Desired direction:</b> Decrease"
+2-1-1-contenido: |
+  The Basque Country does not produce continuous official statistics using the indicator methodology, but wide ranging evidence allows us to estimate that the actual figure is very close to 0
 2-1-2-contenido: "<b>Desired direction:</b> Decrease"
+2-2-1-contenido: |
+  The Basque Country does not produce continuous official statistics using the indicator methodology, but wide ranging evidence allows us to estimate that the actual figure is very close to 0
 2-2-2-contenido: "<b>Desired direction:</b> Decrease"
 2-2-E1-contenido: "<b>Desired direction:</b> Decrease"
 2-3-1-contenido: "<b>Target:</b> Double agricultural productivity and the income of small food producers"
@@ -176,7 +179,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 3-2-2-contenido: "<b>Target:</b> Reduce to at least to 12 per 1,000 live births"
 3-3-1-contenido: "<b>Desired direction:</b> Decrease"
 3-3-2-contenido: "<b>Desired direction:</b> Decrease"
-3-3-3-contenido: "<b>Not applicable:</b> The Autonomous Community of the Basque Country is not currently a malaria transmission area."
+3-3-3-contenido: "<b>Desired direction:</b> Decrease"
 3-3-4-contenido: "<b>Desired direction:</b> Decrease"
 3-4-1-contenido: "<b>Target:</b> Reduce by one third premature mortality from non-communicable diseases"
 3-4-2-contenido: "<b>Desired direction:</b> Decrease"
@@ -189,6 +192,8 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 3-7-2-contenido: "<b>Desired direction:</b> Decrease"
 3-8-1-contenido: "<b>Desired direction:</b> Increase"
 3-8-2-contenido: "<b>Desired direction:</b> Decrease"
+3-9-2-contenido: |
+  The Basque Country does not produce continuous official statistics using the indicator methodology, but wide ranging evidence allows us to estimate that the actual figure is very close to 0
 3-9-3-contenido: "<b>Desired direction:</b> Decrease"
 3-a-1-contenido: "<b>Desired direction:</b> Decrease"
 3-b-1-contenido: "<b>Desired direction:</b> Increase"
@@ -226,7 +231,6 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 6-5-2-contenido: "Integrated river and lake management is organized into international commissions for entire river basins in the case of transboundary waters. The commissions' activities are based on international agreements. Part of the Basque Country is located in the Garonne-Cantabrian-Ebro international river basin. In February 2006, a cooperation agreement was signed in Toulouse to coordinate, as effectively as possible, the measures taken in the river basins located on both sides of the border, in implementation of the Water Framework Directive (WFD), as well as to establish regular administrative cooperation."
 6-b-1-contenido: "<b>Desired direction:</b> Increase"
 
-
 7-1-1-contenido: "<b>Desired direction:</b> Increase"
 7-1-2-contenido: "<b>Desired direction:</b> Increase"
 7-2-1-contenido: "<b>Desired direction:</b> Increase"
@@ -242,6 +246,8 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 8-5-2-contenido: "<b>Desired direction:</b> Decrease"
 8-5-E1-contenido: "<b>Desired direction:</b> In the Employment Rate series, the European target is to reach 78% by 2030. In the Gender Gap series, the goal is to reduce the difference to a maximum of 5.8 percentage points in the same year."
 8-6-1-contenido: "<b>Desired direction:</b> The objective set at European level is that, by 2030, the value of the indicator corresponding to young people aged between 15 and 29 years does not exceed 9%."
+8-7-1-contenido: |
+  The Basque Country does not produce continuous official statistics using the indicator methodology, but wide ranging evidence allows us to estimate that the actual figure is very close to 0
 8-8-1-contenido: "<b>Desired direction:</b> Decrease"
 8-9-1-contenido: "Not evaluable. To assess progress, the indicator should be complemented with additional 
   indicators on the social (e.g., employment, etc) and environmental (energy use, GHG emissions, etc) 
@@ -336,7 +342,10 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 15-8-1-contenido: "<b>Desired direction:</b> Increase"
 
 16-1-1-contenido: "<b>Desired direction:</b> Decrease"
-16-1-2-contenido: "The Basque Country is not on the list of armed conflict situations considered for this indicator by the Office of the United Nations High Commissioner for Human Rights (OHCHR)."
+16-1-2-contenido: |
+  The Basque Country is not on the list of armed conflict situations considered for this indicator by the Office of the United Nations High Commissioner for Human Rights (OHCHR). 
+  Therefore, although continuous official statistics are not produced using the indicator's methodology, the figure can be stated as 0.
+
 16-1-4-contenido: "<b>Desired direction:</b> Increase"
 16-1-E1-contenido: "<b>Desired direction:</b> Decrease"
 16-2-2-contenido: "<b>Desired direction:</b> Decrease"
@@ -344,6 +353,8 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 16-6-2-contenido: "<b>Desired direction:</b> Increase"
 16-7-1-contenido: "<b>Desired direction:</b> The target is 1, although it is considered adequate if the value is between 0,8-1,2"
 16-9-1-contenido: "<b>Desired direction:</b> Increase"
+16-10-1-contenido: |
+  The Basque Country does not produce continuous official statistics using the indicator methodology, but wide ranging evidence allows us to estimate that the actual figure is very close to 0
 
 17-1-1-contenido: "<b>Desired direction:</b> Increase"
 17-1-2-contenido: "<b>Desired direction:</b> Increase"

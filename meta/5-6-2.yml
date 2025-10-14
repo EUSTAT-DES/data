@@ -17,7 +17,6 @@ periodicidad:
 
 observaciones:
 
-
  # Metadatos mundiales (Descripción del indicador)  
 
 
@@ -42,8 +41,8 @@ comparabilidad:
 indicador_meta_enlace: >- 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-06-02.pdf">Metadatuak 5-6-2.pdf</a> (ingelesez bakarrik)
 
-dato_global:
-
+dato_global: |
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.6.2&seriesCode=SH_LGR_ACSRHE&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Herrialdeek zein neurritan dituzten 15 urtetik gorako gizonei eta emakumeei sexu- eta ugalketa-osasuneko zerbitzuak eta horri buruzko informazioa eta hezkuntza berdintasunez eskuratzea bermatzen dieten legeak eta erregelamenduak (%) SH_LGR_ACSRHE</a> UNSTATS
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''

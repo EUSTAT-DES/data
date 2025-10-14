@@ -68,7 +68,7 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 8-10-2-titulo: "Proporción de personas entre 18 y 79 años que tienen una cuenta corriente"
 8-b-1-titulo: "Gasto de las administraciones públicas autonómicas en fomento del empleo"
  
-9-4-E1-titulo: "Intensidad de las emisiones atmosféricas de la industria (Indicador UE sdg_09_70)" 
+9-4-E1-titulo: "Intensidad de las emisiones atmosféricas de la industria manufacturera (Indicador UE sdg_09_70)" 
 
 10-2-1-titulo: "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos"
 10-3-1-titulo: "Prevalencia (%) de personas que se sienten discriminadas (por su edad, sexo, lugar de nacimiento, ...) por sexo"
@@ -160,8 +160,11 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 1-5-4-contenido: "En la C.A. de Euskadi, se dispone de un plan de emergencias a nivel autonómico y tres planes de emergencias territoriales, uno por cada territorio histórico. Por tanto, el 100% de los municipios se encuentran bajo el paraguas de un plan de emergencias territorial"
 1-a-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 
-2-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
+2-1-1-contenido: |
+  La CA de Euskadi no elabora estadísticas oficiales continuas con la metodología del indicador, pero diversos indicios permiten estimar que el dato real se encuentra muy próximo a 0
 2-1-2-contenido: "<b>Dirección deseada:</b> Descenso"
+2-2-1-contenido: |
+  La CA de Euskadi no elabora estadísticas oficiales continuas con la metodología del indicador, pero diversos indicios permiten estimar que el dato real se encuentra muy próximo a 0
 2-2-2-contenido: "<b>Dirección deseada:</b> Descenso"
 2-2-E1-contenido: "<b>Dirección deseada:</b> Descenso"
 2-3-1-contenido: "<b>Meta:</b> duplicar la productividad agrícola y los ingresos de los pequeños productores de alimentos"
@@ -179,7 +182,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 3-2-2-contenido: "<b>Meta:</b> Reducir al menos a 12 por cada 1.000 nacidos vivos"
 3-3-1-contenido: "<b>Dirección deseada:</b> Descenso"
 3-3-2-contenido: "<b>Dirección deseada:</b> Descenso"
-3-3-3-contenido: "<b>No aplicable:</b> La Comunidad Autónoma de Euskadi no es actualmente zona de transmisión de la malaria"
+3-3-3-contenido: "<b>Dirección deseada:</b> Descenso"
 3-3-4-contenido: "<b>Dirección deseada:</b> Descenso"
 3-4-1-contenido: "<b>Meta:</b> Reducir en un tercio la mortalidad prematura por enfermedades no transmisibles"
 3-4-2-contenido: "<b>Dirección deseada:</b> Descenso"
@@ -192,6 +195,8 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 3-7-2-contenido: "<b>Dirección deseada:</b> Descenso"
 3-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 3-8-2-contenido: "<b>Dirección deseada:</b> Descenso"
+3-9-2-contenido: |
+  La CA de Euskadi no elabora estadísticas oficiales continuas con la metodología del indicador, pero diversos indicios permiten estimar que el dato real se encuentra muy próximo a 0
 3-9-3-contenido: "<b>Dirección deseada:</b> Descenso"
 3-a-1-contenido: "<b>Dirección deseada:</b> Descenso"
 3-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -232,7 +237,6 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
   así como establecer una cooperación administrativa regular"
 6-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
-
 7-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 7-1-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 7-2-1-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -248,7 +252,9 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 8-5-2-contenido: "<b>Dirección deseada:</b> Descenso"
 8-5-E1-contenido: "<b>Dirección deseada:</b> En la serie Tasa de ocupación, el objetivo europeo es alcanzar un 78% para el año 2030. Por su parte, en la serie Brecha de género, la meta es reducir la diferencia a un máximo de 5,8 puntos porcentuales en ese mismo año."
 8-6-1-contenido: "<b>Dirección deseada:</b> Descenso"
-8-8-1-contenido: "<b>Dirección deseada:</b> Descenso"
+7-1-1-contenido: |
+  La CA de Euskadi no elabora estadísticas oficiales continuas con la metodología del indicador, pero diversos indicios permiten estimar que el dato real se encuentra muy próximo a 0
+8-7-1-contenido: "<b>Dirección deseada:</b> Descenso"
 8-9-1-contenido: "No evaluable. Para evaluar el progreso, el indicador se debería complementar con indicadores 
   adicionales sobre los aspectos sociales (por ejemplo, empleo, etc.) y ambientales 
   (uso de energía, emisiones de GEI, etc.) del turismo"
@@ -346,7 +352,10 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 15-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
 16-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
-16-1-2-contenido: "La C.A. de Euskadi no se encuentra en la lista de situaciones de conflicto armado considerada para este indicador por la Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (ACNUDH)"
+16-1-2-contenido: |
+  La C.A. de Euskadi no se encuentra en la lista de situaciones de conflicto armado considerada para este indicador por la Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (ACNUDH). Por lo tanto, a pesar de que no se elaboran 
+  estadísticas oficiales continuas con la metodología del indicador, se puede afirmar que el dato es 0.
+
 16-1-4-contenido: "<b>Dirección deseada:</b> Ascenso"
 16-1-E1-contenido:  "<b>Dirección deseada:</b> Descenso"
 16-2-2-contenido: "<b>Dirección deseada:</b> Descenso"
@@ -354,6 +363,8 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 16-6-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 16-7-1-contenido: "<b>Dirección deseada:</b> El objetivo es 1, aunque se considera adecuado si el valor está entre 0,8 y 1,2"
 16-9-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+16-10-1-contenido: |
+  La CA de Euskadi no elabora estadísticas oficiales continuas con la metodología del indicador, pero diversos indicios permiten estimar que el dato real se encuentra muy próximo a 0
 
 17-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 17-1-2-contenido: "<b>Dirección deseada:</b> Ascenso"
