@@ -15,7 +15,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico,OCECA,Fecha
 #10-1-1,complete,alcanzado,,line,FUENTE.oceca,2025-05-08,
 #10-2-1,complete,progreso,,line,FUENTE.oceca,2025-05-08,
 #10-3-1,complete,retroceso,,bar,,2025-08-19,
-#10-4-1,complete,retroceso,,line,FUENTE.oceca,2025-08-04,
+#10-4-1,complete,retroceso,,line,FUENTE.oceca,2025-10-21,
 #10-4-2,complete,noevaluado,,line,,2025-05-08,
 #10-5-1,notstarted,notstarted,,line,,,
 #10-6-1,notapplicable,notapplicable,,line,,,
@@ -152,7 +152,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico,OCECA,Fecha
 #2-4-E2,complete,alcanzado,,line,FUENTE.oceca,2025-08-04,
 #2-5-1,notstarted,notstarted,,line,,,
 #2-5-2,notstarted,notstarted,,line,,,
-#2-a-1,complete,noevaluado,True,line,,2025-06-13,
+#2-a-1,complete,noevaluado,True,line,,2025-10-21,
 #2-a-2,notstarted,notstarted,,line,,,
 #2-b-1,notstarted,notstarted,,line,,,
 #2-c-1,complete,noevaluado,,bar,"
