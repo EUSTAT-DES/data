@@ -1,131 +1,151 @@
-Year,Public services,Sex,Province,Units,Value
-2018,,,,%,57.4
-2017,,,,%,57.4
-2020,,,,%,54.1
-2016,,,,%,50.4
-2014,,,,%,41.2
-2012,,,,%,50.3
-2013,,,,%,40.2
-2011,,,,%,47.7
-2015,,,,%,46.3
-2022,,,,%,51.0
-2023,,,,%,56.8
-2021,,,,%,55.1
-2019,,,,%,57.3
-2016,Teaching,,,%,60.0
-2021,Teaching,,,%,54.4
-2012,Teaching,,,%,66.0
-2019,Teaching,,,%,72.2
-2018,Teaching,,,%,70.9
-2014,Teaching,,,%,54.0
-2017,Teaching,,,%,69.5
-2022,Teaching,,,%,60.9
-2023,Teaching,,,%,65.3
-2015,Teaching,,,%,59.4
-2013,Teaching,,,%,45.5
-2011,Teaching,,,%,66.7
-2020,Teaching,,,%,56.5
-2015,Healthcare,,,%,67.5
-2011,Healthcare,,,%,73.1
-2019,Healthcare,,,%,81.5
-2018,Healthcare,,,%,84.3
-2013,Healthcare,,,%,50.9
-2017,Healthcare,,,%,79.0
-2021,Healthcare,,,%,75.0
-2016,Healthcare,,,%,67.2
-2014,Healthcare,,,%,69.5
-2023,Healthcare,,,%,62.7
-2012,Healthcare,,,%,70.1
-2022,Healthcare,,,%,59.5
-2020,Healthcare,,,%,77.2
-2013,Pension management,,,%,21.2
-2018,Pension management,,,%,19.1
-2014,Pension management,,,%,21.3
-2020,Pension management,,,%,42.2
-2011,Pension management,,,%,32.0
-2012,Pension management,,,%,36.0
-2023,Pension management,,,%,52.4
-2022,Pension management,,,%,37.0
-2021,Pension management,,,%,39.2
-2017,Pension management,,,%,40.2
-2019,Pension management,,,%,30.9
-2015,Pension management,,,%,21.5
-2016,Pension management,,,%,23.5
-2011,Administration of justice,,,%,15.0
-2022,Administration of justice,,,%,20.6
-2013,Administration of justice,,,%,13.5
-2020,Administration of justice,,,%,17.5
-2017,Administration of justice,,,%,19.4
-2015,Administration of justice,,,%,11.2
-2019,Administration of justice,,,%,19.4
-2021,Administration of justice,,,%,16.9
-2016,Administration of justice,,,%,11.4
-2023,Administration of justice,,,%,22.4
-2012,Administration of justice,,,%,9.5
-2018,Administration of justice,,,%,19.4
-2014,Administration of justice,,,%,12.0
-2019,Citizen safety,,,%,60.2
-2022,Citizen safety,,,%,56.2
-2014,Citizen safety,,,%,46.1
-2021,Citizen safety,,,%,61.5
-2018,Citizen safety,,,%,72.6
-2023,Citizen safety,,,%,59.5
-2015,Citizen safety,,,%,60.2
-2012,Citizen safety,,,%,59.3
-2013,Citizen safety,,,%,53.6
-2017,Citizen safety,,,%,66.9
-2016,Citizen safety,,,%,61.7
-2020,Citizen safety,,,%,55.3
-2011,Citizen safety,,,%,32.2
-2019,Social services,,,%,57.5
-2015,Social services,,,%,36.4
-2023,Social services,,,%,62.2
-2020,Social services,,,%,58.3
-2014,Social services,,,%,30.3
-2013,Social services,,,%,32.7
-2017,Social services,,,%,57.1
-2018,Social services,,,%,60.5
-2012,Social services,,,%,47.6
-2016,Social services,,,%,60.2
-2022,Social services,,,%,51.6
-2021,Social services,,,%,59.6
-2011,Social services,,,%,35.2
-2016,Public transportation,,,%,83.9
-2011,Public transportation,,,%,78.1
-2015,Public transportation,,,%,83.2
-2014,Public transportation,,,%,72.6
-2019,Public transportation,,,%,86.3
-2018,Public transportation,,,%,83.1
-2013,Public transportation,,,%,70.2
-2022,Public transportation,,,%,81.0
-2023,Public transportation,,,%,81.2
-2021,Public transportation,,,%,85.2
-2017,Public transportation,,,%,87.9
-2020,Public transportation,,,%,82.9
-2012,Public transportation,,,%,78.0
-2012,Public works,,,%,57.3
-2013,Public works,,,%,50.0
-2011,Public works,,,%,59.8
-2015,Public works,,,%,55.0
-2022,Public works,,,%,51.2
-2017,Public works,,,%,66.4
-2019,Public works,,,%,65.2
-2021,Public works,,,%,63.4
-2016,Public works,,,%,58.2
-2023,Public works,,,%,66.5
-2018,Public works,,,%,62.8
-2014,Public works,,,%,52.3
-2020,Public works,,,%,56.9
-2021,Help for dependent persons,,,%,40.5
-2017,Help for dependent persons,,,%,29.8
-2016,Help for dependent persons,,,%,27.0
-2012,Help for dependent persons,,,%,28.7
-2011,Help for dependent persons,,,%,37.3
-2013,Help for dependent persons,,,%,24.8
-2015,Help for dependent persons,,,%,22.3
-2014,Help for dependent persons,,,%,12.6
-2018,Help for dependent persons,,,%,43.6
-2022,Help for dependent persons,,,%,40.8
-2023,Help for dependent persons,,,%,38.7
-2020,Help for dependent persons,,,%,40.5
-2019,Help for dependent persons,,,%,42.2
+Year,Public services,Units,Value
+2023,,%,56.9
+2021,,%,55.1
+2018,,%,57.4
+2013,,%,40.2
+2020,,%,54.1
+2016,,%,50.4
+2014,,%,41.2
+2022,,%,51.0
+2025,,%,52.8
+2015,,%,46.3
+2011,,%,47.7
+2024,,%,47.9
+2019,,%,57.3
+2017,,%,57.4
+2012,,%,50.3
+2025,Teaching,%,60.2
+2023,Teaching,%,65.3
+2012,Teaching,%,66.0
+2014,Teaching,%,54.0
+2021,Teaching,%,54.4
+2013,Teaching,%,45.5
+2020,Teaching,%,56.5
+2011,Teaching,%,66.7
+2018,Teaching,%,70.9
+2017,Teaching,%,69.5
+2022,Teaching,%,60.9
+2016,Teaching,%,60.0
+2019,Teaching,%,72.2
+2015,Teaching,%,59.4
+2024,Teaching,%,54.1
+2012,Healthcare,%,70.1
+2025,Healthcare,%,56.0
+2021,Healthcare,%,75.0
+2019,Healthcare,%,81.5
+2018,Healthcare,%,84.3
+2022,Healthcare,%,59.5
+2020,Healthcare,%,77.2
+2023,Healthcare,%,62.7
+2024,Healthcare,%,45.9
+2013,Healthcare,%,50.9
+2015,Healthcare,%,67.5
+2017,Healthcare,%,79.0
+2011,Healthcare,%,73.1
+2014,Healthcare,%,69.5
+2016,Healthcare,%,67.2
+2025,Pension management,%,50.7
+2021,Pension management,%,39.2
+2014,Pension management,%,21.3
+2015,Pension management,%,21.5
+2016,Pension management,%,23.5
+2018,Pension management,%,19.1
+2019,Pension management,%,30.9
+2020,Pension management,%,42.2
+2022,Pension management,%,37.0
+2023,Pension management,%,52.4
+2024,Pension management,%,40.0
+2011,Pension management,%,32.0
+2012,Pension management,%,36.0
+2013,Pension management,%,21.2
+2017,Pension management,%,40.2
+2017,Administration of justice,%,19.4
+2025,Administration of justice,%,17.2
+2012,Administration of justice,%,9.5
+2023,Administration of justice,%,22.4
+2018,Administration of justice,%,19.4
+2022,Administration of justice,%,20.6
+2016,Administration of justice,%,11.4
+2020,Administration of justice,%,17.5
+2019,Administration of justice,%,19.4
+2021,Administration of justice,%,16.9
+2024,Administration of justice,%,21.7
+2011,Administration of justice,%,15.0
+2015,Administration of justice,%,11.2
+2014,Administration of justice,%,12.0
+2013,Administration of justice,%,13.5
+2013,Citizen safety,%,53.6
+2011,Citizen safety,%,32.2
+2012,Citizen safety,%,59.3
+2014,Citizen safety,%,46.1
+2015,Citizen safety,%,60.2
+2016,Citizen safety,%,61.7
+2017,Citizen safety,%,66.9
+2018,Citizen safety,%,72.6
+2019,Citizen safety,%,60.2
+2020,Citizen safety,%,55.3
+2021,Citizen safety,%,61.5
+2022,Citizen safety,%,56.2
+2023,Citizen safety,%,59.5
+2024,Citizen safety,%,53.2
+2025,Citizen safety,%,52.5
+2020,Social services,%,58.3
+2011,Social services,%,35.2
+2013,Social services,%,32.7
+2014,Social services,%,30.3
+2015,Social services,%,36.4
+2017,Social services,%,57.1
+2018,Social services,%,60.5
+2019,Social services,%,57.5
+2021,Social services,%,59.6
+2022,Social services,%,51.6
+2023,Social services,%,62.2
+2024,Social services,%,50.7
+2025,Social services,%,50.9
+2016,Social services,%,60.2
+2012,Social services,%,47.6
+2020,Public transportation,%,82.9
+2021,Public transportation,%,85.2
+2022,Public transportation,%,81.0
+2023,Public transportation,%,81.2
+2024,Public transportation,%,76.4
+2025,Public transportation,%,83.5
+2019,Public transportation,%,86.3
+2011,Public transportation,%,78.1
+2012,Public transportation,%,78.0
+2013,Public transportation,%,70.2
+2014,Public transportation,%,72.6
+2015,Public transportation,%,83.2
+2016,Public transportation,%,83.9
+2017,Public transportation,%,87.9
+2018,Public transportation,%,83.1
+2023,Public works,%,66.5
+2024,Public works,%,50.5
+2025,Public works,%,60.7
+2011,Public works,%,59.8
+2012,Public works,%,57.3
+2013,Public works,%,50.0
+2014,Public works,%,52.3
+2015,Public works,%,55.0
+2016,Public works,%,58.2
+2017,Public works,%,66.4
+2018,Public works,%,62.8
+2019,Public works,%,65.2
+2020,Public works,%,56.9
+2021,Public works,%,63.4
+2022,Public works,%,51.2
+2014,Help for dependent persons,%,12.6
+2024,Help for dependent persons,%,35.0
+2020,Help for dependent persons,%,40.5
+2025,Help for dependent persons,%,41.5
+2019,Help for dependent persons,%,42.2
+2016,Help for dependent persons,%,27.0
+2012,Help for dependent persons,%,28.7
+2011,Help for dependent persons,%,37.3
+2021,Help for dependent persons,%,40.5
+2015,Help for dependent persons,%,22.3
+2022,Help for dependent persons,%,40.8
+2013,Help for dependent persons,%,24.8
+2023,Help for dependent persons,%,38.7
+2018,Help for dependent persons,%,43.6
+2017,Help for dependent persons,%,29.8

@@ -5995,26 +5995,6 @@
             "title": "Servicios públicos"
           },
           {
-            "name": "Sexo",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
-            "name": "Territorio",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Territorio histórico"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

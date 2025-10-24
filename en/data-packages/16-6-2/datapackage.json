@@ -35,26 +35,6 @@
             "title": "Public services"
           },
           {
-            "name": "Sexo",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Territorio",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Province"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

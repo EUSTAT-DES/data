@@ -33,24 +33,6 @@
             }
           },
           {
-            "name": "Sexo",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Territorio",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

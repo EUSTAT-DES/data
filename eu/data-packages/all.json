@@ -5995,26 +5995,6 @@
             "title": "Zerbitzu publikoak"
           },
           {
-            "name": "Sexo",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Sexua"
-          },
-          {
-            "name": "Territorio",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Lurralde historikoa"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
