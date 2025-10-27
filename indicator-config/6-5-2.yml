@@ -31,3 +31,9 @@ reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+sources:
+  - organisation: FUENTE.GE_Transicion
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.GE_Transicion_convagua_url
+    url_text: FUENTE.GE_Transicion_convagua
+    logo: FUENTE.GE_logo
