@@ -144,6 +144,7 @@ GE_Transicion_tratar: Tratamiento de las aguas residuales urbanas
 GE_Educacion_sinf: Estadística sobre la Tecnología de la información y la comunicación en los centros educativos
 BE_eap: Estadísticas de Administraciones Públicas
 GE_Transicion_ecocirc: Estrategia Española de Economía Circular y Planes de Acción
+GE_Transicion_convagua: Convenios y acuerdos internacionales relacionados con los recursos hídricos y su gestión 
 EC_REG_eqi: European Quality of Government Index (EQI)
 INE_etr: Encuesta de Turismo de Residentes (ETR-Familitur)
 INE_egatur: Encuesta de gasto turístico (EGATUR)
@@ -268,6 +269,7 @@ GE_Educacion_sinf_url: https://www.educacionfpydeportes.gob.es/servicios-al-ciud
 BE_eap_url: https://www.bde.es/webbe/es/estadisticas/temas/administraciones-publicas.html
 Eustat_cepsp_url: https://es.eustat.eus/estadisticas/tema_151/opt_1/temas.html
 GE_Transicion_ecocirc_url: https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/economia-circular/estrategia.html
+GE_Transicion_convagua_url: https://www.miteco.gob.es/eu/agua/temas/convenios-acuerdos-internacionales.html
 EC_REG_eqi_url: https://ec.europa.eu/regional_policy/information-sources/maps/quality-of-government_en?etrans=es
 INE_etr_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176990&idp=1254735576863
 INE_egatur_url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177002&menu=ultiDatos&idp=1254735576863
