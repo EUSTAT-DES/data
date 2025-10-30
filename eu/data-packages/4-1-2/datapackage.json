@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bigarren hezkuntzako lehenengo etapa",
-                "Bigarren hezkuntzako bigarren etapa",
+                "Behe-mailako bigarren hezkuntza",
+                "Goi-mailako bigarren hezkuntza",
                 ""
               ]
             },
