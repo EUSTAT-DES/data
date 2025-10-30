@@ -9,9 +9,9 @@ meta_global: meta_largo.4-1-titulo
 
 
 definicion: >-
-  Gutxienez bigarren hezkuntzako lehen zikloa (Hezkuntzaren Nazioarteko Sailkapen Normalizatua 2) 
+  Gutxienez bigarren hezkuntzako lehen etapa (Hezkuntzaren Nazioarteko Sailkapen Normalizatua 2) 
   amaitu duten 18 eta 20 urte bitarteko pertsonen proportzioa, 18 eta 20 urte bitarteko pertsona 
-  guztiekiko, eta gutxienez bigarren hezkuntzako bigarren zikloa (HNSN 3) amaitu 
+  guztiekiko, eta gutxienez bigarren hezkuntzako bigarren etapa (HNSN 3) amaitu 
   duten 20 eta 22 urte bitarteko pertsonen proportzioa, 20 eta 22 urte bitarteko pertsona guztiekiko. 
 
 formula: |
@@ -20,11 +20,11 @@ formula: |
 
   non:
 
-  $P_{n,Adina_a+3t5} =$ $n$ zikloko azken urtean sartzeko adin ofiziala baino $3$ - $5$ urte gehiago izanik, maila hori gainditu duen biztanleria
+  $P_{n,Adina_a+3t5} =$ $n$ mailako azken urtean sartzeko adin ofiziala baino $3$ - $5$ urte gehiago izanik, maila hori gainditu duen biztanleria
 
-  $P_{Adina_a+3t5} =$ $n$ zikloko azken urtean sartzeko adin ofiziala baino $3$ - $5$ urte gehiagoko biztanleria
+  $P_{Adina_a+3t5} =$ $n$ mailako azken urtean sartzeko adin ofiziala baino $3$ - $5$ urte gehiagoko biztanleria
 
-  $n =$ HNSN 2 (Bigarren Hezkuntzako lehen zikloa) eta HNSN 3 (Bigarren Hezkuntzako bigarren zikloa)
+  $n =$ HNSN 2 (Bigarren Hezkuntzako lehen etapa) eta HNSN 3 (Bigarren Hezkuntzako bigarren etapa)
 
 
 desagregacion: >-
