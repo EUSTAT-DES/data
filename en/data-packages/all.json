@@ -14770,6 +14770,18 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commercial bank branches per 100,000 inhabitants aged 15 and over",
+                "Automated teller machines per 100,000 inhabitants aged 15 and over",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {

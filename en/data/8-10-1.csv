@@ -1,61 +1,77 @@
-Year,Province,Units,Value
-2022,,"Per 100,000",52.2
-2012,,"Per 100,000",98.2
-2021,,"Per 100,000",56.5
-2016,,"Per 100,000",78.5
-2017,,"Per 100,000",73.8
-2013,,"Per 100,000",89.4
-2014,,"Per 100,000",83.7
-2011,,"Per 100,000",101.0
-2023,,"Per 100,000",51.0
-2020,,"Per 100,000",62.1
-2010,,"Per 100,000",103.5
-2018,,"Per 100,000",71.4
-2019,,"Per 100,000",68.0
-2024,,"Per 100,000",50.2
-2015,,"Per 100,000",82.2
-2013,Araba/Álava,"Per 100,000",102.4
-2010,Araba/Álava,"Per 100,000",122.5
-2017,Araba/Álava,"Per 100,000",76.0
-2014,Araba/Álava,"Per 100,000",93.9
-2018,Araba/Álava,"Per 100,000",72.6
-2020,Araba/Álava,"Per 100,000",63.2
-2021,Araba/Álava,"Per 100,000",58.8
-2011,Araba/Álava,"Per 100,000",118.0
-2024,Araba/Álava,"Per 100,000",52.2
-2015,Araba/Álava,"Per 100,000",91.6
-2022,Araba/Álava,"Per 100,000",54.4
-2023,Araba/Álava,"Per 100,000",53.2
-2019,Araba/Álava,"Per 100,000",68.9
-2012,Araba/Álava,"Per 100,000",113.8
-2016,Araba/Álava,"Per 100,000",83.7
-2011,Bizkaia,"Per 100,000",98.8
-2013,Bizkaia,"Per 100,000",85.6
-2014,Bizkaia,"Per 100,000",79.4
-2015,Bizkaia,"Per 100,000",78.3
-2017,Bizkaia,"Per 100,000",71.0
-2018,Bizkaia,"Per 100,000",69.0
-2019,Bizkaia,"Per 100,000",66.0
-2021,Bizkaia,"Per 100,000",54.1
-2022,Bizkaia,"Per 100,000",50.4
-2023,Bizkaia,"Per 100,000",49.2
-2024,Bizkaia,"Per 100,000",48.2
-2010,Bizkaia,"Per 100,000",101.2
-2020,Bizkaia,"Per 100,000",59.5
-2016,Bizkaia,"Per 100,000",75.4
-2012,Bizkaia,"Per 100,000",95.8
-2024,Gipuzkoa,"Per 100,000",52.4
-2010,Gipuzkoa,"Per 100,000",98.7
-2011,Gipuzkoa,"Per 100,000",97.0
-2012,Gipuzkoa,"Per 100,000",94.8
-2013,Gipuzkoa,"Per 100,000",89.7
-2014,Gipuzkoa,"Per 100,000",86.1
-2015,Gipuzkoa,"Per 100,000",84.4
-2016,Gipuzkoa,"Per 100,000",81.3
-2017,Gipuzkoa,"Per 100,000",77.5
-2018,Gipuzkoa,"Per 100,000",74.7
-2019,Gipuzkoa,"Per 100,000",70.8
-2020,Gipuzkoa,"Per 100,000",65.8
-2021,Gipuzkoa,"Per 100,000",59.4
-2022,Gipuzkoa,"Per 100,000",54.3
-2023,Gipuzkoa,"Per 100,000",52.8
+Year,Series,Province,Units,Value
+2018,"Commercial bank branches per 100,000 inhabitants aged 15 and over",,"Per 100,000",71.2
+2012,"Commercial bank branches per 100,000 inhabitants aged 15 and over",,"Per 100,000",98.3
+2016,"Commercial bank branches per 100,000 inhabitants aged 15 and over",,"Per 100,000",78.5
+2022,"Commercial bank branches per 100,000 inhabitants aged 15 and over",,"Per 100,000",52.0
+2014,"Commercial bank branches per 100,000 inhabitants aged 15 and over",,"Per 100,000",83.7
+2011,"Commercial bank branches per 100,000 inhabitants aged 15 and over",,"Per 100,000",101.0
+2021,"Automated teller machines per 100,000 inhabitants aged 15 and over",,"Per 100,000",123.3
+2023,"Automated teller machines per 100,000 inhabitants aged 15 and over",,"Per 100,000",117.2
+2023,"Commercial bank branches per 100,000 inhabitants aged 15 and over",,"Per 100,000",50.8
+2022,"Automated teller machines per 100,000 inhabitants aged 15 and over",,"Per 100,000",119.0
+2013,"Commercial bank branches per 100,000 inhabitants aged 15 and over",,"Per 100,000",89.6
+2019,"Commercial bank branches per 100,000 inhabitants aged 15 and over",,"Per 100,000",67.7
+2021,"Commercial bank branches per 100,000 inhabitants aged 15 and over",,"Per 100,000",56.5
+2024,"Commercial bank branches per 100,000 inhabitants aged 15 and over",,"Per 100,000",50.2
+2020,"Commercial bank branches per 100,000 inhabitants aged 15 and over",,"Per 100,000",62.1
+2024,"Automated teller machines per 100,000 inhabitants aged 15 and over",,"Per 100,000",111.5
+2017,"Commercial bank branches per 100,000 inhabitants aged 15 and over",,"Per 100,000",73.7
+2015,"Commercial bank branches per 100,000 inhabitants aged 15 and over",,"Per 100,000",82.2
+2010,"Commercial bank branches per 100,000 inhabitants aged 15 and over",,"Per 100,000",103.5
+2021,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",58.6
+2020,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",63.1
+2021,"Automated teller machines per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",109.6
+2018,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",72.2
+2023,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",53.0
+2016,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",83.6
+2022,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",54.1
+2010,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",122.4
+2011,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",117.6
+2023,"Automated teller machines per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",103.6
+2024,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",52.2
+2017,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",75.8
+2014,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",93.7
+2024,"Automated teller machines per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",97.6
+2015,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",91.6
+2013,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",102.6
+2012,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",114.3
+2022,"Automated teller machines per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",105.2
+2019,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Araba/Álava,"Per 100,000",68.5
+2022,"Automated teller machines per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",114.1
+2013,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",85.9
+2024,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",48.2
+2012,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",96.1
+2011,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",98.8
+2022,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",50.2
+2010,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",101.3
+2023,"Automated teller machines per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",111.9
+2023,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",49.0
+2019,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",65.8
+2024,"Automated teller machines per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",106.4
+2015,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",78.4
+2014,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",79.5
+2017,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",70.9
+2020,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",59.6
+2016,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",75.3
+2021,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",54.1
+2021,"Automated teller machines per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",116.1
+2018,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Bizkaia,"Per 100,000",68.9
+2013,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",89.7
+2022,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",54.0
+2015,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",84.3
+2020,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",65.8
+2019,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",70.6
+2011,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",96.9
+2010,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",98.7
+2018,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",74.5
+2021,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",59.4
+2024,"Automated teller machines per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",126.1
+2023,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",52.6
+2022,"Automated teller machines per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",133.1
+2017,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",77.3
+2023,"Automated teller machines per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",131.9
+2016,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",81.2
+2014,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",86.0
+2021,"Automated teller machines per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",141.1
+2012,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",94.7
+2024,"Commercial bank branches per 100,000 inhabitants aged 15 and over",Gipuzkoa,"Per 100,000",52.4

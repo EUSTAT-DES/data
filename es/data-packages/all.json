@@ -14770,6 +14770,18 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años",
+                "Cajeros automáticos por cada 100.000 habitantes de 15 y más años",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {

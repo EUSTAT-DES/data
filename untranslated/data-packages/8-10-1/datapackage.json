@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FB_CBK_BRCH",
+                "FB_ATM_TOTL",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {

@@ -16,6 +16,18 @@
             "title": "Urtea"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Merkataritza-bankuen sukurtsalak 15 urte eta gehiagoko 100.000 biztanleko",
+                "Kutxazain automatikoak 15 urte eta gehiagoko 100.000 biztanleko",
+                ""
+              ]
+            },
+            "title": "Seriea"
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
