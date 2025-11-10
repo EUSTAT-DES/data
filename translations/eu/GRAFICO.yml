@@ -86,7 +86,7 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 
 
 12-1-1-titulo: "Kontsumo- eta ekoizpen-modalitate jasangarrietarako trantsizioa bultzatzeko politika-tresnak egiten, hartzen edo aplikatzen dira"
-12-5-1-titulo: "Birziklatutako udal-hondakinen proportzioa, sortutako eta tratatutako udal-hondakinen guztizkoarekiko"
+12-5-1-titulo: "Birziklatutako hiri-hondakinen proportzioa, sortutako eta tratatutako hiri-hondakinen guztizkoarekiko"
 12-6-1-titulo: "EMAS edo Ecolabel duten erakundeen kopurua"
 
 13-1-1-titulo: "Hondamendien ondorioz zuzenean hildako pertsonen kopurua 100.000 biztanleko"
@@ -98,7 +98,7 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 
 15-1-2-titulo: "Eremu babestuetako lurreko biodibertsitaterako eta ur gezarako leku garrantzitsuen proportzioa"
 15-1-E1-titulo: "Babestutako lehorreko eremuen azalera (km2 eta ehunekoa) (EBren sdg_15_20 adierazlea)"
-15-3-1-titulo: "Poluituta egon daitezkeen eta erabilera berrietarako berreskuratu diren lorzoruen azalera"
+15-3-1-titulo: "Potentzialki kutsatutako eta erabilera berrietarako berreskuratutako lorzoruen azalera"
 15-4-1-titulo: "Mendietako biodibertsitaterako leku garrantzitsuak, eremu babestuetan sartuak"
 15-4-2-titulo: "Mendien estaldura berdearen indizea"
 15-8-1-titulo: "Legeria nazional egokia dago, eta baliabideak bideratzen dira espezie exotiko inbaditzaileak prebenitzeko edo kontrolatzeko"
@@ -246,8 +246,8 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 7-b-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
 
-8-1-1-contenido: "<b>Nahi den norabidea:</b> Ehuneko-aldaketa positiboa per capita urteko BPG errealaren hazkunde-tasan"
-8-2-1-contenido: "<b>Nahi den norabidea:</b> Ehuneko-aldaketa positiboa enplegatuko BPG errealaren hazkunde-tasan"
+8-1-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+8-2-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 8-4-2-contenido: "<b>Nahi den norabidea:</b> BPGaren araberako materialen etxeko kontsumoa seriearen jaitsiera"
 8-5-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 8-5-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
@@ -285,7 +285,7 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 10-2-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 10-3-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 10-4-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
-10-4-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+10-4-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera Diru-sarrera erabilgarri baliokidearen Gini indizean"
 10-7-4-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 
 11-1-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"

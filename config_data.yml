@@ -149,6 +149,10 @@ docs_metadata_fields:
       label: Fecha última actualización datos
     - key: data_non_statistical
       label: Indicador no estadístico
+    - key: observaciones
+      label: Observaciones
+    - key: comparabilidad
+      label: Comparabilidad NNUU
 # Indicator options    
 indicator_options:
   non_disaggregation_columns:
