@@ -9430,15 +9430,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Aguas costeras",
-                "Aguas de transición",
+                "ITSASERTZ",
+                "TRANTSIZIO",
                 "Ríos",
-                "Lagos y humedales",
-                "Embalses",
+                "AINTZIRA",
+                "URTEGI",
                 ""
               ]
             },
-            "title": "Categoría de masas de agua"
+            "title": "Categoria"
           },
           {
             "name": "Units",
@@ -11314,13 +11314,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sector energético",
-                "Servicios",
-                "Transporte",
-                "Agricultura",
-                "Residencial",
-                "Residuos",
-                "Industria",
+                "ENERGETIKO",
+                "ZERBITZU",
+                "GARRAIO",
+                "NEKAZARI",
+                "EGOITZA",
+                "HONDAKIN",
+                "INDUSTRIA",
                 ""
               ]
             },

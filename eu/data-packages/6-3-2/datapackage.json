@@ -33,15 +33,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Itsasertzeko urak",
-                "Trantsizio urak",
+                "ITSASERTZ",
+                "TRANTSIZIO",
                 "Ibaiak",
-                "Aintzira eta hezeguneak",
-                "Urtegiak",
+                "AINTZIRA",
+                "URTEGI",
                 ""
               ]
             },
-            "title": "Ur-masen kategoria"
+            "title": "Categoria"
           },
           {
             "name": "Units",
