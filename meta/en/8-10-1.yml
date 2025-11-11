@@ -9,15 +9,35 @@ meta_global: meta_largo.8-10-titulo
 
 
 definicion:  | 
-  Number of branches of credit institutions and financial credit establishments with respect to the population aged 15 and over
+  Available series:
+
+  <b> - Number of commercial bank branches with respect to adult population:</b>
+  Number of branches of credit institutions and financial credit establishments per 100,000 inhabitants aged 15 and over 
+
+  <b> - Number of automated teller machines (ATMs) with respect to adult population:</b>
+  Number of automated teller machines (ATMs) of all types of financial institutions per 100,000 inhabitants aged 15 and over  
+
 
 formula:  |
+
+  <b>Number of commercial bank branches with respect to adult population</b>
 
   $$TOECEFC^{t} = \frac{OECEFC^{t}}{P_{15+}^{t}} \cdot 100.000$$
 
   where:
 
   $OECEFC^{t} =$  branches of credit institutions and financial credit establishments in year $t$
+
+  $P_{15+}^{t} =$ population aged 15 and over as of July 1 of year $t$
+
+
+  <b>Number of automated teller machines (ATMs) with respect to adult population</b>
+
+  $$TATM^{t} = \frac{ATM^{t}}{P_{15+}^{t}} \cdot 100.000$$
+
+  where:
+
+  $ATM^{t} =$ automated teller machines (ATMs) of all types of financial institutions in year $t$
 
   $P_{15+}^{t} =$ population aged 15 and over as of July 1 of year $t$
 
@@ -50,7 +70,7 @@ justificacion_global: |
 dato_global: >-
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=8.10.1&seriesCode=FB_CBK_BRCH&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15%2B">Number of commercial bank branches per 100,000 adults FB_CBK_BRCH</a> UNSTATS
-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=8.10.1&seriesCode=FB_ATM_TOTL&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=15%2B">Number of automated teller machines (ATMs) per 100,000 adults FB_ATM_TOTL</a> UNSTATS 
 
 comparabilidad: >- 
   The available indicator does not comply with United Nations metadata but provides similar information.
