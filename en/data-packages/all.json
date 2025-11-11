@@ -9418,27 +9418,27 @@
             "constraints": {
               "enum": [
                 "Proportion of good-quality water bodies",
-                "Proportion of good-quality groundwater bodies",
                 "Proportion of good-quality surface water bodies",
+                "Proportion of good-quality groundwater bodies",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "Categoria",
+            "name": "CategoriaUra",
             "type": "string",
             "constraints": {
               "enum": [
-                "ITSASERTZ",
-                "TRANTSIZIO",
                 "Rivers",
-                "AINTZIRA",
-                "URTEGI",
+                "Coastal waters",
+                "Transition waters",
+                "Reservoirs",
+                "Lakes and wetlands",
                 ""
               ]
             },
-            "title": "Categoria"
+            "title": "Category of water bodies"
           },
           {
             "name": "Units",
@@ -11314,13 +11314,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ENERGETIKO",
-                "ZERBITZU",
-                "GARRAIO",
-                "NEKAZARI",
-                "EGOITZA",
-                "HONDAKIN",
-                "INDUSTRIA",
+                "Energy sector",
+                "Industry",
+                "Transport",
+                "Residential ",
+                "Services",
+                "Agriculture",
+                "Waste",
                 ""
               ]
             },

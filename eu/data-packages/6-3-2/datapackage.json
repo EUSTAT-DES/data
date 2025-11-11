@@ -21,27 +21,27 @@
             "constraints": {
               "enum": [
                 "Kalitate oneko ur-masen proportzioa",
-                "Kalitate oneko lurpeko ur-masen proportzioa",
                 "Kalitate oneko azaleko ur-masen proportzioa",
+                "Kalitate oneko lurpeko ur-masen proportzioa",
                 ""
               ]
             },
             "title": "Seriea"
           },
           {
-            "name": "Categoria",
+            "name": "CategoriaUra",
             "type": "string",
             "constraints": {
               "enum": [
-                "ITSASERTZ",
-                "TRANTSIZIO",
                 "Ibaiak",
-                "AINTZIRA",
-                "URTEGI",
+                "Itsasertzeko urak",
+                "Trantsizio urak",
+                "Urtegiak",
+                "Aintzira eta hezeguneak",
                 ""
               ]
             },
-            "title": "Categoria"
+            "title": "Ur-masen kategoria"
           },
           {
             "name": "Units",

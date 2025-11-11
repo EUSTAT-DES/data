@@ -9418,27 +9418,27 @@
             "constraints": {
               "enum": [
                 "Proporción de masas de agua de buena calidad",
-                "Proporción de masas de agua subterráneas de buena calidad",
                 "Proporción de masas de agua superficiales de buena calidad",
+                "Proporción de masas de agua subterráneas de buena calidad",
                 ""
               ]
             },
             "title": "Serie"
           },
           {
-            "name": "Categoria",
+            "name": "CategoriaUra",
             "type": "string",
             "constraints": {
               "enum": [
-                "ITSASERTZ",
-                "TRANTSIZIO",
                 "Ríos",
-                "AINTZIRA",
-                "URTEGI",
+                "Aguas costeras",
+                "Aguas de transición",
+                "Embalses",
+                "Lagos y humedales",
                 ""
               ]
             },
-            "title": "Categoria"
+            "title": "Categoría de masas de agua"
           },
           {
             "name": "Units",
@@ -11314,13 +11314,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ENERGETIKO",
-                "ZERBITZU",
-                "GARRAIO",
-                "NEKAZARI",
-                "EGOITZA",
-                "HONDAKIN",
-                "INDUSTRIA",
+                "Sector energético",
+                "Industria",
+                "Transporte",
+                "Residencial",
+                "Servicios",
+                "Agricultura",
+                "Residuos",
                 ""
               ]
             },

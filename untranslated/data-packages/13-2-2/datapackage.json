@@ -33,13 +33,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ENERGETIKO",
-                "ZERBITZU",
-                "GARRAIO",
-                "NEKAZARI",
-                "EGOITZA",
-                "HONDAKIN",
-                "INDUSTRIA",
+                "EU_ATM_ENER",
+                "EU_ATM_INDUS",
+                "EU_ATM_GARRA",
+                "EU_ATM_EGOI",
+                "EU_ATM_ZERB",
+                "EU_ATM_NEKAZ",
+                "EU_ATM_HONDA",
                 ""
               ]
             }

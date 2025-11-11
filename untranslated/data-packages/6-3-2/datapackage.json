@@ -20,22 +20,22 @@
             "constraints": {
               "enum": [
                 "EN_H2O_WBAMBQ",
-                "EN_H2O_GRAMBQ",
                 "EN_H2O_OPAMBQ",
+                "EN_H2O_GRAMBQ",
                 ""
               ]
             }
           },
           {
-            "name": "Categoria",
+            "name": "CategoriaUra",
             "type": "string",
             "constraints": {
               "enum": [
-                "ITSASERTZ",
-                "TRANTSIZIO",
                 "EN_H2O_RVAMBQ",
-                "AINTZIRA",
-                "URTEGI",
+                "EU_H2O_ITSASE",
+                "EU_H2O_TRANTS",
+                "EU_H2O_URTE",
+                "EU_H2O_AINTZ",
                 ""
               ]
             }

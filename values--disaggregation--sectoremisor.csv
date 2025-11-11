@@ -1,8 +1,8 @@
 Value,eu,es,en,Disaggregation combinations using this value,Number of indicators
-EGOITZA,EGOITZA,EGOITZA,EGOITZA,1,1
-ENERGETIKO,ENERGETIKO,ENERGETIKO,ENERGETIKO,1,1
-GARRAIO,GARRAIO,GARRAIO,GARRAIO,1,1
-HONDAKIN,HONDAKIN,HONDAKIN,HONDAKIN,1,1
-INDUSTRIA,INDUSTRIA,INDUSTRIA,INDUSTRIA,1,1
-NEKAZARI,NEKAZARI,NEKAZARI,NEKAZARI,1,1
-ZERBITZU,ZERBITZU,ZERBITZU,ZERBITZU,1,1
+EU_ATM_EGOI,Egoitza,Residencial,Residential ,1,1
+EU_ATM_ENER,Sektore energetikoa,Sector energético,Energy sector,1,1
+EU_ATM_GARRA,Garraioa,Transporte,Transport,1,1
+EU_ATM_HONDA,Hondakinak,Residuos,Waste,1,1
+EU_ATM_INDUS,Industria,Industria,Industry,1,1
+EU_ATM_NEKAZ,Nekazaritza,Agricultura,Agriculture,1,1
+EU_ATM_ZERB,Zerbitzuak,Servicios,Services,1,1
