@@ -1,4 +1,4 @@
-Year,Series,Category of water bodies,Units,Value
+Year,Series,Categoria,Units,Value
 2015,Proportion of good-quality water bodies,,%,46.8
 2022,Proportion of good-quality water bodies,,%,57.1
 2018,Proportion of good-quality water bodies,,%,65.8
@@ -19,16 +19,16 @@ Year,Series,Category of water bodies,Units,Value
 2018,Proportion of good-quality groundwater bodies,,%,88.9
 2021,Proportion of good-quality groundwater bodies,,%,88.9
 2022,Proportion of good-quality groundwater bodies,,%,88.9
-2019,Proportion of good-quality surface water bodies,Coastal waters,%,100.0
-2016,Proportion of good-quality surface water bodies,Coastal waters,%,100.0
-2023,Proportion of good-quality surface water bodies,Coastal waters,%,100.0
+2019,Proportion of good-quality surface water bodies,ITSASERTZ,%,100.0
+2016,Proportion of good-quality surface water bodies,ITSASERTZ,%,100.0
+2023,Proportion of good-quality surface water bodies,ITSASERTZ,%,100.0
 2018,Proportion of good-quality surface water bodies,,%,60.8
-2017,Proportion of good-quality surface water bodies,Coastal waters,%,100.0
+2017,Proportion of good-quality surface water bodies,ITSASERTZ,%,100.0
 2023,Proportion of good-quality surface water bodies,,%,48.5
-2016,Proportion of good-quality surface water bodies,Transition waters,%,42.9
-2021,Proportion of good-quality surface water bodies,Coastal waters,%,100.0
-2020,Proportion of good-quality surface water bodies,Coastal waters,%,100.0
-2015,Proportion of good-quality surface water bodies,Coastal waters,%,75.0
+2016,Proportion of good-quality surface water bodies,TRANTSIZIO,%,42.9
+2021,Proportion of good-quality surface water bodies,ITSASERTZ,%,100.0
+2020,Proportion of good-quality surface water bodies,ITSASERTZ,%,100.0
+2015,Proportion of good-quality surface water bodies,ITSASERTZ,%,75.0
 2018,Proportion of good-quality surface water bodies,Rivers,%,60.6
 2020,Proportion of good-quality surface water bodies,,%,53.0
 2021,Proportion of good-quality surface water bodies,,%,56.6
@@ -43,39 +43,39 @@ Year,Series,Category of water bodies,Units,Value
 2024,Proportion of good-quality surface water bodies,Rivers,%,48.4
 2023,Proportion of good-quality surface water bodies,Rivers,%,43.0
 2015,Proportion of good-quality surface water bodies,Rivers,%,35.3
-2018,Proportion of good-quality surface water bodies,Coastal waters,%,100.0
+2018,Proportion of good-quality surface water bodies,ITSASERTZ,%,100.0
 2016,Proportion of good-quality surface water bodies,Rivers,%,49.6
 2016,Proportion of good-quality surface water bodies,,%,50.6
-2020,Proportion of good-quality surface water bodies,Lakes and wetlands,%,22.2
-2018,Proportion of good-quality surface water bodies,Reservoirs,%,100.0
-2022,Proportion of good-quality surface water bodies,Coastal waters,%,100.0
-2015,Proportion of good-quality surface water bodies,Reservoirs,%,100.0
-2015,Proportion of good-quality surface water bodies,Lakes and wetlands,%,22.2
-2022,Proportion of good-quality surface water bodies,Reservoirs,%,91.7
-2024,Proportion of good-quality surface water bodies,Coastal waters,%,100.0
-2015,Proportion of good-quality surface water bodies,Transition waters,%,21.4
-2021,Proportion of good-quality surface water bodies,Lakes and wetlands,%,22.2
-2018,Proportion of good-quality surface water bodies,Transition waters,%,50.0
-2021,Proportion of good-quality surface water bodies,Reservoirs,%,100.0
-2023,Proportion of good-quality surface water bodies,Reservoirs,%,91.7
-2022,Proportion of good-quality surface water bodies,Lakes and wetlands,%,33.3
-2020,Proportion of good-quality surface water bodies,Reservoirs,%,91.7
-2022,Proportion of good-quality surface water bodies,Transition waters,%,57.1
-2018,Proportion of good-quality surface water bodies,Lakes and wetlands,%,11.1
-2016,Proportion of good-quality surface water bodies,Reservoirs,%,75.0
-2017,Proportion of good-quality surface water bodies,Transition waters,%,50.0
-2017,Proportion of good-quality surface water bodies,Lakes and wetlands,%,11.1
-2020,Proportion of good-quality surface water bodies,Transition waters,%,71.4
-2019,Proportion of good-quality surface water bodies,Lakes and wetlands,%,11.1
-2019,Proportion of good-quality surface water bodies,Reservoirs,%,100.0
-2017,Proportion of good-quality surface water bodies,Reservoirs,%,100.0
-2023,Proportion of good-quality surface water bodies,Lakes and wetlands,%,33.3
-2024,Proportion of good-quality surface water bodies,Reservoirs,%,91.7
-2019,Proportion of good-quality surface water bodies,Transition waters,%,50.0
-2024,Proportion of good-quality surface water bodies,Lakes and wetlands,%,44.4
-2023,Proportion of good-quality surface water bodies,Transition waters,%,57.1
-2021,Proportion of good-quality surface water bodies,Transition waters,%,42.9
+2020,Proportion of good-quality surface water bodies,AINTZIRA,%,22.2
+2018,Proportion of good-quality surface water bodies,URTEGI,%,100.0
+2022,Proportion of good-quality surface water bodies,ITSASERTZ,%,100.0
+2015,Proportion of good-quality surface water bodies,URTEGI,%,100.0
+2015,Proportion of good-quality surface water bodies,AINTZIRA,%,22.2
+2022,Proportion of good-quality surface water bodies,URTEGI,%,91.7
+2024,Proportion of good-quality surface water bodies,ITSASERTZ,%,100.0
+2015,Proportion of good-quality surface water bodies,TRANTSIZIO,%,21.4
+2021,Proportion of good-quality surface water bodies,AINTZIRA,%,22.2
+2018,Proportion of good-quality surface water bodies,TRANTSIZIO,%,50.0
+2021,Proportion of good-quality surface water bodies,URTEGI,%,100.0
+2023,Proportion of good-quality surface water bodies,URTEGI,%,91.7
+2022,Proportion of good-quality surface water bodies,AINTZIRA,%,33.3
+2020,Proportion of good-quality surface water bodies,URTEGI,%,91.7
+2022,Proportion of good-quality surface water bodies,TRANTSIZIO,%,57.1
+2018,Proportion of good-quality surface water bodies,AINTZIRA,%,11.1
+2016,Proportion of good-quality surface water bodies,URTEGI,%,75.0
+2017,Proportion of good-quality surface water bodies,TRANTSIZIO,%,50.0
+2017,Proportion of good-quality surface water bodies,AINTZIRA,%,11.1
+2020,Proportion of good-quality surface water bodies,TRANTSIZIO,%,71.4
+2019,Proportion of good-quality surface water bodies,AINTZIRA,%,11.1
+2019,Proportion of good-quality surface water bodies,URTEGI,%,100.0
+2017,Proportion of good-quality surface water bodies,URTEGI,%,100.0
+2023,Proportion of good-quality surface water bodies,AINTZIRA,%,33.3
+2024,Proportion of good-quality surface water bodies,URTEGI,%,91.7
+2019,Proportion of good-quality surface water bodies,TRANTSIZIO,%,50.0
+2024,Proportion of good-quality surface water bodies,AINTZIRA,%,44.4
+2023,Proportion of good-quality surface water bodies,TRANTSIZIO,%,57.1
+2021,Proportion of good-quality surface water bodies,TRANTSIZIO,%,42.9
 2015,Proportion of good-quality surface water bodies,,%,36.0
 2019,Proportion of good-quality surface water bodies,,%,54.8
-2016,Proportion of good-quality surface water bodies,Lakes and wetlands,%,22.2
-2024,Proportion of good-quality surface water bodies,Transition waters,%,57.1
+2016,Proportion of good-quality surface water bodies,AINTZIRA,%,22.2
+2024,Proportion of good-quality surface water bodies,TRANTSIZIO,%,57.1

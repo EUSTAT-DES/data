@@ -9430,15 +9430,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Coastal waters",
-                "Transition waters",
+                "ITSASERTZ",
+                "TRANTSIZIO",
                 "Rivers",
-                "Lakes and wetlands",
-                "Reservoirs",
+                "AINTZIRA",
+                "URTEGI",
                 ""
               ]
             },
-            "title": "Category of water bodies"
+            "title": "Categoria"
           },
           {
             "name": "Units",
@@ -11314,13 +11314,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Energy sector",
-                "Services",
-                "Transport",
-                "Agriculture",
-                "Residential ",
-                "Waste",
-                "Industry",
+                "ENERGETIKO",
+                "ZERBITZU",
+                "GARRAIO",
+                "NEKAZARI",
+                "EGOITZA",
+                "HONDAKIN",
+                "INDUSTRIA",
                 ""
               ]
             },
