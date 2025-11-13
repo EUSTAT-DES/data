@@ -10,6 +10,7 @@ Consorcio: Aseguruen Konpentsazio Partzuergoa
 EC_REG: DG Eskualde eta Hiri Politika, Europako Batzordea
 EVE: Energiaren Euskal Erakundea (EEE)
 Ekolurra: Euskadiko Nekazaritza eta Elikadura Ekologikoaren Kontseilua
+ELIKA: ELIKA
 Euskadi: Eusko Jaurlaritza
 Euskadi_Lehendakaritza: Lehendakaritza
 Euskadi_Economia: Ekonomia, Lan eta Enplegu Saila
@@ -179,6 +180,7 @@ Euskadi_Vivienda_inbentarioa: Plangintzaren Inbentarioa
 Euskadi_Hacienda_presup: Aurrekontu egikaritzaren estatistika
 CGPD_ejud: Estatistika Judiziala
 KBA_kba: Key Biodiversity Areas
+ELIKA_xahu: Elikagaien Xahuketaren Analisia Euskadiko Nekazaritzako Elikagaien Katean
 
 # URL
 
@@ -303,7 +305,7 @@ Euskadi_Vivienda_inbentarioa_url: https://www.euskadi.eus/web01-s2ing/eu/conteni
 Euskadi_Hacienda_presup_url: https://eu.eustat.eus/estadisticas/tema_916/opt_0/temas.html
 CGPD_ejud_url: https://www.poderjudicial.es/portal/site/cgpj/menuitem.5eba20fd90ee79c47405fa65655a4ea0/?vgnextoid=9dccd1a4dc1c3510VgnVCM1000006f48ac0aRCRD&vgnextfmt=default&vgnextlocale=eu&lang_choosen=eu
 KBA_kba_url: https://www.keybiodiversityareas.org/sites/search
-
+ELIKA_xahu_url: https://zerodespilfarro.elika.eus/wp-content/uploads/2023/03/Resumen-Diagnostico-Desperdicio-Euskadi_2022EU.pdf
 
 # LOGOS
 BE_logo: '/assets/img/fuentes/BE.png'
