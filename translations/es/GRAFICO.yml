@@ -16,6 +16,7 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 2-1-2-titulo: "Prevalencia de la inseguridad alimentaria grave o muy grave"
 2-2-2-titulo: "Proporción de menores entre 2 y 17 años con obesidad, sobrepeso o peso insuficiente"
 2-2-E1-titulo: "Tasa de obesidad de la población adulta según el índice de masa corporal (IMC) (Indicador UE sdg_02_10)"
+2-2-4-titulo: "Prevalencia del umbral mínimo de diversidad alimentaria, por grupo de población (niños de 6 a 23,9 meses y mujeres no embarazadas de 15 a 49 años)"
 2-3-1-titulo: Volumen de producción por unidad de trabajo desglosado por tamaño de explotación
 2-3-2-titulo: Media de ingresos de los productores de alimentos en pequeña escala
 2-4-1-titulo: "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible"
@@ -33,6 +34,7 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 3-8-1-titulo: "Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica"
 3-8-2-titulo: "Proporción de la población con grandes gastos sanitarios por hogar como porcentaje del total de gasto del hogar"
 3-a-1-titulo: "Proporción de personas de 15 y más años que fuman a diario"
+3-b-3-titulo: "Índice de acceso a los productos sanitarios"
 
 4-1-1-titulo: "Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura y matemáticas"
 4-1-E1-titulo: "Tasa de abandono escolar prematuro de la población de 18-24 años (Indicador UE sdg_04_10)"
@@ -64,6 +66,7 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 8-5-E1-titulo: "Tasa de ocupación de la población (Indicador UE sdg_08_30)" 
 8-8-1-titulo: "Índice de incidencia de accidentes con baja en jornada/in itinere, según gravedad" 
 8-9-1-titulo: "PIB generado directamente por el turismo en proporción al PIB total y tasa de crecimiento"
+8-9-2-titulo: "Personas empleadas en el sector del turismo"
 8-10-1-titulo: "Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años"
 8-10-2-titulo: "Proporción de personas entre 18 y 79 años que tienen una cuenta corriente"
 8-b-1-titulo: "Gasto de las administraciones públicas autonómicas en fomento del empleo"
@@ -84,7 +87,7 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 11-7-1-titulo: "Proporción media de la superficie edificada de las ciudades que se dedica a espacios abiertos para uso público de todos"
 11-7-2-titulo: "Número de personas que han sido víctimas de acoso no sexual o sexual en los últimos 12 meses por cada 100.000 habitantes"
 11-a-1-titulo: "Proporción de municipios que cuentan con un plan de ordenación territorial, o que disponen de un plan urbanístico municipal"
-
+11-c-1-titulo: "Total de asistencia oficial para el desarrollo y otros flujos oficiales destinados a infraestructuras urbanas o proyectos de infraestructuras urbanas, por sector"
 
 12-1-1-titulo: "Se elaboran, adoptan o aplican instrumentos de política destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles"
 12-5-1-titulo: "Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados"
