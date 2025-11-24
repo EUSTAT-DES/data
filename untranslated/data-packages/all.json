@@ -15841,6 +15841,28 @@
       "title": "global_indicators.17-19-1-title"
     },
     {
+      "path": "8-9-2/data.csv",
+      "name": "8-9-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.8-9-2-title"
+    },
+    {
       "path": "12-c-1/data.csv",
       "name": "12-c-1",
       "profile": "tabular-data-resource",
@@ -16215,6 +16237,28 @@
       "title": "global_indicators.15-9-1-title"
     },
     {
+      "path": "2-2-4/data.csv",
+      "name": "2-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.2-2-4-title"
+    },
+    {
       "path": "13-b-1/data.csv",
       "name": "13-b-1",
       "profile": "tabular-data-resource",
@@ -16501,6 +16545,28 @@
       "title": "global_indicators.16-2-3-title"
     },
     {
+      "path": "11-c-1/data.csv",
+      "name": "11-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.11-c-1-title"
+    },
+    {
       "path": "16-5-1/data.csv",
       "name": "16-5-1",
       "profile": "tabular-data-resource",
@@ -16521,50 +16587,6 @@
         ]
       },
       "title": "global_indicators.16-5-1-title"
-    },
-    {
-      "path": "8-9-2/data.csv",
-      "name": "8-9-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "8-9-2"
-    },
-    {
-      "path": "2-2-4/data.csv",
-      "name": "2-2-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "2-2-4"
     }
   ]
 }

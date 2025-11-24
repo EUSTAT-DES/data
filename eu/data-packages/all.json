@@ -16781,6 +16781,30 @@
       "title": "Garapen bidean dauden herrialdeen ahalmen estatistikoa indartzeko emandako baliabide guztien balioa dolarretan"
     },
     {
+      "path": "8-9-2/data.csv",
+      "name": "8-9-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Urtea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Balioa"
+          }
+        ]
+      },
+      "title": "Turismoaren sektoreko langileak"
+    },
+    {
       "path": "12-c-1/data.csv",
       "name": "12-c-1",
       "profile": "tabular-data-resource",
@@ -17189,6 +17213,30 @@
       "title": "a) Zenbat herrialdek ezarri dituzten Kunming-Montrealgo Biodibertsitatearen Munduko Esparruaren 14. helburuarekin bat datozen edo antzekoak diren jomuga nazionalak dibertsitate biologikoaren arloko estrategia eta ekintza-plan nazionaletan eta xede horiek lortzeko jakinarazitako aurrerapenetan; eta b) aniztasun biologikoa integratzea kontabilitaterako eta txostenak aurkezteko sistema nazionaletan, Ingurumen eta Ekonomia Kontabilitate Sistemaren aplikazio gisa definituta"
     },
     {
+      "path": "2-2-4/data.csv",
+      "name": "2-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Urtea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Balioa"
+          }
+        ]
+      },
+      "title": "Elikadura-aniztasunaren gutxieneko atalasearen prebalentzia, biztanleria-taldearen arabera (6-23,9 hilabeteko haurrak eta haurdun ez dauden 15 eta 49 urte bitarteko emakumeak)"
+    },
+    {
       "path": "13-b-1/data.csv",
       "name": "13-b-1",
       "profile": "tabular-data-resource",
@@ -17501,6 +17549,30 @@
       "title": "18 urte bete aurretik sexu-indarkeria jasan zuten 18 eta 29 urte bitarteko emakume eta gizon gazteen proportzioa"
     },
     {
+      "path": "11-c-1/data.csv",
+      "name": "11-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Urtea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Balioa"
+          }
+        ]
+      },
+      "title": "Hiri-azpiegituretarako edo hiri-azpiegituren proiektuetara bideratutako garapenerako laguntza ofiziala eta bestelako fluxu ofizialak, guztira, sektorearen arabera"
+    },
+    {
       "path": "16-5-1/data.csv",
       "name": "16-5-1",
       "profile": "tabular-data-resource",
@@ -17523,54 +17595,6 @@
         ]
       },
       "title": "Azken 12 hilabeteetan funtzionario publiko batekin gutxienez harremanetan egon diren eta funtzionario publiko bati eroskeria ordaindu dioten edo funtzionario publiko batek eroskeria eskatu dien pertsonen proportzioa"
-    },
-    {
-      "path": "8-9-2/data.csv",
-      "name": "8-9-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Urtea"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Balioa"
-          }
-        ]
-      },
-      "title": "8-9-2"
-    },
-    {
-      "path": "2-2-4/data.csv",
-      "name": "2-2-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Urtea"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Balioa"
-          }
-        ]
-      },
-      "title": "2-2-4"
     }
   ]
 }
