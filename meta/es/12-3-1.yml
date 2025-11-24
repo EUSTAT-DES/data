@@ -1,21 +1,81 @@
-# Metadatos nacionales (ficha metodológica)
+ # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >-
+  global_indicators.12-3-1-title
 
-# objetivo_global: objetivo_largo.12-titulo
-# meta_global: meta_largo.12-3-titulo
+objetivo_global: objetivo_largo.12-titulo
+meta_global: meta_largo.12-3-titulo
 #  indicador_onu_global: indicador_largo.12-3-1-titulo
 
+definicion: >-
+  
+  Series disponibles:
 
-definicion:
+  <b> - Porcentaje de pérdida alimentaria:</b> 
+  Alimentos perdidos en las fases de producción primaria y manufactura, con respecto a la producción total de alimentos. 
 
-formula:
+  <b> - Desperdicio alimentario:</b> 
+  Cantidad de alimentos desperdiciados en la distribución, el consumo fuera del hogar (restaurantes, hoteles, comedores escolares...) y los hogares 
+ 
+  <b> - Desperdicio alimentario per capita:</b>
+  Cantidad de alimentos desperdiciados en la distribución, el consumo fuera del hogar (restaurantes, hoteles, comedores escolares...) y los hogares, por habitante
+ 
 
-desagregacion: 
+formula: |
 
-periodicidad:  
+  <b> Porcentaje de pérdida alimentaria</b> 
 
-observaciones:
+  $$PPA^{t} = \frac{PA_{producción\, primaria\, y\, manufactura}^{t}}{{PRA_{producción\, primaria\, y\, manufactura}^{t}} \cdot 100$$ <br>
+
+  donde:
+
+  $PA_{producción\, primaria\, y\, manufactura}^{t} =$ pérdidas de alimentos en producción primaria y manufactura en el año $t$  
+
+  $PRA_{producción\, primaria\, y\, manufactura}^{t} =$ total de alimentos producidos en producción primaria y manufactura en el año $t$
+
+  <br>
+
+  <b> Desperdicio alimentario</b> 
+
+  $$DA_{distribución, consumo\, fuera\, y\, hogares}^{t} = {DA_{distribución}^{t} + DA_{consumo\, fuera}^{t} + DA_{hogares}^{t}}$$ <br> 
+
+  donde:
+
+  $DA_{distribución}^{t} = $ desperdicio alimentario del sector de la distribución en el año $t$ 
+
+  $DA_{consumo\, fuera}^{t} = $ desperdicio alimentario del sector de la hostelería en el año $t$ 
+
+  $DA_{hogares}^{t} = $ desperdicio alimentario en los hogares en el año $t$ 
+
+  <br>
+  
+  <b> Desperdicio alimentario per capita</b>
+
+  $$DAPC_{distribución, consumo\, fuera\, y\, hogares}^{t} = \frac{DA_{distribución}^{t} + DA_{consumo\, fuera}^{t} + DA_{hogares}^{t}}{P^{t}}$$ <br> 
+
+  donde:
+
+  $DA_{distribución}^{t} = $ desperdicio alimentario del sector de la distribución en el año $t$ 
+
+  $DA_{consumo\, fuera\}^{t} = $ desperdicio alimentario del sector de la hostelería en el año $t$ 
+
+  $DA_{hogares}^{t} = $ desperdicio alimentario en los hogares en el año $t$ 
+
+  $P^{t} = $ población a 1 de julio del año $t$ 
+
+
+desagregacion:
+  
+
+observaciones: >-
+
+  Los alimentos incluyen tanto las partes comestibles como las no comestibles (por ejemplo las espinas de los pescados).
+
+  Se consideran pérdida o desperdicio todos aquellos alimentos desechados como residuos.
+
+  
+
+periodicidad: FUENTE.FREQ_A4 
 
 
  # Metadatos mundiales (Descripción del indicador)  
@@ -71,4 +131,3 @@ indicador_meta_enlace: |
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-03-01A.pdf">Metadatos 12-3-1(a).pdf</a> (solo en inglés)
 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-03-01B.pdf">Metadatos 12-3-1(b).pdf</a> (solo en inglés)
-
