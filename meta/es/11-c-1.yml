@@ -1,0 +1,63 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+  
+
+#  objetivo_global: objetivo_largo.11-titulo
+#  meta_global: meta_largo.11-c-titulo
+#  indicador_onu_global: indicador_largo.11-c-1-titulo
+
+
+definicion:  
+   
+
+formula:  
+
+  
+desagregacion: 
+  
+
+periodicidad: 
+
+
+observaciones: 
+
+  
+
+texto_oceca: 
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  El concepto de asistencia oficial para el desarrollo (AOD) ha evolucionado con el tiempo, 
+  reflejando los cambios en el panorama mundial del desarrollo y las prioridades cambiantes 
+  de los países donantes. Si bien la AOD sigue siendo una fuente crucial de financiación 
+  para el desarrollo, su eficacia depende de la calidad de la ejecución de los programas y 
+  de su grado de alineamiento con las prioridades locales de desarrollo. 
+
+  Para garantizar que los recursos de la AOD se utilicen de forma eficiente y eficaz para 
+  lograr los resultados de desarrollo previstos, es esencial un seguimiento y una evaluación 
+  rigurosos de los programas de AOD.
+
+  La asistencia oficial para el desarrollo por sector se define como la distribución de los 
+  compromisos bilaterales de AOD, clasificados por sector económico. Estos datos son agregados 
+  de proyectos individuales notificados en el marco del Sistema de Información de Acreedores, 
+  complementados con informes sobre la distribución sectorial de la cooperación técnica y sobre 
+  los desembolsos reales de ayuda alimentaria y de emergencia. No se refiere al tipo de bienes 
+  o servicios prestados. Este indicador se mide en millones de dólares estadounidenses a precios 
+  constantes, tomando 2021 como año base. 
+
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+
+
+dato_global: 
+ 
+
+comparabilidad: 
+  
+
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-0c-01.pdf">Metadatos 11-c-1.pdf</a> (solo en inglés)
+
