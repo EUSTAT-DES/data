@@ -1,0 +1,76 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+  
+
+objetivo_global: objetivo_largo.2-titulo
+meta_global: meta_largo.2-2-titulo
+#  indicador_onu_global: indicador_largo.2-2-4-titulo
+
+
+definicion:  
+   
+
+formula:  
+
+  
+desagregacion: 
+  
+
+periodicidad: 
+
+
+observaciones: 
+
+  
+
+texto_oceca: 
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  Dieta osasungarri baten funtsezko ezaugarria da aniztasun dietetikoa. Inongo elikagaik edo elikagai-taldek 
+  ez ditu ematen, berez, nutrizio optimoa, hazkundea eta epe luzeko osasuna lortzeko behar diren nutrienteak 
+  eta beste konposatu bioaktiboak. Beraz, elikagai aukera zabala kontsumitzeak pertsona batek behar dituen 
+  mantenugai guztiak emateko probabilitatea handitzen du. Mota askotako dietek areagotu egiten dute 
+  mikromantenugaien urritasuna izateko arriskua, batez ere nutrizio-behar handi samarrak dituzten emakumeen 
+  kasuan, eta horrek arriskuan jar dezake osasuna. Horrenbestez, aniztasun dietetikoa ibilbide luzeko osasun 
+  publikoko printzipioa da, eta asko defendatzen da elikagaietan oinarritutako jarraibide dietetikoetan, 
+  Osasunaren Mundu Erakundearen (OME) "Dieta Osasungarria" informazio-orrian, FAOren eta OMEren printzipio 
+  gidarietan "Dieta osasungarri iraunkorrak", eta UNICEFen "Haurren Amaren Nutrizioari buruzko Esparru 
+  Kontzeptualean".
+
+  OMEk elikadura osagarriari buruz emandako jarraibideek gomendatzen dute bularreko haurrek eta haur txikiek 
+  askotariko elikadura jasotzea, nutrizio-beharrak asetzen direla bermatzeko eta hazkunde eta garapen 
+  osasungarria errazteko. Jarraibide horiek gomendio orokorrak, arauemaileak eta ebidentzian oinarritutakoak 
+  eskaintzen dituzte, diru-sarrera txikiak, ertainak eta altuak dituzten herrialdeetan bizi diren 6 eta 23 
+  hilabete bitarteko haur txikien eta bularreko haurren elikadura osagarriari buruz. Elikagai taldeen 
+  aniztasuna haur txikien hazkunde lineal hobearekin lotzen da; dieta eskasak mikronutrienteen urritasunak 
+  izateko arriskua areagotu dezake, eta horrek eragin kaltegarria izan dezake haien garapen fisiko eta 
+  kognitiboan. Era askotako dieta bat kontsumitzea ere garrantzitsua da, nutrizio-beharrak asetzetik haratago 
+  doazen arrazoiengatik; askotariko dieta jasotzen duten haur txikiek hainbat zapore eta elikagai-testura 
+  izan ditzakete.
+
+
+  Iturria: Nazio Batuen Estatistika Sekzioa
+
+
+dato_global: |
+
+   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.2.4&seriesCode=SH_MDD_CHLD&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=M6T23%20%7C%20ALLAREA%20%7C%20BOTHSEX%20%7C%20_T ">Elikadura-aniztasunaren gutxieneko atalasearen prebalentzia, 6 eta 23,9 hilabete bitarteko haurren artean (%) MDD_C</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.2.4&seriesCode=SH_MDD_WMN_NPRG&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3">Elikadura-aniztasunaren gutxieneko atalasearen prebalentzia, haurdun ez dauden 15 eta 49 urte bitarteko emakumeen artean (%) SH_MDD_WMN_NPRG</a> UNSTATS
+ 
+
+comparabilidad: 
+  
+
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-04a.pdf">Metadatuak 2-2-4 (1).pdf</a> (ingelesez bakarrik)
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-04b.pdf">Metadatuak 2-2-4 (2).pdf</a> (ingelesez bakarrik)
+
+
+national_data_updated_date: ''
+national_metadata_updated_date: ''
