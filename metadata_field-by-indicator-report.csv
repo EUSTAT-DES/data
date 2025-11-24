@@ -303,6 +303,7 @@ Elikagaien segurtasunik eza honela puntuatzen da:
 #2-2-1,complete,alcanzado,,line,,,True,,
 #2-2-2,complete,retroceso,,bar,FUENTE.oceca,2025-05-08,,,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen,  ez baitu gehiegizko pisua kalkulatzeko modu bera erabiltzen, ezta adin-talde bera ere."
 #2-2-3,notstarted,notstarted,,line,,,,,
+#2-2-4,notstarted,,,line,,,True,,
 #2-2-E1,complete,retroceso,,bar,,2025-05-08,,"2013, 2018 eta 2023ko datuak Eusko Jaurlaritzako Osasun Sailaren Osasun inkestakoak dira; 2011 eta 2017koak INEren Espainiako Osasun Inkesta Nazionalekoak; eta 2014 eta 2019koak INEren Europako Osasun inkestakoak.
 ",Helduen obesitate-tasa Europako adierazlearekin aldera daiteke.
 #2-3-1,complete,progreso,,line,,2025-08-04,,,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du.  "
@@ -614,6 +615,7 @@ parekatuak (1/2013 Legegintzako Errege Dekretuaren arabera).
 #8-8-1,complete,progreso,,line,FUENTE.oceca,2025-07-22,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 #8-8-2,notstarted,notstarted,,line,,,,,
 #8-9-1,complete,noevaluado,,line,,2025-08-04,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+#8-9-2,notstarted,,,line,,,True,,
 #8-a-1,notstarted,notstarted,,line,,,,,
 #8-b-1,complete,alcanzado,,line,FUENTE.oceca,2025-08-04,,"
 Autonomia erkidegoetako aurrekontu-likidazioen datu bateratuak araztuta hartzen dira tokiko finantza-bitartekaritzatik  eta NPEtik (nekazaritza-politika erkidea)","EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du."
