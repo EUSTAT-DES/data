@@ -7899,6 +7899,54 @@
       "title": "Número de víctimas de la trata de personas por cada 100.000 habitantes, desglosado por sexo, edad y tipo de explotación"
     },
     {
+      "path": "12-3-1/data.csv",
+      "name": "12-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Desperdicio alimentario",
+                "Desperdicio alimentario per cápita",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Toneladas",
+                "Toneladas per cápita",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "a) Índice de pérdidas de alimentos y b) índice de desperdicio de alimentos"
+    },
+    {
       "path": "17-18-3/data.csv",
       "name": "17-18-3",
       "profile": "tabular-data-resource",
@@ -16371,30 +16419,6 @@
         ]
       },
       "title": "Proporción de razas y variedades locales consideradas en riesgo de extinción"
-    },
-    {
-      "path": "12-3-1/data.csv",
-      "name": "12-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "a) Índice de pérdidas de alimentos y b) índice de desperdicio de alimentos"
     },
     {
       "path": "13-a-1/data.csv",

@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Desperdicio alimentario",
+                "Desperdicio alimentario per cápita",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Toneladas",
+                "Toneladas per cápita",
+                ""
+              ]
+            },
+            "title": "Unidad"
           },
           {
             "name": "Value",

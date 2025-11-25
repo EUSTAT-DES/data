@@ -1,5 +1,7 @@
 Value,eu,es,en,Disaggregation combinations using this value,Number of indicators
 AES_EDUCTRN,Azken 12 hilabeteetan hezkuntza-jardueretan izandako parte-hartze tasa,Tasa de participación en actividades educativas en los últimos 12 meses,Participation rate in educational activities in the last 12 months,3,1
+AG_FOOD_WST,Elikagai xahuketa,Desperdicio alimentario,Food waste,1,1
+AG_FOOD_WST_PC,Elikagai xahuketa per capita,Desperdicio alimentario per cápita,Food waste per capita,1,1
 AG_FPA_CFPI,Elikagaien prezioen anomalien adierazlea,Indicador de anomalías en los precios de los alimentos,Food price anomaly indicator,11,1
 AG_LND_FOVH,Hektarea bakoitzeko nekazaritza-ekoizpenaren balio onargarria edo desiragarria lortu duen nekazaritza-azaleraren proportzioa,Proporción de superficie agrícola que ha alcanzado un nivel aceptable o deseable de valor de producción agrícola por hectárea,Proportion of agricultural land that has reached an acceptable or desirable level of agricultural production value per hectare,1,1
 AG_LND_FRST,"Baso-azalera, azalera osoaren proportzioan",Superficie forestal en proporción a la superficie total,Forest area as a proportion of total area,275,1

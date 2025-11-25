@@ -7899,6 +7899,54 @@
       "title": "Pertsonen salerosketaren biktimen kopurua 100.000 biztanleko, sexuaren, adinaren eta esplotazio motaren arabera banakatuta"
     },
     {
+      "path": "12-3-1/data.csv",
+      "name": "12-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Urtea"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Elikagai xahuketa",
+                "Elikagai xahuketa per capita",
+                ""
+              ]
+            },
+            "title": "Seriea"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tonak",
+                "Tonak per capita",
+                ""
+              ]
+            },
+            "title": "Unitatea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Balioa"
+          }
+        ]
+      },
+      "title": "a) Elikagaien galeren indizea eta b) elikagaien xahuketa indizea"
+    },
+    {
       "path": "17-18-3/data.csv",
       "name": "17-18-3",
       "profile": "tabular-data-resource",
@@ -16371,30 +16419,6 @@
         ]
       },
       "title": "Desagertzeko arriskuan dauden arraza eta barietate lokalen proportzioa"
-    },
-    {
-      "path": "12-3-1/data.csv",
-      "name": "12-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Urtea"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Balioa"
-          }
-        ]
-      },
-      "title": "a) Elikagaien galeren indizea eta b) elikagaien xahuketa indizea"
     },
     {
       "path": "13-a-1/data.csv",
