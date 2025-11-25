@@ -8,28 +8,29 @@ meta_global: meta_largo.12-3-titulo
 #  indicador_onu_global: indicador_largo.12-3-1-titulo
 
 
-definicion: >-
+definicion: |
   
-  Available series:
+  Available series: 
 
   <b> - Food loss percentage:</b> 
-  Food lost in the primary production and manufacturing stages, with respect to total food production. 
+  Food lost in the primary production (agricultural, livestock and fishing activities) and manufacturing (food processing 
+  and production industry), with respect to total food production. 
 
   <b> - Food waste:</b> 
-  Amount of food wasted in retail, out-of-home consumption (restaurants, hotels, school-canteens...) and households
+  Food wasted in retail, out-of-home consumption (restaurants, hotels, school-canteens...) and households. 
  
-  <b> - Food waste per capita:</b>
-  Amount of food wasted in retail, out-of-home consumption (restaurants, hotels, school-canteens...) and households, per inhabitant
+  <b> - Food waste per capita:</b> 
+  Food wasted in retail, out-of-home consumption (restaurants, hotels, school-canteens...) and households, per inhabitant. 
 
 formula: |
 
   <b> Food loss percentage</b> 
 
-  $$FLP^{t} = \frac{FL_{primary\, production\, and\, manufacturing}^{t}}{{FP_{primary\, production\, and\, manufacturing}^{t}} \cdot 100$$ <br>
+  $$FLP^{t} = \frac{FL_{primary\, production\, and\, manufacturing}^{t}}{FP_{primary\, production\, and\, manufacturing}^{t}} \cdot 100$$ <br> 
 
-  where:
+  where: 
 
-  $FL_{primary\, production\, and\, manufacturing}^{t} =$ food loss in primary production and manufacturing stages in year $t$  
+  $FL_{primary\, production\, and\, manufacturing}^{t} =$ amount of food lost in primary production and manufacturing in year $t$ 
 
   $FP_{primary\, production\, and\, manufacturing}^{t} =$ total food production in primary production and manufacturing stages in year $t$ 
 
@@ -39,41 +40,43 @@ formula: |
 
   $$FW_{retail, out\, of\, home\, and\, households}^{t} = {FW_{retail}^{t} + FW_{out\, of\, home}^{t} + FW_{households}^{t}}$$ <br> 
 
-  where:
+  where: 
 
-  $FW_{retail}^{t} = $ food waste in retail in year $t$ 
+  $FW_{retail}^{t} = $ amount of food wasted in retail in year $t$ 
 
-  $FW_{out\, of\, home}^{t} = $ food waste in out-of-home consumption in year $t$ 
+  $FW_{out\, of\, home}^{t} = $ amount of food wasted in out-of-home consumption in year $t$ 
 
-  $FW_{households}^{t} = $ food waste in households in year $t$ 
+  $FW_{households}^{t} = $ amount of food wasted in households in year $t$ 
 
   <br>
   
-  <b> Food waste per capita</b>
+  <b> Food waste per capita</b> 
 
   $$FWPC_{retail, out\, of\, home\, and\, households}^{t} = \frac{FW_{retail}^{t} + FW_{out\, of\, home}^{t} + FW_{households}^{t}}{P^{t}}$$ <br> 
 
-  where:
+  where: 
 
-  $FW_{retail}^{t} = $ food waste in retail in year $t$ 
+  $FW_{retail}^{t} = $ amount of food wasted in retail in year $t$ 
 
-  $FW_{out\, of\, home}^{t} = $ food waste in out-of-home consumption in year $t$ 
+  $FW_{out\, of\, home}^{t} = $ amount of food wasted in out-of-home consumption in year $t$ 
 
-  $FW_{households}^{t} = $ food waste in households in year $t$ 
+  $FW_{households}^{t} = $ amount of food wasted in households in year $t$ 
 
-  $P^{t} = $ population as of July 1 of year $t$
+  $P^{t} = $ population as of July 1 of year $t$ 
 
 
 
 desagregacion: 
 
-periodicidad:  
 
-observaciones: >-
+observaciones: |
 
-  Food includes both edible and inedible parts (e.g., fish bones).
+  All food discarded as waste is considered loss or waste. 
 
-  All food discarded as waste is considered loss or waste.
+  Food includes both edible and inedible parts (e.g., fish bones). 
+
+
+periodicidad: FUENTE.FREQ_A4 
 
 
  # Metadatos mundiales (Descripción del indicador)  
@@ -105,17 +108,20 @@ justificacion_global: |
 
 dato_global: |
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.3.1&seriesCode=AG_FOOD_WST_PC&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALL">
-  Food waste per capita (KG) AG_FOOD_WST_PC</a> UNSTATS
-
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.3.1&seriesCode=AG_FOOD_WST&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALL">
-  Food waste (Tonnes) AG_FOOD_WST</a> UNSTATS
-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.3.1&seriesCode=AG_FLS_INDEX&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALP">
-  Global food loss index AG_FLS_INDEX</a> UNSTATS
+  Global food loss index AG_FLS_INDEX</a> UNSTATS 
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.3.1&seriesCode=AG_FLS_PCT&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALP">
-  Food loss percentage (%) AG_FLS_PC</a> UNSTATS
+  Food loss percentage (%) AG_FLS_PC</a> UNSTATS 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.3.1&seriesCode=AG_FOOD_WST_PC&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALL">
+  Food waste per capita (KG) AG_FOOD_WST_PC</a> UNSTATS 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.3.1&seriesCode=AG_FOOD_WST&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALL">
+  Food waste (Tonnes) AG_FOOD_WST</a> UNSTATS 
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata. 
 
 indicador_meta_enlace: |
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-03-01A.pdf">Metadata 12-3-1(a).pdf</a>
