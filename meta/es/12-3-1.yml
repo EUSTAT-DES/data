@@ -7,31 +7,32 @@ objetivo_global: objetivo_largo.12-titulo
 meta_global: meta_largo.12-3-titulo
 #  indicador_onu_global: indicador_largo.12-3-1-titulo
 
-definicion: >-
+definicion: |
   
-  Series disponibles:
+  Series disponibles: 
 
-  <b> - Porcentaje de pérdida alimentaria:</b> 
-  Alimentos perdidos en las fases de producción primaria y manufactura, con respecto a la producción total de alimentos. 
+  <b> - Porcentaje de pérdida alimentaria:</b>
+  Alimentos perdidos en la producción primaria (actividades de agricultura, ganadería y pesca) y manufactura (industria de transformación 
+  y producción de alimentos), con respecto a la producción total de alimentos.  
 
-  <b> - Desperdicio alimentario:</b> 
-  Cantidad de alimentos desperdiciados en la distribución, el consumo fuera del hogar (restaurantes, hoteles, comedores escolares...) y los hogares 
+  <b> - Desperdicio alimentario:</b>
+  Cantidad de alimentos desperdiciados en la distribución, el consumo fuera del hogar (restaurantes, hoteles, comedores escolares...) y los hogares.  
  
   <b> - Desperdicio alimentario per capita:</b>
-  Cantidad de alimentos desperdiciados en la distribución, el consumo fuera del hogar (restaurantes, hoteles, comedores escolares...) y los hogares, por habitante
+  Cantidad de alimentos desperdiciados en la distribución, el consumo fuera del hogar (restaurantes, hoteles, comedores escolares...) y los hogares, por habitante.  
  
 
 formula: |
 
   <b> Porcentaje de pérdida alimentaria</b> 
 
-  $$PPA^{t} = \frac{PA_{producción\, primaria\, y\, manufactura}^{t}}{{PRA_{producción\, primaria\, y\, manufactura}^{t}} \cdot 100$$ <br>
+  $$PPA^{t} = \frac{PA_{producción\, primaria\, y\, manufactura}^{t}}{PRA_{producción\, primaria\, y\, manufactura}^{t}} \cdot 100$$ <br> 
 
-  donde:
+  donde: 
 
-  $PA_{producción\, primaria\, y\, manufactura}^{t} =$ pérdidas de alimentos en producción primaria y manufactura en el año $t$  
+  $PA_{producción\, primaria\, y\, manufactura}^{t} =$ cantidad alimentos perdidos en producción primaria y manufactura en el año $t$ 
 
-  $PRA_{producción\, primaria\, y\, manufactura}^{t} =$ total de alimentos producidos en producción primaria y manufactura en el año $t$
+  $PRA_{producción\, primaria\, y\, manufactura}^{t} =$ total de alimentos producidos en producción primaria y manufactura en el año $t$ 
 
   <br>
 
@@ -39,27 +40,27 @@ formula: |
 
   $$DA_{distribución, consumo\, fuera\, y\, hogares}^{t} = {DA_{distribución}^{t} + DA_{consumo\, fuera}^{t} + DA_{hogares}^{t}}$$ <br> 
 
-  donde:
+  donde: 
 
-  $DA_{distribución}^{t} = $ desperdicio alimentario del sector de la distribución en el año $t$ 
+  $DA_{distribución}^{t} = $ cantidad de alimentos desperdiciados en el sector de la distribución en el año $t$ 
 
-  $DA_{consumo\, fuera}^{t} = $ desperdicio alimentario del sector de la hostelería en el año $t$ 
+  $DA_{consumo\, fuera}^{t} = $ cantidad de alimentos desperdiciados en el consumo fuera del hogar en el año $t$ 
 
-  $DA_{hogares}^{t} = $ desperdicio alimentario en los hogares en el año $t$ 
+  $DA_{hogares}^{t} = $ cantidad de alimentos desperdiciados en los hogares en el año $t$ 
 
   <br>
   
-  <b> Desperdicio alimentario per capita</b>
+  <b> Desperdicio alimentario per capita</b> 
 
   $$DAPC_{distribución, consumo\, fuera\, y\, hogares}^{t} = \frac{DA_{distribución}^{t} + DA_{consumo\, fuera}^{t} + DA_{hogares}^{t}}{P^{t}}$$ <br> 
 
-  donde:
+  donde: 
 
-  $DA_{distribución}^{t} = $ desperdicio alimentario del sector de la distribución en el año $t$ 
+  $DA_{distribución}^{t} = $ cantidad de alimentos desperdiciados en el sector de la distribución en el año $t$ 
 
-  $DA_{consumo\, fuera\}^{t} = $ desperdicio alimentario del sector de la hostelería en el año $t$ 
+  $DA_{consumo\, fuera\}^{t} = $ cantidad de alimentos desperdiciados en el consumo fuera del hogar en el año $t$ 
 
-  $DA_{hogares}^{t} = $ desperdicio alimentario en los hogares en el año $t$ 
+  $DA_{hogares}^{t} = $ cantidad de alimentos desperdiciados en los hogares en el año $t$ 
 
   $P^{t} = $ población a 1 de julio del año $t$ 
 
@@ -67,14 +68,13 @@ formula: |
 desagregacion:
   
 
-observaciones: >-
+observaciones: |
+
+  Se consideran pérdida o desperdicio todos aquellos alimentos desechados como residuos. 
 
   Los alimentos incluyen tanto las partes comestibles como las no comestibles (por ejemplo las espinas de los pescados).
 
-  Se consideran pérdida o desperdicio todos aquellos alimentos desechados como residuos.
-
   
-
 periodicidad: FUENTE.FREQ_A4 
 
 
@@ -115,19 +115,23 @@ justificacion_global: |
 
 dato_global: |
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.3.1&seriesCode=AG_FOOD_WST_PC&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALL">
-  Desperdicio de alimentos per cápita (KG) AG_FOOD_WST_PC</a> UNSTATS
-
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.3.1&seriesCode=AG_FOOD_WST&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALL">
-  Desperdicio de alimentos (toneladas) AG_FOOD_WST</a> UNSTATS
-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.3.1&seriesCode=AG_FLS_INDEX&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALP">
-  Índice mundial de pérdida de alimentos AG_FLS_INDEX</a> UNSTATS
+  Índice mundial de pérdida de alimentos AG_FLS_INDEX</a> UNSTATS 
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.3.1&seriesCode=AG_FLS_PCT&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALP">
-  Porcentaje de pérdida de alimentos (%) AG_FLS_PC</a> UNSTATS
+  Porcentaje de pérdida de alimentos (%) AG_FLS_PC</a> UNSTATS 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.3.1&seriesCode=AG_FOOD_WST_PC&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALL">
+  Desperdicio de alimentos per cápita (KG) AG_FOOD_WST_PC</a> UNSTATS 
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.3.1&seriesCode=AG_FOOD_WST&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALL">
+  Desperdicio de alimentos (toneladas) AG_FOOD_WST</a> UNSTATS 
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos del indicador de Naciones Unidas.
 
 indicador_meta_enlace: |
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-03-01A.pdf">Metadatos 12-3-1(a).pdf</a> (solo en inglés)
 
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-03-01B.pdf">Metadatos 12-3-1(b).pdf</a> (solo en inglés)
+
