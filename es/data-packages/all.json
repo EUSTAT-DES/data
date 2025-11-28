@@ -12474,7 +12474,7 @@
             "constraints": {
               "enum": [
                 "Electricidad",
-                "Conexión a internet",
+                "SE_ACS_CMPTR",
                 "Baños separados por sexo",
                 "Agua potable",
                 "Lavado de manos",

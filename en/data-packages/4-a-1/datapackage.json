@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Electricity",
-                "Internet connection",
+                "SE_ACS_CMPTR",
                 "Single-sex restrooms",
                 "Drinking water",
                 "Handwashing",
