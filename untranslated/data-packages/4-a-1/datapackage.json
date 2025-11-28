@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "SE_ACS_ELECT",
-                "SE_ACS_CMPTR",
+                "SE_ACS_INTNT",
                 "SE_ACS_SANIT",
                 "SE_ACS_H2O",
                 "SE_ACS_HNDWSH",
