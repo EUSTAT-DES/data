@@ -15,6 +15,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 
 2-1-2-titulo: "Prevalence of severe or very severe food insecurity"
 2-2-2-titulo: "Proportion of children aged 2 to 17 who are obese, overweight, or underweight"
+2-2-4-titulo: "Prevalence of minimum dietary diversity, by population group (children aged 6 to 23.9 months and non-pregnant women aged 15 to 49 years)"
 2-2-E1-titulo: "Obesity rate of the adult population according to body mass index (BMI) (EU indicator sdg_02_10)"
 2-3-1-titulo: Volume of production per labour unit by enterprise size
 2-3-2-titulo: Average income of small-scale food producers
@@ -33,6 +34,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 3-8-1-titulo: "Proportion of people aged 16 and over with unmet need for health care"
 3-8-2-titulo: "Proportion of the population with high health expenditures per household as a percentage of total household expenditure"
 3-a-1-titulo: "Proportion of people aged 15 and over who smoke daily"
+3-b-3-titulo: "Health product access index"
 
 4-1-1-titulo: "Proportion of 15-year-olds who have achieved at least level 2 proficiency in reading and mathematics"
 4-1-E1-titulo: "Early school leaving rate of the 18-24 age group (EU indicator sdg_04_10)"
@@ -63,6 +65,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 8-5-E1-titulo: "Population occupancy rate (EU indicator sdg_08_30)" 
 8-8-1-titulo: "Rate of incidence of accidents with sick leave during the working day/in transit, according to severity" 
 8-9-1-titulo: "GDP generated directly by tourism as a proportion of total GDP and growth rate"
+8-9-2-titulo: "Employed persons in the tourism industries (number)"
 8-10-1-titulo: "Number of commercial bank branches per 100,000 inhabitants aged 15 and over"
 8-10-2-titulo: "Proportion of people aged 18-79 who have a checking account"
 8-b-1-titulo: "Spending by regional public administrations on employment promotion"
@@ -83,6 +86,8 @@ nodisponible: The Basque Country does not produce continuous official statistics
 11-7-1-titulo: "Average proportion of the built-up area of ​​cities that is dedicated to open spaces for public use by all"
 11-7-2-titulo: "Number of people who have been victims of non-sexual or sexual harassment in the last 12 months per 100,000 inhabitants"
 11-a-1-titulo: "Proportion of municipalities covered by a territorial land use plan or a municipal urban plan"
+11-c-1-titulo: "Total official development assistance and other official flows in support of urban infrastructure or urban infrastructure projects, by sector"
+
 
 12-1-1-titulo: "Policy instruments are developed, adopted or implemented to support the transition to sustainable consumption and production patterns"
 12-5-1-titulo: "Proportion of municipal waste recycled in relation to total municipal waste generated and treated"
@@ -293,6 +298,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 
 12-1-1-contenido: "<b>Desired direction:</b> Increase"
 12-2-2-contenido: "<b>Desired direction:</b> Decrease in the series Domestic material consumption per GDP"
+12-3-1-contenido: "<b>Desired direction:</b> No assessment"
 12-4-1-contenido:  |
   The indicator refers to the number of States (Parties) that have ratified, accepted, approved, or acceded to the following five Multilateral Environmental Agreements (MEAs). These agreements are regulated within the European Union, although the information required by the Secretariats of the respective Conventions is managed at the state level. The five agreements and their European legal bases are:
 

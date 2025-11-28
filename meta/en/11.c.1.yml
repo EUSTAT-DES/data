@@ -1,0 +1,60 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+  
+
+#  objetivo_global: objetivo_largo.11-titulo
+#  meta_global: meta_largo.11-c-titulo
+#  indicador_onu_global: indicador_largo.11-c-1-titulo
+
+
+definicion:  
+   
+
+formula:  
+
+  
+desagregacion: 
+  
+
+periodicidad: 
+
+
+observaciones: 
+
+  
+
+texto_oceca: 
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  The concept of official development assistance (ODA) has evolved over time, reflecting 
+  shifts in the global development landscape and changing priorities of donor countries. 
+  While ODA remains a critical source of development financing, its effectiveness depends 
+  on the quality of program implementation and the extent of its alignment with local 
+  development priorities.
+
+  To ensure that ODA resources are used efficiently and effectively in achieving intended 
+  development outcomes, rigorous monitoring and evaluation of ODA programs is essential.
+
+  Official development assistance (ODA) by sector is defined as the distribution of bilateral 
+  ODA commitments categorized by economic sector. These data are aggregates of Individual 
+  projects notified under the Creditor Reporting System, supplemented by reporting on the 
+  sectoral distribution of technical co-operation, and on actual disbursements of food and 
+  emergency aid. It does not refer to the type of goods or services provided. This indicator 
+  is measured in million USD constant prices, using 2021 as the base year. 
+
+
+  Source: United Nations Statistics Division
+
+dato_global: 
+ 
+
+comparabilidad: 
+  
+
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-11-0c-01.pdf">Metadata 11-c-1.pdf</a>
+

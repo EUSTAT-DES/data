@@ -29,7 +29,7 @@ formula: |
 
   <b>Proportion of unemployed people receiving unemployment benefits</b>
 
-  $$PP_{unemployed}^{t} = \frac{P_{unemployment\, benefit}^{t}}{P_{unemployment}^{t}} \cdot 100$$
+  $$PP_{unemployed}^{t} = \frac{P_{unemployment\, benefit}^{t}}{P_{unemployed}^{t}} \cdot 100$$
 
   where:
 

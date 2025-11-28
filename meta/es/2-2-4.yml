@@ -1,0 +1,74 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+  
+
+#  objetivo_global: objetivo_largo.2-titulo
+#  meta_global: meta_largo.2-2-titulo
+#  indicador_onu_global: indicador_largo.2-2-4-titulo
+
+
+definicion:  
+   
+
+formula:  
+
+  
+desagregacion: 
+  
+
+periodicidad: 
+
+
+observaciones: 
+
+  
+
+texto_oceca: 
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: | 
+
+  La diversidad dietética es una característica fundamental de una dieta saludable. Ningún alimento o 
+  grupo de alimentos proporciona por sí solo la multitud de nutrientes y otros compuestos bioactivos 
+  necesarios para una nutrición óptima, el crecimiento y la salud a largo plazo. Por lo tanto, consumir 
+  una amplia variedad de alimentos aumenta la probabilidad de que una dieta proporcione todos los 
+  nutrientes que necesita una persona. Las dietas poco variadas aumentan el riesgo de deficiencias de 
+  micronutrientes, especialmente en mujeres con necesidades nutricionales relativamente mayores, lo que 
+  puede comprometer la salud. Por lo tanto, la diversidad dietética es un principio de salud pública de 
+  larga trayectoria, ampliamente defendido en las directrices dietéticas basadas en alimentos, la hoja 
+  informativa "Dieta Saludable" de la Organización Mundial de la Salud (OMS), los principios rectores 
+  de la FAO y la OMS para "Dietas saludables sostenibles", y el "Marco Conceptual sobre Nutrición 
+  Maternoinfantil" de UNICEF. 
+
+  Las directrices de la OMS para la alimentación complementaria recomiendan que los lactantes y niños 
+  pequeños reciban una alimentación variada para garantizar que se satisfagan sus necesidades nutricionales 
+  y favorecer un crecimiento y desarrollo saludables. Estas directrices ofrecen recomendaciones globales, 
+  normativas y basadas en la evidencia sobre la alimentación complementaria de lactantes y niños pequeños 
+  de 6 a 23 meses de edad que viven en países de ingresos bajos, medios y altos. La diversidad de grupos 
+  de alimentos se asocia con un mejor crecimiento lineal en los niños pequeños, y una dieta deficiente 
+  puede aumentar el riesgo de deficiencias de micronutrientes, lo que puede tener un efecto perjudicial 
+  en su desarrollo físico y cognitivo. Consumir una dieta variada también es importante por razones que 
+  van más allá de satisfacer las necesidades nutricionales; los niños pequeños que reciben una dieta 
+  variada están expuestos a diferentes sabores y texturas de alimentos.
+
+
+  Fuente: División de Estadísticas de las Naciones Unidas
+ 
+
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.2.4&seriesCode=SH_MDD_CHLD&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=M6T23%20%7C%20ALLAREA%20%7C%20BOTHSEX%20%7C%20_T ">Prevalencia del umbral mínimo de diversidad alimentaria, entre las y los niños de entre 6 y 23,9 meses (%) MDD_C</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.2.4&seriesCode=SH_MDD_WMN_NPRG&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3">Prevalencia del umbral mínimo de diversidad alimentaria, entre mujeres no embarazadas de 15 a 49 años (%) SH_MDD_WMN_NPRG</a> UNSTATS
+
+
+comparabilidad: 
+  
+
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-04a.pdf">Metadatos 2-2-4 (1).pdf</a> (solo en inglés)
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-04b.pdf">Metadatos 2-2-4 (2).pdf</a> (solo en inglés)

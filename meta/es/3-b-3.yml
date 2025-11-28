@@ -23,28 +23,11 @@ observaciones:
 
 justificacion_global: |
 
-  La medición y el seguimiento del acceso a los medicamentos esenciales son 
-  de alta prioridad para la agenda mundial de desarrollo, dado que el 
-  acceso es una parte integral del movimiento de cobertura sanitaria 
-  universal y un elemento indispensable de la prestación de atención 
-  sanitaria de calidad. 
-
-  El acceso a los medicamentos es un concepto multidimensional 
-  compuesto que se compone de la disponibilidad de medicamentos y 
-  la asequibilidad de sus precios. La información sobre estas 
-  dos dimensiones se ha recopilado y analizado desde la 54.ª Asamblea 
-  Mundial de la Salud en 2001, cuando los Estados Miembros adoptaron 
-  la Estrategia de la OMS sobre medicamentos (resolución WHA54.11). 
-
-  Esta resolución condujo al lanzamiento del proyecto conjunto sobre 
-  precios y disponibilidad de medicamentos por parte de la OMS y la 
-  organización no gubernamental internacional Health Action International 
-  (HAI/WHO), así como a una propuesta de metodología HAI/OMS para recopilar 
-  datos y medir los componentes del acceso a los medicamentos. 
-
-  Hasta el día de hoy, esta metodología se ha implementado ampliamente 
-  para producir análisis útiles de la disponibilidad y asequibilidad de los 
-  medicamentos, sin embargo, las dos dimensiones se han evaluado por separado.
+  El acceso a productos sanitarios (medicamentos, vacunas, dispositivos médicos, incluidos los de diagnóstico, 
+  productos de asistencia, sangre y otros productos de origen humano) es fundamental para brindar servicios de 
+  salud de calidad que las personas necesitan. El índice de acceso a productos sanitarios está diseñado para 
+  resumir los datos de los indicadores de cobertura de servicios de salud esenciales existentes, con el fin de 
+  reducir la duplicación y la carga de informes. 
 
   Fuente: División de Estadísticas de las Naciones Unidas
 
@@ -53,5 +36,5 @@ dato_global:
 comparabilidad: 
 
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0b-03.pdf">Metadatos 3-b-3.pdf</a> (solo en inglés)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-0b-03_NEW.pdf">Metadatos 3-b-3.pdf</a> (solo en inglés)
 

@@ -1,0 +1,69 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: GRAFICO.nodisponible
+  
+
+#  objetivo_global: objetivo_largo.2-titulo
+#  meta_global: meta_largo.2-2-titulo
+#  indicador_onu_global: indicador_largo.2-2-4-titulo
+
+
+definicion:  
+   
+
+formula:  
+
+  
+desagregacion: 
+  
+
+periodicidad: 
+
+
+observaciones: 
+
+  
+
+texto_oceca: 
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+justificacion_global: |
+
+  Dietary diversity is a fundamental characteristic of healthy diets. No single food or food group 
+  provides the multitude of nutrients and other bioactive compounds necessary for optimal nutrition, 
+  growth, and long-term health. Eating a wide variety of foods therefore increases the likelihood 
+  that a diet will provide all the nutrients required by an individual. Diets that lack diversity 
+  increase the risk of micronutrient deficiencies, particularly for women who have relatively higher 
+  nutrient requirements, which can compromise health. Dietary diversity is therefore a long-standing 
+  public health principle widely advocated in food-based dietary guidelines, the World Health 
+  Organization’s (WHO) ‘Healthy Diet’ fact sheet, FAO and WHO’s guiding principles for ‘Sustainable 
+  healthy diets’, and UNICEF’s ‘Conceptual Framework on Maternal and Child Nutrition’.
+
+  The WHO guidelines for complementary feeding recommends that infants and young children are fed a 
+  variety of foods to ensure their nutritional needs are met and to support healthy growth and development. 
+  This guideline provides global, normative evidence-based recommendations on complementary feeding of 
+  infants and young children 6–23 months of age living in low, middle- and highincome countries. Food group 
+  diversity is associated with improved linear growth in young children and a diet lacking in diversity can 
+  increase the risk of micronutrient deficiencies, which may have a damaging effect on children’s physical 
+  and cognitive development. Consuming a diverse diet is also important for reasons beyond meeting nutritional 
+  requirements; young children who receive a diverse diet are exposed to different food tastes and textures. 
+
+
+  Source: United Nations Statistics Division
+ 
+
+
+dato_global: |
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.2.4&seriesCode=SH_MDD_CHLD&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=M6T23%20%7C%20ALLAREA%20%7C%20BOTHSEX%20%7C%20_T ">Prevalence of minimum dietary diversity among children aged 6-23 months (%) MDD_C</a> UNSTATS
+
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.2.4&seriesCode=SH_MDD_WMN_NPRG&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3">Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years (%) SH_MDD_WMN_NPRG</a> UNSTATS
+
+comparabilidad:
+  
+
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-04a.pdf">Metadata 2-2-4 (1).pdf</a>
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-04b.pdf">Metadata 2-2-4 (2).pdf</a>
