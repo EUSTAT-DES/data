@@ -31,7 +31,7 @@ reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.INE
-    periodicity: FUENTE.FREQ_A
+    periodicity: FUENTE.FREQ_I
     url: FUENTE.INE_efec_url
     url_text: FUENTE.INE_efec
     logo: FUENTE.INE_logo
