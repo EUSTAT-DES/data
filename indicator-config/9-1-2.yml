@@ -30,10 +30,10 @@ progress_status: notstarted
 reporting_status: notstarted
 sort: ''
 sources:
-  - organisation: FUENTE.Eustat
+  - organisation: FUENTE.AENA
     periodicity: FUENTE.FREQ_A
-    url: FUENTE.Eustat_cemv_url
-    url_text: FUENTE.Eustat_cemv
-    logo: FUENTE.Eustat_logo
+    url: FUENTE.Aena_eta_url
+    url_text: FUENTE.Aena_eta
+    logo: FUENTE.AENA_logo
 standalone: false
 tags: []
