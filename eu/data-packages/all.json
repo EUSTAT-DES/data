@@ -1095,7 +1095,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Eurotan",
+                "Euroak",
                 ""
               ]
             },
@@ -3412,7 +3412,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Eurotan",
+                "Euroak",
                 ""
               ]
             },
@@ -5791,7 +5791,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Eurotan",
+                "Euroak",
                 "%",
                 ""
               ]
@@ -6426,7 +6426,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "Milioi eurotan",
+                "Milioi euroak",
                 ""
               ]
             },
@@ -8142,7 +8142,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Milioi eurotan",
+                "Milioi euroak",
                 "%",
                 ""
               ]
@@ -11491,7 +11491,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Milioi eurotan",
+                "Milioi euroak",
                 "%",
                 ""
               ]
@@ -14129,7 +14129,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Milioi eurotan",
+                "Milioi euroak",
                 "%",
                 ""
               ]
