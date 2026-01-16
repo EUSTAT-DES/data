@@ -12,8 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Urtea"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Airetik garraiatutako bidaiariak",
+                "Airetik garraiatutako salgaiak",
+                ""
+              ]
+            },
+            "title": "Seriea"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Lurralde historikoa"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bidaiariak milaka",
+                "Kilotonak",
+                ""
+              ]
+            },
+            "title": "Unitatea"
           },
           {
             "name": "Value",

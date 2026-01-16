@@ -13780,6 +13780,67 @@
       "title": "Proporción media de la superficie edificada de las ciudades que se dedica a espacios abiertos para uso público de todos, desglosada por sexo, edad y personas con discapacidad"
     },
     {
+      "path": "9-1-2/data.csv",
+      "name": "9-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pasajeros transportados por vía aérea",
+                "Mercancías transportadas por vía aérea",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio histórico"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Miles de pasajeros",
+                "Kilotoneladas",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Volumen de transporte de pasajeros y carga, desglosado por medio de transporte"
+    },
+    {
       "path": "17-13-1/data.csv",
       "name": "17-13-1",
       "profile": "tabular-data-resource",
@@ -15909,30 +15970,6 @@
         ]
       },
       "title": "Costo de la contratación sufragado por el empleado/a en proporción a los ingresos mensuales percibidos en el país de destino"
-    },
-    {
-      "path": "9-1-2/data.csv",
-      "name": "9-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "Volumen de transporte de pasajeros y carga, desglosado por medio de transporte"
     },
     {
       "path": "6-a-1/data.csv",
