@@ -10,15 +10,15 @@ meta_global: meta_largo.9-1-titulo
 
 definicion: >-
 
-  AENAk aire-bidean garraiatutako bidaiariak eta salgaiak, guztira
+  AENAk airez garraiatutako bidaiariak eta salgaiak, guztira
 
 formula:  |
 
-  <b>Airetik garraiatutako bidaiariak</b>
+  <b>Airez garraiatutako bidaiariak</b>
 
   $$PA^{t} = \frac{NPA^{t}}{1.000} $$
 
-  <b>Airetik garraiatutako salgaiak</b>
+  <b>Airez garraiatutako salgaiak</b>
 
   $$MA^{t} = \frac{KMA^{t}}{1.000.000} $$
 
@@ -26,9 +26,9 @@ formula:  |
 
   non:
 
-  $NPA^{t} =$ airetik ontziratutako edo lehorreratutako bidaiarien kopurua $t$ urtean
+  $NPA^{t} =$ aire bidezko garraioan ontziratutako edo lehorreratutako bidaiarien kopurua $t$ urtean
 
-  $KMA^{t} =$ airetik garraiatutako salgaiak, kilogramotan $t$ urtean
+  $KMA^{t} =$ airez garraiatutako salgaiak, kilogramotan $t$ urtean
 
   
 
@@ -69,9 +69,9 @@ justificacion_global: |
 
 dato_global: |
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.1.2&seriesCode=IS_RDP_FRGVOL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=AIR">Karga-bolumena, garraio-moduaren arabera (tonak-kilometroko) IS_RDP_FRGVOL</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.1.2&seriesCode=IS_RDP_FRGVOL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=AIR">Zama-bolumena, garraiobidearen arabera (tonak-kilometroko) IS_RDP_FRGVOL</a> UNSTATS
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.1.2&seriesCode=IS_RDP_PFVOL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=AIR">Bidaiarien bolumena (bidaiariak-kilometroak), garraio-moduaren arabera IS_RDP_PFVOL</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.1.2&seriesCode=IS_RDP_PFVOL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=AIR">Bidaiarien bolumena (bidaiariak-kilometroak), garraiobidearen arabera IS_RDP_PFVOL</a> UNSTATS
 
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=9.1.2&seriesCode=IS_RDP_PORFVOL&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=SEA">Edukiontzien portuko trafikoa, itsas garraioa (hogei oineko unitate baliokideak - TEUak) IS_RDP_PORFVOL</a> UNSTATS
 
