@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Airetik garraiatutako bidaiariak",
-                "Airetik garraiatutako salgaiak",
+                "Airez garraiatutako bidaiariak",
+                "Airez garraiatutako salgaiak",
                 ""
               ]
             },
@@ -63,5 +63,5 @@
   ],
   "profile": "data-package",
   "name": "9-1-2",
-  "title": "Bidaiariak eta zama garraiatzeko bolumena, garraiobidez banakatuta"
+  "title": "Garraiatutako bidaiari eta zama bolumena, garraiobidez banakatuta"
 }
