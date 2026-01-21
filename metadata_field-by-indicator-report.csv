@@ -447,7 +447,10 @@ akordio baten emaitza da.
 #4-1-E1,complete,alcanzado,,line,,2025-05-08,,,"EAEn eskuragarri dagoen adierazlea Europako adierazlearekin aldera daiteke.
 "
 #4-2-1,notstarted,notstarted,,line,,,,,
-#4-2-2,complete,alcanzado,True,line,FUENTE.oceca,2026-01-21,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
+#4-2-2,complete,alcanzado,True,line,FUENTE.oceca,2026-01-21,,"
+2020 arteko datuak Hezkuntza, Lanbide Heziketa eta Kirol Ministerioaren Unibertsitateaz Kanpoko Irakaskuntzen Estatistikakoak 
+dira. 2021etik aurrerakoak Eustaten Biztanleriaren eta Etxebizitzen Erroldakoak. 
+",EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 #4-3-1,complete,progreso,,line,FUENTE.oceca,2025-08-14,,"Biztanleria Jardueraren Arabera Sailkatzeko Inkestatik datozen datuak urtekoak dira, adin-taldearen arabera, 
 eta azken 4 asteetan egindako jarduerei buruz galdetzen da.
 
