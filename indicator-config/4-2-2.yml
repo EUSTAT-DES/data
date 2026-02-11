@@ -35,6 +35,10 @@ sources:
     url: FUENTE.Eustat_ceme_url
     url_text: FUENTE.Eustat_ceme
     logo: FUENTE.Eustat_logo
+  - organisation: FUENTE.GE_Educacion
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.GE_Educacion_ens_url
+    url_text: FUENTE.GE_Educacion_ens
+    logo: FUENTE.GE_logo
 standalone: false
 tags:
-

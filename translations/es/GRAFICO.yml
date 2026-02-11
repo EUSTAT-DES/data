@@ -71,6 +71,7 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 8-10-2-titulo: "Proporción de personas entre 18 y 79 años que tienen una cuenta corriente"
 8-b-1-titulo: "Gasto de las administraciones públicas autonómicas en fomento del empleo"
  
+9-1-2-titulo: "Pasajeros y mercancías transportadas por vía aérea"
 9-4-E1-titulo: "Intensidad de las emisiones atmosféricas de la industria manufacturera (Indicador UE sdg_09_70)" 
 
 10-2-1-titulo: "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos"
@@ -272,6 +273,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
   también incluyen líneas de actuación específicas para fomentar el empleo juvenil, mediante programas de formación, incentivos a la contratación y apoyo al emprendimiento joven.
 
 9-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+9-1-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 9-2-1-contenido: "<b>Dirección deseada:</b> Mantenimiento o ascenso"
 9-2-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 9-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -415,6 +417,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
   Los datos del último años no están disponibles por municipio
 
 8-6-1-notapie: Los datos del último año son provisionales
+9-1-2-notapie: Los datos del último año son provisionales
 9-2-1-notapie: Los datos del último año son provisionales
 9-2-2-notapie: Los datos del último año son provisionales
 10-4-1-notapie: Los datos del último año son provisionales

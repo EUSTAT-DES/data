@@ -32,7 +32,7 @@ sources:
   - organisation: FUENTE.ELIKA
     periodicity: FUENTE.FREQ_A4
     url: FUENTE.ELIKA_xahu_url
-    url_text: FUENTE.ELIKA
+    url_text: FUENTE.ELIKA_xahu
     logo: FUENTE.ELIKA_logo
 standalone: false
 tags: []

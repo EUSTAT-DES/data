@@ -70,6 +70,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 8-10-2-titulo: "Proportion of people aged 18-79 who have a checking account"
 8-b-1-titulo: "Spending by regional public administrations on employment promotion"
  
+9-1-2-titulo: "Passenger and freight volumes by air transport"
 9-4-E1-titulo: "Air emission intensity from the manufacturing industry (EU indicator sdg_09_70)" 
 
 10-2-1-titulo: "Proportion of people living below 50% of the median income"
@@ -265,6 +266,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
   The <a href="https://www.euskadi.eus/planes-informes-planificacion-innovacion-empleo/web01-s2enple/es/">Basque Employment Strategy 2030 and the Strategic Employment Plans</a> also include specific lines of action to promote youth employment through training programs, hiring incentives, and support for youth entrepreneurship.
   
 9-1-1-contenido: "<b>Desired direction:</b> Increase"
+9-1-2-contenido: "<b>Desired direction:</b> Increase"
 9-2-1-contenido: "<b>Desired direction:</b> Sustainment o increase"
 9-2-2-contenido: "<b>Desired direction:</b> Increase"
 9-3-1-contenido: "<b>Desired direction:</b> Increase"
@@ -406,6 +408,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
   The data for the last year are not available by municipality
 
 8-6-1-notapie: The data for the last year are provisional
+9-1-2-notapie: The data for the last year are provisional
 9-2-1-notapie: The data for the last year are provisional
 9-2-2-notapie: The data for the last year are provisional
 10-4-1-notapie: The data for the last year are provisional

@@ -1,5 +1,6 @@
 # ERAKUNDEAK
 
+AENA: AENA
 BE: Espainiako Bankua
 OMS: Osasunaren Mundu Erakundea
 BM: Munduko Bankua
@@ -60,6 +61,7 @@ CSIC: Ikerketa Zientifikoen Kontseilu Gorena (CSIC)
 
 # ERAGIKETA
 
+Aena_eta: Aire-trafikoaren estatistika
 Geoeuskadi: Geoeuskadi
 GE_Inclusion_ebcss: Gizarte Segurantzaren kotizazio-oinarrien estatistika
 Euskadi_Bienestar_esses: Gizarte-zerbitzuen eta gizarte-ekintzaren estatistika
@@ -141,6 +143,7 @@ Eustat_cid: Ikerketa zientifikoko eta garapen teknologikoko jarduerei buruzko es
 GE_Transicion_egfs: Baso-kudeaketa iraunkorrari buruzko estatistika
 GE_Transicion_tratar: Hiriko hondakin-uren tratamendua
 GE_Educacion_sinf: Ikastetxeetako informazioaren eta komunikazioaren teknologiari buruzko estatistika
+GE_Educacion_ens: Unibertsitateaz kanpoko irakaskuntzen estatistika
 BE_eap: Administrazio Publikoen estatistikak
 GE_Transicion_ecocirc: Ekonomia Zirkularraren Espainiako Estrategia eta Ekintza Planak
 GE_Transicion_convagua: Ur-baliabideekin eta horien kudeaketarekin zerikusia duten nazioarteko hitzarmenak eta akordioak
@@ -184,6 +187,7 @@ ELIKA_xahu: Elikagaien Xahuketaren Analisia Euskadiko Nekazaritzako Elikagaien K
 
 # URL
 
+Aena_eta_url: https://www.aena.es/es/estadisticas/informes-anuales.html
 BM_url: https://data.worldbank.org/
 OMS_url: https://www.who.int/data/gho/data/themes/air-pollution/household-air-pollution
 Geoeuskadi_url: https://www.geo.euskadi.eus/hasiera/
@@ -265,6 +269,7 @@ Eustat_cid_url: https://eu.eustat.eus/estadisticas/tema_179/opt_0/temas.html
 GE_Transicion_egfs_url: https://www.miteco.gob.es/eu/ministerio/servicios/estadisticas/estadisticas-forestales/estadistica-sobre-gestion-forestal-sostenible.html
 GE_Transicion_tratar_url: https://www.miteco.gob.es/eu/agua/temas/saneamiento-depuracion.html
 GE_Educacion_sinf_url: https://www.educacionfpydeportes.gob.es/eu/servicios-al-ciudadano/estadisticas/no-universitaria/centros/tic.html
+GE_Educacion_ens_url: https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/no-universitaria/alumnado/fp.html
 BE_eap_url: https://www.bde.es/webbe/es/estadisticas/temas/administraciones-publicas.html
 Eustat_cepsp_url: https://eu.eustat.eus/estadisticas/tema_151/opt_1/temas.html
 GE_Transicion_ecocirc_url: https://www.miteco.gob.es/eu/calidad-y-evaluacion-ambiental/temas/economia-circular/estrategia.html
@@ -308,6 +313,7 @@ KBA_kba_url: https://www.keybiodiversityareas.org/sites/search
 ELIKA_xahu_url: https://zerodespilfarro.elika.eus/wp-content/uploads/2023/03/Resumen-Diagnostico-Desperdicio-Euskadi_2022EU.pdf
 
 # LOGOS
+AENA_logo: '/assets/img/fuentes/AENA.png'
 BE_logo: '/assets/img/fuentes/BE.png'
 CIS_logo: '/assets/img/fuentes/CIS.png'
 CNMC_logo: '/assets/img/fuentes/CNMC.png'

@@ -35,7 +35,10 @@ desagregacion: |
 periodicidad: FUENTE.FREQ_A
 
 
-observaciones: >-
+observaciones: |
+  Los datos de 2020 y previos son de la Estadística de Enseñanzas no Universitarias del Ministerio de Educación, Formación Profesional y Deportes. 
+  Los de 2021 y posteriores del Censo de Población y Vivienda de Eustat. 
+
 
 texto_oceca: FUENTE.oceca
 

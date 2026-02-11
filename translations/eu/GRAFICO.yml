@@ -70,6 +70,7 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 8-10-2-titulo: "Kontu korrontea duten 18 eta 79 urte bitarteko pertsonen proportzioa"
 8-b-1-titulo: "Administrazio publiko autonomikoek enplegua sustatzeko egindako gastua"
 
+9-1-2-titulo: "Airez garraiatutako bidaiariak eta salgaiak"
 9-4-E1-titulo: "Manufaktura-industriaren emisio atmosferikoen intentsitatea (EBren sdg_09_70 adierazlea)" 
 
 10-2-1-titulo: "Diru-sarreren medianaren %50etik behera bizi diren pertsonen proportzioa"
@@ -275,6 +276,7 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
   barne hartzen dituzte gazteen enplegua sustatzeko jarduera-ildo espezifikoak, prestakuntza-programen, kontrataziorako pizgarrien eta gazte-ekintzailetzarako laguntzaren bidez.
 
 9-1-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+9-1-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 9-2-1-contenido: "<b>Nahi den norabidea:</b> Mantentzea edo igoera"
 9-2-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 9-3-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
@@ -388,7 +390,6 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 # NOTAS
 
 
-
 # ANOTACIONES
 
 3-4-E1-anotacion: "Europako Gidaren gomendioa"
@@ -417,6 +418,7 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
   Azken urteko datuak ez daude eskuragarri udalerrika 
 
 8-6-1-notapie: Azken urteko datuak behin-behinekoak dira
+9-1-1-notapie: Azken urteko datuak behin-behinekoak dira
 9-2-1-notapie: Azken urteko datuak behin-behinekoak dira
 9-2-2-notapie: Azken urteko datuak behin-behinekoak dira
 10-4-1-notapie: Azken urteko datuak behin-behinekoak dira
@@ -424,4 +426,5 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 17-2-1-notapie: Azken urteko datuak behin-behinekoak dira
 17-3-1-notapie: Azken urteko datuak behin-behinekoak dira
 17-13-1-notapie: Azken urteko datuak behin-behinekoak dira
+
 

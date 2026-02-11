@@ -1,5 +1,6 @@
 # ORGANIZATION
 
+AENA: AENA
 BE: Bank of Spain
 OMS: World Health Organization
 BM: World Bank
@@ -60,6 +61,7 @@ CSIC: Consejo Superior de Investigaciones Científicas (CSIC)
 
 # OPERATION
 
+Aena_eta: Air Traffic Statistics
 Geoeuskadi: Geoeuskadi
 GE_Inclusion_ebcss: Social Security Contribution Bases Statistics
 Euskadi_Bienestar_esses: Statistics on Social Services and Social Action
@@ -141,6 +143,7 @@ Eustat_cid: Statistics on Scientific Research and Technological Development Acti
 GE_Transicion_egfs: Sustainable Forest Management Statistics
 GE_Transicion_tratar: Urban Wastewater Treatment
 GE_Educacion_sinf: Statistics on Information and Communication Technology in Educational Centers
+GE_Educacion_ens: Statistics on non-university education
 BE_eap: General Government statistics
 GE_Transicion_ecocirc: Spanish Circular Economy Strategy and Action Plans
 GE_Transicion_convagua: International conventions and agreements related to water resources and their management
@@ -185,6 +188,7 @@ ELIKA_xahu: Analysis of Food Waste in the Agri-food Chain of the Basque Country
 
 # URL
 
+Aena_eta_url: https://www.aena.es/es/estadisticas/informes-anuales.html
 BM_url: https://data.worldbank.org/
 OMS_url: https://www.who.int/data/gho/data/themes/air-pollution/household-air-pollution
 Geoeuskadi_url: https://www.geo.euskadi.eus/
@@ -266,6 +270,7 @@ Eustat_cid_url: https://en.eustat.eus/estadisticas/tema_179/opt_0/temas.html
 GE_Transicion_egfs_url: https://www.miteco.gob.es/en/ministerio/servicios/estadisticas/estadisticas-forestales/estadistica-sobre-gestion-forestal-sostenible.html
 GE_Transicion_tratar_url: https://www.miteco.gob.es/en/agua/temas/saneamiento-depuracion.html
 GE_Educacion_sinf_url: https://www.educacionfpydeportes.gob.es/en/servicios-al-ciudadano/estadisticas/no-universitaria/centros/tic.html
+GE_Educacion_ens_url: https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/no-universitaria/alumnado/fp.html
 BE_eap_url: https://www.bde.es/webbe/en/estadisticas/temas/administraciones-publicas.html
 Eustat_cepsp_url: https://en.eustat.eus/estadisticas/tema_151/opt_1/temas.html
 GE_Transicion_ecocirc_url: https://www.miteco.gob.es/en/calidad-y-evaluacion-ambiental/temas/economia-circular/estrategia.html
@@ -310,6 +315,8 @@ ELIKA_xahu_url: https://zerodespilfarro.elika.eus/wp-content/uploads/2023/03/Res
 
 
 # LOGOS
+
+AENA_logo: '/assets/img/fuentes/AENA.png'
 BE_logo: '/assets/img/fuentes/BE.png'
 CIS_logo: '/assets/img/fuentes/CIS.png'
 CNMC_logo: '/assets/img/fuentes/CNMC.png'
