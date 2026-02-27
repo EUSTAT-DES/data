@@ -153,6 +153,8 @@ docs_metadata_fields:
       label: Observaciones
     - key: comparabilidad
       label: Comparabilidad NNUU
+    - key: embedded_feature_tab_title
+      label: Indicadores relacionados
 # Indicator options    
 indicator_options:
   non_disaggregation_columns:
