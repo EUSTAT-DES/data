@@ -929,7 +929,7 @@
               "enum": [
                 "Kilotoneladas",
                 "Toneladas per cápita",
-                "Kg por euro de PIB",
+                "Kg por 1.000 euros de PIB",
                 ""
               ]
             },
@@ -7345,7 +7345,7 @@
               "enum": [
                 "Kilotoneladas",
                 "Toneladas per cápita",
-                "Kg por euro de PIB",
+                "Kg por 1.000 euros de PIB",
                 ""
               ]
             },
