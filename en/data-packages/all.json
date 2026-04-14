@@ -929,7 +929,7 @@
               "enum": [
                 "Kilotons",
                 "Tons per capita",
-                "Kg per euro of GDP",
+                "Kg per 1.000 euro of GDP",
                 ""
               ]
             },
@@ -7345,7 +7345,7 @@
               "enum": [
                 "Kilotons",
                 "Tons per capita",
-                "Kg per euro of GDP",
+                "Kg per 1.000 euro of GDP",
                 ""
               ]
             },
