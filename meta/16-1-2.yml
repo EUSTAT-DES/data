@@ -1,49 +1,66 @@
-# Metadatos nacionales (ficha metodológica)
+ # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >- 
+  global_indicators.16-1-2-title
 
-# objetivo_global: objetivo_largo.16-titulo
-# meta_global: meta_largo.16-1-titulo
-# indicador_onu_global: indicador_largo.16-1-2-titulo
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-1-titulo
+#  indicador_onu_global: indicador_largo.16-1-2-titulo
 
 
-definicion: 
-formula: 
-desagregacion: 
-periodicidad: 
-observaciones: 
- 
-# Metadatos mundiales (Descripción del indicador)  
+definicion: >-
+  Gerra-operazioek eragindako heriotzak 100.000 biztanleko.
+
+formula: |
+
+  $$TM_{gerra operazioak}^{t} = \frac{D_{gerra operazioak}^{t}}{P^{t}} \cdot 100.000$$
+
+  non:
+
+  $D_{gerra operazioak}^{t} =$ gerra-operazioek eragindako heriotzak (GNS-10eko T36 kodea) $t$ urtean 
+
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean 
+
+desagregacion:
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+  Datu nazionalak atzerrian bizi direnen heriotzak biltzen ditu, Espainian gertatzen direnak.
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
 
 
 justificacion_global: |
 
-  Adierazle honek gatazka armatuen prebalentzia eta horiek bizitzen galeran duten eragina neurtzen ditu. 
-  Intentziozko homizidioari buruzko 16.1.1 adierazlearekin batera, munduko herrialde guztietan gertatzen 
-  diren heriotza bortitzak (intentziozko homizidioak) eta gatazka armatuetakoak (gatazkekin lotutako 
-  heriotzak) neurtzen dituzte. 
+  Bi urteko kontsulten ostean, OMEk 2015aren ondoko tuberkulosiaren aurkako munduko estrategia onartu zuen 
+  2014ko maiatzean. “Tuberkulosiaren Amaiera” izeneko estrategiak 2016-2035 aldia hartzen du. Helburu nagusia 
+  da “amaiera ematea tuberkulosiaren munduko epidemiari” eta, horretarako, tuberkulosia murrizteko helburu 
+  handizaleak jasotzen ditu. Tuberkulosiaren kasuen eta heriotzen helburuak 2030erako (intzidentzia-tasa % 80 
+  murriztea 2015eko mailekin alderatuta) eta 2035erako (intzidentzia-tasa % 90 murriztea) ezartzen dira, GJHen 
+  testuinguruan. 
 
-  Garapen Jasangarrirako 2030eko Agendak bake unibertsala indartu nahi du, eta gatazkak konpontzeko 
-  edo prebenitzeko ahaleginak areagotzeko konpromisoa hartzen du. Aitortzen du ezin dela garapen 
-  iraunkorrik egon bakerik gabe, ezta bakerik ere garapen iraunkorrik gabe. Beraz, gatazka armatuetan 
-  gertatzen diren heriotzak zenbatzea funtsezkoa da Agenda neurtzeko, 16. helburua barne eta hortik harago. 
-
-  Gatazkekin lotutako heriotzen jarraipena ere beharrezkoa da zibilak eta balizko beste biktima batzuk 
-  babesten laguntzeko, arau humanitarioen eta giza eskubideen errespetua bermatzeko eta gatazka armatuen 
-  ereduak eta ondorioak ulertzeko, etorkizuneko gatazka armatuak prebenitze aldera. 
+  Tuberkulosiaren intzidentzia urte jakin batean sortzen diren tuberkulosiaren kasu berrien eta errepikakorren 
+  zenbatekoa da (tuberkulosiaren forma guztiak, GIBarekin bizi diren pertsonak barne). Oro har, 100.000 biztanleko 
+  tasa gisa adierazten da. 
 
 
   Iturria: Nazio Batuen Estatistika Sekzioa 
 
 
 dato_global: >-
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.1.2&seriesCode=VC_DTH_TOCVN&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAGE%20%7C%20BOTHSEX%20%7C%20_T">Gatazkekin erlazionatutako heriotzen kopurua (zibilak), sexuaren, adinaren eta heriotzaren arrazoiaren arabera (kopurua) VC_DTH_TOCVN</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.1.2&seriesCode=VC_DTH_TOCVN&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAGE%20%7C%20BOTHSEX%20%7C%20_T">Número de muertes relacionadas con conflictos (civiles), por sexo, edad y causa de muerte (Número) VC_DTH_TOCVN</a> UNSTATS
 
-comparabilidad: >-
+
+comparabilidad: >- 
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 
 indicador_meta_enlace: >-
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-02.pdf">Metadatuak 16-1-2.pdf</a> (ingelesez bakarrik)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-02.pdf">Metadatos 16-1-2.pdf</a> (ingelesez bakarrik)
 
 
-national_data_updated_date:
+national_data_updated_date: ''
 national_metadata_updated_date: ''
