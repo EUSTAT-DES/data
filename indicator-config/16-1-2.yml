@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: true
+data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -29,5 +29,11 @@ precision: []
 progress_status: alcanzado
 reporting_status: complete
 sort: ''
+sources:
+  - organisation: FUENTE.Eustat
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Eustat_edef_url
+    url_text: FUENTE.Eustat_edef
+    logo: FUENTE.Eustat_logo
 standalone: false
 tags: []
