@@ -13,11 +13,11 @@ definicion: >-
 
 formula: |
 
-  $$TM_{operaciones guerra}^{t} = \frac{D_{operaciones guerra}^{t}}{P^{t}} \cdot 100.000$$
+  $$TM_{operaciones\, guerra}^{t} = \frac{D_{operaciones\, guerra}^{t}}{P^{t}} \cdot 100.000$$
 
   donde:
 
-  $D_{operaciones guerra}^{t} =$ defunciones atribuidas a operaciones de guerra (código Y36 de la CIE-10) en el año $t$
+  $D_{operaciones\, guerra}^{t} =$ defunciones atribuidas a operaciones de guerra (código Y36 de la CIE-10) en el año $t$
 
   $P^{t} =$ población a 1 de julio del año $t$
 
