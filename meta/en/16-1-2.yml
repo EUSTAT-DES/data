@@ -13,11 +13,11 @@ definicion: >-
 
 formula: |
 
-  $$TM_{war operations}^{t} = \frac{D_{war operations}^{t}}{P^{t}} \cdot 100.000$$
+  $$TM_{war\, operations}^{t} = \frac{D_{war\, operations}^{t}}{P^{t}} \cdot 100.000$$
 
   where:
 
-  $D_{war operations}^{t} =$ deaths because of war operations (ICD-10 code Y36) in year $t$
+  $D_{war\, operations}^{t} =$ deaths because of war operations (ICD-10 code Y36) in year $t$
 
   $P^{t} =$  population on July 1 of year $t$
 
