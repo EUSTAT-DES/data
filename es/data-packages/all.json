@@ -4135,6 +4135,41 @@
       "title": "Capacidad instalada de generación de energía renovable en los países en desarrollo y en los países desarrollados (en vatios per cápita)"
     },
     {
+      "path": "16-1-2/data.csv",
+      "name": "16-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Por 100.000",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Muertes relacionadas con conflictos por cada 100.000 habitantes, desglosadas por sexo, edad y causa"
+    },
+    {
       "path": "4-1-2/data.csv",
       "name": "4-1-2",
       "profile": "tabular-data-resource",
@@ -15612,30 +15647,6 @@
         ]
       },
       "title": "Total de apoyo internacional oficial (asistencia oficial para el desarrollo más otras corrientes oficiales de recursos) destinado a la infraestructura"
-    },
-    {
-      "path": "16-1-2/data.csv",
-      "name": "16-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "Muertes relacionadas con conflictos por cada 100.000 habitantes, desglosadas por sexo, edad y causa"
     },
     {
       "path": "17-10-1/data.csv",

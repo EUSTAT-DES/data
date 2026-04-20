@@ -4135,6 +4135,41 @@
       "title": "Garapen bidean dauden herrialdeetan eta herrialde garatuetan (biztanle bakoitzeko wattetan) energia berriztagarria sortzeko instalatutako gaitasuna"
     },
     {
+      "path": "16-1-2/data.csv",
+      "name": "16-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Urtea"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "100.000 biztanleko",
+                ""
+              ]
+            },
+            "title": "Unitatea"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Balioa"
+          }
+        ]
+      },
+      "title": "Gatazkekin lotutako heriotzak, sexuaren, adinaren eta kausaren arabera banakatuta, 100.000 biztanleko"
+    },
+    {
       "path": "4-1-2/data.csv",
       "name": "4-1-2",
       "profile": "tabular-data-resource",
@@ -15612,30 +15647,6 @@
         ]
       },
       "title": "Azpiegiturara bideratutako nazioarteko laguntza ofiziala (garapenerako laguntza ofiziala gehi beste baliabide-korronte ofizial batzuk) guztira"
-    },
-    {
-      "path": "16-1-2/data.csv",
-      "name": "16-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Urtea"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Balioa"
-          }
-        ]
-      },
-      "title": "Gatazkekin lotutako heriotzak, sexuaren, adinaren eta kausaren arabera banakatuta, 100.000 biztanleko"
     },
     {
       "path": "17-10-1/data.csv",
