@@ -13,11 +13,11 @@ definicion: >-
 
 formula: |
 
-  $$TM_{gerra operazioak}^{t} = \frac{D_{gerra operazioak}^{t}}{P^{t}} \cdot 100.000$$
+  $$TM_{gerra\, operazioak}^{t} = \frac{D_{gerra\, operazioak}^{t}}{P^{t}} \cdot 100.000$$
 
   non:
 
-  $D_{gerra operazioak}^{t} =$ gerra-operazioek eragindako heriotzak (GNS-10eko T36 kodea) $t$ urtean 
+  $D_{gerra\, operazioak}^{t} =$ gerra-operazioek eragindako heriotzak (GNS-10eko T36 kodea) $t$ urtean 
 
   $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean 
 
