@@ -28,6 +28,17 @@
             }
           },
           {
+            "name": "SituacLabor",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU_SIT_JUB",
+                "EU_SIT_NOJUB",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sexo",
             "type": "string",
             "constraints": {

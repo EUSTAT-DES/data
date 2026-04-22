@@ -4053,7 +4053,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -7634,6 +7634,17 @@
                 "ISCO08_2221_3221",
                 "ISCO08_2261",
                 "ISCO08_2262",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SituacLabor",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU_SIT_JUB",
+                "EU_SIT_NOJUB",
                 ""
               ]
             }

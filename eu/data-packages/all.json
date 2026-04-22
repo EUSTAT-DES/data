@@ -4302,7 +4302,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Balioa"
           }
         ]
@@ -8068,6 +8068,18 @@
               ]
             },
             "title": "Lanbidea"
+          },
+          {
+            "name": "SituacLabor",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Elkargokide erretiratuak",
+                "Elkargokide ez erretiratuak",
+                ""
+              ]
+            },
+            "title": "SituacLabor"
           },
           {
             "name": "Sexo",

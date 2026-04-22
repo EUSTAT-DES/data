@@ -30,6 +30,18 @@
             "title": "Profesión"
           },
           {
+            "name": "SituacLabor",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Colegiados jubilados",
+                "Colegiados no jubilados",
+                ""
+              ]
+            },
+            "title": "SituacLabor"
+          },
+          {
             "name": "Sexo",
             "type": "string",
             "constraints": {

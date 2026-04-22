@@ -4302,7 +4302,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Valor"
           }
         ]
@@ -8068,6 +8068,18 @@
               ]
             },
             "title": "Profesión"
+          },
+          {
+            "name": "SituacLabor",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Colegiados jubilados",
+                "Colegiados no jubilados",
+                ""
+              ]
+            },
+            "title": "SituacLabor"
           },
           {
             "name": "Sexo",

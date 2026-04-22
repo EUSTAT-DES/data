@@ -4302,7 +4302,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -8068,6 +8068,18 @@
               ]
             },
             "title": "Profession"
+          },
+          {
+            "name": "SituacLabor",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Registered retirees",
+                "Registered non-retired",
+                ""
+              ]
+            },
+            "title": "SituacLabor"
           },
           {
             "name": "Sexo",
