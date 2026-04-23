@@ -16,6 +16,8 @@ data_start_values:
     value: ISCO08_2261
   - field: Profesion
     value: ISCO08_2262
+  - field: SituacLabor
+    value: EU_SIT_NOJUB
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
