@@ -8074,8 +8074,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Colegiados jubilados",
-                "Colegiados no jubilados",
+                "Jubilados/as",
+                "No jubilados/as",
                 ""
               ]
             },

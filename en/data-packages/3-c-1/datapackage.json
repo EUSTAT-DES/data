@@ -34,8 +34,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Registered retirees",
-                "Registered non-retired",
+                "Retired",
+                "Not retired",
                 ""
               ]
             },
