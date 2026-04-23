@@ -9,7 +9,7 @@ meta_global: meta_largo.16-1-titulo
 
 
 definicion: >-
-  Deaths because of war operations, per 100,000 inhabitants
+  Deaths attributed to war operations per 100,000 inhabitants
 
 formula: |
 
@@ -17,9 +17,9 @@ formula: |
 
   where:
 
-  $D_{war\, operations}^{t} =$ deaths because of war operations (ICD-10 code Y36) in year $t$
+  $D_{war\, operations}^{t} =$ deaths attributed to war operations (ICD-10 code Y36) in year $t$
 
-  $P^{t} =$  population on July 1 of year $t$
+  $P^{t} =$  population as of July 1 of year $t$
 
 desagregacion:
 
@@ -27,7 +27,7 @@ periodicidad: FUENTE.FREQ_A
 
 
 observaciones: >-
-  The national data includes deaths of foreign residents that occur in Spain.
+  Deaths of foreign residents occurred in the Basque Country are included.
 
 texto_oceca: FUENTE.oceca
 
@@ -36,16 +36,20 @@ texto_oceca: FUENTE.oceca
 
 justificacion_global: |
 
-  Following two years of consultations, a post-2015 global tuberculosis strategy was endorsed 
-  by the World Health Assembly in May 2014. Known as the End TB Strategy, it covers the period 
-  2016-2035. The overall goal is to “End the global tuberculosis epidemic”, and correspondingly 
-  ambitious targets for reductions in tuberculosis deaths and cases are set for 2030 (80% reduction 
-  in incidence rate compared with the level of 2015) and 2035 (90% reduction in incidence rate), 
-  in the context of the SDGs. 
+  This indicator measures the prevalence of armed conflicts and their impact in terms of loss of life. 
+  Together with the indicator 16.1.1 on intentional homicide, they measure violent deaths that occur in all 
+  countries of the world (intentional homicides) and in situations of armed conflict (conflict-related 
+  deaths). 
 
-  Tuberculosis (TB) incidence is defined as the estimated number of new and relapse TB cases (all 
-  forms of TB, including cases in people living with HIV) arising in a given year. It is usually 
-  expressed as a rate per 100 000 population. 
+  The 2030 Agenda for Sustainable Development seeks to strengthen universal peace and commits to 
+  redouble efforts to resolve or prevent conflict. It recognizes that there can be no sustainable 
+  development without peace and no peace without sustainable development. Counting deaths occurring 
+  in situations of armed conflict is therefore essential to the measurement of the Agenda, including and 
+  beyond its Goal 16. 
+
+  Monitoring conflict-related deaths is also necessary to help protect civilians and other 
+  potential victims, ensure respect of humanitarian and human rights standards, and understand the 
+  patterns and consequences of armed conflicts in order to prevent future armed conflicts. 
 
   Source: United Nations Statistics Division
 
