@@ -34,8 +34,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Elkargokide erretiratuak",
-                "Elkargokide ez erretiratuak",
+                "Erretiratuak",
+                "Ez erretiratuak",
                 ""
               ]
             },
