@@ -689,8 +689,8 @@ EU_ATM_EGOI: "Residential "
 EU_ATM_ZERB: "Services"
 EU_ATM_NEKAZ: "Agriculture"
 EU_ATM_HONDA: "Waste"
-EU_SIT_NOJUB: "Registered non-retired"
-EU_SIT_JUB: "Registered retirees"
+EU_SIT_NOJUB: "Not retired"
+EU_SIT_JUB: "Retired"
 
 
 
