@@ -1,7 +1,6 @@
  # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: >- 
-  GRAFICO.12-a-1-titulo 
+indicador_disponible: GRAFICO.7-b-1-titulo
 
 objetivo_global: objetivo_largo.12-titulo
 meta_global: meta_largo.12-a-titulo
@@ -10,7 +9,7 @@ meta_global: meta_largo.12-a-titulo
 
 definicion: |
 
-  Energia-iturri berriztagarrietatik elektrizitatea sortzen duten instalazioen gaitasuna, zati biztanleria 
+  Energia-iturri berriztagarrietatik elektrizitatea sortzen duten instalazioen ahalmen instalatua, biztanleriaren arabera zatitua 
 
 formula: |
 
@@ -18,9 +17,9 @@ formula: |
 
   non:
 
-  $CINST_{berriztagarria}^{t} =$ iturri berriztagarrietatik elektrizitatea sortzen duten instalazioen gaitasun instalatua $t$ urtean 
+  $CINST_{berriztagarria}^{t} =$ energia-iturri berriztagarrietatik elektrizitatea sortzeko ahalmen instalatua $t$ urtean 
 
-  $P^{t} =$ guztizko biztanleria $t$ urtean
+  $P^{t} =$ biztanleria $t$ urtean
 
 
 desagregacion: |
