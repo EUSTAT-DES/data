@@ -1,30 +1,53 @@
  # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >- 
+  global_indicators.8-9-2-title
   
 
-#  objetivo_global: objetivo_largo.8-titulo
-#  meta_global: meta_largo.8-9-titulo
+objetivo_global: objetivo_largo.8-titulo
+meta_global: meta_largo.8-9-titulo
 #  indicador_onu_global: indicador_largo.8-9-2-titulo
 
 
-definicion:  
+definicion: >-
+  Number of employed persons in the tourism industries and proportion of employed persons in the tourism
+  industries relative to the total number of employed persons 
    
 
-formula:  
+formula:  |
+
+  <b>Number of employed persons in the tourism industries</b>
+
+  $$PO_{tourism}^{t}$$
+
+  <b>proportion of employed persons in the tourism industries relative to the total number of employed persons</b>
+
+  $$PPO_{tourism}^{t} = \frac{PO_{tourism}^{t}}{PO^{t}}\cdot 100$$
 
   
-desagregacion: 
+  where:
+
+  $PO_{tourism}^{t} =$ employed population in the tourism industries in year $t$
+
+  $PO^{t} =$ employed population in year $t$
+
+
+  
+desagregacion:  |
+  Sex
+
+  Province
+
+periodicidad: FUENTE.FREQ_A 
+
+
+observaciones:  |
+  A person is considered to be employed in the tourism industries if their activity, according to
+  CNAE-2009, corresponds to codes 491, 493, 501, 503, 511, 522, 551, 552, 553, 559, 561, 562,
+  563, 771, 773, 791, 799, 900, 910, 931 or 932
   
 
-periodicidad: 
-
-
-observaciones: 
-
-  
-
-texto_oceca: 
+texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
@@ -51,7 +74,8 @@ dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=8.9.2&seriesCode=ST_EMP_TRSMN&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Employed persons in the tourism industries (number) ST_EMP_TRSMN</a> UNSTATS
 
 
-comparabilidad: 
+comparabilidad: >-
+  The available indicator complies with United Nations metadata.
   
 
 indicador_meta_enlace: |
