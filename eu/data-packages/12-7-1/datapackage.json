@@ -12,12 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Urtea"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kontratazio publiko jasangarrirako politiken ezarpen maila",
+                ""
+              ]
+            },
+            "title": "Seriea"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Indizea",
+                ""
+              ]
+            },
+            "title": "Unitatea"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Balioa"
           }
         ]

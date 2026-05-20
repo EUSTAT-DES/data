@@ -4044,6 +4044,52 @@
       "title": "18-24 urteko biztanleen eskola-uzte goiztiarraren tasa (EBren sdg_04_10 adierazlea)"
     },
     {
+      "path": "12-7-1/data.csv",
+      "name": "12-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Urtea"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kontratazio publiko jasangarrirako politiken ezarpen maila",
+                ""
+              ]
+            },
+            "title": "Seriea"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Indizea",
+                ""
+              ]
+            },
+            "title": "Unitatea"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Balioa"
+          }
+        ]
+      },
+      "title": "Erosketa publikoen arloan politika eta ekintza-plan iraunkorrak aplikatzen dituzten herrialdeen kopurua"
+    },
+    {
       "path": "OCECA-1-a-2-1/data.csv",
       "name": "OCECA-1-a-2-1",
       "profile": "tabular-data-resource",
@@ -16837,30 +16883,6 @@
         ]
       },
       "title": "Garapen bidean dauden herrialdeetako kideen eta boto-eskubideen proportzioa nazioarteko erakundeetan"
-    },
-    {
-      "path": "12-7-1/data.csv",
-      "name": "12-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Urtea"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Balioa"
-          }
-        ]
-      },
-      "title": "Erosketa publikoen arloan politika eta ekintza-plan iraunkorrak aplikatzen dituzten herrialdeen kopurua"
     },
     {
       "path": "2-2-3/data.csv",

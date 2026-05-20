@@ -4044,6 +4044,52 @@
       "title": "Tasa de abandono escolar prematuro de la población de 18-24 años (Indicador UE sdg_04_10)"
     },
     {
+      "path": "12-7-1/data.csv",
+      "name": "12-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nivel de implementación de las políticas de contratación pública sostenible",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Índice",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Número de países que aplican políticas y planes de acción sostenibles en materia de adquisiciones públicas"
+    },
+    {
       "path": "OCECA-1-a-2-1/data.csv",
       "name": "OCECA-1-a-2-1",
       "profile": "tabular-data-resource",
@@ -16837,30 +16883,6 @@
         ]
       },
       "title": "Proporción de miembros y derechos de voto de los países en desarrollo en organizaciones internacionales"
-    },
-    {
-      "path": "12-7-1/data.csv",
-      "name": "12-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "Número de países que aplican políticas y planes de acción sostenibles en materia de adquisiciones públicas"
     },
     {
       "path": "2-2-3/data.csv",
