@@ -8,35 +8,35 @@ meta_global: meta_largo.12-7-titulo
 #  indicador_onu_global: indicador_largo.12-7-1-titulo
 
 
-definicion: |
+definicion: | 
   Nivel de implementación de las políticas de contratación pública sostenible (CPS).
 
-  El indicador se calcula a través de un cuestionario del Programa de las Naciones Unidas para el 
-  Medio Ambiente, que contiene 6 apartados: 
+  El indicador se calcula a través de un cuestionario del Programa de Naciones Unidas para el Medio 
+  Ambiente, que contiene 6 apartados:
 
-   - A: Existencia de una política, un plan de acción y/o unos requisitos reglamentarios en materia de CPS
-   - B: Marco normativo de la contratación pública que favorece la CPS 
-   - C: Apoyo práctico a los profesionales de la contratación pública en la aplicación de la CPS 
-   - D: Criterios de contratación / normas de compra / requisitos de la CPS 
-   - E: Existencia de un sistema de control de la CPS 
-   - F: Proporción de compra sostenible de productos/servicios prioritarios  
+  - A: Existencia de una política, un plan de acción y/o unos requisitos reglamentarios en materia de CPS  
+  - B: Marco normativo de la contratación pública que favorece la CPS 
+  - C: Apoyo práctico a los profesionales de la contratación pública en la aplicación de la CPS 
+  - D: Criterios de contratación / normas de compra / requisitos de la CPS 
+  - E: Existencia de un sistema de control de la CPS 
+  - F: Proporción de compra sostenible de productos/servicios prioritarios
 
 formula: |
   $$P_{t} = PA_{t} \cdot  (PB_{t} + PC_{t} + PD_{t} + PE_{t} + PF_{t})$$
 
   donde:
 
-  $PA_{t}$ = puntuación obtenida en el apartado A en el año $t$
+  $PA_{t}$ = puntuación del apartado A del cuestionario en el año $t$
 
-  $PB_{t}$ = puntuación obtenida en el apartado B en el año $t$
+  $PB_{t}$ = puntuación del apartado B del cuestionario en el año $t$
 
-  $PC_{t}$ = puntuación obtenida en el apartado C en el año $t$
+  $PC_{t}$ = puntuación del apartado C del cuestionario en el año $t$
 
-  $PD_{t}$ = puntuación obtenida en el apartado D en el año $t$
+  $PD_{t}$ = puntuación del apartado D del cuestionario en el año $t$
 
-  $PE_{t}$ = puntuación obtenida en el apartado E en el año $t$
+  $PE_{t}$ = puntuación del apartado E del cuestionario en el año $t$
 
-  $PF_{t}$ = puntuación obtenida en el apartado F en el año $t$
+  $PF_{t}$ = puntuación del apartado F del cuestionario en el año $t$
 
 
 desagregacion: >- 
@@ -70,10 +70,12 @@ justificacion_global: |
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.7.1&seriesCode=SG_SCP_PROCN&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=HIGIMP"> Número de países que implementan políticas y planes de acción de contratación pública sostenible (nivel alto) SG_SCP_PROCN</a> UNSTATS 
+ 
+ <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.7.1&seriesCode=SG_SCP_PROCN&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=HIGIMP"> Número de países que implementan políticas y planes de acción de contratación pública sostenible (nivel alto) SG_SCP_PROCN</a> UNSTATS 
+
 
 comparabilidad: >- 
   El indicador disponible cumple con los metadatos de Naciones Unidas.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-07-01.pdf">Metadatos 12-7-1.pdf</a> (solo en inglés)'
 
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-07-01.pdf">Metadatos 12-7-1.pdf</a> (solo en inglés)'
