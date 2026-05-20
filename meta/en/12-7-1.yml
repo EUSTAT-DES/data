@@ -23,24 +23,22 @@ definicion: |
    - F: Percentage of sustainable public procurement 
  
 
-formula: |
-
-    
+formula: | 
   $$P_{t} = PA_{t} \cdot  (PB_{t} + PC_{t} + PD_{t} + PE_{t} + PF_{t})$$ 
 
   where:
 
-  $PA_{t}$ = A section score in year $t$ 
+  $PA_{t}$ = A section score in year $t$
 
-  $PB_{t}$ = B section score in year $t$ 
+  $PB_{t}$ = B section score in year $t$
 
-  $PC_{t}$ = C section score in year $t$ 
+  $PC_{t}$ = C section score in year $t$
 
-  $PD_{t}$ = D section score in year $t$ 
+  $PD_{t}$ = D section score in year $t$
 
-  $PE_{t}$ = E section score in year $t$ 
+  $PE_{t}$ = E section score in year $t$
 
-  $PF_{t}$ = F section score in year $t$ 
+  $PF_{t}$ = F section score in year $t$
 
 desagregacion: >- 
 
