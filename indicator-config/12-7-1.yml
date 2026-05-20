@@ -30,13 +30,12 @@ progress_status: alcanzado
 reporting_status: complete
 sort: ''
 sources:
- - organisation: FUENTE.Ihobe
+  - organisation: FUENTE.Ihobe
     periodicity: FUENTE.FREQ_A3
     logo: FUENTE.Ihobe_logo  
     url: FUENTE.Ihobe_verde_url
     url_text: FUENTE.Ihobe
-
- - organisation: FUENTE.Euskadi_Hacienda
+  - organisation: FUENTE.Euskadi_Hacienda
     periodicity: FUENTE.FREQ_A3
     logo: FUENTE.Euskadi_logo
     url: FUENTE.hacienda_url
