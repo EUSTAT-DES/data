@@ -22,23 +22,21 @@ definicion: |
    - F: Proporción de compra sostenible de productos/servicios prioritarios  
 
 formula: |
+  $$P_{t} = PA_{t} \cdot  (PB_{t} + PC_{t} + PD_{t} + PE_{t} + PF_{t})$$
 
-    $$P_{t} = PA_{t} \cdot  (PB_{t} + PC_{t} + PD_{t} + PE_{t} + PF_{t})$$
-
- 
   donde:
 
-  $PA_{t}$ = puntuación obtenida en el apartado A en el año $t$ 
+  $PA_{t}$ = puntuación obtenida en el apartado A en el año $t$
 
-  $PB_{t}$ = puntuación obtenida en el apartado B en el año $t$ 
+  $PB_{t}$ = puntuación obtenida en el apartado B en el año $t$
 
-  $PC_{t}$ = puntuación obtenida en el apartado C en el año $t$ 
+  $PC_{t}$ = puntuación obtenida en el apartado C en el año $t$
 
-  $PD_{t}$ = puntuación obtenida en el apartado D en el año $t$ 
+  $PD_{t}$ = puntuación obtenida en el apartado D en el año $t$
 
-  $PE_{t}$ = puntuación obtenida en el apartado E en el año $t$ 
+  $PE_{t}$ = puntuación obtenida en el apartado E en el año $t$
 
-  $PF_{t}$ = puntuación obtenida en el apartado F en el año $t$ 
+  $PF_{t}$ = puntuación obtenida en el apartado F en el año $t$
 
 
 desagregacion: >- 
