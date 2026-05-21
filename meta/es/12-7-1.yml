@@ -9,17 +9,19 @@ meta_global: meta_largo.12-7-titulo
 
 
 definicion: | 
-  Nivel de implementación de las políticas de contratación pública sostenible (CPS).
+  Nivel de implementación de las políticas de contratación pública sostenible (0-100). 
 
   El indicador se calcula a través de un cuestionario del Programa de Naciones Unidas para el Medio 
-  Ambiente, que contiene 6 apartados:
+  Ambiente, en el que se obtiene una puntuación de entre 0 y 100. 
+  
+  El cuestionario contiene 6 apartados:
 
-  - A: Existencia de una política, un plan de acción y/o unos requisitos reglamentarios en materia de CPS  
-  - B: Marco normativo de la contratación pública que favorece la CPS 
-  - C: Apoyo práctico a los profesionales de la contratación pública en la aplicación de la CPS 
-  - D: Criterios de contratación / normas de compra / requisitos de la CPS 
-  - E: Existencia de un sistema de control de la CPS 
-  - F: Proporción de compra sostenible de productos/servicios prioritarios
+  - A: Existencia de una política, un plan de acción y/o unos requisitos reglamentarios en materia de CPS (0-1 punto)    
+  - B: Marco normativo de la contratación pública que favorece la CPS (0-20 puntos)  
+  - C: Apoyo práctico a los profesionales de la contratación pública en la aplicación de la CPS (0-20 puntos)  
+  - D: Criterios de contratación / normas de compra / requisitos de la CPS (0-20 puntos)  
+  - E: Existencia de un sistema de control de la CPS (0-20 puntos)  
+  - F: Proporción de compra sostenible de productos/servicios prioritarios (0-20 puntos) 
 
 formula: |
   $$P_{t} = PA_{t} \cdot  (PB_{t} + PC_{t} + PD_{t} + PE_{t} + PF_{t})$$
