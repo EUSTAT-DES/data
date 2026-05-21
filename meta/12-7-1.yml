@@ -9,16 +9,18 @@ meta_global: meta_largo.12-7-titulo
 
 
 definicion: | 
-  Kontratazio publiko jasangarrirako (KPJ) politiken ezarpen maila.
+  Kontratazio publiko jasangarrirako (KPJ) politiken ezarpen maila (0-100). 
 
-  Nazio Batuen Ingurumen Programako galdetegi baten bidez kalkulatzen da adierazlea. Galdetegiak sei atal ditu:
+  Nazio Batuen Ingurumen Programako galdetegi baten bidez kalkulatzen da adierazlea, 0 eta 100 arteko puntuazioa esleituz. 
+  
+  Galdetegiak sei atal ditu:
 
-  - A: KPJren arloan politika, ekintza-plan eta/edo arauzko baldintzak izatea 
-  - B: KPJ bultzatzen duen kontratazio publikoaren arau-esparrua 
-  - C: Kontratazio publikoko profesionalei laguntza praktikoa ematea KPJ aplikatzean 
-  - D: Kontratazio irizpideak / erosketa arauak / KPJ baldintzak 
-  - E: KPJ kontrolatzeko sistema izatea 
-  - F: Lehentasunezko produktu/zerbitzuen erosketa jasangarriaren proportzioa
+  - A: KPJren arloan politika, ekintza-plan eta/edo arauzko baldintzak izatea (0-1 puntu)  
+  - B: KPJ bultzatzen duen kontratazio publikoaren arau-esparrua (0-20 puntu)  
+  - C: Kontratazio publikoko profesionalei laguntza praktikoa ematea KPJ aplikatzean (0-20 puntu)  
+  - D: Kontratazio irizpideak / erosketa arauak / KPJ baldintzak (0-20 puntu)  
+  - E: KPJ kontrolatzeko sistema izatea (0-20 puntu)  
+  - F: Lehentasunezko produktu/zerbitzuen erosketa jasangarriaren proportzioa (0-20 puntu) 
 
 formula: |
   $$P_{t} = PA_{t} \cdot  (PB_{t} + PC_{t} + PD_{t} + PE_{t} + PF_{t})$$
