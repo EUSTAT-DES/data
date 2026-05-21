@@ -10,17 +10,19 @@ meta_global: meta_largo.12-7-titulo
 
 definicion: |
   
-  Level of implementation of sustainable public procurement (SPP) policies.
+  Level of implementation of sustainable public procurement (SPP) policies (0-100).
 
   The indicator is calculated using a questionnaire from the United Nations Environment Programme, 
-  which contains 6 sections:
+  which assigns a score between 0 and 100. 
+  
+  The questionnaire contains 6 sections:
 
-   - A: Existence of an SPP policy/action plan and/or SPP regulatory requirements 
-   - B: The public procurement regulatory framework is conducive to SPP 
-   - C: Practical support delivered to procurement practitioners in the implementation of SPP 
-   - D: SPP purchasing criteria / buying standards / requirements 
-   - E: Existence of an SPP monitoring system 
-   - F: Percentage of sustainable public procurement 
+   - A: Existence of an SPP policy/action plan and/or SPP regulatory requirements (0-1 points)  
+   - B: The public procurement regulatory framework is conducive to SPP (0-20 points) 
+   - C: Practical support delivered to procurement practitioners in the implementation of SPP (0-20 points)  
+   - D: SPP purchasing criteria / buying standards / requirements (0-20 points)  
+   - E: Existence of an SPP monitoring system (0-20 points)  
+   - F: Percentage of sustainable public procurement (0-20 points)  
  
 
 formula: | 
