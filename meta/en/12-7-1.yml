@@ -1,28 +1,62 @@
-# Metadatos nacionales (ficha metodológica)
+ # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >- 
+  GRAFICO.12-7-1-titulo
 
-# objetivo_global: objetivo_largo.12-titulo
-# meta_global: meta_largo.12-7-titulo
+objetivo_global: objetivo_largo.12-titulo
+meta_global: meta_largo.12-7-titulo
 #  indicador_onu_global: indicador_largo.12-7-1-titulo
 
 
-definicion:
+definicion: |
+  
+  Level of implementation of sustainable public procurement (SPP) policies (0-100).
 
-formula:
+  The indicator is calculated using a questionnaire from the United Nations Environment Programme, 
+  which assigns a score between 0 and 100. 
+  
+  The questionnaire contains 6 sections:
 
-desagregacion: 
+   - A: Existence of an SPP policy/action plan and/or SPP regulatory requirements (0-1 points)  
+   - B: The public procurement regulatory framework is conducive to SPP (0-20 points) 
+   - C: Practical support delivered to procurement practitioners in the implementation of SPP (0-20 points)  
+   - D: SPP purchasing criteria / buying standards / requirements (0-20 points)  
+   - E: Existence of an SPP monitoring system (0-20 points)  
+   - F: Percentage of sustainable public procurement (0-20 points)  
+ 
 
-periodicidad:  
+formula: | 
+  $$P_{t} = PA_{t} \cdot  (PB_{t} + PC_{t} + PD_{t} + PE_{t} + PF_{t})$$ 
 
-observaciones:
+  where:
+
+  $PA_{t}$ = A section score in year $t$
+
+  $PB_{t}$ = B section score in year $t$
+
+  $PC_{t}$ = C section score in year $t$
+
+  $PD_{t}$ = D section score in year $t$
+
+  $PE_{t}$ = E section score in year $t$
+
+  $PF_{t}$ = F section score in year $t$
+
+desagregacion: >- 
 
 
+periodicidad: FUENTE.FREQ_A3
+
+
+observaciones: >-
+
+
+texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-
 justificacion_global: |
+
   Public procurement wields enormous purchasing power, accounting for an average 
   of 12 percent of gross domestic product (GDP) in OECD countries, and up to 30 
   percent of GDP in many developing countries. Leveraging this purchasing power 
@@ -38,9 +72,14 @@ justificacion_global: |
 
   Source: United Nations Statistics Division 
 
-dato_global:
+dato_global: >-
 
-indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-07-01.pdf">Metadata 12-7-1.pdf</a>
+   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.7.1&seriesCode=SG_SCP_PROCN&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=HIGIMP"> Number of countries implementing sustainable public procurement policies and action plans (high level) SG_SCP_PROCN</a> UNSTATS 
+
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-07-01.pdf">Metadata 12-7-1.pdf</a>'
 
 

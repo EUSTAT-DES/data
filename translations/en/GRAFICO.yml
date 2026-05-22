@@ -59,7 +59,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 6-4-2-titulo: "Water consumption (volume of water extracted)"
 6-5-2-titulo: "Proportion of the area of ​​transboundary basins subject to operational arrangements for water cooperation"
 
-7-3-E1-titulo: "Electricity consumption (Basque Government Indicator)"
+7-b-1-titulo: "Installed renewable energy-generating capacity (in watts per capita)" 
 
 8-5-1-titulo: "Average hourly income of employed persons, by sex and by persons with or without disabilities" 
 8-5-E1-titulo: "Population occupancy rate (EU indicator sdg_08_30)" 
@@ -93,6 +93,8 @@ nodisponible: The Basque Country does not produce continuous official statistics
 12-1-1-titulo: "Policy instruments are developed, adopted or implemented to support the transition to sustainable consumption and production patterns"
 12-5-1-titulo: "Proportion of municipal waste recycled in relation to total municipal waste generated and treated"
 12-6-1-titulo: "Number of organizations with EMAS or Ecolabel"
+12-7-1-titulo: "Level of implementation of sustainable public procurement policies"
+12-a-1-titulo: "Installed renewable energy-generating capacity (in watts per capita)"  
 
 13-1-1-titulo: "Number of deaths directly attributed to disasters per 100,000 inhabitants"
 13-2-2-titulo: "Total greenhouse gas (GHG) emissions, per unit of real GDP, per capita, and rates of change compared to 1990 and 2005"
@@ -108,6 +110,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 15-8-1-titulo: "Relevant national legislation is in place and resources are allocated for the prevention or control of invasive alien species"
 
 16-1-1-titulo: "Number of victims of intentional homicides per 100,000 inhabitants"
+16-1-2-titulo: "Conflict-related deaths per 100,000 population"
 16-1-4-titulo: "Proportion of the population that feels safe walking alone in their residential area after darke"
 16-1-E1-titulo: "Population that reports the occurrence of crimes, violence or vandalism in their area (EU indicator sdg_16_20)" 
 16-2-2-titulo: "Number of detected victims of human trafficking per 100,000 inhabitants, by type of exploitation"
@@ -196,7 +199,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 3-6-1-contenido: "<b>Target:</b> Halve the number of deaths"
 3-7-1-contenido: "<b>Desired direction:</b> Increase"
 3-7-2-contenido: "<b>Desired direction:</b> Decrease"
-3-8-1-contenido: "<b>Desired direction:</b> Increase"
+3-8-1-contenido: "<b>Desired direction:</b> Decrease"
 3-8-2-contenido: "<b>Desired direction:</b> Decrease"
 3-9-2-contenido: |
   The Basque Country does not produce continuous official statistics using the indicator methodology, but wide ranging evidence allows us to estimate that the actual figure is very close to 0
@@ -258,6 +261,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 8-9-1-contenido: "Not evaluable. To assess progress, the indicator should be complemented with additional 
   indicators on the social (e.g., employment, etc) and environmental (energy use, GHG emissions, etc) 
   aspects of tourism"
+8-9-2-contenido: "<b>Desired direction:</b> Increase"
 8-10-1-contenido: "<b>Desired direction:</b> No assessment"
 8-10-2-contenido: "<b>Desired direction:</b> Increase"
 8-b-1-contenido: |
@@ -328,6 +332,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 12-4-2-contenido: "<b>Desired direction:</b> Increase in the proportion of hazardous waste recycled"
 12-5-1-contenido: "<b>Desired direction:</b> Increase"
 12-6-1-contenido: "<b>Desired direction:</b> Increase"
+12-7-1-contenido: "<b>Desired direction:</b> Increase"
 
 13-1-1-contenido: "<b>Desired direction:</b> Decrease"
 13-2-1-contenido: |
@@ -350,10 +355,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 15-8-1-contenido: "<b>Desired direction:</b> Increase"
 
 16-1-1-contenido: "<b>Desired direction:</b> Decrease"
-16-1-2-contenido: |
-  The Basque Country is not on the list of armed conflict situations considered for this indicator by the Office of the United Nations High Commissioner for Human Rights (OHCHR). 
-  Therefore, although continuous official statistics are not produced using the indicator's methodology, the figure can be stated as 0.
-
+16-1-2-contenido: "<b>Desired direction:</b> Decrease"
 16-1-4-contenido: "<b>Desired direction:</b> Increase"
 16-1-E1-contenido: "<b>Desired direction:</b> Decrease"
 16-2-2-contenido: "<b>Desired direction:</b> Decrease"

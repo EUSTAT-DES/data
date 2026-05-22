@@ -1,19 +1,37 @@
-# Metadatos nacionales (ficha metodológica)
+ # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >- 
+  GRAFICO.16-1-2-titulo
 
-# objetivo_global: objetivo_largo.16-titulo
-# meta_global: meta_largo.16-1-titulo
-# indicador_onu_global: indicador_largo.16-1-2-titulo
+objetivo_global: objetivo_largo.16-titulo
+meta_global: meta_largo.16-1-titulo
+#  indicador_onu_global: indicador_largo.16-1-2-titulo
 
 
-definicion: 
-formula: 
-desagregacion: 
-periodicidad: 
-observaciones: 
- 
-# Metadatos mundiales (Descripción del indicador)  
+definicion: >-
+  Deaths attributed to war operations per 100,000 inhabitants
+
+formula: |
+
+  $$TM_{war\, operations}^{t} = \frac{D_{war\, operations}^{t}}{P^{t}} \cdot 100.000$$
+
+  where:
+
+  $D_{war\, operations}^{t} =$ deaths attributed to war operations (ICD-10 code Y36) in year $t$
+
+  $P^{t} =$  population as of July 1 of year $t$
+
+desagregacion:
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+  Deaths of residents abroad that occurred in the Basque Country are included.
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
 
 
 justificacion_global: |
@@ -28,20 +46,22 @@ justificacion_global: |
   development without peace and no peace without sustainable development. Counting deaths occurring 
   in situations of armed conflict is therefore essential to the measurement of the Agenda, including and 
   beyond its Goal 16. 
-  
-   Monitoring conflict-related deaths is also necessary to help protect civilians and other 
+
+  Monitoring conflict-related deaths is also necessary to help protect civilians and other 
   potential victims, ensure respect of humanitarian and human rights standards, and understand the 
   patterns and consequences of armed conflicts in order to prevent future armed conflicts. 
 
-  Source: United Nations Statistics Division 
+  Source: United Nations Statistics Division
+
 
 dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=16.1.2&seriesCode=VC_DTH_TOCVN&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ALLAGE%20%7C%20BOTHSEX%20%7C%20_T">Number of conflict-related deaths (civilians), by sex, age and cause of death (Number) VC_DTH_TOCVN</a> UNSTATS
 
-comparabilidad: >-
+
+comparabilidad: >- 
+  The available indicator complies with United Nations metadata.
 
 indicador_meta_enlace: >-
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-02.pdf">Metadata 16-1-2.pdf</a> 
-
 
 

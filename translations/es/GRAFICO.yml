@@ -59,7 +59,7 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 6-4-2-titulo: "Consumo de agua (volumen de agua extraída)"
 6-5-2-titulo: "Proporción de la superficie de cuencas transfronterizas sujetas a arreglos operacionales para la cooperación en materia de aguas"
 
-7-3-E1-titulo: "Consumo de energía eléctrica (Indicador Gobierno Vasco)"
+7-b-1-titulo: "Capacidad instalada de generación de energía renovable (en vatios per cápita)" 
 
 8-5-1-titulo: "Ingreso medio por hora de personas empleadas, desglosado por sexo y por personas con
   o sin discapacidad" 
@@ -93,6 +93,8 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 12-1-1-titulo: "Se elaboran, adoptan o aplican instrumentos de política destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles"
 12-5-1-titulo: "Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados"
 12-6-1-titulo: "Número de organizaciones con EMAS o Ecolabel"
+12-7-1-titulo: "Nivel de implementación de las políticas de contratación pública sostenible"
+12-a-1-titulo: "Capacidad instalada de generación de energía renovable (en vatios per cápita)" 
 
 13-1-1-titulo: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
 13-2-2-titulo: "Emisiones totales de gases de efecto invernadero (GEI), por unidad de PIB real, per cápita, y tasas de variación respecto a 1990 y 2005"
@@ -108,6 +110,7 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 15-8-1-titulo: "Se dispone de legislación nacional pertinente y se destinan recursos para la prevención o el control de las especies exóticas invasoras"
 
 16-1-1-titulo: "Número de víctimas de homicidios intencionales por cada 100.000 habitantes"
+16-1-2-titulo: "Muertes relacionadas con conflictos por cada 100.000 habitantes"
 16-1-4-titulo: "Proporción de la población que se siente segura al caminar sola en su zona de residencia después de que oscurece"
 16-1-E1-titulo: "Población que reporta ocurrencia de delitos, violencia o vandalismo en su área (Indicador UE sdg_16_20)" 
 16-2-2-titulo: "Número de víctimas detectadas de tráfico de personas por cada 100.000 habitantes, desglosado por tipo de explotación"
@@ -197,7 +200,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 3-6-1-contenido: "<b>Meta:</b> Reducir a la mitad el número de muertes"
 3-7-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 3-7-2-contenido: "<b>Dirección deseada:</b> Descenso"
-3-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+3-8-1-contenido: "<b>Dirección deseada:</b> Descenso"
 3-8-2-contenido: "<b>Dirección deseada:</b> Descenso"
 3-9-2-contenido: |
   La CA de Euskadi no elabora estadísticas oficiales continuas con la metodología del indicador, pero diversos indicios permiten estimar que el dato real se encuentra muy próximo a 0
@@ -262,6 +265,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 8-9-1-contenido: "No evaluable. Para evaluar el progreso, el indicador se debería complementar con indicadores 
   adicionales sobre los aspectos sociales (por ejemplo, empleo, etc.) y ambientales 
   (uso de energía, emisiones de GEI, etc.) del turismo"
+8-9-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 8-10-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 8-10-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 8-b-1-contenido: |
@@ -333,6 +337,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 12-4-2-contenido: "<b>Dirección deseada:</b> Ascenso en la proporción de residuos peligrosos reciclados"
 12-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 12-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+12-7-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
 13-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
 13-2-1-contenido: |
@@ -358,10 +363,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 15-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
 16-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
-16-1-2-contenido: |
-  La C.A. de Euskadi no se encuentra en la lista de situaciones de conflicto armado considerada para este indicador por la Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (ACNUDH). Por lo tanto, a pesar de que no se elaboran 
-  estadísticas oficiales continuas con la metodología del indicador, se puede afirmar que el dato es 0.
-
+16-1-2-contenido: "<b>Dirección deseada:</b> Descenso"
 16-1-4-contenido: "<b>Dirección deseada:</b> Ascenso"
 16-1-E1-contenido:  "<b>Dirección deseada:</b> Descenso"
 16-2-2-contenido: "<b>Dirección deseada:</b> Descenso"

@@ -1,28 +1,61 @@
-# Metadatos nacionales (ficha metodológica)
+ # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >- 
+  GRAFICO.12-7-1-titulo
 
-# objetivo_global: objetivo_largo.12-titulo
-# meta_global: meta_largo.12-7-titulo
+objetivo_global: objetivo_largo.12-titulo
+meta_global: meta_largo.12-7-titulo
 #  indicador_onu_global: indicador_largo.12-7-1-titulo
 
 
-definicion:
+definicion: | 
+  Nivel de implementación de las políticas de contratación pública sostenible (0-100). 
 
-formula:
+  El indicador se calcula a través de un cuestionario del Programa de Naciones Unidas para el Medio 
+  Ambiente, en el que se obtiene una puntuación de entre 0 y 100. 
+  
+  El cuestionario contiene 6 apartados:
 
-desagregacion: 
+  - A: Existencia de una política, un plan de acción y/o unos requisitos reglamentarios en materia de CPS (0-1 punto)    
+  - B: Marco normativo de la contratación pública que favorece la CPS (0-20 puntos)  
+  - C: Apoyo práctico a los profesionales de la contratación pública en la aplicación de la CPS (0-20 puntos)  
+  - D: Criterios de contratación / normas de compra / requisitos de la CPS (0-20 puntos)  
+  - E: Existencia de un sistema de control de la CPS (0-20 puntos)  
+  - F: Proporción de compra sostenible de productos/servicios prioritarios (0-20 puntos) 
 
-periodicidad:  
+formula: |
+  $$P_{t} = PA_{t} \cdot  (PB_{t} + PC_{t} + PD_{t} + PE_{t} + PF_{t})$$
 
-observaciones:
+  donde:
+
+  $PA_{t}$ = puntuación del apartado A del cuestionario en el año $t$
+
+  $PB_{t}$ = puntuación del apartado B del cuestionario en el año $t$
+
+  $PC_{t}$ = puntuación del apartado C del cuestionario en el año $t$
+
+  $PD_{t}$ = puntuación del apartado D del cuestionario en el año $t$
+
+  $PE_{t}$ = puntuación del apartado E del cuestionario en el año $t$
+
+  $PF_{t}$ = puntuación del apartado F del cuestionario en el año $t$
 
 
+desagregacion: >- 
+
+
+periodicidad: FUENTE.FREQ_A3
+
+
+observaciones: >-
+
+
+texto_oceca: FUENTE.oceca
 
  # Metadatos mundiales (Descripción del indicador)  
 
-
 justificacion_global: |
+
   La contratación pública posee un enorme poder adquisitivo, representando un promedio del 12% del 
   producto interno bruto (PIB) en los países de la OCDE y hasta el 30% del PIB en muchos países en desarrollo.
   Aprovechar este poder adquisitivo mediante la adquisición de bienes y servicios más sostenibles 
@@ -34,10 +67,17 @@ justificacion_global: |
   más sostenibles. Los actores involucrados en las CPS llevan mucho tiempo solicitando 
   información fiable y actualizada sobre las actividades y organizaciones que participan en ellas.
 
-  Fuente: División de Estadísticas de las Naciones Unidas
+  Fuente: División de Estadísticas de las Naciones Unidas 
 
-dato_global:
 
-indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-07-01.pdf">Metadatos 12-7-1.pdf</a> (solo en inglés)
+dato_global: >-
 
+ 
+ <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=12.7.1&seriesCode=SG_SCP_PROCN&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=HIGIMP"> Número de países que implementan políticas y planes de acción de contratación pública sostenible (nivel alto) SG_SCP_PROCN</a> UNSTATS 
+
+
+comparabilidad: >- 
+  El indicador disponible cumple con los metadatos de Naciones Unidas.
+
+
+indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-12-07-01.pdf">Metadatos 12-7-1.pdf</a> (solo en inglés)'

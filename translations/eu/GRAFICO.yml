@@ -59,7 +59,7 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 6-4-2-titulo: "Ur-kontsumoa (ur-erauzketa)"
 6-5-2-titulo: "Uren arloko lankidetzarako eragiketen konponketei lotutako mugaz gaindiko arroen azaleraren proportzioa"
 
-7-3-E1-titulo: "Energia elektrikoaren kontsumoa (Eusko Jaurlaritzaren adierazlea)"
+7-b-1-titulo: "Energia berriztagarria sortzeko instalatutako ahalmena (biztanleko wattetan)" 
 
 8-5-1-titulo: "Enplegatutako pertsonen batez besteko diru-sarrera orduko, sexuaren eta desgaitasuna duten edo ez duten pertsonen arabera banakatuta"
 8-5-E1-titulo: "Biztanleriaren okupazio-tasa (EBren sdg_08_30 adierazlea)" 
@@ -93,6 +93,8 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 12-1-1-titulo: "Kontsumo- eta ekoizpen-modalitate jasangarrietarako trantsizioa bultzatzeko politika-tresnak egiten, hartzen edo aplikatzen dira"
 12-5-1-titulo: "Birziklatutako hiri-hondakinen proportzioa, sortutako eta tratatutako hiri-hondakinen guztizkoarekiko"
 12-6-1-titulo: "EMAS edo Ecolabel duten erakundeen kopurua"
+12-7-1-titulo: "Kontratazio publiko jasangarrirako politiken ezarpen maila"
+12-a-1-titulo: "Energia berriztagarria sortzeko instalatutako ahalmena (biztanleko wattetan)" 
 
 13-1-1-titulo: "Hondamendien ondorioz zuzenean hildako pertsonen kopurua 100.000 biztanleko"
 13-2-2-titulo: "Berotegi-efektuko gasen (BEG) emisio totalak, per capita BPG unitateko, eta aldaketa-tasak 1990 eta 2005eko datuekiko" 
@@ -110,6 +112,7 @@ nodisponible: Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adieraz
 
 
 16-1-1-titulo: "Nahita eragindako hilketen biktimen kopurua 100.000 biztanleko"
+16-1-2-titulo: "Gatazkekin lotura duten heriotzak 100.000 biztanleko"
 16-1-4-titulo: "Ilundu ondoren bizi diren zonaldean bakarrik ibiltzean seguru sentitzen den biztanleriaren proportzioa"
 16-1-E1-titulo: "Bizi den eremuan delituak, indarkeria edo bandalismoa gertatzen direla adierazten duen biztanleria (EBren sdg_16_20 adierazlea)" 
 16-2-2-titulo: "Pertsona-trafikoan detektatutako biktimen kopurua 100.000 biztanleko, esplotazio-motaren arabera"
@@ -200,7 +203,7 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 3-6-1-contenido: "<b>Xedea:</b> Heriotza kopurua erdira murriztea"
 3-7-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 3-7-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
-3-8-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+3-8-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 3-8-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 3-9-2-contenido: |
   Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adierazlearen metodologiarekin, baina hainbat zantzuk adierazten dutenaren arabera, benetako datua 0tik oso hurbil dago
@@ -264,6 +267,7 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 8-9-1-contenido: "Ezin da ebaluatu. Aurrerapena ebaluatzeko, adierazlea turismoaren 
   alderdi sozialei (adibidez, enplegua, etab) eta ingurumenekoei (energiaren erabilera, 
   berotegi-efektuko gasen emisioak, etab) buruzko adierazle gehigarriekin osatu beharko litzateke"
+8-9-2-contenido:  "<b>Nahi den norabidea:</b> Igoera"
 8-10-1-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
 8-10-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 8-b-1-contenido: |
@@ -334,6 +338,7 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 12-4-2-contenido: "<b>Nahi den norabidea:</b> Birziklatutako hondakin arriskutsuen proportzioaren igoera"
 12-5-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 12-6-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+12-7-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
 13-1-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 
@@ -360,10 +365,7 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 15-8-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
 16-1-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
-16-1-2-contenido: |
-  Euskal Autonomia Erkidegoa ez dago Giza Eskubideen aldeko Nazio Batuen Goi Komisarioaren Bulegoak (GENBGK) adierazle horretarako aintzat hartutako gatazka armatuen egoeren zerrendan. 
-  Beraz, adierazlearen metodologiarekin estatistika jarraitu eta ofizialik ez dagoen arren, datua 0 dela baieztatu daiteke. 
-  
+16-1-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 16-1-4-contenido: "<b>Nahi den norabidea:</b> Igoera"
 16-1-E1-contenido:  "<b>Nahi den norabidea:</b> Jaitsiera"
 16-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
@@ -426,5 +428,4 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 17-2-1-notapie: Azken urteko datuak behin-behinekoak dira
 17-3-1-notapie: Azken urteko datuak behin-behinekoak dira
 17-13-1-notapie: Azken urteko datuak behin-behinekoak dira
-
 
