@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción del total de la población agrícola con derechos de propiedad o derechos seguros sobre tierras agrícolas",
                 "Proporción de mujeres entre los propietarios o los titulares de derechos sobre tierras agrícolas, desglosada por tipo de tenencia",
+                "Proporción del total de la población agrícola con derechos de propiedad o derechos seguros sobre tierras agrícolas",
                 ""
               ]
             },

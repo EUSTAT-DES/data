@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Jabetza-eskubideak edo nekazaritza-lurren gaineko eskubide seguruak dituzten nekazarien guztizkoaren proportzioa",
                 "Emakumeen proportzioa nekazaritza-lurren jabeen edo eskubideen titularren artean, edukitze-motaren arabera banakatuta",
+                "Jabetza-eskubideak edo nekazaritza-lurren gaineko eskubide seguruak dituzten nekazarien guztizkoaren proportzioa",
                 ""
               ]
             },

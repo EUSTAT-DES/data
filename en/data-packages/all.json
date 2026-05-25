@@ -3837,8 +3837,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of the total agricultural population with property rights or secure rights to agricultural land",
                 "Proportion of women among owners or holders of rights to agricultural land, by tenure type",
+                "Proportion of the total agricultural population with property rights or secure rights to agricultural land",
                 ""
               ]
             },
