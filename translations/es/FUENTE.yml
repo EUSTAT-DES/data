@@ -186,6 +186,7 @@ Euskadi_Hacienda_presup: Estadística de ejecución presupuestaria
 CGPD_ejud: Estadística Judicial
 KBA_kba: Key Biodiversity Areas
 ELIKA_xahu: Análisis del Desperdicio Alimentario en la Cadena Agroalimentaria de Euskadi
+INE_icv: Indicadores de calidad de vida
 
 
 # URL
@@ -316,6 +317,7 @@ KBA_kba_url: https://www.keybiodiversityareas.org/sites/search
 ELIKA_xahu_url: https://zerodespilfarro.elika.eus/wp-content/uploads/2023/03/Resumen-Diagnostico-Desperdicio-Euskadi_2022.pdf
 Ihobe_verde_url: https://www.ihobe.eus/es/compraverde
 hacienda_url: https://www.euskadi.eus/gobierno-vasco/departamento-hacienda-finanzas/inicio/
+INE_icv_url: https://www.ine.es/dynt3/ICV/index.html
 
 
 
