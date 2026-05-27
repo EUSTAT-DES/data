@@ -16,12 +16,9 @@
           },
           {
             "name": "Territorio",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
                 ""
               ]
             }
