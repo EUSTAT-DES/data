@@ -8,7 +8,7 @@ meta_global: meta_largo.16-1-titulo
 
 
 definicion: >-
-  Proportzioan, zenbat diren delinkuentzia edo bandalismoko arazoak dituen gune batean 
+  Proportzioan, zenbat diren delinkuentzia edo bandalismoko arazoak dituen eremu batean 
   bizi direla adierazten dutenak 
 
 formula: |
@@ -21,9 +21,8 @@ formula: |
 
   $P^{t} =$ guztizko biztanleria $t$ urtean 
 
-desagregacion: |
+desagregacion: >-
 
-  Lurralde historikoa
 
 observaciones: >-
 
