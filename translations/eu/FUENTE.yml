@@ -184,6 +184,7 @@ Euskadi_Hacienda_presup: Aurrekontu egikaritzaren estatistika
 CGPD_ejud: Estatistika Judiziala
 KBA_kba: Key Biodiversity Areas
 ELIKA_xahu: Elikagaien Xahuketaren Analisia Euskadiko Nekazaritzako Elikagaien Katean
+INE_icv: Bizi-kalitatearen adierazleak
 
 # URL
 
@@ -313,6 +314,7 @@ KBA_kba_url: https://www.keybiodiversityareas.org/sites/search
 ELIKA_xahu_url: https://zerodespilfarro.elika.eus/wp-content/uploads/2023/03/Resumen-Diagnostico-Desperdicio-Euskadi_2022EU.pdf
 Ihobe_verde_url: https://www.ihobe.eus/eu/erosketa-berdea
 hacienda_url: https://www.euskadi.eus/eusko-jaurlaritza/ogasun-finantza-saila/hasiera/
+INE_icv_url: https://www.ine.es/dynt3/ICV/index.html
 
 
 # LOGOS
