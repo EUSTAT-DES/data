@@ -44,11 +44,11 @@ progress_status: retroceso
 reporting_status: complete
 sort: ''
 sources:
-  - organisation: FUENTE.Euskadi_Salud
-    periodicity: FUENTE.FREQ_A5
-    url: FUENTE.Euskadi_Salud_escav_url
-    url_text: FUENTE.Euskadi_Salud_escav
-    logo: FUENTE.Euskadi_logo
+  - organisation: FUENTE.INE
+    periodicity: FUENTE.FREQ_A3
+    url: FUENTE.INE_icv_url
+    url_text: FUENTE.INE_icv
+    logo: FUENTE.INE_logo
 standalone: false
 tags:
 x_axis_label: ''
