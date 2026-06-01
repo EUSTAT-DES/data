@@ -53,13 +53,13 @@ formula: |
 
   <b> Proporción de residuos urbanos tratados, por operación de tratamiento</b> 
 
-  $$PRU_{tratamiento}^{t} = \frac{RU_{tratamiento}^{t}}{RU^{t}} \cdot 100$$ <br> 
+  $$PRU_{tratamiento}^{t} = \frac{RU_{tratamiento}^{t}}{RUR^{t}} \cdot 100$$
 
   donde:  
 
   $RU_{tratamiento}^{t} =$ cantidad de residuos urbanos tratados (según tipo de tratamiento) en el año $t$
 
-  $RUR^{t} =$ cantidad total de residuos urbanos recogidos y gestionados en instalaciones controladas en el año $t$
+  $RUR^{t} =$ cantidad de residuos urbanos recogidos y gestionados en instalaciones controladas en el año $t$
 
 desagregacion: |
   Operación de tratamiento de residuos  
