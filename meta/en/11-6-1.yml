@@ -53,7 +53,7 @@ formula: |
 
   <b> Proportion of urban waste treated, per treatment operation</b> 
 
-  $$PRU_{treatment}^{t} = \frac{RU_{treatment}^{t}}{RU^{t}} \cdot 100$$ <br> 
+  $$PRU_{treatment}^{t} = \frac{RU_{treatment}^{t}}{RUR^{t}} \cdot 100$$
 
   $RU_{treatment}^{t} =$ amount of urban waste treated (by type of treatment) in year $t$
 
