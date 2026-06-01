@@ -53,7 +53,7 @@ formula: |
 
   <b> Tratatutako hiri-hondakinen proportzioa, tratamendu-eragiketaren arabera</b> 
 
-  $$PRU_{tratamendua}^{t} = \frac{RU_{tratamendua}^{t}}{RU^{t}} \cdot 100$$ <br> 
+  $$PRU_{tratamendua}^{t} = \frac{RU_{tratamendua}^{t}}{RUR^{t}} \cdot 100$$
 
   non:  
 
