@@ -17,7 +17,7 @@ formula: |
 
   where:
 
-  $D_{maternal}^{t} =$ deaths of women attributed to pregnancy, childbirth and the puerperium (codes O00-O99 of the ICD-10)
+  $D_{maternal}^{t} =$ deaths of women attributed to pregnancy, childbirth and the puerperium (codes O00-O95, O98, O99 and A34 of the ICD-10)
   in year $t$
 
   $N^{t} =$ births in year $t$
