@@ -17,7 +17,7 @@ formula: |
 
   donde:
 
-  $D_{materna}^{t} =$ defunciones de mujeres atribuidas a embarazo, parto y puerperio (códigos O00-O99 de la CIE-10) en el año $t$
+  $D_{materna}^{t} =$ defunciones de mujeres atribuidas a embarazo, parto y puerperio (códigos O00-O95, O98, O99 y A34 de la CIE-10) en el año $t$
 
   $N^{t} =$ nacimientos en el año $t$
 
