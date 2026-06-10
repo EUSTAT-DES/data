@@ -90,7 +90,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-1-E1,Sexo,1
 #4-2-2,"Sexo, Territorio, Comarca, Municipio",4
 #4-3-1,"Series, Sexo, Territorio, Edad",4
-#4-4-1,"Sexo, Territorio, Habilidad_IT, Edad",4
+#4-4-1,"Sexo, Territorio, Edad, Habilidad_IT",4
 #4-5-1,"Series, Territorio",2
 #4-6-1,"Sexo, Competencia",2
 #4-a-1,ServBasico,1
@@ -117,8 +117,8 @@ Indicator,Disaggregations,Number of disaggregations
 #8-2-1,Territorio,1
 #8-4-2,Series,1
 #8-5-1,"Series, Sexo, Discapacidad",3
-#8-5-2,"Sexo, Territorio, Comarca, Municipio, Discapacidad, Edad, Nacionalidad",7
-#8-5-E1,"Series, Sexo, Territorio, Comarca, Municipio, EmpCont",6
+#8-5-2,"Sexo, Territorio, Comarca, Municipio, Edad, Discapacidad, Nacionalidad",7
+#8-5-E1,"Series, Sexo, EmpCont, Territorio, Comarca, Municipio",6
 #8-6-1,"Sexo, Territorio",2
 #8-8-1,"Series, Sexo, Territorio",3
 #8-9-1,"Series, Territorio",2
