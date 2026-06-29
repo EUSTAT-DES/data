@@ -38,7 +38,25 @@ national_geographical_coverage: ''
 page_content: GRAFICO.5-5-1-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
+progress_calculation_options:
+  - series: GEN_PARL
+    direction: positive
+    limit: 50
+  - series: GEN_G
+    direction: positive
+    limit: 50
+  - series: GEN_REGIOPARL
+    direction: positive
+    limit: 50
+  - series: GEN_REGIOG
+    direction: positive
+    limit: 50
+  - series: GEN_LOCP
+    direction: positive
+    limit: 50
+  - series: GEN_LOCG
+    direction: positive
+    limit: 50
 reporting_status: complete
 sort: ''
 sources:

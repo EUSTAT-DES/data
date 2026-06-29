@@ -43,7 +43,9 @@ proxy: ''
 proxy_series: []
 publications: []
 related_indicators: []
-progress_status: progreso
+progress_calculation_options:
+  - direction: negative
+    target: 1.75
 reporting_status: complete
 sort: ''
 sources:
