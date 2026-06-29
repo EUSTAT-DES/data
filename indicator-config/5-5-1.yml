@@ -38,6 +38,7 @@ national_geographical_coverage: ''
 page_content: GRAFICO.5-5-1-contenido
 permalink: ''
 precision: []
+auto_progress_calculation: true
 progress_calculation_options:
   - series: GEN_PARL
     direction: positive
