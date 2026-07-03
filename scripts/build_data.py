@@ -167,3 +167,37 @@ sdg.ProgressMeasure.get_progress_status = get_progress_status_eustat
 sdg.ProgressMeasure.get_progress_status_from_score = get_progress_status_from_score_eustat
 
 open_sdg_build(config='config_data.yml')
+
+# Generar progreso.csv a partir de los metadatos del build
+import json, csv
+from collections import defaultdict
+
+print("[EUSTAT] >>> Generando progreso.csv <<<")
+try:
+    with open('_site/meta/all.json', encoding='utf-8') as f:
+        all_meta = json.load(f)
+
+    counts = defaultdict(lambda: defaultdict(int))
+    for inid, meta in all_meta.items():
+        goal = str(meta.get('goal_number', '')).strip()
+        status = meta.get('progress_status', 'not_available')
+        if not goal:
+            continue
+        counts[goal][status] += 1
+        counts['overall'][status] += 1
+
+    rows = []
+    for goal, statuses in counts.items():
+        total = sum(statuses.values())
+        for status, count in statuses.items():
+            rows.append({'goal': goal, 'status': status, 'count': count,
+                         'percentage': count / total * 100, 'total': total})
+
+    with open('_site/progreso.csv', 'w', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=['goal', 'status', 'count', 'percentage', 'total'])
+        writer.writeheader()
+        writer.writerows(rows)
+
+    print(f"[EUSTAT] >>> progreso.csv generado: {len(rows)} filas <<<")
+except Exception as e:
+    print(f"[EUSTAT] !!! Error generando progreso.csv: {e} !!!")
