@@ -174,7 +174,7 @@ from collections import defaultdict
 
 print("[EUSTAT] >>> Generando progreso.csv <<<")
 try:
-    with open('_site/meta/all.json', encoding='utf-8') as f:
+    with open('_site/eu/meta/all.json', encoding='utf-8') as f:
         all_meta = json.load(f)
 
     counts = defaultdict(lambda: defaultdict(int))
