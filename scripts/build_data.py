@@ -181,13 +181,17 @@ try:
     for inid, meta in all_meta.items():
         goal = str(meta.get('goal_number', '')).strip()
         status = meta.get('progress_status', 'not_available')
-        if not goal:
+        if not goal or not goal.isdigit():
             continue
         counts[goal][status] += 1
         counts['overall'][status] += 1
 
     rows = []
-    for goal, statuses in counts.items():
+    goal_order = ['overall'] + sorted([g for g in counts if g != 'overall'], key=int)
+    for goal in goal_order:
+        if goal not in counts:
+            continue
+        statuses = counts[goal]
         total = sum(statuses.values())
         for status, count in statuses.items():
             rows.append({'goal': goal, 'status': status, 'count': count,
