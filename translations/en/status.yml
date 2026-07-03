@@ -3,7 +3,6 @@ reporting_status: Monitoring report
 overall_reporting_status: Overall progress status
 reported_online: Reported online
 statistics_in_progress: Statistics in progress
-exploring_data_sources: Exploring data sources
 not_applicable: Not applicable
 no_data_available: No data available
 # Describing a section where the status is reported for each goal
@@ -35,6 +34,12 @@ alcanzado: On track or target met
 en_progreso: Fair progress but acceleration needed
 retroceso: Stagnation or regression
 no_evaluado: Not evaluable
+progreso_significativo: Significant progress towards SD objectives
+progreso_moderado: Moderate progress towards SD objectives
+sin_progreso: No progress towards nor movement away from SD objectives
+retroceso_moderado: Moderate movement away from SD objectives
+retroceso_significativo: Significant movement away from SD objectives
+meta_alcanzada: Target achieved
 territorio: 'Province'
 sexo: Sex
 municipio: Municipality
