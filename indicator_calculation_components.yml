@@ -1,0 +1,949 @@
+1-1-1:
+  1-1-1:
+    base_value: 0.1
+    base_year: 2016.0
+    current_value: 0.2
+    current_year: 2022.0
+    direction: -1
+    limit: null
+    progress_value: -0.8074930015902552
+    score: -5.0
+    sign: 1
+    status: moderate_deterioration
+    target: 0.01
+    target_year: 2030.0
+  progress_status: significant_deterioration
+  score: -5.0
+1-2-1:
+  progress_status: progreso
+  score: null
+1-2-2:
+  progress_status: progreso
+  score: null
+1-3-1:
+  progress_status: progreso
+  score: null
+1-4-1:
+  progress_status: alcanzado
+  score: null
+1-4-2:
+  progress_status: notstarted
+  score: null
+1-5-1:
+  progress_status: alcanzado
+  score: null
+1-5-2:
+  progress_status: noevaluado
+  score: null
+1-5-3:
+  progress_status: alcanzado
+  score: null
+1-5-4:
+  progress_status: alcanzado
+  score: null
+1-a-1:
+  progress_status: notapplicable
+  score: null
+1-a-2:
+  progress_status: alcanzado
+  score: null
+1-b-1:
+  progress_status: notstarted
+  score: null
+10-1-1:
+  progress_status: alcanzado
+  score: null
+10-2-1:
+  progress_status: progreso
+  score: null
+10-3-1:
+  progress_status: retroceso
+  score: null
+10-4-1:
+  progress_status: retroceso
+  score: null
+10-4-2:
+  progress_status: noevaluado
+  score: null
+10-5-1:
+  progress_status: notstarted
+  score: null
+10-6-1:
+  progress_status: notapplicable
+  score: null
+10-7-1:
+  progress_status: notstarted
+  score: null
+10-7-2:
+  progress_status: notstarted
+  score: null
+10-7-3:
+  progress_status: notstarted
+  score: null
+10-7-4:
+  progress_status: retroceso
+  score: null
+10-a-1:
+  progress_status: notstarted
+  score: null
+10-b-1:
+  progress_status: notstarted
+  score: null
+10-c-1:
+  progress_status: notstarted
+  score: null
+11-1-1:
+  progress_status: progreso
+  score: null
+11-2-1:
+  progress_status: notstarted
+  score: null
+11-3-1:
+  progress_status: notstarted
+  score: null
+11-3-2:
+  progress_status: alcanzado
+  score: null
+11-4-1:
+  progress_status: alcanzado
+  score: null
+11-5-1:
+  progress_status: alcanzado
+  score: null
+11-5-2:
+  progress_status: alcanzado
+  score: null
+11-5-3:
+  progress_status: notstarted
+  score: null
+11-6-1:
+  progress_status: alcanzado
+  score: null
+11-6-2:
+  progress_status: alcanzado
+  score: null
+11-7-1:
+  progress_status: alcanzado
+  score: null
+11-7-2:
+  progress_status: retroceso
+  score: null
+11-a-1:
+  progress_status: alcanzado
+  score: null
+11-b-1:
+  progress_status: alcanzado
+  score: null
+11-b-2:
+  progress_status: alcanzado
+  score: null
+11-c-1:
+  progress_status: notstarted
+  score: null
+12-1-1:
+  progress_status: alcanzado
+  score: null
+12-2-1:
+  progress_status: notstarted
+  score: null
+12-2-2:
+  progress_status: alcanzado
+  score: null
+12-3-1:
+  progress_status: noevaluado
+  score: null
+12-4-1:
+  progress_status: notapplicable
+  score: null
+12-4-2:
+  progress_status: retroceso
+  score: null
+12-5-1:
+  progress_status: alcanzado
+  score: null
+12-6-1:
+  progress_status: alcanzado
+  score: null
+12-7-1:
+  progress_status: alcanzado
+  score: null
+12-8-1:
+  progress_status: notstarted
+  score: null
+12-a-1:
+  progress_status: alcanzado
+  score: null
+12-b-1:
+  progress_status: notstarted
+  score: null
+12-c-1:
+  progress_status: notstarted
+  score: null
+13-1-1:
+  progress_status: alcanzado
+  score: null
+13-1-2:
+  progress_status: alcanzado
+  score: null
+13-1-3:
+  progress_status: alcanzado
+  score: null
+13-2-1:
+  progress_status: alcanzado
+  score: null
+13-2-2:
+  progress_status: alcanzado
+  score: null
+13-3-1:
+  progress_status: notstarted
+  score: null
+13-a-1:
+  progress_status: notapplicable
+  score: null
+13-b-1:
+  progress_status: notapplicable
+  score: null
+14-1-1:
+  progress_status: notstarted
+  score: null
+14-2-1:
+  progress_status: notstarted
+  score: null
+14-3-1:
+  progress_status: alcanzado
+  score: null
+14-4-1:
+  progress_status: notstarted
+  score: null
+14-5-1:
+  progress_status: alcanzado
+  score: null
+14-6-1:
+  progress_status: notstarted
+  score: null
+14-7-1:
+  progress_status: notstarted
+  score: null
+14-a-1:
+  progress_status: notstarted
+  score: null
+14-b-1:
+  progress_status: notstarted
+  score: null
+14-c-1:
+  progress_status: notstarted
+  score: null
+15-1-1:
+  progress_status: alcanzado
+  score: null
+15-1-2:
+  progress_status: noevaluado
+  score: null
+15-1-E1:
+  progress_status: progreso
+  score: null
+15-2-1:
+  progress_status: alcanzado
+  score: null
+15-3-1:
+  progress_status: progreso
+  score: null
+15-4-1:
+  progress_status: noevaluado
+  score: null
+15-4-2:
+  progress_status: alcanzado
+  score: null
+15-5-1:
+  progress_status: notstarted
+  score: null
+15-6-1:
+  progress_status: notstarted
+  score: null
+15-7-1:
+  progress_status: notstarted
+  score: null
+15-8-1:
+  progress_status: alcanzado
+  score: null
+15-9-1:
+  progress_status: notstarted
+  score: null
+15-a-1:
+  progress_status: notstarted
+  score: null
+15-b-1:
+  progress_status: notstarted
+  score: null
+15-c-1:
+  progress_status: notstarted
+  score: null
+16-1-1:
+  progress_status: alcanzado
+  score: null
+16-1-2:
+  progress_status: alcanzado
+  score: null
+16-1-3:
+  progress_status: notstarted
+  score: null
+16-1-4:
+  progress_status: progreso
+  score: null
+16-1-E1:
+  progress_status: retroceso
+  score: null
+16-10-1:
+  progress_status: alcanzado
+  score: null
+16-10-2:
+  progress_status: notstarted
+  score: null
+16-2-1:
+  progress_status: notstarted
+  score: null
+16-2-2:
+  progress_status: retroceso
+  score: null
+16-2-3:
+  progress_status: notstarted
+  score: null
+16-3-1:
+  progress_status: notstarted
+  score: null
+16-3-2:
+  progress_status: retroceso
+  score: null
+16-3-3:
+  progress_status: notstarted
+  score: null
+16-4-1:
+  progress_status: notstarted
+  score: null
+16-4-2:
+  progress_status: notstarted
+  score: null
+16-5-1:
+  progress_status: notstarted
+  score: null
+16-5-2:
+  progress_status: notstarted
+  score: null
+16-6-1:
+  progress_status: alcanzado
+  score: null
+16-6-2:
+  progress_status: progreso
+  score: null
+16-7-1:
+  progress_status: progreso
+  score: null
+16-7-2:
+  progress_status: notstarted
+  score: null
+16-8-1:
+  progress_status: notapplicable
+  score: null
+16-9-1:
+  progress_status: alcanzado
+  score: null
+16-a-1:
+  progress_status: notstarted
+  score: null
+16-b-1:
+  progress_status: retroceso
+  score: null
+17-1-1:
+  progress_status: progreso
+  score: null
+17-1-2:
+  progress_status: retroceso
+  score: null
+17-10-1:
+  progress_status: notapplicable
+  score: null
+17-11-1:
+  progress_status: notapplicable
+  score: null
+17-12-1:
+  progress_status: notapplicable
+  score: null
+17-13-1:
+  progress_status: noevaluado
+  score: null
+17-14-1:
+  progress_status: notstarted
+  score: null
+17-15-1:
+  progress_status: notstarted
+  score: null
+17-16-1:
+  progress_status: notstarted
+  score: null
+17-17-1:
+  progress_status: notstarted
+  score: null
+17-18-1:
+  progress_status: notstarted
+  score: null
+17-18-2:
+  progress_status: alcanzado
+  score: null
+17-18-3:
+  progress_status: alcanzado
+  score: null
+17-19-1:
+  progress_status: notstarted
+  score: null
+17-19-2:
+  progress_status: alcanzado
+  score: null
+17-2-1:
+  progress_status: alcanzado
+  score: null
+17-3-1:
+  progress_status: alcanzado
+  score: null
+17-3-2:
+  progress_status: noevaluado
+  score: null
+17-4-1:
+  progress_status: notapplicable
+  score: null
+17-5-1:
+  progress_status: notstarted
+  score: null
+17-6-1:
+  progress_status: alcanzado
+  score: null
+17-7-1:
+  progress_status: notstarted
+  score: null
+17-8-1:
+  progress_status: alcanzado
+  score: null
+17-9-1:
+  progress_status: notstarted
+  score: null
+2-1-1:
+  progress_status: alcanzado
+  score: null
+2-1-2:
+  progress_status: alcanzado
+  score: null
+2-2-1:
+  progress_status: alcanzado
+  score: null
+2-2-2:
+  progress_status: retroceso
+  score: null
+2-2-3:
+  progress_status: notstarted
+  score: null
+2-2-4:
+  progress_status: notstarted
+  score: null
+2-2-E1:
+  progress_status: retroceso
+  score: null
+2-3-1:
+  progress_status: progreso
+  score: null
+2-3-2:
+  progress_status: retroceso
+  score: null
+2-4-1:
+  progress_status: progreso
+  score: null
+2-4-E1:
+  progress_status: alcanzado
+  score: null
+2-4-E2:
+  progress_status: alcanzado
+  score: null
+2-5-1:
+  progress_status: notstarted
+  score: null
+2-5-2:
+  progress_status: notstarted
+  score: null
+2-a-1:
+  progress_status: noevaluado
+  score: null
+2-a-2:
+  progress_status: notstarted
+  score: null
+2-b-1:
+  progress_status: notstarted
+  score: null
+2-c-1:
+  progress_status: noevaluado
+  score: null
+3-1-1:
+  progress_status: alcanzado
+  score: null
+3-1-2:
+  progress_status: alcanzado
+  score: null
+3-2-1:
+  progress_status: alcanzado
+  score: null
+3-2-2:
+  progress_status: alcanzado
+  score: null
+3-3-1:
+  progress_status: alcanzado
+  score: null
+3-3-2:
+  progress_status: progreso
+  score: null
+3-3-3:
+  progress_status: alcanzado
+  score: null
+3-3-4:
+  progress_status: alcanzado
+  score: null
+3-3-5:
+  progress_status: notstarted
+  score: null
+3-4-1:
+  progress_status: alcanzado
+  score: null
+3-4-2:
+  progress_status: retroceso
+  score: null
+3-4-E1:
+  progress_status: retroceso
+  score: null
+3-4-E2:
+  progress_status: alcanzado
+  score: null
+3-5-1:
+  progress_status: noevaluado
+  score: null
+3-5-2:
+  progress_status: retroceso
+  score: null
+3-6-1:
+  3-6-1:
+    base_value: 3.5
+    base_year: 2015.0
+    current_value: 2.8
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: 0.5422887024672756
+    score: -0.24044566342960305
+    sign: 1
+    status: moderate_deterioration
+    target: 1.75
+    target_year: 2030.0
+  progress_status: moderate_deterioration
+  score: -0.24044566342960305
+3-7-1:
+  progress_status: noevaluado
+  score: null
+3-7-2:
+  progress_status: alcanzado
+  score: null
+3-8-1:
+  progress_status: alcanzado
+  score: null
+3-8-2:
+  progress_status: retroceso
+  score: null
+3-9-1:
+  progress_status: notstarted
+  score: null
+3-9-2:
+  progress_status: alcanzado
+  score: null
+3-9-3:
+  progress_status: alcanzado
+  score: null
+3-a-1:
+  progress_status: alcanzado
+  score: null
+3-b-1:
+  progress_status: retroceso
+  score: null
+3-b-2:
+  progress_status: notstarted
+  score: null
+3-b-3:
+  progress_status: notstarted
+  score: null
+3-c-1:
+  progress_status: alcanzado
+  score: null
+3-d-1:
+  progress_status: notstarted
+  score: null
+3-d-2:
+  progress_status: notstarted
+  score: null
+4-1-1:
+  progress_status: retroceso
+  score: null
+4-1-2:
+  progress_status: progreso
+  score: null
+4-1-E1:
+  progress_status: alcanzado
+  score: null
+4-2-1:
+  progress_status: notstarted
+  score: null
+4-2-2:
+  progress_status: alcanzado
+  score: null
+4-3-1:
+  progress_status: progreso
+  score: null
+4-4-1:
+  progress_status: progreso
+  score: null
+4-5-1:
+  progress_status: progreso
+  score: null
+4-6-1:
+  progress_status: progreso
+  score: null
+4-7-1:
+  progress_status: notstarted
+  score: null
+4-a-1:
+  progress_status: alcanzado
+  score: null
+4-b-1:
+  progress_status: notstarted
+  score: null
+4-c-1:
+  progress_status: alcanzado
+  score: null
+5-1-1:
+  progress_status: alcanzado
+  score: null
+5-2-1:
+  progress_status: retroceso
+  score: null
+5-2-2:
+  progress_status: retroceso
+  score: null
+5-3-1:
+  progress_status: alcanzado
+  score: null
+5-3-2:
+  progress_status: notstarted
+  score: null
+5-4-1:
+  progress_status: progreso
+  score: null
+5-5-1:
+  5-5-1 / Emakumezkoen proportzioa Batzar Nagusietako batzarkideen artean:
+    base_value: 48.1
+    base_year: 2015.0
+    current_value: 44.4
+    current_year: 2025.0
+    direction: 1
+    limit: 50
+    progress_value: -0.007972321891407952
+    score: -1.993080472851988
+    sign: 1
+    status: significant_deterioration
+    target: null
+    target_year: 2030.0
+  5-5-1 / Emakumezkoen proportzioa Eusko Jaurlaritzako sailburuen artean:
+    base_value: 50.0
+    base_year: 2015.0
+    current_value: 46.7
+    current_year: 2025.0
+    direction: 1
+    limit: 50
+    progress_value: -0.006804627037080846
+    score: -1.7011567592702115
+    sign: 1
+    status: significant_deterioration
+    target: null
+    target_year: 2030.0
+  5-5-1 / Emakumezkoen proportzioa Eusko Legebiltzarreko legebiltzarkideen artean:
+    base_value: 49.3
+    base_year: 2015.0
+    current_value: 53.3
+    current_year: 2025.0
+    direction: 1
+    limit: 50
+    progress_value: 0.007831733851999978
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  5-5-1 / Emakumezkoen proportzioa Foru Diputatuen artean:
+    base_value: 50.0
+    base_year: 2015.0
+    current_value: 66.7
+    current_year: 2025.0
+    direction: 1
+    limit: 50
+    progress_value: 0.02923745669053135
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  5-5-1 / Emakumezkoen proportzioa alkateen artean:
+    base_value: 25.2
+    base_year: 2015.0
+    current_value: 35.7
+    current_year: 2025.0
+    direction: 1
+    limit: 50
+    progress_value: 0.03544436156697994
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  5-5-1 / Emakumezkoen proportzioa zinegotzien artean:
+    base_value: 41.4
+    base_year: 2015.0
+    current_value: 46.8
+    current_year: 2025.0
+    direction: 1
+    limit: 50
+    progress_value: 0.012335696945859898
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 2.717627127979634
+5-5-2:
+  progress_status: retroceso
+  score: null
+5-6-1:
+  progress_status: notstarted
+  score: null
+5-6-2:
+  progress_status: notstarted
+  score: null
+5-a-1:
+  progress_status: progreso
+  score: null
+5-a-2:
+  progress_status: alcanzado
+  score: null
+5-b-1:
+  progress_status: alcanzado
+  score: null
+5-c-1:
+  progress_status: notstarted
+  score: null
+6-1-1:
+  progress_status: alcanzado
+  score: null
+6-2-1:
+  progress_status: alcanzado
+  score: null
+6-3-1:
+  progress_status: progreso
+  score: null
+6-3-2:
+  progress_status: retroceso
+  score: null
+6-4-1:
+  progress_status: notstarted
+  score: null
+6-4-2:
+  progress_status: noevaluado
+  score: null
+6-5-1:
+  progress_status: notstarted
+  score: null
+6-5-2:
+  progress_status: alcanzado
+  score: null
+6-6-1:
+  progress_status: notstarted
+  score: null
+6-a-1:
+  progress_status: notstarted
+  score: null
+6-b-1:
+  progress_status: alcanzado
+  score: null
+7-1-1:
+  progress_status: alcanzado
+  score: null
+7-1-2:
+  progress_status: alcanzado
+  score: null
+7-2-1:
+  7-2-1:
+    base_value: 14.5
+    base_year: 2015.0
+    current_value: 20.4
+    current_year: 2023.0
+    direction: 1
+    limit: 100
+    progress_value: 0.04359687666382461
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
+7-3-1:
+  progress_status: alcanzado
+  score: null
+7-a-1:
+  progress_status: notstarted
+  score: null
+7-b-1:
+  progress_status: alcanzado
+  score: null
+8-1-1:
+  progress_status: alcanzado
+  score: null
+8-10-1:
+  progress_status: noevaluado
+  score: null
+8-10-2:
+  progress_status: alcanzado
+  score: null
+8-2-1:
+  progress_status: alcanzado
+  score: null
+8-3-1:
+  progress_status: notstarted
+  score: null
+8-4-1:
+  progress_status: notstarted
+  score: null
+8-4-2:
+  progress_status: alcanzado
+  score: null
+8-5-1:
+  progress_status: alcanzado
+  score: null
+8-5-2:
+  8-5-2:
+    base_value: 15.7
+    base_year: 2015.0
+    current_value: 7.4
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: 0.08017848636810543
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
+8-5-E1:
+  progress_status: progreso
+  score: null
+8-6-1:
+  progress_status: alcanzado
+  score: null
+8-7-1:
+  progress_status: alcanzado
+  score: null
+8-8-1:
+  progress_status: progreso
+  score: null
+8-8-2:
+  progress_status: notstarted
+  score: null
+8-9-1:
+  progress_status: noevaluado
+  score: null
+8-9-2:
+  progress_status: notstarted
+  score: null
+8-a-1:
+  progress_status: notstarted
+  score: null
+8-b-1:
+  progress_status: alcanzado
+  score: null
+9-1-1:
+  progress_status: alcanzado
+  score: null
+9-1-2:
+  progress_status: alcanzado
+  score: null
+9-2-1:
+  progress_status: retroceso
+  score: null
+9-2-2:
+  progress_status: retroceso
+  score: null
+9-3-1:
+  progress_status: retroceso
+  score: null
+9-3-2:
+  progress_status: notstarted
+  score: null
+9-4-1:
+  progress_status: alcanzado
+  score: null
+9-4-E1:
+  progress_status: alcanzado
+  score: null
+9-5-1:
+  progress_status: alcanzado
+  score: null
+9-5-2:
+  progress_status: alcanzado
+  score: null
+9-a-1:
+  progress_status: notstarted
+  score: null
+9-b-1:
+  progress_status: retroceso
+  score: null
+9-c-1:
+  progress_status: alcanzado
+  score: null
+OCECA-1-2-1-1A:
+  progress_status: ''
+  score: null
+OCECA-1-2-1-2A:
+  progress_status: ''
+  score: null
+OCECA-1-2-1-2B:
+  progress_status: ''
+  score: null
+OCECA-1-2-2-1A:
+  progress_status: ''
+  score: null
+OCECA-1-a-2-1:
+  progress_status: ''
+  score: null
+OCECA-1-a-2-2:
+  progress_status: ''
+  score: null
+OCECA-10-2-1-1A:
+  progress_status: ''
+  score: null
+OCECA-6-1-1:
+  progress_status: ''
+  score: null
+OCECA-8-9-1-3AB4AB:
+  progress_status: ''
+  score: null
+OCECA-8-9-1-3CD:
+  progress_status: ''
+  score: null
+OCECA-9-4-1-5:
+  progress_status: ''
+  score: null
+OCECA-9-4-1-6:
+  progress_status: ''
+  score: null
