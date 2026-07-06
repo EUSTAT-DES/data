@@ -132,6 +132,11 @@ docs_translate_disaggregations: true
 docs_extra_disaggregations: 
   - Series
 
+# Progress calculation components
+# -------------------------------
+# This outputs a file with the settings and values used to calculate progress.
+progress_calculation_components: true
+
 # This controls the metadata report which is part of the automatic documentation.
 # More info can be found at https://open-sdg.readthedocs.io/en/latest/data-configuration/#docs_metadata_fields
 docs_metadata_fields:
