@@ -120,7 +120,7 @@ def get_progress_status_eustat(value, thresholds, target_achieved=False):
     z = float(thresholds['low'])
 
     if target_achieved:
-        return "target_achieved"
+        return "significant_progress"
 
     if value is not None:
         if value >= x:
@@ -146,7 +146,7 @@ def get_progress_status_eustat(value, thresholds, target_achieved=False):
 def get_progress_status_from_score_eustat(score, target_achieved=False):
     """Eurostat: mapeo score [-5,+5] a 5 estados."""
     if target_achieved:
-        return "target_achieved"
+        return "significant_progress"
     if score is None:
         return "not_available"
     elif score >= 2.5:
