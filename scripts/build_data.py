@@ -177,10 +177,21 @@ try:
     with open('_site/eu/meta/all.json', encoding='utf-8') as f:
         all_meta = json.load(f)
 
+    # Mapeo legacy -> Eurostat para unificar estados en el CSV
+    legacy_map = {
+        'alcanzado': 'significant_progress',
+        'progreso': 'moderate_progress',
+        'retroceso': 'moderate_deterioration',
+        'noevaluado': 'not_available',
+        'notstarted': 'notstarted',
+        'notapplicable': 'notapplicable',
+    }
+
     counts = defaultdict(lambda: defaultdict(int))
     for inid, meta in all_meta.items():
         goal = str(meta.get('goal_number', '')).strip()
         status = meta.get('progress_status', 'not_available')
+        status = legacy_map.get(status, status)  # unificar
         if not goal or not goal.isdigit():
             continue
         counts[goal][status] += 1
