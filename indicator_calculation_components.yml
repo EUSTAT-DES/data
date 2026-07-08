@@ -30,8 +30,21 @@
   progress_status: notstarted
   score: null
 1-5-1:
-  progress_status: alcanzado
-  score: null
+  1-5-1:
+    base_value: 0.09
+    base_year: 2015.0
+    current_value: 0.18
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: -0.08005973889230611
+    score: -5.0
+    sign: 1
+    status: significant_deterioration
+    target: null
+    target_year: 2030.0
+  progress_status: significant_deterioration
+  score: -5.0
 1-5-2:
   progress_status: noevaluado
   score: null
@@ -441,7 +454,7 @@
     current_value: 36.1
     current_year: 2023.0
     direction: -1
-    limit: null
+    limit: 0
     progress_value: -0.01566888258538479
     score: -3.917220646346198
     sign: 1
@@ -581,7 +594,7 @@
     current_value: 15.4
     current_year: 2023.0
     direction: -1
-    limit: null
+    limit: 0
     progress_value: 0.016077595249985976
     score: 4.019398812496494
     sign: 1
@@ -948,8 +961,47 @@
   progress_status: retroceso
   score: null
 9-c-1:
-  progress_status: alcanzado
-  score: null
+  9-c-1 / 3,5G sare mugikorrez estalitako etxeen proportzioa:
+    base_value: 99.89
+    base_year: 2015.0
+    current_value: 99.99
+    current_year: 2020.0
+    direction: 1
+    limit: null
+    progress_value: 0.00020014011410074417
+    score: 0.05003502852518604
+    sign: 1
+    status: no_progress
+    target: null
+    target_year: 2030.0
+  9-c-1 / 4G sare mugikorrez estalitako etxeen proportzioa:
+    base_value: 79.64
+    base_year: 2015.0
+    current_value: 99.96
+    current_year: 2025.0
+    direction: 1
+    limit: null
+    progress_value: 0.022985550950902267
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  9-c-1 / 5G sare mugikorrez estalitako etxeen proportzioa:
+    base_value: 66.8
+    base_year: 2021.0
+    current_value: 99.62
+    current_year: 2025.0
+    direction: 1
+    limit: null
+    progress_value: 0.10507694582444693
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 3.3500116761750625
 OCECA-1-2-1-1A:
   progress_status: ''
   score: null
