@@ -53,7 +53,7 @@ handiagoa ere.
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu aztertutako serieetarako.,
 #1-4-1,complete,alcanzado,True,line,FUENTE.oceca,2025-06-17,,Etxebizitza nagusia da urte osoan edo urte gehienean pertsona batek edo gehiagok  ohiko bizileku gisa erabiltzen duten etxea.,"EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu aztertutako serieetarako. Beste serie batzuk plataforma honetako garapen jasangarriaren beste adierazle batzuetan aurkezten dira (3-8-1, 4-1-1, 7-1-2, 9-1-1, 9-c-1, 11-2-1, 11-6-1)",
 #1-4-2,notstarted,notstarted,,line,,,,,,
-#1-5-1,complete,alcanzado,True,line,FUENTE.oceca,2025-08-04,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
+#1-5-1,complete,significant_deterioration,True,line,FUENTE.oceca,2025-08-04,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
 #1-5-2,complete,noevaluado,,line,FUENTE.oceca,2025-11-07,,"Kalte-ordainak ezbeharra gertatu den lekuari eta urteari esleituko zaizkie, atzerrian  gertatutako ezbeharrak kontuan hartu gabe.","EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina  antzeko informazioa ematen du  ",
 #1-5-3,complete,alcanzado,,line,,,True,,,
 #1-5-4,complete,alcanzado,True,line,,2025-08-14,,"
@@ -657,4 +657,4 @@ Teknologia altua
 - 26: Produktu informatiko, elektroniko eta optikoen fabrikazioa 
 - 30.3: Eraikuntza aeronautikoa eta espaziala eta bere makineria 
 ",EAEko adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#9-c-1,complete,alcanzado,,line,FUENTE.oceca,2026-06-09,,,EAEko adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu. ,
+#9-c-1,complete,significant_progress,,line,FUENTE.oceca,2026-06-09,,,EAEko adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu. ,
