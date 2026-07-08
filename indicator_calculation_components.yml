@@ -1,19 +1,19 @@
 1-1-1:
   1-1-1:
-    base_value: 0.1
+    base_value: 0.1490340749
     base_year: 2016.0
-    current_value: 0.2
+    current_value: 0.17
     current_year: 2022.0
     direction: -1
     limit: null
-    progress_value: -0.8074930015902552
-    score: -5.0
+    progress_value: -0.1263840990940383
+    score: -3.0266046256951293
     sign: 1
     status: moderate_deterioration
     target: 0.01
     target_year: 2030.0
   progress_status: significant_deterioration
-  score: -5.0
+  score: -3.0266046256951293
 1-2-1:
   progress_status: progreso
   score: null
@@ -36,7 +36,7 @@
     current_value: 0.18
     current_year: 2024.0
     direction: -1
-    limit: 0
+    limit: 0.1
     progress_value: -0.08005973889230611
     score: -5.0
     sign: 1
