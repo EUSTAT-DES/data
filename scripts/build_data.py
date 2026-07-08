@@ -1,11 +1,42 @@
 import sdg.ProgressMeasure
-from sdg.ProgressMeasure import SeriesProgress, get_progress_status
+from sdg.ProgressMeasure import IndicatorProgress, SeriesProgress, get_progress_status
 from sdg.open_sdg import open_sdg_build
 
 
 class SeriesProgressEustat(SeriesProgress):
     def __init__(self, indicator, config={}, logging=None):
         print("[EUSTAT] >>> Motor de progreso personalizado de Eustat ACTIVO <<<")
+        # Detectar indicadores booleanos ANTES del cálculo CAGR
+        raw_data = indicator.data.copy()
+        unit_col = indicator.options.unit_column
+        is_boolean = (unit_col in raw_data.columns and
+                      (raw_data[unit_col] == 'BOOL_YES_NO').any())
+
+        if is_boolean:
+            # Cortocircuitar: no llamar al __init__ completo (evita CAGR)
+            IndicatorProgress.__init__(self, indicator, logging=logging)
+            self.series = config.get('series')
+            self.unit = 'BOOL_YES_NO'
+            self.tag = 'BOOL'
+            # Determinar status por último valor
+            bool_data = raw_data[raw_data[unit_col] == 'BOOL_YES_NO'].copy()
+            bool_data['Value'] = bool_data['Value'].astype(float)
+            bool_data = bool_data.sort_values('Year')
+            ultimo_valor = bool_data.iloc[-1]['Value']
+            if ultimo_valor == 1:
+                self.status = 'significant_progress'
+                self.score = 5
+                self.target_achieved = True
+            else:
+                self.status = 'significant_deterioration'
+                self.score = -5
+                self.target_achieved = False
+            self.progress_value = None
+            self.data = None
+            self.progress_thresholds = {}
+            self.warn(f'{self.inid} - Indicador booleano: ultimo valor={ultimo_valor} -> {self.status}')
+            return
+
         super().__init__(indicator, config=config, logging=logging)
 
     def get_progress_thresholds(self):
@@ -52,19 +83,19 @@ class SeriesProgressEustat(SeriesProgress):
     def get_score(self):
         """Scoring Eurostat: transforma progress_value a score [-5, +5].
 
-        Método 1 (sin target): Función LINEAL.
-          - Cut-off superior: CAGR = +2.0% * C -> score +5
-          - Umbral high (1.0% * C) -> score +2.5
-          - CAGR = 0% -> score 0
-          - Umbral low (-0.1%) -> score aprox -0.25 (lineal)
-          - Cut-off inferior: CAGR = -2.0% -> score -5
+        Método 1 (sin target): CAGR -> score.
+          - CAGR > 2%: score = 5
+          - CAGR entre -2% y 2%: score = 2.5 * CAGR (CAGR en tanto por uno, ej 0.02)
+          - CAGR < -2%: score = -5
+          Nota: 2.5 * 0.02 = 0.05... NO. CAGR se expresa como ratio (0.01 = 1%).
+          Fórmula real: score = 2.5 * (CAGR / 0.01) = 250 * CAGR
+          Equivalente: score = CAGR / 0.02 * 5
 
-        Método 2 (con target): Función NO LINEAL (dos tramos).
-          - Cut-off superior: Ratio = 130% -> score +5
-          - Umbral high (95%) -> score +2.5
-          - Umbral med (60%) -> score 0
-          - Umbral low (0%) -> score -2.5
-          - Cut-off inferior: Ratio = -60% -> score -5
+        Método 2 (con target): Ratio CAGR -> score (NO lineal, dos tramos).
+          - Ratio > 130%: score = 5
+          - Ratio entre 60% y 130%: score = 5/70 * (ratio - 60%)
+          - Ratio entre -60% y 60%: score = 5/120 * (ratio + 60%) - 5
+          - Ratio <= -60%: score = -5
         """
         if self.target_achieved:
             return 5
@@ -74,38 +105,24 @@ class SeriesProgressEustat(SeriesProgress):
         v = self.progress_value
 
         if self.method == 1:
-            # Función lineal: score = v / cutoff * 5
-            # cutoff = 0.02 (2%) sin factor C
-            # Con factor C, el cutoff positivo se reduce: cutoff_pos = 0.02 * C
-            # El cutoff negativo NO se reduce: cutoff_neg = -0.02
-            coeff = self.progress_thresholds.get('coefficient', 1)
-            cutoff_pos = 0.02 * coeff  # +2% * C -> score +5
-            cutoff_neg = -0.02          # -2% -> score -5
-
-            if v >= 0:
-                if cutoff_pos == 0:
-                    # Caso especial: base_value == limit, cualquier v >= 0 es +5
-                    return 5
-                score = (v / cutoff_pos) * 5
+            # v es CAGR en tanto por uno (ej: 0.015 = 1.5%)
+            if v > 0.02:
+                return 5
+            elif v < -0.02:
+                return -5
             else:
-                score = (v / abs(cutoff_neg)) * 5
-
-            return max(-5, min(5, score))
+                return v * 2.5
 
         else:  # method == 2
-            # Dos tramos (no lineal, armonizado con método 1):
-            # Tramo superior: de med(0.6) a cutoff_high(1.3) -> score 0 a +5
-            #   pendiente = 5 / (1.3 - 0.6) = 7.1429
-            #   score = 7.1429 * v - 4.2857
-            # Tramo inferior: de cutoff_low(-0.6) a med(0.6) -> score -5 a 0
-            #   pendiente = 5 / (0.6 - (-0.6)) = 4.1667
-            #   score = 4.1667 * v - 2.5
-            if v >= 0.6:
-                score = 7.1429 * v - 4.2857
+            
+            if v > 1.3:
+                return 5
+            elif v >= 0.6:
+                return (5 / 70) * (v  - 0.6)
+            elif v > -0.6:
+                return (5 / 120) * (v  + 0.6) - 5
             else:
-                score = 4.1667 * v - 2.5
-
-            return max(-5, min(5, score))
+                return -5
 
 
 # Función personalizada: status desde progress_value (nivel serie)
