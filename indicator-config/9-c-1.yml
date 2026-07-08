@@ -28,7 +28,12 @@ permalink: ''
 precision: []
 auto_progress_calculation: true
 progress_calculation_options:
-  - direction: positive
+  - series: IT_MOB_3GNTWK
+    direction: positive
+  - series: IT_MOB_4GNTWK
+    direction: positive
+  - series: IT_MOB_5GNTWK
+    direction: positive
 reporting_status: complete
 sort: ''
 sources:
