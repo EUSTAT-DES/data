@@ -135,7 +135,7 @@ bat etorriz, jarraibide hau gomendagarria da. 2024an, 5.000 eta 20.000 biztanle 
 eta 1.000 eta 5.000 biztanle arteko udalerrien % 25ek Udal Larrialdi Plan homologatua dute.
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #11-c-1,notstarted,notstarted,,line,,,,,,
-#12-1-1,complete,alcanzado,,bar,FUENTE.oceca,2026-01-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#12-1-1,complete,not_available,,bar,FUENTE.oceca,2026-01-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #12-2-1,notstarted,notstarted,,line,,,,,,
 #12-2-2,complete,alcanzado,,line,,2025-10-27,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #12-3-1,complete,noevaluado,,bar,,2025-11-24,,"
@@ -274,7 +274,7 @@ Barne-transferentziak ere finkatzen dira, bikoiztasunak saihesteko.
 #17-16-1,notstarted,notstarted,,line,,,,,,
 #17-17-1,notstarted,notstarted,,line,,,,,,
 #17-18-1,notstarted,notstarted,,line,,,,,,
-#17-18-2,complete,alcanzado,,bar,FUENTE.oceca,2026-01-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#17-18-2,complete,no_progress,,bar,FUENTE.oceca,2026-01-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #17-18-3,complete,alcanzado,,bar,FUENTE.oceca,2026-01-20,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #17-19-1,notstarted,notstarted,,line,,,,,,
 #17-19-2,complete,alcanzado,,bar,FUENTE.oceca,2026-01-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
@@ -306,7 +306,7 @@ Elikagaien segurtasunik eza honela puntuatzen da:
  - Arazo oso larria: 5 arazo edo gehiago baditu
 ","EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du. Elikagaien segurtasunik eza modu desberdinean puntuatzen da.",
 #2-2-1,complete,alcanzado,,line,,,True,,,
-#2-2-2,complete,significant_deterioration,,bar,FUENTE.oceca,2025-05-08,,,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen,  ez baitu gehiegizko pisua kalkulatzeko modu bera erabiltzen, ezta adin-talde bera ere.",
+#2-2-2,complete,moderate_deterioration,,bar,FUENTE.oceca,2025-05-08,,,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen,  ez baitu gehiegizko pisua kalkulatzeko modu bera erabiltzen, ezta adin-talde bera ere.",
 #2-2-3,notstarted,notstarted,,line,,,,,,
 #2-2-4,notstarted,notstarted,,line,,,,,,
 #2-2-E1,complete,retroceso,,bar,,2025-05-08,,"2013, 2018 eta 2023ko datuak Eusko Jaurlaritzako Osasun Sailaren Osasun inkestakoak dira; 2011 eta 2017koak INEren Espainiako Osasun Inkesta Nazionalekoak; eta 2014 eta 2019koak INEren Europako Osasun inkestakoak.
@@ -368,7 +368,7 @@ Anbulatorioa: pertsonak ez du gaua zentroan igarotzen. Irizpide hori ez zaie apl
 Legez kanpoko drogak: alkohola eta nikotina (tabakoa) ez dira legez kanpoko drogatzat hartzen.  
 ","EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio  osagarria ematen du.",
 #3-5-2,complete,retroceso,,line,FUENTE.oceca,2025-05-08,,,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina  antzeko informazioa ematen du.",
-#3-6-1,complete,moderate_deterioration,,line,FUENTE.oceca,2025-07-17,,"
+#3-6-1,complete,significant_deterioration,,line,FUENTE.oceca,2025-07-17,,"
 2016tik aurrera, hauek gehitu dira: motorrik gabeko ibilgailuen trafiko-istripuak, trafikoaren ondoriozkotzat 
 jotzen ez diren garraio-istripuak eta istripuaren unean ibilgailutik igotzen edo jaisten ari ziren trafiko-istripuen 
 biktimak
@@ -381,7 +381,7 @@ Ase gabeko behar autoinformatuak esan nahi du pertsonak berak ebaluatzen duela a
 #3-9-1,notstarted,notstarted,,line,,,,,,
 #3-9-2,complete,alcanzado,,line,,,True,,,
 #3-9-3,complete,alcanzado,,line,FUENTE.oceca,2025-07-17,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#3-a-1,complete,significant_progress,,bar,FUENTE.oceca,2025-08-14,,,"EAEn eskuragarri dagoen adierazleak ez ditu zorrotz betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa eskaintzen du.",
+#3-a-1,complete,moderate_progress,,bar,FUENTE.oceca,2025-08-14,,,"EAEn eskuragarri dagoen adierazleak ez ditu zorrotz betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa eskaintzen du.",
 #3-b-1,complete,retroceso,,line,FUENTE.oceca,2025-08-04,,"
 Emandako emaitzak lortzeko, Txertaketen Programaren eta Erregistroaren Ponentziak proposatutako 
 eta Osasun Publikoaren Batzordeak 2017ko urrian adostutako definizioak erabiltzen dira. Ordutik, 
@@ -502,7 +502,7 @@ eta Beijingo Ekintza Plataforman ezarritako lau arlotan zatitzen da:
 #5-3-1,complete,alcanzado,,line,,2025-10-24,,,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa ematen du. Definizio ofizialaren arabera, adierazleak erreferentziako biztanleria gisa 20 eta 24 urte bitarteko emakumeak  hartzen ditu neurketa unean. Hala ere, Euskadiko AEan kalkulatzeko, urte erreferenteko 16 eta 17 urteko emakumeen  biztanleria hartzen da izendatzaile gisa.",
 #5-3-2,notstarted,notstarted,,line,,,,,,
 #5-4-1,complete,progreso,,line,,2025-04-22,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#5-5-1,complete,significant_progress,,line,,2025-09-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#5-5-1,complete,moderate_progress,,line,,2025-09-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #5-5-2,complete,retroceso,,line,,2025-06-12,,"Zuzendaritza-kargutzat hartzen dira LSN-2011ko 1. taldeko okupazio guztiak; goi-zuzendaritzatzat, 
 berriz, LSN-2011ko 11., 12. eta 13. azpitaldeetako okupazioak hartzen dira.
 
