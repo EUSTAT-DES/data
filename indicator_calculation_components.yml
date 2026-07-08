@@ -435,8 +435,21 @@
   progress_status: alcanzado
   score: null
 2-2-2:
-  progress_status: retroceso
-  score: null
+  2-2-2:
+    base_value: 33.4
+    base_year: 2018.0
+    current_value: 36.1
+    current_year: 2023.0
+    direction: -1
+    limit: null
+    progress_value: -0.01566888258538479
+    score: -3.917220646346198
+    sign: 1
+    status: significant_deterioration
+    target: null
+    target_year: 2030.0
+  progress_status: significant_deterioration
+  score: -3.917220646346198
 2-2-3:
   progress_status: notstarted
   score: null
@@ -562,8 +575,21 @@
   progress_status: alcanzado
   score: null
 3-a-1:
-  progress_status: alcanzado
-  score: null
+  3-a-1:
+    base_value: 16.7
+    base_year: 2018.0
+    current_value: 15.4
+    current_year: 2023.0
+    direction: -1
+    limit: null
+    progress_value: 0.016077595249985976
+    score: 4.019398812496494
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 4.019398812496494
 3-b-1:
   progress_status: retroceso
   score: null
@@ -607,7 +633,20 @@
   progress_status: progreso
   score: null
 4-6-1:
-  progress_status: progreso
+  4-6-1:
+    base_value: null
+    base_year: 2015.0
+    current_value: null
+    current_year: null
+    direction: 1
+    limit: 100
+    progress_value: null
+    score: null
+    sign: null
+    status: not_available
+    target: null
+    target_year: 2030.0
+  progress_status: not_available
   score: null
 4-7-1:
   progress_status: notstarted
