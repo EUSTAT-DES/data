@@ -111,16 +111,19 @@ class SeriesProgressEustat(SeriesProgress):
             elif v < -0.02:
                 return -5
             else:
-                return v * 2.5
+                # 2.5 * CAGR_en_porcentaje = 2.5 * (v*100) = 250*v = v/0.02*5
+                return v / 0.02 * 5
 
         else:  # method == 2
             
             if v > 1.3:
                 return 5
             elif v >= 0.6:
-                return (5 / 70) * (v  - 0.6)
+                # 5/70*(ratio%-60) = (5/0.7)*(v-0.6)
+                return (5.0 / 0.7) * (v - 0.6)
             elif v > -0.6:
-                return (5 / 120) * (v  + 0.6) - 5
+                # 5/120*(ratio%+60)-5 = (5/1.2)*(v+0.6)-5
+                return (5.0 / 1.2) * (v + 0.6) - 5
             else:
                 return -5
 
