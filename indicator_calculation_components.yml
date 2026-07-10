@@ -18,8 +18,21 @@
   progress_status: progreso
   score: null
 1-2-2:
-  progress_status: progreso
-  score: null
+  1-2-2:
+    base_value: 20.6
+    base_year: 2016.0
+    current_value: 20.6
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: -0.0
+    score: -0.0
+    sign: 1
+    status: no_progress
+    target: null
+    target_year: 2030.0
+  progress_status: no_progress
+  score: 0.0
 1-3-1:
   progress_status: progreso
   score: null
