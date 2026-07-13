@@ -5,15 +5,15 @@
     current_value: 0.17
     current_year: 2022.0
     direction: -1
-    limit: null
-    progress_value: -0.1263840990940383
-    score: -3.0266004128918262
+    limit: 0
+    progress_value: -0.7893659694952404
+    score: -5.0
     sign: 1
     status: moderate_deterioration
-    target: 0.01
+    target: 0.1
     target_year: 2030.0
   progress_status: significant_deterioration
-  score: -3.0266004128918262
+  score: -5.0
 1-2-1:
   progress_status: progreso
   score: null
