@@ -752,7 +752,7 @@
     direction: 1
     limit: 50
     progress_value: -0.006804627037080846
-    score: -1.7011567592702115
+    score: 5.0
     sign: 1
     status: significant_deterioration
     target: null
@@ -765,7 +765,7 @@
     direction: 1
     limit: 50
     progress_value: 0.007831733851999978
-    score: 1.9579334629999945
+    score: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -804,13 +804,13 @@
     direction: 1
     limit: 50
     progress_value: 0.012335696945859898
-    score: 3.0839242364649744
+    score: 5.0
     sign: 1
     status: significant_progress
     target: null
     target_year: 2030.0
-  progress_status: moderate_progress
-  score: 1.8912700778904616
+  progress_status: significant_progress
+  score: 3.8344865878580023
 5-5-2:
   progress_status: retroceso
   score: null
@@ -1008,7 +1008,7 @@
     direction: 1
     limit: 100
     progress_value: 0.00020014011410074417
-    score: 0.05003502852518604
+    score: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1040,7 +1040,7 @@
     target: null
     target_year: 2030.0
   progress_status: significant_progress
-  score: 3.3500116761750625
+  score: 5.0
 OCECA-1-2-1-1A:
   progress_status: ''
   score: null
