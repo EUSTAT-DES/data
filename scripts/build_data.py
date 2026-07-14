@@ -4,6 +4,21 @@ from sdg.open_sdg import open_sdg_build
 
 
 class SeriesProgressEustat(SeriesProgress):
+    @staticmethod
+    def find_nearest_year(base_year, available_years):
+        """Búsqueda alternante (espiral) del año más cercano al base_year.
+        Orden: base_year, base+1, base-1, base+2, base-2, ...
+        Devuelve el primer año que exista en available_years, o None.
+        """
+        if base_year in available_years:
+            return base_year
+        max_delta = int(max(abs(available_years.max() - base_year), abs(base_year - available_years.min()))) + 1
+        for delta in range(1, max_delta + 1):
+            for candidate in [base_year + delta, base_year - delta]:
+                if candidate in available_years:
+                    return candidate
+        return None
+
     def __init__(self, indicator, config={}, logging=None):
         print("[EUSTAT] >>> Motor de progreso personalizado de Eustat ACTIVO <<<")
         # Detectar indicadores booleanos ANTES del cálculo CAGR
@@ -38,6 +53,22 @@ class SeriesProgressEustat(SeriesProgress):
             return
 
         super().__init__(indicator, config=config, logging=logging)
+
+        # Post-procesado: recalcular base_year con búsqueda alternante
+        if self.data is not None:
+            years = self.data['Year'].values
+            original_base = config.get('base_year', 2015)
+            nearest = self.find_nearest_year(original_base, years)
+            if nearest is not None and nearest != self.base_year:
+                self.base_year = nearest
+                self.base_value = self.data.Value[self.data.Year == self.base_year].item()
+                self.sign = -1 if self.base_value < 0 else 1
+                # Recalcular todo con el nuevo base_year
+                self.progress_thresholds = self.get_progress_thresholds()
+                self.target_achieved = self.is_target_achieved()
+                self.progress_value = self.calculate_progress_value()
+                self.status = get_progress_status_eustat(self.progress_value, self.progress_thresholds, self.target_achieved)
+                self.score = self.get_score()
 
     def get_progress_thresholds(self):
         """Umbrales Eurostat.
