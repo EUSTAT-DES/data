@@ -106,10 +106,24 @@ class SeriesProgressEustat(SeriesProgress):
 
         if self.method == 1:
             # v es CAGR en tanto por uno (ej: 0.015 = 1.5%)
-            if v > 0.02:
-                return 5
-            elif v < -0.02:
+            #
+            # Factor C (coeff): mide cuánto margen de mejora queda antes del límite natural.
+            #   C = 1 - (base_value/limit)^4.44
+            #   - Lejos del límite: C ≈ 1 (sin efecto)
+            #   - Cerca del límite: C ≈ 0 (amplifica el score)
+            # Se aplica solo al progreso positivo: un indicador cerca de su límite
+            # (ej. tasa empleo 95% con limit 100) necesita menos CAGR para score alto.
+            # Progreso negativo no se amplifica como en Canada (alejarse del límite no se "perdona").
+            coeff = self.progress_thresholds.get('coefficient', 1)
+            if v < -0.02:
                 return -5
+            if coeff == 0:
+                # base_value == limit, mantener el límite ya es progreso significativo
+                return 5
+            if v > 0.02 * coeff:
+                return 5
+            elif v >= 0:
+                return v / (0.02 * coeff) * 5
             else:
                 # 2.5 * CAGR_en_porcentaje = 2.5 * (v*100) = 250*v = v/0.02*5
                 return v / 0.02 * 5
