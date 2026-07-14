@@ -21,35 +21,31 @@ class SeriesProgressEustat(SeriesProgress):
 
     def __init__(self, indicator, config={}, logging=None):
         print("[EUSTAT] >>> Motor de progreso personalizado de Eustat ACTIVO <<<")
-        # Detectar indicadores booleanos ANTES del cálculo CAGR
-        raw_data = indicator.data.copy()
-        unit_col = indicator.options.unit_column
-        # Detección robusta: comprobar columna Units y también buscar 'BOOL_YES_NO' en cualquier columna string
+        # Detectar indicadores booleanos.
+        # El framework reemplaza BOOL_YES_NO por NaN en indicator.data,
+        # así que detectamos por meta o por patrón de datos (solo valores -1 y 1).
         is_boolean = False
-        if unit_col in raw_data.columns:
-            is_boolean = raw_data[unit_col].astype(str).str.strip().eq('BOOL_YES_NO').any()
+        # Método 1: marcador explícito en meta
+        if hasattr(indicator, 'meta') and indicator.meta:
+            is_boolean = indicator.meta.get('computation_units') == 'BOOL_YES_NO'
+        # Método 2: datos solo contienen -1 y 1 (patrón booleano)
         if not is_boolean:
-            # Fallback: buscar en todas las columnas por si unit_column no coincide
-            for col in raw_data.columns:
-                if raw_data[col].astype(str).str.strip().eq('BOOL_YES_NO').any():
-                    is_boolean = True
-                    unit_col = col
-                    break
-
-        if not is_boolean and 'BOOL' in str(raw_data.values):
-            print(f"[EUSTAT] WARN {indicator.inid} - Parece booleano pero no detectado. Columnas: {list(raw_data.columns)}, unit_col='{unit_col}', valores unit_col: {raw_data[unit_col].unique().tolist() if unit_col in raw_data.columns else 'NO EXISTE'}")
+            values = indicator.data['Value'].dropna().unique()
+            if len(values) > 0 and set(values).issubset({-1, 1, -1.0, 1.0}):
+                is_boolean = True
 
         if is_boolean:
-            print(f"[EUSTAT] {indicator.inid} detectado como BOOLEANO (columna: {unit_col})")
+            print(f"[EUSTAT] {indicator.inid} detectado como BOOLEANO")
             # Cortocircuitar: no llamar al __init__ completo (evita CAGR)
             IndicatorProgress.__init__(self, indicator, logging=logging)
             self.series = config.get('series')
             self.unit = 'BOOL_YES_NO'
             self.tag = 'BOOL'
-            # Determinar status por último valor
-            bool_data = raw_data[raw_data[unit_col] == 'BOOL_YES_NO'].copy()
+            # Determinar status por último valor usando indicator.data directamente
+            # (no filtrar por Units porque puede estar como NaN tras procesado)
+            bool_data = indicator.data[['Year', 'Value']].copy()
             bool_data['Value'] = bool_data['Value'].astype(float)
-            bool_data = bool_data.sort_values('Year')
+            bool_data = bool_data.dropna(subset=['Value']).sort_values('Year')
             ultimo_valor = bool_data.iloc[-1]['Value']
             if ultimo_valor == 1:
                 self.status = 'significant_progress'
