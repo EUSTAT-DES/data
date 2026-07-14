@@ -12,8 +12,8 @@
     status: significant_progress
     target: 0.2
     target_year: 2030.0
-  progress_status: no_progress
-  score: 0.0
+  progress_status: significant_progress
+  score: 5.0
 1-2-1:
   progress_status: progreso
   score: null
