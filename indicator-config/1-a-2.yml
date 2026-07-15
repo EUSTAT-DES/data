@@ -30,7 +30,10 @@ proxy: ''
 proxy_series: []
 publications: []
 related_indicators: []
-progress_status: alcanzado
+auto_progress_calculation: true
+progress_calculation_options:
+  - direction: positive
+    limit: 100
 reporting_status: complete
 sort: ''
 sources:

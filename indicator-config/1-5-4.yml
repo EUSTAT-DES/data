@@ -26,7 +26,14 @@ national_geographical_coverage: ''
 page_content: GRAFICO.1-5-4-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: SG_DSR_SILS
+    direction: positive
+    limit: 100
+  - series: EU_DSR_SILS_TH
+    direction: positive
+    limit: 100
 reporting_status: complete
 sort: ''
 sources:
