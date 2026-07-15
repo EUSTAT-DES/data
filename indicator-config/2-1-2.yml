@@ -26,7 +26,16 @@ national_geographical_coverage: ''
 page_content: GRAFICO.2-1-2-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: AG_PRD_FIESMS
+    direction: negative
+    limit: 0
+    target: 0.1
+  - series: AG_PRD_FIESS
+    direction: negative
+    limit: 0
+    target: 0.1
 reporting_status: complete
 sort: ''
 sources:

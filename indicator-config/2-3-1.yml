@@ -40,7 +40,13 @@ proxy: ''
 proxy_series: []
 publications: []
 related_indicators: []
-progress_status: progreso
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: PD_AGR_SSFP
+    direction: positive
+    target: 20300
+  - series: PD_AGR_LSFP
+    direction: positive
 reporting_status: complete
 sort: ''
 sources:

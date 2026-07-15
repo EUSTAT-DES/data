@@ -31,7 +31,11 @@ national_geographical_coverage: ''
 page_content: GRAFICO.3-2-2-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
+auto_progress_calculation: true
+progress_calculation_options:
+  - direction: negative
+    limit: 0
+    target: 12
 reporting_status: complete
 sort: ''
 sources:

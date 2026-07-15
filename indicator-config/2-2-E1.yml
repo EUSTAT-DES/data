@@ -23,7 +23,7 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: ''
+graph_title: GRAFICO.2-2-E1-titulo
 graph_titles: []
 graph_type: bar
 indicator_available: ''
@@ -44,7 +44,10 @@ proxy: ''
 proxy_series: []
 publications: []
 related_indicators: []
-progress_status: retroceso
+auto_progress_calculation: true
+progress_calculation_options:
+  - direction: negative
+    limit: 0
 reporting_status: complete
 sort: ''
 sources:
