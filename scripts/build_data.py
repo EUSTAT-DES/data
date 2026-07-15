@@ -21,18 +21,31 @@ class SeriesProgressEustat(SeriesProgress):
 
     def __init__(self, indicator, config={}, logging=None):
         print("[EUSTAT] >>> Motor de progreso personalizado de Eustat ACTIVO <<<")
+        # DEBUG temporal: inspeccionar indicadores booleanos
+        if indicator.inid in ('12-1-1', '17-18-2'):
+            print(f"[DEBUG] {indicator.inid} columns: {list(indicator.data.columns)}")
+            print(f"[DEBUG] {indicator.inid} data:\n{indicator.data.head(5).to_string()}")
+            print(f"[DEBUG] {indicator.inid} meta keys: {list(indicator.meta.keys()) if indicator.meta else 'None'}")
+            unit_col = indicator.options.unit_column
+            if unit_col in indicator.data.columns:
+                print(f"[DEBUG] {indicator.inid} unit_col='{unit_col}' unique values: {indicator.data[unit_col].unique().tolist()}")
+            else:
+                print(f"[DEBUG] {indicator.inid} unit_col='{unit_col}' NOT IN COLUMNS")
+            print(f"[DEBUG] {indicator.inid} Value unique: {indicator.data['Value'].dropna().unique().tolist()}")
         # Detectar indicadores booleanos.
         # El framework reemplaza BOOL_YES_NO por NaN en indicator.data,
-        # así que detectamos por meta o por patrón de datos (solo valores -1 y 1).
+        # así que detectamos por marcador en meta o por patrón de datos.
         is_boolean = False
-        # Método 1: marcador explícito en meta
+        # Método 1: marcador explícito en indicator-config/meta
         if hasattr(indicator, 'meta') and indicator.meta:
-            is_boolean = indicator.meta.get('computation_units') == 'BOOL_YES_NO'
-        # Método 2: datos solo contienen -1 y 1 (patrón booleano)
+            is_boolean = indicator.meta.get('progress_boolean') is True
+            print(f"[DEBUG] {indicator.inid} 1 progress_boolean: {is_boolean}")
+        # Método 2: datos solo contienen -1 y/o 1 (patrón booleano)
         if not is_boolean:
-            values = indicator.data['Value'].dropna().unique()
-            if len(values) > 0 and set(values).issubset({-1, 1, -1.0, 1.0}):
+            values = set(indicator.data['Value'].dropna().unique())
+            if len(values) > 0 and values.issubset({-1, 1, -1.0, 1.0}):
                 is_boolean = True
+                print(f"[DEBUG] {indicator.inid} 2 progress_boolean: {is_boolean}")
 
         if is_boolean:
             print(f"[EUSTAT] {indicator.inid} detectado como BOOLEANO")
@@ -40,9 +53,19 @@ class SeriesProgressEustat(SeriesProgress):
             IndicatorProgress.__init__(self, indicator, logging=logging)
             self.series = config.get('series')
             self.unit = 'BOOL_YES_NO'
-            self.tag = 'BOOL'
+            self.disaggregation = config.get('disaggregation')
+            self.tag = self.inid
+            # Atributos requeridos por get_progress_calculation_components()
+            self.base_value = None
+            self.base_year = None
+            self.current_value = None
+            self.current_year = None
+            self.target = None
+            self.target_year = config.get('target_year', 2030)
+            self.direction = 1
+            self.sign = 1
+            self.limit = None
             # Determinar status por último valor usando indicator.data directamente
-            # (no filtrar por Units porque puede estar como NaN tras procesado)
             bool_data = indicator.data[['Year', 'Value']].copy()
             bool_data['Value'] = bool_data['Value'].astype(float)
             bool_data = bool_data.dropna(subset=['Value']).sort_values('Year')
