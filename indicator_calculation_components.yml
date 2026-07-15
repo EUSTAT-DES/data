@@ -882,8 +882,21 @@
   progress_status: alcanzado
   score: null
 7-1-2:
-  progress_status: alcanzado
-  score: null
+  7-1-2:
+    base_value: 100.0
+    base_year: 2015.0
+    current_value: 100.0
+    current_year: 2024.0
+    direction: 1
+    limit: 100
+    progress_value: null
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: 100.0
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
 7-2-1:
   7-2-1:
     base_value: 14.5
