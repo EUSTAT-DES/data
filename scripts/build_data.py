@@ -20,35 +20,16 @@ class SeriesProgressEustat(SeriesProgress):
         return None
 
     def __init__(self, indicator, config={}, logging=None):
-        print("[EUSTAT] >>> Motor de progreso personalizado de Eustat ACTIVO <<<")
-        # DEBUG temporal: inspeccionar indicadores booleanos
-        if indicator.inid in ('12-1-1', '17-18-2'):
-            print(f"[DEBUG] {indicator.inid} columns: {list(indicator.data.columns)}")
-            print(f"[DEBUG] {indicator.inid} data:\n{indicator.data.head(5).to_string()}")
-            print(f"[DEBUG] {indicator.inid} meta keys: {list(indicator.meta.keys()) if indicator.meta else 'None'}")
-            unit_col = indicator.options.unit_column
-            if unit_col in indicator.data.columns:
-                print(f"[DEBUG] {indicator.inid} unit_col='{unit_col}' unique values: {indicator.data[unit_col].unique().tolist()}")
-            else:
-                print(f"[DEBUG] {indicator.inid} unit_col='{unit_col}' NOT IN COLUMNS")
-            print(f"[DEBUG] {indicator.inid} Value unique: {indicator.data['Value'].dropna().unique().tolist()}")
         # Detectar indicadores booleanos.
-        # El framework reemplaza BOOL_YES_NO por NaN en indicator.data,
-        # así que detectamos por marcador en meta o por patrón de datos.
+        # El build traduce la columna Units al euskera antes de llegar aquí,
+        # por lo que 'BOOL_YES_NO' del CSV se convierte en 'Logikoa (1 = Bai, -1 = Ez)'.
+        # Detectamos por ese texto traducido en la columna Units.
         is_boolean = False
-        # Método 1: marcador explícito en indicator-config/meta
-        if hasattr(indicator, 'meta') and indicator.meta:
-            is_boolean = indicator.meta.get('progress_boolean') is True
-            print(f"[DEBUG] {indicator.inid} 1 progress_boolean: {is_boolean}")
-        # Método 2: datos solo contienen -1 y/o 1 (patrón booleano)
-        if not is_boolean:
-            values = set(indicator.data['Value'].dropna().unique())
-            if len(values) > 0 and values.issubset({-1, 1, -1.0, 1.0}):
-                is_boolean = True
-                print(f"[DEBUG] {indicator.inid} 2 progress_boolean: {is_boolean}")
+        unit_col = indicator.options.unit_column
+        if unit_col in indicator.data.columns:
+            is_boolean = indicator.data[unit_col].astype(str).str.contains('Logikoa', case=False).any()
 
         if is_boolean:
-            print(f"[EUSTAT] {indicator.inid} detectado como BOOLEANO")
             # Cortocircuitar: no llamar al __init__ completo (evita CAGR)
             IndicatorProgress.__init__(self, indicator, logging=logging)
             self.series = config.get('series')
