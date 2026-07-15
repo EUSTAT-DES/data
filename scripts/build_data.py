@@ -20,14 +20,8 @@ class SeriesProgressEustat(SeriesProgress):
         return None
 
     def __init__(self, indicator, config={}, logging=None):
-        # Detectar indicadores booleanos.
-        # El build traduce la columna Units al euskera antes de llegar aquí,
-        # por lo que 'BOOL_YES_NO' del CSV se convierte en 'Logikoa (1 = Bai, -1 = Ez)'.
-        # Detectamos por ese texto traducido en la columna Units.
-        is_boolean = False
-        unit_col = indicator.options.unit_column
-        if unit_col in indicator.data.columns:
-            is_boolean = indicator.data[unit_col].astype(str).str.contains('Logikoa', case=False).any()
+        # Detectar indicadores booleanos via progress_boolean: true en indicator-config
+        is_boolean = config.get('progress_boolean', False)
 
         if is_boolean:
             # Cortocircuitar: no llamar al __init__ completo (evita CAGR)
@@ -222,16 +216,16 @@ def get_progress_status_eustat(value, thresholds, target_achieved=False):
 
 # Función personalizada: status desde score agregado (nivel indicador)
 def get_progress_status_from_score_eustat(score, target_achieved=False):
-    """Eurostat: mapeo score [-5,+5] a 5 estados."""
+    """Eurostat: mapeo score [-5,+5] a 5 estados con banda neutral ±1.25."""
     if target_achieved:
         return "significant_progress"
     if score is None:
         return "not_available"
-    elif score >= 2.5:
+    elif score > 2.5:
         return "significant_progress"
-    elif score > 0:
+    elif score > 1.25:
         return "moderate_progress"
-    elif score == 0:
+    elif score >= -1.25:
         return "no_progress"
     elif score >= -2.5:
         return "moderate_deterioration"
