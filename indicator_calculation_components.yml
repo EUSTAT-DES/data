@@ -500,7 +500,7 @@
     status: moderate_deterioration
     target: null
     target_year: 2030.0
-  progress_status: moderate_deterioration
+  progress_status: no_progress
   score: -0.34892395654895214
 2-2-3:
   progress_status: notstarted
@@ -616,7 +616,7 @@
     status: moderate_deterioration
     target: 1.75
     target_year: 2030.0
-  progress_status: moderate_deterioration
+  progress_status: no_progress
   score: -0.2404637397196847
 3-7-1:
   progress_status: noevaluado
