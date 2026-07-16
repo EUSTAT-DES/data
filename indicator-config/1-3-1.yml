@@ -30,10 +30,8 @@ auto_progress_calculation: true
 progress_calculation_options:
   - series: SI_COV_UEMP
     direction: positive
-    limit: 100
   - series: SI_COV_PENSN
     direction: positive
-    limit: 100
 reporting_status: complete
 sort: ''
 sources:

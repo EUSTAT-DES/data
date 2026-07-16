@@ -30,11 +30,9 @@ auto_progress_calculation: true
 progress_calculation_options:
   - series: AG_PRD_FIESMS
     direction: negative
-    limit: 0
     target: 0.1
   - series: AG_PRD_FIESS
     direction: negative
-    limit: 0
     target: 0.1
 reporting_status: complete
 sort: ''

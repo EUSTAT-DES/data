@@ -29,8 +29,7 @@ precision: []
 auto_progress_calculation: true
 progress_calculation_options:
   - direction: positive
-    limit: 100
-    target: 100
+    target: 99.9
 reporting_status: complete
 sort: ''
 sources:
