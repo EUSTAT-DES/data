@@ -30,7 +30,6 @@ auto_progress_calculation: true
 progress_calculation_options:
   - series: SG_DSR_SILS
     direction: positive
-    limit: 100
   - series: EU_DSR_SILS_TH
     direction: positive
     limit: 100
