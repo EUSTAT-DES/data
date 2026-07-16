@@ -216,16 +216,16 @@ def get_progress_status_eustat(value, thresholds, target_achieved=False):
 
 # Función personalizada: status desde score agregado (nivel indicador)
 def get_progress_status_from_score_eustat(score, target_achieved=False):
-    """Eurostat: mapeo score [-5,+5] a 5 estados con banda neutral ±1.25."""
+    """Eurostat: mapeo score [-5,+5] a 5 estados con banda neutral ±0.25."""
     if target_achieved:
         return "significant_progress"
     if score is None:
         return "not_available"
     elif score > 2.5:
         return "significant_progress"
-    elif score > 1.25:
+    elif score > 0.25:
         return "moderate_progress"
-    elif score >= -1.25:
+    elif score >= -0.25:
         return "no_progress"
     elif score >= -2.5:
         return "moderate_deterioration"
