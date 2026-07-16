@@ -32,7 +32,6 @@ progress_calculation_options:
     direction: positive
   - series: EU_DSR_SILS_TH
     direction: positive
-    limit: 100
 reporting_status: complete
 sort: ''
 sources:

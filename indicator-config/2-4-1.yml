@@ -44,7 +44,6 @@ auto_progress_calculation: true
 progress_calculation_options:
   - series: AG_LND_FOVH
     direction: positive
-    limit: 100
   - series: AG_LND_NFI
     direction: positive
     limit: 100
