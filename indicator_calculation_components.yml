@@ -136,9 +136,9 @@
     current_value: 35.32
     current_year: 2024.0
     direction: 1
-    limit: 100
+    limit: null
     progress_value: 0.003815327994563189
-    score: 0.9619656335967132
+    score: 0.9538319986407973
     sign: 1
     status: moderate_progress
     target: null
@@ -157,7 +157,7 @@
     target: null
     target_year: 2030.0
   progress_status: significant_progress
-  score: 2.9809828167983565
+  score: 2.976915999320399
 1-a-1:
   progress_status: notapplicable
   score: null
@@ -168,15 +168,15 @@
     current_value: 70.3
     current_year: 2023.0
     direction: 1
-    limit: 100
+    limit: null
     progress_value: 0.0007135231337143111
-    score: 0.22407643134944918
+    score: 0.17838078342857777
     sign: 1
     status: no_progress
     target: null
     target_year: 2030.0
   progress_status: no_progress
-  score: 0.22407643134944918
+  score: 0.17838078342857777
 1-b-1:
   progress_status: notstarted
   score: null
