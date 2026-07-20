@@ -1,6 +1,116 @@
+import os
+import math
+import pandas as pd
+import yaml
 import sdg.ProgressMeasure
 from sdg.ProgressMeasure import IndicatorProgress, SeriesProgress, get_progress_status
 from sdg.open_sdg import open_sdg_build
+
+
+def apply_goldilocks_transforms(data_dir='data', config_dir='indicator-config'):
+    """Lee cada indicator-config, detecta goldilocks_transform en progress_calculation_options
+    y escribe la columna Progress en el CSV correspondiente.
+    No modifica filas que no participan en el cálculo.
+    """
+    for config_file in os.listdir(config_dir):
+        if not config_file.endswith('.yml'):
+            continue
+        inid = config_file[:-4]  # ej. '5-4-1'
+        csv_path = os.path.join(data_dir, f'indicator_{inid}.csv')
+        if not os.path.exists(csv_path):
+            continue
+
+        with open(os.path.join(config_dir, config_file), encoding='utf-8') as f:
+            config = yaml.safe_load(f)
+        if not config:
+            continue
+
+        options = config.get('progress_calculation_options', [])
+        goldilocks_options = [o for o in options if isinstance(o, dict) and 'goldilocks_transform' in o]
+        if not goldilocks_options:
+            continue
+
+        df = pd.read_csv(csv_path, dtype=str)
+        if 'Progress' not in df.columns:
+            df['Progress'] = ''
+
+        for opt in goldilocks_options:
+            formula = opt['goldilocks_transform']
+            groups = opt.get('goldilocks_groups')
+
+            if groups:
+                _apply_goldilocks_multigroup(df, formula, groups, inid)
+            else:
+                _apply_goldilocks_simple(df, formula, inid)
+
+        df.to_csv(csv_path, index=False)
+        print(f'[EUSTAT] Goldilocks aplicado: {inid}')
+
+
+def _apply_goldilocks_simple(df, formula, inid):
+    """Transforma fila a fila: Progress = eval(formula) con Value como variable."""
+    def transform(row):
+        try:
+            Value = float(row['Value'])  # noqa: N806 — nombre de variable intencional
+            return eval(formula, {'__builtins__': {}}, {'Value': Value, 'abs': abs, 'max': max, 'min': min, 'math': math})
+        except Exception as e:
+            print(f'[EUSTAT] Goldilocks error en {inid} fila {row.name}: {e}')
+            return ''
+
+    mask = df['Value'].notna() & (df['Value'] != '')
+    df.loc[mask, 'Progress'] = df[mask].apply(transform, axis=1)
+
+
+def _apply_goldilocks_multigroup(df, formula, groups, inid):
+    """Para cada año, calcula el valor combinando filas de distintos grupos
+    y lo escribe en la fila que NO tiene ninguno de esos valores de grupo (fila total).
+    """
+    # Identificar las columnas y valores que definen cada variable
+    # groups = {'fem': {'column': 'Sexo', 'value': 'F'}, 'masc': {'column': 'Sexo', 'value': 'M'}}
+    group_columns = {var: (g['column'], str(g['value'])) for var, g in groups.items()}
+    all_filter_cols = set(col for col, _ in group_columns.values())
+
+    years = df['Year'].unique()
+    for year in years:
+        df_year = df[df['Year'] == year]
+        context = {}
+        ok = True
+        for var, (col, val) in group_columns.items():
+            if col not in df.columns:
+                print(f'[EUSTAT] Goldilocks {inid}: columna {col} no encontrada')
+                ok = False
+                break
+            rows = df_year[df_year[col] == val]
+            # Fila total: las demás columnas de filtro deben estar vacías
+            other_cols = all_filter_cols - {col}
+            for other_col in other_cols:
+                rows = rows[rows[other_col].isna() | (rows[other_col] == '')]
+            if rows.empty or rows['Value'].isna().all() or (rows['Value'] == '').all():
+                ok = False
+                break
+            try:
+                context[var] = float(rows['Value'].iloc[0])
+            except Exception:
+                ok = False
+                break
+
+        if not ok:
+            continue
+
+        try:
+            result = eval(formula, {'__builtins__': {}}, {**context, 'abs': abs, 'max': max, 'min': min, 'math': math})
+        except Exception as e:
+            print(f'[EUSTAT] Goldilocks error en {inid} año {year}: {e}')
+            continue
+
+        # Escribir en la fila total: todas las columnas de grupo vacías
+        total_mask = df['Year'] == year
+        for col in all_filter_cols:
+            total_mask &= (df[col].isna() | (df[col] == ''))
+        if total_mask.any():
+            df.loc[total_mask, 'Progress'] = result
+        else:
+            print(f'[EUSTAT] Goldilocks {inid} año {year}: no se encontró fila total para escribir Progress')
 
 
 class SeriesProgressEustat(SeriesProgress):
@@ -238,6 +348,9 @@ def get_progress_status_from_score_eustat(score, target_achieved=False):
 sdg.ProgressMeasure.SeriesProgress = SeriesProgressEustat
 sdg.ProgressMeasure.get_progress_status = get_progress_status_eustat
 sdg.ProgressMeasure.get_progress_status_from_score = get_progress_status_from_score_eustat
+
+# Goldilocks: precalcular columna Progress en CSVs antes del build
+apply_goldilocks_transforms(data_dir='data', config_dir='indicator-config')
 
 open_sdg_build(config='config_data.yml')
 
