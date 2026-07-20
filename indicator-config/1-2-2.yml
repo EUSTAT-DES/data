@@ -51,7 +51,7 @@ related_indicators: []
 auto_progress_calculation: true
 progress_calculation_options:
   - direction: negative
-    target: 10.5
+    target: 20.5
 reporting_status: complete
 sort: ''
 sources:
