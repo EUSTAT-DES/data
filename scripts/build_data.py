@@ -436,12 +436,6 @@ def _write_sources_report(self):
     import os as _os
     filesize = _humanize.naturalsize(_os.stat(csv_path).st_size)
 
-    import json as _json
-    table_data = [
-        {'Source': info['label'], 'Organisation': info['organisation'], 'Num. indicators': len(info['indicators']), 'Indicators': ', '.join(info['indicators'])}
-        for _, info in sorted(store.items(), key=lambda x: x[1]['label'])
-    ]
-
     content = f"""
     <div role="navigation" aria-describedby="contents-heading">
         <h2 id="contents-heading">On this page</h2>
@@ -460,11 +454,6 @@ def _write_sources_report(self):
             <thead><tr><th>Source</th><th>Organisation</th><th>Num. indicators</th><th>Indicators</th></tr></thead>
             <tbody>{rows_html}</tbody>
         </table>
-        <script type="text/javascript">
-        var sdgBuild = sdgBuild || {{}};
-        sdgBuild.tables = sdgBuild.tables || {{}};
-        sdgBuild.tables['sources-table'] = {_json.dumps(table_data)};
-        </script>
     </div>
     """
 
