@@ -30,7 +30,18 @@ national_geographical_coverage: ''
 page_content: GRAFICO.5-4-1-contenido
 permalink: ''
 precision: []
-progress_status: progreso
+auto_progress_calculation: true
+progress_calculation_options:
+  - direction: negative
+    target: 1
+    goldilocks_transform: "max(fem/masc, masc/fem)"
+    goldilocks_groups:
+      fem:
+        column: Sexo
+        value: F
+      masc:
+        column: Sexo
+        value: M
 reporting_status: complete
 sort: ''
 sources:

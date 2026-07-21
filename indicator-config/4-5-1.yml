@@ -26,7 +26,24 @@ national_geographical_coverage: ''
 page_content: GRAFICO.4-5-1-contenido
 permalink: ''
 precision: []
-progress_status: progreso
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: EU_GPI_TRN
+    target: 1
+    direction: negative
+    goldilocks_transform: "max(Value, 1/Value)"
+  - series: EU_SESPI
+    target: 1
+    direction: negative
+    goldilocks_transform: "max(Value, 1/Value)"
+  - series: EU_PI_HEALTH
+    target: 1
+    direction: negative
+    goldilocks_transform: "max(Value, 1/Value)"
+  - series: EU_RUPI_TRN
+    target: 1
+    direction: negative
+    goldilocks_transform: "max(Value, 1/Value)"
 reporting_status: complete
 sort: ''
 sources:
