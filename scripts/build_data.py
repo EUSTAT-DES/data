@@ -501,8 +501,7 @@ def _generate_documentation_with_sources(self):
     _write_sources_report(self)
 
 
-import sdg.OutputDocumentationService as _ods_module
-_ods_class = _ods_module.OutputDocumentationService
+from sdg.OutputDocumentationService import OutputDocumentationService as _ods_class
 _original_write_index = _ods_class.write_index
 _original_generate_documentation = _ods_class.generate_documentation
 _ods_class.write_index = _write_index_with_sources
