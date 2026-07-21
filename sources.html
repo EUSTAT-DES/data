@@ -1,0 +1,245 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <title>Sources report - SDG data build documentation</title>
+
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
+                }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
+            </style>
+        </head>
+        <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html">SDG data build documentation</a>
+                </div>
+            </nav>
+            <main id="main-content" role="main">
+                <div class="container">
+                    <h1 style="margin:20px 0">Sources report</h1>
+                    <div>
+                        
+    <div role="navigation" aria-describedby="contents-heading">
+        <h2 id="contents-heading">On this page</h2>
+        <ul>
+            <li><a href="#by-source">By source</a></li>
+        </ul>
+    </div>
+    <div>
+        <h2 id="by-source" tabindex="-1">By source</h2>
+        <div class="my-3">
+            <a href="sources-report.csv" role="button" class="btn btn-primary">Download CSV of sources</a>
+            <div class="download-info">Size: 39.6 kB</div>
+        </div>
+        <div class="total-rows">Total rows: <span class="total">106</span></div>
+        <table id="sources-table" class="table table-striped table-bordered">
+            <thead><tr><th>Organisation</th><th>Source</th><th>Num. indicators</th><th>Indicators</th></tr></thead>
+            <tbody><tr><td>ELIKA</td><td><a href="https://zerodespilfarro.elika.eus/wp-content/uploads/2023/03/Resumen-Diagnostico-Desperdicio-Euskadi_2022.pdf">Análisis del Desperdicio Alimentario en la Cadena Agroalimentaria de Euskadi</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/12-3-1">#12-3-1</a></td></tr>
+<tr><td>Banco de España</td><td><a href="https://www.bde.es/webbe/es/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/capitulo-17.html">Balanza de pagos</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/17-13-1">#17-13-1</a>, <a href="https://eustat-des.github.io/site/17-3-2">#17-3-2</a></td></tr>
+<tr><td>Ministerio de Política Territorial y Memoria Democrática</td><td><a href="https://digital.gob.es/funcion-publica/dgfp/registro-central-personal/boletin.html">Boletín estadístico del personal al servicio de las administraciones públicas</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/16-7-1">#16-7-1</a></td></tr>
+<tr><td>Ministerio de Sanidad</td><td><a href="https://www.miteco.gob.es/es/agua/temas/estado-y-calidad-de-las-aguas/aguas-superficiales/programas-seguimiento/control-adiciona-zonas-protegidas-abastecimientos.html">Calidad de las Aguas de Consumo Humano</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/OCECA-6-1-1">#OCECA-6-1-1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_260/opt_1/temas.html">Censo agrario</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/5-a-1">#5-a-1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_276/opt_1/temas.html">Censo de población y viviendas. Actividad</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/8-5-2">#8-5-2</a>, <a href="https://eustat-des.github.io/site/8-5-E1">#8-5-E1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_271/opt_1/temas.html">Censo de población y viviendas. Educación</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/4-2-2">#4-2-2</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_268/opt_1/temas.html">Censo de población y viviendas. Estructura de la población</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/1-3-1">#1-3-1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_274/opt_1/temas.html">Censo de población y viviendas. Viviendas</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/1-4-1">#1-4-1</a>, <a href="https://eustat-des.github.io/site/6-2-1">#6-2-1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_25/opt_1/temas.html">Censos de población y viviendas</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/17-19-2">#17-19-2</a></td></tr>
+<tr><td>Ministerio para la Transformación Digital y de la Función Pública</td><td><a href="https://avance.digital.gob.es/banda-ancha/Paginas/Index.aspx">Cobertura de banda ancha en España</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/9-c-1">#9-c-1</a></td></tr>
+<tr><td>Ministerio para la Transición Ecológica y el Reto Demográfico</td><td><a href="https://www.miteco.gob.es/eu/agua/temas/convenios-acuerdos-internacionales.html">Convenios y acuerdos internacionales relacionados con los recursos hídricos y su gestión</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/6-5-2">#6-5-2</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_302/opt_0/temas.html">Cuenta de la Educación</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/1-a-2">#1-a-2</a>, <a href="https://eustat-des.github.io/site/OCECA-1-a-2-1">#OCECA-1-a-2-1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_94/opt_0/temas.html">Cuenta de la Protección Social</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/1-a-2">#1-a-2</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_121/opt_0/temas.html">Cuenta de la Salud</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/1-a-2">#1-a-2</a>, <a href="https://eustat-des.github.io/site/OCECA-1-a-2-2">#OCECA-1-a-2-2</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_149/opt_1/temas.html">Cuenta de las Administraciones Públicas</a></td><td>3</td><td><a href="https://eustat-des.github.io/site/1-a-2">#1-a-2</a>, <a href="https://eustat-des.github.io/site/OCECA-1-a-2-1">#OCECA-1-a-2-1</a>, <a href="https://eustat-des.github.io/site/OCECA-1-a-2-2">#OCECA-1-a-2-2</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_221/opt_0/temas.html">Cuenta satélite del turismo</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/8-9-1">#8-9-1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_10/opt_1/temas.html">Cuentas económicas</a></td><td>13</td><td><a href="https://eustat-des.github.io/site/1-5-2">#1-5-2</a>, <a href="https://eustat-des.github.io/site/10-4-1">#10-4-1</a>, <a href="https://eustat-des.github.io/site/11-5-2">#11-5-2</a>, <a href="https://eustat-des.github.io/site/17-1-1">#17-1-1</a>, <a href="https://eustat-des.github.io/site/17-13-1">#17-13-1</a>, <a href="https://eustat-des.github.io/site/17-2-1">#17-2-1</a>, <a href="https://eustat-des.github.io/site/17-3-1">#17-3-1</a>, <a href="https://eustat-des.github.io/site/17-3-2">#17-3-2</a>, <a href="https://eustat-des.github.io/site/2-a-1">#2-a-1</a>, <a href="https://eustat-des.github.io/site/8-1-1">#8-1-1</a>, <a href="https://eustat-des.github.io/site/8-2-1">#8-2-1</a>, <a href="https://eustat-des.github.io/site/9-2-1">#9-2-1</a>, <a href="https://eustat-des.github.io/site/9-4-E1">#9-4-E1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_190/opt_1/temas.html">Cuentas económicas de las administraciones vascas</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/17-1-1">#17-1-1</a>, <a href="https://eustat-des.github.io/site/17-13-1">#17-13-1</a></td></tr>
+<tr><td>Departamento de Industria, Transición Energética y Sostenibilidad</td><td><a href="https://eve.eus/Conoce-la-Energia/La-energia-en-Euskadi/Publicaciones?lang=es-es">Datos energéticos de la C. A. de Euskadi</a></td><td>4</td><td><a href="https://eustat-des.github.io/site/12-a-1">#12-a-1</a>, <a href="https://eustat-des.github.io/site/7-2-1">#7-2-1</a>, <a href="https://eustat-des.github.io/site/7-3-1">#7-3-1</a>, <a href="https://eustat-des.github.io/site/7-b-1">#7-b-1</a></td></tr>
+<tr><td>Departamento de Hacienda y Finanzas</td><td><a href="https://www.euskadi.eus/gobierno-vasco/departamento-hacienda-finanzas/inicio/">Departamento de Hacienda y Finanzas</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/12-7-1">#12-7-1</a></td></tr>
+<tr><td>Instituto Nacional de Estadística (INE)</td><td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176784&menu=resultados&idp=1254735573175">Encuesta Europea de Salud</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/2-2-E1">#2-2-E1</a></td></tr>
+<tr><td>Instituto Nacional de Estadística (INE)</td><td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176783&menu=resultados&idp=1254735573175">Encuesta Nacional de Salud de España</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/2-2-E1">#2-2-E1</a></td></tr>
+<tr><td>Instituto Nacional de Estadística (INE)</td><td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177025&menu=ultiDatos&idp=1254735976596">Encuesta anual de estructura salarial</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/8-5-1">#8-5-1</a></td></tr>
+<tr><td>Instituto Nacional de Estadística (INE)</td><td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176990&idp=1254735576863">Encuesta de Turismo de Residentes (ETR-Familitur)</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/OCECA-8-9-1-3AB4AB">#OCECA-8-9-1-3AB4AB</a>, <a href="https://eustat-des.github.io/site/OCECA-8-9-1-3CD">#OCECA-8-9-1-3CD</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_632/opt_1/temas.html">Encuesta de bienestar personal</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/16-1-4">#16-1-4</a></td></tr>
+<tr><td>Banco de España</td><td><a href="https://www.bde.es/wbe/es/publicaciones/analisis-economico-investigacion/encuesta-de-competencias-financieras/">Encuesta de competencias financieras</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/8-10-2">#8-10-2</a></td></tr>
+<tr><td>Instituto Nacional de Estadística (INE)</td><td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176807&menu=ultiDatos&idp=1254735976608">Encuesta de condiciones de vida</a></td><td>6</td><td><a href="https://eustat-des.github.io/site/3-8-1">#3-8-1</a>, <a href="https://eustat-des.github.io/site/OCECA-1-2-1-1A">#OCECA-1-2-1-1A</a>, <a href="https://eustat-des.github.io/site/OCECA-1-2-1-2A">#OCECA-1-2-1-2A</a>, <a href="https://eustat-des.github.io/site/OCECA-1-2-1-2B">#OCECA-1-2-1-2B</a>, <a href="https://eustat-des.github.io/site/OCECA-1-2-2-1A">#OCECA-1-2-2-1A</a>, <a href="https://eustat-des.github.io/site/OCECA-10-2-1-1A">#OCECA-10-2-1-1A</a></td></tr>
+<tr><td>Instituto Nacional de Estadística (INE)</td><td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177025&menu=ultiDatos&idp=1254735976596">Encuesta de estructura salarial</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/8-5-1">#8-5-1</a></td></tr>
+<tr><td>Instituto Nacional de Estadística (INE)</td><td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177006&menu=ultiDatos&idp=1254735573002">Encuesta de fecundidad</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/3-7-1">#3-7-1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_237/opt_1/temas.html">Encuesta de gasto familiar</a></td><td>3</td><td><a href="https://eustat-des.github.io/site/10-1-1">#10-1-1</a>, <a href="https://eustat-des.github.io/site/3-5-2">#3-5-2</a>, <a href="https://eustat-des.github.io/site/3-8-2">#3-8-2</a></td></tr>
+<tr><td>Instituto Nacional de Estadística (INE)</td><td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177002&menu=ultiDatos&idp=1254735576863">Encuesta de gasto turístico (EGATUR)</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/OCECA-8-9-1-3AB4AB">#OCECA-8-9-1-3AB4AB</a>, <a href="https://eustat-des.github.io/site/OCECA-8-9-1-3CD">#OCECA-8-9-1-3CD</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_57/opt_1/temas.html">Encuesta de población en relación con la actividad</a></td><td>12</td><td><a href="https://eustat-des.github.io/site/1-3-1">#1-3-1</a>, <a href="https://eustat-des.github.io/site/17-13-1">#17-13-1</a>, <a href="https://eustat-des.github.io/site/4-1-2">#4-1-2</a>, <a href="https://eustat-des.github.io/site/4-1-E1">#4-1-E1</a>, <a href="https://eustat-des.github.io/site/4-3-1">#4-3-1</a>, <a href="https://eustat-des.github.io/site/4-5-1">#4-5-1</a>, <a href="https://eustat-des.github.io/site/5-5-2">#5-5-2</a>, <a href="https://eustat-des.github.io/site/8-5-2">#8-5-2</a>, <a href="https://eustat-des.github.io/site/8-5-E1">#8-5-E1</a>, <a href="https://eustat-des.github.io/site/8-6-1">#8-6-1</a>, <a href="https://eustat-des.github.io/site/8-9-2">#8-9-2</a>, <a href="https://eustat-des.github.io/site/9-2-2">#9-2-2</a></td></tr>
+<tr><td>Departamento de Bienestar, Juventud y Reto Demográfico</td><td><a href="https://www.euskadi.eus/encuesta-de-pobreza-y-desigualdades-sociales-epds/web01-s2enple/es/">Encuesta de pobreza y desigualdades sociales (EPDS)</a></td><td>10</td><td><a href="https://eustat-des.github.io/site/1-1-1">#1-1-1</a>, <a href="https://eustat-des.github.io/site/1-2-1">#1-2-1</a>, <a href="https://eustat-des.github.io/site/1-2-2">#1-2-2</a>, <a href="https://eustat-des.github.io/site/10-1-1">#10-1-1</a>, <a href="https://eustat-des.github.io/site/10-2-1">#10-2-1</a>, <a href="https://eustat-des.github.io/site/10-4-2">#10-4-2</a>, <a href="https://eustat-des.github.io/site/11-1-1">#11-1-1</a>, <a href="https://eustat-des.github.io/site/2-1-2">#2-1-2</a>, <a href="https://eustat-des.github.io/site/7-1-1">#7-1-1</a>, <a href="https://eustat-des.github.io/site/OCECA-1-2-1-2B">#OCECA-1-2-1-2B</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_77/opt_1/temas.html">Encuesta de presupuestos de tiempo</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/5-4-1">#5-4-1</a></td></tr>
+<tr><td>Departamento de Salud</td><td><a href="https://www.euskadi.eus/encuesta-salud/inicio/">Encuesta de salud</a></td><td>5</td><td><a href="https://eustat-des.github.io/site/10-3-1">#10-3-1</a>, <a href="https://eustat-des.github.io/site/16-b-1">#16-b-1</a>, <a href="https://eustat-des.github.io/site/2-2-2">#2-2-2</a>, <a href="https://eustat-des.github.io/site/2-2-E1">#2-2-E1</a>, <a href="https://eustat-des.github.io/site/3-a-1">#3-a-1</a></td></tr>
+<tr><td>Ministerio de Agricultura, Pesca y Alimentación</td><td><a href="https://www.mapa.gob.es/es/estadistica/temas/estadisticas-agrarias/agricultura/esyrce/">Encuesta de superficies y rendimientos de cultivo (ESYRCE)</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/2-4-E1">#2-4-E1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_112/opt_1/temas.html">Encuesta industrial</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/9-3-1">#9-3-1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_92/opt_1/temas.html">Encuesta sobre la estructura de las explotaciones agrarias</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/5-a-1">#5-a-1</a></td></tr>
+<tr><td>Instituto Nacional de Estadística (INE)</td><td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176759&menu=ultiDatos&idp=1254735573113">Encuesta sobre la participación de la población adulta en las actividades de aprendizaje</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/4-3-1">#4-3-1</a>, <a href="https://eustat-des.github.io/site/4-5-1">#4-5-1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_15/opt_1/temas.html">Encuesta sobre la sociedad de la información. Familias</a></td><td>3</td><td><a href="https://eustat-des.github.io/site/17-8-1">#17-8-1</a>, <a href="https://eustat-des.github.io/site/4-4-1">#4-4-1</a>, <a href="https://eustat-des.github.io/site/5-b-1">#5-b-1</a></td></tr>
+<tr><td>Banco de España</td><td><a href="https://www.bde.es/webbe/es/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/capitulo-4.html">Entidades de crédito y establecimientos financieros de crédito</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/8-10-1">#8-10-1</a></td></tr>
+<tr><td>Consejo General del Poder Judicial</td><td><a href="https://www.poderjudicial.es/cgpj/es/Temas/Estadistica-Judicial/">Estadística Judicial</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/16-7-1">#16-7-1</a></td></tr>
+<tr><td>Ministerio de Asuntos Exteriores, Unión Europea y Cooperación</td><td><a href="https://www.aecid.es/la-aecid/en-cifras#:~:text=La%20Ayuda%20Oficial%20al%20Desarrollo,gestion%C3%B3%20307%20millones%20de%20euros.">Estadística de Ayuda Oficial al Desarrollo de España</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/17-2-1">#17-2-1</a></td></tr>
+<tr><td>Ministerio de Educación, Formación Profesional y Deportes</td><td><a href="https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/no-universitaria/alumnado/fp.html">Estadística de Enseñanzas no Universitarias</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/4-2-2">#4-2-2</a></td></tr>
+<tr><td>Ministerio de Cultura</td><td><a href="https://www.cultura.gob.es/servicios-al-ciudadano/estadisticas/cultura/mc/culturabase/gasto-publico/resultados-gasto-publico.html">Estadística de Financiación y Gasto Público en Cultura</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/11-4-1">#11-4-1</a></td></tr>
+<tr><td>Departamento de Industria, Transición Energética y Sostenibilidad</td><td><a href="https://www.euskadi.eus/informacion/estadistica-de-flujo-de-materiales-090217/web01-s2ing/es/">Estadística de Flujo de Materiales</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/12-2-2">#12-2-2</a>, <a href="https://eustat-des.github.io/site/8-4-2">#8-4-2</a></td></tr>
+<tr><td>Departamento de Industria, Transición Energética y Sostenibilidad</td><td><a href="https://www.euskadi.eus/informacion/indicadores-ambientales-090207/web01-a2inguru/es/">Estadística de Indicadores Ambientales</a></td><td>3</td><td><a href="https://eustat-des.github.io/site/15-1-E1">#15-1-E1</a>, <a href="https://eustat-des.github.io/site/15-3-1">#15-3-1</a>, <a href="https://eustat-des.github.io/site/15-4-2">#15-4-2</a></td></tr>
+<tr><td>Ministerio del Interior</td><td><a href="https://proteccion-asilo.interior.gob.es/es/datos-e-informacion-estadistica/">Estadística de Población Extranjera Solicitante de Protección Internacional, Refugiados, Beneficiarios de Protección Subsidiaria, Desplazados y Apátridas</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/10-7-4">#10-7-4</a></td></tr>
+<tr><td>Departamento de Industria, Transición Energética y Sostenibilidad</td><td><a href="https://www.euskadi.eus/informacion/estadistica-de-residuos-peligrosos-090209/web01-a2inghon/es/">Estadística de Residuos Peligrosos</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/12-4-2">#12-4-2</a></td></tr>
+<tr><td>Departamento de Industria, Transición Energética y Sostenibilidad</td><td><a href="https://www.euskadi.eus/informacion/estadistica-de-residuos-solidos-urbanos-090218/web01-a2inghon/es/">Estadística de Residuos Urbanos</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/11-6-1">#11-6-1</a>, <a href="https://eustat-des.github.io/site/12-5-1">#12-5-1</a></td></tr>
+<tr><td>AENA. Aeropuertos Españoles y Navegación Aérea</td><td><a href="https://www.aena.es/es/estadisticas/informes-anuales.html">Estadística de Tráfico Aéreo</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/9-1-2">#9-1-2</a></td></tr>
+<tr><td>Ministerio de Sanidad</td><td><a href="https://pestadistico.inteligenciadegestion.sanidad.gob.es/publicoSNS/S/sivamin">Estadística de Vacunaciones Sistemáticas</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/3-b-1">#3-b-1</a></td></tr>
+<tr><td>Departamento de Economía, Trabajo y Empleo</td><td><a href="https://www.euskadi.eus/web01-s2lanju/es/contenidos/informacion/lesiones_laborales_oe_informac/es_def/index.shtml">Estadística de accidentes de trabajo y de enfermedades profesionales</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/8-8-1">#8-8-1</a></td></tr>
+<tr><td>Ministerio de Inclusión, Seguridad Social y Migraciones</td><td><a href="https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/c9bd51e5-79bc-44f2-9618-14d6094eb585?changeLanguage=es">Estadística de bases de cotización de la seguridad social</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/1-3-1">#1-3-1</a></td></tr>
+<tr><td>Departamento de Industria, Transición Energética y Sostenibilidad</td><td><a href="https://www.euskadi.eus/web01-s2ekono/es/contenidos/informacion/estatistika_ing_090203/es_def/index.shtml">Estadística de calidad del aire</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/11-6-2">#11-6-2</a>, <a href="https://eustat-des.github.io/site/9-4-E1">#9-4-E1</a></td></tr>
+<tr><td>Departamento de Industria, Transición Energética y Sostenibilidad</td><td><a href="https://www.euskadi.eus/informacion/estadistica-de-consumo-del-agua-090215/web01-s2ing/es/">Estadística de consumo del agua</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/6-4-2">#6-4-2</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_28/opt_0/tipo_1/temas.html">Estadística de defunciones</a></td><td>11</td><td><a href="https://eustat-des.github.io/site/1-5-1">#1-5-1</a>, <a href="https://eustat-des.github.io/site/11-5-1">#11-5-1</a>, <a href="https://eustat-des.github.io/site/13-1-1">#13-1-1</a>, <a href="https://eustat-des.github.io/site/16-1-2">#16-1-2</a>, <a href="https://eustat-des.github.io/site/3-1-1">#3-1-1</a>, <a href="https://eustat-des.github.io/site/3-2-1">#3-2-1</a>, <a href="https://eustat-des.github.io/site/3-2-2">#3-2-2</a>, <a href="https://eustat-des.github.io/site/3-4-1">#3-4-1</a>, <a href="https://eustat-des.github.io/site/3-4-2">#3-4-2</a>, <a href="https://eustat-des.github.io/site/3-6-1">#3-6-1</a>, <a href="https://eustat-des.github.io/site/3-9-3">#3-9-3</a></td></tr>
+<tr><td>Departamento de Hacienda y Finanzas</td><td><a href="https://es.eustat.eus/estadisticas/tema_916/opt_0/temas.html">Estadística de ejecución presupuestaria</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/16-6-1">#16-6-1</a></td></tr>
+<tr><td>Ministerio de Sanidad</td><td><a href="https://cne.isciii.es/es/servicios/departamento-enfermedades-transmisibles/enfermedades-a-z">Estadística de enfermedades de declaración obligatoria</a></td><td>4</td><td><a href="https://eustat-des.github.io/site/3-3-1">#3-3-1</a>, <a href="https://eustat-des.github.io/site/3-3-2">#3-3-2</a>, <a href="https://eustat-des.github.io/site/3-3-3">#3-3-3</a>, <a href="https://eustat-des.github.io/site/3-3-4">#3-3-4</a></td></tr>
+<tr><td>Ministerio del Interior</td><td><a href="https://www.interior.gob.es/opencms/es/archivos-y-documentacion/documentacion-y-publicaciones/anuarios-y-estadisticas/estadisticas-del-ministerio-del-interior/">Estadística de la Población Reclusa</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/16-3-2">#16-3-2</a></td></tr>
+<tr><td>Departamento de Industria, Transición Energética y Sostenibilidad</td><td><a href="https://www.euskadi.eus/informacion/estadistica-de-calidad-de-las-masas-de-aguas-090214/web01-s2ing/es/">Estadística de la calidad de las masas de agua</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/6-3-2">#6-3-2</a></td></tr>
+<tr><td>Consejo de Agricultura y Alimentación Ecológica de Euskadi</td><td><a href="https://www.euskadi.eus/produccion-ecologica/web01-a2estadi/es/">Estadística de la producción ecológica</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/2-4-E1">#2-4-E1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_50/opt_1/temas.html">Estadística de matrimonios</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/5-3-1">#5-3-1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_48/opt_1/temas.html">Estadística de nacimientos</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/3-1-2">#3-1-2</a>, <a href="https://eustat-des.github.io/site/3-7-2">#3-7-2</a></td></tr>
+<tr><td>Instituto Nacional de Estadística (INE)</td><td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176781&idp=1254735573175">Estadística de profesionales sanitarios colegiados</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/3-c-1">#3-c-1</a></td></tr>
+<tr><td>Consorcio de Compensación de Seguros</td><td><a href="https://www.consorseguros.es/la-entidad/publicaciones">Estadística de riesgos extraordinarios</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/1-5-2">#1-5-2</a>, <a href="https://eustat-des.github.io/site/11-5-2">#11-5-2</a></td></tr>
+<tr><td>Ministerio del Interior</td><td><a href="https://www.interior.gob.es/opencms/es/archivos-y-documentacion/documentacion-y-publicaciones/anuarios-y-estadisticas/estadisticas-del-ministerio-del-interior/">Estadística de seguridad: actuaciones policiales</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/11-7-2">#11-7-2</a></td></tr>
+<tr><td>Departamento de Seguridad</td><td><a href="https://www.eustat.eus/estadisticas/tema_292/opt_2/tipo_10/ti_violencia-contra-las-mujeres/temas.html">Estadística de violencia contra las mujeres</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/5-2-1">#5-2-1</a>, <a href="https://eustat-des.github.io/site/5-2-2">#5-2-2</a></td></tr>
+<tr><td>Instituto Nacional de Estadística (INE)</td><td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736055502&menu=resultados&idp=1254735976595">Estadística del Empleo de las Personas con Discapacidad</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/8-5-2">#8-5-2</a></td></tr>
+<tr><td>Instituto Nacional de Estadística (INE)</td><td><a href="https://www.ine.es/dynt3/inebase/es/index.htm?padre=9494">Estadística del Salario de las Personas con Discapacidad</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/8-5-1">#8-5-1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_652/opt_1/temas.html">Estadística del sector de alta tecnología</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/9-b-1">#9-b-1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_179/opt_0/temas.html">Estadística sobre actividades de investigación científica y desarrollo tecnológico-I+D</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/9-5-1">#9-5-1</a>, <a href="https://eustat-des.github.io/site/9-5-2">#9-5-2</a></td></tr>
+<tr><td>Ministerio para la Transición Ecológica y el Reto Demográfico</td><td><a href="https://www.miteco.gob.es/es/ministerio/servicios/estadisticas/estadisticas-forestales/estadistica-sobre-gestion-forestal-sostenible.html">Estadística sobre gestión forestal sostenible</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/15-2-1">#15-2-1</a></td></tr>
+<tr><td>Ministerio de Educación, Formación Profesional y Deportes</td><td><a href="https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/no-universitaria/centros/tic.html">Estadística sobre la Tecnología de la información y la comunicación en los centros educativos</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/4-a-1">#4-a-1</a></td></tr>
+<tr><td>Departamento de Alimentación, Desarrollo Rural, Agricultura y Pesca</td><td><a href="https://www.euskadi.eus/web01-a1estadi/es/">Estadística sobre la distribución general de tierras y sobre las producciones agrarias</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/2-4-E1">#2-4-E1</a></td></tr>
+<tr><td>Banco de España</td><td><a href="https://www.bde.es/webbe/es/estadisticas/temas/administraciones-publicas.html">Estadísticas de Administraciones Públicas</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/17-13-1">#17-13-1</a></td></tr>
+<tr><td>Departamento de Seguridad</td><td><a href="https://www.ertzaintza.euskadi.eus/lfr/web/ertzaintza/estadisticas-delictivas">Estadísticas delictivas</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/16-1-1">#16-1-1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_151/opt_1/temas.html">Estadísticas presupuestarias del sector público</a></td><td>5</td><td><a href="https://eustat-des.github.io/site/1-a-2">#1-a-2</a>, <a href="https://eustat-des.github.io/site/16-6-1">#16-6-1</a>, <a href="https://eustat-des.github.io/site/17-1-2">#17-1-2</a>, <a href="https://eustat-des.github.io/site/OCECA-1-a-2-1">#OCECA-1-a-2-1</a>, <a href="https://eustat-des.github.io/site/OCECA-1-a-2-2">#OCECA-1-a-2-2</a></td></tr>
+<tr><td>Ministerio para la Transición Ecológica y el Reto Demográfico</td><td><a href="https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/economia-circular/estrategia.html">Estrategia Española de Economía Circular y Planes de Acción</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/12-1-1">#12-1-1</a></td></tr>
+<tr><td>Geoeuskadi</td><td><a href="https://www.geo.euskadi.eus/inicio/">Geoeuskadi</a></td><td>6</td><td><a href="https://eustat-des.github.io/site/14-5-1">#14-5-1</a>, <a href="https://eustat-des.github.io/site/15-1-2">#15-1-2</a>, <a href="https://eustat-des.github.io/site/15-1-E1">#15-1-E1</a>, <a href="https://eustat-des.github.io/site/15-4-1">#15-4-1</a>, <a href="https://eustat-des.github.io/site/15-4-2">#15-4-2</a>, <a href="https://eustat-des.github.io/site/9-1-1">#9-1-1</a></td></tr>
+<tr><td>IHOBE</td><td><a href="https://www.ihobe.eus/es/compraverde">IHOBE</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/12-7-1">#12-7-1</a></td></tr>
+<tr><td>Departamento de Vivienda y Agenda Urbana</td><td><a href="https://www.euskadi.eus/web01-s2ing/es/contenidos/informacion/200208_inbentarioa_tablas_esta/es_def/index.shtml">Inbentarioa. Inventario de Planeamiento</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/11-a-1">#11-a-1</a></td></tr>
+<tr><td>Instituto Nacional de Estadística (INE)</td><td><a href="https://www.ine.es/dynt3/ICV/index.html">Indicadores de calidad de vida</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/16-1-E1">#16-1-E1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_169/opt_0/temas.html">Indicadores demográficos anuales</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/3-4-E2">#3-4-E2</a></td></tr>
+<tr><td>Ministerio de Hacienda</td><td><a href="https://sede.agenciatributaria.gob.es/Sede/datosabiertos/catalogo/hacienda/Informes_anuales_de_Recaudacion_Tributaria.shtml">Informes anuales de recaudación tributaria</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/3-5-2">#3-5-2</a></td></tr>
+<tr><td>Departamento de Alimentación, Desarrollo Rural, Agricultura y Pesca</td><td><a href="https://www.euskadi.eus/gobierno-vasco/-/informacion/inventarios-forestales/">Inventario Forestal</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/15-1-1">#15-1-1</a></td></tr>
+<tr><td>Departamento de Industria, Transición Energética y Sostenibilidad</td><td><a href="https://www.euskadi.eus/web01-s2ekono/es/contenidos/informacion/estatistika_ing_090226/es_def/index.shtml">Inventario de Emisiones de contaminantes a la atmósfera</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/2-4-E2">#2-4-E2</a></td></tr>
+<tr><td>Departamento de Industria, Transición Energética y Sostenibilidad</td><td><a href="https://www.euskadi.eus/informacion/inventario-de-gases-de-efecto-invernadero-090205/web01-a2ingair/es/">Inventario de gases de efecto invernadero</a></td><td>4</td><td><a href="https://eustat-des.github.io/site/13-2-2">#13-2-2</a>, <a href="https://eustat-des.github.io/site/9-4-1">#9-4-1</a>, <a href="https://eustat-des.github.io/site/OCECA-9-4-1-5">#OCECA-9-4-1-5</a>, <a href="https://eustat-des.github.io/site/OCECA-9-4-1-6">#OCECA-9-4-1-6</a></td></tr>
+<tr><td>Secretariado de Key Biodiversity Areas</td><td><a href="https://www.keybiodiversityareas.org/sites/search">Key Biodiversity Areas</a></td><td>3</td><td><a href="https://eustat-des.github.io/site/14-5-1">#14-5-1</a>, <a href="https://eustat-des.github.io/site/15-1-2">#15-1-2</a>, <a href="https://eustat-des.github.io/site/15-4-1">#15-4-1</a></td></tr>
+<tr><td>Ministerio de Hacienda</td><td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Financiacion%20Autonomica/Paginas/DatosPresupuestarios.aspx">Liquidación de los presupuestos de las comunidades autónomas</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/8-b-1">#8-b-1</a></td></tr>
+<tr><td>Centro de Investigaciones Sociológicas (CIS)</td><td><a href="https://www.cis.es/catalogo-estudios/avance-resultados">Opinión pública y política fiscal</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/16-6-2">#16-6-2</a></td></tr>
+<tr><td>Organización Mundial de la Salud</td><td><a href="https://www.who.int/data/gho/data/themes/air-pollution/household-air-pollution">Organización Mundial de la Salud</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/7-1-2">#7-1-2</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_489/opt_0/temas.html">PIB Municipal</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/2-a-1">#2-a-1</a></td></tr>
+<tr><td>Organización para la Cooperación y Desarrollo Económico (OCDE)</td><td><a href="https://www.oecd.org/en/about/programmes/piaac.html">Programa de Evaluación de Competencias de Adultos (PIAAC)</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/4-6-1">#4-6-1</a></td></tr>
+<tr><td>Organización para la Cooperación y Desarrollo Económico (OCDE)</td><td><a href="https://www.oecd.org/en/about/programmes/pisa.html">Programa para la Evaluación Internacional de los Estudiantes (PISA)</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/4-1-1">#4-1-1</a></td></tr>
+<tr><td>Ministerio de Agricultura, Pesca y Alimentación</td><td><a href="https://www.mapa.gob.es/es/estadistica/temas/estadisticas-agrarias/economia/red-contable-recan/">Red contable agraria nacional</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/2-4-1">#2-4-1</a></td></tr>
+<tr><td>Departamento de Alimentación, Desarrollo Rural, Agricultura y Pesca</td><td><a href="https://www.euskadi.eus/ricav-agroganaderia/web01-a2estadi/es/">Red de Información Contable Agraria Vasca (RICAV)</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/2-3-1">#2-3-1</a>, <a href="https://eustat-des.github.io/site/2-3-2">#2-3-2</a></td></tr>
+<tr><td>Ministerio de Economía, Comercio y Empresa</td><td><a href="https://comercio.gob.es/es-es/inversiones_exteriores/Paginas/default.aspx">Registro de inversiones exteriores</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/17-3-1">#17-3-1</a></td></tr>
+<tr><td>Gobierno Vasco</td><td><a href="https://beta.euskadi.eus/informacion/el-abastecimiento-de-agua-en-la-capv/web01-a3aguas/es/">Sistema de Información de las Aguas de Consumo (EKUIS)</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/6-1-1">#6-1-1</a></td></tr>
+<tr><td>Departamento de Salud</td><td><a href="https://www.euskadi.eus/informacion/sistema-de-informacion-de-toxicomanias/web01-a3regepi/es/">Sistema de información sobre adicciones</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/3-5-1">#3-5-1</a></td></tr>
+<tr><td>Comisión Nacional de los Mercados y la Competencia (CNMC)</td><td><a href="https://data.cnmc.es/telecomunicaciones-y-sector-audiovisual">Telecomunicaciones y sector audiovisual</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/17-6-1">#17-6-1</a></td></tr>
+<tr><td>Ministerio del Interior</td><td><a href="https://www.interior.gob.es/opencms/es/servicios-al-ciudadano/trata/situacion-en-espana/">Trata y explotación de seres humanos en España. Balance estadístico</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/16-2-2">#16-2-2</a></td></tr>
+<tr><td>Ministerio para la Transición Ecológica y el Reto Demográfico</td><td><a href="https://www.miteco.gob.es/es/agua/temas/saneamiento-depuracion.html">Tratamiento de las aguas residuales urbanas</a></td><td>1</td><td><a href="https://eustat-des.github.io/site/6-3-1">#6-3-1</a></td></tr>
+<tr><td>Eustat-Instituto Vasco de Estadística</td><td><a href="https://es.eustat.eus/estadisticas/tema_515/opt_0/temas.html">Índice de Igualdad de Género</a></td><td>2</td><td><a href="https://eustat-des.github.io/site/16-7-1">#16-7-1</a>, <a href="https://eustat-des.github.io/site/5-5-1">#5-5-1</a></td></tr>
+<tr><td>Instituto Nacional de Estadística (INE)</td><td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176802&menu=ultiDatos&idp=1254735976607">Índice de precios de consumo</a></td><td>4</td><td><a href="https://eustat-des.github.io/site/1-5-2">#1-5-2</a>, <a href="https://eustat-des.github.io/site/11-5-2">#11-5-2</a>, <a href="https://eustat-des.github.io/site/17-13-1">#17-13-1</a>, <a href="https://eustat-des.github.io/site/2-c-1">#2-c-1</a></td></tr>
+</tbody>
+        </table>
+        <script type="text/javascript">
+        var sdgBuild = sdgBuild || {};
+        sdgBuild.tables = sdgBuild.tables || {};
+        sdgBuild.tables['sources-table'] = [];
+        </script>
+    </div>
+    
+                    </div>
+                </div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
+        </html>
+        
