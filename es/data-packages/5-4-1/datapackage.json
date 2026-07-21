@@ -52,6 +52,19 @@
             "title": "Unidad"
           },
           {
+            "name": "Progress",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1.8983050847457628",
+                "1.9174311926605505",
+                "1.467741935483871",
+                ""
+              ]
+            },
+            "title": "Progress"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Valor"
