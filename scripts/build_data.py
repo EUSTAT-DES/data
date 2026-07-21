@@ -430,11 +430,17 @@ def _write_sources_report(self):
     for key, info in sorted(store.items(), key=lambda x: x[1]['label']):
         links = ', '.join(indicator_link(i) for i in info['indicators'])
         source_label = f'<a href="{info["url"]}">{info["label"]}</a>' if info['url'] else info['label']
-        rows_html += f'<tr><td>{info["organisation"]}</td><td>{source_label}</td><td>{len(info["indicators"])}</td><td>{links}</td></tr>\n'
+        rows_html += f'<tr><td>{source_label}</td><td>{info["organisation"]}</td><td>{len(info["indicators"])}</td><td>{links}</td></tr>\n'
 
     import humanize as _humanize
     import os as _os
     filesize = _humanize.naturalsize(_os.stat(csv_path).st_size)
+
+    import json as _json
+    table_data = [
+        {'Source': info['label'], 'Organisation': info['organisation'], 'Num. indicators': len(info['indicators']), 'Indicators': ', '.join(info['indicators'])}
+        for _, info in sorted(store.items(), key=lambda x: x[1]['label'])
+    ]
 
     content = f"""
     <div role="navigation" aria-describedby="contents-heading">
@@ -451,13 +457,13 @@ def _write_sources_report(self):
         </div>
         <div class="total-rows">Total rows: <span class="total">{len(store)}</span></div>
         <table id="sources-table" class="table table-striped table-bordered">
-            <thead><tr><th>Organisation</th><th>Source</th><th>Num. indicators</th><th>Indicators</th></tr></thead>
+            <thead><tr><th>Source</th><th>Organisation</th><th>Num. indicators</th><th>Indicators</th></tr></thead>
             <tbody>{rows_html}</tbody>
         </table>
         <script type="text/javascript">
         var sdgBuild = sdgBuild || {{}};
         sdgBuild.tables = sdgBuild.tables || {{}};
-        sdgBuild.tables['sources-table'] = [];
+        sdgBuild.tables['sources-table'] = {_json.dumps(table_data)};
         </script>
     </div>
     """
@@ -470,12 +476,11 @@ def _write_sources_report(self):
 def _write_index_with_sources(self, pages):
     """Llama al write_index original y luego inyecta la tarjeta de sources."""
     _original_write_index(self, pages)
-    # Leer el index.html generado e inyectar la tarjeta antes del cierre del último </div> de cards
     index_path = os.path.join(self.folder, 'index.html')
     with open(index_path, encoding='utf-8') as f:
         html = f.read()
     card = """
-        <div class="col-sm mt-4">
+        <div class="row"><div class="col-sm mt-4">
             <div class="card">
                 <div class="card-body">
                     <h5 class="card-title">Sources report</h5>
@@ -483,15 +488,9 @@ def _write_index_with_sources(self, pages):
                     <a href="sources.html" class="btn btn-primary">See sources report</a>
                 </div>
             </div>
-        </div>
+        </div></div>
     """
-    # Insertar antes del último </div></div> del bloque de cards (antes del cierre de la última row)
-    insert_marker = '</div>\n        </div>\n            </div>\n        </body>'
-    if insert_marker in html:
-        html = html.replace(insert_marker, card + insert_marker, 1)
-    else:
-        # Fallback: insertar antes de </main>
-        html = html.replace('</main>', card + '</main>', 1)
+    html = html.replace('</main>', card + '</main>', 1)
     with open(index_path, 'w', encoding='utf-8') as f:
         f.write(html)
 
