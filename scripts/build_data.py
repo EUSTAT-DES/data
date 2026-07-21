@@ -349,6 +349,169 @@ sdg.ProgressMeasure.SeriesProgress = SeriesProgressEustat
 sdg.ProgressMeasure.get_progress_status = get_progress_status_eustat
 sdg.ProgressMeasure.get_progress_status_from_score = get_progress_status_from_score_eustat
 
+
+# ---------------------------------------------------------------------------
+# Monkey patch: Sources report
+# Añade una tarjeta "Sources report" en el índice de documentación y genera
+# sources.html agrupando indicadores por fuente (url_text de indicator-config)
+# ---------------------------------------------------------------------------
+
+def _build_sources_store(config_dir='indicator-config', translations_file='translations/es/FUENTE.yml'):
+    """Lee todos los indicator-config y devuelve un dict:
+    { url_text_key: { 'label': str, 'url': str, 'organisation': str, 'indicators': [str] } }
+    Las claves FUENTE.* se resuelven contra translations/es/FUENTE.yml.
+    """
+    with open(translations_file, encoding='utf-8') as f:
+        fuente_trans = yaml.safe_load(f) or {}
+
+    def resolve(key):
+        if isinstance(key, str) and key.startswith('FUENTE.'):
+            return fuente_trans.get(key[7:], key)
+        return key or ''
+
+    store = {}
+    for config_file in sorted(os.listdir(config_dir)):
+        if not config_file.endswith('.yml'):
+            continue
+        inid = config_file[:-4]
+        with open(os.path.join(config_dir, config_file), encoding='utf-8') as f:
+            config = yaml.safe_load(f) or {}
+
+        for source in config.get('sources', []):
+            if not isinstance(source, dict):
+                continue
+            url_text_key = source.get('url_text', '')
+            if not url_text_key:
+                continue
+            if url_text_key not in store:
+                store[url_text_key] = {
+                    'label': resolve(url_text_key),
+                    'url': resolve(source.get('url', '')),
+                    'organisation': resolve(source.get('organisation', '')),
+                    'indicators': [],
+                }
+            store[url_text_key]['indicators'].append(inid)
+
+    return store
+
+
+def _write_sources_report(self):
+    """Genera sources.html y sources-report.csv en self.folder."""
+    store = _build_sources_store()
+
+    # --- CSV descargable ---
+    csv_rows = []
+    for key, info in sorted(store.items(), key=lambda x: x[1]['label']):
+        for inid in info['indicators']:
+            csv_rows.append({
+                'source_key': key,
+                'source_label': info['label'],
+                'organisation': info['organisation'],
+                'url': info['url'],
+                'indicator_id': inid,
+            })
+    csv_path = os.path.join(self.folder, 'sources-report.csv')
+    import csv as _csv
+    with open(csv_path, 'w', newline='', encoding='utf-8') as f:
+        writer = _csv.DictWriter(f, fieldnames=['source_key', 'source_label', 'organisation', 'url', 'indicator_id'])
+        writer.writeheader()
+        writer.writerows(csv_rows)
+
+    # --- Tabla HTML por fuente (una fila por fuente) ---
+    indicator_url = self.indicator_url or ''
+
+    def indicator_link(inid):
+        if indicator_url:
+            href = indicator_url.replace('[id]', inid)
+            return f'<a href="{href}">#{inid}</a>'
+        return f'#{inid}'
+
+    rows_html = ''
+    for key, info in sorted(store.items(), key=lambda x: x[1]['label']):
+        links = ', '.join(indicator_link(i) for i in info['indicators'])
+        source_label = f'<a href="{info["url"]}">{info["label"]}</a>' if info['url'] else info['label']
+        rows_html += f'<tr><td>{info["organisation"]}</td><td>{source_label}</td><td>{len(info["indicators"])}</td><td>{links}</td></tr>\n'
+
+    import humanize as _humanize
+    import os as _os
+    filesize = _humanize.naturalsize(_os.stat(csv_path).st_size)
+
+    content = f"""
+    <div role="navigation" aria-describedby="contents-heading">
+        <h2 id="contents-heading">On this page</h2>
+        <ul>
+            <li><a href="#by-source">By source</a></li>
+        </ul>
+    </div>
+    <div>
+        <h2 id="by-source" tabindex="-1">By source</h2>
+        <div class="my-3">
+            <a href="sources-report.csv" role="button" class="btn btn-primary">Download CSV of sources</a>
+            <div class="download-info">Size: {filesize}</div>
+        </div>
+        <div class="total-rows">Total rows: <span class="total">{len(store)}</span></div>
+        <table id="sources-table" class="table table-striped table-bordered">
+            <thead><tr><th>Organisation</th><th>Source</th><th>Num. indicators</th><th>Indicators</th></tr></thead>
+            <tbody>{rows_html}</tbody>
+        </table>
+        <script type="text/javascript">
+        var sdgBuild = sdgBuild || {{}};
+        sdgBuild.tables = sdgBuild.tables || {{}};
+        sdgBuild.tables['sources-table'] = [];
+        </script>
+    </div>
+    """
+
+    html = self.get_html('Sources report', content)
+    self.write_page('sources.html', html)
+    print('[EUSTAT] >>> sources.html generado')
+
+
+def _write_index_with_sources(self, pages):
+    """Llama al write_index original y luego inyecta la tarjeta de sources."""
+    _original_write_index(self, pages)
+    # Leer el index.html generado e inyectar la tarjeta antes del cierre del último </div> de cards
+    index_path = os.path.join(self.folder, 'index.html')
+    with open(index_path, encoding='utf-8') as f:
+        html = f.read()
+    card = """
+        <div class="col-sm mt-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Sources report</h5>
+                    <p class="card-text">These tables show which indicators use each data source.</p>
+                    <a href="sources.html" class="btn btn-primary">See sources report</a>
+                </div>
+            </div>
+        </div>
+    """
+    # Insertar antes del último </div></div> del bloque de cards (antes del cierre de la última row)
+    insert_marker = '</div>\n        </div>\n            </div>\n        </body>'
+    if insert_marker in html:
+        html = html.replace(insert_marker, card + insert_marker, 1)
+    else:
+        # Fallback: insertar antes de </main>
+        html = html.replace('</main>', card + '</main>', 1)
+    with open(index_path, 'w', encoding='utf-8') as f:
+        f.write(html)
+
+
+def _generate_documentation_with_sources(self):
+    _original_generate_documentation(self)
+    _write_sources_report(self)
+
+
+import sdg.OutputDocumentationService as _ods_module
+_ods_class = _ods_module.OutputDocumentationService
+_original_write_index = _ods_class.write_index
+_original_generate_documentation = _ods_class.generate_documentation
+_ods_class.write_index = _write_index_with_sources
+_ods_class.generate_documentation = _generate_documentation_with_sources
+
+print('[EUSTAT] >>> Monkey patch sources report ACTIVO')
+
+# ---------------------------------------------------------------------------
+
 # Goldilocks: precalcular columna Progress en CSVs antes del build
 apply_goldilocks_transforms(data_dir='data', config_dir='indicator-config')
 
