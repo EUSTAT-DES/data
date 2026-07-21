@@ -377,7 +377,7 @@ def _build_sources_store(config_dir='indicator-config', translations_file='trans
         with open(os.path.join(config_dir, config_file), encoding='utf-8') as f:
             config = yaml.safe_load(f) or {}
 
-        for source in config.get('sources', []):
+        for source in (config.get('sources') or []):
             if not isinstance(source, dict):
                 continue
             url_text_key = source.get('url_text', '')
