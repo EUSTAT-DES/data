@@ -3,7 +3,7 @@ import math
 import pandas as pd
 import yaml
 import sdg.ProgressMeasure
-from sdg.ProgressMeasure import IndicatorProgress, SeriesProgress, get_progress_status
+from sdg.ProgressMeasure import IndicatorProgress, SeriesProgress, get_progress_status, floatNone
 from sdg.open_sdg import open_sdg_build
 
 
@@ -344,10 +344,50 @@ def get_progress_status_from_score_eustat(score, target_achieved=False):
         return "significant_deterioration"
 
 
+def get_indicator_progress_eustat(self):
+    """Si hay una sola serie (sin grupos), devuelve directamente el status
+    de esa serie sin pasar por el score agregado.
+    Con múltiples series, usa el flujo normal (media de scores).
+    """
+    if self.meta is None or self.meta.get('auto_progress_calculation') is not True:
+        indicator_status = self.meta.get('progress_status', '') if self.meta else ''
+        result = (None, indicator_status)
+        if self.cache_store is None:
+            self.cache_store = {}
+        self.cache_store[self.inid] = {'progress_status': indicator_status, 'score': None}
+        return result
+
+    if self.cache_store is not None and self.inid in self.cache_store:
+        return (self.cache_store[self.inid]['score'], self.cache_store[self.inid]['progress_status'])
+
+    opts = self.get_progress_calculation_options()
+    # Una sola serie: sin grupos y sin múltiples opciones
+    if len(opts) == 1 and not opts[0].get('group'):
+        series = sdg.ProgressMeasure.SeriesProgress(self.indicator, opts[0], logging=self.logging)
+        indicator_status = series.status
+        indicator_score = series.score
+        components = series.get_progress_calculation_components()
+    else:
+        # Múltiples series o grupos: flujo normal
+        from sdg.ProgressMeasure import grouped_score
+        indicator_score, targets_achieved, components = grouped_score(
+            self.indicator, opts, logging=self.logging
+        )
+        target_achieved = all(targets_achieved) if targets_achieved else False
+        indicator_status = get_progress_status_from_score_eustat(indicator_score, target_achieved)
+
+    if self.cache_store is None:
+        self.cache_store = {}
+    self.cache_store[self.inid] = {'progress_status': indicator_status, 'score': floatNone(indicator_score)}
+    self.cache_store[self.inid].update(components)
+    return (indicator_score, indicator_status)
+
+
 # Monkey patching
 sdg.ProgressMeasure.SeriesProgress = SeriesProgressEustat
 sdg.ProgressMeasure.get_progress_status = get_progress_status_eustat
 sdg.ProgressMeasure.get_progress_status_from_score = get_progress_status_from_score_eustat
+sdg.ProgressMeasure.IndicatorProgress.get_indicator_progress = get_indicator_progress_eustat
 
 
 # ---------------------------------------------------------------------------
