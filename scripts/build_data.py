@@ -316,7 +316,7 @@ def get_progress_status_eustat(value, thresholds, target_achieved=False):
                 return "no_progress"
             else:
                 return "moderate_deterioration"
-        elif z < 0 and value >= -abs(y):
+        elif z < 0 and value >= -abs(x):
             # Solo método 1: entre -0.1% y -1% → moderate_deterioration
             return "moderate_deterioration"
         else:
