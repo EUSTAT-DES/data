@@ -856,23 +856,101 @@
   progress_status: significant_progress
   score: 5.0
 3-3-1:
-  progress_status: alcanzado
-  score: null
+  3-3-1:
+    base_value: 0.07
+    base_year: 2015.0
+    current_value: 0.06
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: 0.08754958834213818
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: 1.0
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
 3-3-2:
-  progress_status: progreso
-  score: null
+  3-3-2:
+    base_value: 11.8
+    base_year: 2015.0
+    current_value: 10.7
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: 0.10735270959624175
+    score: -2.0526970433489926
+    sign: 1
+    status: moderate_deterioration
+    target: 2.4
+    target_year: 2030.0
+  progress_status: moderate_deterioration
+  score: -2.0526970433489926
 3-3-3:
-  progress_status: alcanzado
-  score: null
+  3-3-3:
+    base_value: 0.001
+    base_year: 2015.0
+    current_value: 0.0
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: 1.7097138638119558
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: 1.0
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
 3-3-4:
-  progress_status: alcanzado
-  score: null
+  3-3-4:
+    base_value: 0.7
+    base_year: 2015.0
+    current_value: 0.5
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: 0.30161137207060595
+    score: -1.2432859497058084
+    sign: 1
+    status: moderate_deterioration
+    target: 0.1
+    target_year: 2030.0
+  progress_status: moderate_deterioration
+  score: -1.2432859497058084
 3-3-5:
   progress_status: notstarted
   score: null
 3-4-1:
-  progress_status: alcanzado
-  score: null
+  3-4-1 / Heriotza-tasa 100.000 biztanleko:
+    base_value: 651.4
+    base_year: 2015.0
+    current_value: 618.6
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: 0.005724113650851459
+    score: 1.4310284127128647
+    sign: 1
+    status: moderate_progress
+    target: null
+    target_year: 2030.0
+  3-4-1 / Hilkortasun goiztiarraren tasa (30-70 urte artekoa):
+    base_value: 9.6
+    base_year: 2015.0
+    current_value: 8.0
+    current_year: 2020.0
+    direction: -1
+    limit: null
+    progress_value: 1.3426666767668982
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: 6.4
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 3.215514206356432
 3-4-2:
   progress_status: retroceso
   score: null
