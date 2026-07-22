@@ -336,15 +336,15 @@ jarduerei dagozkienak dira: 3B1a, 3B1b, 3B2, 3B3, 3B4a, 3B4d, 3B4e, 3B4f, 3B4gi,
 #3-1-2,complete,alcanzado,,line,FUENTE.oceca,2026-06-09,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #3-2-1,complete,significant_progress,,line,FUENTE.oceca,2025-07-17,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #3-2-2,complete,significant_progress,,line,FUENTE.oceca,2025-07-17,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#3-3-1,complete,alcanzado,,line,FUENTE.oceca,2026-04-22,,"
+#3-3-1,complete,significant_progress,,line,FUENTE.oceca,2026-04-22,,"
 Adierazle horrek ez du kontuan hartzen infekzioaren sorlekua, hau da, infekzio autoktonoak (lurralde nazionalean 
 sortutako infekzioak) eta infekzio ez-autoktonoak (atzerrian sortutako infekzioak) hartzen dira kontuan.
 ","EAEn eskuragarri dagoen adierazleak ez ditu zorrotz betetzen Nazio Batuen metadatuak, ez baitu kuantifikatzen  infektatu gabeko biztanleriaren gaineko tasa, populazio osoarena baizik.",
-#3-3-2,complete,progreso,,line,FUENTE.oceca,2026-04-22,,Kasu autoktonoak dira gaixotasuna lurralde nazionalean harrapatu dutenak,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
-#3-3-3,complete,alcanzado,,line,FUENTE.oceca,2026-04-22,,Kasu autoktonoak dira gaixotasuna lurralde nazionalean harrapatu dutenak. Euskal Autonomia Erkidegoa ez da gaur egun malariaren transmisio-gunea. ,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
-#3-3-4,complete,alcanzado,,line,FUENTE.oceca,2026-04-22,,Kasu autoktonoak dira gaixotasuna lurralde nazionalean harrapatu dutenak.,"Eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du",
+#3-3-2,complete,moderate_deterioration,,line,FUENTE.oceca,2026-04-22,,Kasu autoktonoak dira gaixotasuna lurralde nazionalean harrapatu dutenak,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
+#3-3-3,complete,significant_progress,,line,FUENTE.oceca,2026-04-22,,Kasu autoktonoak dira gaixotasuna lurralde nazionalean harrapatu dutenak. Euskal Autonomia Erkidegoa ez da gaur egun malariaren transmisio-gunea. ,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
+#3-3-4,complete,moderate_deterioration,,line,FUENTE.oceca,2026-04-22,,Kasu autoktonoak dira gaixotasuna lurralde nazionalean harrapatu dutenak.,"Eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du",
 #3-3-5,notstarted,notstarted,,line,,,,,,
-#3-4-1,complete,alcanzado,True,line,"
+#3-4-1,complete,significant_progress,True,line,"
 ""Gaixotasun kardiobaskularrei, minbiziari, diabetesari edo arnas gaixotasun kronikoei egotzitako heriotza-tasa  100.000 biztanleko"" seriea autonomia-erkidegoetako estatistika-organo nagusien  arteko metodologia harmonizatua erabiliz kalkulatu da. ",2025-08-04,,"
 Gaixotasunen Nazioarteko Sailkapenaren kode hauek erabiltzen dira transmititu ezin den gaixotasun bakoitzerako: 
 - gaixotasun kardiobaskularrak (GNS-10eko I00-I99 kodeak)
