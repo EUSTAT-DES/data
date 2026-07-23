@@ -149,15 +149,15 @@
     current_value: 100.0
     current_year: 2024.0
     direction: 1
-    limit: null
+    limit: 100
     progress_value: 0.0
-    score: 0.0
+    score: 5.0
     sign: 1
-    status: no_progress
+    status: significant_progress
     target: null
     target_year: 2030.0
-  progress_status: moderate_progress
-  score: 0.47691599932039863
+  progress_status: significant_progress
+  score: 2.976915999320399
 1-a-1:
   progress_status: notapplicable
   score: null
