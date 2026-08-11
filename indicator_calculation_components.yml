@@ -14,6 +14,7 @@
     target_year: 2030.0
   progress_status: significant_deterioration
   score: -5.0
+  target_variant: con_target
 1-2-1:
   1-2-1:
     base_value: 16.4
@@ -30,6 +31,7 @@
     target_year: 2030.0
   progress_status: significant_deterioration
   score: -2.58743841144272
+  target_variant: con_target
 1-2-2:
   1-2-2:
     base_value: 20.6
@@ -46,6 +48,7 @@
     target_year: 2030.0
   progress_status: moderate_deterioration
   score: -2.5
+  target_variant: con_target
 1-3-1:
   1-3-1 / Erretirorako legezko adina gainditu eta pentsioa jasotzen duten biztanleen proportzioa:
     base_value: 82.7
@@ -75,6 +78,7 @@
     target_year: 2030.0
   progress_status: moderate_progress
   score: 2.454581189544958
+  target_variant: sin_target
 1-4-1:
   1-4-1 / Bainugela duten etxebizitzen proportzioa:
     base_value: 99.6
@@ -104,9 +108,11 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 4.823777791076375
+  target_variant: con_target
 1-4-2:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 1-5-1:
   1-5-1:
     base_value: 0.09
@@ -123,12 +129,15 @@
     target_year: 2030.0
   progress_status: significant_deterioration
   score: -5.0
+  target_variant: sin_target
 1-5-2:
   progress_status: noevaluado
   score: null
+  target_variant: sin_target
 1-5-3:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 1-5-4:
   1-5-4 / Larrialdietarako udal-plan bat duten udalerrien proportzioa:
     base_value: 34.13
@@ -158,9 +167,11 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 2.976915999320399
+  target_variant: sin_target
 1-a-1:
   progress_status: notapplicable
   score: null
+  target_variant: sin_target
 1-a-2:
   1-a-2:
     base_value: 69.9
@@ -177,99 +188,131 @@
     target_year: 2030.0
   progress_status: no_progress
   score: 0.17838078342857777
+  target_variant: sin_target
 1-b-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 10-1-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 10-2-1:
   progress_status: progreso
   score: null
+  target_variant: sin_target
 10-3-1:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 10-4-1:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 10-4-2:
   progress_status: noevaluado
   score: null
+  target_variant: sin_target
 10-5-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 10-6-1:
   progress_status: notapplicable
   score: null
+  target_variant: sin_target
 10-7-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 10-7-2:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 10-7-3:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 10-7-4:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 10-a-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 10-b-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 10-c-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 11-1-1:
   progress_status: progreso
   score: null
+  target_variant: sin_target
 11-2-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 11-3-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 11-3-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 11-4-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 11-5-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 11-5-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 11-5-3:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 11-6-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 11-6-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 11-7-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 11-7-2:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 11-a-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 11-b-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 11-b-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 11-c-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 12-1-1:
   12-1-1:
     base_value: null
@@ -286,249 +329,331 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
+  target_variant: sin_target
 12-2-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 12-2-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 12-3-1:
   progress_status: noevaluado
   score: null
+  target_variant: sin_target
 12-4-1:
   progress_status: notapplicable
   score: null
+  target_variant: sin_target
 12-4-2:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 12-5-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 12-6-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 12-7-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 12-8-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 12-a-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 12-b-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 12-c-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 13-1-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 13-1-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 13-1-3:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 13-2-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 13-2-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 13-3-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 13-a-1:
   progress_status: notapplicable
   score: null
+  target_variant: sin_target
 13-b-1:
   progress_status: notapplicable
   score: null
+  target_variant: sin_target
 14-1-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 14-2-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 14-3-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 14-4-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 14-5-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 14-6-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 14-7-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 14-a-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 14-b-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 14-c-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 15-1-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 15-1-2:
   progress_status: noevaluado
   score: null
+  target_variant: sin_target
 15-1-E1:
   progress_status: progreso
   score: null
+  target_variant: sin_target
 15-2-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 15-3-1:
   progress_status: progreso
   score: null
+  target_variant: sin_target
 15-4-1:
   progress_status: noevaluado
   score: null
+  target_variant: sin_target
 15-4-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 15-5-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 15-6-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 15-7-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 15-8-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 15-9-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 15-a-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 15-b-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 15-c-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 16-1-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 16-1-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 16-1-3:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 16-1-4:
   progress_status: progreso
   score: null
+  target_variant: sin_target
 16-1-E1:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 16-10-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 16-10-2:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 16-2-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 16-2-2:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 16-2-3:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 16-3-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 16-3-2:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 16-3-3:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 16-4-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 16-4-2:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 16-5-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 16-5-2:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 16-6-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 16-6-2:
   progress_status: progreso
   score: null
+  target_variant: sin_target
 16-7-1:
   progress_status: progreso
   score: null
+  target_variant: sin_target
 16-7-2:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 16-8-1:
   progress_status: notapplicable
   score: null
+  target_variant: sin_target
 16-9-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 16-a-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 16-b-1:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 17-1-1:
   progress_status: progreso
   score: null
+  target_variant: sin_target
 17-1-2:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 17-10-1:
   progress_status: notapplicable
   score: null
+  target_variant: sin_target
 17-11-1:
   progress_status: notapplicable
   score: null
+  target_variant: sin_target
 17-12-1:
   progress_status: notapplicable
   score: null
+  target_variant: sin_target
 17-13-1:
   progress_status: noevaluado
   score: null
+  target_variant: sin_target
 17-14-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 17-15-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 17-16-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 17-17-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 17-18-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 17-18-2:
   17-18-2:
     base_value: null
@@ -545,45 +670,59 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
+  target_variant: sin_target
 17-18-3:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 17-19-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 17-19-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 17-2-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 17-3-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 17-3-2:
   progress_status: noevaluado
   score: null
+  target_variant: sin_target
 17-4-1:
   progress_status: notapplicable
   score: null
+  target_variant: sin_target
 17-5-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 17-6-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 17-7-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 17-8-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 17-9-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 2-1-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 2-1-2:
   2-1-2 / Elikagaien segurtasun-gabezia larriaren edo oso larriaren prebalentzia:
     base_value: 6.6
@@ -613,9 +752,11 @@
     target_year: 2030.0
   progress_status: moderate_deterioration
   score: -2.4748006069745996
+  target_variant: con_target
 2-2-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 2-2-2:
   2-2-2:
     base_value: 35.6
@@ -632,12 +773,15 @@
     target_year: 2030.0
   progress_status: moderate_deterioration
   score: -0.34892395654895214
+  target_variant: sin_target
 2-2-3:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 2-2-4:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 2-2-E1:
   2-2-E1:
     base_value: 13.0
@@ -654,6 +798,7 @@
     target_year: 2030.0
   progress_status: moderate_deterioration
   score: -2.0670533880756126
+  target_variant: sin_target
 2-3-1:
   2-3-1 / Elikagaien ekoizle handien produktibitatea:
     base_value: 43924.4
@@ -683,6 +828,7 @@
     target_year: 2030.0
   progress_status: moderate_progress
   score: 1.505927974811756
+  target_variant: mixto
 2-3-2:
   2-3-2 / Elikagaien ekoizle handien batez besteko diru-sarrerak:
     base_value: 13529.1
@@ -712,6 +858,7 @@
     target_year: 2030.0
   progress_status: no_progress
   score: 0.0
+  target_variant: mixto
 2-4-1:
   2-4-1 / Hektarea bakoitzeko nekazaritza-ekoizpenaren balio onargarria edo desiragarria lortu duen nekazaritza-azalerare...:
     base_value: 30.21
@@ -741,6 +888,7 @@
     target_year: 2030.0
   progress_status: moderate_deterioration
   score: -1.6218356713521698
+  target_variant: sin_target
 2-4-E1:
   2-4-E1:
     base_value: 1.3
@@ -757,6 +905,7 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
+  target_variant: sin_target
 2-4-E2:
   2-4-E2 / Nekazaritza eta abeltzaintzako amoniako-isuriak hektareako:
     base_value: 19.1
@@ -786,24 +935,31 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 4.885547204626914
+  target_variant: sin_target
 2-5-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 2-5-2:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 2-a-1:
   progress_status: noevaluado
   score: null
+  target_variant: sin_target
 2-a-2:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 2-b-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 2-c-1:
   progress_status: noevaluado
   score: null
+  target_variant: sin_target
 3-1-1:
   3-1-1:
     base_value: 5.3
@@ -820,6 +976,7 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
+  target_variant: con_target
 3-1-2:
   3-1-2:
     base_value: 99.88
@@ -836,6 +993,7 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
+  target_variant: con_target
 3-2-1:
   3-2-1:
     base_value: 3.4
@@ -852,6 +1010,7 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
+  target_variant: con_target
 3-2-2:
   3-2-2:
     base_value: 1.7
@@ -868,6 +1027,7 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
+  target_variant: con_target
 3-3-1:
   3-3-1:
     base_value: 0.07
@@ -884,6 +1044,7 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
+  target_variant: con_target
 3-3-2:
   3-3-2:
     base_value: 11.8
@@ -900,6 +1061,7 @@
     target_year: 2030.0
   progress_status: moderate_deterioration
   score: -2.0526970433489926
+  target_variant: con_target
 3-3-3:
   3-3-3:
     base_value: 0.001
@@ -916,6 +1078,7 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
+  target_variant: con_target
 3-3-4:
   3-3-4:
     base_value: 0.7
@@ -932,9 +1095,11 @@
     target_year: 2030.0
   progress_status: moderate_deterioration
   score: -1.2432859497058084
+  target_variant: con_target
 3-3-5:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 3-4-1:
   3-4-1 / Heriotza-tasa 100.000 biztanleko:
     base_value: 651.4
@@ -964,21 +1129,27 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 3.215514206356432
+  target_variant: mixto
 3-4-2:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 3-4-E1:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 3-4-E2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 3-5-1:
   progress_status: noevaluado
   score: null
+  target_variant: sin_target
 3-5-2:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 3-6-1:
   3-6-1:
     base_value: 3.5
@@ -995,27 +1166,35 @@
     target_year: 2030.0
   progress_status: moderate_deterioration
   score: -0.2404637397196847
+  target_variant: con_target
 3-7-1:
   progress_status: noevaluado
   score: null
+  target_variant: sin_target
 3-7-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 3-8-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 3-8-2:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 3-9-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 3-9-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 3-9-3:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 3-a-1:
   3-a-1:
     base_value: 21.3
@@ -1032,30 +1211,39 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
+  target_variant: sin_target
 3-b-1:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 3-b-2:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 3-b-3:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 3-c-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 3-d-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 3-d-2:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 4-1-1:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 4-1-2:
   progress_status: progreso
   score: null
+  target_variant: sin_target
 4-1-E1:
   4-1-E1:
     base_value: 8.9
@@ -1072,18 +1260,23 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
+  target_variant: con_target
 4-2-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 4-2-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 4-3-1:
   progress_status: progreso
   score: null
+  target_variant: sin_target
 4-4-1:
   progress_status: progreso
   score: null
+  target_variant: sin_target
 4-5-1:
   4-5-1 / Bizileku-parekotasunaren indizea hezkuntza-jarduerak egitean (10.000 biztanletik gorako eta beherako udalerriak):
     base_value: 1.0989010989010988
@@ -1139,6 +1332,7 @@
     target_year: 2030.0
   progress_status: no_progress
   score: 0.05380297443517564
+  target_variant: con_target
 4-6-1:
   4-6-1:
     base_value: null
@@ -1155,33 +1349,43 @@
     target_year: 2030.0
   progress_status: not_available
   score: null
+  target_variant: sin_target
 4-7-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 4-a-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 4-b-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 4-c-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 5-1-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 5-2-1:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 5-2-2:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 5-3-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 5-3-2:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 5-4-1:
   5-4-1:
     base_value: 1.8983050847457628
@@ -1198,6 +1402,7 @@
     target_year: 2030.0
   progress_status: moderate_progress
   score: 0.6166877674817797
+  target_variant: con_target
 5-5-1:
   5-5-1 / Emakumezkoen proportzioa Batzar Nagusietako batzarkideen artean:
     base_value: 48.1
@@ -1279,60 +1484,79 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 3.8344865878580023
+  target_variant: sin_target
 5-5-2:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 5-6-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 5-6-2:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 5-a-1:
   progress_status: progreso
   score: null
+  target_variant: sin_target
 5-a-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 5-b-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 5-c-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 6-1-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 6-2-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 6-3-1:
   progress_status: progreso
   score: null
+  target_variant: sin_target
 6-3-2:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 6-4-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 6-4-2:
   progress_status: noevaluado
   score: null
+  target_variant: sin_target
 6-5-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 6-5-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 6-6-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 6-a-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 6-b-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 7-1-1:
   7-1-1:
     base_value: 100.0
@@ -1349,6 +1573,7 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
+  target_variant: con_target
 7-1-2:
   7-1-2:
     base_value: 100.0
@@ -1365,6 +1590,7 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
+  target_variant: con_target
 7-2-1:
   7-2-1:
     base_value: 14.5
@@ -1381,39 +1607,51 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
+  target_variant: sin_target
 7-3-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 7-a-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 7-b-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 8-1-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 8-10-1:
   progress_status: noevaluado
   score: null
+  target_variant: sin_target
 8-10-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 8-2-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 8-3-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 8-4-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 8-4-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 8-5-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 8-5-2:
   8-5-2:
     base_value: 15.7
@@ -1430,69 +1668,91 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
+  target_variant: sin_target
 8-5-E1:
   progress_status: progreso
   score: null
+  target_variant: sin_target
 8-6-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 8-7-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 8-8-1:
   progress_status: progreso
   score: null
+  target_variant: sin_target
 8-8-2:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 8-9-1:
   progress_status: noevaluado
   score: null
+  target_variant: sin_target
 8-9-2:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 8-a-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 8-b-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 9-1-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 9-1-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 9-2-1:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 9-2-2:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 9-3-1:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 9-3-2:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 9-4-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 9-4-E1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 9-5-1:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 9-5-2:
   progress_status: alcanzado
   score: null
+  target_variant: sin_target
 9-a-1:
   progress_status: notstarted
   score: null
+  target_variant: sin_target
 9-b-1:
   progress_status: retroceso
   score: null
+  target_variant: sin_target
 9-c-1:
   9-c-1 / 3,5G sare mugikorrez estalitako etxeen proportzioa:
     base_value: 99.89
@@ -1535,39 +1795,52 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
+  target_variant: sin_target
 OCECA-1-2-1-1A:
   progress_status: ''
   score: null
+  target_variant: sin_target
 OCECA-1-2-1-2A:
   progress_status: ''
   score: null
+  target_variant: sin_target
 OCECA-1-2-1-2B:
   progress_status: ''
   score: null
+  target_variant: sin_target
 OCECA-1-2-2-1A:
   progress_status: ''
   score: null
+  target_variant: sin_target
 OCECA-1-a-2-1:
   progress_status: ''
   score: null
+  target_variant: sin_target
 OCECA-1-a-2-2:
   progress_status: ''
   score: null
+  target_variant: sin_target
 OCECA-10-2-1-1A:
   progress_status: ''
   score: null
+  target_variant: sin_target
 OCECA-6-1-1:
   progress_status: ''
   score: null
+  target_variant: sin_target
 OCECA-8-9-1-3AB4AB:
   progress_status: ''
   score: null
+  target_variant: sin_target
 OCECA-8-9-1-3CD:
   progress_status: ''
   score: null
+  target_variant: sin_target
 OCECA-9-4-1-5:
   progress_status: ''
   score: null
+  target_variant: sin_target
 OCECA-9-4-1-6:
   progress_status: ''
   score: null
+  target_variant: sin_target
