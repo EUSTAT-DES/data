@@ -41,4 +41,19 @@ territorio: Lurraldea
 sexo: Sexua
 municipio: Udalerria
 europeo: Europarra
+# Aurrerapen-kategoriak target aldaerarekin
+significant_progress_sin_target: Aurrerapen nabarmena
+significant_progress_mixto: Aurrerapen nabarmena / Xedea lortuta edo lortzeko bidean
+significant_progress_con_target: Xedea lortuta edo lortzeko bidean
+moderate_progress_sin_target: Neurrizko aurrerapena
+moderate_progress_mixto: Neurrizko aurrerapena
+moderate_progress_con_target: Neurrizko aurrerapena xederantz
+no_progress_sin_target: Geldialdia
+no_progress_mixto: Geldialdia
+moderate_deterioration_sin_target: Neurrizko atzerakada
+moderate_deterioration_mixto: Neurrizko atzerakada / Aurrerapen eskasegia xedea lortzeko
+moderate_deterioration_con_target: Aurrerapen eskasegia xedea lortzeko
+significant_deterioration_sin_target: Atzerakada nabarmena
+significant_deterioration_mixto: Atzerakada nabarmena / Atzerakada xedearekiko
+significant_deterioration_con_target: Atzerakada xedearekiko
 

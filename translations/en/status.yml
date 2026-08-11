@@ -44,3 +44,18 @@ territorio: 'Province'
 sexo: Sex
 municipio: Municipality
 europeo: European indicator
+# Progress categories with target variant
+significant_progress_sin_target: Significant progress
+significant_progress_mixto: Significant progress / Target met or on track
+significant_progress_con_target: Target met or on track
+moderate_progress_sin_target: Moderate progress
+moderate_progress_mixto: Moderate progress
+moderate_progress_con_target: Moderate progress towards target
+no_progress_sin_target: Stagnation
+no_progress_mixto: Stagnation
+moderate_deterioration_sin_target: Moderate regression
+moderate_deterioration_mixto: Moderate regression / Insufficient progress towards target
+moderate_deterioration_con_target: Insufficient progress towards target
+significant_deterioration_sin_target: Significant regression
+significant_deterioration_mixto: Significant regression / Movement away from target
+significant_deterioration_con_target: Movement away from target

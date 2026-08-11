@@ -41,4 +41,18 @@ territorio: 'Territorio histórico'
 sexo: Sexo
 municipio: Municipio
 europeo: Indicador europeo
-    
+# Categorías de progreso con variante target
+significant_progress_sin_target: Progreso significativo
+significant_progress_mixto: Progreso significativo / Meta alcanzada o en vías de alcanzarla
+significant_progress_con_target: Meta alcanzada o en vías de alcanzarla
+moderate_progress_sin_target: Progreso moderado
+moderate_progress_mixto: Progreso moderado
+moderate_progress_con_target: Progreso moderado hacia la meta
+no_progress_sin_target: Estancamiento
+no_progress_mixto: Estancamiento
+moderate_deterioration_sin_target: Retroceso moderado
+moderate_deterioration_mixto: Retroceso moderado / Progreso insuficiente para alcanzar meta
+moderate_deterioration_con_target: Progreso insuficiente para alcanzar la meta
+significant_deterioration_sin_target: Retroceso significativo
+significant_deterioration_mixto: Retroceso significativo / Retroceso con respecto a la meta
+significant_deterioration_con_target: Retroceso con respecto a la meta

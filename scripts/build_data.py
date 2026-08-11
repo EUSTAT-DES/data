@@ -325,6 +325,22 @@ def get_progress_status_eustat(value, thresholds, target_achieved=False):
     return "not_available"
 
 
+def get_target_variant(opts):
+    """Detecta si el indicador es sin_target, con_target o mixto.
+    opts: lista de dicts de progress_calculation_options.
+    """
+    if not opts:
+        return 'sin_target'
+    has_target = [bool(o.get('target') is not None) for o in opts if isinstance(o, dict)]
+    if not has_target:
+        return 'sin_target'
+    if all(has_target):
+        return 'con_target'
+    if not any(has_target):
+        return 'sin_target'
+    return 'mixto'
+
+
 # Función personalizada: status desde score agregado (nivel indicador)
 def get_progress_status_from_score_eustat(score, target_achieved=False):
     """Eurostat: mapeo score [-5,+5] a 5 estados con banda neutral ±0.25."""
@@ -354,13 +370,14 @@ def get_indicator_progress_eustat(self):
         result = (None, indicator_status)
         if self.cache_store is None:
             self.cache_store = {}
-        self.cache_store[self.inid] = {'progress_status': indicator_status, 'score': None}
+        self.cache_store[self.inid] = {'progress_status': indicator_status, 'score': None, 'target_variant': 'sin_target'}
         return result
 
     if self.cache_store is not None and self.inid in self.cache_store:
         return (self.cache_store[self.inid]['score'], self.cache_store[self.inid]['progress_status'])
 
     opts = self.get_progress_calculation_options()
+    target_variant = get_target_variant(opts)
     # Una sola serie: sin grupos y sin múltiples opciones
     if len(opts) == 1 and not opts[0].get('group'):
         series = sdg.ProgressMeasure.SeriesProgress(self.indicator, opts[0], logging=self.logging)
@@ -378,7 +395,7 @@ def get_indicator_progress_eustat(self):
 
     if self.cache_store is None:
         self.cache_store = {}
-    self.cache_store[self.inid] = {'progress_status': indicator_status, 'score': floatNone(indicator_score)}
+    self.cache_store[self.inid] = {'progress_status': indicator_status, 'score': floatNone(indicator_score), 'target_variant': target_variant}
     self.cache_store[self.inid].update(components)
     return (indicator_score, indicator_status)
 
