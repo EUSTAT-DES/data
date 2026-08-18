@@ -581,6 +581,7 @@ try:
     }
 
     counts = defaultdict(lambda: defaultdict(int))
+    indicator_rows = []
     for inid, meta in all_meta.items():
         goal = str(meta.get('goal_number', '')).strip()
         status = meta.get('progress_status', 'not_available')
@@ -589,6 +590,7 @@ try:
             continue
         counts[goal][status] += 1
         counts['overall'][status] += 1
+        indicator_rows.append({'indicator': inid, 'goal': goal, 'status': status})
 
     rows = []
     goal_order = ['overall'] + sorted([g for g in counts if g != 'overall'], key=int)
@@ -607,5 +609,14 @@ try:
         writer.writerows(rows)
 
     print(f"[EUSTAT] >>> progreso.csv generado: {len(rows)} filas <<<")
+
+    # Generar progreso_indicadores.csv: una fila por indicador con su estado y objetivo
+    indicator_rows_sorted = sorted(indicator_rows, key=lambda x: (int(x['goal']), x['indicator']))
+    with open('_site/progreso_indicadores.csv', 'w', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=['indicator', 'goal', 'status'])
+        writer.writeheader()
+        writer.writerows(indicator_rows_sorted)
+
+    print(f"[EUSTAT] >>> progreso_indicadores.csv generado: {len(indicator_rows_sorted)} filas <<<")
 except Exception as e:
     print(f"[EUSTAT] !!! Error generando progreso.csv: {e} !!!")
