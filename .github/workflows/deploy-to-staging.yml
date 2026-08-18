@@ -45,6 +45,8 @@ jobs:
         python scripts/build_data.py
     - name: Copy progreso.csv to repo root for versioning
       run: cp _site/progreso.csv progreso.csv
+    - name: Copy progreso_indicadores.csv to repo root for versioning
+      run: cp _site/progreso_indicadores.csv progreso_indicadores.csv
     - name: Check if there are any changes to files
       id: verify_diff
       run: |
