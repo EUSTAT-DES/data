@@ -47,6 +47,8 @@ jobs:
       run: cp _site/progreso.csv progreso.csv
     - name: Copy progreso_indicadores.csv to repo root for versioning
       run: cp _site/progreso_indicadores.csv progreso_indicadores.csv
+    - name: Copy tabla_resumen.csv to repo root for versioning
+      run: cp _site/tabla_resumen.csv tabla_resumen.csv
     - name: Check if there are any changes to files
       id: verify_diff
       run: |

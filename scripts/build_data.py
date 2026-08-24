@@ -556,6 +556,339 @@ print('[EUSTAT] >>> Monkey patch sources report ACTIVO')
 
 # ---------------------------------------------------------------------------
 
+
+def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='data',
+                            translations_dir='translations/es',
+                            output_path='_site/tabla_resumen.csv'):
+    """Genera tabla_resumen.csv: una fila por serie (o por indicador si tiene serie única).
+
+    Columnas (según modelo acordado con Eustat 23/07/2026):
+      NÚM OBJETIVO, NOMBRE OBJETIVO, NÚM META, NOMBRE META,
+      NÚM INDICADOR, NOMBRE INDICADOR NNUU, INDICADOR DISPONIBLE,
+      SERIE, NOMBRE SERIE, REPORTING_STATUS,
+      BOOLEANO, GOLDILOCK, INDICADOR NO ESTADÍSTICO, TIPO GRÁFICO, MAPA,
+      INDICADORES RELACIONADOS, DESAGREGACIÓN SEXO, DESAGREGACIÓN TH,
+      DESAGREGACIÓN MUNICIPIO, AÑO INICIAL, PERIODICIDAD, TEXTO OCECA,
+      DIRECCIÓN DESEADA, PROGRESO AUTOMÁTICO,
+      AÑO BASE PROGRESO, ÚLTIMO AÑO, ÚLTIMO DATO, TARGET, LIMIT, SCORE,
+      FECHA ÚLTIMA ACTUALIZACIÓN DATOS
+
+    Casos especiales:
+      - reporting_status = not_started → solo columnas 1-6, resto vacío
+      - serie única → columna SERIE y NOMBRE SERIE vacías
+      - no estadístico (data_non_statistical=si) → sin datos de progreso (cols 24-30)
+    """
+    # --- Cargar traducciones ---
+    def load_yaml(path):
+        try:
+            with open(path, encoding='utf-8') as f:
+                return yaml.safe_load(f) or {}
+        except Exception:
+            return {}
+
+    t_goals      = load_yaml(f'{translations_dir}/global_goals.yml')
+    t_targets    = load_yaml(f'{translations_dir}/global_targets.yml')
+    t_indicators = load_yaml(f'{translations_dir}/global_indicators.yml')
+    t_grafico    = load_yaml(f'{translations_dir}/GRAFICO.yml')
+    t_data       = load_yaml(f'{translations_dir}/data.yml')
+    t_meta       = load_yaml(f'{translations_dir}/meta_largo.yml')
+
+    def goal_name(num):
+        """Devuelve el nombre largo del objetivo a partir de su número (ej: '1')."""
+        return t_goals.get(f'{num}-title', '')
+
+    def target_name(num):
+        """Devuelve el nombre largo de la meta (ej: '1-5-title')."""
+        key = num.replace('.', '-') + '-title'
+        return t_targets.get(key, '')
+
+    def indicator_onu_name(inid):
+        """Nombre NNUU del indicador (ej: '1-5-4-title')."""
+        key = inid.replace('.', '-') + '-title'
+        return t_indicators.get(key, '')
+
+    def indicador_disponible(config, meta):
+        """Resuelve la clave indicador_disponible del meta YAML contra GRAFICO.yml."""
+        raw = meta.get('indicador_disponible', '')
+        if not raw:
+            return ''
+        # Formato: "GRAFICO.1-5-4-titulo" → resolver contra t_grafico
+        if isinstance(raw, str) and raw.startswith('GRAFICO.'):
+            clave = raw[len('GRAFICO.'):]
+            return t_grafico.get(clave, raw)
+        # Puede ser ya texto libre (indicadores no estadísticos con texto largo)
+        return raw
+
+    def serie_nombre(serie_code):
+        """Busca el nombre de la serie en data.yml."""
+        return t_data.get(serie_code, '')
+
+    def bool_val(v):
+        """Convierte booleano Python o string a 'si'/'no'."""
+        if isinstance(v, bool):
+            return 'si' if v else 'no'
+        if isinstance(v, str):
+            return 'si' if v.lower() in ('true', 'si', 'yes', '1') else 'no'
+        return 'no'
+
+    def meta_from_all(inid_str):
+        """Devuelve el bloque de metadatos del all.json para un indicador."""
+        return all_meta.get(inid_str, {})
+
+    # --- Leer series disponibles de cada CSV de datos ---
+    def get_series_for_indicator(inid):
+        """Devuelve lista de códigos de serie del CSV de datos.
+        Si no hay columna Series → serie única → lista vacía (se representará con fila vacía).
+        """
+        csv_path = os.path.join(data_dir, f'indicator_{inid}.csv')
+        if not os.path.exists(csv_path):
+            return []
+        try:
+            df = pd.read_csv(csv_path, dtype=str, nrows=5)
+            if 'Series' in df.columns:
+                series = df['Series'].dropna().unique().tolist()
+                return [s for s in series if s.strip()]
+            return []  # serie única
+        except Exception:
+            return []
+
+    # --- Construir filas ---
+    FIELDNAMES = [
+        'NÚM OBJETIVO', 'NOMBRE OBJETIVO',
+        'NÚM META', 'NOMBRE META',
+        'NÚM INDICADOR', 'NOMBRE INDICADOR NNUU',
+        'INDICADOR DISPONIBLE',
+        'SERIE', 'NOMBRE SERIE',
+        'REPORTING_STATUS',
+        'BOOLEANO', 'GOLDILOCK', 'INDICADOR NO ESTADÍSTICO',
+        'TIPO GRÁFICO', 'MAPA', 'INDICADORES RELACIONADOS',
+        'DESAGREGACIÓN SEXO', 'DESAGREGACIÓN TH', 'DESAGREGACIÓN MUNICIPIO',
+        'AÑO INICIAL', 'PERIODICIDAD', 'TEXTO OCECA',
+        'DIRECCIÓN DESEADA', 'PROGRESO AUTOMÁTICO',
+        'AÑO BASE PROGRESO', 'ÚLTIMO AÑO', 'ÚLTIMO DATO',
+        'TARGET', 'LIMIT', 'SCORE',
+        'FECHA ÚLTIMA ACTUALIZACIÓN DATOS',
+    ]
+
+    rows = []
+
+    # Ordenar indicadores numéricamente (ej: 1.1.1, 1.1.2, ..., 17.19.2)
+    def sort_key(inid):
+        parts = inid.replace('.', '-').split('-')
+        nums = []
+        for p in parts:
+            try:
+                nums.append(int(p))
+            except ValueError:
+                nums.append(ord(p[0]) + 100 if p else 0)
+        return nums
+
+    inid_list = sorted(all_meta.keys(), key=sort_key)
+
+    for inid in inid_list:
+        meta = all_meta[inid]
+
+        # Extraer número de objetivo y meta del inid (ej: '1.5.4' → goal='1', target='1.5')
+        parts = inid.split('.')
+        goal_num = parts[0] if parts else ''
+        target_num = '.'.join(parts[:2]) if len(parts) >= 2 else ''
+
+        g_name   = goal_name(goal_num)
+        t_name   = target_name(target_num)
+        i_name   = indicator_onu_name(inid)
+
+        reporting_status = meta.get('reporting_status', '')
+
+        # Cargar indicator-config
+        config_path = os.path.join(config_dir, inid.replace('.', '-') + '.yml')
+        config = {}
+        if os.path.exists(config_path):
+            with open(config_path, encoding='utf-8') as f:
+                config = yaml.safe_load(f) or {}
+
+        # Cargar meta YAML (para indicador_disponible y periodicidad)
+        meta_yaml_path = os.path.join('meta', inid.replace('.', '-') + '.yml')
+        meta_yaml = {}
+        if os.path.exists(meta_yaml_path):
+            with open(meta_yaml_path, encoding='utf-8') as f:
+                meta_yaml = yaml.safe_load(f) or {}
+
+        ind_disponible = indicador_disponible(config, meta_yaml)
+
+        # --- Fila base con campos de identificación ---
+        base = {
+            'NÚM OBJETIVO':        goal_num,
+            'NOMBRE OBJETIVO':     g_name,
+            'NÚM META':            target_num,
+            'NOMBRE META':         t_name,
+            'NÚM INDICADOR':       inid,
+            'NOMBRE INDICADOR NNUU': i_name,
+            'INDICADOR DISPONIBLE': ind_disponible,
+        }
+
+        # Caso not_started: solo identificación
+        if reporting_status == 'not_started':
+            row = {f: '' for f in FIELDNAMES}
+            row.update(base)
+            row['REPORTING_STATUS'] = reporting_status
+            rows.append(row)
+            continue
+
+        # --- Campos de indicator-config ---
+        opts = config.get('progress_calculation_options', [])
+        is_boolean  = any(isinstance(o, dict) and o.get('progress_boolean') for o in opts)
+        is_goldilocks = any(isinstance(o, dict) and 'goldilocks_transform' in o for o in opts)
+        is_non_statistical = config.get('data_non_statistical', False)
+
+        graph_type   = config.get('graph_type', '')
+        show_map     = bool_val(config.get('data_show_map', False))
+        related      = config.get('embedded_feature_tab_title', '')
+
+        # Desagregaciones: se detectan leyendo las columnas del CSV de datos
+        csv_path = os.path.join(data_dir, f'indicator_{inid.replace(".", "-")}.csv')
+        has_sexo       = 'no'
+        has_territorio = 'no'
+        has_municipio  = 'no'
+        if os.path.exists(csv_path):
+            try:
+                df_cols = pd.read_csv(csv_path, dtype=str, nrows=1)
+                cols_lower = [c.lower() for c in df_cols.columns]
+                has_sexo       = 'si' if 'sexo' in cols_lower else 'no'
+                has_territorio = 'si' if 'territorio' in cols_lower else 'no'
+                has_municipio  = 'si' if 'municipio' in cols_lower else 'no'
+            except Exception:
+                pass
+
+        # Periodicidad: viene del meta YAML como clave FUENTE.*
+        t_fuente = load_yaml(f'{translations_dir}/FUENTE.yml') if not hasattr(generate_tabla_resumen, '_t_fuente') else generate_tabla_resumen._t_fuente
+        generate_tabla_resumen._t_fuente = t_fuente
+
+        def resolve_fuente(key):
+            if isinstance(key, str) and key.startswith('FUENTE.'):
+                return t_fuente.get(key[len('FUENTE.'):], key)
+            return key or ''
+
+        periodicidad_raw = meta_yaml.get('periodicidad', '')
+        periodicidad = resolve_fuente(periodicidad_raw)
+
+        texto_oceca_raw = meta_yaml.get('texto_oceca', '')
+        texto_oceca = 'si' if texto_oceca_raw and texto_oceca_raw.strip() not in ('', 'FUENTE.oceca') else 'no'
+        # Si tiene la clave FUENTE.oceca, resolver y comprobar
+        if texto_oceca_raw == 'FUENTE.oceca':
+            oceca_val = t_fuente.get('oceca', '')
+            texto_oceca = 'si' if oceca_val and oceca_val.strip() else 'no'
+
+        ano_inicial = config.get('data_start_values', '')
+        # data_start_values es una lista de dicts; el año inicial viene del primer dato del CSV
+        if os.path.exists(csv_path):
+            try:
+                df_years = pd.read_csv(csv_path, dtype=str, usecols=['Year'])
+                ano_inicial = df_years['Year'].dropna().astype(int).min() if not df_years.empty else ''
+            except Exception:
+                ano_inicial = ''
+
+        fecha_actualizacion = config.get('national_data_updated_date', meta_yaml.get('national_data_updated_date', ''))
+
+        config_fields = {
+            'REPORTING_STATUS':           reporting_status,
+            'BOOLEANO':                   bool_val(is_boolean),
+            'GOLDILOCK':                  bool_val(is_goldilocks),
+            'INDICADOR NO ESTADÍSTICO':   bool_val(is_non_statistical),
+            'TIPO GRÁFICO':               graph_type,
+            'MAPA':                       show_map,
+            'INDICADORES RELACIONADOS':   related,
+            'DESAGREGACIÓN SEXO':         has_sexo,
+            'DESAGREGACIÓN TH':           has_territorio,
+            'DESAGREGACIÓN MUNICIPIO':    has_municipio,
+            'AÑO INICIAL':                ano_inicial,
+            'PERIODICIDAD':               periodicidad,
+            'TEXTO OCECA':                texto_oceca,
+            'FECHA ÚLTIMA ACTUALIZACIÓN DATOS': fecha_actualizacion,
+        }
+
+        # --- Series ---
+        series_list = get_series_for_indicator(inid.replace('.', '-'))
+        # serie única → una fila con SERIE y NOMBRE SERIE vacíos
+        if not series_list:
+            series_list = [None]
+
+        for serie_code in series_list:
+            row = {f: '' for f in FIELDNAMES}
+            row.update(base)
+            row.update(config_fields)
+
+            # SERIE y NOMBRE SERIE
+            if serie_code:
+                row['SERIE']       = serie_code
+                row['NOMBRE SERIE'] = serie_nombre(serie_code)
+            # si serie_code es None → ambas vacías (serie única)
+
+            # --- Datos de progreso ---
+            if not is_non_statistical and config.get('auto_progress_calculation'):
+                # Los datos de progreso vienen del cache_store guardado en all.json
+                # Estructura: all_meta[inid] contiene los components por serie (tag = inid o serie_code)
+                tag = serie_code if serie_code else inid.replace('.', '-')
+                serie_data = meta.get(tag, {})
+
+                # Si no hay entrada por serie_code, buscar por el inid (serie única)
+                if not serie_data and not serie_code:
+                    tag = inid.replace('.', '-')
+                    serie_data = meta.get(tag, {})
+
+                # Dirección: viene de progress_calculation_options
+                direction = ''
+                for opt in opts:
+                    if not isinstance(opt, dict):
+                        continue
+                    opt_series = opt.get('series', '')
+                    if not serie_code or not opt_series or opt_series == serie_code:
+                        dir_val = opt.get('direction', '')
+                        if dir_val == 'positive':
+                            direction = 'ascenso'
+                        elif dir_val == 'negative':
+                            direction = 'descenso'
+                        break
+
+                # Target y limit: vienen de progress_calculation_options por serie
+                target_val = ''
+                limit_val  = ''
+                for opt in opts:
+                    if not isinstance(opt, dict):
+                        continue
+                    opt_series = opt.get('series', '')
+                    if not serie_code or not opt_series or opt_series == serie_code:
+                        t = opt.get('target')
+                        l = opt.get('limit')
+                        target_val = '' if t is None else t
+                        limit_val  = '' if l is None else l
+                        break
+
+                row['DIRECCIÓN DESEADA']   = direction
+                row['PROGRESO AUTOMÁTICO'] = 'si'
+                row['AÑO BASE PROGRESO']   = serie_data.get('base_year', '')
+                row['ÚLTIMO AÑO']          = serie_data.get('current_year', '')
+                row['ÚLTIMO DATO']         = serie_data.get('current_value', '')
+                row['TARGET']              = target_val
+                row['LIMIT']               = limit_val
+                row['SCORE']               = meta.get('score', '')
+            else:
+                row['PROGRESO AUTOMÁTICO'] = 'no'
+
+            rows.append(row)
+
+    # --- Escribir CSV ---
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    with open(output_path, 'w', newline='', encoding='utf-8-sig') as f:
+        # utf-8-sig → BOM para que Excel abra correctamente con tildes
+        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
+        writer.writeheader()
+        writer.writerows(rows)
+
+    print(f"[EUSTAT] >>> tabla_resumen.csv generado: {len(rows)} filas <<<")
+
+
+# ---------------------------------------------------------------------------
+
 # Goldilocks: precalcular columna Progress en CSVs antes del build
 apply_goldilocks_transforms(data_dir='data', config_dir='indicator-config')
 
@@ -618,5 +951,7 @@ try:
         writer.writerows(indicator_rows_sorted)
 
     print(f"[EUSTAT] >>> progreso_indicadores.csv generado: {len(indicator_rows_sorted)} filas <<<")
-except Exception as e:
+
+    # Generar tabla_resumen.csv: una fila por serie con todos los campos acordados
+    generate_tabla_resumen(all_meta)
     print(f"[EUSTAT] !!! Error generando progreso.csv: {e} !!!")
