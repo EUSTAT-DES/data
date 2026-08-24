@@ -954,4 +954,6 @@ try:
 
     # Generar tabla_resumen.csv: una fila por serie con todos los campos acordados
     generate_tabla_resumen(all_meta)
+
+except Exception as e:
     print(f"[EUSTAT] !!! Error generando progreso.csv: {e} !!!")
