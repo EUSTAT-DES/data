@@ -827,45 +827,80 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
             # --- Progreso ---
             auto_prog = config.get('auto_progress_calculation', False)
             if not is_non_stat and auto_prog:
-                # Buscar datos de la serie en all.json
-                # Para serie única el tag es el propio inid_dash
-                # Para multiserie el tag es el código de serie
-                tag = serie_code if serie_code else inid_dash
-                serie_data = meta.get(tag) or {}
+                # Los datos de progreso por serie NO están en all.json.
+                # base_year y current_year los obtenemos del CSV de datos.
+                # El all.json solo guarda progress_status y score a nivel indicador.
 
-                # Dirección desde progress_calculation_options
-                direction = ''
+                # Encontrar la opción de progress_calculation_options correspondiente a esta serie.
+                # OJO: en indicator-config el campo 'series' es el CÓDIGO (SG_DSR_SILS),
+                # pero en all.json puede venir como nombre traducido → usamos siempre el indicator-config.
+                matching_opt = {}
                 for opt in opts:
                     if not isinstance(opt, dict):
                         continue
                     opt_series = opt.get('series', '')
-                    if not serie_code or not opt_series or opt_series == serie_code:
-                        dv = opt.get('direction', '')
-                        direction = 'ascenso' if dv == 'positive' else ('descenso' if dv == 'negative' else '')
+                    # si no hay series en la opción → aplica al indicador completo (serie única)
+                    # si hay series → tiene que coincidir con el código de serie
+                    if not opt_series or not serie_code or opt_series == serie_code:
+                        matching_opt = opt
                         break
 
-                # Target y limit desde progress_calculation_options
-                target_val = ''
-                limit_val  = ''
-                for opt in opts:
-                    if not isinstance(opt, dict):
-                        continue
-                    opt_series = opt.get('series', '')
-                    if not serie_code or not opt_series or opt_series == serie_code:
-                        t_v = opt.get('target')
-                        l_v = opt.get('limit')
-                        target_val = '' if t_v is None else t_v
-                        limit_val  = '' if l_v is None else l_v
-                        break
+                # Dirección
+                dv = matching_opt.get('direction', '')
+                direction = 'ascenso' if dv == 'positive' else ('descenso' if dv == 'negative' else '')
+
+                # Target y limit
+                t_v = matching_opt.get('target')
+                l_v = matching_opt.get('limit')
+                target_val = '' if t_v is None else t_v
+                limit_val  = '' if l_v is None else l_v
+
+                # AÑO BASE y ÚLTIMO AÑO desde el CSV de datos
+                base_year_config = matching_opt.get('base_year', 2015)
+                year_base_prog = ''
+                year_last_prog = ''
+                value_last_prog = ''
+                if os.path.exists(csv_path):
+                    try:
+                        df_prog = pd.read_csv(csv_path, dtype=str)
+                        # Filtrar por serie si es multiserie
+                        if serie_code and 'Series' in df_prog.columns:
+                            df_prog = df_prog[df_prog['Series'] == serie_code]
+                        # Solo filas sin desagregaciones (fila total)
+                        desag_cols = [c for c in df_prog.columns
+                                      if c not in ('Year', 'Value', 'Series', 'Units',
+                                                   'GeoCode', 'Progress', 'Territorio')]
+                        for dc in desag_cols:
+                            df_prog = df_prog[df_prog[dc].isna() | (df_prog[dc] == '')]
+                        df_prog = df_prog[df_prog['Value'].notna() & (df_prog['Value'] != '')]
+                        if not df_prog.empty:
+                            df_prog['Year'] = df_prog['Year'].astype(int)
+                            year_last_prog  = int(df_prog['Year'].max())
+                            # Año base: el más cercano al configurado
+                            available = df_prog['Year'].values
+                            if base_year_config in available:
+                                year_base_prog = int(base_year_config)
+                            else:
+                                # Espiral: buscar el año más cercano
+                                closest = min(available, key=lambda y: abs(y - base_year_config))
+                                year_base_prog = int(closest)
+                            # Último dato: valor del año más reciente
+                            val = df_prog[df_prog['Year'] == year_last_prog]['Value'].iloc[0]
+                            try:
+                                value_last_prog = float(val)
+                            except Exception:
+                                value_last_prog = val
+                    except Exception:
+                        pass
 
                 row['DIRECCIÓN DESEADA']   = direction
                 row['PROGRESO AUTOMÁTICO'] = 'si'
-                row['AÑO BASE PROGRESO']   = serie_data.get('base_year', '')
-                row['ÚLTIMO AÑO']          = serie_data.get('current_year', '')
-                row['ÚLTIMO DATO']         = serie_data.get('current_value', '')
+                row['AÑO BASE PROGRESO']   = year_base_prog
+                row['ÚLTIMO AÑO']          = year_last_prog
+                row['ÚLTIMO DATO']         = value_last_prog
                 row['TARGET']              = target_val
                 row['LIMIT']               = limit_val
-                # SCORE: nivel indicador (media de series), guardado en meta raíz
+                # SCORE: nivel indicador (media de series), guardado en all.json como 'score'
                 row['SCORE']               = meta.get('score', '')
             else:
                 row['PROGRESO AUTOMÁTICO'] = 'no'
