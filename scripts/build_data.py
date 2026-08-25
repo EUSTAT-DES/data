@@ -397,6 +397,22 @@ def get_indicator_progress_eustat(self):
         self.cache_store = {}
     self.cache_store[self.inid] = {'progress_status': indicator_status, 'score': floatNone(indicator_score), 'target_variant': target_variant}
     self.cache_store[self.inid].update(components)
+
+    # Persistir scores en _site/scores.json para que generate_tabla_resumen pueda leerlos
+    import json as _json
+    scores_path = '_site/scores.json'
+    try:
+        if os.path.exists(scores_path):
+            with open(scores_path, encoding='utf-8') as _f:
+                _scores = _json.load(_f)
+        else:
+            _scores = {}
+        _scores[self.inid] = floatNone(indicator_score)
+        with open(scores_path, 'w', encoding='utf-8') as _f:
+            _json.dump(_scores, _f)
+    except Exception:
+        pass
+
     return (indicator_score, indicator_status)
 
 
@@ -561,23 +577,16 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
                            translations_dir='translations/es',
                            output_path='_site/tabla_resumen.csv'):
     """Genera tabla_resumen.csv: una fila por serie (o por indicador si tiene serie única).
-
-    Columnas (según modelo acordado con Eustat 23/07/2026):
-      NÚM OBJETIVO, NOMBRE OBJETIVO, NÚM META, NOMBRE META,
-      NÚM INDICADOR, NOMBRE INDICADOR NNUU, INDICADOR DISPONIBLE,
-      SERIE, NOMBRE SERIE, REPORTING_STATUS,
-      BOOLEANO, GOLDILOCK, INDICADOR NO ESTADÍSTICO, TIPO GRÁFICO, MAPA,
-      INDICADORES RELACIONADOS, DESAGREGACIÓN SEXO, DESAGREGACIÓN TH,
-      DESAGREGACIÓN MUNICIPIO, AÑO INICIAL, PERIODICIDAD, TEXTO OCECA,
-      DIRECCIÓN DESEADA, PROGRESO AUTOMÁTICO,
-      AÑO BASE PROGRESO, ÚLTIMO AÑO, ÚLTIMO DATO, TARGET, LIMIT, SCORE,
-      FECHA ÚLTIMA ACTUALIZACIÓN DATOS
-
-    Casos especiales:
-      - reporting_status = not_started → solo columnas 1-6, resto vacío
-      - serie única → columna SERIE y NOMBRE SERIE vacías
-      - no estadístico (data_non_statistical=si) → sin datos de progreso (cols 24-30)
+    ...
     """
+    # --- Cargar scores.json generado durante el build ---
+    scores = {}
+    try:
+        with open('_site/scores.json', encoding='utf-8') as f:
+            scores = json.load(f)
+    except Exception:
+        pass
+
     # --- Cargar traducciones ---
     def load_yaml(path):
         try:
@@ -900,8 +909,8 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
                 row['ÚLTIMO DATO']         = value_last_prog
                 row['TARGET']              = target_val
                 row['LIMIT']               = limit_val
-                # SCORE: nivel indicador (media de series), guardado en all.json como 'score'
-                row['SCORE']               = meta.get('score', '')
+                # SCORE: nivel indicador (media de series), desde scores.json
+                row['SCORE'] = scores.get(inid_dash, '')
             else:
                 row['PROGRESO AUTOMÁTICO'] = 'no'
 
