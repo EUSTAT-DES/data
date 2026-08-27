@@ -398,7 +398,8 @@ def get_indicator_progress_eustat(self):
     self.cache_store[self.inid] = {'progress_status': indicator_status, 'score': floatNone(indicator_score), 'target_variant': target_variant}
     self.cache_store[self.inid].update(components)
 
-    # Persistir scores en _site/scores.json para que generate_tabla_resumen pueda leerlos
+    # Persistir scores en _site/scores.json para que generate_tabla_resumen pueda leerlos.
+    # Se guarda el score por serie (tag) y el score agregado por indicador.
     import json as _json
     scores_path = '_site/scores.json'
     try:
@@ -407,7 +408,12 @@ def get_indicator_progress_eustat(self):
                 _scores = _json.load(_f)
         else:
             _scores = {}
+        # Score agregado del indicador
         _scores[self.inid] = floatNone(indicator_score)
+        # Score por serie individual (tag = código de serie o inid si es única)
+        for tag, serie_components in components.items():
+            if isinstance(serie_components, dict) and 'score' in serie_components:
+                _scores[f'{self.inid}::{tag}'] = serie_components['score']
         with open(scores_path, 'w', encoding='utf-8') as _f:
             _json.dump(_scores, _f)
     except Exception:
@@ -909,8 +915,13 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
                 row['ÚLTIMO DATO']         = value_last_prog
                 row['TARGET']              = target_val
                 row['LIMIT']               = limit_val
-                # SCORE: nivel indicador (media de series), desde scores.json
-                row['SCORE'] = scores.get(inid_dash, '')
+                # SCORE: por serie si existe, si no el agregado del indicador
+                tag = serie_code if serie_code else inid_dash
+                serie_score_key = f'{inid_dash}::{tag}'
+                if serie_score_key in scores:
+                    row['SCORE'] = scores[serie_score_key]
+                else:
+                    row['SCORE'] = scores.get(inid_dash, '')
             else:
                 row['PROGRESO AUTOMÁTICO'] = 'no'
 
