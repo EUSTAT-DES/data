@@ -541,13 +541,35 @@ def _write_sources_report(self):
     print('[EUSTAT] >>> sources.html generado')
 
 
-def _write_index_with_sources(self, pages):
-    """Llama al write_index original y luego inyecta la tarjeta de sources."""
-    _original_write_index(self, pages)
-    index_path = os.path.join(self.folder, 'index.html')
+def _inject_cards_in_index(folder, extra_cards_html):
+    """Inyecta tarjetas HTML en el index.html de documentación.
+    """
+    import re as _re
+    index_path = os.path.join(folder, 'index.html')
+    if not os.path.exists(index_path):
+        print(f'[EUSTAT] !!! index.html no encontrado en {folder}')
+        return
     with open(index_path, encoding='utf-8') as f:
         html = f.read()
-    card = """
+    # Insertar antes del primer <script src= del pie de página
+    # El patrón es: tres </div> de cierre seguidos de whitespace y <script src=
+    new_html, n = _re.subn(
+        r'((?:\s*</div>){3}\s*\n\s*<script\s+src=)',
+        extra_cards_html + r'\1',
+        html, count=1
+    )
+    if n == 0:
+        print('[EUSTAT] !!! No se encontró el patrón de cierre en index.html')
+        return
+    with open(index_path, 'w', encoding='utf-8') as f:
+        f.write(new_html)
+    print('[EUSTAT] >>> Tarjetas inyectadas en index.html')
+
+
+def _write_index_with_sources(self, pages):
+    """Llama al write_index original e inyecta la tarjeta de sources."""
+    _original_write_index(self, pages)
+    sources_card = """
         <div class="row"><div class="col-sm mt-4">
             <div class="card">
                 <div class="card-body">
@@ -558,9 +580,7 @@ def _write_index_with_sources(self, pages):
             </div>
         </div></div>
     """
-    html = html.replace('</main>', card + '</main>', 1)
-    with open(index_path, 'w', encoding='utf-8') as f:
-        f.write(html)
+    _inject_cards_in_index(self.folder, sources_card)
 
 
 def _generate_documentation_with_sources(self):
@@ -1010,6 +1030,27 @@ try:
 
     # Generar tabla_resumen.csv: una fila por serie con todos los campos acordados
     generate_tabla_resumen(all_meta)
+
+    # Inyectar tarjeta de descarga de tabla_resumen en el index.html de documentación
+    try:
+        import humanize as _humanize
+        tabla_path = '_site/tabla_resumen.csv'
+        filesize = _humanize.naturalsize(os.stat(tabla_path).st_size)
+        tabla_card = f"""
+        <div class="row"><div class="col-sm mt-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Tabla resumen de indicadores</h5>
+                    <p class="card-text">Una fila por serie con todos los campos: progreso, desagregaciones, metadatos.</p>
+                    <a href="tabla_resumen.csv" role="button" class="btn btn-primary">Descargar tabla resumen</a>
+                    <div class="download-info">Tamaño: {filesize}</div>
+                </div>
+            </div>
+        </div></div>
+    """
+        _inject_cards_in_index('_site', tabla_card)
+    except Exception as e:
+        print(f'[EUSTAT] !!! Error inyectando tarjeta tabla_resumen: {e}')
 
 except Exception as e:
     print(f"[EUSTAT] !!! Error generando progreso.csv: {e} !!!")
