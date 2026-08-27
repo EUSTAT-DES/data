@@ -567,10 +567,12 @@ def _inject_cards_in_index(folder, extra_cards_html):
 
 
 def _write_index_with_sources(self, pages):
-    """Llama al write_index original e inyecta la tarjeta de sources."""
+    """Llama al write_index original e inyecta las tarjetas de sources y tabla_resumen
+    dentro de la última row existente (la de Metadata report).
+    """
     _original_write_index(self, pages)
-    sources_card = """
-        <div class="row"><div class="col-sm mt-4">
+    sources_col = """
+        <div class="col-sm mt-4">
             <div class="card">
                 <div class="card-body">
                     <h5 class="card-title">Sources report</h5>
@@ -578,9 +580,27 @@ def _write_index_with_sources(self, pages):
                     <a href="sources.html" class="btn btn-primary">See sources report</a>
                 </div>
             </div>
-        </div></div>
-    """
-    _inject_cards_in_index(self.folder, sources_card)
+        </div>
+        <!-- TABLA_RESUMEN_PLACEHOLDER -->"""
+    # Insertar las cols antes del cierre de la última row.
+    # El patrón único es el botón de metadata seguido del cierre de la row.
+    index_path = os.path.join(self.folder, 'index.html')
+    with open(index_path, encoding='utf-8') as f:
+        html = f.read()
+    # Buscar el cierre de la card de metadata y la row que la contiene
+    target = 'See metadata report</a>\n                </div>\n            </div>\n        </div>\n        \n        </div>'
+    if target in html:
+        html = html.replace(target, target + '\n' + sources_col, 1)
+    else:
+        # fallback más flexible: insertar antes del último </div></div> que precede a los scripts
+        import re as _re
+        html, _ = _re.subn(
+            r'(metadata\.html[^<]*</a>.*?</div>\s*</div>\s*</div>)',
+            r'\1\n' + sources_col,
+            html, count=1, flags=_re.DOTALL
+        )
+    with open(index_path, 'w', encoding='utf-8') as f:
+        f.write(html)
 
 
 def _generate_documentation_with_sources(self):
@@ -1036,8 +1056,8 @@ try:
         import humanize as _humanize
         tabla_path = '_site/tabla_resumen.csv'
         filesize = _humanize.naturalsize(os.stat(tabla_path).st_size)
-        tabla_card = f"""
-        <div class="row"><div class="col-sm mt-4">
+        tabla_col = f"""
+        <div class="col-sm mt-4">
             <div class="card">
                 <div class="card-body">
                     <h5 class="card-title">Tabla resumen de indicadores</h5>
@@ -1046,9 +1066,14 @@ try:
                     <div class="download-info">Tamaño: {filesize}</div>
                 </div>
             </div>
-        </div></div>
-    """
-        _inject_cards_in_index('_site', tabla_card)
+        </div>"""
+        index_path = '_site/index.html'
+        with open(index_path, encoding='utf-8') as f:
+            html = f.read()
+        html = html.replace('<!-- TABLA_RESUMEN_PLACEHOLDER -->', tabla_col, 1)
+        with open(index_path, 'w', encoding='utf-8') as f:
+            f.write(html)
+        print('[EUSTAT] >>> Tarjeta tabla_resumen inyectada en index.html')
     except Exception as e:
         print(f'[EUSTAT] !!! Error inyectando tarjeta tabla_resumen: {e}')
 
