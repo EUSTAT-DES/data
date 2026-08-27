@@ -607,6 +607,8 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
     t_grafico    = load_yaml(f'{translations_dir}/GRAFICO.yml')
     t_data       = load_yaml(f'{translations_dir}/data.yml')
     t_fuente     = load_yaml(f'{translations_dir}/FUENTE.yml')
+    # data.yml en euskera para resolver nombres de serie (el build usa eu por defecto)
+    t_data_eu    = load_yaml('translations/eu/data.yml')
 
     def goal_name(num):
         """Nombre del objetivo — clave '{num}-title' en global_goals.yml."""
@@ -915,13 +917,17 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
                 row['ÚLTIMO DATO']         = value_last_prog
                 row['TARGET']              = target_val
                 row['LIMIT']               = limit_val
-                # SCORE: por serie si existe, si no el agregado del indicador
-                tag = serie_code if serie_code else inid_dash
-                serie_score_key = f'{inid_dash}::{tag}'
-                if serie_score_key in scores:
-                    row['SCORE'] = scores[serie_score_key]
-                else:
-                    row['SCORE'] = scores.get(inid_dash, '')
+                # SCORE: por serie si existe, si no el agregado del indicador.
+                # El tag en scores.json usa "{inid} / {nombre_serie_en_euskera}" (idioma del build).
+                # Resolvemos el código de serie a nombre euskera via data.yml de eu.
+                serie_score = ''
+                if serie_code:
+                    serie_label_eu = t_data_eu.get(serie_code, serie_code)
+                    tag_key = f'{inid_dash}::{inid_dash} / {serie_label_eu}'
+                    serie_score = scores.get(tag_key, '')
+                if serie_score == '':
+                    serie_score = scores.get(inid_dash, '')
+                row['SCORE'] = serie_score
             else:
                 row['PROGRESO AUTOMÁTICO'] = 'no'
 
