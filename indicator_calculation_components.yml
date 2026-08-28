@@ -491,7 +491,7 @@
   score: null
   target_variant: sin_target
 15-8-1:
-  progress_status: alcanzado
+  progress_status: ''
   score: null
   target_variant: sin_target
 15-9-1:
@@ -672,7 +672,7 @@
   score: 5.0
   target_variant: sin_target
 17-18-3:
-  progress_status: alcanzado
+  progress_status: ''
   score: null
   target_variant: sin_target
 17-19-1:
@@ -680,8 +680,21 @@
   score: null
   target_variant: sin_target
 17-19-2:
-  progress_status: alcanzado
-  score: null
+  17-19-2:
+    base_value: null
+    base_year: null
+    current_value: null
+    current_year: null
+    direction: 1
+    limit: null
+    progress_value: null
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 17-2-1:
   progress_status: alcanzado
@@ -1391,8 +1404,21 @@
   score: null
   target_variant: sin_target
 4-4-1:
-  progress_status: progreso
-  score: null
+  4-4-1:
+    base_value: 67.0
+    base_year: 2019.0
+    current_value: 71.8
+    current_year: 2025.0
+    direction: 1
+    limit: null
+    progress_value: 0.011598725685108668
+    score: 2.899681421277167
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 2.899681421277167
   target_variant: sin_target
 4-5-1:
   4-5-1 / Bizileku-parekotasunaren indizea hezkuntza-jarduerak egitean (10.000 biztanletik gorako eta beherako udalerriak):
@@ -1484,21 +1510,112 @@
   score: null
   target_variant: sin_target
 5-1-1:
-  progress_status: alcanzado
-  score: null
+  '5-1-1 / 1. arloa: lege-esparru orokorra eta bizitza publikoa':
+    base_value: 100.0
+    base_year: 2015.0
+    current_value: 100.0
+    current_year: 2024.0
+    direction: 1
+    limit: 100
+    progress_value: 0.0
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  '5-1-1 / 2. arloa: emakumearen aurkako indarkeria':
+    base_value: 100.0
+    base_year: 2015.0
+    current_value: 100.0
+    current_year: 2024.0
+    direction: 1
+    limit: 100
+    progress_value: 0.0
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  '5-1-1 / 3. arloa: enplegua eta dirulaguntza ekonomikoak':
+    base_value: 100.0
+    base_year: 2015.0
+    current_value: 100.0
+    current_year: 2024.0
+    direction: 1
+    limit: 100
+    progress_value: 0.0
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  '5-1-1 / 4. arloa: Ezkontza eta familia':
+    base_value: 81.8
+    base_year: 2015.0
+    current_value: 81.8
+    current_year: 2024.0
+    direction: 1
+    limit: 100
+    progress_value: 0.0
+    score: 0.0
+    sign: 1
+    status: no_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 3.75
   target_variant: sin_target
 5-2-1:
-  progress_status: retroceso
-  score: null
+  5-2-1:
+    base_value: 36.5
+    base_year: 2019.0
+    current_value: 45.0
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: -0.042758959076891534
+    score: -5.0
+    sign: 1
+    status: significant_deterioration
+    target: null
+    target_year: 2030.0
+  progress_status: significant_deterioration
+  score: -5.0
   target_variant: sin_target
 5-2-2:
-  progress_status: retroceso
-  score: null
+  5-2-2:
+    base_value: 3.8
+    base_year: 2019.0
+    current_value: 6.7
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: -0.12010372422372351
+    score: -5.0
+    sign: 1
+    status: significant_deterioration
+    target: null
+    target_year: 2030.0
+  progress_status: significant_deterioration
+  score: -5.0
   target_variant: sin_target
 5-3-1:
-  progress_status: alcanzado
-  score: null
-  target_variant: sin_target
+  5-3-1:
+    base_value: 0.001
+    base_year: 2015.0
+    current_value: 0.0
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: 3.3560421429299985
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: 0.05
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
+  target_variant: con_target
 5-3-2:
   progress_status: notstarted
   score: null
@@ -1619,12 +1736,38 @@
   score: null
   target_variant: sin_target
 5-a-2:
-  progress_status: alcanzado
-  score: null
-  target_variant: sin_target
+  5-a-2:
+    base_value: 6.0
+    base_year: 2015.0
+    current_value: 6.0
+    current_year: 2025.0
+    direction: 1
+    limit: null
+    progress_value: null
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: 6.0
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
+  target_variant: con_target
 5-b-1:
-  progress_status: alcanzado
-  score: null
+  5-b-1:
+    base_value: 96.0
+    base_year: 2015.0
+    current_value: 99.1
+    current_year: 2025.0
+    direction: 1
+    limit: 100
+    progress_value: 0.003183180580377254
+    score: 4.800513041255991
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 4.800513041255991
   target_variant: sin_target
 5-c-1:
   progress_status: notstarted
@@ -1646,11 +1789,11 @@
     current_year: 2022.0
     direction: 1
     limit: null
-    progress_value: null
-    score: null
+    progress_value: -2.3332221714858665
+    score: 5.0
     sign: 1
-    status: not_available
-    target: 100.0
+    status: significant_progress
+    target: 99.9
     target_year: 2030.0
   6-3-1 / Modu egokian tratatutako etxeko hondakin-uren fluxuen proportzioa:
     base_value: 76.3
@@ -1665,8 +1808,8 @@
     status: moderate_progress
     target: null
     target_year: 2030.0
-  progress_status: moderate_progress
-  score: 1.6649122897957058
+  progress_status: significant_progress
+  score: 3.332456144897853
   target_variant: mixto
 6-3-2:
   progress_status: retroceso
