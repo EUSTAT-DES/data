@@ -377,7 +377,7 @@ biktimak
 #3-7-2,complete,alcanzado,,line,FUENTE.oceca,2026-06-09,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
 #3-8-1,complete,significant_deterioration,,line,FUENTE.oceca,2026-04-22,,"
 Ase gabeko behar autoinformatuak esan nahi du pertsonak berak ebaluatzen duela azterketa edo  tratamendu medikurik behar duen (hortzen zainketa izan ezik), baina ez duen lortu edo ez duen bilatu ","EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du.",
-#3-8-2,complete,not_available,,line,FUENTE.oceca,2025-05-08,,,Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#3-8-2,complete,retroceso,,line,FUENTE.oceca,2025-05-08,,,Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #3-9-1,notstarted,notstarted,,line,,,,,,
 #3-9-2,complete,alcanzado,,line,,,True,,,
 #3-9-3,complete,significant_progress,,line,FUENTE.oceca,2025-07-17,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
@@ -447,7 +447,7 @@ akordio baten emaitza da.
 #4-1-E1,complete,significant_progress,,line,FUENTE.oceca,2026-04-22,,,"EAEn eskuragarri dagoen adierazlea Europako adierazlearekin aldera daiteke.
 ",
 #4-2-1,notstarted,notstarted,,line,,,,,,
-#4-2-2,complete,alcanzado,True,line,FUENTE.oceca,2026-01-21,,"
+#4-2-2,complete,significant_progress,True,line,FUENTE.oceca,2026-01-21,,"
 2020 arteko datuak Hezkuntza, Lanbide Heziketa eta Kirol Ministerioaren Unibertsitateaz Kanpoko Irakaskuntzen Estatistikakoak 
 dira. 2021etik aurrerakoak Eustaten Biztanleriaren eta Etxebizitzen Erroldakoak. 
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
@@ -551,7 +551,7 @@ gobernantza arduratsuari buruzko borondatezko jarraibideetan onartutakoak dira:
 #5-c-1,notstarted,notstarted,,line,,,,,,
 #6-1-1,complete,alcanzado,,line,,2025-06-09,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,indicator.relacionados
 #6-2-1,complete,alcanzado,True,line,FUENTE.oceca,2025-04-22,,Etxebizitza nagusia da urte osoan edo urtearen zatirik handienean pertsona batek edo gehiagok ohiko  bizileku gisa erabiltzen duten etxebizitza.,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du",
-#6-3-1,complete,progreso,,line,FUENTE.oceca,2025-09-08,,"
+#6-3-1,complete,moderate_progress,,line,FUENTE.oceca,2025-09-08,,"
 Hiri-aglomerazio baten karga kutsatzailea biztanle baliokideetan neurtzen da, eta biztanle baliokide bat 
 honela definitzen da: karga organiko biodegradagarria, eguneko 60 gramo oxigenoko bost eguneko oxigeno-eskari 
 biokimikoarekin. Biztanle baliokide bat pertsona batek etxebizitza arrunt batean egun batean sortzen duen 
@@ -599,9 +599,9 @@ Adierazlearen emaitza % 100 da, udalak baitira giza kontsumorako uraren kalitate
 #7-3-1,complete,alcanzado,,line,,2025-08-14,,,EAEn erabilgarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #7-a-1,notstarted,notstarted,,line,,,,,,
 #7-b-1,complete,alcanzado,True,line,FUENTE.oceca,2026-05-18,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#8-1-1,complete,alcanzado,,line,FUENTE.oceca,2025-10-20,,,Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#8-1-1,complete,significant_deterioration,,line,FUENTE.oceca,2025-10-20,,,Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #8-10-1,complete,noevaluado,,line,FUENTE.oceca,2025-11-10,,,"EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa ematen du.",
-#8-10-2,complete,alcanzado,,line,FUENTE.oceca,2025-05-08,,,"EAEn ekuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa ematen du.",
+#8-10-2,complete,significant_progress,,line,FUENTE.oceca,2025-05-08,,,"EAEn ekuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa ematen du.",
 #8-2-1,complete,alcanzado,,line,FUENTE.oceca,2025-10-21,,,Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #8-3-1,notstarted,notstarted,,line,,,,,,
 #8-4-1,notstarted,notstarted,,line,,,,,,
@@ -617,7 +617,7 @@ Desgaitasunaren araberako langabezia-datuak INEren ""Desgaitasuna duten pertsone
 biztanleria-eremua 16 eta 64 urte bitarteko pertsonen kolektiboa da, % 33ko edo gehiagoko desgaitasun-maila dutenak eta 
 parekatuak (1/2013 Legegintzako Errege Dekretuaren arabera).
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#8-5-E1,complete,progreso,True,line,,2025-08-14,,,"EAEn eskuragarri dagoen adierazlea ""Enplegu-tasa sexuaren arabera (sdg_08_30)"" Europako adierazlearekin aldera daiteke",
+#8-5-E1,complete,moderate_progress,True,line,,2025-08-14,,,"EAEn eskuragarri dagoen adierazlea ""Enplegu-tasa sexuaren arabera (sdg_08_30)"" Europako adierazlearekin aldera daiteke",
 #8-6-1,complete,alcanzado,,line,FUENTE.oceca,2025-06-18,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #8-7-1,complete,alcanzado,,line,,,True,,,
 #8-8-1,complete,progreso,,line,FUENTE.oceca,2026-06-09,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
