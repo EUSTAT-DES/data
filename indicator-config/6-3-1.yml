@@ -26,7 +26,13 @@ national_geographical_coverage: ''
 page_content: GRAFICO.6-3-1-contenido
 permalink: ''
 precision: []
-progress_status: progreso
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: EN_WWT_WWDS
+    direction: positive
+  - series: EU_WWT_COLECT
+    direction: positive
+    target: 100
 reporting_status: complete
 sort: ''
 sources:

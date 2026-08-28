@@ -35,7 +35,14 @@ national_geographical_coverage: ''
 page_content: GRAFICO.8-5-E1-contenido
 permalink: ''
 precision: []
-progress_status: progreso
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: EU_EMP_LFS
+    direction: positive
+    target: 78
+  - series: EU_EMP_LFS_GAP
+    direction: negative
+    target: 5.8
 reporting_status: complete
 sort: ''
 sources:
