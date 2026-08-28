@@ -1131,24 +1131,89 @@
   score: 3.215514206356432
   target_variant: mixto
 3-4-2:
-  progress_status: retroceso
-  score: null
-  target_variant: sin_target
+  3-4-2:
+    base_value: 7.7
+    base_year: 2015.0
+    current_value: 7.7
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: -0.0
+    score: -2.5
+    sign: 1
+    status: moderate_deterioration
+    target: 5.1333
+    target_year: 2030.0
+  progress_status: moderate_deterioration
+  score: -2.5
+  target_variant: con_target
 3-4-E1:
-  progress_status: retroceso
-  score: null
+  3-4-E1 / Bularreko minbizia:
+    base_value: null
+    base_year: 2015.0
+    current_value: null
+    current_year: null
+    direction: 1
+    limit: null
+    progress_value: null
+    score: null
+    sign: null
+    status: not_available
+    target: null
+    target_year: 2030.0
+  3-4-E1 / Kolon eta ondesteko minbizia:
+    base_value: 70.4
+    base_year: 2015.0
+    current_value: 70.4
+    current_year: 2023.0
+    direction: 1
+    limit: null
+    progress_value: 0.0
+    score: 0.0
+    sign: 1
+    status: no_progress
+    target: null
+    target_year: 2030.0
+  progress_status: no_progress
+  score: 0.0
   target_variant: sin_target
 3-4-E2:
-  progress_status: alcanzado
-  score: null
+  3-4-E2:
+    base_value: 83.11
+    base_year: 2015.0
+    current_value: 84.39
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: 0.0016996516182283816
+    score: 0.4249129045570954
+    sign: 1
+    status: moderate_progress
+    target: null
+    target_year: 2030.0
+  progress_status: moderate_progress
+  score: 0.4249129045570954
   target_variant: sin_target
 3-5-1:
   progress_status: noevaluado
   score: null
   target_variant: sin_target
 3-5-2:
-  progress_status: retroceso
-  score: null
+  3-5-2:
+    base_value: 10.6
+    base_year: 2015.0
+    current_value: 10.8
+    current_year: 2023.0
+    direction: -1
+    limit: null
+    progress_value: -0.0023392484086959264
+    score: -0.5848121021739816
+    sign: 1
+    status: moderate_deterioration
+    target: null
+    target_year: 2030.0
+  progress_status: moderate_deterioration
+  score: -0.5848121021739816
   target_variant: sin_target
 3-6-1:
   3-6-1:
@@ -1176,11 +1241,37 @@
   score: null
   target_variant: sin_target
 3-8-1:
-  progress_status: alcanzado
-  score: null
-  target_variant: sin_target
+  3-8-1:
+    base_value: 0.001
+    base_year: 2015.0
+    current_value: 0.9
+    current_year: 2025.0
+    direction: -1
+    limit: null
+    progress_value: -2.711376534734241
+    score: -5.0
+    sign: 1
+    status: significant_deterioration
+    target: 0.1
+    target_year: 2030.0
+  progress_status: significant_deterioration
+  score: -5.0
+  target_variant: con_target
 3-8-2:
-  progress_status: retroceso
+  3-8-2:
+    base_value: null
+    base_year: 2015.0
+    current_value: null
+    current_year: null
+    direction: -1
+    limit: null
+    progress_value: null
+    score: null
+    sign: null
+    status: not_available
+    target: null
+    target_year: 2030.0
+  progress_status: not_available
   score: null
   target_variant: sin_target
 3-9-1:
@@ -1192,8 +1283,21 @@
   score: null
   target_variant: sin_target
 3-9-3:
-  progress_status: alcanzado
-  score: null
+  3-9-3:
+    base_value: 1.6
+    base_year: 2015.0
+    current_value: 1.1
+    current_year: 2024.0
+    direction: -1
+    limit: 0
+    progress_value: 0.040777871216239436
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 3-a-1:
   3-a-1:
@@ -1225,8 +1329,21 @@
   score: null
   target_variant: sin_target
 3-c-1:
-  progress_status: alcanzado
-  score: null
+  3-c-1:
+    base_value: 156.8
+    base_year: 2015.0
+    current_value: 191.7
+    current_year: 2025.0
+    direction: 1
+    limit: null
+    progress_value: 0.020299339370662972
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 3-d-1:
   progress_status: notstarted
