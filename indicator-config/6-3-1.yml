@@ -32,7 +32,7 @@ progress_calculation_options:
     direction: positive
   - series: EU_WWT_COLECT
     direction: positive
-    target: 100
+    target: 99.9
 reporting_status: complete
 sort: ''
 sources:
