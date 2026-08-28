@@ -1258,20 +1258,7 @@
   score: -5.0
   target_variant: con_target
 3-8-2:
-  3-8-2:
-    base_value: null
-    base_year: 2015.0
-    current_value: null
-    current_year: null
-    direction: -1
-    limit: null
-    progress_value: null
-    score: null
-    sign: null
-    status: not_available
-    target: null
-    target_year: 2030.0
-  progress_status: not_available
+  progress_status: retroceso
   score: null
   target_variant: sin_target
 3-9-1:
@@ -1383,9 +1370,22 @@
   score: null
   target_variant: sin_target
 4-2-2:
-  progress_status: alcanzado
-  score: null
-  target_variant: sin_target
+  4-2-2:
+    base_value: 98.6
+    base_year: 2015.0
+    current_value: 99.8
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: 1.6671148413455505
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: 99.8
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
+  target_variant: con_target
 4-3-1:
   progress_status: progreso
   score: null
@@ -1639,9 +1639,35 @@
   score: null
   target_variant: sin_target
 6-3-1:
-  progress_status: progreso
-  score: null
-  target_variant: sin_target
+  6-3-1 / Kolektore-sistema batera konektatutako etxeko hondakin-uren fluxuen proportzioa:
+    base_value: 100.0
+    base_year: 2016.0
+    current_value: 99.9
+    current_year: 2022.0
+    direction: 1
+    limit: null
+    progress_value: null
+    score: null
+    sign: 1
+    status: not_available
+    target: 100.0
+    target_year: 2030.0
+  6-3-1 / Modu egokian tratatutako etxeko hondakin-uren fluxuen proportzioa:
+    base_value: 76.3
+    base_year: 2016.0
+    current_value: 79.4
+    current_year: 2022.0
+    direction: 1
+    limit: null
+    progress_value: 0.006659649159182823
+    score: 1.6649122897957058
+    sign: 1
+    status: moderate_progress
+    target: null
+    target_year: 2030.0
+  progress_status: moderate_progress
+  score: 1.6649122897957058
+  target_variant: mixto
 6-3-2:
   progress_status: retroceso
   score: null
@@ -1738,16 +1764,42 @@
   score: null
   target_variant: sin_target
 8-1-1:
-  progress_status: alcanzado
-  score: null
+  8-1-1:
+    base_value: 2.9
+    base_year: 2015.0
+    current_value: 2.2
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: -0.0302285168546933
+    score: -5.0
+    sign: 1
+    status: significant_deterioration
+    target: null
+    target_year: 2030.0
+  progress_status: significant_deterioration
+  score: -5.0
   target_variant: sin_target
 8-10-1:
   progress_status: noevaluado
   score: null
   target_variant: sin_target
 8-10-2:
-  progress_status: alcanzado
-  score: null
+  8-10-2:
+    base_value: 98.7
+    base_year: 2016.0
+    current_value: 99.2
+    current_year: 2021.0
+    direction: 1
+    limit: 100
+    progress_value: 0.001011124412245934
+    score: 4.478522900400992
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 4.478522900400992
   target_variant: sin_target
 8-2-1:
   progress_status: alcanzado
@@ -1787,9 +1839,35 @@
   score: 5.0
   target_variant: sin_target
 8-5-E1:
-  progress_status: progreso
-  score: null
-  target_variant: sin_target
+  8-5-E1 / Genero-arrakala okupazioan:
+    base_value: 7.7
+    base_year: 2015.0
+    current_value: 7.1
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: 0.4795168646239293
+    score: -0.5020130640669613
+    sign: 1
+    status: moderate_deterioration
+    target: 5.8
+    target_year: 2030.0
+  8-5-E1 / Okupazio-tasa:
+    base_value: 67.6
+    base_year: 2015.0
+    current_value: 75.6
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: 1.304560159208059
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: 78.0
+    target_year: 2030.0
+  progress_status: moderate_progress
+  score: 2.2489934679665193
+  target_variant: con_target
 8-6-1:
   progress_status: alcanzado
   score: null
