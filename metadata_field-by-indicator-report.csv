@@ -189,7 +189,7 @@ eta 1.000 eta 5.000 biztanle arteko udalerrien % 25ek Udal Larrialdi Plan homolo
 #15-5-1,notstarted,notstarted,,line,,,,,,
 #15-6-1,notstarted,notstarted,,line,,,,,,
 #15-7-1,notstarted,notstarted,,line,,,,,,
-#15-8-1,complete,alcanzado,,bar,FUENTE.oceca,2026-01-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen serie nagusia (1a) betetzen du.,
+#15-8-1,complete,,,bar,FUENTE.oceca,2026-01-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen serie nagusia (1a) betetzen du.,
 #15-9-1,notstarted,notstarted,,line,,,,,,
 #15-a-1,notstarted,notstarted,,line,,,,,,
 #15-b-1,notstarted,notstarted,,line,,,,,,
@@ -275,9 +275,9 @@ Barne-transferentziak ere finkatzen dira, bikoiztasunak saihesteko.
 #17-17-1,notstarted,notstarted,,line,,,,,,
 #17-18-1,notstarted,notstarted,,line,,,,,,
 #17-18-2,complete,significant_progress,,bar,FUENTE.oceca,2026-01-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#17-18-3,complete,alcanzado,,bar,FUENTE.oceca,2026-01-20,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#17-18-3,complete,,,bar,FUENTE.oceca,2026-01-20,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #17-19-1,notstarted,notstarted,,line,,,,,,
-#17-19-2,complete,alcanzado,,bar,FUENTE.oceca,2026-01-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#17-19-2,complete,significant_progress,,bar,FUENTE.oceca,2026-01-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #17-2-1,complete,alcanzado,,line,FUENTE.oceca,2025-08-04,,"
 Ekonomia Lankidetza eta Garapenerako Antolakundeko (ELGA) Garapenean Laguntzeko Batzordeak  (GLB) ezartzen du garapenerako laguntza ofiziala jaso dezaketen herrialdeen zerrenda. Diru-sarrera  txikiko eta ertaineko herrialdeak dira, Munduko Bankuak argitaratutako per capita diru-sarrera  nazional gordinean oinarrituta, G8ko kideak, EBko kideak eta EBn sartzeko data irmoa duten herrialdeak  izan ezik. ",EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
 #17-3-1,complete,alcanzado,,line,FUENTE.oceca,2025-09-17,,"
@@ -457,7 +457,7 @@ eta azken 4 asteetan egindako jarduerei buruz galdetzen da.
 Biztanleria helduak ikaskuntza-jardueretan duen parte-hartzeari buruzko inkestatik datozen datuak 18-64 
 adin-taldekoak dira, eta azken 12 hilabeteetan egindako jarduerei buruz galdetzen da.  
 ","EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du.",
-#4-4-1,complete,progreso,,line,FUENTE.oceca,2025-10-28,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
+#4-4-1,complete,significant_progress,,line,FUENTE.oceca,2025-10-28,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
 #4-5-1,complete,no_progress,,line,FUENTE.oceca,2026-07-21,,"
 Adierazle honen erreferentzia-balioa 1 da, parekotasun absolutua adierazten duena. Adierazlearen balioa  1etik zenbat eta urrunago egon, orduan eta handiagoa da desberdintasun-maila; balioa 1 baino txikiagoa denean,  zenbakitzaileko populazio taldeak izendatzaileko populazio-taldearekiko egoera baztertua adierazten du, eta  1 baino altuagoa denean, egoera mesedetua. ",EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
 #4-6-1,complete,not_available,,line,FUENTE.oceca,2025-08-14,,"
@@ -486,7 +486,7 @@ konplexuak interpretatzeko.
 #4-a-1,complete,alcanzado,,line,FUENTE.oceca,2026-06-05,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
 #4-b-1,notstarted,notstarted,,line,,,,,,
 #4-c-1,complete,alcanzado,,line,FUENTE.oceca,2026-01-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#5-1-1,complete,alcanzado,,line,FUENTE.oceca,2025-04-22,,"
+#5-1-1,complete,significant_progress,,line,FUENTE.oceca,2025-04-22,,"
 Nazio Batuek ""BAI/EZ"" motako 42 galderako galdetegi bat ezarri zuten, gobernuek genero-berdintasuna 
 sustatzeko, indartzeko eta ikuskatzeko marko juridikoak ezartzeko egiten dituzten ahaleginak 
 neurtzeko. Galdetegi hori Emakumearen aurkako diskriminazio mota guztiak ezabatzeari buruzko Konbentzioan (CEDAW)
@@ -497,9 +497,9 @@ eta Beijingo Ekintza Plataforman ezarritako lau arlotan zatitzen da:
  3. Enplegua eta dirulaguntza ekonomikoak (22-31 galderak)
  4. Ezkontza eta familia (32-42 galderak)
 ",,
-#5-2-1,complete,retroceso,True,line,,2026-01-16,,,"EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio  osagarria ematen du.",
-#5-2-2,complete,retroceso,True,line,,2026-01-16,,,"EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio  osagarria ematen du.",
-#5-3-1,complete,alcanzado,,line,,2025-10-24,,,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa ematen du. Definizio ofizialaren arabera, adierazleak erreferentziako biztanleria gisa 20 eta 24 urte bitarteko emakumeak  hartzen ditu neurketa unean. Hala ere, Euskadiko AEan kalkulatzeko, urte erreferenteko 16 eta 17 urteko emakumeen  biztanleria hartzen da izendatzaile gisa.",
+#5-2-1,complete,significant_deterioration,True,line,,2026-01-16,,,"EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio  osagarria ematen du.",
+#5-2-2,complete,significant_deterioration,True,line,,2026-01-16,,,"EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio  osagarria ematen du.",
+#5-3-1,complete,significant_progress,,line,,2025-10-24,,,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa ematen du. Definizio ofizialaren arabera, adierazleak erreferentziako biztanleria gisa 20 eta 24 urte bitarteko emakumeak  hartzen ditu neurketa unean. Hala ere, Euskadiko AEan kalkulatzeko, urte erreferenteko 16 eta 17 urteko emakumeen  biztanleria hartzen da izendatzaile gisa.",
 #5-3-2,notstarted,notstarted,,line,,,,,,
 #5-4-1,complete,moderate_progress,,line,,2026-07-21,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #5-5-1,complete,significant_progress,,line,,2025-09-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
@@ -529,7 +529,7 @@ eskubide seguruak dituzten pertsonen prebalentzia neurtzen du, sexuaren arabera 
 5.a.1 (b) azpiadierazleak genero-parekotasuna du ardatz, eta neurtzen du emakumeak jabetzan edo 
 nekazaritza-lurren gaineko eskubide seguruetan zein neurritan dauden desabantailan.
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#5-a-2,complete,alcanzado,,line,,2026-01-16,,"
+#5-a-2,complete,significant_progress,,line,,2026-01-16,,"
 Adierazleak neurtzen du lege-esparruak zenbateraino bermatzen duen lurren jabetza edo kontrolerako 
 emakumeen eskubide berdintasuna, lege-esparrua nazioartean onartutako sei proxyrekiko alderatuz; proxy horiek
 Emakumearen aurkako diskriminazio-modu guztiak ezabatzeari buruzko Konbentzioan eta Lurra edukitzeko 
@@ -547,11 +547,11 @@ gobernantza arduratsuari buruzko borondatezko jarraibideetan onartutakoak dira:
 
  - F proxya: Nahitaezko kuotak lurren kudeaketan eta administrazioan  
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu ,
-#5-b-1,complete,alcanzado,,line,,2025-10-28,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#5-b-1,complete,significant_progress,,line,,2025-10-28,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #5-c-1,notstarted,notstarted,,line,,,,,,
 #6-1-1,complete,alcanzado,,line,,2025-06-09,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,indicator.relacionados
 #6-2-1,complete,alcanzado,True,line,FUENTE.oceca,2025-04-22,,Etxebizitza nagusia da urte osoan edo urtearen zatirik handienean pertsona batek edo gehiagok ohiko  bizileku gisa erabiltzen duten etxebizitza.,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du",
-#6-3-1,complete,moderate_progress,,line,FUENTE.oceca,2025-09-08,,"
+#6-3-1,complete,significant_progress,,line,FUENTE.oceca,2025-09-08,,"
 Hiri-aglomerazio baten karga kutsatzailea biztanle baliokideetan neurtzen da, eta biztanle baliokide bat 
 honela definitzen da: karga organiko biodegradagarria, eguneko 60 gramo oxigenoko bost eguneko oxigeno-eskari 
 biokimikoarekin. Biztanle baliokide bat pertsona batek etxebizitza arrunt batean egun batean sortzen duen 
