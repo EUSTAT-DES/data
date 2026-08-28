@@ -491,8 +491,21 @@
   score: null
   target_variant: sin_target
 15-8-1:
-  progress_status: ''
-  score: null
+  15-8-1:
+    base_value: null
+    base_year: null
+    current_value: null
+    current_year: null
+    direction: 1
+    limit: null
+    progress_value: null
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 15-9-1:
   progress_status: notstarted
@@ -672,8 +685,21 @@
   score: 5.0
   target_variant: sin_target
 17-18-3:
-  progress_status: ''
-  score: null
+  17-18-3:
+    base_value: null
+    base_year: null
+    current_value: null
+    current_year: null
+    direction: 1
+    limit: null
+    progress_value: null
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 17-19-1:
   progress_status: notstarted
