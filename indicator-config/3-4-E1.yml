@@ -39,7 +39,12 @@ proxy: ''
 proxy_series: []
 publications: []
 related_indicators: []
-progress_status: retroceso
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: EU_CNCR_CCR
+    direction: positive
+  - series: EU_CNCR_BCI
+    direction: positive
 reporting_status: complete
 sort: ''
 sources:
