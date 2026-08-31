@@ -26,7 +26,12 @@ national_geographical_coverage: ''
 page_content: GRAFICO.6-b-1-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: EU_SAN_PARTIC
+    direction: positive
+  - series: EU_BATH_PARTIC
+    direction: positive
 reporting_status: complete
 sort: ''
 standalone: false
