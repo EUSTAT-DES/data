@@ -1800,12 +1800,51 @@
   score: null
   target_variant: sin_target
 6-1-1:
-  progress_status: alcanzado
-  score: null
-  target_variant: sin_target
+  6-1-1:
+    base_value: 100.0
+    base_year: 2016.0
+    current_value: 100.0
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: 0.0
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: 99.9
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
+  target_variant: con_target
 6-2-1:
-  progress_status: alcanzado
-  score: null
+  6-2-1 / Bainugela duten etxebizitzen proportzioa:
+    base_value: 99.6
+    base_year: 2015.0
+    current_value: 99.8
+    current_year: 2023.0
+    direction: 1
+    limit: 100
+    progress_value: 0.0002507837818543912
+    score: 3.554552987194133
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  6-2-1 / Edateko ura duten etxebizitzen proportzioa:
+    base_value: 99.9
+    base_year: 2015.0
+    current_value: 99.9
+    current_year: 2023.0
+    direction: 1
+    limit: 100
+    progress_value: 0.0
+    score: 0.0
+    sign: 1
+    status: no_progress
+    target: null
+    target_year: 2030.0
+  progress_status: moderate_progress
+  score: 1.7772764935970664
   target_variant: sin_target
 6-3-1:
   6-3-1 / Kolektore-sistema batera konektatutako etxeko hondakin-uren fluxuen proportzioa:
@@ -1838,8 +1877,21 @@
   score: 3.332456144897853
   target_variant: mixto
 6-3-2:
-  progress_status: retroceso
-  score: null
+  6-3-2 / Kalitate oneko ur-masen proportzioa:
+    base_value: 46.8
+    base_year: 2015.0
+    current_value: 59.6
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: 0.02722767605872889
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 6-4-1:
   progress_status: notstarted
@@ -1854,8 +1906,21 @@
   score: null
   target_variant: sin_target
 6-5-2:
-  progress_status: alcanzado
-  score: null
+  6-5-2:
+    base_value: 100.0
+    base_year: 2015.0
+    current_value: 100.0
+    current_year: 2025.0
+    direction: 1
+    limit: null
+    progress_value: 0.0
+    score: 0.0
+    sign: 1
+    status: no_progress
+    target: null
+    target_year: 2030.0
+  progress_status: no_progress
+  score: 0.0
   target_variant: sin_target
 6-6-1:
   progress_status: notstarted
@@ -1866,8 +1931,34 @@
   score: null
   target_variant: sin_target
 6-b-1:
-  progress_status: alcanzado
-  score: null
+  6-b-1 / Bainatzeko uren kudeaketan tokiko komunitateek parte hartzeko politikak eta prozedura operatiboak ezarri dituzt...:
+    base_value: 100.0
+    base_year: 2015.0
+    current_value: 100.0
+    current_year: 2025.0
+    direction: 1
+    limit: null
+    progress_value: 0.0
+    score: 0.0
+    sign: 1
+    status: no_progress
+    target: null
+    target_year: 2030.0
+  6-b-1 / Tokiko erkidegoek kontsumoko uren kudeaketan parte hartzeko politikak eta prozedura operatiboak ezarri dituzten...:
+    base_value: 100.0
+    base_year: 2015.0
+    current_value: 100.0
+    current_year: 2025.0
+    direction: 1
+    limit: null
+    progress_value: 0.0
+    score: 0.0
+    sign: 1
+    status: no_progress
+    target: null
+    target_year: 2030.0
+  progress_status: no_progress
+  score: 0.0
   target_variant: sin_target
 7-1-1:
   7-1-1:
@@ -1921,16 +2012,42 @@
   score: 5.0
   target_variant: sin_target
 7-3-1:
-  progress_status: alcanzado
-  score: null
-  target_variant: sin_target
+  7-3-1:
+    base_value: 2.13
+    base_year: 2015.0
+    current_value: 1.7
+    current_year: 2023.0
+    direction: -1
+    limit: null
+    progress_value: 0.6195509730674731
+    score: 0.13964980762480794
+    sign: 1
+    status: moderate_progress
+    target: 1.07
+    target_year: 2030.0
+  progress_status: moderate_progress
+  score: 0.13964980762480794
+  target_variant: con_target
 7-a-1:
   progress_status: notstarted
   score: null
   target_variant: sin_target
 7-b-1:
-  progress_status: alcanzado
-  score: null
+  7-b-1:
+    base_value: 169.3
+    base_year: 2015.0
+    current_value: 248.9
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: 0.04374987771751626
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 8-1-1:
   8-1-1:
