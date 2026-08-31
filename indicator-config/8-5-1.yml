@@ -26,7 +26,12 @@ national_geographical_coverage: ''
 page_content: GRAFICO.8-5-1-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: SL_EMP_EARN
+    direction: positive
+  - series: EU_GENDERPAY_GAP
+    direction: negative
 reporting_status: complete
 sort: ''
 sources:

@@ -34,10 +34,10 @@ auto_progress_calculation: true
 progress_calculation_options:
   - series: SP_ACS_BSRVH2O
     direction: positive
-    limit: 100
+    target: 99.9
   - series: SP_ACS_BSRVSAN
     direction: positive
-    limit: 100
+    target: 99.9
 reporting_status: complete
 sort: ''
 sources:

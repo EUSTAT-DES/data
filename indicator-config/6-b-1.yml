@@ -30,8 +30,10 @@ auto_progress_calculation: true
 progress_calculation_options:
   - series: EU_SAN_PARTIC
     direction: positive
+    limit: 100
   - series: EU_BATH_PARTIC
     direction: positive
+    limit: 100
 reporting_status: complete
 sort: ''
 standalone: false
