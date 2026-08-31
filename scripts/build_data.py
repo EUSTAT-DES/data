@@ -398,8 +398,7 @@ def get_indicator_progress_eustat(self):
     self.cache_store[self.inid] = {'progress_status': indicator_status, 'score': floatNone(indicator_score), 'target_variant': target_variant}
     self.cache_store[self.inid].update(components)
 
-    # Persistir scores en _site/scores.json para que generate_tabla_resumen pueda leerlos.
-    # Se guarda el score por serie (tag) y el score agregado por indicador.
+    # Persistir scores y target_variant en _site/scores.json
     import json as _json
     scores_path = '_site/scores.json'
     try:
@@ -410,10 +409,12 @@ def get_indicator_progress_eustat(self):
             _scores = {}
         # Score agregado del indicador
         _scores[self.inid] = floatNone(indicator_score)
-        # Score por serie individual (tag = código de serie o inid si es única)
+        # Score por serie individual (tag = nombre en euskera generado por sdg-build)
         for tag, serie_components in components.items():
             if isinstance(serie_components, dict) and 'score' in serie_components:
                 _scores[f'{self.inid}::{tag}'] = serie_components['score']
+        # target_variant para que el site pueda seleccionar el label correcto
+        _scores[f'{self.inid}::target_variant'] = target_variant
         with open(scores_path, 'w', encoding='utf-8') as _f:
             _json.dump(_scores, _f)
     except Exception:
@@ -1038,6 +1039,28 @@ try:
         writer.writerows(rows)
 
     print(f"[EUSTAT] >>> progreso.csv generado: {len(rows)} filas <<<")
+
+    # Inyectar target_variant en all.json para que el site lo use en los labels de progreso
+    # El valor se calculó en get_indicator_progress_eustat y se guardó en scores.json
+    try:
+        with open('_site/scores.json', encoding='utf-8') as f:
+            _scores_data = json.load(f)
+        _modified = False
+        for _inid, _meta in all_meta.items():
+            _tv_key = f'{_inid}::target_variant'
+            if _tv_key in _scores_data and _scores_data[_tv_key]:
+                all_meta[_inid]['target_variant'] = _scores_data[_tv_key]
+                _modified = True
+        if _modified:
+            # Reescribir todos los all.json (eu, es, en)
+            for _lang in ['eu', 'es', 'en']:
+                _all_path = f'_site/{_lang}/meta/all.json'
+                if os.path.exists(_all_path):
+                    with open(_all_path, 'w', encoding='utf-8') as f:
+                        json.dump(all_meta, f, ensure_ascii=False)
+            print("[EUSTAT] >>> target_variant inyectado en all.json <<<")
+    except Exception as e:
+        print(f"[EUSTAT] !!! Error inyectando target_variant: {e}")
 
     # Generar progreso_indicadores.csv: una fila por indicador con su estado y objetivo
     indicator_rows_sorted = sorted(indicator_rows, key=lambda x: (int(x['goal']), x['indicator']))

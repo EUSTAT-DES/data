@@ -193,5 +193,11 @@ prose:
             label: "Fecha de última modificación de los metadatos nacionales"
             translation_key: metadata_fields.national_metadata_update_url
             scope: national
+      - name: "target_variant"
+        field:
+            element: hidden
+            label: "Variante de target para traducciones de progreso"
+            translation_key: metadata_fields.target_variant
+            scope: national
 
   ignore: ['/scripts', '/.github']
