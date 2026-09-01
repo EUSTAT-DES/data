@@ -1196,12 +1196,51 @@
   score: -5.0
   target_variant: sin_target
 17-1-1:
-  progress_status: progreso
-  score: null
+  17-1-1:
+    base_value: 24.1
+    base_year: 2015.0
+    current_value: 25.1
+    current_year: 2023.0
+    direction: 1
+    limit: null
+    progress_value: 0.005094935973789738
+    score: 1.2737339934474345
+    sign: 1
+    status: moderate_progress
+    target: null
+    target_year: 2030.0
+  progress_status: moderate_progress
+  score: 1.2737339934474345
   target_variant: sin_target
 17-1-2:
-  progress_status: retroceso
-  score: null
+  17-1-2 / Administrazio publiko autonomikoen eta tokiko administrazioen sarrera ez-finantzarioen proportzioa, zergetatik...:
+    base_value: 89.1
+    base_year: 2015.0
+    current_value: 88.8
+    current_year: 2023.0
+    direction: 1
+    limit: null
+    progress_value: -0.0004214967051248131
+    score: -0.10537417628120327
+    sign: 1
+    status: no_progress
+    target: null
+    target_year: 2030.0
+  17-1-2 / Zergetatik datozen administrazio publiko autonomikoen eta tokikoen diru-sarreren proportzioa:
+    base_value: 80.8
+    base_year: 2015.0
+    current_value: 82.6
+    current_year: 2023.0
+    direction: 1
+    limit: null
+    progress_value: 0.002757885363158241
+    score: 0.6894713407895603
+    sign: 1
+    status: moderate_progress
+    target: null
+    target_year: 2030.0
+  progress_status: moderate_progress
+  score: 0.2920485822541785
   target_variant: sin_target
 17-10-1:
   progress_status: notapplicable
@@ -1295,16 +1334,94 @@
   score: 5.0
   target_variant: sin_target
 17-2-1:
-  progress_status: alcanzado
-  score: null
-  target_variant: sin_target
+  17-2-1 / Administrazio publiko autonomikoen eta tokiko administrazio publikoen garapenerako laguntza ofizial garbia:
+    base_value: 49.43
+    base_year: 2015.0
+    current_value: 80.53
+    current_year: 2023.0
+    direction: 1
+    limit: null
+    progress_value: 0.06290851466418479
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  17-2-1 / Administrazio publiko autonomikoen eta tokiko administrazio publikoen garapenerako laguntza ofizial garbia, BP...:
+    base_value: 0.07
+    base_year: 2015.0
+    current_value: 0.09
+    current_year: 2023.0
+    direction: 1
+    limit: null
+    progress_value: 0.1923458137955749
+    score: -1.6985591091851044
+    sign: 1
+    status: moderate_deterioration
+    target: 0.7
+    target_year: 2030.0
+  progress_status: moderate_progress
+  score: 1.6507204454074478
+  target_variant: mixto
 17-3-1:
-  progress_status: alcanzado
-  score: null
+  17-3-1 / Zuzeneko inbertsio garbia Garapenerako Laguntza Ofiziala jasotzen duten herrialdeetan:
+    base_value: 39.62
+    base_year: 2015.0
+    current_value: 252.06
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: 0.22825267274851502
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  17-3-1 / Zuzeneko inbertsio garbia Garapenerako Laguntza Ofiziala jasotzen duten herrialdeetan, BPGrekiko proportzioan:
+    base_value: 0.06
+    base_year: 2015.0
+    current_value: 0.26
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: 0.17694999350894247
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 17-3-2:
-  progress_status: noevaluado
-  score: null
+  17-3-2 / Atzerrira egindako diru-bidalketen bolumena:
+    base_value: 268.77
+    base_year: 2015.0
+    current_value: 503.36
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: 0.07220430225766661
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  17-3-2 / Atzerrira egindako diru-bidalketen bolumena, BPGrekiko proportzioan:
+    base_value: 0.39
+    base_year: 2015.0
+    current_value: 0.51
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: 0.030255788357243407
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 17-4-1:
   progress_status: notapplicable
@@ -1315,16 +1432,42 @@
   score: null
   target_variant: sin_target
 17-6-1:
-  progress_status: alcanzado
-  score: null
+  17-6-1:
+    base_value: 32.0
+    base_year: 2015.0
+    current_value: 42.2
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: 0.03122013889750752
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 17-7-1:
   progress_status: notstarted
   score: null
   target_variant: sin_target
 17-8-1:
-  progress_status: alcanzado
-  score: null
+  17-8-1:
+    base_value: 80.2
+    base_year: 2015.0
+    current_value: 97.4
+    current_year: 2025.0
+    direction: 1
+    limit: 100
+    progress_value: 0.019620265829912942
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 17-9-1:
   progress_status: notstarted
