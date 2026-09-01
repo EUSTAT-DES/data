@@ -979,24 +979,76 @@
   score: null
   target_variant: sin_target
 16-1-1:
-  progress_status: alcanzado
-  score: null
+  16-1-1:
+    base_value: 0.59
+    base_year: 2020.0
+    current_value: 0.63
+    current_year: 2025.0
+    direction: -1
+    limit: null
+    progress_value: -0.013205894157967135
+    score: -3.301473539491784
+    sign: 1
+    status: significant_deterioration
+    target: null
+    target_year: 2030.0
+  progress_status: significant_deterioration
+  score: -3.301473539491784
   target_variant: sin_target
 16-1-2:
-  progress_status: alcanzado
-  score: null
+  16-1-2:
+    base_value: 0.001
+    base_year: 2015.0
+    current_value: 0.0
+    current_year: 2025.0
+    direction: -1
+    limit: 0
+    progress_value: 1.0
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 16-1-3:
   progress_status: notstarted
   score: null
   target_variant: sin_target
 16-1-4:
-  progress_status: progreso
-  score: null
+  16-1-4:
+    base_value: 76.4
+    base_year: 2014.0
+    current_value: 69.1
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: -0.009992536051383283
+    score: -2.4981340128458207
+    sign: 1
+    status: moderate_deterioration
+    target: null
+    target_year: 2030.0
+  progress_status: moderate_deterioration
+  score: -2.4981340128458207
   target_variant: sin_target
 16-1-E1:
-  progress_status: retroceso
-  score: null
+  16-1-E1:
+    base_value: 4.8
+    base_year: 2015.0
+    current_value: 11.2
+    current_year: 2023.0
+    direction: -1
+    limit: null
+    progress_value: -0.11172429901592373
+    score: -5.0
+    sign: 1
+    status: significant_deterioration
+    target: null
+    target_year: 2030.0
+  progress_status: significant_deterioration
+  score: -5.0
   target_variant: sin_target
 16-10-1:
   progress_status: alcanzado
@@ -1011,8 +1063,21 @@
   score: null
   target_variant: sin_target
 16-2-2:
-  progress_status: retroceso
-  score: null
+  16-2-2:
+    base_value: 0.001
+    base_year: 2016.0
+    current_value: 0.2
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: -0.9392274474868578
+    score: -5.0
+    sign: 1
+    status: significant_deterioration
+    target: null
+    target_year: 2030.0
+  progress_status: significant_deterioration
+  score: -5.0
   target_variant: sin_target
 16-2-3:
   progress_status: notstarted
@@ -1023,8 +1088,21 @@
   score: null
   target_variant: sin_target
 16-3-2:
-  progress_status: retroceso
-  score: null
+  16-3-2:
+    base_value: 9.4
+    base_year: 2015.0
+    current_value: 12.3
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: -0.03032740352626484
+    score: -5.0
+    sign: 1
+    status: significant_deterioration
+    target: null
+    target_year: 2030.0
+  progress_status: significant_deterioration
+  score: -5.0
   target_variant: sin_target
 16-3-3:
   progress_status: notstarted
@@ -1051,8 +1129,21 @@
   score: null
   target_variant: sin_target
 16-6-2:
-  progress_status: progreso
-  score: null
+  16-6-2:
+    base_value: 46.3
+    base_year: 2015.0
+    current_value: 52.8
+    current_year: 2025.0
+    direction: 1
+    limit: null
+    progress_value: 0.013223591437647286
+    score: 3.3058978594118216
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 3.3058978594118216
   target_variant: sin_target
 16-7-1:
   progress_status: progreso
@@ -1067,16 +1158,42 @@
   score: null
   target_variant: sin_target
 16-9-1:
-  progress_status: alcanzado
-  score: null
-  target_variant: sin_target
+  16-9-1:
+    base_value: 100.0
+    base_year: 2015.0
+    current_value: 100.0
+    current_year: 2025.0
+    direction: 1
+    limit: null
+    progress_value: null
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: 100.0
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
+  target_variant: con_target
 16-a-1:
   progress_status: notstarted
   score: null
   target_variant: sin_target
 16-b-1:
-  progress_status: retroceso
-  score: null
+  16-b-1:
+    base_value: 5.6
+    base_year: 2013.0
+    current_value: 8.8
+    current_year: 2023.0
+    direction: -1
+    limit: null
+    progress_value: -0.046235529994636204
+    score: -5.0
+    sign: 1
+    status: significant_deterioration
+    target: null
+    target_year: 2030.0
+  progress_status: significant_deterioration
+  score: -5.0
   target_variant: sin_target
 17-1-1:
   progress_status: progreso
