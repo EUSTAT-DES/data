@@ -26,7 +26,12 @@ national_geographical_coverage: ''
 page_content: GRAFICO.12-6-1-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: EU_EMAS
+    direction: positive
+  - series: EU_ECOLABEL
+    direction: positive
 reporting_status: complete
 sort: ''
 sources:
