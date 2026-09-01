@@ -26,7 +26,12 @@ national_geographical_coverage: ''
 page_content: GRAFICO.17-1-2-contenido
 permalink: ''
 precision: []
-progress_status: retroceso
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: EU_GOB_TAX
+    direction: positive
+  - series: EU_GOB_TAX_NOFIN
+    direction: positive
 reporting_status: complete
 sort: ''
 sources:

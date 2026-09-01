@@ -26,7 +26,13 @@ national_geographical_coverage: ''
 page_content: GRAFICO.17-2-1-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: EU_ODA_EUR
+    direction: positive
+  - series: EU_ODA_GDP
+    direction: positive
+    target: 0.7
 reporting_status: complete
 sort: ''
 sources:

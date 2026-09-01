@@ -26,7 +26,12 @@ national_geographical_coverage: ''
 page_content: GRAFICO.17-3-1-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: EU_FRN_FDI_EUR
+    direction: positive
+  - series: EU_FRN_FDI_GDP
+    direction: positive
 reporting_status: complete
 sort: ''
 sources:
