@@ -633,7 +633,7 @@
   score: null
   target_variant: sin_target
 12-4-2:
-  progress_status: moderate_deterioration_sin_target
+  progress_status: moderate_deterioration
   score: null
   target_variant: sin_target
 12-5-1:
@@ -730,24 +730,76 @@
   score: null
   target_variant: sin_target
 13-1-1:
-  progress_status: alcanzado
-  score: null
-  target_variant: sin_target
+  13-1-1:
+    base_value: 0.09
+    base_year: 2015.0
+    current_value: 0.18
+    current_year: 2024.0
+    direction: -1
+    limit: null
+    progress_value: -0.6610459297009269
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: 0.5
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
+  target_variant: con_target
 13-1-2:
   progress_status: alcanzado
   score: null
   target_variant: sin_target
 13-1-3:
-  progress_status: alcanzado
-  score: null
+  13-1-3 / Larrialdietarako udal-plan bat duten udalerrien proportzioa:
+    base_value: 34.13
+    base_year: 2015.0
+    current_value: 35.32
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: 0.003815327994563189
+    score: 0.9538319986407973
+    sign: 1
+    status: moderate_progress
+    target: null
+    target_year: 2030.0
+  13-1-3 / Lurraldeko larrialdi-plan batek estalitako udalerrien proportzioa:
+    base_value: 100.0
+    base_year: 2015.0
+    current_value: 100.0
+    current_year: 2024.0
+    direction: 1
+    limit: 100
+    progress_value: 0.0
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 2.976915999320399
   target_variant: sin_target
 13-2-1:
   progress_status: alcanzado
   score: null
   target_variant: sin_target
 13-2-2:
-  progress_status: alcanzado
-  score: null
+  13-2-2 / Berotegi-efektuko gasen isurketak, guztira, urtearen arabera:
+    base_value: 19467497.86
+    base_year: 2015.0
+    current_value: 16193878.49
+    current_year: 2023.0
+    direction: -1
+    limit: null
+    progress_value: 0.022751319803349435
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 13-3-1:
   progress_status: notstarted
@@ -778,7 +830,7 @@
   score: null
   target_variant: sin_target
 14-5-1:
-  progress_status: alcanzado
+  progress_status: significant_progress
   score: null
   target_variant: sin_target
 14-6-1:
@@ -802,7 +854,7 @@
   score: null
   target_variant: sin_target
 15-1-1:
-  progress_status: alcanzado
+  progress_status: significant_progress
   score: null
   target_variant: sin_target
 15-1-2:
@@ -810,23 +862,75 @@
   score: null
   target_variant: sin_target
 15-1-E1:
-  progress_status: progreso
+  progress_status: significant_progress
   score: null
   target_variant: sin_target
 15-2-1:
-  progress_status: alcanzado
-  score: null
+  15-2-1 / Kudeaketa jasangarirako tresnak indarrean dituzten baso-azaleren proportzioa:
+    base_value: 15.9
+    base_year: 2015.0
+    current_value: 21.96
+    current_year: 2023.0
+    direction: 1
+    limit: null
+    progress_value: 0.04118859297579691
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  15-2-1 / Kudeaketa jasangarrirako tresnak indarrean dituen baso-azalera:
+    base_value: 78208.0
+    base_year: 2015.0
+    current_value: 107478.0
+    current_year: 2023.0
+    direction: 1
+    limit: null
+    progress_value: 0.04053944825395006
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 15-3-1:
-  progress_status: progreso
-  score: null
+  15-3-1 / Erabilera berrietarako berreskuratutako lurzoruaren azalera (metatua):
+    base_value: 944.0
+    base_year: 2015.0
+    current_value: 1464.9
+    current_year: 2022.0
+    direction: 1
+    limit: null
+    progress_value: 0.06478588037389033
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  15-3-1 / Erabilera berrietarako berreskuratutako lurzoruaren ehunekoa (metatua):
+    base_value: 10.0
+    base_year: 2015.0
+    current_value: 16.07
+    current_year: 2022.0
+    direction: 1
+    limit: null
+    progress_value: 0.07011595567678941
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 15-4-1:
   progress_status: noevaluado
   score: null
   target_variant: sin_target
 15-4-2:
-  progress_status: alcanzado
+  progress_status: significant_progress
   score: null
   target_variant: sin_target
 15-5-1:
