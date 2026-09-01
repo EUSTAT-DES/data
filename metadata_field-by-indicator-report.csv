@@ -53,7 +53,7 @@ handiagoa ere.
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu aztertutako serieetarako.,
 #1-4-1,complete,significant_progress,True,line,FUENTE.oceca,2025-06-17,,Etxebizitza nagusia da urte osoan edo urte gehienean pertsona batek edo gehiagok  ohiko bizileku gisa erabiltzen duten etxea.,"EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu aztertutako serieetarako. Beste serie batzuk plataforma honetako garapen jasangarriaren beste adierazle batzuetan aurkezten dira (3-8-1, 4-1-1, 7-1-2, 9-1-1, 9-c-1, 11-2-1, 11-6-1)",
 #1-4-2,notstarted,notstarted,,line,,,,,,
-#1-5-1,complete,significant_deterioration,True,line,FUENTE.oceca,2025-08-04,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
+#1-5-1,complete,significant_progress,True,line,FUENTE.oceca,2025-08-04,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
 #1-5-2,complete,noevaluado,,line,FUENTE.oceca,2025-11-07,,"Kalte-ordainak ezbeharra gertatu den lekuari eta urteari esleituko zaizkie, atzerrian  gertatutako ezbeharrak kontuan hartu gabe.","EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina  antzeko informazioa ematen du  ",
 #1-5-3,complete,alcanzado,,line,,,True,,,
 #1-5-4,complete,significant_progress,True,line,,2025-08-14,,"
@@ -87,8 +87,8 @@ egituratzen du:
 #1-b-1,notstarted,notstarted,,line,,,,,,
 #10-1-1,complete,alcanzado,,line,FUENTE.oceca,2025-05-08,,"
 Etxeko kontsumo-unitateen kopurua kalkulatzeko, ELGA eskala aldatua erabiltzen da.  Eskala horrek 1 pisua esleitzen dio 14 urte edo gehiagoko lehen pertsonari, 0,5 pisua 14 urte edo  gehiagoko gainerako pertsonei eta 0,3 pisua 14 urtetik beherako pertsonei.",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#10-2-1,complete,progreso,,line,FUENTE.oceca,2025-05-08,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,indicator.relacionados
-#10-3-1,complete,retroceso,,bar,,2025-08-19,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#10-2-1,complete,no_progress,,line,FUENTE.oceca,2025-05-08,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,indicator.relacionados
+#10-3-1,complete,significant_deterioration,,bar,,2025-08-19,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #10-4-1,complete,retroceso,,line,FUENTE.oceca,2025-10-21,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #10-4-2,complete,noevaluado,,line,,2025-05-08,,"
 Errenta baliokidea etxe bateko guztizko diru-sarreretatik eta diru-sarrera horietatik bizi diren pertsonen kopuru eta adinetik eratorritako balio bat da.","
@@ -99,34 +99,34 @@ Adierazleak partzialki betetzen ditu Nazio Batuen adierazlearen metadatuak. Zerg
 #10-7-1,notstarted,notstarted,,line,,,,,,
 #10-7-2,notstarted,notstarted,,line,,,,,,
 #10-7-3,notstarted,notstarted,,line,,,,,,
-#10-7-4,complete,retroceso,,line,FUENTE.oceca,2025-06-16,,"Kontuan izan behar da Espainian errefuxiatu-izaera edo antzeko nazioarteko babes-baldintza aitortuta duten pertsonen kopurua autonomiaerkidegoen arabera bereiztea ez dela bizilekuaren arabera egiten, baizik eta izaera hori eragin zuen administrazio-izapidea egin zen lekuaren arabera.",,
+#10-7-4,complete,significant_deterioration,,line,FUENTE.oceca,2025-06-16,,"Kontuan izan behar da Espainian errefuxiatu-izaera edo antzeko nazioarteko babes-baldintza aitortuta duten pertsonen kopurua autonomiaerkidegoen arabera bereiztea ez dela bizilekuaren arabera egiten, baizik eta izaera hori eragin zuen administrazio-izapidea egin zen lekuaren arabera.",,
 #10-a-1,notstarted,notstarted,,line,,,,,,
 #10-b-1,notstarted,notstarted,,line,,,,,,
 #10-c-1,notstarted,notstarted,,line,,,,,,
-#11-1-1,complete,progreso,,line,"
+#11-1-1,complete,significant_progress,,line,"
 ""Hezetasun-arazoak dituen etxebizitza batean bizi direnen proportzioa"" seriea autonomia-erkidegoetako estatistika-organo nagusien  arteko metodologia harmonizatua erabiliz kalkulatu da. ",2026-04-22,,,"EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du.",
 #11-2-1,notstarted,notstarted,,line,,,,,,
 #11-3-1,notstarted,notstarted,,line,,,,,,
-#11-3-2,complete,alcanzado,,line,FUENTE.oceca,2026-01-16,,"Adierazle hau % 100ekoa da, lurzoruaren gaineko estatuko legediaren arabera (hiri guztietan aplikatzekoa).","EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa eskaintzen du.",
-#11-4-1,complete,alcanzado,,line,FUENTE.oceca,2026-09-01,,,"EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak.  Kultura-ondarea bakarrik hartzen da kontuan, eta ez natura-ondarea.",
-#11-5-1,complete,alcanzado,True,line,FUENTE.oceca,2025-08-04,,,Eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak,
-#11-5-2,complete,alcanzado,,line,FUENTE.oceca,2025-11-07,,Kalte-ordainak ezbeharra gertatu den lekurako eta urterako esleitzen dira; atzerrian gertatutako  ezbeharrak ez dira sartzen. ,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa eskaintzen du.",
+#11-3-2,complete,significant_progress,,line,FUENTE.oceca,2026-01-16,,"Adierazle hau % 100ekoa da, lurzoruaren gaineko estatuko legediaren arabera (hiri guztietan aplikatzekoa).","EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa eskaintzen du.",
+#11-4-1,complete,significant_progress,,line,FUENTE.oceca,2026-09-01,,,"EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak.  Kultura-ondarea bakarrik hartzen da kontuan, eta ez natura-ondarea.",
+#11-5-1,complete,significant_progress,True,line,FUENTE.oceca,2025-08-04,,,Eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak,
+#11-5-2,complete,significant_progress,,line,FUENTE.oceca,2025-11-07,,Kalte-ordainak ezbeharra gertatu den lekurako eta urterako esleitzen dira; atzerrian gertatutako  ezbeharrak ez dira sartzen. ,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa eskaintzen du.",
 #11-5-3,notstarted,notstarted,,line,,,,,,
-#11-6-1,complete,alcanzado,,line,"
+#11-6-1,complete,significant_progress,,line,"
 ""Biztanle bakoitzeko bildutako hiri-hondakinak"" eta ""Tratatutako hiri-hondakinen proportzioa, tratamendu-eragiketaren arabera"" serieak autonomia-erkidegoetako estatistika-organo nagusien  arteko metodologia harmonizatua erabiliz kalkulatu dira. ",2026-06-01,,,"""Instalazio kontrolatuetan bildu eta kudeatutako hiri-hondakinen proportzioa"" serieak
  Nazio Batuen adierazlearen metadatuak betetzen ditu",
 #11-6-2,complete,alcanzado,,line,FUENTE.oceca,2025-11-11,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#11-7-1,complete,alcanzado,,line,FUENTE.oceca,2025-05-08,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#11-7-2,complete,retroceso,,line,FUENTE.oceca,2026-04-22,,"
+#11-7-1,complete,significant_progress,,line,FUENTE.oceca,2025-05-08,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#11-7-2,complete,significant_deterioration,,line,FUENTE.oceca,2026-04-22,,"
 Sexu-jazarpena ez den jazarpentzat jotzen da askatasunaren aurkako jazarpena (zigor-kodearen 172 ter artikulua), higiezinei lotutako  jazarpena (zigor-kodearen 172.1.3 artikulua) eta lan- edo funtzio-jazarpena (zigor-kodearen 173.1 artikulua). 
 Datuak polizia jarduketen estatistiketatik datoz. Delitu ezagunak, biktimak eta susmagarriak biltzen dituzte. Datuek poliziari jakinarazitako kasuak laburbiltzen dituztenez, zifrek errealitatea gutxietsi dezakete.","EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, 
 baina informazio osagarria ematen du. Nazio Batuen adierazleak biztanlerian jazarpenak duen prebalentzia neurtzen du, 
 biztanleriari egindako inkesta batetik abiatuta; EAEn eskuragarri dagoen adierazlea, berriz, 
 erregistro administratiboetan oinarritzen da, eta errealitatea gutxietsi dezake.
 ",
-#11-a-1,complete,alcanzado,True,line,,2026-01-16,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
+#11-a-1,complete,significant_progress,True,line,,2026-01-16,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
 #11-b-1,complete,alcanzado,,line,,,True,,,
-#11-b-2,complete,alcanzado,True,line,,2025-08-14,,"
+#11-b-2,complete,significant_progress,True,line,,2025-08-14,,"
 Euskadin, Euskadiko Babes Zibileko Planak (LABI) ezarritakoaren arabera, 20.000 biztanletik gorako 
 udalerriek larrialdietarako udal-planak egin eta onartu behar dituzte.
 
