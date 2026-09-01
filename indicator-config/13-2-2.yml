@@ -26,7 +26,10 @@ national_geographical_coverage: ''
 page_content: GRAFICO.13-2-2-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: EN_ATM_GHGT_AIP
+    direction: negative
 reporting_status: complete
 sort: ''
 sources:
