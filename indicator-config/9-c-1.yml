@@ -28,12 +28,6 @@ permalink: ''
 precision: []
 auto_progress_calculation: true
 progress_calculation_options:
-  - series: IT_MOB_3GNTWK
-    direction: positive
-    limit: 100
-  - series: IT_MOB_4GNTWK
-    direction: positive
-    limit: 100
   - series: IT_MOB_5GNTWK
     direction: positive
     limit: 100

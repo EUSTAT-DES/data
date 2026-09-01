@@ -26,7 +26,12 @@ national_geographical_coverage: ''
 page_content: GRAFICO.9-2-1-contenido
 permalink: ''
 precision: []
-progress_status: retroceso
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: NV_IND_MANF
+    direction: positive
+  - series: NV_IND_MANFPC
+    direction: positive
 reporting_status: complete
 sort: ''
 sources:

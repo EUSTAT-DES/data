@@ -26,7 +26,12 @@ national_geographical_coverage: ''
 page_content: GRAFICO.9-1-2-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: EU_RDP_PAS
+    direction: positive
+  - series: EU_RDP_MER
+    direction: positive
 reporting_status: complete
 sort: ''
 sources:
