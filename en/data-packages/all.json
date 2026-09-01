@@ -12098,7 +12098,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Regional and local governments",
                 "Regional government",
                 "Local government",
                 ""

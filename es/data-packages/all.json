@@ -12098,7 +12098,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administración autonómica y local",
                 "Administración autonómica",
                 "Administración local",
                 ""

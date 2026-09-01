@@ -11438,7 +11438,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ADM_MUN_AUT",
                 "ADM_AUT",
                 "ADM_MUN",
                 ""

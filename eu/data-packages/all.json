@@ -12098,7 +12098,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrazio autonomikoa eta tokikoa",
                 "Administrazio autonomikoa",
                 "Toki-administrazioa",
                 ""
