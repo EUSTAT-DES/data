@@ -144,7 +144,7 @@ Galdu edo xahututako elikagaitzat hartzen dira hondakin bihurtutako elikagai guz
 Elikagaien artean kontatzen dira jangarriak diren zatiak eta jangarriak ez direnak (adib. arrainen hezurrak).
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #12-4-1,notapplicable,notapplicable,,line,,,,,,
-#12-4-2,complete,moderate_deterioration_sin_target,,line,,2026-06-01,,"
+#12-4-2,complete,moderate_deterioration,,line,,2026-06-01,,"
 Tratamendu-eragiketak, Hondakinei buruzko 2008/98/CE Zuzentarauaren arabera. ",EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
 #12-5-1,complete,moderate_deterioration,,line,FUENTE.oceca,2026-06-02,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
 #12-6-1,complete,significant_progress,,line,FUENTE.oceca,2025-06-11,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
@@ -153,9 +153,9 @@ Tratamendu-eragiketak, Hondakinei buruzko 2008/98/CE Zuzentarauaren arabera. ",E
 #12-a-1,complete,significant_progress,True,line,FUENTE.oceca,2026-05-18,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #12-b-1,notstarted,notstarted,,line,,,,,,
 #12-c-1,notstarted,notstarted,,line,,,,,,
-#13-1-1,complete,alcanzado,True,line,FUENTE.oceca,2025-08-04,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
+#13-1-1,complete,significant_progress,True,line,FUENTE.oceca,2025-08-04,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
 #13-1-2,complete,alcanzado,,line,,,True,,,
-#13-1-3,complete,alcanzado,True,line,,2025-08-14,,"
+#13-1-3,complete,significant_progress,True,line,,2025-08-14,,"
 Euskadin, Euskadiko Babes Zibileko Planak (LABI) ezarritakoaren arabera, 20.000 biztanletik gorako 
 udalerriek larrialdietarako udal-planak egin eta onartu behar dituzte. 
 
@@ -164,7 +164,7 @@ bat etorriz, jarraibide hau gomendagarria da. 2024an, 5.000 eta 20.000 biztanle 
 eta 1.000 eta 5.000 biztanle arteko udalerrien % 25ek Udal Larrialdi Plan homologatua dute. 
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #13-2-1,complete,alcanzado,,line,,,True,,,
-#13-2-2,complete,alcanzado,,line,FUENTE.oceca,2025-11-11,,,"""Berotegi-efektua eragiten duten gasen urteko guztizko isurketak"" serieak Nazio Batuen metadatuak betetzen ditu.  Horrez gain, Europako helburuekin zerikusia duten beste serie batzuk aurkezten dira. ",
+#13-2-2,complete,significant_progress,,line,FUENTE.oceca,2025-11-11,,,"""Berotegi-efektua eragiten duten gasen urteko guztizko isurketak"" serieak Nazio Batuen metadatuak betetzen ditu.  Horrez gain, Europako helburuekin zerikusia duten beste serie batzuk aurkezten dira. ",
 #13-3-1,notstarted,notstarted,,line,,,,,,
 #13-a-1,notapplicable,notapplicable,,line,,,,,,
 #13-b-1,notapplicable,notapplicable,,line,,,,,,
@@ -172,20 +172,20 @@ eta 1.000 eta 5.000 biztanle arteko udalerrien % 25ek Udal Larrialdi Plan homolo
 #14-2-1,notstarted,notstarted,,line,,,,,,
 #14-3-1,complete,alcanzado,,line,FUENTE.oceca,2026-06-10,,"Neurketa-laginak autonomia-erkidegoen arabera esleitzeko, lurreko punturik hurbilena hartzen da kontuan.",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu,
 #14-4-1,notstarted,notstarted,,line,,,,,,
-#14-5-1,complete,alcanzado,,bar,,2025-08-19,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu,
+#14-5-1,complete,significant_progress,,bar,,2025-08-19,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu,
 #14-6-1,notstarted,notstarted,,line,,,,,,
 #14-7-1,notstarted,notstarted,,line,,,,,,
 #14-a-1,notstarted,notstarted,,line,,,,,,
 #14-b-1,notstarted,notstarted,,line,,,,,,
 #14-c-1,notstarted,notstarted,,line,,,,,,
-#15-1-1,complete,alcanzado,True,line,FUENTE.oceca,2026-04-22,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#15-1-1,complete,significant_progress,True,line,FUENTE.oceca,2026-04-22,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #15-1-2,complete,noevaluado,,bar,,2025-08-04,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu,
-#15-1-E1,complete,progreso,,line,,2025-05-08,,,"EAEn eskuragarri dagoen adierazlea Europako adierazlearekin aldera daiteke.
+#15-1-E1,complete,significant_progress,,line,,2025-05-08,,,"EAEn eskuragarri dagoen adierazlea Europako adierazlearekin aldera daiteke.
 ",
-#15-2-1,complete,alcanzado,,line,FUENTE.oceca,2025-08-19,,,EAEn eskuragarri dagoen adierazleak Nazio Batuek proposatutako adierazlearen 4. azpiadierazleari erantzuten dio.,
-#15-3-1,complete,progreso,,line,,2025-05-08,,,"EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du.",
+#15-2-1,complete,significant_progress,,line,FUENTE.oceca,2025-08-19,,,EAEn eskuragarri dagoen adierazleak Nazio Batuek proposatutako adierazlearen 4. azpiadierazleari erantzuten dio.,
+#15-3-1,complete,significant_progress,,line,,2025-05-08,,,"EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du.",
 #15-4-1,complete,noevaluado,,bar,,2025-08-04,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu,
-#15-4-2,complete,alcanzado,,line,,2025-04-22,,,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa eskaintzen du.",
+#15-4-2,complete,significant_progress,,line,,2025-04-22,,,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa eskaintzen du.",
 #15-5-1,notstarted,notstarted,,line,,,,,,
 #15-6-1,notstarted,notstarted,,line,,,,,,
 #15-7-1,notstarted,notstarted,,line,,,,,,

@@ -170,7 +170,7 @@ indicator,goal,status
 12-2-2,12,significant_progress
 12-3-1,12,not_available
 12-4-1,12,notapplicable
-12-4-2,12,moderate_deterioration_sin_target
+12-4-2,12,moderate_deterioration
 12-5-1,12,moderate_deterioration
 12-6-1,12,significant_progress
 12-7-1,12,significant_progress
@@ -198,9 +198,9 @@ indicator,goal,status
 14-c-1,14,notstarted
 15-1-1,15,significant_progress
 15-1-2,15,not_available
-15-1-E1,15,moderate_progress
+15-1-E1,15,significant_progress
 15-2-1,15,significant_progress
-15-3-1,15,moderate_progress
+15-3-1,15,significant_progress
 15-4-1,15,not_available
 15-4-2,15,significant_progress
 15-5-1,15,notstarted
