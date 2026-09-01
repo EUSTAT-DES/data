@@ -6,7 +6,7 @@ indicator,goal,status
 1-4-1,1,significant_progress
 1-4-2,1,notstarted
 1-5-1,1,significant_progress
-1-5-2,1,not_available
+1-5-2,1,significant_progress
 1-5-3,1,significant_progress
 1-5-4,1,significant_progress
 1-a-1,1,notapplicable
@@ -170,8 +170,8 @@ indicator,goal,status
 12-2-2,12,significant_progress
 12-3-1,12,not_available
 12-4-1,12,notapplicable
-12-4-2,12,moderate_deterioration
-12-5-1,12,significant_progress
+12-4-2,12,moderate_deterioration_sin_target
+12-5-1,12,moderate_deterioration
 12-6-1,12,significant_progress
 12-7-1,12,significant_progress
 12-8-1,12,notstarted

@@ -54,7 +54,7 @@ handiagoa ere.
 #1-4-1,complete,significant_progress,True,line,FUENTE.oceca,2025-06-17,,Etxebizitza nagusia da urte osoan edo urte gehienean pertsona batek edo gehiagok  ohiko bizileku gisa erabiltzen duten etxea.,"EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu aztertutako serieetarako. Beste serie batzuk plataforma honetako garapen jasangarriaren beste adierazle batzuetan aurkezten dira (3-8-1, 4-1-1, 7-1-2, 9-1-1, 9-c-1, 11-2-1, 11-6-1)",
 #1-4-2,notstarted,notstarted,,line,,,,,,
 #1-5-1,complete,significant_progress,True,line,FUENTE.oceca,2025-08-04,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
-#1-5-2,complete,noevaluado,,line,FUENTE.oceca,2025-11-07,,"Kalte-ordainak ezbeharra gertatu den lekuari eta urteari esleituko zaizkie, atzerrian  gertatutako ezbeharrak kontuan hartu gabe.","EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina  antzeko informazioa ematen du  ",
+#1-5-2,complete,significant_progress,,line,FUENTE.oceca,2025-11-07,,"Kalte-ordainak ezbeharra gertatu den lekuari eta urteari esleituko zaizkie, atzerrian  gertatutako ezbeharrak kontuan hartu gabe.","EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina  antzeko informazioa ematen du  ",
 #1-5-3,complete,alcanzado,,line,,,True,,,
 #1-5-4,complete,significant_progress,True,line,,2025-08-14,,"
 Euskadin, Euskadiko Babes Zibileko Planak (LABI) ezarritakoaren arabera, 20.000 biztanletik gorako 
@@ -89,7 +89,7 @@ egituratzen du:
 Etxeko kontsumo-unitateen kopurua kalkulatzeko, ELGA eskala aldatua erabiltzen da.  Eskala horrek 1 pisua esleitzen dio 14 urte edo gehiagoko lehen pertsonari, 0,5 pisua 14 urte edo  gehiagoko gainerako pertsonei eta 0,3 pisua 14 urtetik beherako pertsonei.",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #10-2-1,complete,no_progress,,line,FUENTE.oceca,2025-05-08,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,indicator.relacionados
 #10-3-1,complete,significant_deterioration,,bar,,2025-08-19,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#10-4-1,complete,retroceso,,line,FUENTE.oceca,2025-10-21,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#10-4-1,complete,moderate_deterioration,,line,FUENTE.oceca,2025-10-21,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #10-4-2,complete,noevaluado,,line,,2025-05-08,,"
 Errenta baliokidea etxe bateko guztizko diru-sarreretatik eta diru-sarrera horietatik bizi diren pertsonen kopuru eta adinetik eratorritako balio bat da.","
 
@@ -137,20 +137,20 @@ eta 1.000 eta 5.000 biztanle arteko udalerrien % 25ek Udal Larrialdi Plan homolo
 #11-c-1,notstarted,notstarted,,line,,,,,,
 #12-1-1,complete,significant_progress,,bar,FUENTE.oceca,2026-01-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #12-2-1,notstarted,notstarted,,line,,,,,,
-#12-2-2,complete,alcanzado,,line,,2025-10-27,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#12-2-2,complete,significant_progress,,line,,2025-10-27,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #12-3-1,complete,noevaluado,,bar,,2025-11-24,,"
 Galdu edo xahututako elikagaitzat hartzen dira hondakin bihurtutako elikagai guztiak.  
 
 Elikagaien artean kontatzen dira jangarriak diren zatiak eta jangarriak ez direnak (adib. arrainen hezurrak).
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #12-4-1,notapplicable,notapplicable,,line,,,,,,
-#12-4-2,complete,retroceso,,line,,2026-06-01,,"
+#12-4-2,complete,moderate_deterioration_sin_target,,line,,2026-06-01,,"
 Tratamendu-eragiketak, Hondakinei buruzko 2008/98/CE Zuzentarauaren arabera. ",EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
-#12-5-1,complete,alcanzado,,line,FUENTE.oceca,2026-06-02,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
-#12-6-1,complete,alcanzado,,line,FUENTE.oceca,2025-06-11,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
-#12-7-1,complete,alcanzado,,bar,FUENTE.oceca,2026-05-20,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#12-5-1,complete,moderate_deterioration,,line,FUENTE.oceca,2026-06-02,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
+#12-6-1,complete,significant_progress,,line,FUENTE.oceca,2025-06-11,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
+#12-7-1,complete,significant_progress,,bar,FUENTE.oceca,2026-05-20,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #12-8-1,notstarted,notstarted,,line,,,,,,
-#12-a-1,complete,alcanzado,True,line,FUENTE.oceca,2026-05-18,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#12-a-1,complete,significant_progress,True,line,FUENTE.oceca,2026-05-18,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #12-b-1,notstarted,notstarted,,line,,,,,,
 #12-c-1,notstarted,notstarted,,line,,,,,,
 #13-1-1,complete,alcanzado,True,line,FUENTE.oceca,2025-08-04,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
