@@ -26,7 +26,14 @@ national_geographical_coverage: ''
 page_content: GRAFICO.11-a-1-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: EU_CPA_PTP
+    direction: positive
+    limit: 100
+  - series: EU_CPA_PGOU
+    direction: positive
+    limit: 100
 reporting_status: complete
 sort: ''
 sources:

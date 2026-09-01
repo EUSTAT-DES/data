@@ -26,7 +26,13 @@ national_geographical_coverage: ''
 page_content: GRAFICO.11-6-1-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: EU_W_GENPCAP
+    direction: negative
+  - series: EN_REF_WASCOL
+    direction: positive
+    limit: 100
 reporting_status: complete
 sort: ''
 sources:

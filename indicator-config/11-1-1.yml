@@ -26,7 +26,17 @@ national_geographical_coverage: ''
 page_content: GRAFICO.11-1-1-contenido
 permalink: ''
 precision: []
-progress_status: progreso
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: EU_INDQTHSNG_HUMID
+    direction: negative
+  - series: EU_INDQTHSNG_TOILET
+    direction: negative
+    limit: 0
+  - series: EU_INDQTHSNG_NOISE
+    direction: negative
+  - series: EU_INDQTHSNG_LIGHT
+    direction: negative
 reporting_status: complete
 sort: ''
 sources:
