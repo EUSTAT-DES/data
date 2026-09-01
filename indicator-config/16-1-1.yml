@@ -15,7 +15,10 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - unit: PER_100000_POP
+    minimum: 0
+    maximum: 1
 graph_stacked_disaggregation: ''
 graph_title: GRAFICO.16-1-1-titulo
 graph_titles: []
@@ -26,7 +29,9 @@ national_geographical_coverage: ''
 page_content: GRAFICO.16-1-1-contenido
 permalink: ''
 precision: []
-progress_status: alcanzado
+auto_progress_calculation: true
+progress_calculation_options:
+  - direction: negative
 reporting_status: complete
 sort: ''
 sources:
