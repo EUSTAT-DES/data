@@ -194,16 +194,16 @@ eta 1.000 eta 5.000 biztanle arteko udalerrien % 25ek Udal Larrialdi Plan homolo
 #15-a-1,notstarted,notstarted,,line,,,,,,
 #15-b-1,notstarted,notstarted,,line,,,,,,
 #15-c-1,notstarted,notstarted,,line,,,,,,
-#16-1-1,complete,alcanzado,,line,,2026-06-05,,"Ertzaintzak eta udaltzaingoek bildutako datuak. Datuek 15.000 biztanletik gorako herrietan erregistratutako  dolozko homizidioak baino ez dituzte biltzen. 
+#16-1-1,complete,significant_deterioration,,line,,2026-06-05,,"Ertzaintzak eta udaltzaingoek bildutako datuak. Datuek 15.000 biztanletik gorako herrietan erregistratutako  dolozko homizidioak baino ez dituzte biltzen. 
 Europar Batasunean ezarritako oinarrizko tipologia komunak erabiltzen dira (EUROSTAT estatistika-bulegoaren  bidez), herrialdeetako polizia-kidegoek ezagutzen dituzten arau-hauste penalei dagokienez. ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#16-1-2,complete,alcanzado,,line,FUENTE.oceca,2026-04-20,,Barne daude EAEn gertatutako atzerriko biztanleen heriotzak.,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
+#16-1-2,complete,significant_progress,,line,FUENTE.oceca,2026-04-20,,Barne daude EAEn gertatutako atzerriko biztanleen heriotzak.,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
 #16-1-3,notstarted,notstarted,,line,,,,,,
-#16-1-4,complete,progreso,,bar,FUENTE.oceca,2025-08-19,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#16-1-E1,complete,retroceso,,bar,FUENTE.oceca,2026-05-27,,,EAEn erabilgarri dagoen adierazleak EBko adierazlearen metadatuak betetzen ditu.,
+#16-1-4,complete,moderate_deterioration,,bar,FUENTE.oceca,2025-08-19,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#16-1-E1,complete,significant_deterioration,,bar,FUENTE.oceca,2026-05-27,,,EAEn erabilgarri dagoen adierazleak EBko adierazlearen metadatuak betetzen ditu.,
 #16-10-1,complete,alcanzado,,line,,,True,,,
 #16-10-2,notstarted,notstarted,,line,,,,,,
 #16-2-1,notstarted,notstarted,,line,,,,,,
-#16-2-2,complete,retroceso,,line,FUENTE.oceca,2025-08-04,,"
+#16-2-2,complete,significant_deterioration,,line,FUENTE.oceca,2025-08-04,,"
 Gerta daiteke adierazle hau gehiegi handitzea, pertsona bera pertsona-trafikoaren biktima izan delako 
 bi esplotazio-motatan edo gehiagotan eta ezin izan delako identifikatu konfidentzialtasun-arrazoien 
 zioz. Era berean, adierazlea Estatu-mailan ere gerta liteke gainestimazioa izatea, pertsona bat bi 
@@ -219,14 +219,14 @@ esklabotza edo antzeko praktikak, morrontza edo organoen erauzketa.
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #16-2-3,notstarted,notstarted,,line,,,,,,
 #16-3-1,notstarted,notstarted,,line,,,,,,
-#16-3-2,complete,retroceso,,line,FUENTE.oceca,2025-10-27,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#16-3-2,complete,significant_deterioration,,line,FUENTE.oceca,2025-10-27,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #16-3-3,notstarted,notstarted,,line,,,,,,
 #16-4-1,notstarted,notstarted,,line,,,,,,
 #16-4-2,notstarted,notstarted,,line,,,,,,
 #16-5-1,notstarted,notstarted,,line,,,,,,
 #16-5-2,notstarted,notstarted,,line,,,,,,
 #16-6-1,complete,alcanzado,True,line,FUENTE.oceca,2025-08-19,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#16-6-2,complete,progreso,,line,FUENTE.oceca,2025-10-24,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#16-6-2,complete,significant_progress,,line,FUENTE.oceca,2025-10-24,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #16-7-1,complete,progreso,,line,"
 ""Administrazio publikoko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez"" seriea  autonomia-erkidegoetako estatistika-organo nagusien arteko metodologia harmonizatua erabiliz kalkulatu da",2025-08-19,,"Adierazle horren erreferentzia-balioa 1 da, aztertutako instituzioan emakumeak duen 
 ordezkaritza 16 eta 64 urte bitarteko biztanlerian duen presentziarekiko guztiz proportzionala 
@@ -240,11 +240,11 @@ aldiz, 1 baino balio handiagoa badu, gainordezkatuta dagoela esan nahi du.
 ",EAEn erabilgarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak. Sexuaren araberako ezberdintasunetan zentratzen da,
 #16-7-2,notstarted,notstarted,,line,,,,,,
 #16-8-1,notapplicable,notapplicable,,line,,,,,,
-#16-9-1,complete,alcanzado,,line,FUENTE.oceca,2026-01-16,,"Adierazlea % 100ekoa da, Erregistro Zibilari buruzko legeriak jaiotzak inskribatzeko 
+#16-9-1,complete,significant_progress,,line,FUENTE.oceca,2026-01-16,,"Adierazlea % 100ekoa da, Erregistro Zibilari buruzko legeriak jaiotzak inskribatzeko 
 betebeharra ezartzen baitu.
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #16-a-1,notstarted,notstarted,,line,,,,,,
-#16-b-1,complete,retroceso,,bar,,2025-08-19,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#16-b-1,complete,significant_deterioration,,bar,,2025-08-19,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #17-1-1,complete,progreso,,line,,2025-09-22,,"EAEko administrazioen diru-sarrera bateratuak autonomia-erkidegoen eta toki-erakundeen 
 diru-sarrerak batuz lortzen dira, haien arteko transferentziak kenduta (arruntak zein 
 kapitalekoak), kontabilizazio bikoitza saihesteko. 
