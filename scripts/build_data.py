@@ -721,7 +721,7 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
         'NÚM OBJETIVO', 'NOMBRE OBJETIVO',
         'NÚM META', 'NOMBRE META',
         'NÚM INDICADOR', 'NOMBRE INDICADOR NNUU',
-        'INDICADOR DISPONIBLE',
+        'INDICADOR DISPONIBLE', 'CONTENIDO',
         'SERIE', 'NOMBRE SERIE',
         'REPORTING_STATUS',
         'BOOLEANO', 'GOLDILOCK', 'INDICADOR NO ESTADÍSTICO',
@@ -783,6 +783,7 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
                 meta_yaml = yaml.safe_load(f) or {}
 
         ind_disponible = indicador_disponible_str(meta_yaml)
+        contenido = t_grafico.get(f'{inid_dash}-contenido', '')
 
         # Campos de identificación (siempre presentes)
         base = {
@@ -793,6 +794,7 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
             'NÚM INDICADOR':         inid_dot,
             'NOMBRE INDICADOR NNUU': i_name,
             'INDICADOR DISPONIBLE':  ind_disponible,
+            'CONTENIDO':             contenido,
         }
 
         # not_started y notapplicable: solo identificación + status
