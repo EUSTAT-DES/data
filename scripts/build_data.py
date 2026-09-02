@@ -988,10 +988,101 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
 
 # ---------------------------------------------------------------------------
 
+def remove_goldilocks_progress_from_site(config_dir='indicator-config', site_dir='_site'):
+    """Elimina la columna 'Progress' de los JSON y CSV del _site/ para los indicadores
+    Goldilocks. La columna solo se necesita internamente para el cálculo de progreso;
+    no debe llegar al frontend como desagregación.
+    """
+    import json as _json
+    import glob
+
+    # Detectar qué indicadores tienen goldilocks_transform
+    goldilocks_inids = []
+    for config_file in os.listdir(config_dir):
+        if not config_file.endswith('.yml'):
+            continue
+        inid = config_file[:-4]
+        with open(os.path.join(config_dir, config_file), encoding='utf-8') as f:
+            config = yaml.safe_load(f)
+        if not config:
+            continue
+        opts = config.get('progress_calculation_options', [])
+        if any(isinstance(o, dict) and 'goldilocks_transform' in o for o in opts):
+            goldilocks_inids.append(inid)
+
+    if not goldilocks_inids:
+        return
+
+    print(f'[EUSTAT] Goldilocks: eliminando columna Progress del _site/ para: {goldilocks_inids}')
+
+    for inid in goldilocks_inids:
+        # Patrones de archivos afectados en todas las carpetas de idioma
+        # data.json y comb.json (que contiene data)
+        for pattern in [
+            f'{site_dir}/*/data/indicator_{inid}.json',
+            f'{site_dir}/data/indicator_{inid}.json',
+        ]:
+            for fpath in glob.glob(pattern):
+                try:
+                    with open(fpath, encoding='utf-8') as f:
+                        content = _json.load(f)
+                    modified = False
+                    # Formato 'list': {'Year': [...], 'Value': [...], 'Progress': [...], ...}
+                    if isinstance(content, dict) and 'Progress' in content:
+                        del content['Progress']
+                        modified = True
+                    if modified:
+                        with open(fpath, 'w', encoding='utf-8') as f:
+                            _json.dump(content, f, ensure_ascii=False)
+                        print(f'  [EUSTAT] Progress eliminado de {fpath}')
+                except Exception as e:
+                    print(f'  [EUSTAT] Error procesando {fpath}: {e}')
+
+        # comb.json (tiene {'data': {...}, 'edges': {...}})
+        for pattern in [
+            f'{site_dir}/*/comb/indicator_{inid}.json',
+            f'{site_dir}/comb/indicator_{inid}.json',
+        ]:
+            for fpath in glob.glob(pattern):
+                try:
+                    with open(fpath, encoding='utf-8') as f:
+                        content = _json.load(f)
+                    modified = False
+                    if isinstance(content, dict) and 'data' in content:
+                        if isinstance(content['data'], dict) and 'Progress' in content['data']:
+                            del content['data']['Progress']
+                            modified = True
+                    if modified:
+                        with open(fpath, 'w', encoding='utf-8') as f:
+                            _json.dump(content, f, ensure_ascii=False)
+                        print(f'  [EUSTAT] Progress eliminado de {fpath}')
+                except Exception as e:
+                    print(f'  [EUSTAT] Error procesando {fpath}: {e}')
+
+        # CSV de datos en _site/
+        for pattern in [
+            f'{site_dir}/*/data/indicator_{inid}.csv',
+            f'{site_dir}/data/indicator_{inid}.csv',
+        ]:
+            for fpath in glob.glob(pattern):
+                try:
+                    df = pd.read_csv(fpath)
+                    if 'Progress' in df.columns:
+                        df = df.drop(columns=['Progress'])
+                        df.to_csv(fpath, index=False)
+                        print(f'  [EUSTAT] Progress eliminado de {fpath}')
+                except Exception as e:
+                    print(f'  [EUSTAT] Error procesando {fpath}: {e}')
+
+
 # Goldilocks: precalcular columna Progress en CSVs antes del build
 apply_goldilocks_transforms(data_dir='data', config_dir='indicator-config')
 
 open_sdg_build(config='config_data.yml')
+
+# Goldilocks: eliminar columna Progress de los JSON/CSV publicados en _site/
+# (solo se necesitaba internamente para el cálculo; no debe mostrarse como desagregación)
+remove_goldilocks_progress_from_site(config_dir='indicator-config', site_dir='_site')
 
 # Generar progreso.csv a partir de los metadatos del build
 import json, csv
