@@ -1,129 +1,193 @@
 Year,Age,Province,Units,Value
-2013,10-14 years,,"Per 1,000 inhabitants",0.1
-2012,10-14 years,,"Per 1,000 inhabitants",0.1
-2011,10-14 years,,"Per 1,000 inhabitants",0.0
-2014,10-14 years,,"Per 1,000 inhabitants",0.0
-2025,10-14 years,,"Per 1,000 inhabitants",0.0
-2022,10-14 years,,"Per 1,000 inhabitants",0.1
-2020,10-14 years,,"Per 1,000 inhabitants",0.0
-2024,10-14 years,,"Per 1,000 inhabitants",0.0
-2010,10-14 years,,"Per 1,000 inhabitants",0.1
-2017,10-14 years,,"Per 1,000 inhabitants",0.1
-2018,10-14 years,,"Per 1,000 inhabitants",0.1
-2019,10-14 years,,"Per 1,000 inhabitants",0.0
-2015,10-14 years,,"Per 1,000 inhabitants",0.0
-2023,10-14 years,,"Per 1,000 inhabitants",0.0
-2021,10-14 years,,"Per 1,000 inhabitants",0.1
-2016,10-14 years,,"Per 1,000 inhabitants",0.0
-2017,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
-2011,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.2
-2010,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
-2025,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
-2021,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.1
-2015,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2025,,,"Per 1,000 inhabitants",1.53
+2010,,,"Per 1,000 inhabitants",3.2
+2011,,,"Per 1,000 inhabitants",2.91
+2020,,,"Per 1,000 inhabitants",1.64
+2013,,,"Per 1,000 inhabitants",2.76
+2016,,,"Per 1,000 inhabitants",2.29
+2017,,,"Per 1,000 inhabitants",2.14
+2023,,,"Per 1,000 inhabitants",1.58
+2014,,,"Per 1,000 inhabitants",2.73
+2012,,,"Per 1,000 inhabitants",2.94
+2024,,,"Per 1,000 inhabitants",1.32
+2018,,,"Per 1,000 inhabitants",1.79
+2022,,,"Per 1,000 inhabitants",1.58
+2021,,,"Per 1,000 inhabitants",1.55
+2019,,,"Per 1,000 inhabitants",1.94
+2015,,,"Per 1,000 inhabitants",2.39
+2010,,Araba/Álava,"Per 1,000 inhabitants",4.23
+2013,,Araba/Álava,"Per 1,000 inhabitants",3.07
+2018,,Araba/Álava,"Per 1,000 inhabitants",2.5
+2024,,Araba/Álava,"Per 1,000 inhabitants",1.6
+2012,,Araba/Álava,"Per 1,000 inhabitants",3.65
+2011,,Araba/Álava,"Per 1,000 inhabitants",4.24
+2020,,Araba/Álava,"Per 1,000 inhabitants",1.73
+2021,,Araba/Álava,"Per 1,000 inhabitants",1.32
+2022,,Araba/Álava,"Per 1,000 inhabitants",1.84
+2017,,Araba/Álava,"Per 1,000 inhabitants",3.2
+2025,,Araba/Álava,"Per 1,000 inhabitants",1.59
+2019,,Araba/Álava,"Per 1,000 inhabitants",2.5
+2016,,Araba/Álava,"Per 1,000 inhabitants",3.21
+2023,,Araba/Álava,"Per 1,000 inhabitants",1.62
+2014,,Araba/Álava,"Per 1,000 inhabitants",3.16
+2015,,Araba/Álava,"Per 1,000 inhabitants",3.44
+2025,,Bizkaia,"Per 1,000 inhabitants",1.78
+2011,,Bizkaia,"Per 1,000 inhabitants",3.07
+2016,,Bizkaia,"Per 1,000 inhabitants",2.29
+2015,,Bizkaia,"Per 1,000 inhabitants",2.6
+2018,,Bizkaia,"Per 1,000 inhabitants",1.78
+2022,,Bizkaia,"Per 1,000 inhabitants",1.74
+2024,,Bizkaia,"Per 1,000 inhabitants",1.35
+2012,,Bizkaia,"Per 1,000 inhabitants",3.45
+2019,,Bizkaia,"Per 1,000 inhabitants",2.21
+2020,,Bizkaia,"Per 1,000 inhabitants",1.98
+2013,,Bizkaia,"Per 1,000 inhabitants",3.18
+2014,,Bizkaia,"Per 1,000 inhabitants",3.22
+2023,,Bizkaia,"Per 1,000 inhabitants",1.81
+2010,,Bizkaia,"Per 1,000 inhabitants",3.42
+2017,,Bizkaia,"Per 1,000 inhabitants",2.2
+2021,,Bizkaia,"Per 1,000 inhabitants",1.94
+2023,,Gipuzkoa,"Per 1,000 inhabitants",1.22
+2024,,Gipuzkoa,"Per 1,000 inhabitants",1.14
+2015,,Gipuzkoa,"Per 1,000 inhabitants",1.64
+2016,,Gipuzkoa,"Per 1,000 inhabitants",1.91
+2012,,Gipuzkoa,"Per 1,000 inhabitants",1.87
+2019,,Gipuzkoa,"Per 1,000 inhabitants",1.32
+2011,,Gipuzkoa,"Per 1,000 inhabitants",2.09
+2017,,Gipuzkoa,"Per 1,000 inhabitants",1.59
+2014,,Gipuzkoa,"Per 1,000 inhabitants",1.85
+2013,,Gipuzkoa,"Per 1,000 inhabitants",2.0
+2010,,Gipuzkoa,"Per 1,000 inhabitants",2.41
+2025,,Gipuzkoa,"Per 1,000 inhabitants",1.14
+2018,,Gipuzkoa,"Per 1,000 inhabitants",1.49
+2020,,Gipuzkoa,"Per 1,000 inhabitants",1.1
+2021,,Gipuzkoa,"Per 1,000 inhabitants",1.08
+2022,,Gipuzkoa,"Per 1,000 inhabitants",1.24
+2016,10-14 years,,"Per 1,000 inhabitants",0.04
+2014,10-14 years,,"Per 1,000 inhabitants",0.04
+2015,10-14 years,,"Per 1,000 inhabitants",0.04
+2018,10-14 years,,"Per 1,000 inhabitants",0.06
+2022,10-14 years,,"Per 1,000 inhabitants",0.06
+2011,10-14 years,,"Per 1,000 inhabitants",0.05
+2017,10-14 years,,"Per 1,000 inhabitants",0.06
+2025,10-14 years,,"Per 1,000 inhabitants",0.04
+2013,10-14 years,,"Per 1,000 inhabitants",0.09
+2020,10-14 years,,"Per 1,000 inhabitants",0.04
+2023,10-14 years,,"Per 1,000 inhabitants",0.02
+2021,10-14 years,,"Per 1,000 inhabitants",0.09
+2012,10-14 years,,"Per 1,000 inhabitants",0.13
+2024,10-14 years,,"Per 1,000 inhabitants",0.04
+2019,10-14 years,,"Per 1,000 inhabitants",0.04
+2010,10-14 years,,"Per 1,000 inhabitants",0.07
 2020,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2015,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2014,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
 2019,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
-2022,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2016,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2011,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.15
 2018,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
 2013,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
-2014,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
-2012,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.1
-2016,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
-2024,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2025,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2010,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2022,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2017,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
 2023,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
-2025,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.0
-2010,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.0
-2015,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.1
-2013,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.1
-2011,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.0
-2012,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.2
-2024,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.0
-2021,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.2
-2014,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.1
-2022,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.1
-2023,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.0
+2024,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.0
+2021,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.12
+2012,10-14 years,Araba/Álava,"Per 1,000 inhabitants",0.15
+2018,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.12
+2025,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.04
+2024,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.04
+2023,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.04
+2022,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.11
+2020,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.08
+2019,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.08
+2017,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.04
 2016,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.0
-2019,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.1
-2018,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.1
-2020,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.1
-2017,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.0
-2014,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
-2011,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
-2022,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
-2015,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
+2015,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.08
+2014,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.08
+2013,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.13
+2012,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.22
+2011,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.05
+2021,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.15
+2010,10-14 years,Bizkaia,"Per 1,000 inhabitants",0.0
+2017,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.11
 2019,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
-2013,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.1
+2016,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.12
+2015,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
+2014,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
+2013,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.06
 2012,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
-2021,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
-2016,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.1
+2011,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
+2010,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.21
+2025,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.06
+2024,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.06
 2023,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
-2010,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.2
-2024,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.1
+2022,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
+2021,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
 2018,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
-2017,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.1
-2025,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.1
 2020,10-14 years,Gipuzkoa,"Per 1,000 inhabitants",0.0
-2024,15-19 years,,"Per 1,000 inhabitants",2.6
-2010,15-19 years,,"Per 1,000 inhabitants",6.4
-2022,15-19 years,,"Per 1,000 inhabitants",3.1
-2012,15-19 years,,"Per 1,000 inhabitants",5.9
-2013,15-19 years,,"Per 1,000 inhabitants",5.7
-2019,15-19 years,,"Per 1,000 inhabitants",4.0
-2017,15-19 years,,"Per 1,000 inhabitants",4.4
-2018,15-19 years,,"Per 1,000 inhabitants",3.7
-2011,15-19 years,,"Per 1,000 inhabitants",5.9
-2023,15-19 years,,"Per 1,000 inhabitants",3.1
-2014,15-19 years,,"Per 1,000 inhabitants",5.7
-2016,15-19 years,,"Per 1,000 inhabitants",4.8
-2020,15-19 years,,"Per 1,000 inhabitants",3.3
+2018,15-19 years,,"Per 1,000 inhabitants",3.66
+2016,15-19 years,,"Per 1,000 inhabitants",4.79
+2013,15-19 years,,"Per 1,000 inhabitants",5.69
+2014,15-19 years,,"Per 1,000 inhabitants",5.73
+2021,15-19 years,,"Per 1,000 inhabitants",3.05
 2015,15-19 years,,"Per 1,000 inhabitants",5.0
-2021,15-19 years,,"Per 1,000 inhabitants",3.0
-2025,15-19 years,,"Per 1,000 inhabitants",3.0
-2020,15-19 years,Araba/Álava,"Per 1,000 inhabitants",3.6
-2011,15-19 years,Araba/Álava,"Per 1,000 inhabitants",8.6
-2015,15-19 years,Araba/Álava,"Per 1,000 inhabitants",7.2
-2017,15-19 years,Araba/Álava,"Per 1,000 inhabitants",6.7
-2021,15-19 years,Araba/Álava,"Per 1,000 inhabitants",2.6
-2012,15-19 years,Araba/Álava,"Per 1,000 inhabitants",7.4
-2024,15-19 years,Araba/Álava,"Per 1,000 inhabitants",3.3
-2025,15-19 years,Araba/Álava,"Per 1,000 inhabitants",3.2
-2018,15-19 years,Araba/Álava,"Per 1,000 inhabitants",5.2
-2023,15-19 years,Araba/Álava,"Per 1,000 inhabitants",3.3
-2014,15-19 years,Araba/Álava,"Per 1,000 inhabitants",6.7
-2022,15-19 years,Araba/Álava,"Per 1,000 inhabitants",3.8
-2019,15-19 years,Araba/Álava,"Per 1,000 inhabitants",5.2
-2016,15-19 years,Araba/Álava,"Per 1,000 inhabitants",6.7
-2013,15-19 years,Araba/Álava,"Per 1,000 inhabitants",6.5
+2024,15-19 years,,"Per 1,000 inhabitants",2.57
+2017,15-19 years,,"Per 1,000 inhabitants",4.43
+2019,15-19 years,,"Per 1,000 inhabitants",3.97
+2022,15-19 years,,"Per 1,000 inhabitants",3.13
+2011,15-19 years,,"Per 1,000 inhabitants",5.94
+2010,15-19 years,,"Per 1,000 inhabitants",6.42
+2020,15-19 years,,"Per 1,000 inhabitants",3.31
+2025,15-19 years,,"Per 1,000 inhabitants",2.98
+2023,15-19 years,,"Per 1,000 inhabitants",3.12
+2012,15-19 years,,"Per 1,000 inhabitants",5.95
+2012,15-19 years,Araba/Álava,"Per 1,000 inhabitants",7.43
 2010,15-19 years,Araba/Álava,"Per 1,000 inhabitants",8.6
-2025,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.5
-2023,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.6
-2022,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.4
-2021,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.8
-2019,15-19 years,Bizkaia,"Per 1,000 inhabitants",4.5
-2018,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.6
-2017,15-19 years,Bizkaia,"Per 1,000 inhabitants",4.6
-2014,15-19 years,Bizkaia,"Per 1,000 inhabitants",6.7
-2015,15-19 years,Bizkaia,"Per 1,000 inhabitants",5.4
+2020,15-19 years,Araba/Álava,"Per 1,000 inhabitants",3.63
+2011,15-19 years,Araba/Álava,"Per 1,000 inhabitants",8.6
+2014,15-19 years,Araba/Álava,"Per 1,000 inhabitants",6.67
+2019,15-19 years,Araba/Álava,"Per 1,000 inhabitants",5.23
+2018,15-19 years,Araba/Álava,"Per 1,000 inhabitants",5.24
+2022,15-19 years,Araba/Álava,"Per 1,000 inhabitants",3.83
+2024,15-19 years,Araba/Álava,"Per 1,000 inhabitants",3.26
+2016,15-19 years,Araba/Álava,"Per 1,000 inhabitants",6.69
+2025,15-19 years,Araba/Álava,"Per 1,000 inhabitants",3.25
+2023,15-19 years,Araba/Álava,"Per 1,000 inhabitants",3.33
+2021,15-19 years,Araba/Álava,"Per 1,000 inhabitants",2.63
+2017,15-19 years,Araba/Álava,"Per 1,000 inhabitants",6.69
+2015,15-19 years,Araba/Álava,"Per 1,000 inhabitants",7.21
+2013,15-19 years,Araba/Álava,"Per 1,000 inhabitants",6.46
+2025,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.46
+2024,15-19 years,Bizkaia,"Per 1,000 inhabitants",2.63
+2023,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.56
+2022,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.38
+2021,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.76
+2020,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.94
+2019,15-19 years,Bizkaia,"Per 1,000 inhabitants",4.46
+2018,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.58
+2017,15-19 years,Bizkaia,"Per 1,000 inhabitants",4.59
+2016,15-19 years,Bizkaia,"Per 1,000 inhabitants",4.84
+2015,15-19 years,Bizkaia,"Per 1,000 inhabitants",5.41
+2014,15-19 years,Bizkaia,"Per 1,000 inhabitants",6.69
 2013,15-19 years,Bizkaia,"Per 1,000 inhabitants",6.5
-2012,15-19 years,Bizkaia,"Per 1,000 inhabitants",6.9
-2011,15-19 years,Bizkaia,"Per 1,000 inhabitants",6.2
-2010,15-19 years,Bizkaia,"Per 1,000 inhabitants",6.8
-2016,15-19 years,Bizkaia,"Per 1,000 inhabitants",4.8
-2020,15-19 years,Bizkaia,"Per 1,000 inhabitants",3.9
-2024,15-19 years,Bizkaia,"Per 1,000 inhabitants",2.6
-2011,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",4.4
-2025,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.2
-2024,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.2
-2020,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.2
-2022,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.5
-2023,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.4
+2012,15-19 years,Bizkaia,"Per 1,000 inhabitants",6.85
+2011,15-19 years,Bizkaia,"Per 1,000 inhabitants",6.19
+2010,15-19 years,Bizkaia,"Per 1,000 inhabitants",6.85
 2021,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.2
-2019,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.7
-2018,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.1
-2017,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.2
-2014,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.9
-2016,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.9
-2015,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.5
-2013,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",4.1
-2012,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.9
-2010,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",4.8
+2020,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.24
+2019,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.71
+2017,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.22
+2016,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.89
+2014,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.91
+2015,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.46
+2013,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",4.14
+2012,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.92
+2011,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",4.36
+2018,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",3.11
+2022,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.47
+2010,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",4.77
+2025,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.17
+2024,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.17
+2023,15-19 years,Gipuzkoa,"Per 1,000 inhabitants",2.41
