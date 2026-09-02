@@ -2154,8 +2154,34 @@
   score: 5.0
   target_variant: con_target
 4-3-1:
-  progress_status: progreso
-  score: null
+  4-3-1 / 15 eta 64 urte bitarteko herritarrek azken 4 asteetan irakaskuntzan eta prestakuntza akademikoan eta ez-akademi...:
+    base_value: 24.4
+    base_year: 2015.0
+    current_value: 24.9
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: 0.0022563941868838366
+    score: 0.5640985467209592
+    sign: 1
+    status: moderate_progress
+    target: null
+    target_year: 2030.0
+  4-3-1 / 18 eta 64 urte bitarteko herritarrek azken 12 hilabeteetan hezkuntza-jardueretan izandako parte-hartze tasa:
+    base_value: 48.1
+    base_year: 2016.0
+    current_value: 52.9
+    current_year: 2022.0
+    direction: 1
+    limit: null
+    progress_value: 0.0159798608469075
+    score: 3.9949652117268752
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: moderate_progress
+  score: 2.279531879223917
   target_variant: sin_target
 4-4-1:
   4-4-1:
