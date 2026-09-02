@@ -11842,9 +11842,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y18T64",
                 "Y15T24",
-                "Y15T64",
                 "Y25T64",
                 ""
               ]

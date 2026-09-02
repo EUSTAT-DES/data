@@ -12516,9 +12516,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "18-64 urte",
                 "15-24 urte",
-                "15-64 urte",
                 "25-64 urte",
                 ""
               ]
