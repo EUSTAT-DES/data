@@ -12492,8 +12492,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Azken 12 hilabeteetan hezkuntza-jardueretan izandako parte-hartze tasa",
-                "Irakaskuntzan eta prestakuntza akademikoan eta ez-akademikoan izandako parte-hartze tasa azken 4 asteetan",
+                "18 eta 64 urte bitarteko herritarrek azken 12 hilabeteetan hezkuntza-jardueretan izandako parte-hartze tasa",
+                "15 eta 64 urte bitarteko herritarrek azken 4 asteetan irakaskuntzan eta prestakuntza akademikoan eta ez-akademikoan izandako parte-hartze tasa",
                 ""
               ]
             },

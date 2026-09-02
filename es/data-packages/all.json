@@ -12492,8 +12492,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tasa de participación en actividades educativas en los últimos 12 meses",
-                "Tasa de participación en la enseñanza y formación académica y no académica en las últimas 4 semanas",
+                "Tasa de participación de la población de entre 18 y 64 años en actividades educativas en los últimos 12 meses",
+                "Tasa de participación de la población de entre 15 y 64 años en la enseñanza y formación académica y no académica en las últimas 4 semanas",
                 ""
               ]
             },
