@@ -48,7 +48,6 @@ progress_calculation_options:
     limit: 50
   - series: GEN_REGIOPARL
     direction: positive
-    limit: 50
   - series: GEN_REGIOG
     direction: positive
     limit: 50
