@@ -1991,8 +1991,21 @@
   score: null
   target_variant: sin_target
 3-7-2:
-  progress_status: alcanzado
-  score: null
+  3-7-2:
+    base_value: 2.39
+    base_year: 2015.0
+    current_value: 1.53
+    current_year: 2025.0
+    direction: -1
+    limit: 0.0
+    progress_value: 0.04362249393441531
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 3-8-1:
   3-8-1:
