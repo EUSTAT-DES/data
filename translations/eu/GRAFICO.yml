@@ -178,8 +178,8 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
   Euskal AEk ez du estatistika jarraitu eta ofizialik egiten adierazlearen metodologiarekin, baina hainbat zantzuk adierazten dutenaren arabera, benetako datua 0tik oso hurbil dago
 2-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 2-2-E1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
-2-3-1-contenido: "<b>Xedea:</b> Nekazaritzako produktibitatea eta elikagai-ekoizle txikien diru-sarrerak bikoiztea"
-2-3-2-contenido: "<b>Xedea:</b> Nekazaritzako produktibitatea eta elikagai-ekoizle txikien diru-sarrerak bikoiztea"
+2-3-1-contenido: "<b>Xedea:</b> Elikagai-ekoizle txikien produktibitatea bikoiztea"
+2-3-2-contenido: "<b>Xedea:</b> Elikagai-ekoizle txikien diru-sarrerak bikoiztea"
 2-4-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 2-4-E1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 2-4-E2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
@@ -194,8 +194,8 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 3-3-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 3-3-3-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 3-3-4-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
-3-4-1-contenido: "<b>Xedea:</b> Gaixotasun ez-kutsakorren ondoriozko hilkortasun goiztiarra heren bat murriztea" 
-3-4-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
+3-4-1-contenido: "<b>Xedea:</b> Hilkortasun goiztiarra heren bat murriztea" 
+3-4-2-contenido: "<b>Xedea:</b> 2030erako heren bat murriztea"
 3-4-E1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 3-4-E2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 3-5-1-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
@@ -257,7 +257,7 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 8-1-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 8-2-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 8-4-2-contenido: "<b>Nahi den norabidea:</b> BPGaren araberako materialen etxeko kontsumoa seriearen jaitsiera"
-8-5-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
+8-5-1-contenido: "<b>Nahi den norabidea:</b> Igoera orduko batez besteko diru-sarreretan, jaitsiera genero-arrakalan"
 8-5-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
 8-5-E1-contenido: "<b>Nahi den norabidea:</b> Okupazio-tasa seriean, Europaren helburua 2030erako % 78ra iristea da. Bestalde, Genero-arrakala seriean, urte horretan bertan aldea gehienez ehuneko 5,8 puntura murriztea da helburua."
 8-6-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
@@ -270,18 +270,11 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
 8-9-2-contenido:  "<b>Nahi den norabidea:</b> Igoera"
 8-10-1-contenido: "<b>Nahi den norabidea:</b> Ez ebaluagarria"
 8-10-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
-8-b-1-contenido: |
-
-  Euskal AEk gazteen emantzipazioa laguntzeko 2030 Euskal Estrategia eta <a href="https://www.euskadi.eus/planak-egitasmoak-gazteria/web01-a2gazter/eu/">V. Gazte Plana 2022-2026</a>, 
-  ditu. Horien helburua da gazteei helduarorako trantsizioa erraztea, haien autonomia eta lan-eremuan sartzea sustatuz, batez ere gaur egun lan-merkatutik urrun daudenei dagokienez. 
-
-  
-  <a href="https://www.euskadi.eus/planak-txostenak-plangintza-berrikuntza-enpleguan/web01-s2enple/eu/">Enpleguaren Euskal Estrategia 2030ak eta Enplegu Planek</a> 
-  barne hartzen dituzte gazteen enplegua sustatzeko jarduera-ildo espezifikoak, prestakuntza-programen, kontrataziorako pizgarrien eta gazte-ekintzailetzarako laguntzaren bidez.
+8-b-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
 9-1-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 9-1-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
-9-2-1-contenido: "<b>Nahi den norabidea:</b> Mantentzea edo igoera"
+9-2-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 9-2-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
 9-3-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 9-4-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
@@ -351,17 +344,17 @@ OCECA-10-2-1-1A: "Diru-sarreren medianaren % 50etik behera bizi diren pertsonen 
   berotegi-efektuko gasen emisioa % 30 murriztea; energia berriztagarrien kuota energiaren azken kontsumoaren % 20 izatea lortzea; eta euskal lurraldeak klima-aldaketarekiko duen erresilientzia bermatzea. 
 
 
-13-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera Per capita berotegi-efektuko gasen guztizko isuriak seriean"
+13-2-2-contenido: "<b>Nahi den norabidea:</b> Jaitsiera serie guztietan. Helburua da 2030ean berotegi-efektuko gasen isuriak 1990ean izandakoen %45 baino gutxiago izatea (EBren helburua)"
 
-14-3-1-contenido: "<b>Nahi den norabidea:</b> Mantentzea"
+14-3-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 14-5-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
-15-1-1-contenido: "<b>Nahi den norabidea:</b> Mantentzea edo igoera"
+15-1-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 15-1-2-contenido: "<b>Nahi den norabidea:</b> Igoera"
-15-1-E1-contenido: "<b>Nahi den norabidea:</b> Mantentzea edo igoera"
+15-1-E1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 15-2-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 15-3-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
-15-4-2-contenido: "<b>Dirección deseada:</b> Mantentzea edo igoera"
+15-4-2-contenido: "<b>Dirección deseada:</b> Igoera"
 15-8-1-contenido: "<b>Nahi den norabidea:</b> Igoera"
 
 16-1-1-contenido: "<b>Nahi den norabidea:</b> Jaitsiera"
