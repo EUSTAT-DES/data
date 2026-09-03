@@ -81,7 +81,13 @@ justificacion_global: |
 dato_global: >- 
   <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_13_10/default/table?lang=en&category=sdg.sdg_13"> Net greenhouse gas emissions (sdg_13_10)</a> Eurostat
 
-comparabilidad: >-
-  The "total annual greenhouse gas emissions" series complies with United Nations metadata. Other series related to European targets are also presented.
+comparabilidad: |
+  The "Total greenhouse gas emissions per year" series complies with United Nations metadata.
+  The "Greenhouse gas emissions compared to 1990" series complies with Eurostat sdg 13_10 indicator metadata.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-13-02-02.pdf">Metadata 13-2-2.pdf</a>'
+
+indicador_meta_enlace: |
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-13-02-02.pdf">Metadata 13-2-2.pdf</a>
+
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_13_10_esmsip2.htm">Metadata Eurostat (sdg_13_10)</a>
