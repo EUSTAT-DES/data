@@ -87,9 +87,15 @@ justificacion_global: |
 dato_global: >- 
   <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_13_10/default/table?lang=en&category=sdg.sdg_13"> Emisiones netas de gases de efecto invernadero (sdg_13_10)</a> Eurostat
 
-comparabilidad: >-
-  La serie "emisiones totales de gases de efecto invernadero por año" cumple con los metadatos de 
-  Naciones Unidas. Se presentan, además, otras series relacionadas con los objetivos europeos.
+comparabilidad: |
+  La serie "Emisiones totales de gases de efecto invernadero por año" cumple con los metadatos de 
+  Naciones Unidas.
+  La serie "Emisiones de gases de efecto invernadero respecto al año 1990" cumple con los metadatos del indicador Eurostat sdg 13_10.
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-13-02-02.pdf">Metadatos 13-2-2.pdf</a> (solo en inglés)'
+indicador_meta_enlace: |
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-13-02-02.pdf">Metadatos 13-2-2.pdf</a> (solo en inglés)
+
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_13_10_esmsip2.htm">Metadatos Eurostat (sdg_13_10)</a> (solo en inglés)
+
 
