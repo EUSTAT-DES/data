@@ -785,6 +785,19 @@
   score: null
   target_variant: sin_target
 13-2-2:
+  13-2-2 / Berotegi-efektuko gasen isuriak, 1990. urtearekiko:
+    base_value: -6.21
+    base_year: 2015.0
+    current_value: -21.98
+    current_year: 2023.0
+    direction: -1
+    limit: null
+    progress_value: 1.2126558572582298
+    score: 4.376113266130213
+    sign: -1
+    status: significant_progress
+    target: -45.0
+    target_year: 2030.0
   13-2-2 / Berotegi-efektuko gasen isurketak, guztira, urtearen arabera:
     base_value: 19467497.86
     base_year: 2015.0
@@ -799,8 +812,8 @@
     target: null
     target_year: 2030.0
   progress_status: significant_progress
-  score: 5.0
-  target_variant: sin_target
+  score: 4.688056633065107
+  target_variant: mixto
 13-3-1:
   progress_status: notstarted
   score: null
@@ -822,8 +835,21 @@
   score: null
   target_variant: sin_target
 14-3-1:
-  progress_status: significant_progress
-  score: null
+  14-3-1:
+    base_value: 8.07
+    base_year: 2015.0
+    current_value: 8.05
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: -0.0002756720900630727
+    score: -0.06891802251576817
+    sign: 1
+    status: no_progress
+    target: null
+    target_year: 2030.0
+  progress_status: no_progress
+  score: -0.06891802251576817
   target_variant: sin_target
 14-4-1:
   progress_status: notstarted
@@ -2025,7 +2051,7 @@
   score: -5.0
   target_variant: con_target
 3-8-2:
-  progress_status: retroceso
+  progress_status: moderate_deterioration
   score: null
   target_variant: sin_target
 3-9-1:
