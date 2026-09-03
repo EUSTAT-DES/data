@@ -850,8 +850,9 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
             except Exception:
                 pass
 
-        fecha_act = config.get('national_data_updated_date',
-                               meta_yaml.get('national_data_updated_date', ''))
+        # La fecha la gestiona sdg-build internamente y queda en all_meta;
+        # config e indicator-config casi siempre la tienen vacía.
+        fecha_act = meta.get('national_data_updated_date', '')
 
         config_fields = {
             'REPORTING_STATUS':           reporting_status,
