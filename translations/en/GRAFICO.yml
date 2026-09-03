@@ -173,8 +173,8 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
   The Basque Country does not produce continuous official statistics using the indicator methodology, but wide ranging evidence allows us to estimate that the actual figure is very close to 0
 2-2-2-contenido: "<b>Desired direction:</b> Decrease"
 2-2-E1-contenido: "<b>Desired direction:</b> Decrease"
-2-3-1-contenido: "<b>Target:</b> Double agricultural productivity and the income of small food producers"
-2-3-2-contenido: "<b>Target:</b> Double agricultural productivity and the income of small food producers"
+2-3-1-contenido: "<b>Target:</b> Double productivity of small food producers"
+2-3-2-contenido: "<b>Target:</b> Double the income of small food producers"
 2-4-1-contenido: "<b>Desired direction:</b> Increase"
 2-4-E1-contenido: "<b>Desired direction:</b> Increase"
 2-4-E2-contenido: "<b>Desired direction:</b> Decrease"
@@ -191,7 +191,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 3-3-3-contenido: "<b>Desired direction:</b> Decrease"
 3-3-4-contenido: "<b>Desired direction:</b> Decrease"
 3-4-1-contenido: "<b>Target:</b> Reduce by one third premature mortality from non-communicable diseases"
-3-4-2-contenido: "<b>Desired direction:</b> Decrease"
+3-4-2-contenido: "<b>Target:</b> Reduce by one third"
 3-4-E1-contenido: "<b>Desired direction:</b> Increase"
 3-4-E2-contenido: "<b>Desired direction:</b> Increase"
 3-5-1-contenido: "<b>Desired direction:</b> No assessment"
@@ -251,27 +251,22 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 8-1-1-contenido: "<b>Desired direction:</b> Increase"
 8-2-1-contenido: "<b>Desired direction:</b> Increase"
 8-4-2-contenido: "<b>Desired direction:</b> Decrease in the series Domestic consumption of materials per GDP"
-8-5-1-contenido: "<b>Desired direction:</b> Increase"
+8-5-1-contenido: "<b>Desired direction:</b> Increase in average hourly earnings, decrease in gender gap"
 8-5-2-contenido: "<b>Desired direction:</b> Decrease"
 8-5-E1-contenido: "<b>Desired direction:</b> In the Employment Rate series, the European target is to reach 78% by 2030. In the Gender Gap series, the goal is to reduce the difference to a maximum of 5.8 percentage points in the same year."
 8-6-1-contenido: "<b>Desired direction:</b> The objective set at European level is that, by 2030, the value of the indicator corresponding to young people aged between 15 and 29 years does not exceed 9%."
 8-7-1-contenido: |
   The Basque Country does not produce continuous official statistics using the indicator methodology, but wide ranging evidence allows us to estimate that the actual figure is very close to 0
 8-8-1-contenido: "<b>Desired direction:</b> Decrease"
-8-9-1-contenido: "Not evaluable. To assess progress, the indicator should be complemented with additional 
-  indicators on the social (e.g., employment, etc) and environmental (energy use, GHG emissions, etc) 
-  aspects of tourism"
+8-9-1-contenido: "<b>Desired direction:</b> Increase"
 8-9-2-contenido: "<b>Desired direction:</b> Increase"
 8-10-1-contenido: "<b>Desired direction:</b> No assessment"
 8-10-2-contenido: "<b>Desired direction:</b> Increase"
-8-b-1-contenido: |
-  The Basque Country has a Basque Youth Emancipation Strategy 2030 and a <a href="https://www.euskadi.eus/planes-proyectos-juventud/web01-a2gazter/es/">Youth Plan 2022-2026</a>, the objective of which is to facilitate the transition of young people to adulthood, promoting their autonomy and their incorporation into the workforce, especially for those currently far from the labour market.
-
-  The <a href="https://www.euskadi.eus/planes-informes-planificacion-innovacion-empleo/web01-s2enple/es/">Basque Employment Strategy 2030 and the Strategic Employment Plans</a> also include specific lines of action to promote youth employment through training programs, hiring incentives, and support for youth entrepreneurship.
+8-b-1-contenido: "<b>Desired direction:</b> Increase"
   
 9-1-1-contenido: "<b>Desired direction:</b> Increase"
 9-1-2-contenido: "<b>Desired direction:</b> Increase"
-9-2-1-contenido: "<b>Desired direction:</b> Sustainment o increase"
+9-2-1-contenido: "<b>Desired direction:</b> Increase"
 9-2-2-contenido: "<b>Desired direction:</b> Increase"
 9-3-1-contenido: "<b>Desired direction:</b> Increase"
 9-4-1-contenido: "<b>Desired direction:</b> Decrease"
@@ -341,17 +336,17 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 
   In October 2021, the Basque Government adopted the 2021-2024 Energy Transition and Climate Change Plan, which sets the climate objectives for 2024: reducing greenhouse gas emissions by 30%; achieving a 20% share of renewable energy consumption; and ensuring the Basque Country's resilience to climate change.
 
-13-2-2-contenido: "<b>Desired direction:</b> Decrease in the series total greenhouse gas emissions"
+13-2-2-contenido: "<b>Desired direction:</b> Decrease in all series. The target is for greenhouse gas emissions in 2030 to be less than 45% of 1990 levels (EU target)"
 
-14-3-1-contenido: "<b>Desired direction:</b> Sustainment"
+14-3-1-contenido: "<b>Desired direction:</b> Increase"
 14-5-1-contenido: "<b>Desired direction:</b> Increase"
 
-15-1-1-contenido: "<b>Desired direction:</b> Sustainment o increase"
+15-1-1-contenido: "<b>Desired direction:</b> Increase"
 15-1-2-contenido: "<b>Desired direction:</b> Increase"
-15-1-E1-contenido: "<b>Desired direction:</b> Sustainment o increase"
+15-1-E1-contenido: "<b>Desired direction:</b> Increase"
 15-2-1-contenido: "<b>Desired direction:</b> Increase"
 15-3-1-contenido: "<b>Desired direction:</b> Increase"
-15-4-2-contenido: "<b>Desired direction:</b> Sustainment o increase"
+15-4-2-contenido: "<b>Desired direction:</b> Increase"
 15-8-1-contenido: "<b>Desired direction:</b> Increase"
 
 16-1-1-contenido: "<b>Desired direction:</b> Decrease"
