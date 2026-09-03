@@ -84,11 +84,16 @@ justificacion_global: |
 dato_global: >- 
   <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_13_10/default/table?lang=en&category=sdg.sdg_13"> Berotegi-efektua eragiten duten gasen isurketa garbiak (sdg_13_10)</a> Eurostat
 
-comparabilidad: >-
-  "Berotegi-efektua eragiten duten gasen urteko guztizko isurketak" serieak Nazio Batuen metadatuak betetzen ditu. 
-  Horrez gain, Europako helburuekin zerikusia duten beste serie batzuk aurkezten dira. 
+comparabilidad: |
+  "Berotegi-efektua eragiten duten gasen urteko guztizko isurketak" serieak Nazio Batuen metadatuak betetzen ditu.
+  "Berotegi-efektuko gasen isuriak, 1990. urtearekiko" serieak Eurostaten sdg 13_10 adierazlearen metadatuak betetzen ditu.
+  
+indicador_meta_enlace: |
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-13-02-02.pdf">Metadatuak 13-2-2.pdf</a> (ingelesez bakarrik)'
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-13-02-02.pdf">Metadatuak 13-2-2.pdf</a> (ingelesez bakarrik)
+
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_13_10_esmsip2.htm">Metadatuak Eurostat (sdg_13_10)</a> (ingelesez bakarrik)
+
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''
