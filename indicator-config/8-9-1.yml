@@ -26,7 +26,12 @@ national_geographical_coverage: ''
 page_content: GRAFICO.8-9-1-contenido
 permalink: ''
 precision: []
-progress_status: noevaluado
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: ST_GDP_ZS
+    direction: positive
+  - series: EU_GDP_ZS_GR
+    direction: positive
 reporting_status: complete
 sort: ''
 sources:
