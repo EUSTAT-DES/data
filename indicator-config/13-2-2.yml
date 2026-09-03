@@ -32,7 +32,7 @@ progress_calculation_options:
     direction: negative
   - series: EU_GHG_TV1990
     direction: negative
-    target: 45.0
+    target: -45.0
 reporting_status: complete
 sort: ''
 sources:
