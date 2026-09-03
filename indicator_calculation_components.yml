@@ -3055,8 +3055,34 @@
   score: null
   target_variant: sin_target
 8-9-1:
-  progress_status: noevaluado
-  score: null
+  8-9-1 / Turismoak sortutako BPG, BPG osoaren proportzioan:
+    base_value: 6.3
+    base_year: 2015.0
+    current_value: 6.8
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: 0.008521993728325628
+    score: 2.130498432081407
+    sign: 1
+    status: moderate_progress
+    target: null
+    target_year: 2030.0
+  8-9-1 / Turismoak sortutako BPGren hazkunde-tasa:
+    base_value: 6.8
+    base_year: 2015.0
+    current_value: 3.0
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: -0.08691232121475112
+    score: -5.0
+    sign: 1
+    status: significant_deterioration
+    target: null
+    target_year: 2030.0
+  progress_status: moderate_deterioration
+  score: -1.4347507839592966
   target_variant: sin_target
 8-9-2:
   progress_status: notstarted
