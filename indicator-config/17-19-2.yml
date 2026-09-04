@@ -29,9 +29,9 @@ precision: []
 auto_progress_calculation: true
 progress_calculation_options:
   - series: SG_REG_CENSUSN
-  - progress_boolean: true
+    progress_boolean: true
   - series: SG_REG_BRTH100N
-  - progress_boolean: true
+    progress_boolean: true
 reporting_status: complete
 sort: ''
 reporting_status: complete
