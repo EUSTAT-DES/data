@@ -151,9 +151,13 @@ class SeriesProgressEustat(SeriesProgress):
             self.sign = 1
             self.limit = None
             # Determinar status por último valor usando indicator.data directamente
-            bool_data = indicator.data[['Year', 'Value']].copy()
+            bool_data = indicator.data.copy()
             bool_data['Value'] = bool_data['Value'].astype(float)
-            bool_data = bool_data.dropna(subset=['Value']).sort_values('Year')
+            bool_data = bool_data.dropna(subset=['Value'])
+            # Filtrar por serie si está especificada y existe la columna Series
+            if self.series is not None and 'Series' in bool_data.columns:
+                bool_data = bool_data[bool_data['Series'] == self.series]
+            bool_data = bool_data.sort_values('Year')
             ultimo_valor = bool_data.iloc[-1]['Value']
             if ultimo_valor == 1:
                 self.status = 'significant_progress'
