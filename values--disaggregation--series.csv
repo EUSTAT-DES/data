@@ -121,8 +121,8 @@ SI_AGR_SSFP,Elikagaien ekoizle txikien batez besteko diru-sarrerak,Ingresos medi
 SI_COV_PENSN,Erretirorako legezko adina gainditu eta pentsioa jasotzen duten biztanleen proportzioa,Proporción de la población que supera la edad legal de jubilación y recibe una pensión,Proportion of the population above legal retirement age receiving a pension,12,1
 SI_COV_UEMP,Langabezia-prestazioak jasotzen dituzten langabeen proportzioa,Proporción de personas desempleadas que reciben prestaciones por desempleo,Proportion of unemployed people receiving unemployment benefits,12,1
 SL_EMP_EARN,Orduko batez besteko diru-sarrera,Ingreso medio por hora,Average hourly earnings,5,1
-SL_EMP_FTLINJUR,Lesio okupazional hilgarriak, Lesiones ocupacionales mortales ,Fatal occupational injuries,12,1
-SL_EMP_INJUR,Lesio okupazional ez-hilgarriak, Lesiones ocupacionales no mortales ,Non-fatal occupational injuries,12,1
+SL_EMP_FTLINJUR,Lesio okupazional hilgarriak,Lesiones ocupacionales mortales,Fatal occupational injuries,12,1
+SL_EMP_INJUR,Lesio okupazional ez-hilgarriak,Lesiones ocupacionales no mortales,Non-fatal occupational injuries,12,1
 SL_TLF_UEM,Langabezia-tasa,Tasa de desempleo,Unemployment rate,4,1
 SP_ACS_BSRVH2O,Edateko ura duten etxebizitzen proportzioa,Proporción de viviendas con agua corriente,Proportion of households with running water,550,2
 SP_ACS_BSRVSAN,Bainugela duten etxebizitzen proportzioa,Proporción de viviendas con baño,Proportion of households with a toilet,550,2
