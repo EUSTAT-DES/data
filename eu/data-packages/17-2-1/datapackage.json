@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrazio publiko autonomikoen eta tokiko administrazio publikoen garapenerako laguntza ofizial garbia",
-                "Administrazio publiko autonomikoen eta tokiko administrazio publikoen garapenerako laguntza ofizial garbia, BPGrekiko proportzioan",
+                "Administrazio publiko autonomikoen eta tokiko administrazio publikoen Garapenerako Laguntza Ofizial garbia",
+                "Administrazio publiko autonomikoen eta tokiko administrazio publikoen Garapenerako Laguntza Ofizial garbia, BPGrekiko proportzioan",
                 ""
               ]
             },

@@ -180,14 +180,14 @@ eta 1.000 eta 5.000 biztanle arteko udalerrien % 25ek Udal Larrialdi Plan homolo
 #14-a-1,notstarted,notstarted,,line,,,,,,
 #14-b-1,notstarted,notstarted,,line,,,,,,
 #14-c-1,notstarted,notstarted,,line,,,,,,
-#15-1-1,complete,significant_progress,True,line,FUENTE.oceca,2026-04-22,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#15-1-1,complete,no_progress,True,line,FUENTE.oceca,2026-04-22,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #15-1-2,complete,noevaluado,,bar,,2025-08-04,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu,
-#15-1-E1,complete,significant_progress,,line,,2025-05-08,,,"EAEn eskuragarri dagoen adierazlea Europako adierazlearekin aldera daiteke.
+#15-1-E1,complete,moderate_progress,,line,,2025-05-08,,,"EAEn eskuragarri dagoen adierazlea Europako adierazlearekin aldera daiteke.
 ",
 #15-2-1,complete,significant_progress,,line,FUENTE.oceca,2025-08-19,,,EAEn eskuragarri dagoen adierazleak Nazio Batuek proposatutako adierazlearen 4. azpiadierazleari erantzuten dio.,
 #15-3-1,complete,significant_progress,,line,,2025-05-08,,,"EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du.",
 #15-4-1,complete,noevaluado,,bar,,2025-08-04,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu,
-#15-4-2,complete,significant_progress,,line,,2025-04-22,,,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa eskaintzen du.",
+#15-4-2,complete,no_progress,,line,,2025-04-22,,,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa eskaintzen du.",
 #15-5-1,notstarted,notstarted,,line,,,,,,
 #15-6-1,notstarted,notstarted,,line,,,,,,
 #15-7-1,notstarted,notstarted,,line,,,,,,
