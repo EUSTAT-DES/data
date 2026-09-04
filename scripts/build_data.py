@@ -1073,7 +1073,17 @@ try:
         print(f"[EUSTAT] !!! Error inyectando target_variant: {e}")
 
     # Generar progreso_indicadores.csv: una fila por indicador con su estado y objetivo
-    indicator_rows_sorted = sorted(indicator_rows, key=lambda x: (int(x['goal']), x['indicator']))
+    def _indicator_sort_key(row):
+        """Ordena indicadores numéricamente, con soporte para partes alfanuméricas."""
+        parts = row['indicator'].split('-')
+        def _part_key(p):
+            try:
+                return (0, int(p))
+            except ValueError:
+                return (1, p)
+        return tuple(_part_key(p) for p in parts)
+
+    indicator_rows_sorted = sorted(indicator_rows, key=_indicator_sort_key)
     with open('_site/progreso_indicadores.csv', 'w', newline='', encoding='utf-8') as f:
         writer = csv.DictWriter(f, fieldnames=['indicator', 'goal', 'status'])
         writer.writeheader()
