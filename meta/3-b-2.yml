@@ -1,21 +1,35 @@
 # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >-
+  GRAFICO.3-b-2-titulo
 
 # objetivo_global: objetivo_largo.3-titulo
 # meta_global: meta_largo.3-b-titulo
 #  indicador_onu_global: indicador_largo.3-b-2-titulo
 
+definicion: >-
+  EAEko administrazio autonomikoaren eta toki administrazioen Garapenerako 
+  Laguntza Ofiziala, osasun-ikerketara eta oinarrizko osasun-arretara 
+  bideratutakoa (guztizko ordainketa gordina) 
 
-definicion:
+formula: |
 
-formula:
+  $$GLO_{osasuna}^{t}$$
+
+  non: 
+
+  $GLO_{osasuna}^{t} $= osasun-ikerketara eta oinarrizko osasun-arretara bideratutako Garapenerako 
+  Laguntza Ofizialaren kopurua $t$ urtean
+
 
 desagregacion: 
 
 periodicidad:  
 
-observaciones:
+observaciones: |
+
+  Ikerketa medikoa ELGEren Creditor Reporting System (CRS) delakoaren 12182 sektoreko kodeari dagokio, 
+  eta oinarrizko osasunak 122 serieko kode guztiak hartzen ditu. 
 
 
  # Metadatos mundiales (Descripción del indicador)  

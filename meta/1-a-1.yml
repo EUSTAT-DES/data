@@ -1,21 +1,39 @@
 # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >-
+  GRAFICO.1-a-1-titulo
 
 # objetivo_global: objetivo_largo.1-titulo
 # meta_global: meta_largo.1-a-titulo
 #  indicador_onu_global: indicador_largo.1-a-1-titulo
 
 
-definicion:
+definicion: >-
+  EAEko administrazio autonomikoaren eta toki administrazioen Garapenerako 
+  Laguntza Ofiziala, pobrezia murriztera bideratutakoa (guztizko ordainketa gordina) 
 
-formula:
+formula: |
+
+  $$GLO_{pobrezia}^{t}$$
+
+  non: 
+
+  $GLO_{pobrezia}^{t} $= Pobrezia murriztera bideratutako Garapenerako 
+  Laguntza Ofizialaren kopurua $t$ urtean
+
 
 desagregacion: 
 
 periodicidad:  
 
-observaciones:
+observaciones: |
+
+  Garapenerako oinarrizko gizarte-zerbitzuak eta elikadura-laguntza, pobrezia murriztera bideratuta daudenak, 
+  ELGEren Creditor Reporting System-eko (CRS) helburu-kode hauen bidez definitzen dira: 
+  Oinarrizko hezkuntza (CRS 112xx kodeak), Oinarrizko osasuna (CRS 122xx kodeak), Ur-hornidura eta saneamendua 
+  (CRS 140xx kodeak), Oinarrizko gizarte-zerbitzuetarako sektore anitzeko laguntza (CRS 16050 kodea), Garapenerako 
+  elikagai-laguntza (CRS 52010 kodea). 
+
 
 
  # Metadatos mundiales (Descripción del indicador)  

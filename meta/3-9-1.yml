@@ -1,24 +1,50 @@
-# Metadatos nacionales (ficha metodológica)
+ # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >- 
+  GRAFICO.3-9-1-titulo
 
-# objetivo_global: objetivo_largo.3-titulo
-# meta_global: meta_largo.3-9-titulo
+objetivo_global: objetivo_largo.3-titulo
+meta_global: meta_largo.3-9-titulo
 #  indicador_onu_global: indicador_largo.3-9-1-titulo
 
 
-definicion:
+definicion: >-
 
-formula:
-
-desagregacion: 
-
-periodicidad:  
-
-observaciones:
+   Partikula finen (PM2,5) 5 $\mu\mathrm{g}/\mathrm{m}^3$ baino kontzentrazio altuagoko esposizio luzeari egozgarriak diren heriotza goiztiarren tasa 100.000 biztanleko eta heriotza goiztiarren kopurua
 
 
- # Metadatos mundiales (Descripción del indicador)  
+formula: |
+
+  <b>Partikula finekiko esposizioagatiko heriotza goiztiarren tasa 100.000 biztanleko</b>
+
+
+  $$TM_{partikula }^{t} = \frac{D_{partikula }^{t}}{PA^{t}} \cdot 100.000$$
+  
+
+  <b>Partikula finekiko esposizioagatiko heriotza goiztiarren kopurua</b>
+
+  $$D_{partikula }^{t}$$
+
+
+  non:
+
+  $D_{partikula }^{t} =$ partikulen esposizioari esleitutako heriotza goiztiar estimatuak, $t$ urtean
+
+  $PA^{t} =$ biztanleria $t$ urtean
+
+desagregacion: |
+  Sexua 
+
+  Lurralde historikoa
+
+periodicidad: FUENTE.FREQ_A
+
+
+observaciones: >-
+  Heriotza goiztiarren kopurua kalkulatzeko, OMEren airearen kalitateari buruzko jarraibide orokorretan (2021) eta Europako Ingurumen Agentziak airearen kutsadurak osasunean dituen eraginei buruz 2025ean egindako informazio-saioan deskribatutako metodologia erabili da
+
+
+# Metadatos mundiales (Descripción del indicador)  
 
 
 justificacion_global: |
@@ -38,15 +64,22 @@ justificacion_global: |
 
   Iturria: Nazio Batuen Estatistika Sekzioa 
 
+comparabilidad: |
 
-comparabilidad:
+  EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa ematen du.
+  EAEn eskuragarri dagoen adierazlea Europako adierazlearekin aldera daiteke.
+
+
 
 indicador_meta_enlace: >- 
-  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-01.pdf">Metadatuak 3-9-1.pdf</a> (ingelesez bakarrik)
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-01.pdf">Metadatuak 3-9-1.pdf</a> (ingelesez bakarrik)<br>
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_11_52_esmsip2.htm">Metadatuak sdg_11_52</a> (ingelesez bakarrik)
 
 dato_global: |
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.9.1&seriesCode=SH_STA_ASAIRP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Etxeetako eta giroko airearen kutsadurari egotzitako heriotza-tasa adinaren arabera estandarizatua (heriotzak 100.000 biztanleko) SH_STA_ASAIRP</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=3.9.1&seriesCode=SH_STA_ASAIRP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Etxeetako eta giroko airearen kutsadurari egotzitako heriotza-tasa adinaren arabera estandarizatua (heriotzak 100.000 biztanleko) SH_STA_ASAIRP</a> UNSTATS<br>
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_11_52/default/table?lang=en&category=sdg.sdg_03">Partikula finekiko (PM2,5) esposizioagatiko heriotza goiztiarrak</a> Eurostat
 
 national_data_updated_date: ''
 national_metadata_updated_date: ''
+
 

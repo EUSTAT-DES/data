@@ -1,12 +1,34 @@
  # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >-
+  GRAFICO.2-a-2-titulo
+
 
 # objetivo_global: objetivo_largo.2-titulo
 # meta_global: meta_largo.2-a-titulo
 # indicador_onu_global: indicador_largo.2-a-2-titulo
 
+definicion: >-
+  EAEko administrazio autonomikoaren eta toki administrazioen Garapenerako 
+  Laguntza Ofiziala, nekazaritzara bideratutakoa (guztizko ordainketa gordina) 
 
+formula: |
+
+  $$GLO_{nekazaritza}^{t}$$
+
+  non: 
+
+  $GLO_{nekazaritza}^{t} $= Nekazaritzara bideratutako Garapenerako 
+  Laguntza Ofizialaren kopurua $t$ urtean
+
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones: |
+
+  Nekazaritza-sektoreak ELGEko Creditor Reporting System-eko (CRS) 311 serieko kode sektorial guztiak hartzen ditu. 
 
 
  # Metadatos mundiales (Descripción del indicador)  
