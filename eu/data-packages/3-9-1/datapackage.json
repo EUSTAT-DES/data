@@ -12,8 +12,57 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Urtea"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Partikula finekiko esposizioagatiko heriotza goiztiarren tasa 100.000 biztanleko",
+                "Partikula finekiko esposizioagatiko heriotza goiztiarren kopurua",
+                ""
+              ]
+            },
+            "title": "Seriea"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Emakumea",
+                "Gizona",
+                ""
+              ]
+            },
+            "title": "Sexua"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Lurralde historikoa"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "100.000 biztanleko",
+                "Zenbakia",
+                ""
+              ]
+            },
+            "title": "Unitatea"
           },
           {
             "name": "Value",
