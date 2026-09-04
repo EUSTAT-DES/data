@@ -28,7 +28,8 @@ permalink: ''
 precision: []
 auto_progress_calculation: true
 progress_calculation_options:
-  - direction: positive
+  - series: AG_LND_FRST
+    direction: positive
 reporting_status: complete
 sort: ''
 sources:

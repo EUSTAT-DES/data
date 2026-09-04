@@ -28,7 +28,10 @@ permalink: ''
 precision: []
 auto_progress_calculation: true
 progress_calculation_options:
-  - direction: positive
+  - series: EU_SDG_15_20_KM2
+    direction: positive
+  - series: EU_SDG_15_20_PT
+    direction: positive
 reporting_status: complete
 sort: ''
 sources:
