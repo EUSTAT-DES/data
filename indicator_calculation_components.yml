@@ -880,16 +880,55 @@
   score: null
   target_variant: sin_target
 15-1-1:
-  progress_status: significant_progress
-  score: null
+  15-1-1 / Baso-azalera, azalera osoaren proportzioan:
+    base_value: 54.9
+    base_year: 2016.0
+    current_value: 54.8
+    current_year: 2024.0
+    direction: 1
+    limit: null
+    progress_value: -0.00022786835425137042
+    score: -0.056967088562842605
+    sign: 1
+    status: no_progress
+    target: null
+    target_year: 2030.0
+  progress_status: no_progress
+  score: -0.056967088562842605
   target_variant: sin_target
 15-1-2:
   progress_status: noevaluado
   score: null
   target_variant: sin_target
 15-1-E1:
-  progress_status: significant_progress
-  score: null
+  15-1-E1 / Babestutako lur-eremuen azalera (Km2):
+    base_value: 1698.7
+    base_year: 2015.0
+    current_value: 1714.1
+    current_year: 2021.0
+    direction: 1
+    limit: null
+    progress_value: 0.001505283284527037
+    score: 0.37632082113175924
+    sign: 1
+    status: moderate_progress
+    target: null
+    target_year: 2030.0
+  15-1-E1 / Lurreko eremu babestuen azalera lur azalera osoarekiko:
+    base_value: 23.5
+    base_year: 2015.0
+    current_value: 23.7
+    current_year: 2021.0
+    direction: 1
+    limit: null
+    progress_value: 0.0014134357919399765
+    score: 0.3533589479849941
+    sign: 1
+    status: moderate_progress
+    target: null
+    target_year: 2030.0
+  progress_status: moderate_progress
+  score: 0.3648398845583767
   target_variant: sin_target
 15-2-1:
   15-2-1 / Kudeaketa jasangarirako tresnak indarrean dituzten baso-azaleren proportzioa:
@@ -956,8 +995,21 @@
   score: null
   target_variant: sin_target
 15-4-2:
-  progress_status: significant_progress
-  score: null
+  15-4-2:
+    base_value: 95.5
+    base_year: 2015.0
+    current_value: 95.53
+    current_year: 2021.0
+    direction: 1
+    limit: null
+    progress_value: 5.2349169375354165e-05
+    score: 0.013087292343838541
+    sign: 1
+    status: no_progress
+    target: null
+    target_year: 2030.0
+  progress_status: no_progress
+  score: 0.013087292343838541
   target_variant: sin_target
 15-5-1:
   progress_status: notstarted
@@ -1360,7 +1412,7 @@
   score: 5.0
   target_variant: sin_target
 17-2-1:
-  17-2-1 / Administrazio publiko autonomikoen eta tokiko administrazio publikoen garapenerako laguntza ofizial garbia:
+  17-2-1 / Administrazio publiko autonomikoen eta tokiko administrazio publikoen Garapenerako Laguntza Ofizial garbia:
     base_value: 49.43
     base_year: 2015.0
     current_value: 80.53
@@ -1373,7 +1425,7 @@
     status: significant_progress
     target: null
     target_year: 2030.0
-  17-2-1 / Administrazio publiko autonomikoen eta tokiko administrazio publikoen garapenerako laguntza ofizial garbia, BP...:
+  17-2-1 / Administrazio publiko autonomikoen eta tokiko administrazio publikoen Garapenerako Laguntza Ofizial garbia, BP...:
     base_value: 0.07
     base_year: 2015.0
     current_value: 0.09
@@ -2180,7 +2232,7 @@
   score: 5.0
   target_variant: con_target
 4-3-1:
-  4-3-1 / 15 eta 64 urte bitarteko herritarrek azken 4 asteetan irakaskuntzan eta prestakuntza akademikoan eta ez-akademi...:
+  4-3-1 / 15 eta 64 urte bitarteko biztanleriak azken 4 asteetan irakaskuntzan eta prestakuntza akademikoan eta ez-akadem...:
     base_value: 24.4
     base_year: 2015.0
     current_value: 24.9
@@ -2193,7 +2245,7 @@
     status: moderate_progress
     target: null
     target_year: 2030.0
-  4-3-1 / 18 eta 64 urte bitarteko herritarrek azken 12 hilabeteetan hezkuntza-jardueretan izandako parte-hartze tasa:
+  4-3-1 / 18 eta 64 urte bitarteko biztanleriak azken 12 hilabeteetan hezkuntza-jardueretan izandako parte-hartze tasa:
     base_value: 48.1
     base_year: 2016.0
     current_value: 52.9
