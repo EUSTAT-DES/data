@@ -182,7 +182,20 @@
   score: 2.976915999320399
   target_variant: sin_target
 1-a-1:
-  progress_status: notapplicable
+  1-a-1 / Pobrezia murriztera bideratutako Garapenerako Laguntza Ofiziala (guztizko ordainketa gordina):
+    base_value: null
+    base_year: 2015.0
+    current_value: null
+    current_year: null
+    direction: 1
+    limit: null
+    progress_value: null
+    score: null
+    sign: null
+    status: not_available
+    target: null
+    target_year: 2030.0
+  progress_status: not_available
   score: null
   target_variant: sin_target
 1-a-2:
@@ -1781,7 +1794,20 @@
   score: null
   target_variant: sin_target
 2-a-2:
-  progress_status: notstarted
+  2-a-2 / Nekazaritzara bideratutako Garapenerako Laguntza Ofiziala (guztizko ordainketa gordina):
+    base_value: null
+    base_year: 2015.0
+    current_value: null
+    current_year: null
+    direction: 1
+    limit: null
+    progress_value: null
+    score: null
+    sign: null
+    status: not_available
+    target: null
+    target_year: 2030.0
+  progress_status: not_available
   score: null
   target_variant: sin_target
 2-b-1:
@@ -2107,9 +2133,35 @@
   score: null
   target_variant: sin_target
 3-9-1:
-  progress_status: notstarted
+  3-9-1 / Partikula finekiko esposizioagatiko heriotza goiztiarren kopurua:
+    base_value: null
+    base_year: 2015.0
+    current_value: null
+    current_year: null
+    direction: -1
+    limit: null
+    progress_value: null
+    score: null
+    sign: null
+    status: not_available
+    target: 645.0
+    target_year: 2030.0
+  3-9-1 / Partikula finekiko esposizioagatiko heriotza goiztiarren tasa 100.000 biztanleko:
+    base_value: null
+    base_year: 2015.0
+    current_value: null
+    current_year: null
+    direction: -1
+    limit: null
+    progress_value: null
+    score: null
+    sign: null
+    status: not_available
+    target: 30.5
+    target_year: 2030.0
+  progress_status: not_available
   score: null
-  target_variant: sin_target
+  target_variant: con_target
 3-9-2:
   progress_status: significant_progress
   score: null
@@ -2153,7 +2205,20 @@
   score: null
   target_variant: sin_target
 3-b-2:
-  progress_status: notstarted
+  3-b-2 / Osasun-ikerketara eta oinarrizko osasun-arretara bideratutako Garapenerako Laguntza Ofiziala (guztizko ordainke...:
+    base_value: null
+    base_year: 2015.0
+    current_value: null
+    current_year: null
+    direction: 1
+    limit: null
+    progress_value: null
+    score: null
+    sign: null
+    status: not_available
+    target: null
+    target_year: 2030.0
+  progress_status: not_available
   score: null
   target_variant: sin_target
 3-b-3:
