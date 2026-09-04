@@ -10,6 +10,7 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 1-5-1-titulo: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
 1-5-2-titulo: "Indemnizaciones por daños personales, pérdidas pecuniarias y daños de bienes pagadas y/o provisionadas en proporción al PIB"
 1-5-4-titulo: "Proporción de gobiernos locales que adoptan e implementan estrategias locales de reducción del riesgo de desastres"
+1-a-1-titulo: "Ayuda Oficial al Desarrollo destinada a la reducción de la pobreza"
 1-a-2-titulo: "Proporción del gasto público total que se dedica a servicios esenciales (educación, salud y protección social)"
 1-b-1-titulo: "Gasto en prestaciones de garantía de ingresos (RGI) y ayudas de emergencia social (AES)"
 
@@ -23,6 +24,7 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 2-4-E1-titulo: Superficie dedicada a la agricultura ecológica (Indicador UE sdg_02_40)
 2-4-E2-titulo: Emisiones de amoníaco de la agricultura y ganadería (Indicador UE sdg_02_60)
 2-a-1-titulo: "Valor añadido de la agricultura como porcentaje del PIB"
+2-a-2-titulo: "Ayuda Oficial al Desarrollo destinada a la agricultura (desembolso bruto total)"
 2-c-1-titulo: "Índice de precios de los alimentos"
 
 3-3-1-titulo: "Número de infecciones por el VIH por cada 1.000 habitantes, desglosado por sexo"
@@ -32,8 +34,10 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 3-5-2-titulo: "Consumo anual de alcohol en litros de alcohol puro por persona de 15 y más años"
 3-7-1-titulo: "Proporción de mujeres en edad de procrear (entre 18 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos"
 3-8-1-titulo: "Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica"
+3-9-1-titulo: "Muertes prematuras por exposición a partículas finas (PM2,5) (Indicador UE sdg_11_52)"
 3-8-2-titulo: "Proporción de la población con grandes gastos sanitarios por hogar como porcentaje del total de gasto del hogar"
 3-a-1-titulo: "Proporción de personas de 15 y más años que fuman a diario"
+3-b-2-titulo: "Ayuda Oficial al Desarrollo destinada a la investigación médica y la atención sanitaria básica" 
 3-b-3-titulo: "Índice de acceso a los productos sanitarios"
 
 4-1-1-titulo: "Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura y matemáticas"
@@ -43,6 +47,7 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 4-3-1-titulo: "Tasa de participación de personas jóvenes y adultas en la educación y formación académica y no académica, desglosada por sexo"
 4-5-1-titulo: "Índices de paridad (entre mujeres y hombres, quintiles de riqueza superior e inferior, municipios de más y menos de 10.000 habitantes y personas con y sin limitaciones por problemas de salud) en la realización de actividades educativas (formales o no formales) en los últimos 12 meses o 4 semanas"
 4-6-1-titulo: "Proporción de personas entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de comprensión lectora y en matemáticas"
+4-b-1-titulo: "Ayuda Oficial al Desarrollo destinada a becas (desembolso bruto total)"
 
 5-1-1-titulo: "Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género"
 5-2-1-titulo: "Tasa de victimizaciones contra las mujeres a manos de su actual o anterior pareja "
@@ -58,7 +63,9 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 6-3-2-titulo: "Proporción de masas de agua de buena calidad"
 6-4-2-titulo: "Consumo de agua (volumen de agua extraída)"
 6-5-2-titulo: "Proporción de la superficie de cuencas transfronterizas sujetas a arreglos operacionales para la cooperación en materia de aguas"
+6-a-1-titulo: "Ayuda Oficial al Desarrollo destinada al agua y el saneamiento (desembolso bruto total)"
 
+7-a-1-titulo: "Ayuda Oficial al Desarrollo destinada al apoyo de la investigación y el desarrollo de energías limpias y la producción de energías renovables, incluidos los sistemas híbridos (desembolso bruto total)"
 7-b-1-titulo: "Capacidad instalada de generación de energía renovable (en vatios per cápita)" 
 
 8-5-1-titulo: "Ingreso medio por hora de personas empleadas, desglosado por sexo y por personas con
@@ -69,15 +76,19 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 8-9-2-titulo: "Personas empleadas en el sector del turismo"
 8-10-1-titulo: "Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años"
 8-10-2-titulo: "Proporción de personas entre 18 y 79 años que tienen una cuenta corriente"
+8-a-1-titulo: "Ayuda Oficial al Desarrollo destinada a ayuda para el comercio (desembolso bruto total)"
 8-b-1-titulo: "Gasto de las administraciones públicas autonómicas en fomento del empleo"
  
 9-1-2-titulo: "Pasajeros y mercancías transportadas por vía aérea"
 9-4-E1-titulo: "Intensidad de las emisiones atmosféricas de la industria manufacturera (Indicador UE sdg_09_70)" 
+9-a-1-titulo: "Ayuda Oficial al Desarrollo destinada a infraestructuras, (desembolso bruto total)"
 
 10-2-1-titulo: "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos"
 10-3-1-titulo: "Prevalencia (%) de personas que se sienten discriminadas (por su edad, sexo, lugar de nacimiento, ...) por sexo"
 10-4-2-titulo: "Índice de Gini del ingreso disponible equivalente (postfiscal)"
 10-7-4-titulo: "Número de personas refugiadas o bajo protección internacional por cada 100.000 habitantes"
+10-b-1-titulo: "Ayuda Oficial al Desarrollo total (desembolso bruto)"
+
 
 11-1-1-titulo: "Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda"
 11-4-1-titulo: "Gasto per cápita de las administraciones públicas autonómicas y locales en la preservación, protección y conservación del patrimonio cultural"
@@ -108,6 +119,8 @@ nodisponible: La CA de Euskadi no elabora estadísticas oficiales continuas con 
 15-4-1-titulo: "Lugares importantes para la biodiversidad de las montañas incluidos en zonas protegidas"
 15-4-2-titulo: "Índice de cobertura verde de las montañas"
 15-8-1-titulo: "Se dispone de legislación nacional pertinente y se destinan recursos para la prevención o el control de las especies exóticas invasoras"
+15-a-1-titulo: "Ayuda Oficial al Desarrollo destinado a la conservación y el uso sostenible de la biodiversidad y los ecosistemas (desembolso bruto)"
+15-b-1-titulo: "Ayuda Oficial al Desarrollo destinado a la conservación y el uso sostenible de la biodiversidad y los ecosistemas (desembolso bruto)"
 
 16-1-1-titulo: "Número de víctimas de homicidios intencionales por cada 100.000 habitantes"
 16-1-2-titulo: "Muertes relacionadas con conflictos por cada 100.000 habitantes"
@@ -165,6 +178,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
   
   <a href="https://www.euskadi.eus/documentacion/2015/estrategia-vasca-de-cambio-climatico-2050/web01-a2ingkli/es/" target="_blank">  Estrategia vasca de cambio climático 2050</a>: recoge como objetivos a largo plazo la reducción de las emisiones de gases de efecto invernadero en un 80% para 2050, así como el aumento de la resiliencia del territorio vasco para hacer frente a los efectos esperados por el cambio de clima.
 1-5-4-contenido: "En la C.A. de Euskadi, se dispone de un plan de emergencias a nivel autonómico y tres planes de emergencias territoriales, uno por cada territorio histórico. Por tanto, el 100% de los municipios se encuentran bajo el paraguas de un plan de emergencias territorial"
+1-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 1-a-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 
 2-1-1-contenido: |
@@ -180,6 +194,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 2-4-E1-contenido: "<b>Dirección deseada:</b> Ascenso"
 2-4-E2-contenido: "<b>Dirección deseada:</b> Descenso"
 2-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+2-a-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 2-c-1-contenido: "<b>Meta:</b> Limitar la extrema volatilidad de los precios de los alimentos"
 
 
@@ -202,11 +217,13 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 3-7-2-contenido: "<b>Dirección deseada:</b> Descenso"
 3-8-1-contenido: "<b>Dirección deseada:</b> Descenso"
 3-8-2-contenido: "<b>Dirección deseada:</b> Descenso"
+3-9-1-contenido: "<b>Meta:</b> Reducir en un 55% el número de muertes prematuras debidas a PM2,5 respecto a los niveles de 2005"
 3-9-2-contenido: |
   La CA de Euskadi no elabora estadísticas oficiales continuas con la metodología del indicador, pero diversos indicios permiten estimar que el dato real se encuentra muy próximo a 0
 3-9-3-contenido: "<b>Dirección deseada:</b> Descenso"
 3-a-1-contenido: "<b>Dirección deseada:</b> Descenso"
 3-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+3-b-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 3-c-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
 4-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -215,10 +232,10 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 4-2-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 4-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 4-4-1-contenido: "<b>Dirección deseada:</b> Ascenso"
-
 4-5-1-contenido: "Se mide el siguiente indicador de educación: realización de actividades educativas (formales o no formales). <b>Dirección deseada:</b> Índice=1"
 4-6-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 4-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+4-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 4-c-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
 5-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -242,6 +259,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
   Las actividades de las comisiones se basan en acuerdos internacionales. Parte de la C.A. de Euskadi se ubica en la cuenca hidrográfica internacional de Garonne – Cantabrico -Ebro.
   En febrero del año 2006 se firmó en Toulouse el acuerdo de cooperación para coordinar de la mejor manera posible las medidas tomadas en las cuencas hidrográficas situadas a ambos lados de la frontera, en aplicación de la Directiva Marco del Agua (DMA), 
   así como establecer una cooperación administrativa regular"
+6-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 6-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
 7-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -249,6 +267,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 7-2-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 7-3-1-contenido: "<b>Dirección deseada:</b> Descenso"
 7-3-E1-contenido: "<b>Dirección deseada:</b> No evaluable"
+7-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 7-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
 
@@ -266,6 +285,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 8-9-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 8-10-1-contenido: "<b>Dirección deseada:</b> No evaluable"
 8-10-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+8-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 8-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
 9-1-1-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -277,6 +297,7 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 9-4-E1-contenido: "<b>Dirección deseada:</b> Descenso"
 9-5-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 9-5-2-contenido: "<b>Dirección deseada:</b> Ascenso"
+9-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 9-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 9-c-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 
@@ -286,6 +307,8 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 10-4-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 10-4-2-contenido: "<b>Dirección deseada:</b> Descenso del Índice de Gini del ingreso disponible equivalente"
 10-7-4-contenido: "<b>Dirección deseada:</b> Descenso"
+10-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+
 
 11-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
 11-3-2-contenido: "<b>Dirección deseada:</b> Ascenso"
@@ -353,6 +376,9 @@ OCECA-10-2-1-1A: Proporción de personas que viven por debajo del 50% de la medi
 15-3-1-contenido: "<b>Dirección deseada:</b> Ascenso"
 15-4-2-contenido: "<b>Dirección deseada:</b> Ascenso"
 15-8-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+15-a-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+15-b-1-contenido: "<b>Dirección deseada:</b> Ascenso"
+
 
 16-1-1-contenido: "<b>Dirección deseada:</b> Descenso"
 16-1-2-contenido: "<b>Dirección deseada:</b> Descenso"
