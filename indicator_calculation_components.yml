@@ -1408,34 +1408,8 @@
     status: significant_progress
     target: null
     target_year: 2030.0
-  17-19-2 / Gutxienez biztanleriaren eta etxebizitzen errolda bat egin da azken hamar urteetan:
-    base_value: 1.0
-    base_year: 2015.0
-    current_value: 1.0
-    current_year: 2025.0
-    direction: -1
-    limit: null
-    progress_value: -0.0
-    score: -0.0
-    sign: 1
-    status: no_progress
-    target: null
-    target_year: 2030.0
-  17-19-2 / Jaiotzen % 100 erregistratu dira, eta gutxienez heriotzen % 80:
-    base_value: 1.0
-    base_year: 2015.0
-    current_value: 1.0
-    current_year: 2025.0
-    direction: -1
-    limit: null
-    progress_value: -0.0
-    score: -0.0
-    sign: 1
-    status: no_progress
-    target: null
-    target_year: 2030.0
-  progress_status: moderate_progress
-  score: 2.5
+  progress_status: significant_progress
+  score: 5.0
   target_variant: sin_target
 17-2-1:
   17-2-1 / Administrazio publiko autonomikoen eta tokiko administrazio publikoen Garapenerako Laguntza Ofizial garbia:
