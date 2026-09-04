@@ -10,6 +10,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 1-5-1-titulo: "Number of deaths directly attributed to disasters per 100,000 inhabitants"
 1-5-2-titulo: "Compensation for personal injury, pecuniary loss and property damage paid and/or provisioned in proportion to GDP"
 1-5-4-titulo: "Proportion of local governments that adopt and implement local disaster risk reduction strategies"
+1-a-1-titulo: "Official Development Assistance for poverty reduction"
 1-a-2-titulo: "Proportion of total public spending on essential services (education, health and social protection)"
 1-b-1-titulo: "Spending on income guarantee benefits (RGI) and emergency social aid (AES)"
 
@@ -23,6 +24,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 2-4-E1-titulo: Area under organic farming (EU indicator sdg_02_40)
 2-4-E2-titulo: Ammonia emissions from agriculture and livestock (EU indicator sdg_02_60)
 2-a-1-titulo: "Agricultural value added as a percentage of GDP"
+2-a-2-titulo: "Official Development Assistance for agriculture (total gross disbursement)"
 2-c-1-titulo: "Food Price Index"
 
 3-3-1-titulo: "Number of HIV infections per 1,000 population, by sex"
@@ -33,7 +35,9 @@ nodisponible: The Basque Country does not produce continuous official statistics
 3-7-1-titulo: "Proportion of women of reproductive age (18-49 years) who have their family planning needs met with modern methods"
 3-8-1-titulo: "Proportion of people aged 16 and over with unmet need for health care"
 3-8-2-titulo: "Proportion of the population with high health expenditures per household as a percentage of total household expenditure"
+3-9-1-titulo: "Premature deaths due to exposure to fine particulate matter (PM2.5) (EU indicator sdg_11_52)"
 3-a-1-titulo: "Proportion of people aged 15 and over who smoke daily"
+3-b-2-titulo: "Official Development Assistance for medical research and basic heath sectors"
 3-b-3-titulo: "Health product access index"
 
 4-1-1-titulo: "Proportion of 15-year-olds who have achieved at least level 2 proficiency in reading and mathematics"
@@ -43,6 +47,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 4-3-1-titulo: "Participation rate of young people and adults in formal and non-formal education and training, by sex"
 4-5-1-titulo: "Parity indices (between women and men, upper and lower wealth quintiles, municipalities with more and less than 10,000 inhabitants, and people with and without limitations due to health problems) in the performance of educational activities (formal or non-formal) in the last 12 months or 4 weeks"
 4-6-1-titulo: "Proportion of people aged 16–65 who have achieved at least level 2 proficiency in reading comprehension and mathematics"
+4-b-1-titulo: "Official Development Assistance for scholarships (total gross disbursement)"
 
 5-1-1-titulo: "Existence of legal frameworks to promote, strengthen and monitor gender equality"
 5-2-1-titulo: "Rate of victimization against women at the hands of their current or former partner"
@@ -58,7 +63,9 @@ nodisponible: The Basque Country does not produce continuous official statistics
 6-3-2-titulo: "Proportion of good quality water bodies"
 6-4-2-titulo: "Water consumption (volume of water extracted)"
 6-5-2-titulo: "Proportion of the area of ​​transboundary basins subject to operational arrangements for water cooperation"
+6-a-1-titulo: "Official Development Assistance for water supply and sanitation (total gross disbursement)"
 
+7-a-1-titulo: "Official Development Assistance in support of clean energy research and development and renewable energy production, including in hybrid systems (total gross disbursement)"
 7-b-1-titulo: "Installed renewable energy-generating capacity (in watts per capita)" 
 
 8-5-1-titulo: "Average hourly income of employed persons, by sex and by persons with or without disabilities" 
@@ -68,15 +75,19 @@ nodisponible: The Basque Country does not produce continuous official statistics
 8-9-2-titulo: "Employed persons in the tourism industries (number)"
 8-10-1-titulo: "Number of commercial bank branches per 100,000 inhabitants aged 15 and over"
 8-10-2-titulo: "Proportion of people aged 18-79 who have a checking account"
+8-a-1-titulo: "Official Development Assistance for aid for trade (total gross disbursement)"
 8-b-1-titulo: "Spending by regional public administrations on employment promotion"
  
 9-1-2-titulo: "Passenger and freight volumes by air transport"
 9-4-E1-titulo: "Air emission intensity from the manufacturing industry (EU indicator sdg_09_70)" 
+9-a-1-titulo: "Official Development Assistance for infrastructure (total gross disbursement)"
+
 
 10-2-1-titulo: "Proportion of people living below 50% of the median income"
 10-3-1-titulo: "Prevalence (%) of people who feel discriminated against (due to their age, sex, place of birth, etc.) by sex"
 10-4-2-titulo: "Gini index of equivalent disposable income (post-fiscal)"
 10-7-4-titulo: "Number of refugees or people under international protection per 100,000 inhabitants"
+10-b-1-titulo: "Total Official Development Assistance (gross disbursement)"
 
 11-1-1-titulo: "Proportion of people living in households with certain housing deficiencies"
 11-4-1-titulo: "Per capita expenditure of regional and local public administrations on the preservation, protection and conservation of cultural heritage"
@@ -87,7 +98,7 @@ nodisponible: The Basque Country does not produce continuous official statistics
 11-7-1-titulo: "Average proportion of the built-up area of ​​cities that is dedicated to open spaces for public use by all"
 11-7-2-titulo: "Number of people who have been victims of non-sexual or sexual harassment in the last 12 months per 100,000 inhabitants"
 11-a-1-titulo: "Proportion of municipalities covered by a territorial land use plan or a municipal urban plan"
-11-c-1-titulo: "Total official development assistance and other official flows in support of urban infrastructure or urban infrastructure projects, by sector"
+11-c-1-titulo: "Total Official Development Assistance and other official flows in support of urban infrastructure or urban infrastructure projects, by sector"
 
 
 12-1-1-titulo: "Policy instruments are developed, adopted or implemented to support the transition to sustainable consumption and production patterns"
@@ -108,6 +119,9 @@ nodisponible: The Basque Country does not produce continuous official statistics
 15-4-1-titulo: "Mountain key biodiversity areas covered by protected areas"
 15-4-2-titulo: "Mountain Green Cover Index"
 15-8-1-titulo: "Relevant national legislation is in place and resources are allocated for the prevention or control of invasive alien species"
+15-a-1-titulo: "Official Development Assistance for the conservation and sustainable use of biodiversity and ecosystems (gross disbursement )"
+15-b-1-titulo: "Official Development Assistance for the conservation and sustainable use of biodiversity and ecosystems (gross disbursement)"
+
 
 16-1-1-titulo: "Number of victims of intentional homicides per 100,000 inhabitants"
 16-1-2-titulo: "Conflict-related deaths per 100,000 population"
@@ -164,6 +178,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
   
   <a href="https://www.euskadi.eus/dokumentazioa/2015/2050erako-klima-aldaketaren-euskadiko-estrategia/web01-a2ingkli/eu/" target="_blank">  Climate Change Strategy of the Basque Country to 2050</a>: It includes as long-term objectives the reduction of greenhouse gas emissions by 80% by 2050, as well as increasing the resilience of the Basque territory to face the expected effects of climate change.
 1-5-4-contenido: "In the Basque Country, there is one regional emergency plan and three provincial emergency plans, one for each province. Therefore, 100% of municipalities are under the umbrella of a provincial emergency plan."
+1-a-1-contenido: "<b>Desired direction:</b> Increase"
 1-a-2-contenido: "<b>Desired direction:</b> Increase"
 
 2-1-1-contenido: |
@@ -179,6 +194,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 2-4-E1-contenido: "<b>Desired direction:</b> Increase"
 2-4-E2-contenido: "<b>Desired direction:</b> Decrease"
 2-a-1-contenido: "<b>Desired direction:</b> Increase"
+2-a-2-contenido: "<b>Desired direction:</b> Increase"
 2-c-1-contenido: "<b>Target:</b> Limit extreme volatility in food prices"
 
 
@@ -201,11 +217,13 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 3-7-2-contenido: "<b>Desired direction:</b> Decrease"
 3-8-1-contenido: "<b>Desired direction:</b> Decrease"
 3-8-2-contenido: "<b>Desired direction:</b> Decrease"
+3-9-1-contenido: "<b>Target:</b> Reduce the number of premature deaths due to PM2.5 by 55 %, compared with 2005"
 3-9-2-contenido: |
   The Basque Country does not produce continuous official statistics using the indicator methodology, but wide ranging evidence allows us to estimate that the actual figure is very close to 0
 3-9-3-contenido: "<b>Desired direction:</b> Decrease"
 3-a-1-contenido: "<b>Desired direction:</b> Decrease"
 3-b-1-contenido: "<b>Desired direction:</b> Increase"
+3-b-2-contenido: "<b>Desired direction:</b> Increase"
 3-c-1-contenido: "<b>Desired direction:</b> Increase"
 
 4-1-1-contenido: "<b>Desired direction:</b> Increase"
@@ -214,10 +232,10 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 4-2-2-contenido: "<b>Desired direction:</b> Increase"
 4-3-1-contenido: "<b>Desired direction:</b> Increase"
 4-4-1-contenido: "<b>Desired direction:</b> Increase"
-
 4-5-1-contenido: "The following education indicator is measured: completion of educational activities (formal or non-formal). <b>Desired direction:</b> Index=1"
 4-6-1-contenido: "<b>Desired direction:</b> Increase"
 4-a-1-contenido: "<b>Desired direction:</b> Increase"
+4-b-1-contenido: "<b>Desired direction:</b> Increase"
 4-c-1-contenido: "<b>Desired direction:</b> Increase"
 
 5-1-1-contenido: "<b>Desired direction:</b> Increase"
@@ -238,6 +256,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 6-3-2-contenido: "<b>Desired direction:</b> Increase"
 6-4-2-contenido: "<b>Desired direction:</b> No assessment"
 6-5-2-contenido: "Integrated river and lake management is organized into international commissions for entire river basins in the case of transboundary waters. The commissions' activities are based on international agreements. Part of the Basque Country is located in the Garonne-Cantabrian-Ebro international river basin. In February 2006, a cooperation agreement was signed in Toulouse to coordinate, as effectively as possible, the measures taken in the river basins located on both sides of the border, in implementation of the Water Framework Directive (WFD), as well as to establish regular administrative cooperation."
+6-a-1-contenido: "<b>Desired direction:</b> Increase"
 6-b-1-contenido: "<b>Desired direction:</b> Increase"
 
 7-1-1-contenido: "<b>Desired direction:</b> Increase"
@@ -245,6 +264,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 7-2-1-contenido: "<b>Desired direction:</b> Increase"
 7-3-1-contenido: "<b>Desired direction:</b> Decrease"
 7-3-E1-contenido: "<b>Desired direction:</b> No assessment"
+7-a-1-contenido: "<b>Desired direction:</b> Increase"
 7-b-1-contenido: "<b>Desired direction:</b> Increase"
 
 
@@ -262,8 +282,9 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 8-9-2-contenido: "<b>Desired direction:</b> Increase"
 8-10-1-contenido: "<b>Desired direction:</b> No assessment"
 8-10-2-contenido: "<b>Desired direction:</b> Increase"
+8-a-1-contenido: "<b>Desired direction:</b> Increase"
 8-b-1-contenido: "<b>Desired direction:</b> Increase"
-  
+
 9-1-1-contenido: "<b>Desired direction:</b> Increase"
 9-1-2-contenido: "<b>Desired direction:</b> Increase"
 9-2-1-contenido: "<b>Desired direction:</b> Increase"
@@ -273,6 +294,7 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 9-4-E1-contenido: "<b>Desired direction:</b> Decrease"
 9-5-1-contenido: "<b>Desired direction:</b> Increase"
 9-5-2-contenido: "<b>Desired direction:</b> Increase"
+9-a-1-contenido: "<b>Desired direction:</b> Increase"
 9-b-1-contenido: "<b>Desired direction:</b> Increase"
 9-c-1-contenido: "<b>Desired direction:</b> Increase"
 
@@ -282,6 +304,8 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 10-4-1-contenido: "<b>Desired direction:</b> Increase"
 10-4-2-contenido: "<b>Desired direction:</b> Decrease in Gini coefficient of equivalent disposable income"
 10-7-4-contenido: "<b>Desired direction:</b> Decrease"
+10-b-1-contenido: "<b>Desired direction:</b> Increase"
+
 
 11-1-1-contenido: "<b>Desired direction:</b> Decrease"
 11-3-2-contenido: "<b>Desired direction:</b> Increase"
@@ -348,6 +372,10 @@ OCECA-10-2-1-1A: Proportion of people living below 50% of the median income, con
 15-3-1-contenido: "<b>Desired direction:</b> Increase"
 15-4-2-contenido: "<b>Desired direction:</b> Increase"
 15-8-1-contenido: "<b>Desired direction:</b> Increase"
+15-a-1-contenido: "<b>Desired direction:</b> Increase"
+15-b-1-contenido: "<b>Desired direction:</b> Increase"
+
+
 
 16-1-1-contenido: "<b>Desired direction:</b> Decrease"
 16-1-2-contenido: "<b>Desired direction:</b> Decrease"
