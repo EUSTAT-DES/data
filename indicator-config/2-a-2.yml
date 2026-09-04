@@ -23,11 +23,20 @@ graph_type: line
 indicator_name: global_indicators.2-a-2-title
 indicator_number: '2.a.2'
 national_geographical_coverage: ''
-page_content: ''
+page_content: GRAFICO.2-a-2-contenido
 permalink: ''
 precision: []
-progress_status: notstarted
-reporting_status: notstarted
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: EU_ODA_AGRL
+    direction: positive
+reporting_status: complete
 sort: ''
+sources:
+  - organisation: FUENTE.Elankidetza
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.elankidetza_ataria_url
+    url_text: FUENTE.elankidetza_ataria
+    logo: FUENTE.elankidetza_logo
 standalone: false
-tags: []
+tags: ''
