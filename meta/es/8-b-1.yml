@@ -9,11 +9,47 @@ meta_global: meta_largo.8-b-titulo
 
 
 definicion:  | 
-  Proporción del gasto de la administración autonómica en fomento del empleo (política de gasto 24 de la clasificación funcional empleada en las liquidaciones presupuestarias de las comunidades autónomas) 
+  
+  Series disponibles: 
+
+  <b> - Nivel de implantación de estrategias públicas para el empleo de las personas jóvenes:</b>
+  Puntuación correspondiente a la implantación de estrategias públicas de fomento del empleo juvenil de acuerdo con los criterios establecidos por la Organización Internacional del Trabajo (entre 0 y 3 puntos)
+
+  <b> - Gasto de la administración autonómica en fomento del empleo:</b>
+  Gasto realizado por la administración autonómica en fomento del empleo (política de gasto 24 de la clasificación funcional empleada en las liquidaciones 
+  presupuestarias)
+ 
+  <b> - Proporción del gasto de la administración autonómica destinado al fomento del empleo :</b>
+  Proporción del gasto realizado por la administración autonómica destinado al fomento del empleo sobre el gasto total (política de gasto 24 de la clasificación 
+  funcional empleada en las liquidaciones presupuestarias) 
+
+
 
 formula:  |
 
-  $$G_{fomento\, empleo}^{t} = \frac{G_{fomento\, empleo}^{t}}{G^{t}} \cdot 100$$
+  <b> Nivel de implantación de estrategias públicas para el empleo de las personas jóvenes</b> 
+
+  $$IEE^{t}$$ 
+
+  donde: 
+
+  $IEE^{t} =$ Puntuación obtenida según los criterios de la Organización Internacional del Trabajo en el año $t$ 
+
+  <br>
+
+  <b> Gasto de la administración autonómica en fomento del empleo</b> 
+
+  $$G_{fomento\, empleo}^{t}$$
+
+  donde: 
+
+  $G_{fomento\, empleo}^{t} =$ gasto en fomento del empleo en la liquidación de presupuestos consolidados de la comunidad autónoma (política de gasto 24 de la clasificación funcional) en el año $t$
+
+  <br> 
+  
+  <b> Proporción del gasto de la administración autonómica en fomento del empleo</b> 
+
+  $$PG_{fomento\, empleo}^{t} = \frac{G_{fomento\, empleo}^{t}}{G^{t}} \cdot 100$$
 
   donde:
 
@@ -27,12 +63,26 @@ desagregacion:  |
 periodicidad: FUENTE.FREQ_A
 
 
-observaciones: >-
+observaciones: |
+
+  Descripción de las puntuaciones según los criterios de la Organización Internacional del Trabajo:
+ 
+
+    - No datos: No hay información suficiente para evaluar la existencia de una estrategia de empleo juvenil
+    - 0: El país no ha desarrollado ninguna estrategia nacional para el empleo juvenil ni tomado medidas para desarrollarla o adoptarla
+    - 1: El país está en el proceso de desarrollar una estrategia nacional para el empleo juvenil
+    - 2: El país ha desarrollado y adoptado una estrategia nacional para el empleo juvenil 
+    - 3: El país ha puesto en marcha una estrategia nacional para el empleo juvenil
+
 
   Los datos consolidados de las liquidaciones presupuestarias de las comunidades autónomas 
   se toman depurados de IFL (intermediación financiera local) y PAC (política agrícola común)
 
-texto_oceca: FUENTE.oceca
+texto_oceca: |
+
+  Las series "Gasto de la administración autonómica en fomento del empleo" y "Proporción del gasto de la administración autonómica en fomento del empleo"
+  están calculadas utilizando una metodología armonizada entre los órganos centrales de estadística de las comunidades autónomas.
+
 
  # Metadatos mundiales (Descripción del indicador)  
 
@@ -55,7 +105,7 @@ justificacion_global: |
 dato_global: >-
 
 comparabilidad: >- 
-  El indicador disponible no cumple con los metadatos del indicador de Naciones Unidas pero aporta información complementaria.
+  El indicador disponible cumple parcialmente con los metadatos del indicador de Naciones Unidas y aporta información complementaria.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-0b-01.pdf">Metadatos 8-b-1.pdf</a> (solo en inglés)'
 
