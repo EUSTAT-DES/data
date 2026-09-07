@@ -1,21 +1,36 @@
 # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >-
+  GRAFICO.1-a-1-titulo
 
 # objetivo_global: objetivo_largo.1-titulo
 # meta_global: meta_largo.1-a-titulo
 #  indicador_onu_global: indicador_largo.1-a-1-titulo
 
 
-definicion:
+definicion: >-
+  Official Development Assistance from the regional and local 
+  administrations of the Basque Autonomous Community for poverty reduction (total gross disbursement)
 
-formula:
+  
+formula: |
+
+  $$ODA_{poverty}^{t}$$
+
+  where: 
+
+  $ODA_{poverty}^{t} $= amount of Official Development Assistance for poverty reduction in year $t$ 
 
 desagregacion: 
 
 periodicidad:  
 
-observaciones:
+observaciones: |
+
+  Basic social services and development food aid, which focus on poverty reduction, are defined using the
+  following OECD Creditor Reporting System (CRS) purpose codes: Basic Education (CRS codes 112xx), Basic 
+  Health (CRS codes (122xx), Water Supply and Sanitation (CRS codes 140xx), Multisector aid for basic 
+  social services (CRS code 16050), Development Food Aid (CRS code 52010). 
 
 
  # Metadatos mundiales (Descripción del indicador)  

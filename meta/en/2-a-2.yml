@@ -1,12 +1,33 @@
  # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >-
+  GRAFICO.2-a-2-titulo
 
 # objetivo_global: objetivo_largo.2-titulo
 # meta_global: meta_largo.2-a-titulo
 # indicador_onu_global: indicador_largo.2-a-2-titulo
 
+definicion: >-
+  Official Development Assistance from the regional and local administrations of the Basque Autonomous Community 
+  for the agriculture sector (total gross disbursement)
 
+  
+formula: |
+
+  $$ODA_{agriculture}^{t}$$
+
+  where: 
+
+  $ODA_{agriculture}^{t} $= Amount of Official Development Assistance for agriculture sector in year $t$ 
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones: |
+
+  The agriculture sector comprises all OECD Creditor Reporting System (CRS) sector
+  codes in the 311 series. 
 
 
  # Metadatos mundiales (Descripción del indicador)  

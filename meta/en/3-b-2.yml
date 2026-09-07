@@ -1,21 +1,36 @@
 # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >-
+  GRAFICO.3-b-2-titulo
 
 # objetivo_global: objetivo_largo.3-titulo
 # meta_global: meta_largo.3-b-titulo
 #  indicador_onu_global: indicador_largo.3-b-2-titulo
 
 
-definicion:
+definicion: >-
+  Official Development Assistance from the regional and local 
+  administrations of the Basque Autonomous Community for medical 
+  research and basic health sectors (total gross disbursement)
 
-formula:
+  
+formula: |
+
+  $$ODA_{health}^{t}$$
+
+  where: 
+
+  $ODA_{health}^{t} $= amount of Official Development Assistance for medical research and basic 
+  health sectors in year $t$ 
 
 desagregacion: 
 
 periodicidad:  
 
-observaciones:
+observaciones: |
+
+  Medical research refers to OECD CreditorReporting System (CRS) sector code 12182 and basic 
+  health covers all codes in the 122 series. 
 
 
  # Metadatos mundiales (Descripción del indicador)  
