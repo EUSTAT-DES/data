@@ -6119,6 +6119,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Nivel de implantación de estrategias públicas para el empleo de las personas jóvenes",
                 "Gasto de las administraciones públicas autonómicas en fomento del empleo",
                 "Gasto de las administraciones públicas autonómicas en fomento del empleo en proporción al gasto total",
                 ""
@@ -6131,6 +6132,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Índice",
                 "Millones de euros",
                 "%",
                 ""

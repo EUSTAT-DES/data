@@ -6119,6 +6119,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Level of implementation of public strategies for youth employment",
                 "Regional public administration spending on employment promotion",
                 "Regional public administration spending on employment promotion as a proportion of total spending",
                 ""
@@ -6131,6 +6132,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Index",
                 "Millions of euros",
                 "%",
                 ""
