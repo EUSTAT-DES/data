@@ -183,20 +183,20 @@
   target_variant: sin_target
 1-a-1:
   1-a-1 / Pobrezia murriztera bideratutako Garapenerako Laguntza Ofiziala (guztizko ordainketa gordina):
-    base_value: 6.13
+    base_value: 1.0
     base_year: 2015.0
-    current_value: 5.91
-    current_year: 2024.0
+    current_value: 1.01
+    current_year: 2016.0
     direction: 1
     limit: null
-    progress_value: -0.004052756274800062
-    score: -1.0131890687000156
+    progress_value: 0.010000000000000009
+    score: 2.500000000000002
     sign: 1
-    status: moderate_deterioration
+    status: significant_progress
     target: null
     target_year: 2030.0
-  progress_status: moderate_deterioration
-  score: -1.0131890687000156
+  progress_status: significant_progress
+  score: 2.500000000000002
   target_variant: sin_target
 1-a-2:
   1-a-2:
