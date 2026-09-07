@@ -9,19 +9,54 @@ meta_global: meta_largo.8-b-titulo
 
 
 definicion:  | 
+  
+  Available series: 
+
+  <b> - Level of implementation of public strategies for youth employment:</b>
+  Score on the implementation of public strategies to promote youth employment in accordance with the criteria established by the International Labour Organisation (0-3 points)
+
+  <b> - Expenditure of the regional public administrations on employment promotion:</b>
   Expenditure of the regional public administrations on employment promotion (expenditure policy 
+  24 of the functional classification used in the budgetary settlements of the autonomous communities)
+ 
+  <b> - Proportion of the regional public administration's expenditure on employment promotion:</b>
+  Expenditure of the regional public administrations on employment promotion as a percentage of total expenditure(expenditure policy 
   24 of the functional classification used in the budgetary settlements of the autonomous communities) 
-  and total expenditure 
+
+
 
 formula:  |
 
-  $$G_{employment\, promotion}^{t} = \frac{G_{employment\, promotion}^{t}}{G^{t}} \cdot 100$$
+  <b> Level of implementation of public strategies for youth employment</b> 
+
+  $$IYES^{t}$$ 
+
+  where: 
+
+  $IYES^{t} =$ score obtained in accordance with the criteria of the International Labour Organisation in year $t$ 
+
+  <br>
+
+  <b> Expenditure of the regional public administrations on employment promotion</b> 
+
+  $$G_{employment\, promotion}^{t}$$
+
+  where: 
+
+  $G_{employment\, promotion}^{t} =$ expenditure on employment promotion in the settlement of consolidated budgets of the autonomous community (expenditure policy 24 of the functional classification) in year $t$
+
+  <br> 
+  
+  <b> Proportion of the regional public administration's expenditure on employment promotion</b> 
+
+  $$PG_{employment\, promotion}^{t} = \frac{G_{employment\, promotion}^{t}}{G^{t}} \cdot 100$$
 
   where:
 
   $G_{employment\, promotion}^{t} =$ expenditure on employment promotion in the settlement of consolidated budgets of the autonomous community (expenditure policy 24 of the functional classification) in year $t$
 
   $G^{t} =$ total expenditure in the settlement of consolidated budgets of the autonomous community in year $t$
+
 
 
 desagregacion:  |
@@ -31,10 +66,23 @@ periodicidad: FUENTE.FREQ_A
 
 observaciones: >-
 
+  Description of the scores according to the International Labour Organisation's criteria:
+
+    - No data: No information available to assess the existence of a national strategy for youth employment
+    - 0: The country has not developed any national strategy for youth employment or taken steps to develop or adopt one
+    - 1: The country is in the process of developing a national strategy for youth employment
+    - 2: The country has developed and adopted a national strategy for youth employment 
+    - 3: The country has operationalised a national strategy for youth employment
+
+
   Consolidated data of the budgetary settlements of the autonomous communities are taken from IFL 
   (Local Financial Intermediation) and PAC (Common Agricultural Policy) 
 
-texto_oceca: FUENTE.oceca
+texto_oceca: | 
+
+  The series "Expenditure of the regional public administrations on employment promotion" and "Proportion of the regional public administration's expenditure on employment promotion" have 
+  been compiled using a methodology harmonised among the central statistical bodies of the autonomous communities
+
 
  # Metadatos mundiales (Descripción del indicador)  
 
@@ -55,7 +103,7 @@ justificacion_global: |
 dato_global: >-
 
 comparabilidad: >- 
-  The available indicator does not comply with the metadata of the United Nations indicator, but provides complementary information.
+  The available indicator partially complies with the metadata of the United Nations indicator, and provides complementary information.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-0b-01.pdf">Metadata 8-b-1.pdf</a>'
 
