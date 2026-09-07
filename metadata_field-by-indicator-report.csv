@@ -64,7 +64,7 @@ udalerriek larrialdietarako udal-planak egin eta onartu behar dituzte.
 bat etorriz, jarraibide hau gomendagarria da. 2024an, 5.000 eta 20.000 biztanle arteko udalerrien % 96k 
 eta 1.000 eta 5.000 biztanle arteko udalerrien % 25ek Udal Larrialdi Plan homologatua dute.
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
-#1-a-1,complete,moderate_deterioration,,line,,2026-09-04,,"
+#1-a-1,complete,significant_progress,,line,,2026-09-07,,"
 Garapenerako oinarrizko gizarte-zerbitzuak eta elikadura-laguntza, pobrezia murriztera bideratuta daudenak, 
 ELGEren Creditor Reporting System-eko (CRS) helburu-kode hauen bidez definitzen dira: 
 Oinarrizko hezkuntza (CRS 112xx kodeak), Oinarrizko osasuna (CRS 122xx kodeak), Ur-hornidura eta saneamendua 
@@ -644,8 +644,20 @@ parekatuak (1/2013 Legegintzako Errege Dekretuaren arabera).
 badagokio
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #8-a-1,notstarted,notstarted,,line,,,,,,
-#8-b-1,complete,no_progress,,line,FUENTE.oceca,2025-08-04,,"
-Autonomia erkidegoetako aurrekontu-likidazioen datu bateratuak araztuta hartzen dira tokiko finantza-bitartekaritzatik  eta NPEtik (nekazaritza-politika erkidea)","EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du.",
+#8-b-1,complete,no_progress,,line,"
+""Administrazio publiko autonomikoek enplegua sustatzeko egindako gastua"" eta ""Administrazio publiko autonomikoek enplegua sustatzeko egindako gastua, gastu guztiarekiko""  seriak autonomia-erkidegoetako estatistika-organo nagusien arteko metodologia harmonizatua erabiliz kalkulatu dira",2025-08-04,,"
+Lanaren Nazioarteko Erakundeak ezarritako irizpideen araberako puntuazioen deskribapena:
+
+  - Daturik ez: Ez dago behar adina informazio gazte enplegurako estrategiarik dagoen ebaluatzeko
+  - 0: Herrialdeak ez du gazteen enplegurako inolako estrategia nazionalik garatu, eta ez du neurririk hartu estrategia hori garatu edo martxan jartzeko
+  - 1: Herrialdea gazteentzako estrategia nazionala garatzeko prozesuan dago
+  - 2: Herrialdeak gazte enplegurako estrategia nazionala garatu eta onartu du
+  - 3: Herrialdeak gazteen enplegurako estrategia nazionala martxan jarri du
+
+
+Autonomia erkidegoetako aurrekontu-likidazioen datu bateratuak araztuta hartzen dira tokiko finantza-bitartekaritzatik 
+eta NPEtik (nekazaritza-politika erkidea)
+","EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen adierazlearen metadatuak, eta informazio osagarria ematen du.",
 #9-1-1,complete,significant_progress,,bar,,2025-08-04,,,EAEko adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #9-1-2,complete,significant_progress,,line,FUENTE.oceca,2026-01-16,,,"
 EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du.",
