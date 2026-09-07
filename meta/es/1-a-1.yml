@@ -1,21 +1,38 @@
 # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >-
+  GRAFICO.1-a-1-titulo
 
 # objetivo_global: objetivo_largo.1-titulo
 # meta_global: meta_largo.1-a-titulo
 #  indicador_onu_global: indicador_largo.1-a-1-titulo
 
 
-definicion:
+definicion: >-
+  Ayuda Oficial al Desarrollo de la Administración Autonómica y Local de la CAPV 
+  dirigida a la reducción de la pobreza (desembolso bruto total) 
 
-formula:
+formula: |
+
+  $$AOD_{pobreza}^{t}$$
+
+  donde: 
+
+  $AOD_{pobreza}^{t} $= Cantidad de Ayuda Oficial al Desarrollo dirigida a la reducción de la pobreza en el año $t$ 
+
 
 desagregacion: 
 
 periodicidad:  
 
-observaciones:
+observaciones: |
+
+  Los servicios sociales básicos y la ayuda alimentaria para el desarrollo, centrados en la reducción 
+  de la pobreza, se definen mediante los siguientes códigos de finalidad del Creditor Reporting System 
+  (CRS) de la OCDE: Educación básica (códigos CRS 112xx), Salud básica 
+  (códigos CRS 122xx), Abastecimiento de agua y saneamiento (códigos CRS 140xx), Ayuda multisectorial 
+  para servicios sociales básicos (código CRS 16050), Ayuda alimentaria para el desarrollo (código CRS 
+  52010).
 
 
  # Metadatos mundiales (Descripción del indicador)  

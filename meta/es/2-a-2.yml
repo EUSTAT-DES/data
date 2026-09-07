@@ -1,11 +1,32 @@
  # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >-
+  GRAFICO.2-a-2-titulo
 
 # objetivo_global: objetivo_largo.2-titulo
 # meta_global: meta_largo.2-a-titulo
 # indicador_onu_global: indicador_largo.2-a-2-titulo
 
+definicion: >-
+  Ayuda Oficial al Desarrollo de la Administración Autonómica y Local de la CAPV 
+  destinada al sector de la agricultura (desembolso bruto total) 
+
+formula: |
+
+  $$AOD_{agricultura}^{t}$$
+
+  donde: 
+
+  $AOD_{agricultura}^{t} $= Cantidad de Ayuda Oficial al Desarrollo destinada a la agricultura en el año $t$ 
+
+
+desagregacion: 
+
+periodicidad:  
+
+observaciones: |
+
+  El sector agrícola comprende todos los códigos sectoriales de la serie 311 del Creditor Reporting System (CRS) de la OCDE.
 
 
 

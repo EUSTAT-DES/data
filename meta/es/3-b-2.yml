@@ -1,21 +1,34 @@
 # Metadatos nacionales (ficha metodológica)
  
-indicador_disponible: GRAFICO.nodisponible
+indicador_disponible: >-
+  GRAFICO.3-b-2-titulo
 
 # objetivo_global: objetivo_largo.3-titulo
 # meta_global: meta_largo.3-b-titulo
 #  indicador_onu_global: indicador_largo.3-b-2-titulo
 
 
-definicion:
+definicion: >-
+  Ayuda Oficial al Desarrollo de la Administración Autonómica y Local de la CAPV 
+  dirigida a la investigación médica y la asistencia sanitaria básica (desembolso bruto total) 
 
-formula:
+formula: |
+
+  $$AOD_{salud}^{t}$$
+
+  donde: 
+
+  $AOD_{salud}^{t} $= Cantidad de Ayuda Oficial al Desarrollo dirigida a la investigación médica y la atención sanitaria básica en el año $t$ 
+
 
 desagregacion: 
 
 periodicidad:  
 
-observaciones:
+observaciones: |
+
+  La investigación médica corresponde al código de sector 12182 del Creditor Reporting System (CRS) de la OCDE, y la salud básica abarca todos los códigos de la serie 122.
+
 
 
  # Metadatos mundiales (Descripción del indicador)  
