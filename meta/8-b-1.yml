@@ -9,12 +9,46 @@ meta_global: meta_largo.8-b-titulo
 
 
 definicion:  | 
-  Administrazio autonomikoak enplegua sustatzeko egiten duen gastuaren proportzioa (autonomia erkidegoetako 
-  aurrekontu-likidazioetan erabilitako sailkapen funtzionalaren 24. gastu-politika)
+  
+  Eskuragarri dauden serieak: 
+
+  <b> - Gazteen enplegua sustatzeko estrategia publikoen ezarpen maila:</b>
+  Lanaren Nazioarteko Erakundeak ezarritako irizpideen arabera, gazteen enplegua sustatzeko estrategia publikoen ezarpenari dagokion puntuazioa (0 eta 3 artekoa)
+
+  <b> - Administrazio publiko autonomikoek enplegua sustatzeko egindako gastua:</b>
+  Administrazio autonomikoak enplegua sustatzeko egindako gastua (aurrekontu-likidazioetan erabilitako sailkapen funtzionalaren 24. gastu-politika) 
+ 
+  <b> - Administrazio publiko autonomikoek enplegua sustatzeko egindako gastua, gastu guztiarekiko:</b>
+  Administrazio autonomikoak enplegua sustatzeko egindako gastuaren proportzioa (aurrekontu-likidazioetan erabilitako sailkapen funtzionalaren 
+  24. gastu-politika) 
+ 
+
 
 formula:  |
 
-  $$G_{enplegu\, sustapena}^{t} = \frac{G_{enplegu\, sustapena}^{t}}{G^{t}} \cdot 100$$
+  <b> Gazteen enplegua sustatzeko estrategia publikoen ezarpen maila</b> 
+
+  $$GEE^{t}$$ 
+
+  non: 
+
+  $GEE^{t} =$ Lanaren Nazioarteko Erakundearen irizpideen arabera lortutako puntuazioa $t$ urtean 
+
+  <br>
+
+  <b> Administrazio publiko autonomikoek enplegua sustatzeko egindako gastua</b> 
+
+  $$G_{enplegu\, sustapena}^{t}$$
+
+  non: 
+
+  $G_{enplegu\, sustapena}^{t} =$ autonomia erkidegoko aurrekontu bateratuen likidazioan enplegua sustatzeko gastua (sailkapen funtzionalaren 24. gastu-politika) $t$ urtean
+
+  <br> 
+  
+  <b> Administrazio publiko autonomikoek enplegua sustatzeko egindako gastua, gastu guztiarekiko</b> 
+
+  $$PG_{enplegu\, sustapena}^{t} = \frac{G_{enplegu\, sustapena}^{t}}{G^{t}} \cdot 100$$
 
   non:
 
@@ -23,17 +57,33 @@ formula:  |
   $G^{t} =$ autonomia erkidegoko aurrekontu bateratuen likidazioko guztizko gastua $t$ urtean
 
 
+
+
 desagregacion:  |
 
 periodicidad: FUENTE.FREQ_A
 
 
-observaciones: >-
+observaciones: |
+
+  Lanaren Nazioarteko Erakundeak ezarritako irizpideen araberako puntuazioen deskribapena:
+
+    - Daturik ez: Ez dago behar adina informazio gazte enplegurako estrategiarik dagoen ebaluatzeko
+    - 0: Herrialdeak ez du gazteen enplegurako inolako estrategia nazionalik garatu, eta ez du neurririk hartu estrategia hori garatu edo martxan jartzeko
+    - 1: Herrialdea gazteentzako estrategia nazionala garatzeko prozesuan dago
+    - 2: Herrialdeak gazte enplegurako estrategia nazionala garatu eta onartu du
+    - 3: Herrialdeak gazteen enplegurako estrategia nazionala martxan jarri du
+
 
   Autonomia erkidegoetako aurrekontu-likidazioen datu bateratuak araztuta hartzen dira tokiko finantza-bitartekaritzatik 
   eta NPEtik (nekazaritza-politika erkidea)
 
-texto_oceca: FUENTE.oceca
+texto_oceca: >- 
+
+  "Administrazio publiko autonomikoek enplegua sustatzeko egindako gastua" eta "Administrazio publiko autonomikoek enplegua sustatzeko egindako gastua, gastu guztiarekiko" 
+  seriak autonomia-erkidegoetako estatistika-organo nagusien arteko metodologia harmonizatua erabiliz kalkulatu dira
+
+
 
  # Metadatos mundiales (Descripción del indicador)  
 
@@ -56,7 +106,7 @@ justificacion_global: |
 dato_global: >-
 
 comparabilidad: >- 
-  EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du.
+  EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen adierazlearen metadatuak, eta informazio osagarria ematen du.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-08-0b-01.pdf">Metadatuak 8-b-1.pdf</a> (ingelesez bakarrik)'
 
