@@ -3236,8 +3236,21 @@
     status: significant_deterioration
     target: null
     target_year: 2030.0
-  progress_status: no_progress
-  score: 0.03915976767772156
+  8-b-1 / Gazteen enplegurako estrategia publikoen ezarpen maila:
+    base_value: 3.0
+    base_year: 2015.0
+    current_value: 3.0
+    current_year: 2025.0
+    direction: 1
+    limit: 3
+    progress_value: 0.0
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  progress_status: moderate_progress
+  score: 1.6927731784518143
   target_variant: sin_target
 9-1-1:
   progress_status: significant_progress
