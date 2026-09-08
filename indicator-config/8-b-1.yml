@@ -32,6 +32,9 @@ progress_calculation_options:
     direction: positive
   - series: EU_EXP_EMPGDP
     direction: positive
+ - series: SL_CPA_YEMP
+    direction: positive
+    limit: 3    
 reporting_status: complete
 sort: ''
 sources:
