@@ -38,6 +38,16 @@ progress_calculation_options:
 reporting_status: complete
 sort: ''
 sources:
+  - organisation: FUENTE.Euskadi_Bienestar
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Euskadi_gazte_emantzipazioa_url
+    url_text: FUENTE.Euskadi_gazte_emantzipazioa
+    logo: FUENTE.Euskadi_logo
+  - organisation: FUENTE.Euskadi_Justicia
+    periodicity: FUENTE.FREQ_A
+    url: FUENTE.Euskadi_enplegua_url
+    url_text: FUENTE.Euskadi_enplegua
+    logo: FUENTE.Euskadi_logo
   - organisation: FUENTE.GE_Hacienda
     periodicity: FUENTE.FREQ_A
     url: FUENTE.GE_Hacienda_lpca_url
