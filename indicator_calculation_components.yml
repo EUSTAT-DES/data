@@ -2575,86 +2575,86 @@
   target_variant: con_target
 5-5-1:
   5-5-1 / Emakumezkoen proportzioa Batzar Nagusietako batzarkideen artean:
-    base_value: 48.1
+    base_value: 51.9
     base_year: 2015.0
-    current_value: 44.4
+    current_value: 55.6
     current_year: 2025.0
-    direction: 1
-    limit: 50
-    progress_value: -0.007972321891407952
-    score: -1.993080472851988
+    direction: -1
+    limit: null
+    progress_value: -2.7826743000830736
+    score: -5.0
     sign: 1
     status: significant_deterioration
-    target: null
+    target: 50.0
     target_year: 2030.0
   5-5-1 / Emakumezkoen proportzioa Eusko Jaurlaritzako sailburuen artean:
     base_value: 50.0
     base_year: 2015.0
-    current_value: 46.7
+    current_value: 53.3
     current_year: 2025.0
-    direction: 1
-    limit: 50
-    progress_value: -0.006804627037080846
-    score: 5.0
+    direction: -1
+    limit: null
+    progress_value: null
+    score: null
     sign: 1
-    status: significant_deterioration
-    target: null
+    status: not_available
+    target: 50.0
     target_year: 2030.0
   5-5-1 / Emakumezkoen proportzioa Eusko Legebiltzarreko legebiltzarkideen artean:
-    base_value: 49.3
+    base_value: 50.7
     base_year: 2015.0
     current_value: 53.3
     current_year: 2025.0
-    direction: 1
-    limit: 50
-    progress_value: 0.007831733851999978
-    score: 5.0
+    direction: -1
+    limit: null
+    progress_value: -5.411701954494829
+    score: -5.0
     sign: 1
-    status: significant_progress
-    target: null
+    status: significant_deterioration
+    target: 50.0
     target_year: 2030.0
   5-5-1 / Emakumezkoen proportzioa Foru Diputatuen artean:
     base_value: 50.0
     base_year: 2015.0
     current_value: 66.7
     current_year: 2025.0
-    direction: 1
-    limit: 50
-    progress_value: 0.02923745669053135
-    score: 5.0
+    direction: -1
+    limit: null
+    progress_value: null
+    score: null
     sign: 1
-    status: significant_progress
-    target: null
+    status: not_available
+    target: 50.0
     target_year: 2030.0
   5-5-1 / Emakumezkoen proportzioa alkateen artean:
-    base_value: 25.2
+    base_value: 74.8
     base_year: 2015.0
-    current_value: 35.7
+    current_value: 64.3
     current_year: 2025.0
-    direction: 1
-    limit: 50
-    progress_value: 0.03544436156697994
-    score: 5.0
+    direction: -1
+    limit: null
+    progress_value: 0.5665836186507516
+    score: -0.1392349222885345
     sign: 1
-    status: significant_progress
-    target: null
+    status: moderate_deterioration
+    target: 50.0
     target_year: 2030.0
   5-5-1 / Emakumezkoen proportzioa zinegotzien artean:
-    base_value: 41.4
+    base_value: 58.6
     base_year: 2015.0
-    current_value: 46.8
+    current_value: 53.2
     current_year: 2025.0
-    direction: 1
-    limit: 50
-    progress_value: 0.012335696945859898
-    score: 5.0
+    direction: -1
+    limit: null
+    progress_value: 0.9141139040958276
+    score: 2.243670743541626
     sign: 1
-    status: significant_progress
-    target: null
+    status: moderate_progress
+    target: 50.0
     target_year: 2030.0
-  progress_status: significant_progress
-  score: 3.8344865878580023
-  target_variant: sin_target
+  progress_status: moderate_deterioration
+  score: -1.973891044686727
+  target_variant: con_target
 5-5-2:
   progress_status: retroceso
   score: null
