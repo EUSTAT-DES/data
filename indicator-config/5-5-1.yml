@@ -41,23 +41,29 @@ precision: []
 auto_progress_calculation: true
 progress_calculation_options:
   - series: GEN_PARL
-    direction: positive
-    limit: 50
+    direction: negative
+    target: 50
+    goldilocks_transform: "50+abs(Value-50)"
   - series: GEN_G
-    direction: positive
-    limit: 50
+    direction: negative
+    target: 50
+    goldilocks_transform: "50+abs(Value-50)"
   - series: GEN_REGIOPARL
-    direction: positive
-    limit: 50
+    direction: negative
+    target: 50
+    goldilocks_transform: "50+abs(Value-50)"
   - series: GEN_REGIOG
-    direction: positive
-    limit: 50
+    direction: negative
+    target: 50
+    goldilocks_transform: "50+abs(Value-50)"
   - series: GEN_LOCP
-    direction: positive
-    limit: 50
+    direction: negative
+    target: 50
+    goldilocks_transform: "50+abs(Value-50)"
   - series: GEN_LOCG
-    direction: positive
-    limit: 50
+    direction: negative
+    target: 50
+    goldilocks_transform: "50+abs(Value-50)"
 reporting_status: complete
 sort: ''
 sources:
