@@ -5650,6 +5650,11 @@
             "title": "Unitatea"
           },
           {
+            "name": "Progress",
+            "type": "string",
+            "title": "Progress"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Balioa"
