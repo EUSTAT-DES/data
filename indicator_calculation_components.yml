@@ -2673,13 +2673,13 @@
     base_year: 2016.0
     current_value: 32.9
     current_year: 2023.0
-    direction: 1
+    direction: -1
     limit: null
-    progress_value: -0.02111151610872497
-    score: -5.0
+    progress_value: 1.0874534083664253
+    score: 5.0
     sign: 1
-    status: significant_deterioration
-    target: null
+    status: significant_progress
+    target: 50.0
     target_year: 2030.0
   5-a-1 / Jabetza-eskubideak edo nekazaritza-lurren gaineko eskubide seguruak dituzten nekazarien guztizkoaren proportzioa:
     base_value: 51.7
@@ -2694,9 +2694,9 @@
     status: significant_deterioration
     target: null
     target_year: 2030.0
-  progress_status: significant_deterioration
-  score: -5.0
-  target_variant: sin_target
+  progress_status: no_progress
+  score: 0.0
+  target_variant: mixto
 5-a-2:
   5-a-2:
     base_value: 6.0
