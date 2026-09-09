@@ -28,7 +28,11 @@ national_geographical_coverage: ''
 page_content: GRAFICO.5-5-2-contenido
 permalink: ''
 precision: []
-progress_status: retroceso
+auto_progress_calculation: true
+progress_calculation_options:
+  - direction: negative
+    target: 60
+    goldilocks_transform: "50+abs(Value-50)"
 reporting_status: complete
 sort: ''
 sources:
