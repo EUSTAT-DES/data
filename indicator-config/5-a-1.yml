@@ -31,7 +31,8 @@ progress_calculation_options:
   - series: SP_LGL_LNDAGSEC
     direction: positive
   - series: SP_GNP_WNOWNS
-    direction: positive
+    direction: negative
+    target: 50
 reporting_status: complete
 sort: ''
 sources:
