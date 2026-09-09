@@ -33,6 +33,7 @@ progress_calculation_options:
   - series: SP_GNP_WNOWNS
     direction: negative
     target: 50
+    goldilocks_transform: "50+abs(Value-50)"
 reporting_status: complete
 sort: ''
 sources:
