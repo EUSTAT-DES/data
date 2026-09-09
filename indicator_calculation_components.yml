@@ -2669,33 +2669,33 @@
   target_variant: sin_target
 5-a-1:
   5-a-1 / Emakumeen proportzioa nekazaritza-lurren jabeen edo eskubideen titularren artean, edukitze-motaren arabera bana...:
-    base_value: 38.2
+    base_value: 61.8
     base_year: 2016.0
-    current_value: 32.9
+    current_value: 67.1
     current_year: 2023.0
     direction: -1
     limit: null
-    progress_value: 1.0874534083664253
-    score: 5.0
+    progress_value: -0.7871804983486309
+    score: -5.0
     sign: 1
-    status: significant_progress
+    status: significant_deterioration
     target: 50.0
     target_year: 2030.0
   5-a-1 / Jabetza-eskubideak edo nekazaritza-lurren gaineko eskubide seguruak dituzten nekazarien guztizkoaren proportzioa:
     base_value: 51.7
     base_year: 2016.0
-    current_value: 43.2
+    current_value: 56.8
     current_year: 2023.0
     direction: 1
     limit: null
-    progress_value: -0.025333202282467604
-    score: -5.0
+    progress_value: 0.013530511998878891
+    score: 3.382627999719723
     sign: 1
-    status: significant_deterioration
+    status: significant_progress
     target: null
     target_year: 2030.0
-  progress_status: no_progress
-  score: 0.0
+  progress_status: moderate_deterioration
+  score: -0.8086860001401386
   target_variant: mixto
 5-a-2:
   5-a-2:
