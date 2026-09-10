@@ -2684,18 +2684,18 @@
   5-a-1 / Jabetza-eskubideak edo nekazaritza-lurren gaineko eskubide seguruak dituzten nekazarien guztizkoaren proportzioa:
     base_value: 51.7
     base_year: 2016.0
-    current_value: 56.8
+    current_value: 43.2
     current_year: 2023.0
     direction: 1
     limit: null
-    progress_value: 0.013530511998878891
-    score: 3.382627999719723
+    progress_value: -0.025333202282467604
+    score: -5.0
     sign: 1
-    status: significant_progress
+    status: significant_deterioration
     target: null
     target_year: 2030.0
-  progress_status: moderate_deterioration
-  score: -0.8086860001401386
+  progress_status: significant_deterioration
+  score: -5.0
   target_variant: mixto
 5-a-2:
   5-a-2:
