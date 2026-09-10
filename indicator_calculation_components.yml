@@ -2682,16 +2682,16 @@
     target: 50.0
     target_year: 2030.0
   5-a-1 / Jabetza-eskubideak edo nekazaritza-lurren gaineko eskubide seguruak dituzten nekazarien guztizkoaren proportzioa:
-    base_value: null
-    base_year: 2015.0
-    current_value: null
-    current_year: null
+    base_value: 51.7
+    base_year: 2016.0
+    current_value: 43.2
+    current_year: 2023.0
     direction: 1
     limit: null
-    progress_value: null
-    score: null
-    sign: null
-    status: not_available
+    progress_value: -0.025333202282467604
+    score: -5.0
+    sign: 1
+    status: significant_deterioration
     target: null
     target_year: 2030.0
   progress_status: significant_deterioration
