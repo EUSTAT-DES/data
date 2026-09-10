@@ -41,14 +41,20 @@ def apply_goldilocks_transforms(data_dir='data', config_dir='indicator-config'):
             if groups:
                 _apply_goldilocks_multigroup(df, formula, groups, inid)
             else:
-                _apply_goldilocks_simple(df, formula, inid)
+                _apply_goldilocks_simple(df, formula, inid, opt)
 
         df.to_csv(csv_path, index=False)
         print(f'[EUSTAT] Goldilocks aplicado: {inid}')
 
 
-def _apply_goldilocks_simple(df, formula, inid):
-    """Transforma fila a fila: Progress = eval(formula) con Value como variable."""
+def _apply_goldilocks_simple(df, formula, inid, opt=None):
+    """Transforma fila a fila: Progress = eval(formula) con Value como variable.
+    Si opt contiene 'series' o 'unit', solo transforma las filas de esa serie/unidad.
+    """
+    # Detectar nombres de columnas de serie y unidad en el DataFrame
+    series_col = next((c for c in df.columns if c.lower() == 'series'), None)
+    unit_col   = next((c for c in df.columns if c.lower() in ('units', 'unit')), None)
+
     def transform(row):
         try:
             Value = float(row['Value'])  # noqa: N806 — nombre de variable intencional
@@ -58,6 +64,15 @@ def _apply_goldilocks_simple(df, formula, inid):
             return ''
 
     mask = df['Value'].notna() & (df['Value'] != '')
+
+    # Filtrar por serie si está especificada en la opción
+    if opt and opt.get('series') and series_col:
+        mask &= df[series_col] == opt['series']
+
+    # Filtrar por unidad si está especificada en la opción
+    if opt and opt.get('unit') and unit_col:
+        mask &= df[unit_col] == opt['unit']
+
     df.loc[mask, 'Progress'] = df[mask].apply(transform, axis=1)
 
 
