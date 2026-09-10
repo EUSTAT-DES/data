@@ -26,7 +26,20 @@ national_geographical_coverage: ''
 page_content: GRAFICO.16-7-1-contenido
 permalink: ''
 precision: []
-progress_status: progreso
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: SG_DMK_PARLMP_LC
+    direction: negative
+    target: 1
+    goldilocks_transform: "1+abs(Value-1)"
+  - series: SG_DMK_PSRVC
+    direction: negative
+    target: 1
+    goldilocks_transform: "1+abs(Value-1)"
+  - series: SG_DMK_JDC
+    direction: negative
+    target: 1
+    goldilocks_transform: "1+abs(Value-1)"
 reporting_status: complete
 sort: ''
 sources:
