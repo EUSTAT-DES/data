@@ -745,7 +745,7 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
         'NÚM META', 'NOMBRE META',
         'NÚM INDICADOR', 'NOMBRE INDICADOR NNUU',
         'INDICADOR DISPONIBLE', 'CONTENIDO',
-        'SERIE', 'NOMBRE SERIE',
+        'SERIE', 'NOMBRE SERIE', 'UNITS',
         'REPORTING_STATUS',
         'BOOLEANO', 'GOLDILOCK', 'INDICADOR NO ESTADÍSTICO',
         'TIPO GRÁFICO', 'MAPA', 'INDICADORES RELACIONADOS',
@@ -907,6 +907,20 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
             if serie_code:
                 row['SERIE']        = serie_code
                 row['NOMBRE SERIE'] = serie_nombre(serie_code)
+
+            # --- Units desde CSV ---
+            if os.path.exists(csv_path):
+                try:
+                    df_units = pd.read_csv(csv_path, dtype=str, usecols=lambda c: c in ('Series', 'Units'))
+                    if 'Units' in df_units.columns:
+                        if serie_code and 'Series' in df_units.columns:
+                            df_units = df_units[df_units['Series'] == serie_code]
+                        units_vals = df_units['Units'].dropna()
+                        units_vals = units_vals[units_vals != '']
+                        if not units_vals.empty:
+                            row['UNITS'] = str(units_vals.iloc[0])
+                except Exception:
+                    pass
 
             # --- Progreso ---
             auto_prog = config.get('auto_progress_calculation', False)
