@@ -33,6 +33,10 @@ def apply_goldilocks_transforms(data_dir='data', config_dir='indicator-config'):
         df = pd.read_csv(csv_path, dtype=str)
         if 'Progress' not in df.columns:
             df['Progress'] = ''
+        else:
+            # Limpiar Progress antes de recalcular para no dejar valores huérfanos
+            # de ejecuciones anteriores en filas que ya no son goldilocks
+            df['Progress'] = ''
 
         for opt in goldilocks_options:
             formula = opt['goldilocks_transform']
