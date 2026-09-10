@@ -1216,9 +1216,35 @@
   score: null
   target_variant: sin_target
 16-6-1:
-  progress_status: alcanzado
-  score: null
-  target_variant: sin_target
+  16-6-1 / Administrazio autonomikoaren gastu likidatua, hasieran onartutako aurrekontuaren proportzioan:
+    base_value: 105.2
+    base_year: 2016.0
+    current_value: 101.1
+    current_year: 2023.0
+    direction: -1
+    limit: null
+    progress_value: 1.5667737031453586
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: 100.0
+    target_year: 2030.0
+  16-6-1 / Toki administrazioaren gastu likidatua, hasieran onartutako aurrekontuaren proportzioan:
+    base_value: 101.95
+    base_year: 2015.0
+    current_value: 103.31
+    current_year: 2023.0
+    direction: -1
+    limit: null
+    progress_value: -1.2884787170229182
+    score: -5.0
+    sign: 1
+    status: significant_deterioration
+    target: 100.0
+    target_year: 2030.0
+  progress_status: no_progress
+  score: 0.0
+  target_variant: con_target
 16-6-2:
   16-6-2:
     base_value: 46.3
