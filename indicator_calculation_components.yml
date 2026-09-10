@@ -1270,11 +1270,11 @@
     current_year: 2024.0
     direction: -1
     limit: null
-    progress_value: -1.2940399151168367
+    progress_value: -5.630965191877049
     score: -5.0
     sign: 1
     status: significant_deterioration
-    target: 1.0
+    target: 1.2
     target_year: 2030.0
   16-7-1 / Botere judizialeko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez:
     base_value: 1.24
@@ -1287,7 +1287,7 @@
     score: -2.5
     sign: 1
     status: moderate_deterioration
-    target: 1.0
+    target: 1.2
     target_year: 2030.0
   16-7-1 / Legebiltzarreko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez:
     base_value: 1.01
@@ -1297,13 +1297,13 @@
     direction: -1
     limit: null
     progress_value: -0.0
-    score: -2.5
+    score: 5.0
     sign: 1
-    status: moderate_deterioration
-    target: 1.0
+    status: significant_progress
+    target: 1.2
     target_year: 2030.0
-  progress_status: significant_deterioration
-  score: -3.3333333333333335
+  progress_status: moderate_deterioration
+  score: -0.8333333333333334
   target_variant: con_target
 16-7-2:
   progress_status: notstarted
