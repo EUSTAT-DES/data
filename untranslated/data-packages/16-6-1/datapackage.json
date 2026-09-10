@@ -341,6 +341,10 @@
             "type": "string"
           },
           {
+            "name": "Progress",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
