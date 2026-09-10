@@ -148,6 +148,27 @@ class SeriesProgressEustat(SeriesProgress):
                     return candidate
         return None
 
+    def filter_data(self):
+        """Override: cuando Progress está vacío en una fila, usa Value en su lugar.
+        Esto permite que series sin goldilocks_transform funcionen correctamente
+        aunque el CSV tenga columna Progress (con valores vacíos en esas filas).
+        """
+        data = self.indicator.data.copy()
+        progress_col = self.indicator.options.progress_column  # 'Progress'
+
+        if progress_col in data.columns:
+            # Rellenar filas vacías de Progress con Value antes de que el padre lo procese
+            empty_progress = data[progress_col].isna() | (data[progress_col].astype(str).str.strip() == '')
+            data.loc[empty_progress, progress_col] = data.loc[empty_progress, 'Value']
+            # Sustituir temporalmente los datos del indicator para que el padre lo use
+            original_data = self.indicator.data
+            self.indicator.data = data
+            result = super().filter_data()
+            self.indicator.data = original_data
+            return result
+
+        return super().filter_data()
+
     def __init__(self, indicator, config={}, logging=None):
         # Detectar indicadores booleanos via progress_boolean: true en indicator-config
         is_boolean = config.get('progress_boolean', False)
