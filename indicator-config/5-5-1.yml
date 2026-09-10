@@ -42,27 +42,27 @@ auto_progress_calculation: true
 progress_calculation_options:
   - series: GEN_PARL
     direction: negative
-    target: 60
+    target: 51
     goldilocks_transform: "50+abs(Value-50)"
   - series: GEN_G
     direction: negative
-    target: 60
+    target: 51
     goldilocks_transform: "50+abs(Value-50)"
   - series: GEN_REGIOPARL
     direction: negative
-    target: 60
+    target: 51
     goldilocks_transform: "50+abs(Value-50)"
   - series: GEN_REGIOG
     direction: negative
-    target: 60
+    target: 51
     goldilocks_transform: "50+abs(Value-50)"
   - series: GEN_LOCP
     direction: negative
-    target: 60
+    target: 51
     goldilocks_transform: "50+abs(Value-50)"
   - series: GEN_LOCG
     direction: negative
-    target: 60
+    target: 51
     goldilocks_transform: "50+abs(Value-50)"
 reporting_status: complete
 sort: ''
