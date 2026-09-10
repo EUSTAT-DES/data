@@ -2581,11 +2581,11 @@
     current_year: 2025.0
     direction: -1
     limit: null
-    progress_value: -5.9288073201475315
+    progress_value: -2.7826743000830736
     score: -5.0
     sign: 1
     status: significant_deterioration
-    target: 51.0
+    target: 50.0
     target_year: 2030.0
   5-5-1 / Emakumezkoen proportzioa Eusko Jaurlaritzako sailburuen artean:
     base_value: 50.0
@@ -2594,11 +2594,11 @@
     current_year: 2025.0
     direction: -1
     limit: null
-    progress_value: -4.853575140931022
-    score: -5.0
+    progress_value: null
+    score: null
     sign: 1
-    status: significant_deterioration
-    target: 51.0
+    status: not_available
+    target: 50.0
     target_year: 2030.0
   5-5-1 / Emakumezkoen proportzioa Eusko Legebiltzarreko legebiltzarkideen artean:
     base_value: 50.7
@@ -2607,11 +2607,11 @@
     current_year: 2025.0
     direction: -1
     limit: null
-    progress_value: -12.744453404807006
+    progress_value: -5.411701954494829
     score: -5.0
     sign: 1
     status: significant_deterioration
-    target: 51.0
+    target: 50.0
     target_year: 2030.0
   5-5-1 / Emakumezkoen proportzioa Foru Diputatuen artean:
     base_value: 50.0
@@ -2620,11 +2620,11 @@
     current_year: 2025.0
     direction: -1
     limit: null
-    progress_value: -22.13203421293695
-    score: -5.0
+    progress_value: null
+    score: null
     sign: 1
-    status: significant_deterioration
-    target: 51.0
+    status: not_available
+    target: 50.0
     target_year: 2030.0
   5-5-1 / Emakumezkoen proportzioa alkateen artean:
     base_value: 74.8
@@ -2633,11 +2633,11 @@
     current_year: 2025.0
     direction: -1
     limit: null
-    progress_value: 0.595487357228659
-    score: -0.018802678213920565
+    progress_value: 0.5665836186507516
+    score: -0.1392349222885345
     sign: 1
     status: moderate_deterioration
-    target: 51.0
+    target: 50.0
     target_year: 2030.0
   5-5-1 / Emakumezkoen proportzioa zinegotzien artean:
     base_value: 58.6
@@ -2646,14 +2646,14 @@
     current_year: 2025.0
     direction: -1
     limit: null
-    progress_value: 1.0437402971512268
-    score: 3.169573551080192
+    progress_value: 0.9141139040958276
+    score: 2.243670743541626
     sign: 1
-    status: significant_progress
-    target: 51.0
+    status: moderate_progress
+    target: 50.0
     target_year: 2030.0
-  progress_status: significant_deterioration
-  score: -2.808204854522288
+  progress_status: moderate_deterioration
+  score: -1.973891044686727
   target_variant: con_target
 5-5-2:
   progress_status: retroceso
