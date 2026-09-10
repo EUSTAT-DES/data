@@ -26,7 +26,16 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-progress_status: alcanzado
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: GF_XPD_GBPC
+    direction: negative
+    target: 100
+    goldilocks_transform: "100+abs(Value-100)"
+  - series: EU_XPD_LOCALGBPC
+    direction: negative
+    target: 100
+    goldilocks_transform: "100+abs(Value-100)"
 reporting_status: complete
 sort: ''
 sources:
