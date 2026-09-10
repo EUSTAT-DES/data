@@ -430,10 +430,29 @@ def get_indicator_progress_eustat(self):
         components = series.get_progress_calculation_components()
     else:
         # Múltiples series o grupos: flujo normal
-        from sdg.ProgressMeasure import grouped_score
-        indicator_score, targets_achieved, components = grouped_score(
-            self.indicator, opts, logging=self.logging
-        )
+        # IMPORTANTE: no usar grouped_score de sdg-build porque instancia SeriesProgress
+        # directamente (referencia local al módulo) ignorando nuestro monkey patch.
+        # Reimplementamos la lógica aquí usando SeriesProgressEustat explícitamente.
+        import numpy as np
+        scores = []
+        targets = []
+        components = {}
+        for opt in opts:
+            group = opt.get('group')
+            if group:
+                from sdg.ProgressMeasure import grouped_score as _gs
+                group_score, group_targets, _ = _gs(self.indicator, group, components, logging=self.logging)
+                if group_score is not None:
+                    scores.append(group_score)
+                    targets.extend(group_targets)
+            else:
+                series = SeriesProgressEustat(self.indicator, opt, logging=self.logging)
+                if series.score is not None:
+                    scores.append(series.score)
+                    targets.append(series.target_achieved)
+                components.update(series.get_progress_calculation_components())
+        indicator_score = float(np.mean(scores)) if scores else None
+        targets_achieved = targets
         target_achieved = all(targets_achieved) if targets_achieved else False
         indicator_status = get_progress_status_from_score_eustat(indicator_score, target_achieved)
 
