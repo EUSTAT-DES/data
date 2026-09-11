@@ -133,6 +133,74 @@ def _apply_goldilocks_multigroup(df, formula, groups, inid):
 
 
 class SeriesProgressEustat(SeriesProgress):
+
+    def filter_data(self):
+        """Override de filter_data para manejar indicadores mixtos goldilocks/no-goldilocks.
+
+        El motor original hace data.assign(Value=data['Progress']) sobre TODAS las filas
+        antes de filtrar por serie. Si la serie no es goldilocks, sus filas tienen Progress
+        vacío → Value=NaN → se descartan → not_available.
+
+        Fix: cuando Progress está vacío/NaN en una fila, conservar el Value original.
+        Así las series sin goldilocks_transform funcionan sin necesidad de poner
+        goldilocks_transform: "Value" en el YAML como workaround.
+        """
+        import pandas as _pd
+
+        data = self.data.copy()
+
+        # Replicar el preprocesado de años del original
+        if (data['Year'].astype(str).str.len() > 4).any():
+            data['Year'] = data['Year'].astype(str).str.slice(0, 4).astype(int)
+
+        if len(data.columns) > 2:
+            drop_columns = self.non_disaggregation_columns + self.indicator.options.get_observation_attributes()
+            drop_columns = [col for col in drop_columns if col not in ['Year', self.series_column, self.unit_column, self.progress_column, 'Value']]
+            data = data.drop(columns=drop_columns, errors='ignore')
+
+            # FIX: sustituir Value por Progress solo donde Progress tiene valor real.
+            # Filas con Progress vacío/NaN conservan su Value original.
+            if self.progress_column in data.columns:
+                progress = data[self.progress_column]
+                has_value = progress.notna() & (progress.astype(str).str.strip() != '')
+                data = data.assign(Value=progress.where(has_value, data['Value']))
+                data = data.drop(columns=self.progress_column)
+
+            if self.unit is not None:
+                data = self.filter_column(data, self.unit_column, self.unit)
+            if self.series is not None:
+                data = self.filter_column(data, self.series_column, self.series)
+            if self.disaggregation:
+                for disagg in self.disaggregation:
+                    data = self.filter_column(data, disagg['field'], disagg['value'])
+
+            used_columns = self.non_disaggregation_columns + [disagg['field'] for disagg in (self.disaggregation or [])]
+            data = data[data.loc[:, ~data.columns.isin(used_columns)].isna().all('columns')]
+
+            grouping_columns = [col for col in data.columns if col not in ['Year', 'Value']]
+            for col in grouping_columns:
+                unique_groups = data[col].unique()
+                if len(unique_groups) > 1:
+                    raise Exception(f'{self.inid} - Detected many sub-series ({col}: {unique_groups}) at filter output for progress calculation of series: {self.tag}.')
+
+            data = data[['Year', 'Value']]
+
+        data = data[data['Value'].notna()]
+        data['Value'] = data['Value'].astype('float')
+
+        from sdg.ProgressMeasure import all_rows_unique
+        duped_years = data.loc[data['Year'].duplicated(False)]
+        if duped_years.empty is False:
+            error_messages = []
+            for year, value in duped_years.values:
+                error_messages.append(f'{self.inid} - Duplicate value for year {int(year)}: {value} for progress calculation of series: {self.tag}')
+            raise Exception('\n'.join(error_messages))
+
+        if data.shape[0] < 1:
+            return None
+
+        return data
+
     @staticmethod
     def find_nearest_year(base_year, available_years):
         """Búsqueda alternante (espiral) del año más cercano al base_year.
@@ -147,27 +215,6 @@ class SeriesProgressEustat(SeriesProgress):
                 if candidate in available_years:
                     return candidate
         return None
-
-    def filter_data(self):
-        """Override: cuando Progress está vacío en una fila, usa Value en su lugar.
-        Esto permite que series sin goldilocks_transform funcionen correctamente
-        aunque el CSV tenga columna Progress (con valores vacíos en esas filas).
-        """
-        data = self.indicator.data.copy()
-        progress_col = self.indicator.options.progress_column  # 'Progress'
-
-        if progress_col in data.columns:
-            # Rellenar filas vacías de Progress con Value antes de que el padre lo procese
-            empty_progress = data[progress_col].isna() | (data[progress_col].astype(str).str.strip() == '')
-            data.loc[empty_progress, progress_col] = data.loc[empty_progress, 'Value']
-            # Sustituir temporalmente los datos del indicator para que el padre lo use
-            original_data = self.indicator.data
-            self.indicator.data = data
-            result = super().filter_data()
-            self.indicator.data = original_data
-            return result
-
-        return super().filter_data()
 
     def __init__(self, indicator, config={}, logging=None):
         # Detectar indicadores booleanos via progress_boolean: true en indicator-config
@@ -430,29 +477,10 @@ def get_indicator_progress_eustat(self):
         components = series.get_progress_calculation_components()
     else:
         # Múltiples series o grupos: flujo normal
-        # IMPORTANTE: no usar grouped_score de sdg-build porque instancia SeriesProgress
-        # directamente (referencia local al módulo) ignorando nuestro monkey patch.
-        # Reimplementamos la lógica aquí usando SeriesProgressEustat explícitamente.
-        import numpy as np
-        scores = []
-        targets = []
-        components = {}
-        for opt in opts:
-            group = opt.get('group')
-            if group:
-                from sdg.ProgressMeasure import grouped_score as _gs
-                group_score, group_targets, _ = _gs(self.indicator, group, components, logging=self.logging)
-                if group_score is not None:
-                    scores.append(group_score)
-                    targets.extend(group_targets)
-            else:
-                series = SeriesProgressEustat(self.indicator, opt, logging=self.logging)
-                if series.score is not None:
-                    scores.append(series.score)
-                    targets.append(series.target_achieved)
-                components.update(series.get_progress_calculation_components())
-        indicator_score = float(np.mean(scores)) if scores else None
-        targets_achieved = targets
+        from sdg.ProgressMeasure import grouped_score
+        indicator_score, targets_achieved, components = grouped_score(
+            self.indicator, opts, logging=self.logging
+        )
         target_achieved = all(targets_achieved) if targets_achieved else False
         indicator_status = get_progress_status_from_score_eustat(indicator_score, target_achieved)
 

@@ -30,7 +30,6 @@ auto_progress_calculation: true
 progress_calculation_options:
   - series: SP_LGL_LNDAGSEC
     direction: positive
-    goldilocks_transform: "Value"
   - series: SP_GNP_WNOWNS
     direction: negative
     target: 60
