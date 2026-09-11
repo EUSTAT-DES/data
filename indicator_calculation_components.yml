@@ -2416,11 +2416,11 @@
     current_year: 2024.0
     direction: -1
     limit: null
-    progress_value: 1.1279340240262032
-    score: 3.7709573144728807
+    progress_value: 1.6412119788028092
+    score: 5.0
     sign: 1
     status: significant_progress
-    target: 1.0
+    target: 1.03
     target_year: 2030.0
   4-5-1 / Diru-sarrera parekotasunaren indizea hezkuntza-jarduerak egitean (goiko eta beheko kintilak):
     base_value: 1.6666666666666667
@@ -2433,7 +2433,7 @@
     score: -2.5
     sign: 1
     status: moderate_deterioration
-    target: 1.0
+    target: 1.03
     target_year: 2030.0
   4-5-1 / Genero-parekotasunaren indizea hezkuntza-jarduerak egitean:
     base_value: 1.0
@@ -2442,11 +2442,11 @@
     current_year: 2022.0
     direction: -1
     limit: null
-    progress_value: null
-    score: null
+    progress_value: -5.365444016185594
+    score: -5.0
     sign: 1
-    status: not_available
-    target: 1.0
+    status: significant_deterioration
+    target: 1.03
     target_year: 2030.0
   4-5-1 / Osasun-parekotasunaren indizea hezkuntza-jarduerak egitean:
     base_value: 1.5151515151515151
@@ -2455,14 +2455,14 @@
     current_year: 2022.0
     direction: -1
     limit: null
-    progress_value: 0.333708386119835
-    score: -1.1095483911673538
+    progress_value: 0.35888845432443467
+    score: -1.004631440314855
     sign: 1
     status: moderate_deterioration
-    target: 1.0
+    target: 1.03
     target_year: 2030.0
-  progress_status: no_progress
-  score: 0.05380297443517564
+  progress_status: moderate_deterioration
+  score: -0.8761578600787137
   target_variant: con_target
 4-6-1:
   4-6-1:
