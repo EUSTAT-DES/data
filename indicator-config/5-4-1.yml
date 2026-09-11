@@ -33,7 +33,7 @@ precision: []
 auto_progress_calculation: true
 progress_calculation_options:
   - direction: negative
-    target: 1
+    target: 1.03
     goldilocks_transform: "max(fem/masc, masc/fem)"
     goldilocks_groups:
       fem:
