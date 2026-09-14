@@ -600,7 +600,7 @@
   score: null
   target_variant: sin_target
 12-1-1:
-  12-1-1:
+  12-1-1 / BOOL_YES_NO:
     base_value: null
     base_year: null
     current_value: null
@@ -1037,7 +1037,7 @@
   score: null
   target_variant: sin_target
 15-8-1:
-  15-8-1:
+  15-8-1 / BOOL_YES_NO:
     base_value: null
     base_year: null
     current_value: null
@@ -1435,7 +1435,7 @@
   score: null
   target_variant: sin_target
 17-18-2:
-  17-18-2:
+  17-18-2 / BOOL_YES_NO:
     base_value: null
     base_year: null
     current_value: null
@@ -1452,7 +1452,7 @@
   score: 5.0
   target_variant: sin_target
 17-18-3:
-  17-18-3:
+  17-18-3 / BOOL_YES_NO:
     base_value: null
     base_year: null
     current_value: null
@@ -1473,7 +1473,20 @@
   score: null
   target_variant: sin_target
 17-19-2:
-  17-19-2:
+  17-19-2 / Gutxienez biztanleriaren eta etxebizitzen errolda bat egin da azken hamar urteetan / BOOL_YES_NO:
+    base_value: null
+    base_year: null
+    current_value: null
+    current_year: null
+    direction: 1
+    limit: null
+    progress_value: null
+    score: 5.0
+    sign: 1
+    status: significant_progress
+    target: null
+    target_year: 2030.0
+  17-19-2 / Jaiotzen % 100 erregistratu dira, eta gutxienez heriotzen % 80 / BOOL_YES_NO:
     base_value: null
     base_year: null
     current_value: null
