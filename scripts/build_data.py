@@ -226,7 +226,10 @@ class SeriesProgressEustat(SeriesProgress):
             self.series = config.get('series')
             self.unit = 'BOOL_YES_NO'
             self.disaggregation = config.get('disaggregation')
-            self.tag = self.inid
+            # Tag único por serie: igual que SeriesProgress.get_series_tag()
+            # Si se usa self.inid para todos, las series multiserie se sobreescriben
+            # en series_calculation_components al hacer .update() en grouped_score.
+            self.tag = self.get_series_tag()
             # Atributos requeridos por get_progress_calculation_components()
             self.base_value = None
             self.base_year = None
@@ -1074,6 +1077,12 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
                     serie_label_eu = t_data_eu.get(serie_code, serie_code)
                     tag_key = f'{inid_dash}::{inid_dash} / {serie_label_eu}'
                     serie_score = scores.get(tag_key, '')
+                    # Indicadores booleanos: el tag se construye con el código de serie
+                    # (self.series viene del indicator-config, no del CSV traducido)
+                    # y lleva el sufijo / BOOL_YES_NO añadido por get_series_tag().
+                    if serie_score == '':
+                        tag_key_bool = f'{inid_dash}::{inid_dash} / {serie_code} / BOOL_YES_NO'
+                        serie_score = scores.get(tag_key_bool, '')
                 if serie_score == '':
                     serie_score = scores.get(inid_dash, '')
                 row['SCORE'] = serie_score
