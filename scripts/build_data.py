@@ -878,6 +878,9 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
 
         ind_disponible = indicador_disponible_str(meta_yaml)
         contenido = t_grafico.get(f'{inid_dash}-contenido', '')
+        # Eliminar saltos de línea del contenido para que Excel no rompa las filas del CSV.
+        # Algunos valores en GRAFICO.yml usan bloques literales YAML (|) que preservan \n.
+        contenido = ' '.join(str(contenido).splitlines()).strip()
 
         # Campos de identificación (siempre presentes)
         base = {
