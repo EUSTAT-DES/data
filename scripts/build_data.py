@@ -390,6 +390,13 @@ def get_progress_status_eustat(value, thresholds, target_achieved=False):
     Método 1 (sin target): high/med/low = 1%/0.1%/-0.1% → 5 niveles con neutral
     Método 2 (con target): high/med/low = 95%/60%/0% → 4 niveles sin neutral
     La distinción se hace automáticamente por los umbrales recibidos.
+
+    Umbrales Método 1:
+      > 0.01                → significant_progress
+      <= 0.01  y > 0.001    → moderate_progress
+      <= 0.001 y >= -0.001  → no_progress (estancamiento)
+      < -0.001 y >= -0.01   → moderate_deterioration
+      < -0.01               → significant_deterioration
     """
     x = float(thresholds['high'])
     y = float(thresholds['med'])
@@ -399,19 +406,19 @@ def get_progress_status_eustat(value, thresholds, target_achieved=False):
         return "significant_progress"
 
     if value is not None:
-        if value >= x:
+        if value > x:
             return "significant_progress"
-        elif value >= y:
+        elif value > y:
             return "moderate_progress"
         elif value >= z:
-            # Método 1: z=-0.001, esto es "neutral" (entre -0.1% y +0.1%)
-            # Método 2: z=0, esto es "insufficient progress" (entre 0% y 60%)
+            # Método 1: z=-0.001 → estancamiento (entre -0.1% y +0.1%, ambos inclusive)
+            # Método 2: z=0 → moderate_deterioration (entre 0% y 60%)
             if z < 0:
                 return "no_progress"
             else:
                 return "moderate_deterioration"
         elif z < 0 and value >= -abs(x):
-            # Solo método 1: entre -0.1% y -1% → moderate_deterioration
+            # Solo método 1: < -0.001 y >= -0.01 → moderate_deterioration
             return "moderate_deterioration"
         else:
             return "significant_deterioration"
@@ -490,6 +497,14 @@ def get_indicator_progress_eustat(self):
     if self.cache_store is None:
         self.cache_store = {}
     self.cache_store[self.inid] = {'progress_status': indicator_status, 'score': floatNone(indicator_score), 'target_variant': target_variant}
+
+    # Redondear progress_value en cada serie para eliminar ruido de floating
+    # point (ej: 0.010000000000000009 → 0.01) sin perder precisión relevante.
+    PROGRESS_DECIMALS = 10
+    for serie_data in components.values():
+        if isinstance(serie_data, dict) and serie_data.get('progress_value') is not None:
+            serie_data['progress_value'] = round(serie_data['progress_value'], PROGRESS_DECIMALS)
+
     self.cache_store[self.inid].update(components)
 
     # Persistir scores y target_variant en _site/scores.json
