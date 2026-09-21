@@ -72,7 +72,7 @@ indicator,goal,status
 4-7-1,4,notstarted
 4-a-1,4,significant_progress
 4-b-1,4,notstarted
-4-c-1,4,significant_progress
+4-c-1,4,no_progress
 5-1-1,5,significant_progress
 5-2-1,5,significant_deterioration
 5-2-2,5,significant_deterioration
@@ -152,7 +152,7 @@ indicator,goal,status
 11-1-1,11,significant_progress
 11-2-1,11,notstarted
 11-3-1,11,notstarted
-11-3-2,11,significant_progress
+11-3-2,11,no_progress
 11-4-1,11,significant_progress
 11-5-1,11,significant_progress
 11-5-2,11,significant_progress
