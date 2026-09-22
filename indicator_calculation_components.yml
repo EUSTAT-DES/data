@@ -175,7 +175,7 @@
     progress_value: 0.0
     score: 5.0
     sign: 1
-    status: no_progress
+    status: significant_progress
     target: null
     target_year: 2030.0
   progress_status: significant_progress
@@ -402,10 +402,10 @@
     progress_value: 0.0
     score: 5.0
     sign: 1
-    status: no_progress
+    status: significant_progress
     target: null
     target_year: 2030.0
-  progress_status: no_progress
+  progress_status: significant_progress
   score: 5.0
   target_variant: sin_target
 11-4-1:
@@ -487,7 +487,7 @@
     progress_value: 0.0
     score: 5.0
     sign: 1
-    status: no_progress
+    status: significant_progress
     target: null
     target_year: 2030.0
   progress_status: significant_progress
@@ -542,7 +542,7 @@
     progress_value: 0.0
     score: 5.0
     sign: 1
-    status: no_progress
+    status: significant_progress
     target: null
     target_year: 2030.0
   11-a-1 / Lurralde-antolamenduko plan batek (LPP) estalitako udalerrien proportzioa:
@@ -589,7 +589,7 @@
     progress_value: 0.0
     score: 5.0
     sign: 1
-    status: no_progress
+    status: significant_progress
     target: null
     target_year: 2030.0
   progress_status: significant_progress
@@ -787,7 +787,7 @@
     progress_value: 0.0
     score: 5.0
     sign: 1
-    status: no_progress
+    status: significant_progress
     target: null
     target_year: 2030.0
   progress_status: significant_progress
@@ -2517,10 +2517,10 @@
     progress_value: 0.0
     score: 5.0
     sign: 1
-    status: no_progress
+    status: significant_progress
     target: null
     target_year: 2030.0
-  progress_status: no_progress
+  progress_status: significant_progress
   score: 5.0
   target_variant: sin_target
 5-1-1:
@@ -2534,7 +2534,7 @@
     progress_value: 0.0
     score: 5.0
     sign: 1
-    status: no_progress
+    status: significant_progress
     target: null
     target_year: 2030.0
   '5-1-1 / 2. arloa: emakumearen aurkako indarkeria':
@@ -2547,7 +2547,7 @@
     progress_value: 0.0
     score: 5.0
     sign: 1
-    status: no_progress
+    status: significant_progress
     target: null
     target_year: 2030.0
   '5-1-1 / 3. arloa: enplegua eta dirulaguntza ekonomikoak':
@@ -2560,7 +2560,7 @@
     progress_value: 0.0
     score: 5.0
     sign: 1
-    status: no_progress
+    status: significant_progress
     target: null
     target_year: 2030.0
   '5-1-1 / 4. arloa: Ezkontza eta familia':
@@ -2955,7 +2955,7 @@
     progress_value: 0.0
     score: 5.0
     sign: 1
-    status: no_progress
+    status: significant_progress
     target: null
     target_year: 2030.0
   6-b-1 / Tokiko erkidegoek kontsumoko uren kudeaketan parte hartzeko politikak eta prozedura operatiboak ezarri dituzten...:
@@ -2968,7 +2968,7 @@
     progress_value: 0.0
     score: 5.0
     sign: 1
-    status: no_progress
+    status: significant_progress
     target: null
     target_year: 2030.0
   progress_status: significant_progress
@@ -3350,7 +3350,7 @@
     progress_value: 0.0
     score: 5.0
     sign: 1
-    status: no_progress
+    status: significant_progress
     target: null
     target_year: 2030.0
   progress_status: moderate_progress
