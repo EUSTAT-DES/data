@@ -265,6 +265,15 @@ class SeriesProgressEustat(SeriesProgress):
 
         super().__init__(indicator, config=config, logging=logging)
 
+        # Caso especial: base_value == limit (coeff=0) sin target explícito.
+        # El indicador ya está en su máximo/mínimo natural; mantenerlo es progreso
+        # significativo. Marcamos target_achieved=True para coherencia con el score.
+        if (self.data is not None and self.target is None and self.limit is not None
+                and self.current_value is not None and self.current_value == self.limit):
+            self.target_achieved = True
+            self.status = get_progress_status_eustat(self.progress_value, self.progress_thresholds, self.target_achieved)
+            self.score = self.get_score()
+
         # Post-procesado: recalcular base_year con búsqueda alternante
         if self.data is not None:
             years = self.data['Year'].values
