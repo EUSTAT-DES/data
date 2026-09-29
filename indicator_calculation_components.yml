@@ -24,13 +24,13 @@
     direction: -1
     limit: null
     progress_value: -0.0209852187
-    score: -2.58743841144272
+    score: -2.5874384112
     sign: 1
     status: significant_deterioration
     target: 8.2
     target_year: 2030.0
   progress_status: significant_deterioration
-  score: -2.58743841144272
+  score: -2.5874384112
   target_variant: con_target
 1-2-2:
   1-2-2:
@@ -58,7 +58,7 @@
     direction: 1
     limit: null
     progress_value: -0.0003633505
-    score: -0.09083762091008363
+    score: -0.090837625
     sign: 1
     status: no_progress
     target: null
@@ -77,7 +77,7 @@
     target: null
     target_year: 2030.0
   progress_status: moderate_progress
-  score: 2.454581189544958
+  score: 2.4545811875
   target_variant: sin_target
 1-4-1:
   1-4-1 / Bainugela duten etxebizitzen proportzioa:
@@ -88,7 +88,7 @@
     direction: 1
     limit: null
     progress_value: 1.2506577815
-    score: 4.64755558215275
+    score: 4.6475555821
     sign: 1
     status: significant_progress
     target: 99.9
@@ -107,7 +107,7 @@
     target: 99.9
     target_year: 2030.0
   progress_status: significant_progress
-  score: 4.823777791076375
+  score: 4.8237777911
   target_variant: con_target
 1-4-2:
   progress_status: notstarted
@@ -160,7 +160,7 @@
     direction: 1
     limit: null
     progress_value: 0.003815328
-    score: 0.9538319986407973
+    score: 0.953832
     sign: 1
     status: moderate_progress
     target: null
@@ -179,7 +179,7 @@
     target: null
     target_year: 2030.0
   progress_status: significant_progress
-  score: 2.976915999320399
+  score: 2.976916
   target_variant: sin_target
 1-a-1:
   1-a-1 / Pobrezia murriztera bideratutako Garapenerako Laguntza Ofiziala (guztizko ordainketa gordina):
@@ -190,13 +190,13 @@
     direction: 1
     limit: null
     progress_value: 0.01
-    score: 2.500000000000002
+    score: 2.5
     sign: 1
-    status: significant_progress
+    status: moderate_progress
     target: null
     target_year: 2030.0
-  progress_status: significant_progress
-  score: 2.500000000000002
+  progress_status: moderate_progress
+  score: 2.5
   target_variant: sin_target
 1-a-2:
   1-a-2:
@@ -207,13 +207,13 @@
     direction: 1
     limit: null
     progress_value: 0.0007135231
-    score: 0.17838078342857777
+    score: 0.178380775
     sign: 1
     status: no_progress
     target: null
     target_year: 2030.0
   progress_status: no_progress
-  score: 0.17838078342857777
+  score: 0.178380775
   target_variant: sin_target
 1-b-1:
   progress_status: notstarted
@@ -266,13 +266,13 @@
     direction: 1
     limit: null
     progress_value: -0.0026172102
-    score: -0.6543025440110262
+    score: -0.65430255
     sign: 1
     status: moderate_deterioration
     target: null
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -0.6543025440110262
+  score: -0.65430255
   target_variant: sin_target
 10-4-2:
   progress_status: noevaluado
@@ -472,7 +472,7 @@
     direction: -1
     limit: null
     progress_value: 0.0077533393
-    score: 1.9383348182383797
+    score: 1.938334825
     sign: 1
     status: moderate_progress
     target: null
@@ -491,7 +491,7 @@
     target: null
     target_year: 2030.0
   progress_status: significant_progress
-  score: 3.4691674091191897
+  score: 3.4691674125
   target_variant: sin_target
 11-6-2:
   progress_status: alcanzado
@@ -574,7 +574,7 @@
     direction: 1
     limit: null
     progress_value: 0.003815328
-    score: 0.9538319986407973
+    score: 0.953832
     sign: 1
     status: moderate_progress
     target: null
@@ -593,7 +593,7 @@
     target: null
     target_year: 2030.0
   progress_status: significant_progress
-  score: 2.976915999320399
+  score: 2.976916
   target_variant: sin_target
 11-c-1:
   progress_status: notstarted
@@ -658,13 +658,13 @@
     direction: 1
     limit: null
     progress_value: -0.0085399522
-    score: -2.134988045564307
+    score: -2.13498805
     sign: 1
     status: moderate_deterioration
     target: null
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -2.134988045564307
+  score: -2.13498805
   target_variant: sin_target
 12-6-1:
   12-6-1 / Ecolabel lizentzien kopurua (Europako Etiketa Ekologikoa):
@@ -772,7 +772,7 @@
     direction: 1
     limit: null
     progress_value: 0.003815328
-    score: 0.9538319986407973
+    score: 0.953832
     sign: 1
     status: moderate_progress
     target: null
@@ -791,7 +791,7 @@
     target: null
     target_year: 2030.0
   progress_status: significant_progress
-  score: 2.976915999320399
+  score: 2.976916
   target_variant: sin_target
 13-2-1:
   progress_status: significant_progress
@@ -806,7 +806,7 @@
     direction: -1
     limit: null
     progress_value: 1.2126558573
-    score: 4.376113266130213
+    score: 4.3761132664
     sign: -1
     status: significant_progress
     target: -45.0
@@ -825,7 +825,7 @@
     target: null
     target_year: 2030.0
   progress_status: significant_progress
-  score: 4.688056633065107
+  score: 4.6880566332
   target_variant: mixto
 13-3-1:
   progress_status: notstarted
@@ -856,13 +856,13 @@
     direction: 1
     limit: null
     progress_value: -0.0002756721
-    score: -0.06891802251576817
+    score: -0.068918025
     sign: 1
     status: no_progress
     target: null
     target_year: 2030.0
   progress_status: no_progress
-  score: -0.06891802251576817
+  score: -0.068918025
   target_variant: sin_target
 14-4-1:
   progress_status: notstarted
@@ -901,13 +901,13 @@
     direction: 1
     limit: null
     progress_value: -0.0002278684
-    score: -0.056967088562842605
+    score: -0.0569671
     sign: 1
     status: no_progress
     target: null
     target_year: 2030.0
   progress_status: no_progress
-  score: -0.056967088562842605
+  score: -0.0569671
   target_variant: sin_target
 15-1-2:
   progress_status: noevaluado
@@ -922,7 +922,7 @@
     direction: 1
     limit: null
     progress_value: 0.0015052833
-    score: 0.37632082113175924
+    score: 0.376320825
     sign: 1
     status: moderate_progress
     target: null
@@ -935,13 +935,13 @@
     direction: 1
     limit: null
     progress_value: 0.0014134358
-    score: 0.3533589479849941
+    score: 0.35335895
     sign: 1
     status: moderate_progress
     target: null
     target_year: 2030.0
   progress_status: moderate_progress
-  score: 0.3648398845583767
+  score: 0.3648398875
   target_variant: sin_target
 15-2-1:
   15-2-1 / Kudeaketa jasangarirako tresnak indarrean dituzten baso-azaleren proportzioa:
@@ -1016,13 +1016,13 @@
     direction: 1
     limit: null
     progress_value: 5.23492e-05
-    score: 0.013087292343838541
+    score: 0.0130873
     sign: 1
     status: no_progress
     target: null
     target_year: 2030.0
   progress_status: no_progress
-  score: 0.013087292343838541
+  score: 0.0130873
   target_variant: sin_target
 15-5-1:
   progress_status: notstarted
@@ -1078,13 +1078,13 @@
     direction: -1
     limit: null
     progress_value: -0.0132058942
-    score: -3.301473539491784
+    score: -3.30147355
     sign: 1
     status: significant_deterioration
     target: null
     target_year: 2030.0
   progress_status: significant_deterioration
-  score: -3.301473539491784
+  score: -3.30147355
   target_variant: sin_target
 16-1-2:
   16-1-2:
@@ -1116,13 +1116,13 @@
     direction: 1
     limit: null
     progress_value: -0.0099925361
-    score: -2.4981340128458207
+    score: -2.498134025
     sign: 1
     status: moderate_deterioration
     target: null
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -2.4981340128458207
+  score: -2.498134025
   target_variant: sin_target
 16-1-E1:
   16-1-E1:
@@ -1254,13 +1254,13 @@
     direction: 1
     limit: null
     progress_value: 0.0132235914
-    score: 3.3058978594118216
+    score: 3.30589785
     sign: 1
     status: significant_progress
     target: null
     target_year: 2030.0
   progress_status: significant_progress
-  score: 3.3058978594118216
+  score: 3.30589785
   target_variant: sin_target
 16-7-1:
   16-7-1 / Administrazio publikoko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez:
@@ -1303,7 +1303,7 @@
     target: 1.2
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -0.8333333333333334
+  score: -0.8333333333
   target_variant: con_target
 16-7-2:
   progress_status: notstarted
@@ -1360,13 +1360,13 @@
     direction: 1
     limit: null
     progress_value: 0.005094936
-    score: 1.2737339934474345
+    score: 1.273734
     sign: 1
     status: moderate_progress
     target: null
     target_year: 2030.0
   progress_status: moderate_progress
-  score: 1.2737339934474345
+  score: 1.273734
   target_variant: sin_target
 17-1-2:
   17-1-2 / Administrazio publiko autonomikoen eta tokiko administrazioen sarrera ez-finantzarioen proportzioa, zergetatik...:
@@ -1377,7 +1377,7 @@
     direction: 1
     limit: null
     progress_value: -0.0004214967
-    score: -0.10537417628120327
+    score: -0.105374175
     sign: 1
     status: no_progress
     target: null
@@ -1390,13 +1390,13 @@
     direction: 1
     limit: null
     progress_value: 0.0027578854
-    score: 0.6894713407895603
+    score: 0.68947135
     sign: 1
     status: moderate_progress
     target: null
     target_year: 2030.0
   progress_status: moderate_progress
-  score: 0.2920485822541785
+  score: 0.2920485875
   target_variant: sin_target
 17-10-1:
   progress_status: notapplicable
@@ -1524,13 +1524,13 @@
     direction: 1
     limit: null
     progress_value: 0.1923458138
-    score: -1.6985591091851044
+    score: -1.6985591092
     sign: 1
     status: moderate_deterioration
     target: 0.7
     target_year: 2030.0
   progress_status: moderate_progress
-  score: 1.6507204454074478
+  score: 1.6507204454
   target_variant: mixto
 17-3-1:
   17-3-1 / Zuzeneko inbertsio garbia Garapenerako Laguntza Ofiziala jasotzen duten herrialdeetan:
@@ -1655,7 +1655,7 @@
     direction: -1
     limit: null
     progress_value: -0.087879287
-    score: -2.8661636958640795
+    score: -2.8661636958
     sign: 1
     status: significant_deterioration
     target: 0.1
@@ -1668,13 +1668,13 @@
     direction: -1
     limit: null
     progress_value: 0.0999749957
-    score: -2.0834375180851197
+    score: -2.0834375179
     sign: 1
     status: moderate_deterioration
     target: 0.1
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -2.4748006069745996
+  score: -2.4748006069
   target_variant: con_target
 2-2-1:
   progress_status: significant_progress
@@ -1689,13 +1689,13 @@
     direction: -1
     limit: null
     progress_value: -0.0013956958
-    score: -0.34892395654895214
+    score: -0.34892395
     sign: 1
     status: moderate_deterioration
     target: null
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -0.34892395654895214
+  score: -0.34892395
   target_variant: sin_target
 2-2-3:
   progress_status: notstarted
@@ -1714,13 +1714,13 @@
     direction: -1
     limit: null
     progress_value: -0.0082682136
-    score: -2.0670533880756126
+    score: -2.0670534
     sign: 1
     status: moderate_deterioration
     target: null
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -2.0670533880756126
+  score: -2.0670534
   target_variant: sin_target
 2-3-1:
   2-3-1 / Elikagaien ekoizle handien produktibitatea:
@@ -1744,13 +1744,13 @@
     direction: 1
     limit: null
     progress_value: 0.1228454279
-    score: -1.988144050376488
+    score: -1.9881440504
     sign: 1
     status: moderate_deterioration
     target: 20300.0
     target_year: 2030.0
   progress_status: moderate_progress
-  score: 1.505927974811756
+  score: 1.5059279748
   target_variant: mixto
 2-3-2:
   2-3-2 / Elikagaien ekoizle handien batez besteko diru-sarrerak:
@@ -1804,13 +1804,13 @@
     direction: 1
     limit: 100
     progress_value: 0.0003756305
-    score: 1.7563286572956605
+    score: 1.7563287686
     sign: 1
     status: moderate_progress
     target: null
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -1.6218356713521698
+  score: -1.6218356157
   target_variant: sin_target
 2-4-E1:
   2-4-E1:
@@ -1851,13 +1851,13 @@
     direction: -1
     limit: null
     progress_value: 0.0190843776
-    score: 4.771094409253829
+    score: 4.7710944
     sign: 1
     status: significant_progress
     target: null
     target_year: 2030.0
   progress_status: significant_progress
-  score: 4.885547204626914
+  score: 4.8855472
   target_variant: sin_target
 2-5-1:
   progress_status: notstarted
@@ -1880,13 +1880,13 @@
     direction: 1
     limit: null
     progress_value: -0.0044351726
-    score: -1.1087931557640374
+    score: -1.10879315
     sign: 1
     status: moderate_deterioration
     target: null
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -1.1087931557640374
+  score: -1.10879315
   target_variant: sin_target
 2-b-1:
   progress_status: notstarted
@@ -1990,13 +1990,13 @@
     direction: -1
     limit: null
     progress_value: 0.1073527096
-    score: -2.0526970433489926
+    score: -2.0526970433
     sign: 1
     status: moderate_deterioration
     target: 2.4
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -2.0526970433489926
+  score: -2.0526970433
   target_variant: con_target
 3-3-3:
   3-3-3:
@@ -2024,13 +2024,13 @@
     direction: -1
     limit: null
     progress_value: 0.3016113721
-    score: -1.2432859497058084
+    score: -1.2432859496
     sign: 1
     status: moderate_deterioration
     target: 0.1
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -1.2432859497058084
+  score: -1.2432859496
   target_variant: con_target
 3-3-5:
   progress_status: notstarted
@@ -2045,7 +2045,7 @@
     direction: -1
     limit: null
     progress_value: 0.0057241137
-    score: 1.4310284127128647
+    score: 1.431028425
     sign: 1
     status: moderate_progress
     target: null
@@ -2064,7 +2064,7 @@
     target: 6.4
     target_year: 2030.0
   progress_status: significant_progress
-  score: 3.215514206356432
+  score: 3.2155142125
   target_variant: mixto
 3-4-2:
   3-4-2:
@@ -2092,7 +2092,7 @@
     direction: 1
     limit: null
     progress_value: -0.0019401818
-    score: -0.4850454432725193
+    score: -0.48504545
     sign: 1
     status: moderate_deterioration
     target: null
@@ -2105,13 +2105,13 @@
     direction: 1
     limit: null
     progress_value: 0.0019738403
-    score: 0.4934600855354132
+    score: 0.493460075
     sign: 1
     status: moderate_progress
     target: null
     target_year: 2030.0
   progress_status: no_progress
-  score: 0.0042073211314469505
+  score: 0.0042073125
   target_variant: sin_target
 3-4-E2:
   3-4-E2:
@@ -2122,13 +2122,13 @@
     direction: 1
     limit: null
     progress_value: 0.0016996516
-    score: 0.4249129045570954
+    score: 0.4249129
     sign: 1
     status: moderate_progress
     target: null
     target_year: 2030.0
   progress_status: moderate_progress
-  score: 0.4249129045570954
+  score: 0.4249129
   target_variant: sin_target
 3-5-1:
   progress_status: noevaluado
@@ -2143,13 +2143,13 @@
     direction: -1
     limit: null
     progress_value: -0.0023392484
-    score: -0.5848121021739816
+    score: -0.5848121
     sign: 1
     status: moderate_deterioration
     target: null
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -0.5848121021739816
+  score: -0.5848121
   target_variant: sin_target
 3-6-1:
   3-6-1:
@@ -2160,13 +2160,13 @@
     direction: -1
     limit: null
     progress_value: 0.5422887025
-    score: -0.2404637397196847
+    score: -0.2404637396
     sign: 1
     status: moderate_deterioration
     target: 1.75
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -0.2404637397196847
+  score: -0.2404637396
   target_variant: con_target
 3-7-1:
   progress_status: noevaluado
@@ -2291,13 +2291,13 @@
     direction: 1
     limit: null
     progress_value: -0.0120599435
-    score: -3.014985882214355
+    score: -3.014985875
     sign: 1
     status: significant_deterioration
     target: null
     target_year: 2030.0
   progress_status: significant_deterioration
-  score: -3.014985882214355
+  score: -3.014985875
   target_variant: sin_target
 3-b-3:
   progress_status: notstarted
@@ -2383,7 +2383,7 @@
     direction: 1
     limit: null
     progress_value: 0.0022563942
-    score: 0.5640985467209592
+    score: 0.56409855
     sign: 1
     status: moderate_progress
     target: null
@@ -2396,13 +2396,13 @@
     direction: 1
     limit: null
     progress_value: 0.0159798608
-    score: 3.9949652117268752
+    score: 3.9949652
     sign: 1
     status: significant_progress
     target: null
     target_year: 2030.0
   progress_status: moderate_progress
-  score: 2.279531879223917
+  score: 2.279531875
   target_variant: sin_target
 4-4-1:
   4-4-1:
@@ -2413,13 +2413,13 @@
     direction: 1
     limit: null
     progress_value: 0.0115987257
-    score: 2.899681421277167
+    score: 2.899681425
     sign: 1
     status: significant_progress
     target: null
     target_year: 2030.0
   progress_status: significant_progress
-  score: 2.899681421277167
+  score: 2.899681425
   target_variant: sin_target
 4-5-1:
   4-5-1 / Bizileku-parekotasunaren indizea hezkuntza-jarduerak egitean (10.000 biztanletik gorako eta beherako udalerriak):
@@ -2469,13 +2469,13 @@
     direction: -1
     limit: null
     progress_value: 0.3588884543
-    score: -1.004631440314855
+    score: -1.0046314404
     sign: 1
     status: moderate_deterioration
     target: 1.03
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -0.8761578600787137
+  score: -0.8761578601
   target_variant: con_target
 4-6-1:
   4-6-1:
@@ -2643,13 +2643,13 @@
     direction: -1
     limit: null
     progress_value: 0.7188964007
-    score: 0.8492600052216058
+    score: 0.849260005
     sign: 1
     status: moderate_progress
     target: 1.03
     target_year: 2030.0
   progress_status: moderate_progress
-  score: 0.8492600052216058
+  score: 0.849260005
   target_variant: con_target
 5-5-1:
   5-5-1 / Emakumezkoen proportzioa Batzar Nagusietako batzarkideen artean:
@@ -2712,7 +2712,7 @@
     direction: -1
     limit: null
     progress_value: 1.0288727658
-    score: 3.063376898395242
+    score: 3.0633768986
     sign: 1
     status: significant_progress
     target: 60.0
@@ -2731,7 +2731,7 @@
     target: 60.0
     target_year: 2030.0
   progress_status: significant_progress
-  score: 3.0105628163992066
+  score: 3.0105628164
   target_variant: con_target
 5-5-2:
   progress_status: retroceso
@@ -2801,13 +2801,13 @@
     direction: 1
     limit: 100
     progress_value: 0.0031831806
-    score: 4.800513041255991
+    score: 4.8005130708
     sign: 1
     status: significant_progress
     target: null
     target_year: 2030.0
   progress_status: significant_progress
-  score: 4.800513041255991
+  score: 4.8005130708
   target_variant: sin_target
 5-c-1:
   progress_status: notstarted
@@ -2839,7 +2839,7 @@
     direction: 1
     limit: null
     progress_value: 1.2506577815
-    score: 4.64755558215275
+    score: 4.6475555821
     sign: 1
     status: significant_progress
     target: 99.9
@@ -2858,7 +2858,7 @@
     target: 99.9
     target_year: 2030.0
   progress_status: significant_progress
-  score: 4.823777791076375
+  score: 4.8237777911
   target_variant: con_target
 6-3-1:
   6-3-1 / Kolektore-sistema batera konektatutako etxeko hondakin-uren fluxuen proportzioa:
@@ -2882,13 +2882,13 @@
     direction: 1
     limit: null
     progress_value: 0.0066596492
-    score: 1.6649122897957058
+    score: 1.6649123
     sign: 1
     status: moderate_progress
     target: null
     target_year: 2030.0
   progress_status: significant_progress
-  score: 3.332456144897853
+  score: 3.33245615
   target_variant: mixto
 6-3-2:
   6-3-2 / Kalitate oneko ur-masen proportzioa:
@@ -3034,13 +3034,13 @@
     direction: -1
     limit: null
     progress_value: 0.6195509731
-    score: 0.13964980762480794
+    score: 0.1396498079
     sign: 1
     status: moderate_progress
     target: 1.07
     target_year: 2030.0
   progress_status: moderate_progress
-  score: 0.13964980762480794
+  score: 0.1396498079
   target_variant: con_target
 7-a-1:
   progress_status: notstarted
@@ -3093,13 +3093,13 @@
     direction: 1
     limit: 100
     progress_value: 0.0010111244
-    score: 4.478522900400992
+    score: 4.4785228462
     sign: 1
     status: significant_progress
     target: null
     target_year: 2030.0
   progress_status: significant_progress
-  score: 4.478522900400992
+  score: 4.4785228462
   target_variant: sin_target
 8-2-1:
   8-2-1:
@@ -3199,7 +3199,7 @@
     direction: -1
     limit: null
     progress_value: 0.4795168646
-    score: -0.5020130640669613
+    score: -0.5020130642
     sign: 1
     status: moderate_deterioration
     target: 5.8
@@ -3218,7 +3218,7 @@
     target: 78.0
     target_year: 2030.0
   progress_status: moderate_progress
-  score: 2.2489934679665193
+  score: 2.2489934679
   target_variant: con_target
 8-6-1:
   8-6-1:
@@ -3250,7 +3250,7 @@
     direction: -1
     limit: null
     progress_value: -0.0055175987
-    score: -1.379399664398595
+    score: -1.379399675
     sign: 1
     status: moderate_deterioration
     target: null
@@ -3269,7 +3269,7 @@
     target: null
     target_year: 2030.0
   progress_status: moderate_progress
-  score: 1.8103001678007025
+  score: 1.8103001625
   target_variant: sin_target
 8-8-2:
   progress_status: notstarted
@@ -3284,7 +3284,7 @@
     direction: 1
     limit: null
     progress_value: 0.0085219937
-    score: 2.130498432081407
+    score: 2.130498425
     sign: 1
     status: moderate_progress
     target: null
@@ -3303,7 +3303,7 @@
     target: null
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -1.4347507839592966
+  score: -1.4347507875
   target_variant: sin_target
 8-9-2:
   progress_status: notstarted
@@ -3335,7 +3335,7 @@
     direction: 1
     limit: null
     progress_value: -0.0196867219
-    score: -4.921680464644557
+    score: -4.921680475
     sign: 1
     status: significant_deterioration
     target: null
@@ -3354,7 +3354,7 @@
     target: null
     target_year: 2030.0
   progress_status: moderate_progress
-  score: 1.6927731784518143
+  score: 1.692773175
   target_variant: sin_target
 9-1-1:
   progress_status: significant_progress
@@ -3399,7 +3399,7 @@
     direction: 1
     limit: null
     progress_value: 0.0118297294
-    score: 2.9574323545252246
+    score: 2.95743235
     sign: 1
     status: significant_progress
     target: null
@@ -3412,13 +3412,13 @@
     direction: 1
     limit: null
     progress_value: -0.0068164279
-    score: -1.7041069822899824
+    score: -1.704106975
     sign: 1
     status: moderate_deterioration
     target: null
     target_year: 2030.0
   progress_status: moderate_progress
-  score: 0.6266626861176211
+  score: 0.6266626875
   target_variant: sin_target
 9-2-2:
   9-2-2:
@@ -3429,13 +3429,13 @@
     direction: 1
     limit: null
     progress_value: -0.0040118926
-    score: -1.00297315290665
+    score: -1.00297315
     sign: 1
     status: moderate_deterioration
     target: null
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -1.00297315290665
+  score: -1.00297315
   target_variant: sin_target
 9-3-1:
   9-3-1:
@@ -3446,13 +3446,13 @@
     direction: 1
     limit: null
     progress_value: -0.0153176367
-    score: -3.8294091646901283
+    score: -3.829409175
     sign: 1
     status: significant_deterioration
     target: null
     target_year: 2030.0
   progress_status: significant_deterioration
-  score: -3.8294091646901283
+  score: -3.829409175
   target_variant: sin_target
 9-3-2:
   progress_status: notstarted
@@ -3467,7 +3467,7 @@
     direction: -1
     limit: null
     progress_value: 0.0082488166
-    score: 2.0622041576877637
+    score: 2.06220415
     sign: 1
     status: moderate_progress
     target: null
@@ -3493,13 +3493,13 @@
     direction: -1
     limit: null
     progress_value: 0.0179840724
-    score: 4.496018105717869
+    score: 4.4960181
     sign: 1
     status: significant_progress
     target: null
     target_year: 2030.0
   progress_status: significant_progress
-  score: 3.852740754468544
+  score: 3.85274075
   target_variant: sin_target
 9-4-E1:
   progress_status: alcanzado
@@ -3552,13 +3552,13 @@
     direction: 1
     limit: null
     progress_value: 0.0045841562
-    score: 1.1460390429268164
+    score: 1.14603905
     sign: 1
     status: moderate_progress
     target: null
     target_year: 2030.0
   progress_status: moderate_progress
-  score: 1.1460390429268164
+  score: 1.14603905
   target_variant: sin_target
 9-c-1:
   9-c-1 / 5G sare mugikorrez estalitako etxeen proportzioa:
