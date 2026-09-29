@@ -265,6 +265,16 @@ class SeriesProgressEustat(SeriesProgress):
 
         super().__init__(indicator, config=config, logging=logging)
 
+        # Redondear progress_value antes de evaluar umbrales para que los
+        # límites exactos (0.01, 0.001, -0.001, -0.01) funcionen de forma
+        # predecible sin depender del ruido de floating point.
+        # Ej: 0.010000000000000009 → 0.01 → moderate (no significant).
+        _CALC_DECIMALS = 10
+        if self.progress_value is not None:
+            self.progress_value = round(self.progress_value, _CALC_DECIMALS)
+            self.status = get_progress_status_eustat(self.progress_value, self.progress_thresholds, self.target_achieved)
+            self.score = self.get_score()
+
         # Caso especial: base_value == limit (coeff=0) sin target explícito.
         # El indicador ya está en su máximo/mínimo natural; mantenerlo es progreso
         # significativo. Marcamos target_achieved=True para coherencia con el score.
@@ -287,6 +297,8 @@ class SeriesProgressEustat(SeriesProgress):
                 self.progress_thresholds = self.get_progress_thresholds()
                 self.target_achieved = self.is_target_achieved()
                 self.progress_value = self.calculate_progress_value()
+                if self.progress_value is not None:
+                    self.progress_value = round(self.progress_value, _CALC_DECIMALS)
                 self.status = get_progress_status_eustat(self.progress_value, self.progress_thresholds, self.target_achieved)
                 self.score = self.get_score()
 
@@ -505,14 +517,18 @@ def get_indicator_progress_eustat(self):
 
     if self.cache_store is None:
         self.cache_store = {}
-    self.cache_store[self.inid] = {'progress_status': indicator_status, 'score': floatNone(indicator_score), 'target_variant': target_variant}
-
-    # Redondear progress_value en cada serie para eliminar ruido de floating
-    # point (ej: 0.010000000000000009 → 0.01) sin perder precisión relevante.
     PROGRESS_DECIMALS = 10
+    self.cache_store[self.inid] = {'progress_status': indicator_status, 'score': floatNone(round(indicator_score, PROGRESS_DECIMALS) if indicator_score is not None else None), 'target_variant': target_variant}
+
+    # Redondear progress_value y score en cada serie para eliminar ruido de
+    # floating point (ej: 0.010000000000000009 → 0.01, 2.5000000000000002 → 2.5)
+    # sin perder precisión relevante.
     for serie_data in components.values():
-        if isinstance(serie_data, dict) and serie_data.get('progress_value') is not None:
-            serie_data['progress_value'] = round(serie_data['progress_value'], PROGRESS_DECIMALS)
+        if isinstance(serie_data, dict):
+            if serie_data.get('progress_value') is not None:
+                serie_data['progress_value'] = round(serie_data['progress_value'], PROGRESS_DECIMALS)
+            if serie_data.get('score') is not None:
+                serie_data['score'] = round(serie_data['score'], PROGRESS_DECIMALS)
 
     self.cache_store[self.inid].update(components)
 
@@ -525,8 +541,9 @@ def get_indicator_progress_eustat(self):
                 _scores = _json.load(_f)
         else:
             _scores = {}
-        # Score agregado del indicador
-        _scores[self.inid] = floatNone(indicator_score)
+        # Score agregado del indicador (redondeado para consistencia visual)
+        _rounded_score = round(indicator_score, PROGRESS_DECIMALS) if indicator_score is not None else None
+        _scores[self.inid] = floatNone(_rounded_score)
         # Score por serie individual (tag = nombre en euskera generado por sdg-build)
         for tag, serie_components in components.items():
             if isinstance(serie_components, dict) and 'score' in serie_components:
