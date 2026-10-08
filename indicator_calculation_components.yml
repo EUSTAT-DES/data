@@ -3306,7 +3306,33 @@
   score: -1.4347507875
   target_variant: sin_target
 8-9-2:
-  progress_status: notstarted
+  8-9-2 / EU_ST_EMP_TRSMN_PT:
+    base_value: null
+    base_year: 2015.0
+    current_value: null
+    current_year: null
+    direction: 1
+    limit: null
+    progress_value: null
+    score: null
+    sign: null
+    status: not_available
+    target: null
+    target_year: 2030.0
+  8-9-2 / Turismoaren sektorean okupatutako pertsonen kopurua:
+    base_value: null
+    base_year: 2015.0
+    current_value: null
+    current_year: null
+    direction: 1
+    limit: null
+    progress_value: null
+    score: null
+    sign: null
+    status: not_available
+    target: null
+    target_year: 2030.0
+  progress_status: not_available
   score: null
   target_variant: sin_target
 8-a-1:
@@ -3424,18 +3450,18 @@
   9-2-2:
     base_value: 19.7
     base_year: 2015.0
-    current_value: 19.0
-    current_year: 2024.0
+    current_value: 18.9
+    current_year: 2025.0
     direction: 1
     limit: null
-    progress_value: -0.0040118926
-    score: -1.00297315
+    progress_value: -0.0041370899
+    score: -1.034272475
     sign: 1
     status: moderate_deterioration
     target: null
     target_year: 2030.0
   progress_status: moderate_deterioration
-  score: -1.00297315
+  score: -1.034272475
   target_variant: sin_target
 9-3-1:
   9-3-1:
