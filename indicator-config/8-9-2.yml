@@ -26,8 +26,13 @@ national_geographical_coverage: ''
 page_content: GRAFICO.8-9-2-contenido
 permalink: ''
 precision: []
-progress_status: notstarted
-reporting_status: notstarted
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: ST_EMP_TRSMN
+    direction: positive
+  - series: EU_ST_EMP_TRSMN_PT
+    direction: positive
+reporting_status: complete
 sort: ''
 sources:
   - organisation: FUENTE.Eustat
