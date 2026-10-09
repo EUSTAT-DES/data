@@ -3192,33 +3192,33 @@
   target_variant: sin_target
 8-5-E1:
   8-5-E1 / Genero-arrakala okupazioan:
-    base_value: 7.7
+    base_value: -7.7
     base_year: 2015.0
-    current_value: 7.1
-    current_year: 2024.0
+    current_value: -5.9
+    current_year: 2025.0
     direction: -1
     limit: null
-    progress_value: 0.4795168646
-    score: -0.5020130642
-    sign: 1
-    status: moderate_deterioration
+    progress_value: -0.1263634388
+    score: 5.0
+    sign: -1
+    status: significant_progress
     target: 5.8
     target_year: 2030.0
   8-5-E1 / Okupazio-tasa:
     base_value: 67.6
     base_year: 2015.0
-    current_value: 75.6
-    current_year: 2024.0
+    current_value: 76.4
+    current_year: 2025.0
     direction: 1
     limit: null
-    progress_value: 1.3045601592
-    score: 5.0
+    progress_value: 1.2844806046
+    score: 4.8891471757
     sign: 1
     status: significant_progress
     target: 78.0
     target_year: 2030.0
-  progress_status: moderate_progress
-  score: 2.2489934679
+  progress_status: significant_progress
+  score: 4.9445735879
   target_variant: con_target
 8-6-1:
   8-6-1:
