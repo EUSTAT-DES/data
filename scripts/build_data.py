@@ -409,42 +409,49 @@ class SeriesProgressEustat(SeriesProgress):
 def get_progress_status_eustat(value, thresholds, target_achieved=False):
     """Eurostat: 5 categorías.
     Método 1 (sin target): high/med/low = 1%/0.1%/-0.1% → 5 niveles con neutral
-    Método 2 (con target): high/med/low = 95%/60%/0% → 4 niveles sin neutral
-    La distinción se hace automáticamente por los umbrales recibidos.
+    Método 2 (con target): high/med/low = 95%/60%/0%    → 4 niveles sin neutral
+    La distinción se hace por low < 0 (Método 1) o low >= 0 (Método 2).
 
-    Umbrales Método 1:
+    Umbrales Método 1 (límites estrictos salvo estancamiento, que es inclusivo en ambos extremos):
       > 0.01                → significant_progress
-      <= 0.01  y > 0.001    → moderate_progress
-      <= 0.001 y >= -0.001  → no_progress (estancamiento)
-      < -0.001 y >= -0.01   → moderate_deterioration
+      > 0.001 y <= 0.01     → moderate_progress
+      >= -0.001 y <= 0.001  → no_progress (estancamiento)
+      >= -0.01 y < -0.001   → moderate_deterioration
       < -0.01               → significant_deterioration
     """
-    x = float(thresholds['high'])
-    y = float(thresholds['med'])
-    z = float(thresholds['low'])
-
     if target_achieved:
         return "significant_progress"
 
-    if value is not None:
-        if value > x:
+    if value is None:
+        return "not_available"
+
+    high = float(thresholds['high'])
+    med  = float(thresholds['med'])
+    low  = float(thresholds['low'])
+
+    # --- MÉTODO 1: banda neutra (low < 0) → 5 niveles ---
+    if low < 0:
+        if value > high:                # > +1%
             return "significant_progress"
-        elif value > y:
+        elif value > med:               # +0.1% a +1%
             return "moderate_progress"
-        elif value >= z:
-            # Método 1: z=-0.001 → estancamiento (entre -0.1% y +0.1%, ambos inclusive)
-            # Método 2: z=0 → moderate_deterioration (entre 0% y 60%)
-            if z < 0:
-                return "no_progress"
-            else:
-                return "moderate_deterioration"
-        elif z < 0 and value >= -abs(x):
-            # Solo método 1: < -0.001 y >= -0.01 → moderate_deterioration
+        elif value >= low:              # -0.1% a +0.1% (banda neutral, ambos inclusive)
+            return "no_progress"
+        elif value >= -high:            # -1% a -0.1%
             return "moderate_deterioration"
-        else:
+        else:                           # < -1%
             return "significant_deterioration"
 
-    return "not_available"
+    # --- MÉTODO 2: con target (low >= 0) → 4 niveles ---
+    else:
+        if value > high:                # > 95%
+            return "significant_progress"
+        elif value > med:               # 60% a 95%
+            return "moderate_progress"
+        elif value >= low:              # 0% a 60%
+            return "moderate_deterioration"
+        else:                           # < 0%
+            return "significant_deterioration"
 
 
 def get_target_variant(opts):
