@@ -457,10 +457,15 @@ def get_progress_status_eustat(value, thresholds, target_achieved=False):
 def get_target_variant(opts):
     """Detecta si el indicador es sin_target, con_target o mixto.
     opts: lista de dicts de progress_calculation_options.
+    Los indicadores booleanos (progress_boolean: true) cuentan como con_target
+    porque tienen un target implícito.
     """
     if not opts:
         return 'sin_target'
-    has_target = [bool(o.get('target') is not None) for o in opts if isinstance(o, dict)]
+    has_target = [
+        bool(o.get('target') is not None) or bool(o.get('progress_boolean'))
+        for o in opts if isinstance(o, dict)
+    ]
     if not has_target:
         return 'sin_target'
     if all(has_target):
