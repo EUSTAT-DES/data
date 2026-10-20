@@ -615,7 +615,7 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
-  target_variant: sin_target
+  target_variant: con_target
 12-2-1:
   progress_status: notstarted
   score: null
@@ -1052,7 +1052,7 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
-  target_variant: sin_target
+  target_variant: con_target
 15-9-1:
   progress_status: notstarted
   score: null
@@ -1450,7 +1450,7 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
-  target_variant: sin_target
+  target_variant: con_target
 17-18-3:
   17-18-3 / BOOL_YES_NO:
     base_value: null
@@ -1467,7 +1467,7 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
-  target_variant: sin_target
+  target_variant: con_target
 17-19-1:
   progress_status: notstarted
   score: null
@@ -1501,7 +1501,7 @@
     target_year: 2030.0
   progress_status: significant_progress
   score: 5.0
-  target_variant: sin_target
+  target_variant: con_target
 17-2-1:
   17-2-1 / Administrazio publiko autonomikoen eta tokiko administrazio publikoen Garapenerako Laguntza Ofizial garbia:
     base_value: 49.43
