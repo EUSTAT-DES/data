@@ -2895,10 +2895,10 @@
       target_variant: sin_target
 '12':
   progress_status-o: significant_progress
-  score-o: 3.2162529875
+  score-o: 3.57300239
   12-1:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: significant_progress
+    score-m: 5.0
     12-1-1:
       12-1-1 / BOOL_YES_NO:
         base_value: null
@@ -3275,7 +3275,7 @@
       target_variant: sin_target
 '15':
   progress_status-o: significant_progress
-  score-o: 3.3143443
+  score-o: 3.735758225
   15-1:
     progress_status-m: no_progress
     score-m: -0.0569671
@@ -3442,8 +3442,8 @@
       score-i: null
       target_variant: sin_target
   15-8:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: significant_progress
+    score-m: 5.0
     15-8-1:
       15-8-1 / BOOL_YES_NO:
         base_value: null
@@ -3812,7 +3812,7 @@
       target_variant: sin_target
 '17':
   progress_status-o: significant_progress
-  score-o: 3.4867223478
+  score-o: 3.7389352899
   17-1:
     progress_status-m: moderate_progress
     score-m: 0.7828912937
@@ -4084,8 +4084,8 @@
       score-i: null
       target_variant: sin_target
   17-18:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: significant_progress
+    score-m: 5.0
     17-18-1:
       progress_status: notstarted
       score-i: null
