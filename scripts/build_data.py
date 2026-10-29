@@ -404,6 +404,14 @@ class SeriesProgressEustat(SeriesProgress):
             else:
                 return -5
 
+    def get_progress_calculation_components(self):
+        """Override: renombra 'score' → 'score-s' para distinguir del score-i del indicador."""
+        components = super().get_progress_calculation_components()
+        for serie_data in components.values():
+            if isinstance(serie_data, dict) and 'score' in serie_data:
+                serie_data['score-s'] = serie_data.pop('score')
+        return components
+
 
 # Función personalizada: status desde progress_value (nivel serie)
 def get_progress_status_eustat(value, thresholds, target_achieved=False):
@@ -452,14 +460,6 @@ def get_progress_status_eustat(value, thresholds, target_achieved=False):
             return "moderate_deterioration"
         else:                           # < 0%
             return "significant_deterioration"
-
-    def get_progress_calculation_components(self):
-        """Override: renombra 'score' → 'score-s' para distinguir del score-i del indicador."""
-        components = super().get_progress_calculation_components()
-        for serie_data in components.values():
-            if isinstance(serie_data, dict) and 'score' in serie_data:
-                serie_data['score-s'] = serie_data.pop('score')
-        return components
 
 
 def get_target_variant(opts):
