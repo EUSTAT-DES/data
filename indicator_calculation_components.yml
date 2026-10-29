@@ -7,7 +7,7 @@
     direction: -1
     limit: null
     progress_value: -0.7893659695
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: 0.1
@@ -24,7 +24,7 @@
     direction: -1
     limit: null
     progress_value: -0.0209852187
-    score: -2.58743841125
+    score-s: -2.5874384112
     sign: 1
     status: significant_deterioration
     target: 8.2
@@ -41,7 +41,7 @@
     direction: -1
     limit: null
     progress_value: -0.0
-    score: -2.5
+    score-s: -2.5
     sign: 1
     status: moderate_deterioration
     target: 20.5
@@ -58,7 +58,7 @@
     direction: 1
     limit: null
     progress_value: -0.0003633505
-    score: -0.09083762499999998
+    score-s: -0.090837625
     sign: 1
     status: no_progress
     target: null
@@ -71,7 +71,7 @@
     direction: 1
     limit: null
     progress_value: 0.0792199737
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -88,7 +88,7 @@
     direction: 1
     limit: null
     progress_value: 1.2506577815
-    score: 4.647555582142857
+    score-s: 4.6475555821
     sign: 1
     status: significant_progress
     target: 99.9
@@ -101,7 +101,7 @@
     direction: 1
     limit: null
     progress_value: null
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 99.9
@@ -122,7 +122,7 @@
     direction: -1
     limit: null
     progress_value: -0.6610459297
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 0.5
@@ -139,7 +139,7 @@
     direction: -1
     limit: 0
     progress_value: 1.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -160,7 +160,7 @@
     direction: 1
     limit: null
     progress_value: 0.003815328
-    score: 0.953832
+    score-s: 0.953832
     sign: 1
     status: moderate_progress
     target: null
@@ -173,7 +173,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -190,7 +190,7 @@
     direction: 1
     limit: null
     progress_value: -0.001
-    score: -0.25
+    score-s: -0.25
     sign: 1
     status: no_progress
     target: null
@@ -207,7 +207,7 @@
     direction: 1
     limit: null
     progress_value: 0.0007135231
-    score: 0.178380775
+    score-s: 0.178380775
     sign: 1
     status: no_progress
     target: null
@@ -232,7 +232,7 @@
     direction: -1
     limit: null
     progress_value: -0.0
-    score: -0.0
+    score-s: -0.0
     sign: 1
     status: no_progress
     target: null
@@ -249,7 +249,7 @@
     direction: -1
     limit: null
     progress_value: -0.04623553
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: null
@@ -266,7 +266,7 @@
     direction: 1
     limit: null
     progress_value: -0.0026172102
-    score: -0.65430255
+    score-s: -0.65430255
     sign: 1
     status: moderate_deterioration
     target: null
@@ -307,7 +307,7 @@
     direction: -1
     limit: null
     progress_value: -0.4661668295
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: null
@@ -336,7 +336,7 @@
     direction: -1
     limit: null
     progress_value: 0.0268484324
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -349,7 +349,7 @@
     direction: -1
     limit: null
     progress_value: 0.0280714557
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -362,7 +362,7 @@
     direction: -1
     limit: null
     progress_value: 0.0280025613
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -375,7 +375,7 @@
     direction: -1
     limit: 0
     progress_value: 1.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -400,7 +400,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -417,7 +417,7 @@
     direction: 1
     limit: null
     progress_value: 0.0480145444
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -434,7 +434,7 @@
     direction: -1
     limit: null
     progress_value: -0.6610459297
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 0.5
@@ -451,7 +451,7 @@
     direction: -1
     limit: 0
     progress_value: 1.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -472,7 +472,7 @@
     direction: -1
     limit: null
     progress_value: 0.0077533393
-    score: 1.938334825
+    score-s: 1.938334825
     sign: 1
     status: moderate_progress
     target: null
@@ -485,7 +485,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -506,7 +506,7 @@
     direction: 1
     limit: null
     progress_value: 0.2196216896
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -523,7 +523,7 @@
     direction: -1
     limit: null
     progress_value: -0.2041615319
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: null
@@ -540,7 +540,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -553,7 +553,7 @@
     direction: 1
     limit: 100
     progress_value: 0.040148546
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -574,7 +574,7 @@
     direction: 1
     limit: null
     progress_value: 0.003815328
-    score: 0.953832
+    score-s: 0.953832
     sign: 1
     status: moderate_progress
     target: null
@@ -587,7 +587,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -608,7 +608,7 @@
     direction: 1
     limit: null
     progress_value: null
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -629,7 +629,7 @@
     direction: -1
     limit: null
     progress_value: 0.0234400741
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -658,7 +658,7 @@
     direction: 1
     limit: null
     progress_value: -0.0085399522
-    score: -2.13498805
+    score-s: -2.13498805
     sign: 1
     status: moderate_deterioration
     target: null
@@ -675,7 +675,7 @@
     direction: 1
     limit: null
     progress_value: 0.1464393493
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -688,7 +688,7 @@
     direction: 1
     limit: null
     progress_value: 0.0792154013
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -705,7 +705,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0206669799
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -726,7 +726,7 @@
     direction: 1
     limit: null
     progress_value: 0.0437498777
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -751,7 +751,7 @@
     direction: -1
     limit: null
     progress_value: -0.6610459297
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 0.5
@@ -772,7 +772,7 @@
     direction: 1
     limit: null
     progress_value: 0.003815328
-    score: 0.953832
+    score-s: 0.953832
     sign: 1
     status: moderate_progress
     target: null
@@ -785,7 +785,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -806,7 +806,7 @@
     direction: -1
     limit: null
     progress_value: 1.2126558573
-    score: 4.376113266428571
+    score-s: 4.3761132664
     sign: -1
     status: significant_progress
     target: -45.0
@@ -819,7 +819,7 @@
     direction: -1
     limit: null
     progress_value: 0.0227513198
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -856,7 +856,7 @@
     direction: 1
     limit: null
     progress_value: -0.0002756721
-    score: -0.06891802500000001
+    score-s: -0.068918025
     sign: 1
     status: no_progress
     target: null
@@ -901,7 +901,7 @@
     direction: 1
     limit: null
     progress_value: -0.0002278684
-    score: -0.0569671
+    score-s: -0.0569671
     sign: 1
     status: no_progress
     target: null
@@ -922,7 +922,7 @@
     direction: 1
     limit: null
     progress_value: 0.0015052833
-    score: 0.37632082499999997
+    score-s: 0.376320825
     sign: 1
     status: moderate_progress
     target: null
@@ -935,7 +935,7 @@
     direction: 1
     limit: null
     progress_value: 0.0014134358
-    score: 0.35335895
+    score-s: 0.35335895
     sign: 1
     status: moderate_progress
     target: null
@@ -952,7 +952,7 @@
     direction: 1
     limit: null
     progress_value: 0.041188593
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -965,7 +965,7 @@
     direction: 1
     limit: null
     progress_value: 0.0405394483
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -982,7 +982,7 @@
     direction: 1
     limit: null
     progress_value: 0.0647858804
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -995,7 +995,7 @@
     direction: 1
     limit: null
     progress_value: 0.0701159557
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1016,7 +1016,7 @@
     direction: 1
     limit: null
     progress_value: 5.23492e-05
-    score: 0.0130873
+    score-s: 0.0130873
     sign: 1
     status: no_progress
     target: null
@@ -1045,7 +1045,7 @@
     direction: 1
     limit: null
     progress_value: null
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1078,7 +1078,7 @@
     direction: -1
     limit: null
     progress_value: -0.0132058942
-    score: -3.30147355
+    score-s: -3.30147355
     sign: 1
     status: significant_deterioration
     target: null
@@ -1095,7 +1095,7 @@
     direction: -1
     limit: 0
     progress_value: 1.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1116,7 +1116,7 @@
     direction: 1
     limit: null
     progress_value: -0.0099925361
-    score: -2.4981340249999997
+    score-s: -2.498134025
     sign: 1
     status: moderate_deterioration
     target: null
@@ -1133,7 +1133,7 @@
     direction: -1
     limit: null
     progress_value: -0.111724299
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: null
@@ -1162,7 +1162,7 @@
     direction: -1
     limit: null
     progress_value: -0.9392274475
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: null
@@ -1187,7 +1187,7 @@
     direction: -1
     limit: null
     progress_value: -0.0303274035
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: null
@@ -1224,7 +1224,7 @@
     direction: -1
     limit: null
     progress_value: 1.5667737031
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 100.0
@@ -1237,7 +1237,7 @@
     direction: -1
     limit: null
     progress_value: -1.288478717
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: 100.0
@@ -1254,7 +1254,7 @@
     direction: 1
     limit: null
     progress_value: 0.0132235914
-    score: 3.3058978499999996
+    score-s: 3.30589785
     sign: 1
     status: significant_progress
     target: null
@@ -1271,7 +1271,7 @@
     direction: -1
     limit: null
     progress_value: -5.6309651919
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: 1.2
@@ -1284,7 +1284,7 @@
     direction: -1
     limit: null
     progress_value: -0.0
-    score: -2.5
+    score-s: -2.5
     sign: 1
     status: moderate_deterioration
     target: 1.2
@@ -1297,7 +1297,7 @@
     direction: -1
     limit: null
     progress_value: -0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 1.2
@@ -1322,7 +1322,7 @@
     direction: 1
     limit: null
     progress_value: null
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 100.0
@@ -1343,7 +1343,7 @@
     direction: -1
     limit: null
     progress_value: -0.04623553
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: null
@@ -1360,7 +1360,7 @@
     direction: 1
     limit: null
     progress_value: 0.005094936
-    score: 1.273734
+    score-s: 1.273734
     sign: 1
     status: moderate_progress
     target: null
@@ -1377,7 +1377,7 @@
     direction: 1
     limit: null
     progress_value: -0.0004214967
-    score: -0.105374175
+    score-s: -0.105374175
     sign: 1
     status: no_progress
     target: null
@@ -1390,7 +1390,7 @@
     direction: 1
     limit: null
     progress_value: 0.0027578854
-    score: 0.6894713499999999
+    score-s: 0.68947135
     sign: 1
     status: moderate_progress
     target: null
@@ -1443,7 +1443,7 @@
     direction: 1
     limit: null
     progress_value: null
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1460,7 +1460,7 @@
     direction: 1
     limit: null
     progress_value: null
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1481,7 +1481,7 @@
     direction: 1
     limit: null
     progress_value: null
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1494,7 +1494,7 @@
     direction: 1
     limit: null
     progress_value: null
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1511,7 +1511,7 @@
     direction: 1
     limit: null
     progress_value: 0.0629085147
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1524,7 +1524,7 @@
     direction: 1
     limit: null
     progress_value: 0.1923458138
-    score: -1.6985591091666667
+    score-s: -1.6985591092
     sign: 1
     status: moderate_deterioration
     target: 0.7
@@ -1541,7 +1541,7 @@
     direction: 1
     limit: null
     progress_value: 0.2282526727
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1554,7 +1554,7 @@
     direction: 1
     limit: null
     progress_value: 0.1769499935
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1571,7 +1571,7 @@
     direction: 1
     limit: null
     progress_value: 0.0722043023
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1584,7 +1584,7 @@
     direction: 1
     limit: null
     progress_value: 0.0302557884
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1609,7 +1609,7 @@
     direction: 1
     limit: null
     progress_value: 0.0312201389
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1630,7 +1630,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0196202658
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1655,7 +1655,7 @@
     direction: -1
     limit: null
     progress_value: -0.087879287
-    score: -2.8661636958333334
+    score-s: -2.8661636958
     sign: 1
     status: significant_deterioration
     target: 0.1
@@ -1668,7 +1668,7 @@
     direction: -1
     limit: null
     progress_value: 0.0999749957
-    score: -2.0834375179166664
+    score-s: -2.0834375179
     sign: 1
     status: moderate_deterioration
     target: 0.1
@@ -1689,7 +1689,7 @@
     direction: -1
     limit: null
     progress_value: -0.0013956958
-    score: -0.34892395
+    score-s: -0.34892395
     sign: 1
     status: moderate_deterioration
     target: null
@@ -1714,7 +1714,7 @@
     direction: -1
     limit: null
     progress_value: -0.0082682136
-    score: -2.0670534
+    score-s: -2.0670534
     sign: 1
     status: moderate_deterioration
     target: null
@@ -1731,7 +1731,7 @@
     direction: 1
     limit: null
     progress_value: 0.0228228649
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1744,7 +1744,7 @@
     direction: 1
     limit: null
     progress_value: 0.1228454279
-    score: -1.9881440504166665
+    score-s: -1.9881440504
     sign: 1
     status: moderate_deterioration
     target: 20300.0
@@ -1761,7 +1761,7 @@
     direction: 1
     limit: null
     progress_value: 0.0509256654
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1774,7 +1774,7 @@
     direction: 1
     limit: null
     progress_value: -2.1517327641
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: 15360.4
@@ -1791,7 +1791,7 @@
     direction: 1
     limit: null
     progress_value: -0.053614251
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: null
@@ -1804,7 +1804,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0003756305
-    score: 1.7563287685543858
+    score-s: 1.7563287686
     sign: 1
     status: moderate_progress
     target: null
@@ -1821,7 +1821,7 @@
     direction: 1
     limit: null
     progress_value: 0.1830139097
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1838,7 +1838,7 @@
     direction: -1
     limit: null
     progress_value: 0.0211321526
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -1851,7 +1851,7 @@
     direction: -1
     limit: null
     progress_value: 0.0190843776
-    score: 4.7710944
+    score-s: 4.7710944
     sign: 1
     status: significant_progress
     target: null
@@ -1880,7 +1880,7 @@
     direction: 1
     limit: null
     progress_value: -0.0044351726
-    score: -1.10879315
+    score-s: -1.10879315
     sign: 1
     status: moderate_deterioration
     target: null
@@ -1905,7 +1905,7 @@
     direction: -1
     limit: null
     progress_value: 5.3265079914
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 70.0
@@ -1922,7 +1922,7 @@
     direction: 1
     limit: null
     progress_value: -0.9999499312
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 99.85
@@ -1939,7 +1939,7 @@
     direction: -1
     limit: 0
     progress_value: 0.2987539339
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 25.0
@@ -1956,7 +1956,7 @@
     direction: -1
     limit: 0
     progress_value: 0.2728030923
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 12.0
@@ -1973,7 +1973,7 @@
     direction: -1
     limit: null
     progress_value: 0.0875495883
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 1.0
@@ -1990,7 +1990,7 @@
     direction: -1
     limit: null
     progress_value: 0.1073527096
-    score: -2.052697043333333
+    score-s: -2.0526970433
     sign: 1
     status: moderate_deterioration
     target: 2.4
@@ -2007,7 +2007,7 @@
     direction: -1
     limit: null
     progress_value: 1.7097138638
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 1.0
@@ -2024,7 +2024,7 @@
     direction: -1
     limit: null
     progress_value: 0.3016113721
-    score: -1.243285949583333
+    score-s: -1.2432859496
     sign: 1
     status: moderate_deterioration
     target: 0.1
@@ -2045,7 +2045,7 @@
     direction: -1
     limit: null
     progress_value: 0.0057241137
-    score: 1.431028425
+    score-s: 1.431028425
     sign: 1
     status: moderate_progress
     target: null
@@ -2058,7 +2058,7 @@
     direction: -1
     limit: null
     progress_value: 1.3426666768
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 6.4
@@ -2075,7 +2075,7 @@
     direction: -1
     limit: null
     progress_value: -0.0
-    score: -2.5
+    score-s: -2.5
     sign: 1
     status: moderate_deterioration
     target: 5.1333
@@ -2092,7 +2092,7 @@
     direction: 1
     limit: null
     progress_value: -0.0019401818
-    score: -0.48504545000000004
+    score-s: -0.48504545
     sign: 1
     status: moderate_deterioration
     target: null
@@ -2105,7 +2105,7 @@
     direction: 1
     limit: null
     progress_value: 0.0019738403
-    score: 0.493460075
+    score-s: 0.493460075
     sign: 1
     status: moderate_progress
     target: null
@@ -2122,7 +2122,7 @@
     direction: 1
     limit: null
     progress_value: 0.0016996516
-    score: 0.4249128999999999
+    score-s: 0.4249129
     sign: 1
     status: moderate_progress
     target: null
@@ -2143,7 +2143,7 @@
     direction: -1
     limit: null
     progress_value: -0.0023392484
-    score: -0.5848121
+    score-s: -0.5848121
     sign: 1
     status: moderate_deterioration
     target: null
@@ -2160,7 +2160,7 @@
     direction: -1
     limit: null
     progress_value: 0.5422887025
-    score: -0.24046373958333245
+    score-s: -0.2404637396
     sign: 1
     status: moderate_deterioration
     target: 1.75
@@ -2181,7 +2181,7 @@
     direction: -1
     limit: 0.0
     progress_value: 0.0436224939
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -2198,7 +2198,7 @@
     direction: -1
     limit: null
     progress_value: -2.7113765347
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: 0.1
@@ -2219,7 +2219,7 @@
     direction: -1
     limit: null
     progress_value: 2.8074375923
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 645.0
@@ -2232,7 +2232,7 @@
     direction: -1
     limit: null
     progress_value: 2.5135591972
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 30.5
@@ -2253,7 +2253,7 @@
     direction: -1
     limit: 0
     progress_value: 0.0407778712
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -2270,7 +2270,7 @@
     direction: -1
     limit: 0
     progress_value: 0.0319136163
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -2291,7 +2291,7 @@
     direction: 1
     limit: null
     progress_value: -0.0120599435
-    score: -3.014985875
+    score-s: -3.014985875
     sign: 1
     status: significant_deterioration
     target: null
@@ -2312,7 +2312,7 @@
     direction: 1
     limit: null
     progress_value: 0.0202993394
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -2345,7 +2345,7 @@
     direction: -1
     limit: null
     progress_value: 11.5523736951
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 9.0
@@ -2366,7 +2366,7 @@
     direction: 1
     limit: null
     progress_value: 1.6671148413
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 99.8
@@ -2383,7 +2383,7 @@
     direction: 1
     limit: null
     progress_value: 0.0022563942
-    score: 0.56409855
+    score-s: 0.56409855
     sign: 1
     status: moderate_progress
     target: null
@@ -2396,7 +2396,7 @@
     direction: 1
     limit: null
     progress_value: 0.0159798608
-    score: 3.9949651999999998
+    score-s: 3.9949652
     sign: 1
     status: significant_progress
     target: null
@@ -2413,7 +2413,7 @@
     direction: 1
     limit: null
     progress_value: 0.0115987257
-    score: 2.899681425
+    score-s: 2.899681425
     sign: 1
     status: significant_progress
     target: null
@@ -2430,7 +2430,7 @@
     direction: -1
     limit: null
     progress_value: 1.6412119788
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 1.03
@@ -2443,7 +2443,7 @@
     direction: -1
     limit: null
     progress_value: -0.0
-    score: -2.5
+    score-s: -2.5
     sign: 1
     status: moderate_deterioration
     target: 1.03
@@ -2456,7 +2456,7 @@
     direction: -1
     limit: null
     progress_value: -5.3654440162
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: 1.03
@@ -2469,7 +2469,7 @@
     direction: -1
     limit: null
     progress_value: 0.3588884543
-    score: -1.004631440416666
+    score-s: -1.0046314404
     sign: 1
     status: moderate_deterioration
     target: 1.03
@@ -2486,7 +2486,7 @@
     direction: 1
     limit: 100
     progress_value: null
-    score: null
+    score-s: null
     sign: null
     status: not_available
     target: null
@@ -2515,7 +2515,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -2532,7 +2532,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -2545,7 +2545,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -2558,7 +2558,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -2571,7 +2571,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0
-    score: 0.0
+    score-s: 0.0
     sign: 1
     status: no_progress
     target: null
@@ -2588,7 +2588,7 @@
     direction: -1
     limit: null
     progress_value: -0.0427589591
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: null
@@ -2605,7 +2605,7 @@
     direction: -1
     limit: null
     progress_value: -0.1201037242
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: null
@@ -2622,7 +2622,7 @@
     direction: -1
     limit: null
     progress_value: 3.3560421429
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 0.05
@@ -2643,7 +2643,7 @@
     direction: -1
     limit: null
     progress_value: 0.7188964007
-    score: 0.8492600050000005
+    score-s: 0.849260005
     sign: 1
     status: moderate_progress
     target: 1.03
@@ -2660,7 +2660,7 @@
     direction: -1
     limit: null
     progress_value: -0.7112724478
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 60.0
@@ -2673,7 +2673,7 @@
     direction: -1
     limit: null
     progress_value: -0.5243137009
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 60.0
@@ -2686,7 +2686,7 @@
     direction: -1
     limit: null
     progress_value: -0.4440251851
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 60.0
@@ -2699,7 +2699,7 @@
     direction: -1
     limit: null
     progress_value: -2.3908414785
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: 60.0
@@ -2712,7 +2712,7 @@
     direction: -1
     limit: null
     progress_value: 1.0288727658
-    score: 3.0633768985714296
+    score-s: 3.0633768986
     sign: 1
     status: significant_progress
     target: 60.0
@@ -2725,7 +2725,7 @@
     direction: -1
     limit: null
     progress_value: 6.1077088264
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 60.0
@@ -2754,7 +2754,7 @@
     direction: -1
     limit: null
     progress_value: -5.6060163106
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: 60.0
@@ -2767,7 +2767,7 @@
     direction: 1
     limit: null
     progress_value: -0.0253332023
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: null
@@ -2784,7 +2784,7 @@
     direction: 1
     limit: null
     progress_value: null
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 6.0
@@ -2801,7 +2801,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0031831806
-    score: 4.800513070848798
+    score-s: 4.8005130708
     sign: 1
     status: significant_progress
     target: null
@@ -2822,7 +2822,7 @@
     direction: 1
     limit: null
     progress_value: 0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 99.9
@@ -2839,7 +2839,7 @@
     direction: 1
     limit: null
     progress_value: 1.2506577815
-    score: 4.647555582142857
+    score-s: 4.6475555821
     sign: 1
     status: significant_progress
     target: 99.9
@@ -2852,7 +2852,7 @@
     direction: 1
     limit: null
     progress_value: null
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 99.9
@@ -2869,7 +2869,7 @@
     direction: 1
     limit: null
     progress_value: -2.3332221715
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 99.9
@@ -2882,7 +2882,7 @@
     direction: 1
     limit: null
     progress_value: 0.0066596492
-    score: 1.6649123
+    score-s: 1.6649123
     sign: 1
     status: moderate_progress
     target: null
@@ -2899,7 +2899,7 @@
     direction: 1
     limit: null
     progress_value: 0.0272276761
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -2928,7 +2928,7 @@
     direction: 1
     limit: null
     progress_value: 0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 99.9
@@ -2953,7 +2953,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -2966,7 +2966,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -2983,7 +2983,7 @@
     direction: 1
     limit: null
     progress_value: -1.7499531029
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 99.9
@@ -3000,7 +3000,7 @@
     direction: 1
     limit: null
     progress_value: 0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: 99.9
@@ -3017,7 +3017,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0435968767
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -3034,7 +3034,7 @@
     direction: -1
     limit: null
     progress_value: 0.6195509731
-    score: 0.13964980785714273
+    score-s: 0.1396498079
     sign: 1
     status: moderate_progress
     target: 1.07
@@ -3055,7 +3055,7 @@
     direction: 1
     limit: null
     progress_value: 0.0437498777
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -3072,7 +3072,7 @@
     direction: 1
     limit: null
     progress_value: -0.0302285169
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: null
@@ -3093,7 +3093,7 @@
     direction: 1
     limit: 100
     progress_value: 0.0010111244
-    score: 4.478522846160688
+    score-s: 4.4785228462
     sign: 1
     status: significant_progress
     target: null
@@ -3110,7 +3110,7 @@
     direction: 1
     limit: null
     progress_value: 0.0417044948
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -3135,7 +3135,7 @@
     direction: -1
     limit: null
     progress_value: 0.0234400741
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -3152,7 +3152,7 @@
     direction: -1
     limit: null
     progress_value: 0.1466315816
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -3165,7 +3165,7 @@
     direction: 1
     limit: null
     progress_value: 0.0225878004
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -3182,7 +3182,7 @@
     direction: -1
     limit: null
     progress_value: 0.0801784864
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -3199,7 +3199,7 @@
     direction: -1
     limit: null
     progress_value: -0.1263634388
-    score: 5.0
+    score-s: 5.0
     sign: -1
     status: significant_progress
     target: 5.8
@@ -3212,7 +3212,7 @@
     direction: 1
     limit: null
     progress_value: 1.2844806046
-    score: 4.889147175714285
+    score-s: 4.8891471757
     sign: 1
     status: significant_progress
     target: 78.0
@@ -3229,7 +3229,7 @@
     direction: -1
     limit: null
     progress_value: 0.0221973348
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -3250,7 +3250,7 @@
     direction: -1
     limit: null
     progress_value: -0.0055175987
-    score: -1.3793996750000002
+    score-s: -1.379399675
     sign: 1
     status: moderate_deterioration
     target: null
@@ -3263,7 +3263,7 @@
     direction: -1
     limit: null
     progress_value: 0.0207536689
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -3284,7 +3284,7 @@
     direction: 1
     limit: null
     progress_value: 0.0085219937
-    score: 2.130498425
+    score-s: 2.130498425
     sign: 1
     status: moderate_progress
     target: null
@@ -3297,7 +3297,7 @@
     direction: 1
     limit: null
     progress_value: -0.0869123212
-    score: -5.0
+    score-s: -5.0
     sign: 1
     status: significant_deterioration
     target: null
@@ -3314,7 +3314,7 @@
     direction: 1
     limit: null
     progress_value: null
-    score: null
+    score-s: null
     sign: null
     status: not_available
     target: null
@@ -3327,7 +3327,7 @@
     direction: 1
     limit: null
     progress_value: null
-    score: null
+    score-s: null
     sign: null
     status: not_available
     target: null
@@ -3348,7 +3348,7 @@
     direction: 1
     limit: null
     progress_value: 0.0271286335
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -3361,7 +3361,7 @@
     direction: 1
     limit: null
     progress_value: -0.0196867219
-    score: -4.921680475
+    score-s: -4.921680475
     sign: 1
     status: significant_deterioration
     target: null
@@ -3374,7 +3374,7 @@
     direction: 1
     limit: 3
     progress_value: 0.0
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -3395,7 +3395,7 @@
     direction: 1
     limit: null
     progress_value: 0.0560916782
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -3408,7 +3408,7 @@
     direction: 1
     limit: null
     progress_value: 0.0361847611
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -3425,7 +3425,7 @@
     direction: 1
     limit: null
     progress_value: 0.0118297294
-    score: 2.95743235
+    score-s: 2.95743235
     sign: 1
     status: significant_progress
     target: null
@@ -3438,7 +3438,7 @@
     direction: 1
     limit: null
     progress_value: -0.0068164279
-    score: -1.7041069749999997
+    score-s: -1.704106975
     sign: 1
     status: moderate_deterioration
     target: null
@@ -3455,7 +3455,7 @@
     direction: 1
     limit: null
     progress_value: -0.0041370899
-    score: -1.034272475
+    score-s: -1.034272475
     sign: 1
     status: moderate_deterioration
     target: null
@@ -3472,7 +3472,7 @@
     direction: 1
     limit: null
     progress_value: -0.0153176367
-    score: -3.829409175
+    score-s: -3.829409175
     sign: 1
     status: significant_deterioration
     target: null
@@ -3493,7 +3493,7 @@
     direction: -1
     limit: null
     progress_value: 0.0082488166
-    score: 2.06220415
+    score-s: 2.06220415
     sign: 1
     status: moderate_progress
     target: null
@@ -3506,7 +3506,7 @@
     direction: -1
     limit: null
     progress_value: 0.0291163058
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -3519,7 +3519,7 @@
     direction: -1
     limit: null
     progress_value: 0.0179840724
-    score: 4.4960181
+    score-s: 4.4960181
     sign: 1
     status: significant_progress
     target: null
@@ -3540,7 +3540,7 @@
     direction: 1
     limit: null
     progress_value: 0.0225471741
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -3557,7 +3557,7 @@
     direction: 1
     limit: null
     progress_value: 0.0384630691
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
@@ -3578,7 +3578,7 @@
     direction: 1
     limit: null
     progress_value: 0.0045841562
-    score: 1.14603905
+    score-s: 1.14603905
     sign: 1
     status: moderate_progress
     target: null
@@ -3595,7 +3595,7 @@
     direction: 1
     limit: 100
     progress_value: 0.1050769458
-    score: 5.0
+    score-s: 5.0
     sign: 1
     status: significant_progress
     target: null
