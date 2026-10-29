@@ -499,6 +499,34 @@ def get_indicator_progress_eustat(self):
     de esa serie sin pasar por el score agregado.
     Con múltiples series, usa el flujo normal (media de scores).
     """
+    # Cortocircuito: progress_score manual con auto_progress_calculation: true.
+    # (diferencia "calculado" de "manual") sin que el motor intente el CAGR.
+    # El status se deriva del score para garantizar consistencia.
+    if self.meta is not None and self.meta.get('auto_progress_calculation') is True:
+        manual_score = self.meta.get('progress_score')
+        if manual_score is not None:
+            manual_score = float(manual_score)
+            indicator_status = get_progress_status_from_score_eustat(manual_score)
+            if self.cache_store is None:
+                self.cache_store = {}
+            self.cache_store[self.inid] = {'progress_status': indicator_status, 'score': manual_score, 'target_variant': 'sin_target'}
+            # Persistir en scores.json igual que el flujo normal
+            import json as _json
+            scores_path = '_site/scores.json'
+            try:
+                if os.path.exists(scores_path):
+                    with open(scores_path, encoding='utf-8') as _f:
+                        _scores = _json.load(_f)
+                else:
+                    _scores = {}
+                _scores[self.inid] = manual_score
+                _scores[f'{self.inid}::target_variant'] = 'sin_target'
+                with open(scores_path, 'w', encoding='utf-8') as _f:
+                    _json.dump(_scores, _f)
+            except Exception:
+                pass
+            return (manual_score, indicator_status)
+
     if self.meta is None or self.meta.get('auto_progress_calculation') is not True:
         indicator_status = self.meta.get('progress_status', '') if self.meta else ''
         result = (None, indicator_status)
