@@ -453,6 +453,14 @@ def get_progress_status_eustat(value, thresholds, target_achieved=False):
         else:                           # < 0%
             return "significant_deterioration"
 
+    def get_progress_calculation_components(self):
+        """Override: renombra 'score' → 'score-s' para distinguir del score-i del indicador."""
+        components = super().get_progress_calculation_components()
+        for serie_data in components.values():
+            if isinstance(serie_data, dict) and 'score' in serie_data:
+                serie_data['score-s'] = serie_data.pop('score')
+        return components
+
 
 def get_target_variant(opts):
     """Detecta si el indicador es sin_target, con_target o mixto.
@@ -509,7 +517,7 @@ def get_indicator_progress_eustat(self):
             indicator_status = get_progress_status_from_score_eustat(manual_score)
             if self.cache_store is None:
                 self.cache_store = {}
-            self.cache_store[self.inid] = {'progress_status': indicator_status, 'score': manual_score, 'target_variant': 'sin_target'}
+            self.cache_store[self.inid] = {'progress_status': indicator_status, 'score-i': manual_score, 'target_variant': 'sin_target'}
             # Persistir en scores.json igual que el flujo normal
             import json as _json
             scores_path = '_site/scores.json'
@@ -532,11 +540,11 @@ def get_indicator_progress_eustat(self):
         result = (None, indicator_status)
         if self.cache_store is None:
             self.cache_store = {}
-        self.cache_store[self.inid] = {'progress_status': indicator_status, 'score': None, 'target_variant': 'sin_target'}
+        self.cache_store[self.inid] = {'progress_status': indicator_status, 'score-i': None, 'target_variant': 'sin_target'}
         return result
 
     if self.cache_store is not None and self.inid in self.cache_store:
-        return (self.cache_store[self.inid]['score'], self.cache_store[self.inid]['progress_status'])
+        return (self.cache_store[self.inid]['score-i'], self.cache_store[self.inid]['progress_status'])
 
     opts = self.get_progress_calculation_options()
     target_variant = get_target_variant(opts)
@@ -558,7 +566,7 @@ def get_indicator_progress_eustat(self):
     if self.cache_store is None:
         self.cache_store = {}
     PROGRESS_DECIMALS = 10
-    self.cache_store[self.inid] = {'progress_status': indicator_status, 'score': floatNone(round(indicator_score, PROGRESS_DECIMALS) if indicator_score is not None else None), 'target_variant': target_variant}
+    self.cache_store[self.inid] = {'progress_status': indicator_status, 'score-i': floatNone(round(indicator_score, PROGRESS_DECIMALS) if indicator_score is not None else None), 'target_variant': target_variant}
 
     # Redondear progress_value y score en cada serie para eliminar ruido de
     # floating point (ej: 0.010000000000000009 → 0.01, 2.5000000000000002 → 2.5)
@@ -567,8 +575,8 @@ def get_indicator_progress_eustat(self):
         if isinstance(serie_data, dict):
             if serie_data.get('progress_value') is not None:
                 serie_data['progress_value'] = round(serie_data['progress_value'], PROGRESS_DECIMALS)
-            if serie_data.get('score') is not None:
-                serie_data['score'] = round(serie_data['score'], PROGRESS_DECIMALS)
+            if serie_data.get('score-s') is not None:
+                serie_data['score-s'] = round(serie_data['score-s'], PROGRESS_DECIMALS)
 
     self.cache_store[self.inid].update(components)
 
@@ -586,8 +594,8 @@ def get_indicator_progress_eustat(self):
         _scores[self.inid] = floatNone(_rounded_score)
         # Score por serie individual (tag = nombre en euskera generado por sdg-build)
         for tag, serie_components in components.items():
-            if isinstance(serie_components, dict) and 'score' in serie_components:
-                _scores[f'{self.inid}::{tag}'] = serie_components['score']
+            if isinstance(serie_components, dict) and 'score-s' in serie_components:
+                _scores[f'{self.inid}::{tag}'] = serie_components['score-s']
         # target_variant para que el site pueda seleccionar el label correcto
         _scores[f'{self.inid}::target_variant'] = target_variant
         with open(scores_path, 'w', encoding='utf-8') as _f:
