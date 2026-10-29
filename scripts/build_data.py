@@ -1228,17 +1228,22 @@ def _has_recent_data(entry, threshold_year=2021):
 def _contributes_to_score_m(entry):
     """True si el indicador aporta su score-i al cálculo del score-m.
 
-    Condición: score-i disponible Y (datos recientes año > 2021 O evaluación
-    manual sin series — como indicadores no estadísticos con progress_score).
+    Condición: score-i disponible Y alguna de estas:
+      - Tiene series con current_year > 2021 (dato reciente)
+      - No tiene series (evaluación manual con progress_score, ej. 1-5-3)
+      - Todas sus series tienen current_year null (indicador no temporal, ej. booleanos)
     """
     if entry.get('score-i') is None:
         return False
-    # Con sub-dicts de serie: exigir año de dato > 2021
-    has_series = any(isinstance(v, dict) for v in entry.values())
-    if has_series:
-        return _has_recent_data(entry)
-    # Sin series (manual con progress_score: evaluación activa del ciclo actual)
-    return True
+    series = [v for v in entry.values() if isinstance(v, dict)]
+    if not series:
+        # Sin series: evaluación manual activa del ciclo
+        return True
+    # Indicadores no temporales (ej. booleanos): current_year siempre null
+    if all(v.get('current_year') is None for v in series):
+        return True
+    # Con series temporales: exigir al menos un año de dato > 2021
+    return _has_recent_data(entry)
 
 
 def calculate_meta_scores(components):
