@@ -1407,9 +1407,9 @@ def generate_progreso_metas_csv(meta_scores, objetivo_scores):
     # Una fila por meta ordenada numéricamente
     def _meta_sort_key(meta_id):
         try:
-            return tuple(int(p) if p.isdigit() else p for p in meta_id.split('-'))
+            return tuple((0, int(p)) if p.isdigit() else (1, p) for p in meta_id.split('-'))
         except Exception:
-            return (999,)
+            return ((999, meta_id),)
 
     rows_metas_ind = []
     for meta, data in sorted(meta_scores.items(), key=lambda x: _meta_sort_key(x[0])):
