@@ -1362,6 +1362,89 @@ def calculate_objetivo_scores(meta_scores):
     return objetivo_scores
 
 
+def generate_progreso_metas_csv(meta_scores, objetivo_scores):
+    """Genera los CSV de progreso de metas y objetivos en _site/:
+
+    - progreso_metas.csv        → distribución de progress_status-m por objetivo y overall
+                                   (misma estructura que progreso.csv pero contando metas)
+    - progreso_metas_individual.csv → una fila por meta con meta, goal, status_m, score_m
+                                       (misma estructura que progreso_indicadores.csv)
+    - progreso_objetivos.csv    → una fila por objetivo con goal, status_o, score_o
+    """
+    import csv as _csv
+
+    os.makedirs('_site', exist_ok=True)
+
+    # ── progreso_metas.csv ──────────────────────────────────────────────────
+    # Agregar metas por objetivo y estado
+    meta_counts = defaultdict(lambda: defaultdict(int))
+    for meta, data in meta_scores.items():
+        obj   = meta.split('-')[0]
+        stm   = data.get('progress_status-m', 'noevaluado')
+        meta_counts[obj][stm]       += 1
+        meta_counts['overall'][stm] += 1
+
+    rows_metas = []
+    goal_order = ['overall'] + sorted(
+        [g for g in meta_counts if g != 'overall'],
+        key=lambda x: int(x) if x.isdigit() else 999
+    )
+    for goal in goal_order:
+        statuses = meta_counts[goal]
+        total    = sum(statuses.values())
+        for status, count in statuses.items():
+            rows_metas.append({
+                'goal': goal, 'status': status,
+                'count': count, 'percentage': count / total * 100, 'total': total
+            })
+
+    with open('_site/progreso_metas.csv', 'w', newline='', encoding='utf-8') as f:
+        writer = _csv.DictWriter(f, fieldnames=['goal', 'status', 'count', 'percentage', 'total'])
+        writer.writeheader()
+        writer.writerows(rows_metas)
+
+    # ── progreso_metas_individual.csv ───────────────────────────────────────
+    # Una fila por meta ordenada numéricamente
+    def _meta_sort_key(meta_id):
+        try:
+            return tuple(int(p) if p.isdigit() else p for p in meta_id.split('-'))
+        except Exception:
+            return (999,)
+
+    rows_metas_ind = []
+    for meta, data in sorted(meta_scores.items(), key=lambda x: _meta_sort_key(x[0])):
+        rows_metas_ind.append({
+            'meta':   meta,
+            'goal':   meta.split('-')[0],
+            'status': data.get('progress_status-m', 'noevaluado'),
+            'score':  data.get('score-m'),
+        })
+
+    with open('_site/progreso_metas_individual.csv', 'w', newline='', encoding='utf-8') as f:
+        writer = _csv.DictWriter(f, fieldnames=['meta', 'goal', 'status', 'score'])
+        writer.writeheader()
+        writer.writerows(rows_metas_ind)
+
+    # ── progreso_objetivos.csv ──────────────────────────────────────────────
+    # Una fila por objetivo con su score-o y status-o
+    rows_objs = []
+    for obj, data in sorted(objetivo_scores.items(), key=lambda x: int(x[0]) if x[0].isdigit() else 999):
+        rows_objs.append({
+            'goal':   obj,
+            'status': data.get('progress_status-o', 'noevaluado'),
+            'score':  data.get('score-o'),
+        })
+
+    with open('_site/progreso_objetivos.csv', 'w', newline='', encoding='utf-8') as f:
+        writer = _csv.DictWriter(f, fieldnames=['goal', 'status', 'score'])
+        writer.writeheader()
+        writer.writerows(rows_objs)
+
+    print(f'[EUSTAT] >>> progreso_metas.csv: {len(rows_metas)} filas | '
+          f'progreso_metas_individual.csv: {len(rows_metas_ind)} metas | '
+          f'progreso_objetivos.csv: {len(rows_objs)} objetivos <<<')
+
+
 def build_meta_objetivo_scores():
     """Post-build: lee indicator_calculation_components.yml (plano), calcula score-m y score-o,
     y lo reescribe como estructura jerárquica anidada objetivo → meta → indicador:
@@ -1422,6 +1505,9 @@ def build_meta_objetivo_scores():
 
     with open(components_path, 'w', encoding='utf-8') as f:
         yaml.dump(nested, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
+
+    # Generar CSVs de progreso de metas y objetivos
+    generate_progreso_metas_csv(meta_scores, objetivo_scores)
 
     # Log resumen
     metas_calc = sum(1 for d in meta_scores.values() if d['score-m'] is not None)
