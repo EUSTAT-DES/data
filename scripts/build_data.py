@@ -1273,6 +1273,8 @@ def calculate_meta_scores(components):
             continue
         if inid.count('-') < 2:
             continue  # es una clave de meta/objetivo añadida anteriormente
+        if not inid[0].isdigit():
+            continue  # excluir indicadores no-ODS (OCECA y similares)
         meta = _meta_id(inid)
         metas[meta].append((inid, entry))
 
@@ -1484,6 +1486,8 @@ def build_meta_objetivo_scores():
     for inid, entry in sorted(flat.items(), key=lambda x: _num_sort(x[0])):
         if not isinstance(entry, dict) or inid.count('-') < 2:
             continue  # saltar entradas no-indicador que pudieran quedar de builds previos
+        if not inid[0].isdigit():
+            continue  # excluir indicadores no-ODS (OCECA y similares)
         obj  = _objetivo_id(inid)
         meta = _meta_id(inid)
 
