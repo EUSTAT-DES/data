@@ -1,12 +1,12 @@
 goal,status,count,percentage,total
-overall,significant_deterioration,9,5.172413793103448,174
-overall,moderate_progress,10,5.747126436781609,174
-overall,noevaluado,38,21.839080459770116,174
-overall,significant_progress,47,27.011494252873565,174
-overall,no_progress,8,4.597701149425287,174
-overall,notstarted,49,28.160919540229884,174
-overall,notapplicable,8,4.597701149425287,174
-overall,moderate_deterioration,5,2.8735632183908044,174
+overall,significant_deterioration,9,5.325443786982249,169
+overall,moderate_progress,10,5.9171597633136095,169
+overall,noevaluado,33,19.526627218934912,169
+overall,significant_progress,47,27.810650887573964,169
+overall,no_progress,8,4.733727810650888,169
+overall,notstarted,49,28.994082840236686,169
+overall,notapplicable,8,4.733727810650888,169
+overall,moderate_deterioration,5,2.9585798816568047,169
 1,significant_deterioration,2,28.57142857142857,7
 1,moderate_progress,1,14.285714285714285,7
 1,noevaluado,1,14.285714285714285,7
@@ -85,4 +85,3 @@ overall,moderate_deterioration,5,2.8735632183908044,174
 17,noevaluado,2,10.526315789473683,19
 17,notstarted,7,36.84210526315789,19
 17,significant_progress,4,21.052631578947366,19
-OCECA,noevaluado,5,100.0,5
