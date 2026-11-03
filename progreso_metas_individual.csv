@@ -6,8 +6,8 @@ meta,goal,status,score
 1-5,1,significant_progress,4.494229
 1-a,1,no_progress,0.178380775
 1-b,1,notstarted,
-2-1,2,moderate_deterioration,-2.4748006069
-2-2,2,moderate_deterioration,-1.207988675
+2-1,2,moderate_progress,1.2625996965
+2-2,2,moderate_progress,0.8613408833
 2-3,2,noevaluado,
 2-4,2,significant_progress,2.7545705281
 2-5,2,notstarted,
@@ -65,7 +65,7 @@ meta,goal,status,score
 8-4,8,noevaluado,
 8-5,8,significant_progress,4.9815245293
 8-6,8,significant_progress,5.0
-8-7,8,noevaluado,
+8-7,8,significant_progress,5.0
 8-8,8,noevaluado,
 8-9,8,noevaluado,
 8-10,8,noevaluado,
@@ -97,7 +97,7 @@ meta,goal,status,score
 11-6,11,significant_progress,3.4691674125
 11-7,11,significant_deterioration,-5.0
 11-a,11,significant_progress,5.0
-11-b,11,significant_progress,2.976916
+11-b,11,significant_progress,3.988458
 11-c,11,notstarted,
 12-1,12,significant_progress,5.0
 12-2,12,noevaluado,
@@ -110,8 +110,8 @@ meta,goal,status,score
 12-a,12,significant_progress,5.0
 12-b,12,notstarted,
 12-c,12,notstarted,
-13-1,13,significant_progress,3.988458
-13-2,13,significant_progress,4.6880566332
+13-1,13,significant_progress,4.3256386667
+13-2,13,significant_progress,4.8440283166
 13-3,13,notstarted,
 13-a,13,notapplicable,
 13-b,13,notapplicable,
