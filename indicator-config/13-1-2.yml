@@ -26,7 +26,8 @@ national_geographical_coverage: ''
 page_content: GRAFICO.1-5-3-contenido
 permalink: ''
 precision: []
-progress_status: significant_progress
+auto_progress_calculation: true
+progress_score: 5.0
 reporting_status: complete
 sort: ''
 standalone: false
