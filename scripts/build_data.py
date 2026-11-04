@@ -1217,11 +1217,11 @@ def _objetivo_id(inid):
     return inid.split('-')[0]
 
 def _has_recent_data(entry, threshold_year=2021):
-    """True si alguna serie del indicador tiene current_year > threshold_year."""
+    """True si alguna serie del indicador tiene current_year >= threshold_year."""
     for v in entry.values():
         if isinstance(v, dict):
             cy = v.get('current_year')
-            if cy is not None and float(cy) > threshold_year:
+            if cy is not None and float(cy) >= threshold_year:
                 return True
     return False
 
@@ -1307,7 +1307,7 @@ def calculate_meta_scores(components):
                          if entry.get('progress_status') in _CALCULADOS)
         pct = calculados / len(aplicables)
 
-        if pct <= 0.5:
+        if pct < 0.5:
             meta_scores[meta] = {'progress_status-m': 'noevaluado', 'score-m': None}
             continue
 
