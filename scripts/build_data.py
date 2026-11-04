@@ -881,6 +881,9 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
         - opts ordenados por su posición en progress_calculation_options
         - YAML series_tags ordenados en el mismo orden (inserción durante grouped_score)
         - opts_list[i].series == serie_code → scores[series_tags[i]]['score-s']
+
+        Caso especial: si ningún opt especifica 'series' (cálculo sobre headline/total),
+        se usa el único sub-dict del YAML independientemente del código del CSV.
         """
         parts   = inid.split('-')
         obj     = parts[0]
@@ -900,11 +903,19 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
         if serie_code is not None:
             # Multi-serie: encontrar posición del código en los opts
             series_opts = [o for o in opts_list if isinstance(o, dict) and not o.get('group')]
+            matched = False
             for i, opt in enumerate(series_opts):
                 if opt.get('series') == serie_code:
                     if i < len(series_tags):
                         score_s = ind_data[series_tags[i]].get('score-s')
+                    matched = True
                     break
+            # Fallback: si NINGÚN opt especifica 'series' (cálculo sobre total/headline),
+            # el YAML tiene un único sub-dict y cualquier código del CSV apunta a él.
+            # No aplicar si algún opt tiene series explícita (ese código del CSV
+            # simplemente no se calcula → vacío es correcto).
+            if not matched and series_tags and all(not o.get('series') for o in series_opts):
+                score_s = ind_data[series_tags[0]].get('score-s')
         elif series_tags:
             # Serie única: primer (y único) sub-dict
             score_s = ind_data[series_tags[0]].get('score-s')
