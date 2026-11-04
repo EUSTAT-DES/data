@@ -1,6 +1,6 @@
 '1':
-  progress_status-o: no_progress
-  score-o: -0.0833056486
+  progress_status-o: moderate_progress
+  score-o: 0.7345415913
   1-1:
     progress_status-m: significant_deterioration
     score-m: -5.0
@@ -92,8 +92,8 @@
       score-i: 2.4545811875
       target_variant: sin_target
   1-4:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: significant_progress
+    score-m: 4.8237777911
     1-4-1:
       1-4-1 / Bainugela duten etxebizitzen proportzioa:
         base_value: 99.6
@@ -245,7 +245,7 @@
       target_variant: sin_target
 '2':
   progress_status-o: moderate_progress
-  score-o: 1.6261703693
+  score-o: 0.9045363891
   2-1:
     progress_status-m: moderate_progress
     score-m: 1.2625996965
@@ -333,8 +333,8 @@
       score-i: -2.0670534
       target_variant: sin_target
   2-3:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: moderate_progress
+    score-m: 0.7529639874
     2-3-1:
       2-3-1 / Elikagaien ekoizle handien produktibitatea:
         base_value: 43924.4
@@ -487,8 +487,8 @@
       score-i: null
       target_variant: sin_target
   2-a:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: moderate_deterioration
+    score-m: -1.10879315
     2-a-1:
       progress_status: noevaluado
       score-i: null
@@ -526,7 +526,7 @@
       target_variant: sin_target
 '3':
   progress_status-o: moderate_progress
-  score-o: 1.8706713244
+  score-o: 1.9268250953
   3-1:
     progress_status-m: significant_progress
     score-m: 5.0
@@ -774,8 +774,8 @@
       score-i: 0.4249129
       target_variant: sin_target
   3-5:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: moderate_deterioration
+    score-m: -0.5848121
     3-5-1:
       progress_status: noevaluado
       score-i: null
@@ -818,8 +818,8 @@
       score-i: -0.2404637396
       target_variant: con_target
   3-7:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: significant_progress
+    score-m: 5.0
     3-7-1:
       progress_status: noevaluado
       score-i: null
@@ -1000,7 +1000,7 @@
       target_variant: sin_target
 '4':
   progress_status-o: significant_progress
-  score-o: 2.860611088
+  score-o: 3.2171759067
   4-1:
     progress_status-m: significant_progress
     score-m: 5.0
@@ -1030,8 +1030,8 @@
       score-i: 5.0
       target_variant: con_target
   4-2:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: significant_progress
+    score-m: 5.0
     4-2-1:
       progress_status: notstarted
       score-i: null
@@ -1228,7 +1228,7 @@
       target_variant: sin_target
 '5':
   progress_status-o: moderate_progress
-  score-o: 1.235055982
+  score-o: 1.7729051275
   5-1:
     progress_status-m: significant_progress
     score-m: 3.75
@@ -1326,8 +1326,8 @@
       score-i: -5.0
       target_variant: sin_target
   5-3:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: significant_progress
+    score-m: 5.0
     5-3-1:
       5-3-1:
         base_value: 0.001
@@ -1548,7 +1548,7 @@
       target_variant: sin_target
 '6':
   progress_status-o: significant_progress
-  score-o: 4.7475014665
+  score-o: 4.7980011732
   6-1:
     progress_status-m: significant_progress
     score-m: 5.0
@@ -1664,8 +1664,8 @@
       score-i: null
       target_variant: sin_target
   6-5:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: significant_progress
+    score-m: 5.0
     6-5-1:
       progress_status: notstarted
       score-i: null
@@ -1843,7 +1843,7 @@
       target_variant: sin_target
 '8':
   progress_status-o: significant_progress
-  score-o: 2.7790496174
+  score-o: 2.6528369925
   8-1:
     progress_status-m: significant_deterioration
     score-m: -5.0
@@ -1892,8 +1892,8 @@
       score-i: null
       target_variant: sin_target
   8-4:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: significant_progress
+    score-m: 5.0
     8-4-1:
       progress_status: notstarted
       score-i: null
@@ -2023,8 +2023,8 @@
       score-i: 5.0
       target_variant: sin_target
   8-8:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: moderate_progress
+    score-m: 1.8103001625
     8-8-1:
       8-8-1 / Lesio okupazional ez-hilgarriak:
         base_value: 3374.8
@@ -2060,8 +2060,8 @@
       score-i: null
       target_variant: sin_target
   8-9:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: moderate_deterioration
+    score-m: -1.4347507875
     8-9-1:
       8-9-1 / Turismoak sortutako BPG, BPG osoaren proportzioan:
         base_value: 6.3
@@ -2123,8 +2123,8 @@
       score-i: null
       target_variant: sin_target
   8-10:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: significant_progress
+    score-m: 4.4785228462
     8-10-1:
       progress_status: noevaluado
       score-i: null
@@ -2200,8 +2200,8 @@
       score-i: 1.692773175
       target_variant: sin_target
 '9':
-  progress_status-o: significant_progress
-  score-o: 3.2991624844
+  progress_status-o: moderate_progress
+  score-o: 2.2807951045
   9-1:
     progress_status-m: significant_progress
     score-m: 5.0
@@ -2290,8 +2290,8 @@
       score-i: -1.034272475
       target_variant: sin_target
   9-3:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: significant_deterioration
+    score-m: -3.829409175
     9-3-1:
       9-3-1:
         base_value: 23.9
@@ -2449,7 +2449,7 @@
       target_variant: sin_target
 '10':
   progress_status-o: moderate_deterioration
-  score-o: -2.5
+  score-o: -1.8847675167
   10-1:
     progress_status-m: noevaluado
     score-m: null
@@ -2498,8 +2498,8 @@
       score-i: -5.0
       target_variant: sin_target
   10-4:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: moderate_deterioration
+    score-m: -0.65430255
     10-4-1:
       10-4-1:
         base_value: 48.2
@@ -2590,7 +2590,7 @@
       target_variant: sin_target
 '11':
   progress_status-o: significant_progress
-  score-o: 3.2082322018
+  score-o: 3.4322031766
   11-1:
     progress_status-m: significant_progress
     score-m: 5.0
@@ -2658,8 +2658,8 @@
       score-i: null
       target_variant: sin_target
   11-3:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: significant_progress
+    score-m: 5.0
     11-3-1:
       progress_status: notstarted
       score-i: null
@@ -2895,7 +2895,7 @@
       target_variant: sin_target
 '12':
   progress_status-o: significant_progress
-  score-o: 3.57300239
+  score-o: 3.810835325
   12-1:
     progress_status-m: significant_progress
     score-m: 5.0
@@ -2917,8 +2917,8 @@
       score-i: 5.0
       target_variant: con_target
   12-2:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: significant_progress
+    score-m: 5.0
     12-2-1:
       progress_status: notstarted
       score-i: null
@@ -3275,10 +3275,10 @@
       target_variant: sin_target
 '15':
   progress_status-o: significant_progress
-  score-o: 3.735758225
+  score-o: 3.0334047388
   15-1:
     progress_status-m: no_progress
-    score-m: -0.0569671
+    score-m: 0.1539363938
     15-1-1:
       15-1-1 / Baso-azalera, azalera osoaren proportzioan:
         base_value: 54.9
@@ -3397,8 +3397,8 @@
       score-i: 5.0
       target_variant: sin_target
   15-4:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: no_progress
+    score-m: 0.0130873
     15-4-1:
       progress_status: noevaluado
       score-i: null
@@ -3490,8 +3490,8 @@
       score-i: null
       target_variant: sin_target
 '16':
-  progress_status-o: no_progress
-  score-o: 0.0507617578
+  progress_status-o: moderate_progress
+  score-o: 0.7282856163
   16-1:
     progress_status-m: moderate_deterioration
     score-m: -1.4499018937
@@ -3696,8 +3696,8 @@
       score-i: 3.30589785
       target_variant: sin_target
   16-7:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: moderate_deterioration
+    score-m: -0.8333333333
     16-7-1:
       16-7-1 / Administrazio publikoko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez:
         base_value: 1.16
@@ -3773,8 +3773,8 @@
       score-i: 5.0
       target_variant: con_target
   16-10:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: significant_progress
+    score-m: 5.0
     16-10-1:
       progress_status: significant_progress
       score-i: 5.0
@@ -3812,7 +3812,7 @@
       target_variant: sin_target
 '17':
   progress_status-o: significant_progress
-  score-o: 3.7389352899
+  score-o: 3.9190873913
   17-1:
     progress_status-m: moderate_progress
     score-m: 0.7828912937
@@ -4125,8 +4125,8 @@
       score-i: 5.0
       target_variant: con_target
   17-19:
-    progress_status-m: noevaluado
-    score-m: null
+    progress_status-m: significant_progress
+    score-m: 5.0
     17-19-1:
       progress_status: notstarted
       score-i: null
