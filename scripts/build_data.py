@@ -809,11 +809,12 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
     """Genera tabla_resumen.csv: una fila por serie (o por indicador si tiene serie única).
     ...
     """
-    # --- Cargar scores.json generado durante el build ---
-    scores = {}
+    # --- Cargar indicator_calculation_components.yml (nested, generado por build_meta_objetivo_scores) ---
+    # Contiene score-s por serie, score-i por indicador, score-m por meta y score-o por objetivo.
+    components_nested = {}
     try:
-        with open('_site/scores.json', encoding='utf-8') as f:
-            scores = json.load(f)
+        with open('indicator_calculation_components.yml', encoding='utf-8') as f:
+            components_nested = yaml.safe_load(f) or {}
     except Exception:
         pass
 
@@ -831,8 +832,6 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
     t_grafico    = load_yaml(f'{translations_dir}/GRAFICO.yml')
     t_data       = load_yaml(f'{translations_dir}/data.yml')
     t_fuente     = load_yaml(f'{translations_dir}/FUENTE.yml')
-    # data.yml en euskera para resolver nombres de serie (el build usa eu por defecto)
-    t_data_eu    = load_yaml('translations/eu/data.yml')
 
     def goal_name(num):
         """Nombre del objetivo — clave '{num}-title' en global_goals.yml."""
@@ -874,6 +873,44 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
             return t_fuente.get(key[len('FUENTE.'):], key)
         return key or ''
 
+    def get_scores(inid, serie_code, opts_list):
+        """Obtiene score-s/i/m/o desde el YAML nested de components.
+
+        Para score-s: matching por posición entre config opts y YAML series_tags.
+        Esto evita el problema de truncación del nombre (122 chars en get_series_tag).
+        - opts ordenados por su posición en progress_calculation_options
+        - YAML series_tags ordenados en el mismo orden (inserción durante grouped_score)
+        - opts_list[i].series == serie_code → scores[series_tags[i]]['score-s']
+        """
+        parts   = inid.split('-')
+        obj     = parts[0]
+        meta    = '-'.join(parts[:2])
+        obj_data  = components_nested.get(obj, {})
+        meta_data = obj_data.get(meta, {})
+        ind_data  = meta_data.get(inid, {})
+
+        score_i = ind_data.get('score-i')
+        score_m = meta_data.get('score-m')
+        score_o = obj_data.get('score-o')
+
+        # Series sub-dicts: claves cuyo valor es un dict (excluye progress_status, score-i, etc.)
+        series_tags = [k for k, v in ind_data.items() if isinstance(v, dict)]
+
+        score_s = None
+        if serie_code is not None:
+            # Multi-serie: encontrar posición del código en los opts
+            series_opts = [o for o in opts_list if isinstance(o, dict) and not o.get('group')]
+            for i, opt in enumerate(series_opts):
+                if opt.get('series') == serie_code:
+                    if i < len(series_tags):
+                        score_s = ind_data[series_tags[i]].get('score-s')
+                    break
+        elif series_tags:
+            # Serie única: primer (y único) sub-dict
+            score_s = ind_data[series_tags[0]].get('score-s')
+
+        return score_s, score_i, score_m, score_o
+
     def bool_val(v):
         if isinstance(v, bool):
             return 'si' if v else 'no'
@@ -913,7 +950,7 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
         'AÑO INICIAL', 'PERIODICIDAD', 'TEXTO OCECA',
         'DIRECCIÓN DESEADA', 'PROGRESO AUTOMÁTICO',
         'AÑO BASE PROGRESO', 'ÚLTIMO AÑO', 'ÚLTIMO DATO',
-        'TARGET', 'LIMIT', 'SCORE',
+        'TARGET', 'LIMIT', 'SCORE-S', 'SCORE-I', 'SCORE-M', 'SCORE-O',
         'FECHA ÚLTIMA ACTUALIZACIÓN DATOS',
     ]
 
@@ -1161,23 +1198,13 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
                 row['ÚLTIMO DATO']         = value_last_prog
                 row['TARGET']              = target_val
                 row['LIMIT']               = limit_val
-                # SCORE: por serie si existe, si no el agregado del indicador.
-                # El tag en scores.json usa "{inid} / {nombre_serie_en_euskera}" (idioma del build).
-                # Resolvemos el código de serie a nombre euskera via data.yml de eu.
-                serie_score = ''
-                if serie_code:
-                    serie_label_eu = t_data_eu.get(serie_code, serie_code)
-                    tag_key = f'{inid_dash}::{inid_dash} / {serie_label_eu}'
-                    serie_score = scores.get(tag_key, '')
-                    # Indicadores booleanos: el tag se construye con el código de serie
-                    # (self.series viene del indicator-config, no del CSV traducido)
-                    # y lleva el sufijo / BOOL_YES_NO añadido por get_series_tag().
-                    if serie_score == '':
-                        tag_key_bool = f'{inid_dash}::{inid_dash} / {serie_code} / BOOL_YES_NO'
-                        serie_score = scores.get(tag_key_bool, '')
-                if serie_score == '':
-                    serie_score = scores.get(inid_dash, '')
-                row['SCORE'] = serie_score
+                # Scores desde indicator_calculation_components.yml (nested).
+                # Matching por posición opts→YAML 
+                score_s, score_i, score_m, score_o = get_scores(inid_dash, serie_code, opts)
+                row['SCORE-S'] = '' if score_s is None else score_s
+                row['SCORE-I'] = '' if score_i is None else score_i
+                row['SCORE-M'] = '' if score_m is None else score_m
+                row['SCORE-O'] = '' if score_o is None else score_o
             else:
                 row['PROGRESO AUTOMÁTICO'] = 'no'
 
@@ -1621,11 +1648,13 @@ try:
 
     print(f"[EUSTAT] >>> progreso_indicadores.csv generado: {len(indicator_rows_sorted)} filas <<<")
 
-    # Generar tabla_resumen.csv: una fila por serie con todos los campos acordados
-    generate_tabla_resumen(all_meta)
-
-    # Calcular scores de meta y objetivo (post-build)
+    # Calcular scores de meta y objetivo (post-build) — ANTES de tabla_resumen
+    # para que indicator_calculation_components.yml esté en formato nested cuando se lea
     build_meta_objetivo_scores()
+
+    # Generar tabla_resumen.csv: una fila por serie con todos los campos acordados
+    # Lee scores desde indicator_calculation_components.yml (nested) en lugar de scores.json
+    generate_tabla_resumen(all_meta)
 
     # Inyectar tarjeta de descarga de tabla_resumen en el index.html de documentación
     try:
