@@ -920,6 +920,11 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
             # Serie única: primer (y único) sub-dict
             score_s = ind_data[series_tags[0]].get('score-s')
 
+        # Fallback para indicadores con score manual (progress_score en indicator-config):
+        # no generan series sub-dict en el YAML pero score-i = progress_score → score-s = score-i
+        if score_s is None and not series_tags and score_i is not None:
+            score_s = score_i
+
         return score_s, score_i, score_m, score_o
 
     def bool_val(v):
@@ -1036,6 +1041,13 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
             row = {f: '' for f in FIELDNAMES}
             row.update(base)
             row['REPORTING_STATUS'] = reporting_status
+            # SCORE-M y SCORE-O: aplican a TODAS las series, incluidas notstarted/notapplicable
+            _od_e = components_nested.get(parts[0], {})
+            _md_e = _od_e.get('-'.join(parts[:2]), {})
+            _sm_e = _md_e.get('score-m')
+            _so_e = _od_e.get('score-o')
+            row['SCORE-M'] = '' if _sm_e is None else _sm_e
+            row['SCORE-O'] = '' if _so_e is None else _so_e
             rows.append(row)
             continue
 
@@ -1211,13 +1223,18 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
                 row['LIMIT']               = limit_val
                 # Scores desde indicator_calculation_components.yml (nested).
                 # Matching por posición opts→YAML 
-                score_s, score_i, score_m, score_o = get_scores(inid_dash, serie_code, opts)
+                score_s, score_i, _, _ = get_scores(inid_dash, serie_code, opts)
                 row['SCORE-S'] = '' if score_s is None else score_s
                 row['SCORE-I'] = '' if score_i is None else score_i
-                row['SCORE-M'] = '' if score_m is None else score_m
-                row['SCORE-O'] = '' if score_o is None else score_o
             else:
                 row['PROGRESO AUTOMÁTICO'] = 'no'
+
+            # SCORE-M y SCORE-O: aplican a TODAS las series de un indicador complete,
+            # independientemente de si tienen cálculo automático de progreso.
+            _od_s = components_nested.get(parts[0], {})
+            _md_s = _od_s.get('-'.join(parts[:2]), {})
+            row['SCORE-M'] = '' if _md_s.get('score-m') is None else _md_s.get('score-m')
+            row['SCORE-O'] = '' if _od_s.get('score-o') is None else _od_s.get('score-o')
 
             rows.append(row)
 
