@@ -1227,7 +1227,15 @@ def generate_tabla_resumen(all_meta, config_dir='indicator-config', data_dir='da
                 row['SCORE-S'] = '' if score_s is None else score_s
                 row['SCORE-I'] = '' if score_i is None else score_i
             else:
-                row['PROGRESO AUTOMÁTICO'] = 'no'
+                if auto_prog:
+                    # Indicador no estadístico con score automático (p.ej. progress_score manual):
+                    # no tiene dirección/target/año pero sí score-s y score-i.
+                    row['PROGRESO AUTOMÁTICO'] = 'si'
+                    score_s, score_i, _, _ = get_scores(inid_dash, serie_code, opts)
+                    row['SCORE-S'] = '' if score_s is None else score_s
+                    row['SCORE-I'] = '' if score_i is None else score_i
+                else:
+                    row['PROGRESO AUTOMÁTICO'] = 'no'
 
             # SCORE-M y SCORE-O: aplican a TODAS las series de un indicador complete,
             # independientemente de si tienen cálculo automático de progreso.
