@@ -1,7 +1,7 @@
 exploring_data_sources: Datu-iturriak arakatzen
 overall_reporting_status: Egoera orokorra
 reported_online: Online informatua
-reporting_status: Jarraipen txostena
+reporting_status: Aurrerapen estatistikak
 statistics_in_progress: Lanean
 no_data_available: Ez dago daturik eskuragarri
 not_applicable: Ez aplikagarria
@@ -17,11 +17,13 @@ disaggregation_status_by_field: 'Desagregazioa %field bidez'
 not_specified: Ez da zehazten
 reported: Informatua
 description: |
-  Jarraipen txostenak Euskal Autonomia Erkidegoan Garapen Jasangarrirako Helburuak (GJH) lortzeko egindako aurrerapenaren deskribapen orokorra ematen du.
-
+  2030 Agendako adierazleen eta xedeen aurrerapena modu jarraian ebaluatzen da eta jarraipen horren emaitza une oro ikus daiteke 17 Helburuetako bakoitzari dagokion orrian. 
+  Atal honetan, ebaluazio jarrai horren emaitzak laburbilduz,  Euskal Autonomia Erkidegoan Garapen Jasangarrirako Helburuak lortzeko egindako aurrerapena deskribatzen da.
+  Helburuen aurrerapena atalak Garapen Jasangarrirako 17 helburuetako bakoitza zein aurrerapen mailatan dagoen aurkezten du, eta helburu bakoitzaren irudian klik eginda, helburuko xede eta adierazleen aurrerapen datuak ikus daitezke.
+  Xedeen aurrerapena atalak 2030 Agendako 169 xedeen artean aurrerapen egoera desberdinetan dauden xedeen kopuruak azaltzen ditu eta helburukako datuak ikus daitezke   xehetasunetara jota.
+  Adierazleen aurrerapena atalak 2030 Agendan barneratutako adierazle guztien artean aurrerapen egoera desberdinetan dauden adierazleen kopuruak eskaintzen ditu eta helburukako datuak ikus daitezke xehetasunetara jota.
   Aurrerapena ebaluatzeko prozedurari buruz gehiago jakiteko, ikus <a href="BASEURL/metodologia/">Garapen Jasangarrirako Helburuen aurrerapenaren neurketa</a>.
-
-progress_status: <b>Jarraipena</b>
+progress_status: <b>Aurrerapena</b>
 progress_not_available: Ez dago daturik
 progress_challenges_remain: Erronkek jarraitzen dute
 progress_approaching_target: Xedera hurbilduz
@@ -56,5 +58,5 @@ moderate_deterioration_con_target: Aurrerapen eskasegia xedea lortzeko
 significant_deterioration_sin_target: Atzerakada nabarmena
 significant_deterioration_mixto: Atzerakada nabarmena / Atzerakada xedearekiko
 significant_deterioration_con_target: Atzerakada xedearekiko
-download_progress_csv: Jarraipen txostenaren datuak deskargatu (.csv)
-print_page: Jarraipen txostena inprimatu
+download_progress_csv: Aurrerapen estatistiken datuak deskargatu (.csv)
+print_page: Aurrerapen estatistikak inprimatu
