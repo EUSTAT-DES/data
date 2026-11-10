@@ -18,17 +18,22 @@ not_specified: Ez da zehazten
 reported: Informatua
 description: |
   2030 Agendako adierazleen eta xedeen aurrerapena modu jarraian ebaluatzen da eta jarraipen horren emaitza une oro ikus daiteke 17 Helburuetako bakoitzari dagokion orrian. 
+  
   Atal honetan, ebaluazio jarrai horren emaitzak laburbilduz,  Euskal Autonomia Erkidegoan Garapen Jasangarrirako Helburuak lortzeko egindako aurrerapena deskribatzen da.
-  Helburuen aurrerapena atalak Garapen Jasangarrirako 17 helburuetako bakoitza zein aurrerapen mailatan dagoen aurkezten du, eta helburu bakoitzaren irudian klik eginda, helburuko xede eta adierazleen aurrerapen datuak ikus daitezke.
-  Xedeen aurrerapena atalak 2030 Agendako 169 xedeen artean aurrerapen egoera desberdinetan dauden xedeen kopuruak azaltzen ditu eta helburukako datuak ikus daitezke   xehetasunetara jota.
-  Adierazleen aurrerapena atalak 2030 Agendan barneratutako adierazle guztien artean aurrerapen egoera desberdinetan dauden adierazleen kopuruak eskaintzen ditu eta helburukako datuak ikus daitezke xehetasunetara jota.
+  
+  "Helburuen aurrerapena" atalak Garapen Jasangarrirako 17 helburuetako bakoitza zein aurrerapen mailatan dagoen aurkezten du, eta helburu bakoitzaren irudian klik eginda, helburuko xede eta adierazleen aurrerapen datuak ikus daitezke.
+  
+  "Xedeen aurrerapena" atalak 2030 Agendako 169 xedeen artean aurrerapen egoera desberdinetan dauden xedeen kopuruak azaltzen ditu eta helburukako datuak ikus daitezke   xehetasunetara jota.
+  
+  "Adierazleen aurrerapena" atalak 2030 Agendan barneratutako adierazle guztien artean aurrerapen egoera desberdinetan dauden adierazleen kopuruak eskaintzen ditu eta helburukako datuak ikus daitezke xehetasunetara jota.
+  
   Aurrerapena ebaluatzeko prozedurari buruz gehiago jakiteko, ikus <a href="BASEURL/metodologia/">Garapen Jasangarrirako Helburuen aurrerapenaren neurketa</a>.
 progress_status: <b>Aurrerapena</b>
 progress_not_available: Ez dago daturik
 progress_challenges_remain: Erronkek jarraitzen dute
 progress_approaching_target: Xedera hurbilduz
 progress_target_achieved: Xedea lortuta
-progress_help: Nola goaz 2030eko helburuari dagokionez?
+progress_help: Garapen Jasangarrirako Helburuen aurrerapenaren neurketa
 alcanzado: Xedea lortuta edo lortzeko bidean
 en_progreso: Arrazoizko aurrerapena, baina bizkortu egin behar da
 retroceso: Geldialdia edo atzerakada
