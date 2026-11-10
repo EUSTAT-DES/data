@@ -1,5 +1,5 @@
 exploring_data_sources: Exploring data sources
-reporting_status: Monitoring report
+reporting_status: Progress statistics
 overall_reporting_status: Overall progress status
 reported_online: Reported online
 statistics_in_progress: Statistics in progress
@@ -18,17 +18,23 @@ disaggregation_status_by_field: Disaggregation by %field
 not_specified: Not specified
 reported: Reported
 description: |
+  Progress on the indicators and targets of the 2030 Agenda is evaluated on an ongoing basis, and the results of this monitoring are accessible on the page dedicated to each of the 17 Goals.
   
-  The monitoring report provides an overview of progress toward achieving the Sustainable Development Goals (SDGs) in the Basque Country.
-
+  This section summarizes the results of that evaluation, describing the progress made toward achieving the Sustainable Development Goals in the Autonomous Community of the Basque Country.
+  
+  The "Goals progress" section presents the status of each of the 17 Sustainable Development Goals; by clicking on the image for a specific goal, data on the progress of its associated targets and indicators is shown.
+  
+  The "Targets progress" section shows how many of the 169 targets that make up the 2030 Agenda fall into each of the progress categories, and allows for a more detailed view of the data by goal.
+  
+  The "Indicators progress" section shows the number of indicators at different stages of progress and allows for a more detailed view of the data by goal.
+  
   To learn more about the methodology used to assess progress, see <a href="BASEURL/en/metodologia/">Measuring Progress on the Sustainable Development Goals</a>.
-
 progress_status: <b>Progress</b>
 progress_not_available: Not available
 progress_challenges_remain: Challenges remain
 progress_approaching_target: Approaching target
 progress_target_achieved: Target achieved
-progress_help: How are we doing against the 2030 target?
+progress_help: Measuring Progress on the Sustainable Development Goals
 # Nuevos estados de progreso
 alcanzado: On track or target met
 en_progreso: Fair progress but acceleration needed
@@ -59,5 +65,5 @@ moderate_deterioration_con_target: Insufficient progress towards target
 significant_deterioration_sin_target: Significant regression
 significant_deterioration_mixto: Significant regression / Movement away from target
 significant_deterioration_con_target: Movement away from target
-download_progress_csv: Download monitoring report data (.csv)
-print_page: Print monitoring report
+download_progress_csv: Download progress statistics data (.csv)
+print_page: Print progress statistics

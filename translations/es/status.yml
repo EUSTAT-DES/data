@@ -1,7 +1,7 @@
 exploring_data_sources: Explorando fuentes de datos
 overall_reporting_status: Estado del progreso
 reported_online: Disponible
-reporting_status: Informe de seguimiento
+reporting_status: Estadísticas de progreso
 statistics_in_progress: Explorando fuentes
 no_data_available: Datos no disponibles
 not_applicable: No aplicable
@@ -17,16 +17,24 @@ disaggregation_status_by_field: 'Desagregación por %field'
 not_specified: No se especifica
 reported: Informado
 description: |
-  El informe de seguimiento proporciona una descripción general del progreso en la consecución de los Objetivos de Desarrollo Sostenible (ODS) en la Comunidad Autónoma de Euskadi.
-
-  Para saber más sobre el procedimiento para evaluar el progreso, ver <a href="BASEURL/es/metodologia/">Medición del progreso en los Objetivos de Desarrollo Sostenible</a>.
+  El progreso de los indicadores y las metas de la Agenda 2030 se evalúa de forma continua y el resultado de este seguimiento está accesible en la página correspondiente a cada uno de los 17 Objetivos.
   
-progress_status: <b>Seguimiento</b>
+  En este apartado, resumiendo los resultados de esa evaluación continua, se describe el avance realizado en la consecución de los Objetivos de Desarrollo Sostenible en la Comunidad Autónoma del País Vasco.
+  
+  El apartado "Progreso de objetivos" presenta el grado de progreso de cada uno de los 17 Objetivos de Desarrollo Sostenible, y haciendo clic en la imagen de cada objetivo se pueden ver los datos de avance de las metas y los indicadores del objetivo.
+  
+  El apartado "Progreso de metas" muestra el número de metas, de entre las 169 que componen la Agenda 2030, que se encuentran en los diferentes estados de progreso y, yendo al detalle, permite visualizar los datos por objetivo.
+  
+  El apartado "Progreso de indicadores" muestra el número de indicadores que se encuentran en los diferentes estados de progreso y permite visualizar datos por objetivos, yendo al detalle.
+  
+  Para saber más sobre el procedimiento de evaluación del progreso, ver <a href="BASEURL/es/metodologia/">Medición del progreso en los Objetivos de Desarrollo Sostenible</a>.
+  
+progress_status: <b>Progreso</b>
 progress_not_available: No hay datos
 progress_challenges_remain: Insuficiente
 progress_approaching_target: Moderado
 progress_target_achieved: Objetivo cumplido
-progress_help: ¿Cómo vamos con respecto al objetivo del 2030?
+progress_help: Medición del progreso en los Objetivos de Desarrollo Sostenible
 alcanzado: Meta alcanzada o en vías de alcanzarla
 en_progreso: Progreso razonable, pero es necesario acelerarlo
 retroceso: Estancamiento o retroceso
@@ -56,5 +64,5 @@ moderate_deterioration_con_target: Progreso insuficiente para alcanzar la meta
 significant_deterioration_sin_target: Retroceso significativo
 significant_deterioration_mixto: Retroceso significativo / Retroceso con respecto a la meta
 significant_deterioration_con_target: Retroceso con respecto a la meta
-download_progress_csv: Descargar datos del informe de seguimiento (.csv)
-print_page: Imprimir informe de seguimiento
+download_progress_csv: Descargar datos de estadísticas de progreso (.csv)
+print_page: Imprimir estadísticas de progreso
