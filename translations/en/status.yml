@@ -67,3 +67,9 @@ significant_deterioration_mixto: Significant regression / Movement away from tar
 significant_deterioration_con_target: Movement away from target
 download_progress_csv: Download progress statistics data (.csv)
 print_page: Print progress statistics
+# Labels for the per-goal progress report (progrestatus-objetivos)
+view_goal: View goal
+goals_report: Goals reporting status
+indicators_report: Indicators reporting status
+targets_report: Targets reporting status
+detail_by_goal: Detail by goal

@@ -66,3 +66,9 @@ significant_deterioration_mixto: Retroceso significativo / Retroceso con respect
 significant_deterioration_con_target: Retroceso con respecto a la meta
 download_progress_csv: Descargar datos de estadísticas de progreso (.csv)
 print_page: Imprimir estadísticas de progreso
+# Etiquetas del informe de progreso por objetivo (progrestatus-objetivos)
+view_goal: Ver objetivo
+goals_report: Informe de objetivos
+indicators_report: Informe de indicadores
+targets_report: Informe de metas
+detail_by_goal: Detalle por objetivo
