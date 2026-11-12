@@ -72,9 +72,31 @@ jobs:
     # Solo actualizar deploy-to-staging (para que llame al site de PRE)
     # NO tocar deploy-to-production (apunta a eustat/sdg-data-prod)
     # ---------------------------------------------------------------
+    # La plantilla vive en DES con `on: workflow_dispatch` para que NO se
+    # ejecute automaticamente en DES/data. Al copiarla a PRE reescribimos la
+    # cabecera para que en PRE se dispare con push a develop.
     - name: Sync deploy-to-staging.yml for PRE/data
-      run: cp des-data/.github/workflows/pre-data-deploy-to-staging.yml \
-              pre-data/.github/workflows/deploy-to-staging.yml
+      run: |
+        python - <<'PY'
+        src = "des-data/.github/workflows/pre-data-deploy-to-staging.yml"
+        dst = "pre-data/.github/workflows/deploy-to-staging.yml"
+        with open(src, encoding="utf-8") as f:
+            lines = f.readlines()
+        # Eliminar el bloque de comentarios de cabecera (lineas que empiezan por #)
+        i = 0
+        while i < len(lines) and (lines[i].lstrip().startswith("#") or lines[i].strip() == ""):
+            i += 1
+        body = "".join(lines[i:])
+        # Reemplazar name y trigger por los de PRE
+        import re
+        body = re.sub(r'(?m)^name:.*$', 'name: Deploy to staging', body, count=1)
+        body = re.sub(r'(?ms)^on:\s*\n\s*workflow_dispatch:\s*\n',
+                      'on:\n  push:\n    branches:\n      - develop\n', body, count=1)
+        with open(dst, "w", encoding="utf-8") as f:
+            f.write(body)
+        print("deploy-to-staging.yml generado para PRE:")
+        print(body[:200])
+        PY
 
     # ---------------------------------------------------------------
     # Commit y push a PRE/data develop

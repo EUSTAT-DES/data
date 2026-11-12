@@ -1,20 +1,24 @@
 # ****************************************************************************
 # Plantilla del deploy-to-staging.yml para EUSTAT-PRE/data.
 #
-# Este fichero NO se ejecuta en DES/data. El workflow deploy-to-pre.yml lo
-# copia a EUSTAT-PRE/data como .github/workflows/deploy-to-staging.yml.
+# Este fichero NO debe ejecutarse en DES/data: es solo una plantilla que el
+# workflow deploy-to-pre.yml copia a EUSTAT-PRE/data como
+# .github/workflows/deploy-to-staging.yml. Al copiarla, deploy-to-pre.yml
+# reescribe el trigger a `on: push: [develop]` para que en PRE sí se dispare
+# al recibir el sync de codigo.
+#
+# Por eso aqui el trigger es workflow_dispatch (manual): asi existe como
+# fichero-plantilla pero NO corre automaticamente en cada push a DES/data.
 #
 # Diferencias respecto al deploy-to-staging.yml de DES:
 #   - El rebuild final apunta al site de PRE (EUSTAT-PRE/site).
 #   - No incluye el step "Trigger code sync to PRE" (evita un bucle de sync).
 # ****************************************************************************
 
-name: Deploy to staging
+name: Deploy to staging (PRE template - do not run in DES)
 
 on:
-  push:
-    branches:
-      - develop
+  workflow_dispatch:
 
 permissions:
   contents: write
