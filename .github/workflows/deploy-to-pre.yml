@@ -1,0 +1,97 @@
+name: Sync code to PRE
+
+# Se lanza automáticamente al final del deploy-to-staging de DES/data,
+# o manualmente desde Actions.
+on:
+  workflow_dispatch:
+
+jobs:
+  sync-code-to-pre:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout DES/data (fuente de código)
+      uses: actions/checkout@v3
+      with:
+        path: des-data
+
+    - name: Checkout PRE/data (destino — preservar datos)
+      uses: actions/checkout@v3
+      with:
+        repository: EUSTAT-PRE/data
+        token: ${{ secrets.PAT_DEPLOY_PRE }}
+        ref: develop
+        path: pre-data
+
+    # ---------------------------------------------------------------
+    # Motor de progreso y configuración
+    # ---------------------------------------------------------------
+    - name: Sync scripts/build_data.py
+      run: cp des-data/scripts/build_data.py pre-data/scripts/build_data.py
+
+    - name: Sync scripts/requirements.txt
+      run: cp des-data/scripts/requirements.txt pre-data/scripts/requirements.txt
+
+    - name: Sync config_data.yml
+      run: cp des-data/config_data.yml pre-data/config_data.yml
+
+    - name: Sync metadata_schema.yml
+      run: cp des-data/metadata_schema.yml pre-data/metadata_schema.yml
+
+    # ---------------------------------------------------------------
+    # Traducciones de código (UI strings, estados, nombres de campos)
+    # Se PRESERVAN en PRE: GRAFICO, data, FUENTE, indicador_largo,
+    # meta_largo, objetivo_largo, frontpage (contenido editorial)
+    # ---------------------------------------------------------------
+    - name: Sync translations - status.yml (3 idiomas)
+      run: |
+        cp des-data/translations/es/status.yml  pre-data/translations/es/status.yml
+        cp des-data/translations/eu/status.yml  pre-data/translations/eu/status.yml
+        cp des-data/translations/en/status.yml  pre-data/translations/en/status.yml
+
+    - name: Sync translations - global_goals / global_targets / global_indicators
+      run: |
+        for lang in es eu en; do
+          for file in global_goals global_targets global_indicators; do
+            [ -f des-data/translations/$lang/$file.yml ] && \
+              cp des-data/translations/$lang/$file.yml pre-data/translations/$lang/$file.yml
+          done
+        done
+
+    - name: Sync translations - UI strings (indicator, menu, general, header, footer, search, languages, goal, metadata_fields, post, cookies, calendar)
+      run: |
+        for lang in es eu en; do
+          for file in indicator menu general header footer search languages goal metadata_fields post cookies calendar; do
+            [ -f des-data/translations/$lang/$file.yml ] && \
+              cp des-data/translations/$lang/$file.yml pre-data/translations/$lang/$file.yml
+          done
+        done
+
+    # ---------------------------------------------------------------
+    # Workflows de CI de PRE/data
+    # Solo actualizar deploy-to-staging (para que llame al site de PRE)
+    # NO tocar deploy-to-production (apunta a eustat/sdg-data-prod)
+    # ---------------------------------------------------------------
+    - name: Sync deploy-to-staging.yml for PRE/data
+      run: cp des-data/.github/workflows/pre-data-deploy-to-staging.yml \
+              pre-data/.github/workflows/deploy-to-staging.yml
+
+    # ---------------------------------------------------------------
+    # Commit y push a PRE/data develop
+    # ---------------------------------------------------------------
+    - name: Commit and push to PRE/data
+      run: |
+        cd pre-data
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+        git add -A
+        if git diff --cached --quiet; then
+          echo "No hay cambios de código que sincronizar en PRE/data"
+        else
+          git commit -m "chore(sync): update code from EUSTAT-DES develop"
+          git push origin develop
+        fi
+
+    # El push a develop de PRE/data dispara su deploy-to-staging.yml,
+    # que construye los datos con los CSVs/meta/indicator-config de PRE
+    # usando el motor de progreso actualizado de DES.
